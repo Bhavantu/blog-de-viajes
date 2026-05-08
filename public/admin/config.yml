@@ -1,0 +1,20 @@
+backend:
+  name: git-gateway
+  branch: main # Cambia a 'master' si tu rama principal en Git se llama así
+
+# Aquí es donde el CMS guardará las fotos nuevas que suban
+media_folder: "public/img/diario" 
+public_folder: "/img/diario"
+
+collections:
+  - name: "diario"
+    label: "Diario de Viaje"
+    # Esta es la carpeta secreta donde Astro leerá los textos
+    folder: "src/pages/diario" 
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Título", name: "title", widget: "string"}
+      - {label: "Fecha", name: "date", widget: "datetime", format: "DD MMMM YYYY", date_format: "DD MMMM YYYY", time_format: false}
+      - {label: "Imagen de Portada", name: "main_image", widget: "image", required: false}
+      - {label: "Cuerpo del Artículo", name: "body", widget: "markdown"}

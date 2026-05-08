@@ -1,0 +1,31 @@
+---
+// Aquí le decimos a Astro que este layout va a recibir una propiedad llamada "title"
+interface Props {
+	title: string;
+}
+
+const { title } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>{title}</title>
+	</head>
+	<body>
+		<slot />
+	</body>
+</html>
+
+<style is:global>
+	/* Puedes poner estilos globales aquí en el futuro, pero por ahora están todos en el index */
+	body {
+		margin: 0;
+		padding: 0;
+	}
+	body.no-scroll { 
+		overflow: hidden; 
+	}
+</style>
