@@ -6,7 +6,7 @@ main_image: /img/diario/whatsapp-image-2026-05-08-at-23.14.31.jpeg
 ---
 Era viernes de una mañana de mayo en la ciudad de Chrischurch, se sentía frío en el aire y fuera comenzaba a brillar el sol. Ya hacía 6 meses y algunos días que había comenzado esta aventura muy lejos de casa. Las ganas de conocer y el deseo de vivir alimentaron mis ganas de salir a recorrer el mundo. Nueva Zealanda ha sido hogar en los últimos 6 meses, y aunque se siente más familiar, aún todo es bastante ajeno.
 
-Elegí Christchurch por ser una ciudad amable, con gente tranquila. Una bella alquimia entre gente local aquí nacida y muchos otros que como yo la han elegido para vivir un rato; encantados por la belleza de sus árboles, sus paisajes montañosos y el aura de una ciudad que se reconstruye y se reneuva con su propia comunidad. 
+Elegí Christchurch por ser una ciudad amable, con gente tranquila. Una bella alquimia entre gente local aquí nacida y muchos otros que como yo la han elegido para vivir un rato; encantados por la belleza de sus árboles, sus paisajes montañosos y el aura de una ciudad que se reconstruye y se renueva con su propia comunidad. 
 
 Es la ciudad más grande de la Isla Sur, mezcla de cultura Kiwi, Maorí e Inglesa aún presente mediante la Commonwealth en este territorio. Sin embargo, lo que termina de darle vida a este rincón del mundo es su multiculturalidad. Como en el resto del país, Christchurch se nutre de una energía renovada por gente de todas partes: desde las raíces profundas de las Islas Fiji y Samoa, hasta la calidez de Filipinas, pasando también por diversos rincones de Asia y el mundo. Esa fusión de tradiciones, sabores y lenguas ya es parte del nuevo folklore local, transformando lo ajeno en algo vibrante y compartido.
 
