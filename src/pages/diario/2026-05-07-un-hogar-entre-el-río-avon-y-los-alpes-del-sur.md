@@ -11,6 +11,8 @@ Elegí Christchurch por ser una ciudad amable, con gente tranquila. Una bella al
 Es la ciudad más grande de la Isla Sur, mezcla de cultura Kiwi, Maorí e Inglesa aún presente mediante la Commonwealth en este territorio. Sin embargo, lo que termina de darle vida a este rincón del mundo es su multiculturalidad. Como en el resto del país, Christchurch se nutre de una energía renovada por gente de todas partes: desde las raíces profundas de las Islas Fiji y Samoa, hasta la calidez de Filipinas, pasando también por diversos rincones de Asia y el mundo. Esa fusión de tradiciones, sabores y lenguas ya es parte del nuevo folklore local, transformando lo ajeno en algo vibrante y compartido.
 
 ![](/img/diario/whatsapp-image-2026-05-08-at-23.14.31-1-.jpeg)
+![](/img/diario/whatsapp-image-2026-05-08-at-23.14.31-1-.jpeg)
+![](/img/diario/whatsapp-image-2026-05-08-at-23.14.31-1-.jpeg)
 
 > **El Hagley Park con su jardín botánico y sus senderos infinitos me había convencido de habitar esta ciudad con encanto; el Avon River - Ōtākaro cruzando la ciudad me invitaba a pasear por las diminutas callecitas del colorido CBD, turístico, alegre, cultural y fusionado, lleno de experiencias culinarias, trencitos turísticos y tiendas de todo tipo.** 
 
