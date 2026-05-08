@@ -1,0 +1,40 @@
+---
+import Layout from './Layout.astro';
+const { frontmatter } = Astro.props;
+---
+<Layout title={frontmatter.title}>
+    <header>
+        <h1><a href="/">MORSEROS</a></h1>
+        <nav>
+            <ul>
+                <li><a href="/">Galería</a></li>
+                <li><a href="/diario" class="active-link">Diario</a></li>
+                <li><a href="/#sobre-mi">Sobre mí</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="container">
+        <article class="article-view" style="display: block;">
+            <header class="article-header reveal visible">
+                <span class="journal-date">
+                    {new Date(frontmatter.date).toLocaleDateString('es-ES', { day: '2-digit', month: 'long', year: 'numeric' }).toUpperCase()}
+                </span>
+                <h1 class="article-title-main">{frontmatter.title}</h1>
+            </header>
+
+            {frontmatter.main_image && (
+                <img src={frontmatter.main_image} class="img-full-width reveal visible" alt={frontmatter.title} />
+            )}
+
+            <div class="text-column reveal visible">
+                <slot /> 
+                {/* Aquí es donde Astro inyecta el texto que escribiste en el CMS */}
+            </div>
+        </article>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 MORSEROS.</p>
+    </footer>
+</Layout>

@@ -1,8 +1,9 @@
 ---
-title: "Entre el río Avon y los Alpes del Sur: 6 meses viviendo en Ōtautahi."
-date: 08 May 2026
+title: "Entre el río Avon y los Alpes del Sur..."
+date: 2026-05-08
+main_image: /img/tu-foto.jpg
+layout: ../../layouts/BlogPostLayout.astro
 ---
-
 
 Es viernes 8 de mayo, se sentía frío en el aire y afortunadamente fuera comenzaba a brillar el sol en la ciudad de Christchurch. Ya hacía 6 meses y algunos días que había comenzado esta aventura muy lejos de casa. Las ganas de conocer y el deseo alimentaron mis ganas de salir a recorrer el mundo. New Zealand había sido mi casa en estos últimos 6 meses, y aunque se sentía más familiar, aún todo era bastante ajeno.
 
