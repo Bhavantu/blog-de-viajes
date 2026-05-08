@@ -1,85 +1,140 @@
 ---
 interface Props {
-	title: string;
+    title: string;
 }
 const { title } = Astro.props;
 ---
 <!doctype html>
 <html lang="es">
-	<head>
-		<meta charset="UTF-8" />
-		<meta name="description" content="Morseros - Bitácora de viaje" />
-		<meta name="viewport" content="width=device-width" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<title>{title}</title>
-		<script is:inline src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-	</head>
-	<body>
-		<slot />
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="description" content="Morseros - Bitácora de viaje" />
+        <meta name="viewport" content="width=device-width" />
+        <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+        <title>{title}</title>
+        <script is:inline src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    </head>
+    <body>
+        <slot />
 
-		<style is:global>
-			:root {
-				--bg-color: #fcfcfc;
-				--text-color: #333;
-				--accent-color: #888;
-				--font-main: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-				--font-display: 'Georgia', serif;
-			}
-			* { margin: 0; padding: 0; box-sizing: border-box; }
-			body {
-				font-family: var(--font-main);
-				background-color: var(--bg-color);
-				color: var(--text-color);
-				line-height: 1.6;
-			}
-			a { text-decoration: none; color: inherit; transition: opacity 0.3s; }
-			header { padding: 4rem 2rem 2rem; text-align: center; }
-			h1 { font-family: var(--font-display); font-size: 2.5rem; letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 1rem; font-weight: normal; }
-			nav ul { list-style: none; display: flex; justify-content: center; gap: 2rem; font-size: 0.9rem; }
-			nav a { color: var(--accent-color); position: relative; }
-			nav a:hover, nav a.active-link { color: var(--text-color); }
-			nav a::after { content: ''; position: absolute; width: 0; height: 1px; bottom: -5px; left: 0; background-color: var(--text-color); transition: width 0.3s; }
-			nav a.active-link::after { width: 100%; }
-			.container { max-width: 1000px; margin: 0 auto; padding: 2rem 2rem 6rem 2rem; min-height: 60vh; }
-			.section-content { display: none; }
-			.section-content.active-section { display: block; }
-			.photo-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 4rem 2rem; }
-			.image-wrapper { width: 100%; height: 400px; overflow: hidden; background-color: #eee; }
-			.image-wrapper img { width: 100%; height: 100%; object-fit: cover; }
-			.journal-entry { max-width: 700px; margin: 0 auto 5rem auto; border-bottom: 1px solid #eee; padding-bottom: 3rem; }
-			.journal-date { font-size: 0.75rem; color: var(--accent-color); letter-spacing: 0.1em; display: block; margin-bottom: 0.5rem; }
-			.journal-title { font-family: var(--font-display); font-size: 1.8rem; margin-bottom: 1rem; font-weight: normal; }
-			.journal-body { font-size: 1.05rem; color: #555; margin-bottom: 1.5rem; }
-			.read-more { font-size: 0.8rem; text-transform: uppercase; border-bottom: 1px solid var(--text-color); padding-bottom: 2px; cursor: pointer; }
-			.about-layout { display: grid; grid-template-columns: 1fr 1fr; gap: 4rem; }
-			.about-img { width: 100%; height: 500px; object-fit: cover; filter: grayscale(100%); }
-			footer { padding: 4rem; text-align: center; font-size: 0.8rem; color: var(--accent-color); }
-			.reveal { opacity: 0; transform: translateY(20px); transition: all 0.8s ease-out; }
-			.reveal.visible { opacity: 1; transform: translateY(0); }
-			/* Estilos específicos para la lectura de artículos */
-			.article-header { text-align: center; margin-bottom: 3rem; }
-			.article-title-main { font-family: var(--font-display); font-size: 2.5rem; line-height: 1.2; font-weight: normal; margin-top: 1rem; }
-			.text-column { max-width: 680px; margin: 0 auto; font-size: 1.1rem; color: #444; line-height: 1.8; }
-			.text-column p { margin-bottom: 1.5rem; }
-			.text-column h2, .text-column h3 { font-family: var(--font-display); margin: 2rem 0 1rem; font-weight: normal; }
-			.text-column ul, .text-column ol { margin-bottom: 1.5rem; padding-left: 1.5rem; }
-			.img-full-width { width: 100%; height: auto; max-height: 600px; object-fit: cover; margin: 3rem 0; display: block; }
-			
-			.back-btn {
-        display: inline-block;
-        margin-bottom: 2rem;
-        font-size: 0.8rem;
-        text-transform: uppercase;
-        color: var(--accent-color);
-        cursor: pointer;
-        border-bottom: 1px solid transparent;
-    }
-    .back-btn:hover { border-bottom-color: var(--accent-color); color: var(--text-color); }
-    .article-header { text-align: center; margin-bottom: 3rem; }
-    .article-title-main { font-family: var(--font-display); font-size: 2.5rem; line-height: 1.2; font-weight: normal; }
-    .text-column { max-width: 680px; margin: 0 auto; font-size: 1.1rem; color: #444; line-height: 1.8; }
-    .text-column p { margin-bottom: 1.5rem; }
-    .img-full-width { width: 100%; height: auto; max-height: 600px; object-fit: cover; margin: 3rem 0; display: block; }
-		</style>
-	</body>
+        <div id="lightbox">
+            <span class="close-lightbox">&times;</span>
+            <img id="lightbox-img" src="" alt="Imagen ampliada">
+        </div>
+
+        <style is:global>
+            :root {
+                --bg-color: #fcfcfc;
+                --text-color: #333;
+                --accent-color: #888;
+                --font-main: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+                --font-display: 'Georgia', serif;
+            }
+
+            * { margin: 0; padding: 0; box-sizing: border-box; }
+            body { font-family: var(--font-main); background-color: var(--bg-color); color: var(--text-color); line-height: 1.6; }
+            body.no-scroll { overflow: hidden; }
+            a { text-decoration: none; color: inherit; }
+
+            header { padding: 4rem 2rem 2rem; text-align: center; }
+            h1 { font-family: var(--font-display); font-size: 2.5rem; letter-spacing: 0.1em; text-transform: uppercase; font-weight: normal; }
+            nav ul { list-style: none; display: flex; justify-content: center; gap: 2rem; font-size: 0.9rem; }
+            nav a { color: var(--accent-color); position: relative; }
+            nav a:hover, nav a.active-link { color: var(--text-color); }
+            nav a.active-link::after { content: ''; position: absolute; width: 100%; height: 1px; bottom: -5px; left: 0; background-color: var(--text-color); }
+
+            .container { max-width: 1000px; margin: 0 auto; padding: 2rem 2rem 6rem 2rem; }
+
+            /* --- ESTILOS DE LA CARTELERA DEL DIARIO --- */
+            .journal-entry { max-width: 700px; margin: 0 auto 5rem auto; border-bottom: 1px solid #eee; padding-bottom: 3rem; }
+            .journal-date { font-size: 0.75rem; color: var(--accent-color); letter-spacing: 0.1em; display: block; margin-bottom: 0.5rem; }
+            .journal-title { font-family: var(--font-display); font-size: 1.8rem; margin-bottom: 1rem; font-weight: normal; }
+            .journal-body { font-size: 1.05rem; color: #555; margin-bottom: 1.5rem; }
+            .read-more { font-size: 0.8rem; text-transform: uppercase; border-bottom: 1px solid var(--text-color); padding-bottom: 2px; cursor: pointer; }
+
+            /* --- ESTILOS DE LECTURA DE ARTÍCULOS (La Magia) --- */
+            .article-header { text-align: center; margin-bottom: 3rem; }
+            .article-title-main { font-family: var(--font-display); font-size: 2.5rem; line-height: 1.2; font-weight: normal; margin-top: 1rem; }
+            .back-btn { display: inline-block; margin-bottom: 2rem; font-size: 0.8rem; text-transform: uppercase; color: var(--accent-color); cursor: pointer; }
+
+            /* Contenedor del texto Markdown */
+            .text-column { max-width: 680px; margin: 0 auto; font-size: 1.1rem; color: #444; line-height: 1.8; }
+            .text-column p { margin-bottom: 1.5rem; }
+            
+            /* --- COMPORTAMIENTO AUTOMÁTICO DE IMÁGENES --- */
+            
+            /* 1. Imagen por defecto dentro del texto: No es gigante, centrada y clickeable */
+            .text-column img {
+                display: block;
+                max-width: 100%; /* No supera el ancho del texto */
+                height: auto;
+                margin: 2.5rem auto; /* Centrada con aire arriba y abajo */
+                cursor: pointer;
+                transition: transform 0.3s ease;
+            }
+            .text-column img:hover { transform: scale(1.02); }
+
+            /* 2. Grid automático si hay varias imágenes seguidas en Markdown */
+            /* Markdown genera un <p> que envuelve a las imágenes. Si hay varias, quedan juntas. */
+            .text-column p:has(img + img) {
+                display: grid;
+                grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+                gap: 1rem;
+                max-width: 900px; /* Un poco más ancho que el texto */
+                margin: 3rem auto; /* Centrado fuera de la columna de texto principal */
+                transform: translateX(calc(- (900px - 680px) / 2)); /* Truco para centrar el grid ancho */
+            }
+            
+            /* Resetear márgenes de imágenes dentro del grid */
+            .text-column p:has(img + img) img {
+                margin: 0; 
+                width: 100%; height: 100%; 
+                object-fit: cover;
+            }
+
+            /* Fix responsive para el grid ancho */
+            @media (max-width: 940px) {
+                .text-column p:has(img + img) {
+                    max-width: 100%;
+                    transform: none;
+                    margin: 2rem 0;
+                }
+            }
+
+            /* Lightbox */
+            #lightbox { position: fixed; z-index: 1000; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.95); display: flex; justify-content: center; align-items: center; opacity: 0; pointer-events: none; transition: opacity 0.4s; }
+            #lightbox.active { opacity: 1; pointer-events: auto; }
+            #lightbox-img { max-width: 90%; max-height: 90vh; object-fit: contain; }
+            .close-lightbox { position: absolute; top: 20px; right: 30px; font-size: 40px; color: #fff; cursor: pointer; }
+
+            /* Animaciones */
+            .reveal { opacity: 0; transform: translateY(20px); transition: all 0.8s ease-out; }
+            .reveal.visible { opacity: 1; transform: translateY(0); }
+        </style>
+
+        <script is:inline>
+            function initPlugins() {
+                const lightbox = document.getElementById('lightbox');
+                const lightboxImg = document.getElementById('lightbox-img');
+                // Buscamos todas las imágenes clickeables
+                const images = document.querySelectorAll('.text-column img, .photo-grid img');
+
+                images.forEach(img => {
+                    img.onclick = (e) => {
+                        lightboxImg.src = e.target.src;
+                        lightbox.classList.add('active');
+                        document.body.classList.add('no-scroll');
+                    };
+                });
+
+                lightbox.onclick = () => {
+                    lightbox.classList.remove('active');
+                    document.body.classList.remove('no-scroll');
+                };
+            }
+
+            document.addEventListener('DOMContentLoaded', initPlugins);
+            document.addEventListener('astro:after-swap', initPlugins);
+        </script>
+    </body>
 </html>
