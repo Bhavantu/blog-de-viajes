@@ -3,7 +3,7 @@ import Layout from '../layouts/Layout.astro';
 ---
 <Layout title="MORSEROS | En una aventura sin igual">
     <header>
-        <h1 onclick="window.location.href='/'">MORSEROS</h1>
+        <h1 onclick="window.location.href='/'" style="cursor:pointer">MORSEROS</h1>
         <nav>
             <ul>
                 <li><a href="#" onclick="showSection('galeria')" id="nav-galeria" class="active-link">Galería</a></li>
@@ -17,20 +17,41 @@ import Layout from '../layouts/Layout.astro';
         <section id="galeria" class="section-content active-section">
             <div class="photo-grid">
                 <article class="photo-card reveal visible">
-                    <div class="image-wrapper"><img src="/img/Fire and Drums/DSC_0092.JPG" alt="Fire"></div>
+                    <div class="image-wrapper"><img src="/img/Fire and Drums/DSC_0092.JPG" alt="Fire and Drums"></div>
+                    <div class="photo-info"><span class="photo-title">Fire and Drums</span><span>2024</span></div>
+                </article>
+                <article class="photo-card reveal visible delay-100">
+                    <div class="image-wrapper"><img src="/img/lorenita/DSC_0422.JPG" alt="Buenos Aires"></div>
+                    <div class="photo-info"><span class="photo-title">Buenos Aires</span><span>2024</span></div>
                 </article>
                 <article class="photo-card reveal visible">
-                    <div class="image-wrapper"><img src="/img/lorenita/DSC_0422.JPG" alt="Lore"></div>
+                    <div class="image-wrapper"><img src="/img/Reserva/DSC_0375.JPG" alt="Reserva"></div>
+                    <div class="photo-info"><span class="photo-title">Reserva</span><span>2023</span></div>
+                </article>
+                <article class="photo-card reveal visible delay-100">
+                    <div class="image-wrapper"><img src="/img/Paisajes/changsha1.JPG" alt="Changsha"></div>
+                    <div class="photo-info"><span class="photo-title">Changsha</span><span>2023</span></div>
+                </article>
+                <article class="photo-card reveal visible">
+                    <div class="image-wrapper"><img src="/img/Paisajes/dananghands.JPG" alt="Da Nang"></div>
+                    <div class="photo-info"><span class="photo-title">Da Nang</span><span>2022</span></div>
+                </article>
+                <article class="photo-card reveal visible delay-100">
+                    <div class="image-wrapper"><img src="/img/Paisajes/templochina2.JPG" alt="Pekin"></div>
+                    <div class="photo-info"><span class="photo-title">Pekin</span><span>2023</span></div>
                 </article>
             </div>
         </section>
 
         <section id="sobre-mi" class="section-content">
             <div class="about-layout">
-                <div class="reveal visible"><img src="/img/lorenita/DSC_0794.JPG" class="about-img"></div>
-                <div class="about-text reveal visible">
+                <div class="reveal visible">
+                    <img src="/img/lorenita/DSC_0794.JPG" alt="Retrato" class="about-img">
+                </div>
+                <div class="about-text reveal visible delay-100">
                     <h2>Hola soy...</h2>
-                    <p>Abriendo el corazón soltamos el prejuicio... Lore y Santi, enraizados en LATAM.</p>
+                    <p>Abriendo el corazon soltamos el prejucio con una convicción seguimos el delirio. Viajar desde el amor conectando con la vida, los pueblos las estrellas y los soles que nos guian.</p>
+                    <p>Abrazo grande, Lore y Santi, enraizados en LATAM descubriendo el mundo. <br> Vamo arriba! </p>
                 </div>
             </div>
         </section>
@@ -42,8 +63,19 @@ import Layout from '../layouts/Layout.astro';
         function showSection(sectionId) {
             document.querySelectorAll('.section-content').forEach(sec => sec.classList.remove('active-section'));
             document.querySelectorAll('nav a').forEach(link => link.classList.remove('active-link'));
-            document.getElementById(sectionId).classList.add('active-section');
-            document.getElementById('nav-' + sectionId).classList.add('active-link');
+            const target = document.getElementById(sectionId);
+            if (target) {
+                target.classList.add('active-section');
+                document.getElementById('nav-' + sectionId).classList.add('active-link');
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+            }
         }
+
+        // Lógica para detectar si venimos desde el diario con el hash #sobre-mi
+        window.addEventListener('DOMContentLoaded', () => {
+            if (window.location.hash === '#sobre-mi') {
+                showSection('sobre-mi');
+            }
+        });
     </script>
 </Layout>

@@ -64,6 +64,22 @@ const { title } = Astro.props;
 			.text-column h2, .text-column h3 { font-family: var(--font-display); margin: 2rem 0 1rem; font-weight: normal; }
 			.text-column ul, .text-column ol { margin-bottom: 1.5rem; padding-left: 1.5rem; }
 			.img-full-width { width: 100%; height: auto; max-height: 600px; object-fit: cover; margin: 3rem 0; display: block; }
+			
+			.back-btn {
+        display: inline-block;
+        margin-bottom: 2rem;
+        font-size: 0.8rem;
+        text-transform: uppercase;
+        color: var(--accent-color);
+        cursor: pointer;
+        border-bottom: 1px solid transparent;
+    }
+    .back-btn:hover { border-bottom-color: var(--accent-color); color: var(--text-color); }
+    .article-header { text-align: center; margin-bottom: 3rem; }
+    .article-title-main { font-family: var(--font-display); font-size: 2.5rem; line-height: 1.2; font-weight: normal; }
+    .text-column { max-width: 680px; margin: 0 auto; font-size: 1.1rem; color: #444; line-height: 1.8; }
+    .text-column p { margin-bottom: 1.5rem; }
+    .img-full-width { width: 100%; height: auto; max-height: 600px; object-fit: cover; margin: 3rem 0; display: block; }
 		</style>
 	</body>
 </html>
