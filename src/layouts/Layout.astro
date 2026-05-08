@@ -8,7 +8,7 @@ const { title } = Astro.props;
 <html lang="es">
     <head>
         <meta charset="UTF-8" />
-        <meta name="description" content="Morseros - Bitácora de viaje" />
+        <meta name="description" content="Blogcito - Bitácora de viaje" />
         <meta name="viewport" content="width=device-width" />
         <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
         <title>{title}</title>
@@ -19,10 +19,13 @@ const { title } = Astro.props;
 
         <div id="lightbox">
             <span class="close-lightbox">&times;</span>
+            <span class="lightbox-btn prev-btn">&#10094;</span>
+            <span class="lightbox-btn next-btn">&#10095;</span>
             <img id="lightbox-img" src="" alt="Imagen ampliada">
         </div>
 
         <style is:global>
+            /* --- VARIABLES Y BASE --- */
             :root {
                 --bg-color: #fcfcfc;
                 --text-color: #333;
@@ -46,6 +49,7 @@ const { title } = Astro.props;
             body.no-scroll { overflow: hidden; }
             a { text-decoration: none; color: inherit; }
 
+            /* --- HEADER Y MENÚ --- */
             header { padding: 4rem 2rem 2rem; text-align: center; width: 100%; }
             h1 { font-family: var(--font-display); font-size: 2.5rem; letter-spacing: 0.1em; text-transform: uppercase; font-weight: normal; }
             
@@ -59,40 +63,51 @@ const { title } = Astro.props;
                 margin: 0 auto; 
                 padding: 2rem 2rem 6rem 2rem; 
                 width: 100%;
-                flex-grow: 1; /* Esto empuja el footer al fondo si hay poco contenido */
+                flex-grow: 1; 
             }
             .section-content { display: none; }
             .section-content.active-section { display: block; }
 
-            /* --- GALERÍA (Se mantiene el fix de tamaño) --- */
-            .photo-grid { 
-                display: grid; 
-                grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); 
-                gap: 4rem 2rem; 
+            /* --- GALERÍA INDEX --- */
+            .photo-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 4rem 2rem; }
+            .image-wrapper { width: 100%; height: 400px; overflow: hidden; background-color: #eee; }
+            .image-wrapper img { width: 100%; height: 100%; object-fit: cover; display: block; cursor: pointer; }
+            .photo-info { display: flex; justify-content: space-between; font-size: 0.8rem; color: var(--accent-color); margin-top: 0.7rem; }
+
+            /* --- LISTA DEL DIARIO (Corregida) --- */
+            .journal-entry { max-width: 700px; margin: 0 auto 5rem auto; border-bottom: 1px solid #eee; padding-bottom: 3rem; }
+            .journal-date { font-size: 0.75rem; color: var(--accent-color); letter-spacing: 0.1em; display: block; margin-bottom: 0.5rem; }
+            .journal-title { font-family: var(--font-display); font-size: 1.8rem; margin-bottom: 1rem; font-weight: normal; }
+            .journal-body { font-size: 1.05rem; color: #555; margin-bottom: 1.5rem; }
+            .read-more { font-size: 0.8rem; text-transform: uppercase; border-bottom: 1px solid var(--text-color); padding-bottom: 2px; cursor: pointer; }
+
+            /* --- SOBRE MÍ (Contenedor blindado) --- */
+            .about-layout { display: grid; grid-template-columns: 1fr 1fr; gap: 4rem; align-items: start; }
+            .about-img { width: 100%; height: 500px; object-fit: cover; filter: grayscale(100%); transition: filter 0.5s; }
+            .about-img:hover { filter: grayscale(0%); }
+            .about-text h2 { font-family: var(--font-display); font-size: 2rem; margin-bottom: 1.5rem; font-weight: normal; }
+
+            /* --- LECTURA DE ARTÍCULOS --- */
+            .article-header { text-align: center; margin-bottom: 3rem; }
+            .article-title-main { font-family: var(--font-display); font-size: 2.5rem; line-height: 1.2; font-weight: normal; margin-top: 1rem; }
+            .back-btn { display: inline-block; margin-bottom: 2rem; font-size: 0.8rem; text-transform: uppercase; color: var(--accent-color); }
+            .text-column { max-width: 680px; margin: 0 auto; font-size: 1.1rem; color: #444; line-height: 1.8; }
+            .text-column p { margin-bottom: 1.5rem; }
+
+            /* IMAGEN DE PORTADA (Banner Horizontal) */
+            .post-banner {
+                max-width: 1000px; /* Más ancho que el texto */
+                margin: 0 auto 3rem auto;
+                width: 100%;
             }
-            .image-wrapper { 
-                width: 100%; 
-                height: 400px; 
-                overflow: hidden; 
-                background-color: #eee; 
-            }
-            .image-wrapper img { 
-                width: 100%; 
-                height: 100%; 
-                object-fit: cover; 
+            .post-banner img {
+                width: 100%;
+                height: 450px; /* Alto fijo de banner */
+                object-fit: cover; /* Recorta sin deformar */
                 display: block;
-                cursor: pointer;
-            }
-            .photo-info { 
-                display: flex; 
-                justify-content: space-between; 
-                font-size: 0.8rem; 
-                color: var(--accent-color); 
-                margin-top: 0.7rem;
             }
 
-            /* --- ARTÍCULOS --- */
-            .text-column { max-width: 680px; margin: 0 auto; font-size: 1.1rem; color: #444; }
+            /* IMÁGENES DENTRO DEL TEXTO */
             .text-column img { 
                 display: block;
                 max-width: 100%; 
@@ -100,52 +115,109 @@ const { title } = Astro.props;
                 margin: 2.5rem auto; 
                 cursor: pointer;
             }
-            .article-header { text-align: center; margin-bottom: 3rem; }
-            .article-title-main { font-family: var(--font-display); font-size: 2.5rem; line-height: 1.2; font-weight: normal; }
-            .back-btn { display: inline-block; margin-bottom: 2rem; font-size: 0.8rem; text-transform: uppercase; color: var(--accent-color); }
 
-            /* --- FOOTER (Arreglo de posición) --- */
-            footer { 
+            /* GRID AUTOMÁTICO EN MARKDOWN (Para fotos juntas) */
+            .text-column p:has(img:nth-of-type(2)) {
+                display: grid;
+                grid-template-columns: 1fr 1fr; /* Dos columnas por defecto */
+                gap: 1rem;
+                margin: 3rem 0;
+            }
+            @media (min-width: 950px) {
+                /* Si hay espacio, hacemos el grid más ancho que el texto */
+                .text-column p:has(img:nth-of-type(2)) {
+                    width: 900px;
+                    margin-left: -110px; /* (900 - 680)/2 */
+                }
+            }
+            .text-column p:has(img:nth-of-type(2)) img {
+                margin: 0;
                 width: 100%;
-                text-align: center; 
-                padding: 4rem 2rem; 
-                font-size: 0.8rem; 
-                color: var(--accent-color); 
-                margin-top: auto; /* Se asegura de estar siempre al final */
-                clear: both;
+                height: 350px;
+                object-fit: cover;
             }
 
-            /* Lightbox */
+            /* CITAS EDITORIALES (Pull-Quotes) */
+            .text-column blockquote {
+                border-left: 4px solid var(--accent-color);
+                padding: 1rem 0 1rem 1.5rem;
+                margin: 3rem 0;
+                font-family: var(--font-display);
+                font-size: 1.4rem;
+                color: var(--text-color);
+                font-style: italic;
+                background-color: #f7f7f7;
+            }
+            .text-column blockquote p { margin-bottom: 0; }
+
+            /* --- FOOTER Y LIGHTBOX --- */
+            footer { width: 100%; text-align: center; padding: 4rem 2rem; font-size: 0.8rem; color: var(--accent-color); margin-top: auto; clear: both; }
+
             #lightbox { position: fixed; z-index: 1000; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.95); display: flex; justify-content: center; align-items: center; opacity: 0; pointer-events: none; transition: opacity 0.4s; }
             #lightbox.active { opacity: 1; pointer-events: auto; }
-            #lightbox-img { max-width: 90%; max-height: 90vh; object-fit: contain; }
-            .close-lightbox { position: absolute; top: 20px; right: 30px; font-size: 40px; color: #fff; cursor: pointer; }
+            #lightbox-img { max-width: 85%; max-height: 85vh; object-fit: contain; }
+            
+            .close-lightbox { position: absolute; top: 20px; right: 30px; font-size: 40px; color: #fff; cursor: pointer; z-index: 1001; }
+            .lightbox-btn { position: absolute; top: 50%; transform: translateY(-50%); font-size: 3rem; color: #fff; cursor: pointer; user-select: none; padding: 1rem; z-index: 1001; opacity: 0.6; transition: opacity 0.3s; }
+            .lightbox-btn:hover { opacity: 1; }
+            .prev-btn { left: 10px; }
+            .next-btn { right: 10px; }
 
-            /* Animaciones */
             .reveal { opacity: 0; transform: translateY(20px); transition: all 0.8s ease-out; }
             .reveal.visible { opacity: 1; transform: translateY(0); }
         </style>
 
         <script is:inline>
+            let currentImgIndex = 0;
+            let imagesArray = [];
+
             function initPlugins() {
                 const lightbox = document.getElementById('lightbox');
                 const lightboxImg = document.getElementById('lightbox-img');
-                const images = document.querySelectorAll('img');
-
-                images.forEach(img => {
+                // Buscamos todas las imágenes menos la del propio lightbox
+                const domImages = document.querySelectorAll('img:not(#lightbox-img)');
+                
+                // Limpiamos el array para que no se dupliquen al navegar
+                imagesArray = [];
+                
+                domImages.forEach((img, index) => {
+                    imagesArray.push(img.src);
                     img.onclick = (e) => {
-                        if (e.target.id === 'lightbox-img') return;
-                        lightboxImg.src = e.target.src;
+                        currentImgIndex = index;
+                        updateLightbox();
                         lightbox.classList.add('active');
                         document.body.classList.add('no-scroll');
                     };
                 });
 
-                lightbox.onclick = () => {
-                    lightbox.classList.remove('active');
-                    document.body.classList.remove('no-scroll');
+                function updateLightbox() {
+                    if(imagesArray.length > 0) {
+                        lightboxImg.src = imagesArray[currentImgIndex];
+                    }
+                }
+
+                // Navegación
+                document.querySelector('.next-btn').onclick = (e) => {
+                    e.stopPropagation(); // Evita que se cierre el lightbox
+                    currentImgIndex = (currentImgIndex + 1) % imagesArray.length;
+                    updateLightbox();
+                };
+
+                document.querySelector('.prev-btn').onclick = (e) => {
+                    e.stopPropagation();
+                    currentImgIndex = (currentImgIndex - 1 + imagesArray.length) % imagesArray.length;
+                    updateLightbox();
+                };
+
+                // Cierre
+                lightbox.onclick = (e) => {
+                    if (e.target.id === 'lightbox' || e.target.classList.contains('close-lightbox')) {
+                        lightbox.classList.remove('active');
+                        document.body.classList.remove('no-scroll');
+                    }
                 };
             }
+
             document.addEventListener('DOMContentLoaded', initPlugins);
             document.addEventListener('astro:after-swap', initPlugins);
         </script>

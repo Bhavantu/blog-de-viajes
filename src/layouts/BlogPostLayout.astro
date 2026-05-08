@@ -2,22 +2,25 @@
 import Layout from './Layout.astro';
 const { frontmatter } = Astro.props;
 ---
-<Layout title={frontmatter.title}>
+<Layout title={`${frontmatter.title} | BLOGCITO`}>
     <main class="container">
         <article class="article-view" style="display: block;">
             <a href="/diario" class="back-btn">← Volver al diario</a>
             
             <header class="article-header reveal visible">
-                <span class="article-meta">
+                <span class="journal-date">
                     {new Date(frontmatter.date).toLocaleDateString('es-ES', { day: '2-digit', month: 'long', year: 'numeric' }).toUpperCase()} 
                 </span>
                 <h1 class="article-title-main">{frontmatter.title}</h1>
             </header>
 
-            <div class="text-column reveal visible">
-                {frontmatter.main_image && (
+            {frontmatter.main_image && (
+                <div class="post-banner reveal visible">
                     <img src={frontmatter.main_image} alt={frontmatter.title} />
-                )}
+                </div>
+            )}
+
+            <div class="text-column reveal visible">
                 <slot />
             </div>
         </article>
