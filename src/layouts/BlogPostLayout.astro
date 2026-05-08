@@ -10,22 +10,20 @@ const { frontmatter } = Astro.props;
             <header class="article-header reveal visible">
                 <span class="article-meta">
                     {new Date(frontmatter.date).toLocaleDateString('es-ES', { day: '2-digit', month: 'long', year: 'numeric' }).toUpperCase()} 
-                    {frontmatter.category ? `| ${frontmatter.category.toUpperCase()}` : ''}
                 </span>
                 <h1 class="article-title-main">{frontmatter.title}</h1>
             </header>
 
-            {frontmatter.main_image && (
-                <img src={frontmatter.main_image} class="img-full-width reveal visible" alt={frontmatter.title} />
-            )}
-
             <div class="text-column reveal visible">
+                {frontmatter.main_image && (
+                    <img src={frontmatter.main_image} alt={frontmatter.title} />
+                )}
                 <slot />
             </div>
         </article>
     </main>
 
     <footer>
-        <p>&copy; 2026 MORSEROS.</p>
+        <p>&copy; 2026 BLOGCITO.</p>
     </footer>
 </Layout>
