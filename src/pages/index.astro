@@ -1,10 +1,9 @@
 ---
 import Layout from '../layouts/Layout.astro';
 ---
-
 <Layout title="MORSEROS | En una aventura sin igual">
     <header>
-        <h1 onclick="showSection('galeria')">MORSEROS</h1>
+        <h1 onclick="window.location.href='/'">MORSEROS</h1>
         <nav>
             <ul>
                 <li><a href="#" onclick="showSection('galeria')" id="nav-galeria" class="active-link">Galería</a></li>
@@ -17,224 +16,34 @@ import Layout from '../layouts/Layout.astro';
     <main class="container">
         <section id="galeria" class="section-content active-section">
             <div class="photo-grid">
-                <article class="photo-card reveal">
-                    <div class="image-wrapper"><img src="/img/Fire and Drums/DSC_0092.JPG" alt="Fire and Drums"></div>
-                    <div class="photo-info"><span class="photo-title">Fire and Drums</span><span>2024</span></div>
+                <article class="photo-card reveal visible">
+                    <div class="image-wrapper"><img src="/img/Fire and Drums/DSC_0092.JPG" alt="Fire"></div>
                 </article>
-                <article class="photo-card reveal delay-100">
-                    <div class="image-wrapper"><img src="/img/lorenita/DSC_0422.JPG" alt="Buenos Aires"></div>
-                    <div class="photo-info"><span class="photo-title">Buenos Aires</span><span>2024</span></div>
+                <article class="photo-card reveal visible">
+                    <div class="image-wrapper"><img src="/img/lorenita/DSC_0422.JPG" alt="Lore"></div>
                 </article>
-                <article class="photo-card reveal">
-                    <div class="image-wrapper"><img src="/img/Reserva/DSC_0375.JPG" alt="Reserva"></div>
-                    <div class="photo-info"><span class="photo-title">Reserva</span><span>2023</span></div>
-                </article>
-                <article class="photo-card reveal delay-100">
-                    <div class="image-wrapper"><img src="/img/Paisajes/changsha1.JPG" alt="Changsha"></div>
-                    <div class="photo-info"><span class="photo-title">Changsha</span><span>2023</span></div>
-                </article>
-                <article class="photo-card reveal">
-                    <div class="image-wrapper"><img src="/img/Paisajes/dananghands.JPG" alt="Da Nang"></div>
-                    <div class="photo-info"><span class="photo-title">Da Nang</span><span>2022</span></div>
-                </article>
-                <article class="photo-card reveal delay-100">
-                    <div class="image-wrapper"><img src="/img/Paisajes/templochina2.JPG" alt="Pekin"></div>
-                    <div class="photo-info"><span class="photo-title">Pekin</span><span>2023</span></div>
-                </article>
-            </div>
-        </section>
-
-        <section id="diario" class="section-content">
-            <div id="journal-list">
-                <article class="journal-entry reveal">
-                    <span class="journal-date">28 ABRIL 2026</span>
-                    <h3 class="journal-title">Auckland: Primer encuentro</h3>
-                    <p class="journal-body">El país de la larga nube blanca nos recibe. Volcanes dormidos, historia Maorí y una infinidad de culturas en nuestra primera parada.</p>
-                    <a class="read-more" onclick="openArticle('post-1')">Leer reflexión</a>
-                </article>
-
-                <article class="journal-entry reveal">
-                    <span class="journal-date">02 SEPTIEMBRE 2024</span>
-                    <h3 class="journal-title">Analógico en un mundo digital</h3>
-                    <p class="journal-body">Volver a disparar con rollo de 35mm me ha enseñado disciplina. Solo tienes 36 oportunidades. Una serie sobre la paciencia en las calles de Tokio.</p>
-                    <a class="read-more" onclick="openArticle('post-2')">Ver serie completa</a>
-                </article>
-            </div>
-
-            <div id="post-1" class="article-view">
-                <span class="back-btn" onclick="closeArticle()">← Volver al diario</span>
-                <header class="article-header reveal">
-                    <span class="article-meta">28 ABRIL 2026 | VIAJES</span>
-                    <h1 class="article-title-main">Auckland: Primer encuentro con el país de la larga nube blanca</h1>
-                </header>
-                <div class="text-column reveal delay-100">
-                    <p>Con la risa suave y el cerrazón abierto emprendimos rumbo a nuestros sueños, abrazamos fuerte a nuestra gente querida preparados para volar a 10.000km de casa.</p>
-                    <img src="/img/lorenita/DSC_0899.JPG" class="img-full-width" alt="Auckland">
-                    <p>Un país con casi 5 millones de personas nos recibía con su gente amable y serena en la ciudad de Auckland...</p>
-                </div>
-            </div>
-
-            <div id="post-2" class="article-view">
-                <span class="back-btn" onclick="closeArticle()">← Volver al diario</span>
-                <header class="article-header reveal">
-                    <span class="article-meta">02 SEPTIEMBRE 2024 | SERIE</span>
-                    <h1 class="article-title-main">Título: Reserva</h1>
-                </header>
-                <img src="/img/Reserva/DSC_0375.JPG" class="img-full-width reveal" alt="Reserva">
-                <div class="series-grid reveal delay-100">
-                    <img src="/img/Reserva/DSC_0144.JPG" alt="Serie 1">
-                    <img src="/img/Reserva/DSC_0157.JPG" alt="Serie 2">
-                </div>
             </div>
         </section>
 
         <section id="sobre-mi" class="section-content">
             <div class="about-layout">
-                <div class="reveal">
-                    <img src="/img/lorenita/DSC_0794.JPG" alt="Retrato" class="about-img">
-                </div>
-                <div class="about-text reveal delay-100">
+                <div class="reveal visible"><img src="/img/lorenita/DSC_0794.JPG" class="about-img"></div>
+                <div class="about-text reveal visible">
                     <h2>Hola soy...</h2>
-                    <p>Abriendo el corazon soltamos el prejucio con una convicción seguimos el delirio. Viajar desde el amor conectando con la vida, los pueblos las estrellas y los soles que nos guian.</p>
-                    <p>Abrazo grande, Lore y Santi, enraizados en LATAM descubriendo el mundo. <br> Vamo arriba! </p>
+                    <p>Abriendo el corazón soltamos el prejuicio... Lore y Santi, enraizados en LATAM.</p>
                 </div>
             </div>
         </section>
     </main>
 
-    <footer>
-        <p>&copy; 2026 MORSEROS.</p>
-    </footer>
+    <footer><p>&copy; 2026 MORSEROS.</p></footer>
 
-    <div id="lightbox">
-        <span class="close-lightbox">&times;</span>
-        <img id="lightbox-img" src="" alt="Ampliada">
-    </div>
+    <script is:inline>
+        function showSection(sectionId) {
+            document.querySelectorAll('.section-content').forEach(sec => sec.classList.remove('active-section'));
+            document.querySelectorAll('nav a').forEach(link => link.classList.remove('active-link'));
+            document.getElementById(sectionId).classList.add('active-section');
+            document.getElementById('nav-' + sectionId).classList.add('active-link');
+        }
+    </script>
 </Layout>
-
-<style is:global>
-    /* --- ESTILOS ORIGINALES COMPLETOS --- */
-    :root {
-        --bg-color: #fcfcfc;
-        --text-color: #333;
-        --accent-color: #888;
-        --font-main: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-        --font-display: 'Georgia', serif;
-        --transition-speed: 0.8s;
-    }
-
-    * { margin: 0; padding: 0; box-sizing: border-box; }
-
-    body {
-        font-family: var(--font-main);
-        background-color: var(--bg-color);
-        color: var(--text-color);
-        line-height: 1.6;
-        overflow-x: hidden;
-    }
-
-    body.no-scroll { overflow: hidden; }
-
-    a { text-decoration: none; color: inherit; transition: opacity 0.3s; }
-    a:hover { opacity: 0.7; }
-
-    header { padding: 4rem 2rem 2rem; text-align: center; }
-    h1 { font-family: var(--font-display); font-size: 2.5rem; letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 1rem; cursor: pointer; font-weight: normal; }
-
-    nav ul { list-style: none; display: flex; justify-content: center; gap: 2rem; font-size: 0.9rem; }
-    nav a { color: var(--accent-color); position: relative; }
-    nav a:hover, nav a.active-link { color: var(--text-color); }
-    nav a::after { content: ''; position: absolute; width: 0; height: 1px; bottom: -5px; left: 0; background-color: var(--text-color); transition: width 0.3s; }
-    nav a.active-link::after { width: 100%; }
-
-    .container { max-width: 1000px; margin: 0 auto; padding: 2rem 2rem 6rem 2rem; min-height: 60vh; }
-    .section-content { display: none; }
-    .section-content.active-section { display: block; }
-
-    .photo-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 4rem 2rem; }
-    .image-wrapper { width: 100%; height: 400px; overflow: hidden; background-color: #eee; }
-    .image-wrapper img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.8s ease; cursor: pointer; }
-    .image-wrapper:hover img { transform: scale(1.03); }
-
-    .photo-info { font-size: 0.8rem; color: var(--accent-color); display: flex; justify-content: space-between; }
-    .photo-title { color: var(--text-color); font-weight: 500; }
-
-    .journal-entry { max-width: 700px; margin: 0 auto 5rem auto; border-bottom: 1px solid #eee; padding-bottom: 3rem; }
-    .journal-date { font-size: 0.75rem; color: var(--accent-color); letter-spacing: 0.1em; display: block; margin-bottom: 0.5rem; }
-    .journal-title { font-family: var(--font-display); font-size: 1.8rem; margin-bottom: 1rem; font-weight: normal; }
-    .journal-body { font-size: 1.05rem; color: #555; margin-bottom: 1.5rem; }
-    .read-more { font-size: 0.8rem; text-transform: uppercase; border-bottom: 1px solid var(--text-color); padding-bottom: 2px; cursor: pointer; }
-
-    .article-view { display: none; padding-bottom: 4rem; }
-    .back-btn { display: inline-block; margin-bottom: 2rem; font-size: 0.8rem; text-transform: uppercase; color: var(--accent-color); cursor: pointer; }
-    .article-header { text-align: center; margin-bottom: 3rem; }
-    .article-title-main { font-family: var(--font-display); font-size: 2.5rem; line-height: 1.2; font-weight: normal; }
-
-    .text-column { max-width: 680px; margin: 0 auto; font-size: 1.1rem; color: #444; line-height: 1.8; }
-    .text-column p { margin-bottom: 1.5rem; }
-    .img-full-width { width: 100%; height: auto; max-height: 600px; object-fit: cover; margin: 3rem 0; display: block; cursor: pointer; }
-    .series-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin: 3rem 0; }
-    .series-grid img { width: 100%; height: 500px; object-fit: cover; display: block; cursor: pointer; }
-
-    .about-layout { display: grid; grid-template-columns: 1fr 1fr; gap: 4rem; }
-    .about-img { width: 100%; height: 500px; object-fit: cover; filter: grayscale(100%); transition: filter 0.5s; cursor: pointer; }
-    .about-img:hover { filter: grayscale(0%); }
-
-    #lightbox { position: fixed; z-index: 1000; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.95); display: flex; justify-content: center; align-items: center; opacity: 0; pointer-events: none; transition: opacity 0.4s; }
-    #lightbox.active { opacity: 1; pointer-events: auto; }
-    #lightbox-img { max-width: 95%; max-height: 95vh; object-fit: contain; }
-
-    .reveal { opacity: 0; transform: translateY(30px); transition: all 0.8s ease-out; }
-    .reveal.visible { opacity: 1; transform: translateY(0); }
-</style>
-
-<script is:inline>
-    // --- LÓGICA ORIGINAL DE NAVEGACIÓN Y LIGHTBOX ---
-    function showSection(sectionId) {
-        document.querySelectorAll('.section-content').forEach(sec => sec.classList.remove('active-section'));
-        document.querySelectorAll('nav a').forEach(link => link.classList.remove('active-link'));
-        const newSection = document.getElementById(sectionId);
-        newSection.classList.add('active-section');
-        document.getElementById('nav-' + sectionId).classList.add('active-link');
-        if(sectionId === 'diario') closeArticle();
-        newSection.querySelectorAll('.reveal').forEach(el => el.classList.add('visible'));
-    }
-
-    function openArticle(articleId) {
-        document.getElementById('journal-list').style.display = 'none';
-        document.getElementById(articleId).style.display = 'block';
-        window.scrollTo({ top: 0, behavior: 'smooth' });
-    }
-
-    function closeArticle() {
-        document.querySelectorAll('.article-view').forEach(art => art.style.display = 'none');
-        document.getElementById('journal-list').style.display = 'block';
-    }
-
-    document.addEventListener('DOMContentLoaded', () => {
-        const lightbox = document.getElementById('lightbox');
-        const lightboxImg = document.getElementById('lightbox-img');
-        
-        document.querySelectorAll('main img').forEach(img => {
-            img.onclick = (e) => {
-                if (e.target.id === 'lightbox-img') return;
-                lightboxImg.src = e.target.src;
-                lightbox.classList.add('active');
-                document.body.classList.add('no-scroll');
-            };
-        });
-
-        lightbox.onclick = () => {
-            lightbox.classList.remove('active');
-            document.body.classList.remove('no-scroll');
-        };
-
-        const observer = new IntersectionObserver((entries) => {
-            entries.forEach(entry => {
-                if (entry.isIntersecting) entry.target.classList.add('visible');
-            });
-        }, { threshold: 0.1 });
-
-        document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
-    });
-</script>

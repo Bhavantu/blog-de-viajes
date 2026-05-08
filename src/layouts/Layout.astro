@@ -1,32 +1,61 @@
 ---
-// Aquí le decimos a Astro que este layout va a recibir una propiedad llamada "title"
 interface Props {
 	title: string;
 }
-
 const { title } = Astro.props;
 ---
-
-<!DOCTYPE html>
+<!doctype html>
 <html lang="es">
 	<head>
 		<meta charset="UTF-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta name="description" content="Morseros - Bitácora de viaje" />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<title>{title}</title>
 		<script is:inline src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 	</head>
 	<body>
 		<slot />
+
+		<style is:global>
+			:root {
+				--bg-color: #fcfcfc;
+				--text-color: #333;
+				--accent-color: #888;
+				--font-main: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+				--font-display: 'Georgia', serif;
+			}
+			* { margin: 0; padding: 0; box-sizing: border-box; }
+			body {
+				font-family: var(--font-main);
+				background-color: var(--bg-color);
+				color: var(--text-color);
+				line-height: 1.6;
+			}
+			a { text-decoration: none; color: inherit; transition: opacity 0.3s; }
+			header { padding: 4rem 2rem 2rem; text-align: center; }
+			h1 { font-family: var(--font-display); font-size: 2.5rem; letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 1rem; font-weight: normal; }
+			nav ul { list-style: none; display: flex; justify-content: center; gap: 2rem; font-size: 0.9rem; }
+			nav a { color: var(--accent-color); position: relative; }
+			nav a:hover, nav a.active-link { color: var(--text-color); }
+			nav a::after { content: ''; position: absolute; width: 0; height: 1px; bottom: -5px; left: 0; background-color: var(--text-color); transition: width 0.3s; }
+			nav a.active-link::after { width: 100%; }
+			.container { max-width: 1000px; margin: 0 auto; padding: 2rem 2rem 6rem 2rem; min-height: 60vh; }
+			.section-content { display: none; }
+			.section-content.active-section { display: block; }
+			.photo-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 4rem 2rem; }
+			.image-wrapper { width: 100%; height: 400px; overflow: hidden; background-color: #eee; }
+			.image-wrapper img { width: 100%; height: 100%; object-fit: cover; }
+			.journal-entry { max-width: 700px; margin: 0 auto 5rem auto; border-bottom: 1px solid #eee; padding-bottom: 3rem; }
+			.journal-date { font-size: 0.75rem; color: var(--accent-color); letter-spacing: 0.1em; display: block; margin-bottom: 0.5rem; }
+			.journal-title { font-family: var(--font-display); font-size: 1.8rem; margin-bottom: 1rem; font-weight: normal; }
+			.journal-body { font-size: 1.05rem; color: #555; margin-bottom: 1.5rem; }
+			.read-more { font-size: 0.8rem; text-transform: uppercase; border-bottom: 1px solid var(--text-color); padding-bottom: 2px; cursor: pointer; }
+			.about-layout { display: grid; grid-template-columns: 1fr 1fr; gap: 4rem; }
+			.about-img { width: 100%; height: 500px; object-fit: cover; filter: grayscale(100%); }
+			footer { padding: 4rem; text-align: center; font-size: 0.8rem; color: var(--accent-color); }
+			.reveal { opacity: 0; transform: translateY(20px); transition: all 0.8s ease-out; }
+			.reveal.visible { opacity: 1; transform: translateY(0); }
+		</style>
 	</body>
 </html>
-
-<style is:global>
-	/* Puedes poner estilos globales aquí en el futuro, pero por ahora están todos en el index */
-	body {
-		margin: 0;
-		padding: 0;
-	}
-	body.no-scroll { 
-		overflow: hidden; 
-	}
-</style>

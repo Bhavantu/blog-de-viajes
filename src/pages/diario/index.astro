@@ -1,17 +1,15 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 
-// Esta es la forma "nativa" de Vite para traer archivos, nunca falla
+// Traemos los posteos con el método robusto
 const posteosRaw = import.meta.glob('./*.md', { eager: true });
 const posteos = Object.values(posteosRaw);
-
-// Ordenamos por fecha
 posteos.sort((a, b) => Date.parse(b.frontmatter.date) - Date.parse(a.frontmatter.date));
 ---
 
 <Layout title="Diario de Viaje | MORSEROS">
     <header>
-        <h1><a href="/" style="text-decoration:none; color:inherit;">MORSEROS</a></h1>
+        <h1><a href="/">MORSEROS</a></h1>
         <nav>
             <ul>
                 <li><a href="/">Galería</a></li>
@@ -23,20 +21,20 @@ posteos.sort((a, b) => Date.parse(b.frontmatter.date) - Date.parse(a.frontmatter
 
     <main class="container">
         <div id="journal-list">
-            {posteos.map((post) => (
+            {posteos.map((post: any) => (
                 <article class="journal-entry reveal visible">
                     <span class="journal-date">
                         {new Date(post.frontmatter.date).toLocaleDateString('es-ES', { day: '2-digit', month: 'long', year: 'numeric' }).toUpperCase()}
                     </span>
                     <h3 class="journal-title">{post.frontmatter.title}</h3>
-                    <p class="journal-body">{post.frontmatter.description || "Nueva entrada en nuestro diario de viaje..."}</p>
+                    <p class="journal-body">
+                        {post.frontmatter.description || "Nueva entrada en nuestro diario de viaje..."}
+                    </p>
                     <a href={post.url} class="read-more">Leer reflexión</a>
                 </article>
             ))}
         </div>
     </main>
 
-    <footer>
-        <p>&copy; 2026 MORSEROS.</p>
-    </footer>
+    <footer><p>&copy; 2026 MORSEROS.</p></footer>
 </Layout>
