@@ -1,0 +1,49 @@
+---
+// Importamos tu Layout base para que mantenga el estilo general
+import Layout from '../../layouts/Layout.astro';
+
+// 1. Traemos automáticamente todos los artículos (.md) de esta carpeta
+const posteos = await Astro.glob('./*.md');
+
+// 2. Los ordenamos por fecha: del más nuevo al más viejo
+posteos.sort((a, b) => Date.parse(b.frontmatter.date) - Date.parse(a.frontmatter.date));
+---
+
+<Layout title="Diario de Viaje | MORSEROS">
+  <main style="max-width: 800px; margin: 40px auto; padding: 0 20px;">
+    
+    <h1 style="text-align: center; margin-bottom: 40px;">Diario de Viaje</h1>
+
+    <div style="display: flex; flex-direction: column; gap: 30px;">
+      {posteos.map((post) => (
+        <article style="border: 1px solid #eee; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
+          
+          {/* Si subieron una foto de portada, la mostramos */}
+          {post.frontmatter.main_image && (
+            <img 
+              src={post.frontmatter.main_image} 
+              alt={post.frontmatter.title} 
+              style="width: 100%; height: 300px; object-fit: cover; border-radius: 8px; margin-bottom: 15px;" 
+            />
+          )}
+          
+          <h2 style="margin: 0 0 10px 0;">
+            <a href={post.url} style="text-decoration: none; color: #222;">
+              {post.frontmatter.title}
+            </a>
+          </h2>
+          
+          <small style="color: #666;">
+            {new Date(post.frontmatter.date).toLocaleDateString('es-ES', { 
+              year: 'numeric', 
+              month: 'long', 
+              day: 'numeric' 
+            })}
+          </small>
+          
+        </article>
+      ))}
+    </div>
+
+  </main>
+</Layout>
