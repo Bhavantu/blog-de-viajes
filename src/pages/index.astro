@@ -6,15 +6,15 @@ import Layout from '../layouts/Layout.astro';
         <h1 onclick="window.location.href='/'" style="cursor:pointer">BLOGCITO</h1>
         <nav>
             <ul>
-                <li><a href="#" onclick="showSection('galeria')" id="nav-galeria" class="active-link">Galería</a></li>
+                <li><a href="#" onclick="showSection('galeria'); return false;" id="nav-galeria" class="active-link">Galería</a></li>
                 <li><a href="/diario" id="nav-diario">Diario</a></li>
-                <li><a href="#" onclick="showSection('sobre-mi')" id="nav-sobre-mi">Sobre mí</a></li>
+                <li><a href="#" onclick="showSection('sobre-mi'); return false;" id="nav-sobre-mi">Sobre mí</a></li>
             </ul>
         </nav>
     </header>
 
     <main class="container">
-        <section id="galeria" class="section-content active-section">
+        <section id="sec-galeria" class="section-content active-section">
             <div class="photo-grid">
                 <article class="photo-card reveal visible">
                     <div class="image-wrapper"><img src="/img/Fire and Drums/DSC_0092.JPG" alt="Fire and Drums"></div>
@@ -43,7 +43,7 @@ import Layout from '../layouts/Layout.astro';
             </div>
         </section>
 
-        <section id="sobre-mi" class="section-content">
+        <section id="sec-sobre-mi" class="section-content">
             <div class="about-layout">
                 <div class="reveal visible">
                     <img src="/img/lorenita/DSC_0794.JPG" alt="Retrato" class="about-img">
@@ -61,17 +61,28 @@ import Layout from '../layouts/Layout.astro';
 
     <script is:inline>
         function showSection(sectionId) {
+            // Ocultamos todas
             document.querySelectorAll('.section-content').forEach(sec => sec.classList.remove('active-section'));
             document.querySelectorAll('nav a').forEach(link => link.classList.remove('active-link'));
-            const target = document.getElementById(sectionId);
+            
+            // Buscamos la sección con el nuevo ID
+            const target = document.getElementById('sec-' + sectionId);
             if (target) {
                 target.classList.add('active-section');
                 document.getElementById('nav-' + sectionId).classList.add('active-link');
+                
+                // Mantenemos la vista arriba, en el menú
                 window.scrollTo({ top: 0, behavior: 'smooth' });
             }
         }
+
         window.addEventListener('DOMContentLoaded', () => {
-            if (window.location.hash === '#sobre-mi') showSection('sobre-mi');
+            // Si venimos de otra página con el enlace #sobre-mi
+            if (window.location.hash === '#sobre-mi') {
+                showSection('sobre-mi');
+                // Limpiamos el hash de la URL sutilmente para evitar saltos raros al recargar
+                history.replaceState(null, null, window.location.pathname);
+            }
         });
     </script>
 </Layout>
