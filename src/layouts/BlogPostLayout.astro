@@ -8,6 +8,11 @@ const { frontmatter } = Astro.props;
             <a href="/diario" class="back-btn">← Volver al diario</a>
             
             <header class="article-header reveal visible">
+                {frontmatter.tag && (
+                    <span class="journal-tag" data-tag={frontmatter.tag.toLowerCase()}>
+                        {frontmatter.tag}
+                    </span>
+                )}
                 <span class="journal-date">
                     {new Date(frontmatter.date).toLocaleDateString('es-ES', { day: '2-digit', month: 'long', year: 'numeric' }).toUpperCase()} 
                 </span>

@@ -22,9 +22,16 @@ posteos.sort((a, b) => Date.parse(b.frontmatter.date) - Date.parse(a.frontmatter
         <div id="journal-list">
             {posteos.map((post: any) => (
                 <article class="journal-entry reveal visible">
-                    <span class="journal-date">
-                        {new Date(post.frontmatter.date).toLocaleDateString('es-ES', { day: '2-digit', month: 'long', year: 'numeric' }).toUpperCase()}
-                    </span>
+                    <div style="display: flex; flex-direction: column; align-items: flex-start;">
+                        {post.frontmatter.tag && (
+                            <span class="journal-tag" data-tag={post.frontmatter.tag.toLowerCase()}>
+                                {post.frontmatter.tag}
+                            </span>
+                        )}
+                        <span class="journal-date">
+                            {new Date(post.frontmatter.date).toLocaleDateString('es-ES', { day: '2-digit', month: 'long', year: 'numeric' }).toUpperCase()}
+                        </span>
+                    </div>
                     <h3 class="journal-title">{post.frontmatter.title}</h3>
                     <p class="journal-body">
                         {post.frontmatter.description || "Nueva entrada en nuestro diario de viaje..."}

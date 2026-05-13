@@ -13,9 +13,20 @@ collections:
     folder: "src/pages/diario" 
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+
+      # Dentro de la colección "diario", en la sección de fields:
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "../../layouts/BlogPostLayout.astro"}
       - {label: "Título", name: "title", widget: "string"}
-      - {label: "Fecha", name: "date", widget: "datetime", format: "DD MMMM YYYY", date_format: "DD MMMM YYYY", time_format: false}
-      - {label: "Imagen de Portada", name: "main_image", widget: "image", required: false}
-      - {label: "Cuerpo del Artículo", name: "body", widget: "markdown"}
+      - {label: "Fecha", name: "date", widget: "datetime"}
+      
+      # NUEVO CAMPO DE ETIQUETAS:
+      - label: "Etiqueta"
+        name: "tag"
+        widget: "select"
+        options: ["bitacora", "fotografia", "punto de fuga"]
+        default: "bitacora"
+
+      - {label: "Imagen de Portada", name: "main_image", widget: "image"}
+      - {label: "Descripción corta", name: "description", widget: "string"}
+      - {label: "Cuerpo", name: "body", widget: "markdown"}
