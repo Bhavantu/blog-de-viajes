@@ -2,6 +2,9 @@
 layout: ../../layouts/BlogPostLayout.astro
 title: Santuario de aves Maungatautari
 date: 15 December 2025
+tag: fotografia
+main_image: /img/diario/dsc_0375.jpg
+description: visita al santuario Maungatautari
 ---
 “Quienes somos cuando estamos siendo”. Esta pregunta tan confusa había llegado a mi en el medio de una caminata por el santuario de aves “Maungatautari” de Nueva Zelanda. 
 
