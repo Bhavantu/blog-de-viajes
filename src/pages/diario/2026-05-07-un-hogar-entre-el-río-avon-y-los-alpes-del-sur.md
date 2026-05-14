@@ -2,6 +2,7 @@
 layout: ../../layouts/BlogPostLayout.astro
 title: Un hogar entre el río Avon y los Alpes del Sur...
 date: 2026-05-08
+tag: bitácora
 main_image: /img/diario/whatsapp-image-2026-05-08-at-23.14.31.jpeg
 ---
 Era viernes de una mañana de mayo en la ciudad de Chrischurch, se sentía frío en el aire y fuera comenzaba a brillar el sol. Ya hacía 6 meses y algunos días que había comenzado esta aventura muy lejos de casa. Las ganas de conocer y el deseo de vivir alimentaron mis ganas de salir a recorrer el mundo. Nueva Zealanda ha sido hogar en los últimos 6 meses, y aunque se siente más familiar, aún todo es bastante ajeno.
