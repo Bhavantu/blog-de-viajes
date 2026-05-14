@@ -83,19 +83,46 @@ const { title } = Astro.props;
             .journal-body { font-size: 1.05rem; color: #555; margin-bottom: 1.5rem; }
             .read-more { font-size: 0.8rem; text-transform: uppercase; border-bottom: 1px solid var(--text-color); padding-bottom: 2px; cursor: pointer; }
 
-            /* --- 4. SOBRE MÍ (Imagen Fluida) --- */
-            .about-layout { display: grid; grid-template-columns: 1fr 1fr; gap: 4rem; align-items: start; }
+            /* --- 4. NOSOTROS (Imagen Fluida & Responsive) --- */
+            .about-layout { 
+                display: grid; 
+                grid-template-columns: 1fr 1fr; 
+                gap: 4rem; 
+                align-items: start; 
+            }
+
+            /* Fix para móviles: Una sola columna */
+            @media (max-width: 768px) {
+                .about-layout { 
+                    grid-template-columns: 1fr; 
+                    gap: 2rem; 
+                }
+            }
+
             .about-img { 
                 width: 100%; 
                 height: auto; 
                 max-height: 650px; 
                 object-fit: cover; 
                 filter: grayscale(100%); 
-                transition: filter 0.5s; 
+                transition: filter 0.5s;
+                display: block;
             }
-            .about-img:hover { filter: grayscale(0%); }
-            .about-text h2 { font-family: var(--font-display); font-size: 2rem; margin-bottom: 1.5rem; font-weight: normal; }
 
+            @media (max-width: 768px) {
+                .about-img {
+                    max-height: 400px; /* Más baja en móviles para no scrollear tanto */
+                }
+            }
+
+            .about-img:hover { filter: grayscale(0%); }
+
+            .about-text h2 { 
+                font-family: var(--font-display); 
+                font-size: 2rem; 
+                margin-bottom: 1.5rem; 
+                font-weight: normal; 
+            }
             /* --- 5. LECTURA DE ARTÍCULOS --- */
             .article-header { text-align: center; margin-bottom: 3rem; }
             .article-title-main { font-family: var(--font-display); font-size: 2.5rem; line-height: 1.2; font-weight: normal; margin-top: 1rem; }
