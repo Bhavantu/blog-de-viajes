@@ -50,7 +50,3 @@ A pesar de estos desafíos, este país demuestra un ejemplo de conservación y p
 Esta búsqueda de diálogo entre la pertenencia ancestral y las necesidades modernas en constante movimiento es lo que hoy define la identidad de Aotearoa.
 
 ![Vista de  Aukland desde el volcan inactivo Mount Eden / Maungawhau ](/img/diario/dsc_0911.jpg "Grandes ciudades: Aukland, museos, comida y una experiencia muy cosmopolita")
-
-###### *Vista de  Aukland desde el volcan inactivo Mount Eden / Maungawhau.*
-
-###### *Grandes ciudades: Aukland, museos, comida y una experiencia muy cosmopolita*
