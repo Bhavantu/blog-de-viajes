@@ -16,10 +16,6 @@ Es la ciudad más grande de la Isla Sur, mezcla de cultura Kiwi, Maorí e Ingles
 
 ![](/img/diario/whatsapp-image-2026-05-08-at-23.13.50-2-.jpeg)
 
-![](/img/diario/whatsapp-image-2026-05-08-at-23.14.31-1-.jpeg)
-
-> **El Hagley Park con su jardín botánico y sus senderos infinitos me había convencido de habitar esta ciudad con encanto; el Avon River - Ōtākaro cruzando la ciudad me invitaba a pasear por las diminutas callecitas del colorido CBD, turístico, alegre, cultural y fusionado, lleno de experiencias culinarias, trencitos turísticos y tiendas de todo tipo.** 
-
 Tiempo después, en esas mismas calles descubriría que esa ribera acompañaba también la “Red Zone”, una zona devastada por el terremoto en 2011 muy habitada en el antiguo Christchurch. Los locales habían optado por convertirla en una Green Zone con cultivos comunitarios de huertas, plantas y hongos, así como también parques para niños y largos senderos. 
 
 Personalmente creo que lo más lindo de esta zona es la vista abierta a las montañas que rodean la llanura de Canterbury. Gigantes y calmadas acompañan el cotidiano como quien ve un gran edificio en el centro de la ciudad y los fines de semana se prestan para descubrir sus secretos entre senderos, historias y pequeños pueblos como en la zona de Akaroa, la Península de Banks o Port Hills. A menos de dos horas hacia la costa este, cada uno de estos paisajes representa la escapada perfecta para conectar con la naturaleza con vista al mar. Hacia el oeste, el épico Paso de Arthur a 920 metros de altura fascina con su paisaje alpino de bosque y tundra seca. Al parecer este paso fue descubierto por los maoríes que transportaban jade de la costa este a la oeste, luego fue usado por los ingleses en la "fiebre de oro y ahora conforma la State Highway 73; si te interesa saber más sobre nuestra experiencia en el Parque Nacional Arthur Pass hacé click acá.
