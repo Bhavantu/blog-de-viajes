@@ -17,6 +17,7 @@ Los primeros pobladores de esta isla fueron los antepasados polinesios que no so
 Para ellos, la tierra (Papatūānuku) y el mar (Tangaroa) son parte de un todo, de un único origen. Ven la naturaleza como sus propios antepasados y a sí mismos como Kaitiaki (guardianes), asumiendo la responsabilidad de proteger el equilibrio y la fuerza vital del entorno para las generaciones futuras.
 
 ![](/img/diario/canoa.jpg)
+![](/img/diario/canoa.jpg)
 
 **El espíritu en la madera**
 
