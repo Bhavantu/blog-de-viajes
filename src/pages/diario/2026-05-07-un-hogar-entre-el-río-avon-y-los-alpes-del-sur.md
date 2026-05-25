@@ -34,7 +34,7 @@ Hoy el aire se siente frío, avisando que el invierno está cerca, pero ese sol 
 * Caminata desde el CBD por el Avon River hasta el Canterbury Earthquake National Memorial - Oi Manawaque el cual conmemora a las personas que fallecieron durante el terremoto. Una zona además de bella que invita a la reflexión y a habitar el presente como algo único y sagrado.
 * Port Hills: vista desde la montaña y actividades como el Luge o las telesillas (que por cierto son las más grandes de Nueva Zelanda).
 * Treking por la peninsula de banks 
-* Akaroa 
+* Akaroa: un pueblo épico a 1 hora de la ciudad
 
 Epilogo la noche en chrischruch:
 
@@ -42,4 +42,4 @@ Para los Hispanohablantes será extraño descubrir que en toda New Zeland la noc
 
 Gracias por leer.
 
-![Vista de akaroa ](/img/diario/img_6757.jpeg)
+![Vista de akaroa ](/img/diario/whatsapp-image-2026-05-25-at-13.21.08.jpeg)
