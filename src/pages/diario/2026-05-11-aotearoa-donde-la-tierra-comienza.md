@@ -18,8 +18,6 @@ Para ellos, la tierra (Papatūānuku) y el mar (Tangaroa) son parte de un todo, 
 
 ![](/img/diario/canoa.jpg)
 
-![](/img/diario/canoa.jpg)
-
 **El espíritu en la madera**
 
 Un ejemplo tangible de esto fue lo que aprendimos en el el Auckland War Memorial Museum (Tāmaki Paenga Hira), en donde descubrimos que el proceso de crear las canoas (Waka) era mucho más que la construcción de un transporte; implicaba un rito de respeto. A modo de resumen:
