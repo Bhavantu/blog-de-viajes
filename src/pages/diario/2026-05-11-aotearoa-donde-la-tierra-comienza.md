@@ -17,6 +17,7 @@ Los primeros pobladores de esta isla fueron los antepasados polinesios que no so
 Para ellos, la tierra (Papatūānuku) y el mar (Tangaroa) son parte de un todo, de un único origen. Ven la naturaleza como sus propios antepasados y a sí mismos como Kaitiaki (guardianes), asumiendo la responsabilidad de proteger el equilibrio y la fuerza vital del entorno para las generaciones futuras.
 
 ![](/img/diario/canoa.jpg)
+
 ![](/img/diario/canoa.jpg)
 
 **El espíritu en la madera**
@@ -49,3 +50,5 @@ En museos como el de Rotorua o Christchurch, se pueden ver registros de cómo la
 A pesar de estos desafíos, este país demuestra un ejemplo de conservación y protección de los ecosistemas que lo convierten en un referente internacional. Por ejemplo creando leyes contemporaneas que otorgan personalidad jurídica a parques y ríos, reconociéndolos como seres vivos.
 
 Esta búsqueda de diálogo entre la pertenencia ancestral y las necesidades modernas en constante movimiento es lo que hoy define la identidad de Aotearoa.
+
+![Vista de  Aukland desde el volcan inactivo Mount Eden / Maungawhau ](/img/diario/dsc_0911.jpg "Grandes ciudades: Aukland, museos, comida y una experiencia muy cosmopolita")
