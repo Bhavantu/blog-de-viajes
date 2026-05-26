@@ -3,38 +3,35 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Panel de Administración | BLOGCITO</title>
+    <title>Panel de Administración | YENDO</title>
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
   <body>
     <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
-    
     <script>
-      // 1. Cargar el CSS para que la vista previa se vea igual al blog
       CMS.registerPreviewStyle("/admin/preview-styles.css");
 
-      // 2. Botón para Imagen Ajustable
       CMS.registerEditorComponent({
         id: "custom-image",
         label: "Imagen Ajustable",
         fields: [
           { name: "image", label: "Seleccionar Imagen", widget: "image" },
           { name: "size", label: "Tamaño", widget: "select", options: ["pequeño", "mediano", "completo"], default: "completo" },
-          { name: "align", label: "Alineación", widget: "select", options: ["izquierda", "centro", "derecha"], default: "centro" }
+          { name: "align", label: "Alineación", widget: "select", options: ["izquierda", "centro", "derecha"], default: "centro" },
+          { name: "caption", label: "Pie de foto / Descripción (Opcional)", widget: "string", required: false }
         ],
         toBlock: function(obj) {
-          return `<div class="post-img-box img-${obj.size} img-${obj.align}"><img src="${obj.image}" alt="Imagen de bitácora"/></div>`;
+          return `<div class="post-img-box img-${obj.size} img-${obj.align}"><img src="${obj.image}" alt="${obj.caption || 'Imagen de bitácora'}"><span class="img-caption">${obj.caption || ''}</span></div>`;
         },
-        pattern: /<div class="post-img-box img-(.*?) img-(.*?)"><img src="(.*?)" alt=".*?"\/><\/div>/,
+        pattern: /<div class="post-img-box img-(.*?) img-(.*?)"><img src="(.*?)" alt=".*?"><span class="img-caption">(.*?)<\/span><\/div>/,
         fromBlock: function(match) {
-          return { size: match[1], align: match[2], image: match[3] };
+          return { size: match[1], align: match[2], image: match[3], caption: match[4] };
         },
         toPreview: function(obj) {
-          return `<div class="post-img-box img-${obj.size} img-${obj.align}"><img src="${obj.image}" style="width:100%; height:auto;" /></div>`;
+          return `<div class="post-img-box img-${obj.size} img-${obj.align}"><img src="${obj.image}" style="width:100%; height:auto;" /><span class="img-caption">${obj.caption || ''}</span></div>`;
         }
       });
 
-      // 3. Botón para Texto en Color
       CMS.registerEditorComponent({
         id: "colored-text",
         label: "Texto en Color",

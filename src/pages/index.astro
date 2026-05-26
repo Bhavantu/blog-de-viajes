@@ -1,14 +1,14 @@
 ---
 import Layout from '../layouts/Layout.astro';
 ---
-<Layout title="YENDO | blog, viajes, pensares, experientacion">
+<Layout title="YENDO | en un viaje">
     <header>
-        <h1 onclick="window.location.href='/'" style="cursor:pointer">YENDO</h1>
+        <h1 onclick="window.location.href='/'" style="cursor:pointer">BLOGCITO</h1>
         <nav>
             <ul>
                 <li><a href="#" onclick="showSection('galeria'); return false;" id="nav-galeria" class="active-link">Galería</a></li>
                 <li><a href="/diario" id="nav-diario">Diario</a></li>
-                <li><a href="#" onclick="showSection('sobre-mi'); return false;" id="nav-sobre-mi">Sobre mí</a></li>
+                <li><a href="#" onclick="showSection('nosotros'); return false;" id="nav-nosotros">Nosotros</a></li>
             </ul>
         </nav>
     </header>
@@ -43,15 +43,15 @@ import Layout from '../layouts/Layout.astro';
             </div>
         </section>
 
-        <section id="sec-sobre-mi" class="section-content">
+        <section id="sec-nosotros" class="section-content">
             <div class="about-layout">
                 <div class="reveal visible">
-                    <img src="/img/lorenita/DSC_0794.JPG" alt="Retrato" class="about-img">
+                    <img src="/img/lorenita/DSC_0794.JPG" alt="Nosotros" class="about-img">
                 </div>
                 <div class="about-text reveal visible delay-100">
-                    <h2>Hola soy...</h2>
-                    <p>Abriendo el corazon soltamos el prejucio con una convicción seguimos el delirio. Viajar desde el amor conectando con la vida, los pueblos las estrellas y los soles que nos guian. Muchas gracias humanitos que hoy leen el mensaje, entre risas y aventuras compartimos este viaje. </p>
-                    <p>Abrazo grande, Lore y Santi, enraizados en LATAM descubriendo el mundo. <br> Vamo arriba! </p>
+                    <h2>Hola, somos nosotros...</h2>
+                    <p>Abriendo el corazon soltamos el prejucio con una convicción seguimos el delirio. Viajar desde el amor conectando con la vida, los pueblos las estrellas y los soles que nos guian. Muchas gracias humanitos que hoy leen el mensaje, entre risas y aventuras compartimos este viaje.</p>
+                    <p>Abrazo grande, Lore y Santi, enraizados en LATAM descubriendo el mundo. <br> Vamo arriba!</p>
                 </div>
             </div>
         </section>
@@ -61,26 +61,20 @@ import Layout from '../layouts/Layout.astro';
 
     <script is:inline>
         function showSection(sectionId) {
-            // Ocultamos todas
             document.querySelectorAll('.section-content').forEach(sec => sec.classList.remove('active-section'));
             document.querySelectorAll('nav a').forEach(link => link.classList.remove('active-link'));
             
-            // Buscamos la sección con el nuevo ID
             const target = document.getElementById('sec-' + sectionId);
             if (target) {
                 target.classList.add('active-section');
                 document.getElementById('nav-' + sectionId).classList.add('active-link');
-                
-                // Mantenemos la vista arriba, en el menú
                 window.scrollTo({ top: 0, behavior: 'smooth' });
             }
         }
 
         window.addEventListener('DOMContentLoaded', () => {
-            // Si venimos de otra página con el enlace #sobre-mi
-            if (window.location.hash === '#sobre-mi') {
-                showSection('sobre-mi');
-                // Limpiamos el hash de la URL sutilmente para evitar saltos raros al recargar
+            if (window.location.hash === '#nosotros') {
+                showSection('nosotros');
                 history.replaceState(null, null, window.location.pathname);
             }
         });
