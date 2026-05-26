@@ -1,0 +1,40 @@
+body {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #333;
+  background-color: #fcfcfc;
+  padding: 2rem;
+  line-height: 1.8;
+}
+h1, h2, h3 { 
+  font-family: 'Georgia', serif; 
+  font-weight: normal; 
+  margin-bottom: 1rem; 
+  color: #111;
+}
+p { 
+  margin-bottom: 1.5rem; 
+  font-size: 1.05rem; 
+  color: #444; 
+}
+blockquote {
+  border-left: 4px solid #ddd;
+  padding: 1.5rem 0 1.5rem 2rem;
+  margin: 3.5rem 0;
+  font-family: 'Georgia', serif;
+  font-size: 1.45rem;
+  font-style: italic;
+  background-color: #f9f9f9;
+}
+
+/* Soporte visual de las herramientas en el CMS */
+.post-img-box { display: block; margin: 2rem 0; clear: both; }
+.post-img-box img { width: 100%; height: auto; }
+.img-pequeño { max-width: 250px; }
+.img-mediano { max-width: 450px; }
+.img-completo { max-width: 100%; }
+.img-izquierda { float: left; margin: 0.5rem 1.5rem 1rem 0; }
+.img-derecha { float: right; margin: 0.5rem 0 1rem 1.5rem; }
+.img-centro { margin: 2.5rem auto; text-align: center; }
+.txt-color-marron { color: #af601a; font-weight: 500; }
+.txt-color-azul { color: #2874a6; font-weight: 500; }
+.txt-color-violeta { color: #6c3483; font-weight: 500; }

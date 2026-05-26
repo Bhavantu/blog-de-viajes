@@ -1,11 +1,58 @@
 <!DOCTYPE html>
-<html lang="es">
+<html>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Panel de Redacción | MORSEROS</title>
+    <title>Panel de Administración | BLOGCITO</title>
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
   <body>
     <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+    
+    <script>
+      // 1. Cargar el CSS para que la vista previa se vea igual al blog
+      CMS.registerPreviewStyle("/admin/preview-styles.css");
+
+      // 2. Botón para Imagen Ajustable
+      CMS.registerEditorComponent({
+        id: "custom-image",
+        label: "Imagen Ajustable",
+        fields: [
+          { name: "image", label: "Seleccionar Imagen", widget: "image" },
+          { name: "size", label: "Tamaño", widget: "select", options: ["pequeño", "mediano", "completo"], default: "completo" },
+          { name: "align", label: "Alineación", widget: "select", options: ["izquierda", "centro", "derecha"], default: "centro" }
+        ],
+        toBlock: function(obj) {
+          return `<div class="post-img-box img-${obj.size} img-${obj.align}"><img src="${obj.image}" alt="Imagen de bitácora"/></div>`;
+        },
+        pattern: /<div class="post-img-box img-(.*?) img-(.*?)"><img src="(.*?)" alt=".*?"\/><\/div>/,
+        fromBlock: function(match) {
+          return { size: match[1], align: match[2], image: match[3] };
+        },
+        toPreview: function(obj) {
+          return `<div class="post-img-box img-${obj.size} img-${obj.align}"><img src="${obj.image}" style="width:100%; height:auto;" /></div>`;
+        }
+      });
+
+      // 3. Botón para Texto en Color
+      CMS.registerEditorComponent({
+        id: "colored-text",
+        label: "Texto en Color",
+        fields: [
+          { name: "text", label: "Texto", widget: "string" },
+          { name: "color", label: "Color", widget: "select", options: ["marron", "azul", "violeta"], default: "marron" }
+        ],
+        toBlock: function(obj) {
+          return `<span class="txt-color-${obj.color}">${obj.text}</span>`;
+        },
+        pattern: /<span class="txt-color-(.*?)">(.*?)<\/span>/,
+        fromBlock: function(match) {
+          return { color: match[1], text: match[2] };
+        },
+        toPreview: function(obj) {
+          return `<span class="txt-color-${obj.color}">${obj.text}</span>`;
+        }
+      });
+    </script>
   </body>
 </html>

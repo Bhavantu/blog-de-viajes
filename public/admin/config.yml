@@ -1,32 +1,28 @@
 backend:
   name: git-gateway
-  branch: main # Cambia a 'master' si tu rama principal en Git se llama así
+  branch: main
 
-# Aquí es donde el CMS guardará las fotos nuevas que suban
-media_folder: "public/img/diario" 
-public_folder: "/img/diario"
+# ESTO ACTIVA LOS BORRADORES (Editorial Workflow)
+publish_mode: editorial_workflow
+
+media_folder: "public/img"
+public_folder: "/img"
 
 collections:
   - name: "diario"
-    label: "Diario de Viaje"
-    # Esta es la carpeta secreta donde Astro leerá los textos
-    folder: "src/pages/diario" 
+    label: "Diario"
+    folder: "src/pages/diario"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-
-      # Dentro de la colección "diario", en la sección de fields:
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "../../layouts/BlogPostLayout.astro"}
       - {label: "Título", name: "title", widget: "string"}
       - {label: "Fecha", name: "date", widget: "datetime"}
-      
-      # NUEVO CAMPO DE ETIQUETAS:
       - label: "Etiqueta"
         name: "tag"
         widget: "select"
         options: ["bitacora", "fotografia", "punto de fuga"]
         default: "bitacora"
-
-      - {label: "Imagen de Portada", name: "main_image", widget: "image"}
-      - {label: "Descripción corta", name: "description", widget: "string"}
+      - {label: "Imagen de Portada", name: "main_image", widget: "image", required: false}
+      - {label: "Descripción corta", name: "description", widget: "string", required: false}
       - {label: "Cuerpo", name: "body", widget: "markdown"}
