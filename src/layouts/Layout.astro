@@ -8,7 +8,7 @@ const { title } = Astro.props;
 <html lang="es">
     <head>
         <meta charset="UTF-8" />
-        <meta name="description" content="YENDO - Bitácora de viaje" />
+        <meta name="description" content="BLOGCITO - Bitácora de viaje" />
         <meta name="viewport" content="width=device-width" />
         <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
         <title>{title}</title>
@@ -90,20 +90,50 @@ const { title } = Astro.props;
             .text-column blockquote { border-left: 4px solid #ddd; padding: 1.5rem 0 1.5rem 2rem; margin: 3.5rem 0; font-family: var(--font-display); font-size: 1.45rem; color: #222; font-style: italic; background-color: #f9f9f9; line-height: 1.5; }
             .text-column blockquote p { margin-bottom: 0; }
 
+            /* --- FIX ABSOLUTO: IMÁGENES CLÁSICAS (Markdown estándar) --- */
+            .text-column img { 
+                display: block; 
+                max-width: 100% !important; 
+                height: auto !important; 
+                margin: 2.5rem auto; 
+                cursor: pointer; 
+                object-fit: contain;
+            }
+
+            /* --- FIX: GRID PINTEREST PARA GALERÍAS --- */
+            .text-column p:has(img:nth-of-type(2)) { display: block; column-count: 2; column-gap: 1rem; margin: 3rem 0; width: 100%; }
+            @media (min-width: 950px) { .text-column p:has(img:nth-of-type(2)) { width: 900px; margin-left: -110px; } }
+            @media (max-width: 600px) { .text-column p:has(img:nth-of-type(2)) { column-count: 1; width: 100%; margin-left: 0; } }
+            .text-column p:has(img:nth-of-type(2)) img { margin: 0 0 1rem 0; width: 100%; height: auto !important; display: inline-block; object-fit: contain; }
+
+            /* --- ESTILOS PARA COMPONENTES DEL CMS (Nuevas Imágenes) --- */
             .text-column .post-img-box { display: block; margin: 2rem 0; clear: both; }
-            .text-column .post-img-box img { width: 100%; height: auto; margin: 0; cursor: pointer; }
+            .text-column .post-img-box img { width: 100% !important; height: auto !important; margin: 0; cursor: pointer; }
             .img-pequeño { max-width: 250px; }
             .img-mediano { max-width: 450px; }
             .img-completo { max-width: 100%; }
             .img-izquierda { float: left; margin: 0.3rem 1.5rem 0.8rem 0 !important; }
             .img-derecha { float: right; margin: 0.3rem 0 0.8rem 1.5rem !important; }
-            .img-centro { margin: 2.5rem auto !important; }
+            .img-centro { margin: 2.5rem auto !important; text-align: center; }
             
             .img-caption { display: block; font-size: 0.78rem; color: var(--accent-color); text-align: center; margin-top: 0.6rem; line-height: 1.4; font-style: italic; }
             .img-izquierda .img-caption { text-align: left; }
             .img-derecha .img-caption { text-align: right; }
             .text-column::after { content: ""; display: table; clear: both; }
 
+            /* --- FIX: RESPONSIVE PARA IMÁGENES CEÑIDAS EN CELULARES --- */
+            @media (max-width: 600px) {
+                .img-izquierda, .img-derecha { 
+                    float: none !important; 
+                    margin: 2rem auto !important; 
+                    max-width: 100% !important; 
+                }
+                .img-izquierda .img-caption, .img-derecha .img-caption { 
+                    text-align: center; 
+                }
+            }
+
+            /* --- COLORES PARA TEXTO --- */
             .txt-color-marron { color: #af601a; font-weight: 500; }
             .txt-color-azul { color: #2874a6; font-weight: 500; }
             .txt-color-violeta { color: #6c3483; font-weight: 500; }
