@@ -13,7 +13,7 @@ Viajar a nueva Zelanda era un deseo que tocaba la puerta de la curisiodad desdee
 
 Con los años el deseo creció y en 2026 una visa de viaje y trabajo me permitiría vivir la experiencia durante un año. El Sueño del Roadtrip en camper por toda la Isla con música, buena compañia y un mate uruguayo era sin duda uno de mis objetivos en el dream board.
 
-<div class="post-img-box img-grande img-centro"><img src="/img/diario/well-kiwi-benefits-03-gjtz-facebookjumbo.jpg" alt="El kiwi(fruta) y sus variedades"><span class="img-caption">El kiwi(fruta) y sus variedades</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/well-kiwi-benefits-03-gjtz-facebookjumbo.jpg" alt="El kiwi(fruta) y sus variedades"><span class="img-caption">El kiwi(fruta) y sus variedades</span></div>
 
 Nueva Zelanda, un país donde los locales se llaman así mismos como un pajaro autóctono y una fruta, si, todo al mismo tiempo. Mezcla de gente amable y resolutiva, que disfruta de la tranquilidad, la calma. La verdad es lindo compartir con estas personas en mi destino de viaje. Durante algunos meses viajamos y vivimos la experiencia de vivir en una van, hacer trekking, conocer paisajes increíbles, Y durante otro rato trabajar, vivir en una ciudad, tener una vida en otro lado en la que uno mismo se encuentra atravesando una nueva versión de su ser. Encontrándome con personas, trabajando en un mercado orgánico, charlando con la gente, aprendiendo más inglés en el trayecto. Una interesante vivencia turística si se quiere y otro poco de viajero de largo plazo.
 
