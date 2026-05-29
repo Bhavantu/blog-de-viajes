@@ -38,13 +38,13 @@ Mucha gente que viene a nueva Zelanda elije esta zona para quedarse, y la verdad
 Peninsula de Coromandel
 Playas paradisiacas, agua helada y transparente
 
-Antiguamente conocida por los maoríes como *Hauraki* —quienes habitaron la zona durante más de un milenio—, la península vivió épocas convulsas de intercambio con Europa, marcadas por la fiebre del oro en Thames y una intensa explotación de sus milenarios bosques del arbol kauri que se extendió hasta mediados del siglo XX. 
+Antiguamente conocida por los maoríes como *Hauraki* —quienes habitaron la zona durante más de un milenio—, la península vivió épocas convulsas de intercambio con Europa, marcadas por la fiebre del oro en Thames y una intensa explotación de sus milenarios bosques del arbol kauri que se extendió hasta mediados del siglo XX. Multiplicando la población de la zona casia l punto de pasar a la capital de Aukland
 
-Luego funcionó c
+A principios del siglo XX los recursos extraidos: principalmente oro o resina comenzaron a agotarse y la zona transicionó cambiando suaprincipal actividad economica a la ganadería y la pesca. Afortunadamente alrededor de 1970 comenzaron a moverse hacia allí personas que bsucaban un ritmo de vida alternativo, artesanos, alfareros y tomaron fuerza los movimientos de conservación ecológica, promosion de santuarios.  
 
-Hoy la región ha cambiado y es una zona de veraneo local clasica para las familias. Famosa por playas icónicas como Cathedral Cove o Hot Water Beach. 
+Hoy la región ha cambiado y es una zona de veraneo relajada con paisajes espectaculares.Las familias locales suelen ir de veraneo durante el verano y es famosa por playas icónicas como Cathedral Cove o Hot Water Beach. 
 
-Coromandel combina a la perfección la historia de su tierra con una cultura local relajada, artística y de respeto absoluto por la naturaleza.
+Coromandel combina la historia de su tierra con una cultura local relajada, artística y de respeto absoluto por la naturaleza.
 
 ## **McLaren Falls Park**
 
@@ -56,6 +56,6 @@ Este parque cuenta con 190 hectáreas de pura naturaleza y alberga una de las co
 
 Además, cuenta con varios senderos llanos y muy accesibles; entre ellos destaca el *Waterfall Track*, una caminata corta de apenas 20 minutos que se adentra en un frondoso bosque nativo hasta llegar a esta pequeña pero preciosa cascada.
 
-Otro Lugar increible que visitamos fue el Refugio de Aves ... un lugar cuidado por el departamento de conservación, para ver todas alsfotosde este epico lugar click acá
+Otro Lugar increible que visitamos fue el Refugio de Aves Maunga tautare un lugar cuidado por el departamento de conservación,   para el que mas vale una fota que mil palabras.
 
 <div class="post-img-box img-grande img-centro"><img src="/img/diario/dsc_0375.jpg" alt="Caminando por el santuario con Emi, nuestro amigo y guia local "><span class="img-caption">Caminando por el santuario con Emi, nuestro amigo y guia local </span></div>
