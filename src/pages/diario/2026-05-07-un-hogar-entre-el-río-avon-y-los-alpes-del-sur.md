@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/BlogPostLayout.astro
-title: Un hogar entre el río Avon y los Alpes del Sur...
+title: "La ciudad de Chrischurch: Un hogar entre el Río Avon y los Alpes del Sur"
 date: 2026-05-08T13:10:00.000+12:00
 tag: bitacora
 main_image: /img/diario/whatsapp-image-2026-05-08-at-23.14.31.jpeg
