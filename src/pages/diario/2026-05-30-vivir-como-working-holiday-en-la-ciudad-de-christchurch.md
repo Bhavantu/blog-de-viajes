@@ -51,31 +51,31 @@ Pro 2: Hay traslado directo hasta Milford Sound, lugar que para mí es uno de lo
 
 ## Dunedin
 
-Esta ciudad, de acento escocés, tiene bastante de local y auténtico. La verdad es que me daba buena espina porque conocimos a una pareja acampando en un precioso lago en Roxburgh: alegres, amables y relajados.
+Esta ciudad, de acento escocés, conocida como "daniden" tiene bastante de local y auténtico. La verdad es que me daba buena espina porque conocimos a una pareja acampando en un precioso lago en Roxburgh: alegres, amables y relajados.
 
-La ciudad despertó nuestra curiosidad y la visitamos, descubriendo su impresionante arquitectura victoriana de ladrillos oscuros, sus cafeterías de especialidad escondidas en callejones llenos de arte callejero y sus hermosas galerías independientes, percatándonos de que se trata de una ciudad donde la gente realmente vive su día a día. Los restaurantes son más de estilo take away, enfocados en la rutina local y no tanto en lo turístico; sin duda, otra posibilidad interesante.
+Pronunciado como Daniden esta ciudad tiene bastante de local y autentico. La verdad es que me daba buena espina porque conocimos a una pareja acampando en un precioso lago en Roxburgh alegres,amables y relajados. La ciudad despertó nuestra curiosidad así que decidimos visitarla, se trata de una ciudad donde la gente vive, los restaurantes son mas tack away, enfocado en el dia a día y no tan turistico como Queenstown. La preciosa playa ene l medio de la ciudad lo hacen sin duda otra posibilidad interesante. 
 
 ## Finalmente, la ciudad de Christchurch
 
 Joyita descubierta: una ciudad vibrante, moderna y abrazada por la naturaleza, con muchísimas ofertas laborales y sociales para quienes busquen vivir una experiencia a medias entre lo local y lo cosmopolita. Ya sean estudiantes o viajeros de Working Holiday, Christchurch se convierte en otro punto encuentro perfecto para la comunidad viajera, eso si en convivnecia con la comunidad que desde mi punto de vista es adorable.
 
-## Apartado salú por los pequeños pueblos: 
+## Apartado salú por los pequeños pueblos:
 
-No quiero dejar de mencionar a las pequeñas ciudades, pueblos y zonas de campo; otras vivencias que pueden armarse lejos de las urbes. Quizá sean un poco esas experiencias que se van dando, pero existen muchos pueblos muy hermosos cerca de las ciudades detalladas arriba en los que hay otro tipo de propuestas laborales y de opciones de alojamiento, ya sea con trabajos al aire libre o en diferentes áreas. Las posibilidades están bastante abiertas para quien se anime a soñar con vivir en un pueblo de montaña.
+No quiero dejar de mencionar a las pequeñas ciudades, pueblos y zonas de campo; otras vivencias que pueden resultar intereantes. Quizá sea que que, un poco esas experiencias que se van dando, pero existen muchos pueblos muy hermosos cerca de las ciudades detalladas arriba en los que hay otro tipo de propuestas laborales y de opciones de alojamiento, ya sea con trabajos al aire libre o en diferentes áreas. Las posibilidades están bastante abiertas para quien se anime a soñar con vivir en un pueblo de montaña.
 
 (Espacio para foto: Un rincón con encanto de algún pueblo de la Isla Sur)
 
 ## Mi vivencia como Chica de Ciudad en Christchurch
 
-La verdad es que no soy gran fanática de las ciudades, pero esta experiencia se dio y me pareció muy interesante. Luego de aplicar en diferentes trabajos en el camino, descansamos en un precioso free camping sin restricción de días en Lake side domain, el cual encontramos por la aplicación CamperMate, el mejor amigo del viajero en campervan. (Si quieres ver otras aplicaciones te invito a leer mi entrada sobre aplicaciones útiles en Nueva Zelanda).
+La verdad es que no soy gran fanática de las ciudades, pero esta experiencia se dio y me pareció muy interesante. Luego de aplicar en diferentes trabajos en el camino, descansamos en un precioso free camping sin restricción de días en Lake side domain, el cual encontramos por la aplicación CamperMate, el mejor amigo del viajero en campervan. (Si quieres ver otras aplicaciones te invito a leer esta entrada sobre aplicaciones útiles en Nueva Zelanda).
 
 La ciudad de Christchurch me esperaba para mostrarme el esplendor de su bello Jardín Botánico, sus actividades sociales y su reconstrucción en proceso después de los terremotos iniciados en 2010.
 
-Dato de seguridad geográfica: Sí, Christchurch se encuentra en una zona de actividad sísmica (terremotos provocados por fallas tectónicas), no de actividad volcánica activa directa, aunque la cercana península de Banks es de origen volcánico extinto. **La aplicación GeoNet en el teléfono siempre te informa al instante de cualquier movimiento de la tierra y te mantiene en calma.**
+*Dato de seguridad geográfica: Sí, Christchurch se encuentra en una zona de actividad sísmica (terremotos provocados por fallas tectónicas), no de actividad volcánica activa directa, aunque la cercana península de Banks es de origen volcánico extinto. **La aplicación GeoNet en el teléfono siempre te informa al instante de cualquier movimiento de la tierra y te mantiene en calma.***
 
 (Espacio para foto: El verde infinito del Jardín Botánico de Christchurch)
 
-Eso sí, desde lo que es el vivir allí, Christchurch es un verdadero lujo geográfico. Las colinas de Port Hills y sus senderos para hacer trekking están prácticamente en el patio trasero de la ciudad, a solo veinte minutos de distancia, mientras que la playa te espera a escasa media hora. Y si lo tuyo es la alta montaña o la nieve, los imponentes Alpes del Sur o centros de esquí están a solo dos horas en auto. Es el equilibrio perfecto entre la vida social urbana y escapadas constantes a la naturaleza salvaje.
+Eso sí, lo que es el vivir allí, Christchurch es un verdadero lujo geográfico. Las colinas de Port Hills y sus senderos para hacer trekking están prácticamente en el pegados a la ciudad, a solo veinte minutos de distancia, mientras que la playa se encuentra a media hora. También otros lugares de interés como Artur Pass, La peninsula de Akaroa y algunos centros de esquí a solo dos horas en auto. Es el equilibrio perfecto entre la vida social urbana y escapadas constantes a la naturaleza.
 
 Hay mucha gente usando aplicaciones para conectar con otros como Nomad Table o Bumble BFF. En la ciudad y se encuientra una gran oferta de actividades sociales, mercados, deportes, encuentros de idiomas, clases interesantes, experiencias culinarias, juegos de mini golf, pistas de patinaje y cine. Yo en esta ocasión compartí tardes de climbing (escalada) con amigos, bares nocturnos con música en vivo y un hermoso taller de joyería con gente local. Además de visitar algunos mercados locales.
 
@@ -83,16 +83,18 @@ Hay mucha gente usando aplicaciones para conectar con otros como Nomad Table o B
 
 Costo de vida en Christchurch
 
-Alimentación: El costo de vida es accesible. Salir a comer afuera es caro, pero hay una muy buena oferta de frutas y verduras de productores locales de Nueva Zelanda. La calidad y el sabor de los alimentos es excelente. Mi experiencia fue trabajando en un supermercado orgánico y tuve la suerte de poder probar verduras locales cultivadas sin químicos; muy buen alimento neozelandés.
+Alimentación: El costo de vida es accesible. Salir a comer afuera es caro, pero hay una amplia oferta de frutas y verduras Locales. En mi experiencia Trabajé en un mercado orgánico y de forma que pude  probar verduras locales y sin químicos; muy buen alimento.
 
 Comparación: Haciendo una comparación realista, el costo de vida se siente muy similar al de países como Uruguay o Costa Rica: un presupuesto medio que peude percibirse como alto si no se cuenta con un ingreso local.
 
-Vivienda: La vivienda es accesible y las zonas variadas, pero hay ciclovias, transporte público y calles preparadas. En cuanto al ¿Cómo buscar casa en Nueva Zelanda? para encontrar una habitación compartida *(flat)*, las dos herramientas que mejor me funcionaron fueron Trade Me (en la sección de *Flatmates wanted*) y los grupos de Facebook locales (como *Christchurch Flatmates*). En Facebook el trato es mucho más directo, rápido y personal, mientras que Trade Me es ideal para comparar precios reales y zonas de forma más organizada.
+Vivienda: La vivienda es accesible y las zonas variadas, pero hay ciclovias, transporte público y calles preparadas. En cuanto al ¿Cómo buscar casa en Nueva Zelanda? para encontrar una habitación compartida, las dos herramientas que mejor me funcionaron fueron Trade Me (en la sección de *Flatmates wanted*) y los grupos de Facebook locales (como *Christchurch Flatmates*). En Facebook el trato es mucho más directo, rápido y personal, mientras que Trade Me es ideal para comparar precios reales y zonas de forma más organizada.
 
 Capacidad de ahorro: Trabajar ganando el sueldo mínimo te permite tener una vida normal: cocinando en casa, rentando una habitación en una casa compartida y disfrutando de actividades o eventuales salidas. Esa fue mi vida y me permitió ahorrar.
 
+En resumen
+
 Trabajando en Christchurch es totalmente viable vivir en la ciudad y llevar una vida "normal e interesante" para quienes les gusta la dinámica urbana, hacer actividades variadas, trabajar y, eventualmente, tener escapadas a la montaña, hacer trekking o disfrutar del esquí en invierno.
 
-(Espacio para foto: Un mate frente a la montaña en una de tus escapadas de fin de semana)
+Una ciudad preciosa,a ctiva y bastanet fría que supo llamarse hogar en estos 6 meses, si queres concoer acerca de la ciudad de invito a leer este articulo: 
 
-(Aquí puedes redactar tu cierre final sobre la Isla Sur)
+(Espacio para foto: Un mate frente a la montaña en una de tus escapadas de fin de semana)
