@@ -4,9 +4,9 @@ title: Vivir como Working Holiday en la ciudad de Christchurch
 date: 2026-05-30T14:55:00.000+12:00
 tag: bitacora
 ---
-# Vivir como Working Holiday en la ciudad de Christchurch
+Hace un tiempo estoy viviendo este sueño de viajar por Nueva Zelanda trabajando con una visa de Work and Holiday y aunque es emocionante hay muchas cositas a resolver antes de emprender la aventura. Lo bueno y lo malo de viajar hoy en día es que hay un montón de información, de personas que ya vivieron esa experiencia. Personalmente uso mucho el recurso de YouTube, blogs e inteligencia artificial a la hora de conocer un lugar que me interesa o planificar un viaje. 
 
-Lo bueno y lo malo de viajar hoy en día es que hay un montón de información, de personas que ya vivieron esa experiencia. Personalmente uso mucho el recurso de YouTube, blogs e inteligencia artificial a la hora de conocer un lugar que me interesa o planificar un viaje.
+hace un tiempo me comenzaron a llegar mensajes de personas random preguntandome sobre mi experiencia, como estaba Nueva Zelanda en 2026, que necesitaban, ciudades etc, así que hice lo que más me gusta escribir para compartir mi experiencia a quien le aporte. Salú.
 
 ### Esta es mi experiencia viviendo 6 meses en Christchurch en 2026.
 
@@ -71,7 +71,7 @@ La verdad es que no soy gran fanática de las ciudades, pero esta experiencia se
 
 La ciudad de Christchurch me esperaba para mostrarme el esplendor de su bello Jardín Botánico, sus actividades sociales y su reconstrucción en proceso después de los terremotos iniciados en 2010.
 
-*Dato de seguridad geográfica: Sí, Christchurch se encuentra en una zona de actividad sísmica (terremotos provocados por fallas tectónicas), no de actividad volcánica activa directa, aunque la cercana península de Banks es de origen volcánico extinto. **La aplicación GeoNet en el teléfono siempre te informa al instante de cualquier movimiento de la tierra y te mantiene en calma.***
+\*Dato de seguridad geográfica: Sí, Christchurch se encuentra en una zona de actividad sísmica (terremotos provocados por fallas tectónicas), no de actividad volcánica activa directa, aunque la cercana península de Banks es de origen volcánico extinto. **La aplicación GeoNet en el teléfono siempre te informa al instante de cualquier movimiento de la tierra y te mantiene en calma.***
 
 (Espacio para foto: El verde infinito del Jardín Botánico de Christchurch)
 
