@@ -1,10 +1,10 @@
 ---
 layout: ../../layouts/BlogPostLayout.astro
-title: "Aotearoa: Donde la tierra comienza"
+title: "Historia sobre Aotearoa - New Zeland: la tierra de la larga nube blanca"
 date: 12 May 2026
 tag: bitacora
 main_image: /img/diario/img-lake-pearson-campamento-arthur-pass.jpeg
-description: Un poco de historia y contexto sobre Nueva Zelanda Aoteroa
+description: Un poco de la historia y contexto aprendidos sobre Nueva Zelanda - Aoteroa
 ---
 Nueva Zelanda es, quizás, el último suspiro de tierra firme en ser descubierto por la vida moderna. Suspendida en la inmensidad del Pacífico Sur, Aotearoa —la tierra de la larga nube blanca— no es solo un destino, sino un territorio con una geografía tan imponente como se ve en la pelicula del *El Señor de los Anillos*. En estas Islas, la identidad se ha forjado entre volcanes y vientos marinos creando un paisaje variado y único. Quienes habitan esta tierra se llaman a sí mismos kiwis,  se caracterizan por su forma de habitar la vida con una amabilidad silenciosa y un ritmo calmado. El disfrute está en las cosas simples: un fin de semana en la montaña, recorridos en bicicleta o un *roadtrip* para conocer nuevas zonas de la isla.
 
