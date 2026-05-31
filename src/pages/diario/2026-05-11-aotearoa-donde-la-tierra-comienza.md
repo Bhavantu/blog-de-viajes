@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPostLayout.astro
 title: "Historia sobre Aotearoa - New Zeland: la tierra de la larga nube blanca"
-date: 12 May 2026
+date: 2026-04-27T13:22:00.000+12:00
 tag: bitacora
 main_image: /img/diario/img-lake-pearson-campamento-arthur-pass.jpeg
 description: Un poco de la historia y contexto aprendidos sobre Nueva Zelanda - Aoteroa
