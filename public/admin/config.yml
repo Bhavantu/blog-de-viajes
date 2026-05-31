@@ -4,8 +4,8 @@ backend:
 
 publish_mode: editorial_workflow
 
-media_folder: "public/img"
-public_folder: "/img"
+media_folder: "public/img/diario"
+public_folder: "/img/diario"
 
 collections:
   - name: "diario"
