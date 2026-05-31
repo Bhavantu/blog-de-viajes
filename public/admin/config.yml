@@ -23,6 +23,22 @@ collections:
         widget: "select"
         options: ["bitacora", "fotografia", "punto de fuga", "vida local"]
         default: "bitacora"
+      - label: "País / Destino"
+        name: "pais"
+        widget: "select"
+        options: 
+          - "Nueva Zelanda"
+          - "Australia"
+          - "Fiji"
+          - "Indonesia"
+          - "Vietnam"
+          - "China"
+          - "Argentina"
+          - "Chile"
+          - "Múltiple / General"
+        default: "General"
+        required: false
+
       - {label: "Imagen de Portada", name: "main_image", widget: "image", required: false}
       - {label: "Descripción corta", name: "description", widget: "string", required: false}
       - {label: "Cuerpo", name: "body", widget: "markdown"}
