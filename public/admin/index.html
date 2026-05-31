@@ -3,14 +3,18 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Panel de Administración | YENDO</title>
+    <title>Panel de Administración | BLOGCITO</title>
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
   <body>
+    <!-- Script principal del CMS -->
     <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+    
     <script>
+      // 1. Cargar el CSS para la vista previa
       CMS.registerPreviewStyle("/admin/preview-styles.css");
 
+      // 2. Componente de Imagen Ajustable BLINDADO
       CMS.registerEditorComponent({
         id: "custom-image",
         label: "Imagen Ajustable",
@@ -21,17 +25,29 @@
           { name: "caption", label: "Pie de foto / Descripción (Opcional)", widget: "string", required: false }
         ],
         toBlock: function(obj) {
-          return `<div class="post-img-box img-${obj.size} img-${obj.align}"><img src="${obj.image}" alt="${obj.caption || 'Imagen de bitácora'}"><span class="img-caption">${obj.caption || ''}</span></div>`;
+          // Salvavidas para evitar variables 'undefined'
+          const size = obj.size || 'completo';
+          const align = obj.align || 'centro';
+          const imgUrl = obj.image || '';
+          const caption = obj.caption || '';
+          return `<div class="post-img-box img-${size} img-${align}"><img src="${imgUrl}" alt="Imagen de bitácora"><span class="img-caption">${caption}</span></div>`;
         },
-        pattern: /<div class="post-img-box img-(.*?) img-(.*?)"><img src="(.*?)" alt=".*?"><span class="img-caption">(.*?)<\/span><\/div>/,
+        // Regex mejorado: ([\s\S]*?) tolera que haya saltos de línea accidentales en el pie de foto
+        pattern: /<div class="post-img-box img-(.*?) img-(.*?)"><img src="(.*?)" alt=".*?"\s*\/?>\s*<span class="img-caption">([\s\S]*?)<\/span><\/div>/,
         fromBlock: function(match) {
           return { size: match[1], align: match[2], image: match[3], caption: match[4] };
         },
-        toPreview: function(obj) {
-          return `<div class="post-img-box img-${obj.size} img-${obj.align}"><img src="${obj.image}" style="width:100%; height:auto;" /><span class="img-caption">${obj.caption || ''}</span></div>`;
+        toPreview: function(obj, getAsset) {
+          const size = obj.size || 'completo';
+          const align = obj.align || 'centro';
+          const caption = obj.caption || '';
+          // String() fuerza a que el objeto de Netlify se convierta en una URL de texto puro
+          const imageAsset = obj.image ? String(getAsset(obj.image)) : '';
+          return `<div class="post-img-box img-${size} img-${align}"><img src="${imageAsset}" style="width:100%; height:auto;" /><span class="img-caption">${caption}</span></div>`;
         }
       });
 
+      // 3. Componente de Texto en Color BLINDADO
       CMS.registerEditorComponent({
         id: "colored-text",
         label: "Texto en Color",
@@ -40,14 +56,18 @@
           { name: "color", label: "Color", widget: "select", options: ["marron", "azul", "violeta"], default: "marron" }
         ],
         toBlock: function(obj) {
-          return `<span class="txt-color-${obj.color}">${obj.text}</span>`;
+          const color = obj.color || 'marron';
+          const text = obj.text || '';
+          return `<span class="txt-color-${color}">${text}</span>`;
         },
-        pattern: /<span class="txt-color-(.*?)">(.*?)<\/span>/,
+        pattern: /<span class="txt-color-(.*?)">([\s\S]*?)<\/span>/,
         fromBlock: function(match) {
           return { color: match[1], text: match[2] };
         },
         toPreview: function(obj) {
-          return `<span class="txt-color-${obj.color}">${obj.text}</span>`;
+          const color = obj.color || 'marron';
+          const text = obj.text || '';
+          return `<span class="txt-color-${color}">${text}</span>`;
         }
       });
     </script>
