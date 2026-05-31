@@ -47,8 +47,6 @@ Pro: Es muy hermoso y tiene un interesante nivel de actividad social.
 
 Pro 2: Hay traslado directo hasta Milford Sound, lugar que para mí es uno de los imperdibles de Nueva Zelanda.
 
-(Espacio para foto: La vibrante vida frente al lago en Queenstown)
-
 ## Dunedin
 
 Esta ciudad, de acento escocés, conocida como "daniden" tiene bastante de local y auténtico. La verdad es que me daba buena espina porque conocimos a una pareja acampando en un precioso lago en Roxburgh: alegres, amables y relajados.
@@ -73,7 +71,7 @@ La verdad es que no soy gran fanática de las ciudades, pero esta experiencia se
 
 La ciudad de Christchurch me esperaba para mostrarme el esplendor de su bello Jardín Botánico, sus actividades sociales y su reconstrucción en proceso después de los terremotos iniciados en 2010.
 
-\*Dato de seguridad geográfica: Sí, Christchurch se encuentra en una zona de actividad sísmica (terremotos provocados por fallas tectónicas), no de actividad volcánica activa directa, aunque la cercana península de Banks es de origen volcánico extinto. **La aplicación GeoNet en el teléfono siempre te informa al instante de cualquier movimiento de la tierra y te mantiene en calma.**
+*Dato de seguridad geográfica: Sí, Christchurch se encuentra en una zona de actividad sísmica (terremotos provocados por fallas tectónicas), no de actividad volcánica activa directa, aunque la cercana península de Banks es de origen volcánico extinto. **La aplicación GeoNet en el teléfono siempre te informa al instante de cualquier movimiento de la tierra y te mantiene en calma.***
 
 Eso sí, lo que es el vivir allí, Christchurch es un verdadero lujo geográfico. Las colinas de Port Hills y sus senderos para hacer trekking están prácticamente en el pegados a la ciudad, a solo veinte minutos de distancia, mientras que la playa se encuentra a media hora. También otros lugares de interés como Artur Pass, La peninsula de Akaroa y algunos centros de esquí a solo dos horas en auto. Es el equilibrio perfecto entre la vida social urbana y escapadas constantes a la naturaleza.
 
@@ -83,7 +81,7 @@ Hay mucha gente usando aplicaciones para conectar con otros como Nomad Table o B
 
 **Alimentación:** El costo de vida es accesible. Salir a comer afuera es caro, pero hay una amplia oferta de frutas y verduras Locales. En mi experiencia Trabajé en un mercado orgánico y de forma que pude  probar verduras locales y sin químicos; muy buen alimento.
 
-Comparación: Haciendo una comparación realista, el costo de vida se siente muy similar al de países como Uruguay o Costa Rica: un presupuesto medio que puede percibirse como alto si no se cuenta con un ingreso local.
+**Comparación:** Si tuviera que hacer una comparación general para cualquier viajero, el costo de vida aquí puede resultar elevado al principio si vienes con ahorros de otros paises. Pero una vez que empiezas a generar un ingreso local, todo cambia y la relación entre lo que ganas y lo que gastas se vuelve más llevadera.
 
 **Vivienda:** La vivienda es accesible y las zonas variadas, pero hay ciclovias, transporte público y calles preparadas. En cuanto al ¿Cómo buscar casa en Nueva Zelanda? para encontrar una habitación compartida, las dos herramientas que mejor me funcionaron fueron Trade Me (en la sección de *Flatmates wanted*) y los grupos de Facebook locales (como *Christchurch Flatmates*). En Facebook el trato es mucho más directo, rápido y personal, mientras que Trade Me es ideal para comparar precios reales y zonas de forma más organizada.
 
