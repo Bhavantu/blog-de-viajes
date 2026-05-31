@@ -3,6 +3,7 @@ backend:
   branch: main
 
 publish_mode: editorial_workflow
+locale: "es"
 
 media_folder: "public/img/diario"
 public_folder: "/img/diario"
@@ -20,7 +21,7 @@ collections:
       - label: "Etiqueta"
         name: "tag"
         widget: "select"
-        options: ["bitacora", "fotografia", "punto de fuga"]
+        options: ["bitacora", "fotografia", "punto de fuga", "vida local"]
         default: "bitacora"
       - {label: "Imagen de Portada", name: "main_image", widget: "image", required: false}
       - {label: "Descripción corta", name: "description", widget: "string", required: false}
