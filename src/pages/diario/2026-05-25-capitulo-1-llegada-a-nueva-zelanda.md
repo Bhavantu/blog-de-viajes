@@ -13,9 +13,9 @@ Viajar a Nueva Zelanda era un deseo que tocaba la puerta de la curiosidad desde 
 
 Con los años el deseo creció. En 2025 apliqué online para una visa de viaje y trabajo (*Working Holiday New Zealand*) que me permitiría vivir la experiencia durante un año en 2026. El sueño del roadtrip en camper por toda la isla con buena música, compañía y un mate uruguayo era sin duda uno de mis objetivos en mi *dream board*.
 
-<div class="post-img-box img-mediano img-izquierda"><img src="/img/well-kiwi-benefits-03-gjtz-facebookjumbo.jpg" alt="El kiwi (kiwifruit) y sus variedades"><span class="img-caption">El kiwi (kiwifruit) y sus variedades</span></div>
+<div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/well-kiwi-benefits-03-gjtz-facebookjumbo.jpg" alt="El kiwi (kiwifruit) y sus variedades"><span class="img-caption">El kiwi (kiwifruit) y sus variedades</span></div>
 
-<div class="post-img-box img-mediano img-derecha"><img src="/img/brown-kiwi-bird-furry-chicks-600nw-2681510463.webp" alt="kiwi bird "><span class="img-caption">kiwi bird </span></div>
+<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/kiwibird.jpg" alt="kiwi bird "><span class="img-caption">kiwi bird </span></div>
 
 Nueva Zelanda, un país donde los locales se llaman a sí mismos como un pájaro autóctono nocturno (*kiwi bird*) y una fruta (*kiwi fruit*); sí, todo al mismo tiempo. Mezcla de gente amable y resolutiva, que disfruta de la tranquilidad y la calma. La verdad es lindo compartir con estas personas en el viaje. Durante algunos meses viajamos y vivimos la experiencia de vivir en una camper van, hacer trekking, conocer paisajes increíbles.
 
