@@ -13,9 +13,9 @@ Viajar a Nueva Zelanda era un deseo que tocaba la puerta de la curiosidad desde 
 
 Con los años el deseo creció. En 2025 apliqué online para una visa de viaje y trabajo (*Working Holiday New Zealand*) que me permitiría vivir la experiencia durante un año en 2026. El sueño del roadtrip en camper por toda la isla con buena música, compañía y un mate uruguayo era sin duda uno de mis objetivos en mi *dream board*.
 
-<div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/well-kiwi-benefits-03-gjtz-facebookjumbo.jpg" alt="Imagen de bitácora"><span class="img-caption">El kiwi (kiwifruit) y sus variedades</span></div>
+<div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/well-kiwi-benefits-03-gjtz-facebookjumbo.jpg" alt="El kiwi (kiwifruit) y sus variedades"><span class="img-caption">El kiwi (kiwifruit) y sus variedades</span></div>
 
-<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/kiwibird.jpg" alt="Imagen de bitácora"><span class="img-caption">kiwibird</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/kiwibird.jpg" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 \
 \
@@ -33,9 +33,9 @@ Alegres y con gran decisión nos lanzamos a la aventura. Conseguimos la van de n
 
 Descubrimos la belleza de la zona sagrada de Mount Maunganui (Mauao) y paseamos por la increíble península de Coromandel. La vegetación selvática y el clima húmedo y cálido nos presentaron la esencia costera de la isla en la zona de Tauranga.
 
-![]( "Vista desde la subida al Mont Manganui")
-
 ## Mont Manganui
+
+![](/img/img_5531.jpeg "Vista desde el Mont Manganui al atardecer ")
 
 Mucha gente que viene a nueva Zelanda elije esta zona para quedarse, y la verdad es que se siente un poco mágica, la belleza del inmenso monte que bordea con el agua del pacifico, las islas tupidas de arboles alrededor de la playa. La cercanía con ciudades y restaurantes. Es un lugar presioso para pasar una temporada. En verano el movimiento era bastante y las actividades variadas, disfrutamos de idas a la playa subidas al al monte con vistas increibles del atardecer. Además nuestros amigos nos contaron historias locales como la leyenda maori del monte y sobre los Steel freaming que son el logo de los famosos All black. 
 
@@ -43,7 +43,7 @@ Mucha gente que viene a nueva Zelanda elije esta zona para quedarse, y la verdad
 
 Unos días en playas paradisíacas, agua helada y transparente.
 
-<div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/0d27c22d-8ac1-41d7-8b29-3d69cad7e9ba.jpeg" alt="Imagen de bitácora"><span class="img-caption">Playa en Whangamata</span></div>
+![](/img/0d27c22d-8ac1-41d7-8b29-3d69cad7e9ba.jpeg.jpeg "Playa de Whangamata")
 
 Antiguamente conocida por los maoríes como *Hauraki* —quienes habitaron la zona durante más de un milenio. La península fue marcada por su vivencia durante la fiebre del oro en su encuentro con Europa. Thames tuvo una intensa explotación de sus milenarios bosques del árbol kauri y actividad minera que se extendió hasta mediados del siglo XX, multiplicando la población de la zona casi al punto de superar a la capital, Auckland.
 
@@ -55,12 +55,10 @@ Coromandel combina la historia de su tierra con una cultura local relajada, art�
 
 **McLaren Falls Park:** A solo 15 minutos de Mount Maunganui, este parque fue una escapada increíble. La calma reinante, la frescura húmeda de la cascada, los patos deslizándose por el agua y las familias paseando tranquilas durante el fin de semana nos regalaron un impacto sumamente positivo para comenzar a entender el viaje por Nueva Zelanda.
 
-<div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/img_5577.jpeg" alt="Imagen de bitácora"><span class="img-caption">El fotografo fotografiado </span></div>
-
 Este parque cuenta con 190 hectáreas de pura naturaleza y alberga una de las colecciones botánicas de árboles más impresionantes del país. Aquí destaca especialmente su asombrosa mezcla de gigantes nativos como el majestuoso **Rimu** (pino rojo), el venerado **Totara**, el altísimo **Kahikatea** y el icónico helecho plateado (**Ponga**), que conviven con especies exóticas que transforman el paisaje con colores espectaculares en cada estación del año. 
 
 Además, cuenta con varios senderos llanos y muy accesibles; entre ellos destaca el *Waterfall Track*, una caminata corta de apenas 20 minutos que se adentra en un frondoso bosque nativo hasta llegar a esta pequeña pero preciosa cascada.
 
 Otro Lugar increible que visitamos fue el **Refugio de Aves Maunga tautare** un lugar cuidado por el departamento de conservación,   para el que mas vale una fota que mil palabras.
 
-<div class="post-img-box img-grande img-centro"><img src="/img/diario/dsc_0375.jpg" alt="Imagen de bitácora"><span class="img-caption">Caminando por el santuario con Emi, nuestro amigo y guia local </span></div>
+<div class="post-img-box img-grande img-centro"><img src="/img/diario/dsc_0375.jpg" alt="Caminando por el santuario con Emi, nuestro amigo y guia local "><span class="img-caption">Caminando por el santuario con Emi, nuestro amigo y guia local </span></div>
