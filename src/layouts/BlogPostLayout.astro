@@ -2,7 +2,7 @@
 import Layout from './Layout.astro';
 const { frontmatter } = Astro.props;
 ---
-<Layout title={`${frontmatter.title} | YENDO`}>
+<Layout title={frontmatter.title} description={frontmatter.description} BLOGCITO>
     <main class="container">
         <article class="article-view" style="display: block;">
             <a href="/diario" class="back-btn">← Volver al diario</a>
