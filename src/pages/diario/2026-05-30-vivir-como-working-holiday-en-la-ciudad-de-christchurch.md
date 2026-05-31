@@ -79,17 +79,17 @@ Eso sí, lo que es el vivir allí, Christchurch es un verdadero lujo geográfico
 
 Hay mucha gente usando aplicaciones para conectar con otros como Nomad Table o Bumble BFF. En la ciudad y se encuientra una gran oferta de actividades sociales, mercados, deportes, encuentros de idiomas, clases interesantes, experiencias culinarias, juegos de mini golf, pistas de patinaje y cine. Yo en esta ocasión compartí tardes de climbing (escalada) con amigos, bares nocturnos con música en vivo y un hermoso taller de joyería con gente local. Además de visitar algunos mercados locales.
 
-Costo de vida en Christchurch
+### Costo de vida en Christchurch
 
-Alimentación: El costo de vida es accesible. Salir a comer afuera es caro, pero hay una amplia oferta de frutas y verduras Locales. En mi experiencia Trabajé en un mercado orgánico y de forma que pude  probar verduras locales y sin químicos; muy buen alimento.
+**Alimentación:** El costo de vida es accesible. Salir a comer afuera es caro, pero hay una amplia oferta de frutas y verduras Locales. En mi experiencia Trabajé en un mercado orgánico y de forma que pude  probar verduras locales y sin químicos; muy buen alimento.
 
-Comparación: Haciendo una comparación realista, el costo de vida se siente muy similar al de países como Uruguay o Costa Rica: un presupuesto medio que peude percibirse como alto si no se cuenta con un ingreso local.
+Comparación: Haciendo una comparación realista, el costo de vida se siente muy similar al de países como Uruguay o Costa Rica: un presupuesto medio que puede percibirse como alto si no se cuenta con un ingreso local.
 
-Vivienda: La vivienda es accesible y las zonas variadas, pero hay ciclovias, transporte público y calles preparadas. En cuanto al ¿Cómo buscar casa en Nueva Zelanda? para encontrar una habitación compartida, las dos herramientas que mejor me funcionaron fueron Trade Me (en la sección de *Flatmates wanted*) y los grupos de Facebook locales (como *Christchurch Flatmates*). En Facebook el trato es mucho más directo, rápido y personal, mientras que Trade Me es ideal para comparar precios reales y zonas de forma más organizada.
+**Vivienda:** La vivienda es accesible y las zonas variadas, pero hay ciclovias, transporte público y calles preparadas. En cuanto al ¿Cómo buscar casa en Nueva Zelanda? para encontrar una habitación compartida, las dos herramientas que mejor me funcionaron fueron Trade Me (en la sección de *Flatmates wanted*) y los grupos de Facebook locales (como *Christchurch Flatmates*). En Facebook el trato es mucho más directo, rápido y personal, mientras que Trade Me es ideal para comparar precios reales y zonas de forma más organizada.
 
-Capacidad de ahorro: Trabajar ganando el sueldo mínimo te permite tener una vida normal: cocinando en casa, rentando una habitación en una casa compartida y disfrutando de actividades o eventuales salidas. Esa fue mi vida y me permitió ahorrar.
+**Capacidad de ahorro:** Trabajar ganando el sueldo mínimo te permite tener una vida normal: cocinando en casa, rentando una habitación en una casa compartida y disfrutando de actividades o eventuales salidas. Esa fue mi vida y me permitió ahorrar.
 
-En resumen
+**En resumen**
 
 Trabajando en Christchurch es totalmente viable vivir en la ciudad y llevar una vida "normal e interesante" para quienes les gusta la dinámica urbana, hacer actividades variadas, trabajar y, eventualmente, tener escapadas a la montaña, hacer trekking o disfrutar del esquí en invierno.
 
