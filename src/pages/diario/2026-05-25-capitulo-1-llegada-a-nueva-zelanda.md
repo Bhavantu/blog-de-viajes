@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/BlogPostLayout.astro
-title: Capitulo 1 Llegada a Nueva Zelanda.
+title: Capitulo 1 Llegada a Nueva Zelanda
 date: 2026-05-25T13:57:00.000+12:00
 tag: bitacora
 main_image: /img/diario/img_5481.jpeg
