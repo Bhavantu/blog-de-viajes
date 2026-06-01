@@ -3,9 +3,10 @@ layout: ../../layouts/BlogPostLayout.astro
 title: Capitulo 1 Llegada a Nueva Zelanda
 date: 2026-05-25T13:57:00.000+12:00
 tag: bitacora
-main_image: /img/diario/img_5481.jpeg
+pais: Nueva Zelanda
 description: Un breve resumen que ordena la experiencia y ampliar en los
   diferentes destinos de la Isla Norte
+main_image: /img/diario/img_5481.jpeg
 ---
 **El sueño está en camino**
 
