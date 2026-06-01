@@ -9,27 +9,21 @@ description: "Chrischurch una ciduad con lo mejor de los mundos. Descubrí cómo
   viviendo 6 meses: costo de vida, trabajo y naturaleza."
 main_image: /img/diario/whatsapp-image-2026-05-08-at-23.14.31.jpeg
 ---
-Lo bueno y lo malo de viajar hoy en día es que hay un montón de información, de personas que ya vivieron esa experiencia. Personalmente uso mucho el recurso de YouTube, blogs e inteligencia artificial a la hora de conocer un lugar que me interesa o planificar un viaje.
 
-Esta es mi experiencia viviendo 6 meses en Christchurch en 2026.
 
-Luego de un largo viaje de vacaciones por la Isla Sur estaba preparada para tener una experiencia de “vida local” y al recorrer la costa este de la Isla Sur fui mirando algunas ciudades y también buscando ofertas de trabajo.
+**De la ruta a la "vida local": por qué elegí Christchurch como base de mi Working Holiday**
 
-## Planificar la ruta en la Isla Sur: ¿Dónde buscar trabajo?
+Lo bueno y lo malo de viajar hoy en día es que estamos inundados de información. Hay mil personas que ya vivieron la experiencia. Personalmente, uso muchísimo YouTube, blogs e inteligencia artificial a la hora de planificar un viaje o conocer un lugar que me interesa. Pero la verdad, la verdad se va descubriendo. las ciudades son muchas y cada una tiene sus pro y sus contras. Al final me termine decidiendo por Chrischurch una ciudad de la Isla Sur en la que iría descubriendo paisajes hermosos y una población muy unida y resiliente, una ciudad que se reconstruye desde el terremoto de 2010 y es una gran ciudad variopinta y en movimiento. 
 
-Las plataformas principales por las que encontré ofertas de trabajo son:
+Esta es mi experiencia real viviendo seis meses en Christchurch durante este 2026. Luego de un largo viaje de vacaciones por la Isla Sur, estaba preparada para tener una experiencia de "vida local". Mientras recorría la costa este, fui analizando ciudades y testeando el mercado laboral. Si estás en esa etapa de elegir base, en esta entrada te cuento mi experiencia y cómo tomé la decisión.
 
-* Seek: Es el portal de empleo más grande de Nueva Zelanda. Lo mejor es crearse un perfil completo, subir el currículum en formato local y activar las alertas diarias para las áreas que te interesen. Pero revisar de forma manual me fue un ejercicio útil.
-* Backpackerboard: Es la biblia de los trabajos temporales o de temporada (como la recolecta de fruta o trabajos en hostales). Muchas de las ofertas aquí publicadas ofrecen también opciones de alojamiento. También en horticultura en la página oficial de pick.nz.
-* Trade Me Jobs: Funciona dentro de la plataforma que es como el “Mercado Libre” de Nueva Zelanda, pero tiene un buscador de trabajos muy potente y con ofertas muy variadas y locales. También sirve para encontrar casa compartida.
+: Una toma abierta de la ciudad donde se note el contraste urbano con el Río Avon o las colinas de fondo. *Epígrafe sugerido: "Primeros días recorriendo Christchurch: el balance perfecto entre asfalto y verde.*
 
-# Eligiendo base: Ciudades de la Isla Sur que visité para vivir
+## **¿Miedo a elegir ciudad? Por qué Christchurch fue mi gran acierto en Nueva Zelanda**
 
-* Queenstown:
-* Dunedin
-* Chrischurch:
+Antes de terminar en Christchurch, visité y analicé otras opciones de las que seguro oiste hablar. Cada una tiene su pro y sus contras. y aunque visité ambas costas acá va un breve analisis de las grandes ciudades de la isla sur para vivir en nueva Zelanda en 2026, costa este. 
 
-## Queenstown: Turismo vibrante y el reto del alojamiento
+### Queenstown: Turismo vibrante y el desafío del alojamiento
 
 Es muy hermosa, tiene un ambiente vibrante y turístico (estuve ahí en verano) y la zona estaba muy movida. En la plaza que se encuentra frente al lago, los artistas callejeros, puestos de comida y música acompañan la caminata por la orilla. También noté gente haciendo slackline y ejercicios en la plaza de entrada, lo cual desde mi punto de vista era un plus para vivir: un ambiente relajado y social.
 
@@ -43,6 +37,8 @@ Pros y contras que observamos y otras personas nos contaron:
 * Contras: Es más caro y es bastante chico, con bastantes pendientes en sus calles centrales.
 * Pro: Es muy hermoso y tiene un interesante nivel de actividad social.
 * Pro 2: Hay traslado directo hasta Milford Sound, lugar que para mí es uno de los imperdibles de Nueva Zelanda.
+
+tip de viaje, si te itneresa trabajar en un centro de esqui hay que tener en cuenta que aunque abren en junio,  **las búsquedas y los contratos se cierran en marzo o abril**.
 
 ### Dunedin: Arquitectura victoriana y auténtica vida local
 
