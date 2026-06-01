@@ -16,6 +16,8 @@ Al comienzo simplemente iba a ver los autos y miraba confundida intentando sacar
 
 En este post encontrarás información básica sobre conceptos, trámites legales y recomendaciones que debes conocer antes de comprar un auto en Nueva Zelanda en 2026, junto con una checklist de consejos mecánicos para evaluar un auto al momento de la compra basado en nuestra experiencia personal e información chequeada.
 
+## Conceptos clave: Los papeles del vehículo en Nueva Zelanda explicado
+
 ### WOF (Warrant of Fitness): El examen de salud de tu coche
 
 Válido por 1 año (más información abajo).
@@ -120,6 +122,6 @@ Si le compraste a un particular: Aunque es más difícil, si tienes pruebas de q
 
 Comprar tu primer auto en el extranjero es una mezcla de adrenalina pura, emoción y un poquito de miedo. Ese auto camper será tu casa por un tiempo, durante la aventura en un país que está preparado para que sea épico (en este post podés ver algunas apps esenciales para conseguir camping gratis). 
 
-<div class="post-img-box img-pequeño img-izquierda"><img src="/img/diario/img_6059.jpeg" alt="Imagen de bitácora"><span class="img-caption">Vista desde la camper en Bowentown Look Out</span></div>
+<div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/img_6059.jpeg" alt="Imagen de bitácora"><span class="img-caption">Vista desde la camper en Bowentown Look Out</span></div>
 
 Es un camping móvil, un refugio para las noches de lluvia y el mejor hotel para despertarse con la mejor vista a las montañas; literalmente es un pasaporte a la libertad por las carreteras de Nueva Zelanda. Precisamente porque es un sueño tan lindo y una experiencia que recomiendo altamente, vale la pena tomárselo con calma, leer, informarse, consultar a gente que sabe. No te dejes apurar por la prisa del vendedor, no te enamores del primer auto que brille por fuera y confía siempre en tu intuición. El mercado es enorme y el auto ideal para tu ruta te está esperando en alguna parte. Mucha suerte en la búsqueda y si estás en pleno proceso o tienes dudas sobre algo, no dudes en dejar tu comentario debajo. Si nos ayudamos entre todos tenemos más chances de vivir el sueño y menos la pesadilla.
