@@ -58,9 +58,11 @@ La verdad es que no soy gran fanática de las ciudades, pero esta experiencia se
 
 La ciudad de Christchurch me esperaba para mostrarme el esplendor de su bello Jardín Botánico, sus actividades sociales y su reconstrucción en proceso después de los terremotos iniciados en 2010.
 
-### Seguridad geográfica: ¿Qué pasa con los terremotos en Christchurch?
+### Terremotos en Chrischurch ¿Es seguro vivir en la ciudad actualmente?
 
-Sí, Christchurch se encuentra en una zona de actividad sísmica (terremotos provocados por fallas tectónicas), no de actividad volcánica activa directa, aunque la cercana Península de Banks es de origen volcánico extinto. La aplicación **GeoNet** en el teléfono siempre te informa al instante de cualquier movimiento de la tierra y te mantiene en calma.
+Christchurch se encuentra en una zona de actividad sísmica (con terremotos provocados por fallas tectónicas), pero no de actividad volcánica activa directa, aunque la cercana Península de Banks tiene un origen volcánico extinto. Lo cierto es que en cualquier parte de Nueva Zelanda existe riesgo de actividad sísmica y esta ciudad tiene sus antecedentes históricos.
+
+Sin embargo, lo positivo es que el país es sumamente preventivo y cuenta con procedimientos estandarizados de seguridad muy claros. Además, la aplicación GeoNet en el teléfono te informa al instante sobre cualquier movimiento de la tierra, lo que ayuda a mantener la calma. Por otro lado, siempre es fundamental que conozcas de antemano la información oficial sobre qué hacer en caso de sismo o alerta.
 
 ### Naturaleza y vida social: El equilibrio perfecto
 
