@@ -5,6 +5,8 @@ title: "Comprar una Campervan o auto en Nueva Zelanda: Guía para no morir en el
 date: 2026-06-01T12:36:00.000+12:00
 tag: vida local
 pais: Nueva Zelanda
+main_image: /img/diario/whatsapp-image-2026-06-01-at-13.01.13.jpeg
+description: Acampar en free camping Campervan en los Alpes del Sur 2026
 ---
 Nuestro sueño cuando llegamos era comprar una van en Nueva Zelanda, vivir una aventura soñada en las montañas, despertarse con vistas épicas y disfrutar de las tardes de brisa suave. Muchos viajeros soñamos con ese roadtrip pero claramente sin que nos estafen en el intento; seamos realistas la mayoría de los que viajamos con una visa de *Working Holiday* no somos mecánicos profesionales
 
