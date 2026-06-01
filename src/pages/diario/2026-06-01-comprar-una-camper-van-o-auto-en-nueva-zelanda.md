@@ -20,7 +20,14 @@ En este post encontrarás información básica sobre conceptos, trámites legale
 
 ### WOF (Warrant of Fitness): El examen de salud de tu coche
 
-Válido por 1 año (más información abajo).
+Más abajo ampliaré sobre este punto fundamental pero básicamente, es la revisión técnica obligatoria que certifica que el vehículo es seguro para circular por la calle (frenos, luces, neumáticos, cinturones y chasis y óxido estructural).
+
+Los plazos de validez varían según la antigüedad del auto:
+
+* Si el auto fue matriculado a partir del 1 de enero del año 2000: La WOF es válida por 12 meses.
+* Si el auto es más viejo (modelo 1999 o anterior): La inspección es ultra estricta y obligatoria cada 6 meses.
+
+
 
 ### REGO (Registration): El impuesto obligatorio de circulación
 
