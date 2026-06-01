@@ -18,7 +18,7 @@ En este post encontrarás información básica sobre conceptos, trámites legale
 
 ## Conceptos clave: Los papeles del vehículo en Nueva Zelanda explicado
 
-### WOF (Warrant of Fitness): El examen de salud de tu coche
+### 1. WOF (Warrant of Fitness): El examen de salud de tu coche
 
 Más abajo ampliaré sobre este punto fundamental pero básicamente, es la revisión técnica obligatoria que certifica que el vehículo es seguro para circular por la calle (frenos, luces, neumáticos, cinturones y chasis y óxido estructural).
 
@@ -27,9 +27,7 @@ Los plazos de validez varían según la antigüedad del auto:
 * Si el auto fue matriculado a partir del 1 de enero del año 2000: La WOF es válida por 12 meses.
 * Si el auto es más viejo (modelo 1999 o anterior): La inspección es ultra estricta y obligatoria cada 6 meses.
 
-
-
-### REGO (Registration): El impuesto obligatorio de circulación
+### 2. REGO (Registration): El impuesto obligatorio de circulación
 
 Es el impuesto de circulación obligatorio (patente). Es una etiqueta de papel que va pegada en el parabrisas (abajo a la izquierda, del lado del acompañante) y que muestra su fecha de vencimiento. Básicamente, es lo que le pagas al gobierno para tener derecho a usar las carreteras. Cuesta unos $100 NZD al año y puedes renovarlo por 3, 6 o 12 meses en el mismo correo.
 
@@ -39,15 +37,17 @@ No heredes deudas: Si el dueño anterior dejó vencer el Rego hace tres meses y 
 
 El límite de los 12 meses: Si un auto pasa más de un año con el Rego vencido, el gobierno lo borra del sistema y le quita las patentes. Volver a registrarlo es un dolor de cabeza carísimo, así que si el Rego lleva caducado muchos meses, mejor busca otra opción.
 
-## ¿Cómo poner el auto a tu nombre? El trámite de cambio de titularidad(Change of Ownership): Simple y rápido
+## 3. ¿Cómo poner el auto a tu nombre? El trámite de cambio de titularidad(Change of Ownership): Simple y rápido
 
 Para hacer el cambio de dueño en persona puedes ir a cualquier oficina del correo local (PostShop), a una sucursal de la AA habilitada para cambio de titularidad o a un centro de VTNZ.
 
 * ¿Qué llevar?: Tu pasaporte, tu licencia de conducir de tu país (junto con su traducción oficial o el carnet internacional) y unos $15 NZD.
 * El Formulario: Al llegar, buscas el Formulario MR13B (Notice to buyer of registered motor vehicle). Lo llenas en dos minutos con tus datos, los del vendedor y los del auto, lo entregas en ventanilla, pagas y listo.
-* Por ley, él también tiene que avisar que vendió el auto llenando otro papel (el MR13A). Recuérdale que lo haga el mismo día para que el sistema de transporte (NZTA) cruce los datos correctamente (puede hacerlo online).
+* Por ley, él también tiene que avisar que vendió el auto llenando otro papel (el MR13A). Recuérdale que lo haga el mismo día para que el sistema de transporte (NZTA) cruce los datos correctamente (puede hacerlo online)
 
-### Seguro automotriz: Lo que debes saber para viajar tranquilo
+
+
+### 4. Seguro automotriz: Lo que debes saber para viajar tranquilo
 
 A diferencia de muchos de nuestros países, en Nueva Zelanda el seguro del auto no es obligatorio por ley, pero viajar sin él en min opinion es una locura. Existen tres tipos de cobertura, pero para el presupuesto mochilero la opción básica e indispensable es el Third Party Insurance (Seguro contra terceros). Este seguro no cubre los daños de tu auto, pero sí paga los arreglos del vehículo que hayas chocado si el accidente fue tu culpa. Compañías como la AA o AMI te permiten contratarlo online en cinco minutos y pagarlo mes a mes por muy pocos dólares. 
 
