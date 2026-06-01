@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPostLayout.astro
 title: "La ciudad de Chrischurch: Un hogar entre el Río Avon y los Alpes del Sur"
 date: 2026-05-08T13:10:00.000+12:00
-tag: bitacora
+tag: vida local
 main_image: /img/diario/whatsapp-image-2026-05-08-at-23.14.31.jpeg
 description: "Chrischurch una ciduad con lo mejor de los mundos "
 ---
