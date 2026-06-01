@@ -2,7 +2,8 @@
 layout: ../../layouts/BlogPostLayout.astro
 title: Vivir como Working Holiday en la ciudad de Christchurch
 date: 2026-05-30T14:55:00.000+12:00
-tag: bitacora
+tag: vida local
+main_image: /img/diario/img_6757.jpeg
 ---
 Hace un tiempo estoy viviendo este sueño de viajar por Nueva Zelanda trabajando con una visa de Work and Holiday y aunque es emocionante hay muchas cositas a resolver antes de emprender la aventura. Lo bueno y lo malo de viajar hoy en día es que hay un montón de información, de personas que ya vivieron esa experiencia. Personalmente uso mucho el recurso de YouTube, blogs e inteligencia artificial a la hora de conocer un lugar que me interesa o planificar un viaje. 
 
@@ -31,7 +32,7 @@ Trade Me Jobs: Funciona dentro de la plataforma que es como el "Mercado Libre" d
 
 Es muy hermosa, tiene un ambiente vibrante y turístico (estuve ahí en verano) y la zona estaba muy movida. En la plaza que se encuentra frente al lago, los artistas callejeros, puestos de comida y música acompañan la caminata por la orilla. También noté gente haciendo slackline y ejercicios en la plaza de entrada, lo cual desde mi punto de vista era un plus para vivir: un ambiente relajado y social.
 
-<div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/whatsapp-image-2026-06-01-at-14.38.17-1-.jpeg" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 La zona del centro está colmada de restaurantes y hoteles en los cuales se puede comer delicioso, probando buena comida de diferentes partes del mundo, pero el valor de los platos es de $20 NZD en adelante. Yo conocí el auténtico Pad Thai y probé una heladería argentina frente al lago; ambos momentos fueron bastante memorables. Por otro lado, para quien quiere trabajar, la oferta laboral es bastante amplia en relación al sector de los servicios.
 
@@ -55,7 +56,7 @@ Pronunciado como Daniden esta ciudad tiene bastante de local y autentico. La ver
 
 ## Finalmente, la ciudad de Christchurch
 
-<div class="post-img-box img-mediano img-izquierda"><img src="/img/foto-chrischurch.jpg" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+<div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/alexandria.jpeg" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 Joyita descubierta: una ciudad vibrante, moderna y abrazada por la naturaleza, con muchísimas ofertas laborales y sociales para quienes busquen vivir una experiencia a medias entre lo local y lo cosmopolita. Ya sean estudiantes o viajeros de Working Holiday, Christchurch se convierte en otro punto encuentro perfecto para la comunidad viajera, eso si en convivnecia con la comunidad que desde mi punto de vista es adorable.
 
@@ -71,11 +72,11 @@ La verdad es que no soy gran fanática de las ciudades, pero esta experiencia se
 
 La ciudad de Christchurch me esperaba para mostrarme el esplendor de su bello Jardín Botánico, sus actividades sociales y su reconstrucción en proceso después de los terremotos iniciados en 2010.
 
-*Dato de seguridad geográfica: Sí, Christchurch se encuentra en una zona de actividad sísmica (terremotos provocados por fallas tectónicas), no de actividad volcánica activa directa, aunque la cercana península de Banks es de origen volcánico extinto. **La aplicación GeoNet en el teléfono siempre te informa al instante de cualquier movimiento de la tierra y te mantiene en calma.***
+Dato de seguridad geográfica: Sí, Christchurch se encuentra en una zona de actividad sísmica (terremotos provocados por fallas tectónicas), no de actividad volcánica activa directa, aunque la cercana península de Banks es de origen volcánico extinto. **La aplicación GeoNet en el teléfono siempre te informa al instante de cualquier movimiento de la tierra y te mantiene en calma.***
 
 Eso sí, lo que es el vivir allí, Christchurch es un verdadero lujo geográfico. Las colinas de Port Hills y sus senderos para hacer trekking están prácticamente en el pegados a la ciudad, a solo veinte minutos de distancia, mientras que la playa se encuentra a media hora. También otros lugares de interés como Artur Pass, La peninsula de Akaroa y algunos centros de esquí a solo dos horas en auto. Es el equilibrio perfecto entre la vida social urbana y escapadas constantes a la naturaleza.
 
-Hay mucha gente usando aplicaciones para conectar con otros como Nomad Table o Bumble BFF. En la ciudad y se encuientra una gran oferta de actividades sociales, mercados, deportes, encuentros de idiomas, clases interesantes, experiencias culinarias, juegos de mini golf, pistas de patinaje y cine. Yo en esta ocasión compartí tardes de climbing (escalada) con amigos, bares nocturnos con música en vivo y un hermoso taller de joyería con gente local. Además de visitar algunos mercados locales.
+Hay mucha gente usando aplicaciones para conectar con otros como Nomad Table o Bumble BFF. En la ciudad y se encuentrauna gran oferta de actividades sociales, mercados, deportes, encuentros de idiomas, clases interesantes, experiencias culinarias, juegos de mini golf, pistas de patinaje y cine. Yo en esta ocasión compartí tardes de climbing (escalada) con amigos, bares nocturnos con música en vivo y un hermoso taller de joyería con gente local. Además de visitar algunos mercados locales.
 
 ### Costo de vida en Christchurch
 
@@ -91,6 +92,4 @@ Hay mucha gente usando aplicaciones para conectar con otros como Nomad Table o B
 
 Trabajando en Christchurch es totalmente viable vivir en la ciudad y llevar una vida "normal e interesante" para quienes les gusta la dinámica urbana, hacer actividades variadas, trabajar y, eventualmente, tener escapadas a la montaña, hacer trekking o disfrutar del esquí en invierno.
 
-Una ciudad preciosa,a ctiva y bastanet fría que supo llamarse hogar en estos 6 meses, si queres concoer acerca de la ciudad de invito a leer este articulo: 
-
-(Espacio para foto: Un mate frente a la montaña en una de tus escapadas de fin de semana)
+Una ciudad preciosa,a ctiva y bastanet fría que supo llamarse hogar en estos 6 meses, si queres concoer acerca de la ciudad de invito a leer este articulo:
