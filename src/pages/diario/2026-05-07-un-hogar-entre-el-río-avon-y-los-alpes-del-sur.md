@@ -6,10 +6,8 @@ tag: vida local
 pais: Nueva Zelanda
 description: "Viví 6 meses en Christchurch con la Working Holiday y fue un gran
   acierto. Te cuento cómo es vivir ahí: costo de vida, trabajo y seguridad."
-main_image: /img/diario/whatsapp-image-2026-05-08-at-23.14.31.jpeg
+main_image: /img/diario/whatsapp-image-2026-05-08-at-23.14.31.webp
 ---
-
-
 **De la ruta a la "vida local": por qué elegí Christchurch como base de mi Working Holiday**
 
 Lo bueno y lo malo de viajar hoy en día es que estamos inundados de información. Hay mil personas que ya vivieron la experiencia. Personalmente, uso muchísimo YouTube, blogs e inteligencia artificial a la hora de planificar un viaje o conocer un lugar que me interesa. Pero la verdad, la verdad se va descubriendo. las ciudades son muchas y cada una tiene sus pro y sus contras. Al final me termine decidiendo por Chrischurch una ciudad de la Isla Sur en la que iría descubriendo paisajes hermosos y una población muy unida y resiliente, una ciudad que se reconstruye desde el terremoto de 2010 y es una gran ciudad variopinta y en movimiento. 
@@ -22,7 +20,7 @@ Esta es mi experiencia real viviendo seis meses en Christchurch durante este 202
 
 Antes de terminar en Christchurch, visité y analicé otras opciones de las que seguro oiste hablar. Cada una tiene su pro y sus contras. y aunque visité ambas costas acá va un breve analisis de las grandes ciudades de la isla sur para vivir en nueva Zelanda en 2026, costa este. 
 
-## Vivir en Queenstown: ventajas, costos y el problema del alojamiento 
+## Vivir en Queenstown: ventajas, costos y el problema del alojamiento
 
 Es muy hermosa, tiene un ambiente vibrante y turístico (estuve ahí en verano) y la zona estaba muy movida. En la plaza que se encuentra frente al lago, los artistas callejeros, puestos de comida y música acompañan la caminata por la orilla. También noté gente haciendo slackline y ejercicios en la plaza de entrada, lo cual desde mi punto de vista era un plus para vivir: un ambiente relajado y social.
 
@@ -95,4 +93,4 @@ Trabajando en Christchurch es totalmente viable vivir en la ciudad y llevar una 
 
 La verdad que estoy contenta con mi decisión de residir en esta ciudad y conocer el estilo de vida local, tranquilo y ocupado en la semana con salidas épicas en los fines de semana. Un equilibrio interesante y armónico para la experiencia Working Holiday.
 
-![Vista de akaroa ](/img/diario/whatsapp-image-2026-05-25-at-13.21.08.jpeg "Vista de akaroa ")
+![Vista de akaroa ](/img/diario/whatsapp-image-2026-05-25-at-13.21.08.webp "Vista de akaroa ")
