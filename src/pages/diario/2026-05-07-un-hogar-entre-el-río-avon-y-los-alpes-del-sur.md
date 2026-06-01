@@ -4,7 +4,8 @@ title: ¿Dónde vivir en la Isla Sur de Nueva Zelanda? Comparativa de ciudades
 date: 2026-05-08T13:10:00.000+12:00
 tag: vida local
 pais: Nueva Zelanda
-description: ""
+description: "Viví 6 meses en Christchurch con la Working Holiday y fue un gran
+  acierto. Te cuento cómo es vivir ahí: costo de vida, trabajo y seguridad."
 main_image: /img/diario/whatsapp-image-2026-05-08-at-23.14.31.jpeg
 ---
 
