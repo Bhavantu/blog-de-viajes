@@ -5,7 +5,7 @@ title: "Comprar una Campervan o auto en Nueva Zelanda: Guía para no morir en el
 date: 2026-06-01T12:36:00.000+12:00
 tag: vida local
 pais: Nueva Zelanda
-main_image: /img/diario/whatsapp-image-2026-06-01-at-13.01.13.jpeg
+main_image: /img/diario/chrischurch-city.jpg
 description: Acampar en free camping Campervan en los Alpes del Sur 2026
 ---
 Nuestro sueño cuando llegamos era comprar una van en Nueva Zelanda, vivir una aventura soñada en las montañas, despertarse con vistas épicas y disfrutar de las tardes de brisa suave. Muchos viajeros soñamos con ese roadtrip pero claramente sin que nos estafen en el intento; seamos realistas la mayoría de los que viajamos con una visa de *Working Holiday* no somos mecánicos profesionales
@@ -13,7 +13,6 @@ Nuestro sueño cuando llegamos era comprar una van en Nueva Zelanda, vivir una a
 Al comienzo simplemente iba a ver los autos y miraba confundida intentando sacar algo en claro pero para el final del viaje además de cumplir el sueño del viaje en carretera, tuvimos una experiencia muy loca y muy compleja con una camper que quemaba aceite. Supo ser un gran dolor de cabeza, pero la verdad es que las leyes de Nueva Zelanda nos protegieron y al final todo salió bien, de hecho esa es mi inspiración para escribir este post, informar para evitar que a otros eviten una mala experiencia al comprar un auto y compartir todo lo que fuimos aprendiendo en el camino. 
 
 En este post encontrarás información básica sobre conceptos, trámites legales y recomendaciones que debes conocer antes de comprar un auto en Nueva Zelanda en 2026, junto con una checklist de consejos mecánicos para evaluar un auto al momento de la compra basado en nuestra experiencia personal e información chequeada.
-
 
 
 ## Índice de contenidos
@@ -34,9 +33,6 @@ En este post encontrarás información básica sobre conceptos, trámites legale
 5. [Tus derechos por ley: El WOF de 28 días y el informe obligatorio](https://www.google.com/search?q=%23tus-derechos-por-ley-el-wof-de-28-dias-y-el-informe-obligatorio)
 6. [¿Te estafaron? Tu salvavidas: El Citizens Advice Bureau (CAB)](https://www.google.com/search?q=%23te-estafaron-tu-salvavidas-el-citizens-advice-bureau-cab)
 7. [Un último consejo de viajero a viajero](https://www.google.com/search?q=%23un-ultimo-consejo-de-viajero-a-viajero)
-
-
-
 
 
 ### WOF (Warrant of Fitness): El examen de salud de tu coche
