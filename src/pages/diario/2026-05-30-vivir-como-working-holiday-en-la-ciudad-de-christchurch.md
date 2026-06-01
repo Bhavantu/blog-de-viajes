@@ -32,7 +32,7 @@ Trade Me Jobs: Funciona dentro de la plataforma que es como el "Mercado Libre" d
 
 Es muy hermosa, tiene un ambiente vibrante y turístico (estuve ahí en verano) y la zona estaba muy movida. En la plaza que se encuentra frente al lago, los artistas callejeros, puestos de comida y música acompañan la caminata por la orilla. También noté gente haciendo slackline y ejercicios en la plaza de entrada, lo cual desde mi punto de vista era un plus para vivir: un ambiente relajado y social.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/whatsapp-image-2026-06-01-at-14.38.17-1-.jpeg" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+<div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 La zona del centro está colmada de restaurantes y hoteles en los cuales se puede comer delicioso, probando buena comida de diferentes partes del mundo, pero el valor de los platos es de $20 NZD en adelante. Yo conocí el auténtico Pad Thai y probé una heladería argentina frente al lago; ambos momentos fueron bastante memorables. Por otro lado, para quien quiere trabajar, la oferta laboral es bastante amplia en relación al sector de los servicios.
 
@@ -47,6 +47,8 @@ Contras: Es más caro y es bastante chico, con bastantes pendientes en sus calle
 Pro: Es muy hermoso y tiene un interesante nivel de actividad social.
 
 Pro 2: Hay traslado directo hasta Milford Sound, lugar que para mí es uno de los imperdibles de Nueva Zelanda.
+
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/whatsapp-image-2026-06-01-at-14.38.17-1-.jpeg" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 ## Dunedin
 
@@ -76,15 +78,15 @@ Dato de seguridad geográfica: Sí, Christchurch se encuentra en una zona de act
 
 Eso sí, lo que es el vivir allí, Christchurch es un verdadero lujo geográfico. Las colinas de Port Hills y sus senderos para hacer trekking están prácticamente en el pegados a la ciudad, a solo veinte minutos de distancia, mientras que la playa se encuentra a media hora. También otros lugares de interés como Artur Pass, La peninsula de Akaroa y algunos centros de esquí a solo dos horas en auto. Es el equilibrio perfecto entre la vida social urbana y escapadas constantes a la naturaleza.
 
-Hay mucha gente usando aplicaciones para conectar con otros como Nomad Table o Bumble BFF. En la ciudad y se encuentrauna gran oferta de actividades sociales, mercados, deportes, encuentros de idiomas, clases interesantes, experiencias culinarias, juegos de mini golf, pistas de patinaje y cine. Yo en esta ocasión compartí tardes de climbing (escalada) con amigos, bares nocturnos con música en vivo y un hermoso taller de joyería con gente local. Además de visitar algunos mercados locales.
+Hay mucha gente usando aplicaciones para conectar con otros como Nomad Table o Bumble BFF. En la ciudad y se encuentra una gran oferta de actividades sociales, mercados, deportes, encuentros de idiomas, clases interesantes, experiencias culinarias, juegos de mini golf, pistas de patinaje y cine. Yo en esta ocasión compartí tardes de climbing (escalada) con amigos, bares nocturnos con música en vivo y un hermoso taller de joyería con gente local. Además de visitar algunos mercados locales.
 
 ### Costo de vida en Christchurch
 
 **Alimentación:** El costo de vida es accesible. Salir a comer afuera es caro, pero hay una amplia oferta de frutas y verduras Locales. En mi experiencia Trabajé en un mercado orgánico y de forma que pude  probar verduras locales y sin químicos; muy buen alimento.
 
-**Comparación:** Si tuviera que hacer una comparación general para cualquier viajero, el costo de vida aquí puede resultar elevado al principio si vienes con ahorros de otros paises. Pero una vez que empiezas a generar un ingreso local, todo cambia y la relación entre lo que ganas y lo que gastas se vuelve más llevadera.
+**Comparación:** Si tuviera que hacer una comparación general para cualquier viajero, el costo de vida aquí puede resultar elevado al principio si vienes con ahorros de otros países. Pero una vez que empiezas a generar un ingreso local, todo cambia y la relación entre lo que ganas y lo que gastas se vuelve más llevadera.
 
-**Vivienda:** La vivienda es accesible y las zonas variadas, pero hay ciclovias, transporte público y calles preparadas. En cuanto al ¿Cómo buscar casa en Nueva Zelanda? para encontrar una habitación compartida, las dos herramientas que mejor me funcionaron fueron Trade Me (en la sección de *Flatmates wanted*) y los grupos de Facebook locales (como *Christchurch Flatmates*). En Facebook el trato es mucho más directo, rápido y personal, mientras que Trade Me es ideal para comparar precios reales y zonas de forma más organizada.
+**Vivienda:** La vivienda es accesible y las zonas variadas, pero hay ciclo vías, transporte público y calles preparadas. En cuanto al ¿Cómo buscar casa en Nueva Zelanda? para encontrar una habitación compartida, las dos herramientas que mejor me funcionaron fueron Trade Me (en la sección de *Flatmates wanted*) y los grupos de Facebook locales (como *Christchurch Flatmates*). En Facebook el trato es mucho más directo, rápido y personal, mientras que Trade Me es ideal para comparar precios reales y zonas de forma más organizada.
 
 **Capacidad de ahorro:** Trabajar ganando el sueldo mínimo te permite tener una vida normal: cocinando en casa, rentando una habitación en una casa compartida y disfrutando de actividades o eventuales salidas. Esa fue mi vida y me permitió ahorrar.
 
@@ -92,4 +94,4 @@ Hay mucha gente usando aplicaciones para conectar con otros como Nomad Table o B
 
 Trabajando en Christchurch es totalmente viable vivir en la ciudad y llevar una vida "normal e interesante" para quienes les gusta la dinámica urbana, hacer actividades variadas, trabajar y, eventualmente, tener escapadas a la montaña, hacer trekking o disfrutar del esquí en invierno.
 
-Una ciudad preciosa,a ctiva y bastanet fría que supo llamarse hogar en estos 6 meses, si queres concoer acerca de la ciudad de invito a leer este articulo:
+Una ciudad preciosa, activa y bastante fría que supo llamarse hogar en estos 6 meses, si querés conocer acerca de la ciudad de invito a leer este articulo:
