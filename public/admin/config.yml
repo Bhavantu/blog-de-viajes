@@ -21,8 +21,9 @@ collections:
       - label: "Etiqueta"
         name: "tag"
         widget: "select"
-        options: ["bitacora", "fotografia", "punto de fuga", "vida local"]
+        options: ["bitacora", "fotografia", "punto de fuga", "vida local", "data"]
         default: "bitacora"
+
       - label: "País / Destino"
         name: "pais"
         widget: "select"
@@ -37,6 +38,12 @@ collections:
           - "Chile"
           - "Múltiple / General"
         default: "General"
+        required: false
+
+      - label: "Descripción SEO (Resumen para Google)"
+        name: "description"
+        widget: "string"
+        hint: "Máximo 160 caracteres. Ej: Todo lo que necesitás saber para tramitar tu visa y encontrar alojamiento en tu primer mes."
         required: false
 
       - {label: "Imagen de Portada", name: "main_image", widget: "image", required: false}

@@ -20,26 +20,37 @@ posteos.sort((a, b) => Date.parse(b.frontmatter.date) - Date.parse(a.frontmatter
 
     <main class="container">
         <div id="journal-list">
-            {posteos.map((post: any) => (
-                <article class="journal-entry reveal visible">
-                    <div style="display: flex; flex-direction: column; align-items: flex-start;">
-                        {post.frontmatter.tag && (
-                            <span class="journal-tag" data-tag={post.frontmatter.tag.toLowerCase()}>
-                                {post.frontmatter.tag}
-                            </span>
-                        )}
-                        <span class="journal-date">
-                            {new Date(post.frontmatter.date).toLocaleDateString('es-ES', { day: '2-digit', month: 'long', year: 'numeric' }).toUpperCase()}
-                        </span>
-                    </div>
-                    <h3 class="journal-title">{post.frontmatter.title}</h3>
-                    <p class="journal-body">
-                        {post.frontmatter.description || "Nueva entrada en nuestro diario de viaje..."}
-                    </p>
-                    <a href={post.url} class="read-more">Leer reflexión</a>
-                </article>
-            ))}
-        </div>
+            {posteos.map((post: any) => (
+                <article class="journal-entry reveal visible">
+                    
+                    {/* --- ACÁ AGREGAMOS LA IMAGEN DE PORTADA --- */}
+                    {post.frontmatter.main_image && (
+                        <img 
+                            src={post.frontmatter.main_image} 
+                            alt={`Portada de ${post.frontmatter.title}`} 
+                            style="width: 100%; max-height: 350px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;"
+                        />
+                    )}
+                    {/* ------------------------------------------ */}
+
+                    <div style="display: flex; flex-direction: column; align-items: flex-start;">
+                        {post.frontmatter.tag && (
+                            <span class="journal-tag" data-tag={post.frontmatter.tag.toLowerCase()}>
+                                {post.frontmatter.tag}
+                            </span>
+                        )}
+                        <span class="journal-date">
+                            {new Date(post.frontmatter.date).toLocaleDateString('es-ES', { day: '2-digit', month: 'long', year: 'numeric' }).toUpperCase()}
+                        </span>
+                    </div>
+                    <h3 class="journal-title">{post.frontmatter.title}</h3>
+                    <p class="journal-body">
+                        {post.frontmatter.description || "Nueva entrada en nuestro diario de viaje..."}
+                    </p>
+                    <a href={post.url} class="read-more">Leer reflexión</a>
+                </article>
+            ))}
+        </div>
     </main>
 
     <footer><p>&copy; 2026 BLOGCITO.</p></footer>
