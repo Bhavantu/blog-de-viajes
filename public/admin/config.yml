@@ -5,7 +5,7 @@ backend:
 publish_mode: editorial_workflow
 locale: "es"
 
-media_folder: "public/img/diario"
+media_folder: "/public/img/diario"
 public_folder: "/img/diario"
 
 collections:
