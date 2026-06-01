@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPostLayout.astro
 title: "La ciudad de Chrischurch: Un hogar entre el Río Avon y los Alpes del Sur"
 date: 2026-05-08T13:10:00.000+12:00
-tag: bitacora
+tag: vida local
 main_image: /img/diario/whatsapp-image-2026-05-08-at-23.14.31.jpeg
 description: "Chrischurch una ciduad con lo mejor de los mundos "
 ---
@@ -12,9 +12,9 @@ Elegí Christchurch por ser una ciudad amable, con gente tranquila. Una bella al
 
 Es la ciudad más grande de la Isla Sur, mezcla de cultura Kiwi, Maorí e Inglesa aún presente mediante la Commonwealth en este territorio. Sin embargo, lo que termina de darle vida a este rincón del mundo es su multiculturalidad. Como en el resto del país, Christchurch se nutre de una energía renovada por gente de todas partes: desde las raíces profundas de las Islas Fiji y Samoa, hasta la calidez de Filipinas, pasando también por diversos rincones de Asia y el mundo. Esa fusión de tradiciones, sabores y lenguas ya es parte del nuevo folklore local, transformando lo ajeno en algo vibrante y compartido.
 
-![](/img/diario/whatsapp-image-2026-05-08-at-23.14.31-1-.jpeg)
+![](/img/diario/whatsapp-image-2026-05-08-at-23.14.31-1-.jpeg "Chrischurch City Centre 2026")
 
-![](/img/diario/whatsapp-image-2026-05-08-at-23.13.50-2-.jpeg)
+![](/img/diario/whatsapp-image-2026-05-08-at-23.13.50-2-.jpeg "Rio Avon ")
 
 Tiempo después, en esas mismas calles descubriría que esa ribera acompañaba también la “Red Zone”, una zona devastada por el terremoto en 2011 muy habitada en el antiguo Christchurch. Los locales habían optado por convertirla en una "Green Zone" con cultivos comunitarios de huertas, plantas y hongos, así como también parques para niños y largos senderos. 
 
@@ -38,4 +38,4 @@ Para los Hispanohablantes será extraño descubrir que en toda New Zeland la noc
 
 Gracias por leer.
 
-![Vista de akaroa ](/img/diario/whatsapp-image-2026-05-25-at-13.21.08.jpeg)
+![Vista de akaroa ](/img/diario/whatsapp-image-2026-05-25-at-13.21.08.jpeg "Vista de akaroa ")
