@@ -3,10 +3,11 @@ layout: ../../layouts/BlogPostLayout.astro
 title: "La ciudad de Chrischurch: Un hogar entre el Río Avon y los Alpes del Sur"
 date: 2026-05-08T13:10:00.000+12:00
 tag: vida local
-main_image: /img/diario/whatsapp-image-2026-05-08-at-23.14.31.jpeg
+pais: Nueva Zelanda
 description: "Chrischurch una ciduad con lo mejor de los mundos. Descubrí cómo
   es vivir tu Working Holiday en Christchurch. Comparto mi experiencia real
   viviendo 6 meses: costo de vida, trabajo y naturaleza."
+main_image: /img/diario/whatsapp-image-2026-05-08-at-23.14.31.jpeg
 ---
 Lo bueno y lo malo de viajar hoy en día es que hay un montón de información, de personas que ya vivieron esa experiencia. Personalmente uso mucho el recurso de YouTube, blogs e inteligencia artificial a la hora de conocer un lugar que me interesa o planificar un viaje.
 
@@ -42,8 +43,6 @@ Pros y contras que observamos y otras personas nos contaron:
 * Contras: Es más caro y es bastante chico, con bastantes pendientes en sus calles centrales.
 * Pro: Es muy hermoso y tiene un interesante nivel de actividad social.
 * Pro 2: Hay traslado directo hasta Milford Sound, lugar que para mí es uno de los imperdibles de Nueva Zelanda.
-
-  <div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 ### Dunedin: Arquitectura victoriana y auténtica vida local
 
