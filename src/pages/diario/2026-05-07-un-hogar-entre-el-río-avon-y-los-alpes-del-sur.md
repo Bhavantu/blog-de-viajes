@@ -3,8 +3,10 @@ layout: ../../layouts/BlogPostLayout.astro
 title: "La ciudad de Chrischurch: Un hogar entre el Río Avon y los Alpes del Sur"
 date: 2026-05-08T13:10:00.000+12:00
 tag: vida local
-main_image: /img/diario/whatsapp-image-2026-05-08-at-23.14.31.webp
-description: "Chrischurch una ciduad con lo mejor de los mundos "
+main_image: /img/diario/whatsapp-image-2026-05-08-at-23.14.31.jpeg
+description: "Chrischurch una ciduad con lo mejor de los mundos. Descubrí cómo
+  es vivir tu Working Holiday en Christchurch. Comparto mi experiencia real
+  viviendo 6 meses: costo de vida, trabajo y naturaleza."
 ---
 Lo bueno y lo malo de viajar hoy en día es que hay un montón de información, de personas que ya vivieron esa experiencia. Personalmente uso mucho el recurso de YouTube, blogs e inteligencia artificial a la hora de conocer un lugar que me interesa o planificar un viaje.
 
@@ -22,7 +24,9 @@ Las plataformas principales por las que encontré ofertas de trabajo son:
 
 # Eligiendo base: Ciudades de la Isla Sur que visité para vivir
 
-
+* Queenstown:
+* Dunedin
+* Chrischurch:
 
 ## Queenstown: Turismo vibrante y el reto del alojamiento
 
@@ -51,8 +55,6 @@ La ciudad despertó nuestra curiosidad y la visitamos, descubriendo su impresion
 
 No quiero dejar de mencionar a las pequeñas ciudades, pueblos y zonas de campo; otras vivencias que pueden armarse lejos de las urbes. Quizá sean un poco esas experiencias que se van dando, pero existen muchos pueblos muy hermosos cerca de las ciudades detalladas arriba en los que hay otro tipo de propuestas laborales y de opciones de alojamiento, ya sea con trabajos al aire libre o en diferentes áreas. Las posibilidades están bastante abiertas para quien se anime a soñar con vivir en un pueblo de montaña.
 
-
-
 ## Mi experiencia real: Vivir en Christchurch como Working Holiday
 
 La verdad es que no soy gran fanática de las ciudades, pero esta experiencia se dio y me pareció muy interesante. Luego de aplicar en diferentes trabajos en el camino, descansamos en un precioso *free camping* sin restricción de días en Lake Side Domain, el cual encontramos por la aplicación CamperMate, el mejor amigo del viajero en campervan. (Si quieres ver otras aplicaciones te invito a leer mi entrada sobre aplicaciones útiles en Nueva Zelanda).
@@ -68,8 +70,6 @@ La ciudad de Christchurch me esperaba para mostrarme el esplendor de su bello Ja
 Eso sí, desde lo que es el vivir allí, Christchurch es un verdadero lujo geográfico. Las colinas de Port Hills y sus senderos para hacer trekking están prácticamente en el patio trasero de la ciudad, a solo veinte minutos de distancia, mientras que la playa te espera a escasa media hora. Y si lo tuyo es la alta montaña o la nieve, los imponentes Alpes del Sur o centros de esquí están a solo dos horas en auto. Es el equilibrio perfecto entre la vida social urbana y escapadas constantes a la naturaleza salvaje.
 
 Hay mucha gente usando aplicaciones para conectar con otros como Nomad Table o Bumble BFF. En la ciudad se encuentra una gran oferta de actividades sociales, mercados, deportes, encuentros de idiomas, clases interesantes, experiencias culinarias, juegos de mini golf, pistas de patinaje y cine. Yo en esta ocasión compartí tardes de *climbing* (escalada) con amigos, bares nocturnos con música en vivo y un hermoso taller de joyería con gente local, además de visitar algunos mercados locales.
-
-
 
 ## Costo de vida en Christchurch: Alquiler, comida y capacidad de ahorro
 
@@ -91,6 +91,4 @@ Trabajando en Christchurch es totalmente viable vivir en la ciudad y llevar una 
 
 La verdad que estoy contenta con mi decision de residir en esta ciudad y conocer el estilo de vida local, tranquilo y ocupado en la semana con salidas épicas en los fines de semana. Un equilibrio interesante y armónico para la experiencia Working Holiday 
 
-
-
-![Vista de akaroa ](/img/diario/whatsapp-image-2026-05-25-at-13.21.08.webp "Vista de akaroa ")
+![Vista de akaroa ](/img/diario/whatsapp-image-2026-05-25-at-13.21.08.jpeg "Vista de akaroa ")
