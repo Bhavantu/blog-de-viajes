@@ -47,5 +47,4 @@ collections:
         required: false
 
       - {label: "Imagen de Portada", name: "main_image", widget: "image", required: false}
-      - {label: "Descripción corta", name: "description", widget: "string", required: false}
       - {label: "Cuerpo", name: "body", widget: "markdown"}
