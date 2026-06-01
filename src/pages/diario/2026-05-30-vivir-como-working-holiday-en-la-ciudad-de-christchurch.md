@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPostLayout.astro
 title: Vivir como Working Holiday en la ciudad de Christchurch
 date: 2026-05-30T14:55:00.000+12:00
 tag: vida local
-main_image: /img/diario/img_6757.jpeg
+main_image: /img/diario/img_6757.webp
 ---
 Hace un tiempo estoy viviendo este sueño de viajar por Nueva Zelanda trabajando con una visa de Work and Holiday y aunque es emocionante hay muchas cositas a resolver antes de emprender la aventura. Lo bueno y lo malo de viajar hoy en día es que hay un montón de información, de personas que ya vivieron esa experiencia. Personalmente uso mucho el recurso de YouTube, blogs e inteligencia artificial a la hora de conocer un lugar que me interesa o planificar un viaje. 
 
@@ -48,7 +48,7 @@ Pro: Es muy hermoso y tiene un interesante nivel de actividad social.
 
 Pro 2: Hay traslado directo hasta Milford Sound, lugar que para mí es uno de los imperdibles de Nueva Zelanda.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/whatsapp-image-2026-06-01-at-14.38.17-1-.jpeg" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/whatsapp-image-2026-06-01-at-14.38.17-1-.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 ## Dunedin
 
@@ -58,7 +58,7 @@ Pronunciado como Daniden esta ciudad tiene bastante de local y autentico. La ver
 
 ## Finalmente, la ciudad de Christchurch
 
-<div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/alexandria.jpeg" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+<div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/alexandria.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 Joyita descubierta: una ciudad vibrante, moderna y abrazada por la naturaleza, con muchísimas ofertas laborales y sociales para quienes busquen vivir una experiencia a medias entre lo local y lo cosmopolita. Ya sean estudiantes o viajeros de Working Holiday, Christchurch se convierte en otro punto encuentro perfecto para la comunidad viajera, eso si en convivnecia con la comunidad que desde mi punto de vista es adorable.
 
@@ -70,7 +70,7 @@ No quiero dejar de mencionar a las pequeñas ciudades, pueblos y zonas de campo;
 
 La verdad es que no soy gran fanática de las ciudades, pero esta experiencia se dio y me pareció muy interesante. Luego de aplicar en diferentes trabajos en el camino, descansamos en un precioso free camping sin restricción de días en Lake side domain, el cual encontramos por la aplicación CamperMate, el mejor amigo del viajero en campervan. (Si quieres ver otras aplicaciones te invito a leer esta entrada sobre aplicaciones útiles en Nueva Zelanda).
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/chrischurch-city.jpg" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/chrischurch-city.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 La ciudad de Christchurch me esperaba para mostrarme el esplendor de su bello Jardín Botánico, sus actividades sociales y su reconstrucción en proceso después de los terremotos iniciados en 2010.
 

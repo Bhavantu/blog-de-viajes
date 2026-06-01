@@ -6,7 +6,7 @@ tag: bitacora
 pais: Nueva Zelanda
 description: Un breve resumen que ordena la experiencia y ampliar en los
   diferentes destinos de la Isla Norte
-main_image: /img/diario/img_5481.jpeg
+main_image: /img/diario/img_5481.webp
 ---
 **El sueño está en camino**
 
@@ -14,9 +14,9 @@ Viajar a Nueva Zelanda era un deseo que tocaba la puerta de la curiosidad desde 
 
 Con los años el deseo creció. En 2025 apliqué online para una visa de viaje y trabajo (*Working Holiday New Zealand*) que me permitiría vivir la experiencia durante un año en 2026. El sueño del roadtrip en camper por toda la isla con buena música, compañía y un mate uruguayo era sin duda uno de mis objetivos en mi *dream board*.
 
-<div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/well-kiwi-benefits-03-gjtz-facebookjumbo.jpg" alt="Imagen de bitácora"><span class="img-caption">El kiwi (kiwifruit) y sus variedades</span></div>
+<div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/well-kiwi-benefits-03-gjtz-facebookjumbo.webp" alt="Imagen de bitácora"><span class="img-caption">El kiwi (kiwifruit) y sus variedades</span></div>
 
-<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/kiwibird.jpg" alt="Imagen de bitácora"><span class="img-caption">kiwibird</span></div>
+<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/kiwibird.webp" alt="Imagen de bitácora"><span class="img-caption">kiwibird</span></div>
 
 \
 \
@@ -36,7 +36,7 @@ Descubrimos la belleza de la zona sagrada de Mount Maunganui (Mauao) y paseamos 
 
 ## Mont Manganui
 
-<div class="post-img-box img-mediano img-izquierda"><img src="/img/img_5531.jpeg" alt="Pokohino beach"><span class="img-caption">Pokohino Beach</span></div>
+<div class="post-img-box img-mediano img-izquierda"><img src="/img/img_5531.webp" alt="Pokohino beach"><span class="img-caption">Pokohino Beach</span></div>
 
 Mucha gente que viene a nueva Zelanda elije esta zona para quedarse, y la verdad es que se siente un poco mágica, la belleza del inmenso monte que bordea con el agua del pacifico, las islas tupidas de arboles alrededor de la playa. La cercanía con ciudades y restaurantes. Es un lugar presioso para pasar una temporada. En verano el movimiento era bastante y las actividades variadas, disfrutamos de idas a la playa subidas al al monte con vistas increibles del atardecer. Además nuestros amigos nos contaron historias locales como la leyenda maori del monte y sobre los Steel freaming que son el logo de los famosos All black. 
 
@@ -44,7 +44,7 @@ Mucha gente que viene a nueva Zelanda elije esta zona para quedarse, y la verdad
 
 Unos días en playas paradisíacas, agua helada y transparente.
 
-<div class="post-img-box img-mediano img-izquierda"><img src="/img/0d27c22d-8ac1-41d7-8b29-3d69cad7e9ba.jpeg.jpeg" alt="Pokohino beach"><span class="img-caption">Pokohino Beach</span></div>
+<div class="post-img-box img-mediano img-izquierda"><img src="/img/0d27c22d-8ac1-41d7-8b29-3d69cad7e9ba.webp.webp" alt="Pokohino beach"><span class="img-caption">Pokohino Beach</span></div>
 
 Antiguamente conocida por los maoríes como *Hauraki* —quienes habitaron la zona durante más de un milenio. La península fue marcada por su vivencia durante la fiebre del oro en su encuentro con Europa. Thames tuvo una intensa explotación de sus milenarios bosques del árbol kauri y actividad minera que se extendió hasta mediados del siglo XX, multiplicando la población de la zona casi al punto de superar a la capital, Auckland.
 
@@ -62,4 +62,4 @@ Además, cuenta con varios senderos llanos y muy accesibles; entre ellos destaca
 
 Otro Lugar increible que visitamos fue el **Refugio de Aves Maunga tautare** un lugar cuidado por el departamento de conservación,   para el que mas vale una fota que mil palabras.
 
-<div class="post-img-box img-grande img-centro"><img src="/img/diario/dsc_0375.jpg" alt="Imagen de bitácora"><span class="img-caption">Caminando por el santuario con Emi, nuestro amigo y guia local </span></div>
+<div class="post-img-box img-grande img-centro"><img src="/img/diario/dsc_0375.webp" alt="Imagen de bitácora"><span class="img-caption">Caminando por el santuario con Emi, nuestro amigo y guia local </span></div>

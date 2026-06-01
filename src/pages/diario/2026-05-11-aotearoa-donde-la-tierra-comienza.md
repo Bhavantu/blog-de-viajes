@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPostLayout.astro
 title: "Historia sobre Aotearoa - New Zeland: la tierra de la larga nube blanca"
 date: 2026-04-27T13:22:00.000+12:00
 tag: bitacora
-main_image: /img/diario/img-lake-pearson-campamento-arthur-pass.jpeg
+main_image: /img/diario/img-lake-pearson-campamento-arthur-pass.webp
 description: Un poco de la historia y contexto aprendidos sobre Nueva Zelanda - Aoteroa
 ---
 Nueva Zelanda es, quizás, el último suspiro de tierra firme en ser descubierto por la vida moderna. Suspendida en la inmensidad del Pacífico Sur, Aotearoa —la tierra de la larga nube blanca— no es solo un destino, sino un territorio con una geografía tan imponente como se ve en la pelicula del *El Señor de los Anillos*. En estas Islas, la identidad se ha forjado entre volcanes y vientos marinos creando un paisaje variado y único. Quienes habitan esta tierra se llaman a sí mismos kiwis,  se caracterizan por su forma de habitar la vida con una amabilidad silenciosa y un ritmo calmado. El disfrute está en las cosas simples: un fin de semana en la montaña, recorridos en bicicleta o un *roadtrip* para conocer nuevas zonas de la isla.
@@ -16,7 +16,7 @@ Los primeros pobladores de esta isla fueron los antepasados polinesios que no so
 
 Para ellos, la tierra (Papatūānuku) y el mar (Tangaroa) son parte de un todo, de un único origen. Ven la naturaleza como sus propios antepasados y a sí mismos como Kaitiaki (guardianes), asumiendo la responsabilidad de proteger el equilibrio y la fuerza vital del entorno para las generaciones futuras.
 
-![](/img/diario/canoa.jpg)
+![](/img/diario/canoa.webp)
 
 **El espíritu en la madera**
 
@@ -26,7 +26,7 @@ Un ejemplo tangible de esto fue lo que aprendimos en el el Auckland War Memorial
 * Escuchar al árbol: El *Tohunga* (maestro experto) seleccionaba el tronco basándose en su fuerza espiritual. Se creía que el árbol debía estar "dispuesto" a convertirse en embarcación para proteger a su tripulación.
 * El fin del Tapu: Tras derribarlo, se realizaban rituales para quitar el estado sagrado (Tapu) y poder trabajar la madera sin ofender a los dioses.
 
-![](/img/diario/maori-canoe-tasman-f8b1c0-1024.jpg)
+![](/img/diario/maori-canoe-tasman-f8b1c0-1024.webp)
 
 **Los hilos de la historia**
 
@@ -49,4 +49,4 @@ A pesar de estos desafíos, este país demuestra un ejemplo de conservación y p
 
 Esta búsqueda de diálogo entre la pertenencia ancestral y las necesidades modernas en constante movimiento es lo que hoy define la identidad de Aotearoa.
 
-![Vista de  Aukland desde el volcan inactivo Mount Eden / Maungawhau ](/img/diario/dsc_0911.jpg "Grandes ciudades: Aukland, museos, comida y una experiencia muy cosmopolita")
+![Vista de  Aukland desde el volcan inactivo Mount Eden / Maungawhau ](/img/diario/dsc_0911.webp "Grandes ciudades: Aukland, museos, comida y una experiencia muy cosmopolita")

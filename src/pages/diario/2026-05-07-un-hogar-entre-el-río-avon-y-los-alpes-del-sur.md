@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPostLayout.astro
 title: "La ciudad de Chrischurch: Un hogar entre el Río Avon y los Alpes del Sur"
 date: 2026-05-08T13:10:00.000+12:00
 tag: vida local
-main_image: /img/diario/whatsapp-image-2026-05-08-at-23.14.31.jpeg
+main_image: /img/diario/whatsapp-image-2026-05-08-at-23.14.31.webp
 description: "Chrischurch una ciduad con lo mejor de los mundos "
 ---
 Lo bueno y lo malo de viajar hoy en día es que hay un montón de información, de personas que ya vivieron esa experiencia. Personalmente uso mucho el recurso de YouTube, blogs e inteligencia artificial a la hora de conocer un lugar que me interesa o planificar un viaje.
@@ -93,4 +93,4 @@ La verdad que estoy contenta con mi decision de residir en esta ciudad y conocer
 
 
 
-![Vista de akaroa ](/img/diario/whatsapp-image-2026-05-25-at-13.21.08.jpeg "Vista de akaroa ")
+![Vista de akaroa ](/img/diario/whatsapp-image-2026-05-25-at-13.21.08.webp "Vista de akaroa ")
