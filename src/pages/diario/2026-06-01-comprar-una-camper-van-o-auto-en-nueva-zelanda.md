@@ -5,8 +5,10 @@ title: "Comprar una Campervan o auto en Nueva Zelanda: Guía para no morir en el
 date: 2026-06-01T12:36:00.000+12:00
 tag: vida local
 pais: Nueva Zelanda
-main_image: /img/diario/camper-mountain.jpeg
-description: Acampar en free camping Campervan en los Alpes del Sur 2026
+main_image: /img/diario/chrischurch-city.jpg
+description: "¿Soñás con la libertad de un roadtrip épico? Todo lo que necesitás
+  saber para comprar un auto o campervan en Nueva Zelanda sin estafas. Leé
+  nuestro articulo basado en experiencia real e información chequeada "
 ---
 Nuestro sueño cuando llegamos era comprar una van en Nueva Zelanda, vivir una aventura soñada en las montañas, despertarse con vistas épicas y disfrutar de las tardes de brisa suave. Muchos viajeros soñamos con ese roadtrip pero claramente sin que nos estafen en el intento; seamos realistas la mayoría de los que viajamos con una visa de *Working Holiday* no somos mecánicos profesionales
 
@@ -14,6 +16,25 @@ Al comienzo simplemente iba a ver los autos y miraba confundida intentando sacar
 
 En este post encontrarás información básica sobre conceptos, trámites legales y recomendaciones que debes conocer antes de comprar un auto en Nueva Zelanda en 2026, junto con una checklist de consejos mecánicos para evaluar un auto al momento de la compra basado en nuestra experiencia personal e información chequeada.
 
+
+## Índice de contenidos
+
+1. [Conceptos clave: Los papeles del vehículo en Nueva Zelanda explicación simple](https://www.google.com/search?q=%23conceptos-clave-los-papeles-del-vehiculo-en-nueva-zelanda-explicado-en-humano-o-en-criollo)
+
+   * [WOF (Warrant of Fitness): El examen de salud de tu coche](https://www.google.com/search?q=%23wof-warrant-of-fitness-el-examen-de-salud-de-tu-coche)
+   * [REGO (Registration): El impuesto obligatorio de circulación](https://www.google.com/search?q=%23rego-registration-el-impuesto-obligatorio-de-circulacion)
+   * [¿Cómo poner el auto a tu nombre? El trámite de cambio de nombre (Change of Ownership): Simple y rápido](https://www.google.com/search?q=%23como-poner-el-auto-a-tu-nombre-el-tramite-de-cambio-de-nombre-change-of-ownership-simple-y-rapido)
+2. [¿A quién comprarle? Concesionario vs. Particular](https://www.google.com/search?q=%23a-quien-comprarle-concesionario-vs-particular)
+3. [Checklist esencial: 4 pruebas mecánicas para un auto que funcione](https://www.google.com/search?q=%23checklist-esencial-4-pruebas-mecanicas-para-un-auto-que-funcione)
+
+   * [A. La prueba de la varilla de aceite (y la temida "mayonesa")](https://www.google.com/search?q=%23a-la-prueba-de-la-varilla-de-aceite-y-la-temida-mayonesa)
+   * [B. El caño de escape (El color del humo te habla)](https://www.google.com/search?q=%23b-el-ca%C3%B1o-de-escape-el-color-del-humo-te-habla)
+   * [C. La prueba del óxido: El enemigo número uno en NZ](https://www.google.com/search?q=%23c-la-prueba-del-oxido-el-enemigo-numero-uno-en-nz)
+   * [D. La correa de distribución (La famosa “Cambelt”)](https://www.google.com/search?q=%23d-la-correa-de-distribucion-la-famosa-cambelt)
+4. [El as bajo la manga: El examen mecánico de la AA](https://www.google.com/search?q=%23el-as-bajo-la-manga-el-examen-mecanico-de-la-aa)
+5. [Tus derechos por ley: El WOF de 28 días y el informe obligatorio](https://www.google.com/search?q=%23tus-derechos-por-ley-el-wof-de-28-dias-y-el-informe-obligatorio)
+6. [¿Te estafaron? Tu salvavidas: El Citizens Advice Bureau (CAB)](https://www.google.com/search?q=%23te-estafaron-tu-salvavidas-el-citizens-advice-bureau-cab)
+7. [Un último consejo de viajero a viajero](https://www.google.com/search?q=%23un-ultimo-consejo-de-viajero-a-viajero)
 
 
 ### WOF (Warrant of Fitness): El examen de salud de tu coche
@@ -116,7 +137,7 @@ Si le compraste a un Dealer: Te ayudarán a redactar el reclamo formal bajo la l
 
 Si le compraste a un particular: Aunque es más difícil, si tienes pruebas de que el vendedor te engañó activamente, los asesores del CAB te ayudarán a presentar una demanda en el Disputes Tribunal (el tribunal de disputas comunes). En nuestra experiencia y según lo que nos cuentan, la justicia aquí funciona, es accesible y no necesitas pagar abogados costosos para hacer valer tus derechos.
 
-## Un último consejo viajero
+## Un último consejo viajero 
 
 Comprar tu primer auto en el extranjero es una mezcla de adrenalina pura, emoción y un poquito de miedo. Ese auto camper será tu casa por un tiempo, durante la aventura en un país que está preparado para que sea épico (en este post podés ver algunas apps esenciales). Es un camping móvil, un refugio para las noches de lluvia y el mejor hotel para despertarse con la mejor vista a las montañas; literalmente es un pasaporte a la libertad por las carreteras de Nueva Zelanda.
 
