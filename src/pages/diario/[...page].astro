@@ -1,0 +1,102 @@
+---
+import Layout from '../../layouts/Layout.astro';
+
+// Configuramos la paginación de Astro
+export async function getStaticPaths({ paginate }) {
+    // Leemos los posts de la carpeta donde están los .md
+    const postsRaw = import.meta.glob('./*.md', { eager: true });
+    const posts = Object.values(postsRaw);
+    
+    // Los ordenamos de más nuevo a más viejo
+    posts.sort((a, b) => {
+        const dateA = new Date(a.frontmatter?.date || 0).valueOf();
+        const dateB = new Date(b.frontmatter?.date || 0).valueOf();
+        return dateB - dateA;
+    });
+
+    // Le decimos a Astro que arme páginas de 10 elementos máximo
+    return paginate(posts, { pageSize: 10 });
+}
+
+// Astro nos inyecta la información de la página actual en "Astro.props"
+const { page } = Astro.props;
+---
+
+<Layout title="Diario de Viaje | BLOGCITO">
+    <header>
+        <h1><a href="/">BLOGCITO</a></h1>
+        <nav>
+            <ul>
+                <li><a href="/">Inicio</a></li>
+                <li><a href="/diario" class="active-link">Diario</a></li>
+                <li><a href="/galeria">Galería</a></li>
+                <li><a href="/nosotros">Nosotros</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="container">
+        
+        <div id="journal-list">
+            {page.data.map((post: any) => (
+                <article class="journal-entry reveal visible">
+                    
+                    {/* Imagen NO clickeable */}
+                    {post.frontmatter.main_image && (
+                        <img 
+                            src={post.frontmatter.main_image} 
+                            alt={`Portada de ${post.frontmatter.title}`} 
+                            style="width: 100%; max-height: 350px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;"
+                        />
+                    )}
+
+                    <div style="display: flex; flex-direction: column; align-items: flex-start;">
+                        {post.frontmatter.tag && (
+                            <span class="journal-tag" data-tag={post.frontmatter.tag.toLowerCase()}>
+                                {post.frontmatter.tag}
+                            </span>
+                        )}
+                        <span class="journal-date">
+                            {new Date(post.frontmatter.date).toLocaleDateString('es-ES', { day: '2-digit', month: 'long', year: 'numeric' }).toUpperCase()}
+                        </span>
+                    </div>
+                    
+                    {/* TÍTULO CLICKEABLE */}
+                    <h3 class="journal-title">
+                        <a href={post.url} style="text-decoration: none; color: inherit;">
+                            {post.frontmatter.title}
+                        </a>
+                    </h3>
+                    
+                    <p class="journal-body">
+                        {post.frontmatter.description || "Nueva entrada en nuestro diario de viaje..."}
+                    </p>
+                    
+                </article>
+            ))}
+        </div>
+
+        <div style="display: flex; justify-content: center; align-items: center; gap: 2rem; margin-top: 5rem; margin-bottom: 3rem;">
+            {page.url.prev ? (
+                <a href={page.url.prev} style="padding: 10px 20px; border: 1px solid var(--text-color, #333); border-radius: 8px; text-decoration: none; color: inherit; font-size: 0.9rem; text-transform: uppercase;">
+                    ← Más recientes
+                </a>
+            ) : (
+                <span style="padding: 10px 20px; border: 1px solid transparent; color: transparent; pointer-events: none;">← Más recientes</span>
+            )}
+            
+            <span style="font-size: 0.95rem; color: #666;">
+                Página {page.currentPage} de {page.lastPage}
+            </span>
+
+            {page.url.next ? (
+                <a href={page.url.next} style="padding: 10px 20px; border: 1px solid var(--text-color, #333); border-radius: 8px; text-decoration: none; color: inherit; font-size: 0.9rem; text-transform: uppercase;">
+                    Más antiguas →
+                </a>
+            ) : (
+                <span style="padding: 10px 20px; border: 1px solid transparent; color: transparent; pointer-events: none;">Más antiguas →</span>
+            )}
+        </div>
+        
+    </main>
+</Layout>

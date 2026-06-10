@@ -1,0 +1,84 @@
+---
+import Layout from '../layouts/Layout.astro';
+import fs from 'fs/promises';
+import path from 'path';
+
+const imgDir = './public/img';
+let albumes = [];
+
+try {
+    const elementos = await fs.readdir(imgDir, { withFileTypes: true });
+
+    for (const elemento of elementos) {
+        // Ignoramos carpetas de sistema y las de los posts del diario
+        if (elemento.name.startsWith('.') || elemento.name === 'admin' || elemento.name === 'diario') {
+            continue;
+        }
+
+        if (elemento.isDirectory()) {
+            const rutaCarpeta = path.join(imgDir, elemento.name);
+            const archivos = await fs.readdir(rutaCarpeta);
+            // Agarramos solo las imágenes de esa carpeta
+            const imagenes = archivos.filter(archivo => /\.(webp|jpg|jpeg|png)$/i.test(archivo));
+
+            if (imagenes.length > 0) {
+                albumes.push({
+                    nombre: elemento.name,
+                    portada: `/img/${elemento.name}/${imagenes[0]}`, // La primera foto es la portada
+                    cantidad: imagenes.length
+                });
+            }
+        }
+    }
+} catch (error) {
+    console.error("Error leyendo carpetas de galería:", error);
+}
+---
+
+<Layout title="Galería | BLOGCITO">
+    <header>
+        <h1><a href="/">BLOGCITO</a></h1>
+        <nav>
+            <ul>
+                <li><a href="/">Inicio</a></li>
+                <li><a href="/diario">Diario</a></li>
+                <li><a href="/galeria" class="active-link">Galería</a></li>
+                <li><a href="/nosotros">Nosotros</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="container">
+        <h2 style="text-align: center; margin-bottom: 3rem; font-size: 1.8rem; font-weight: normal; letter-spacing: 0.05em; text-transform: uppercase;">Galería de Fotos</h2>
+
+        <div id="journal-list" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 3rem 2rem; align-items: start;">
+            {albumes.map((album) => (
+                <article class="journal-entry reveal visible" style="margin-bottom: 0;">
+                    <a href={`/galeria/${album.nombre}`} style="text-decoration: none; color: inherit; display: block;">
+                        
+                        <img 
+                            src={album.portada} 
+                            alt={`Portada del álbum ${album.nombre}`} 
+                            style="width: 100%; max-height: 350px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;"
+                        />
+
+                        <div style="display: flex; flex-direction: column; align-items: flex-start;">
+                            <span class="journal-date">
+                                {album.cantidad} {album.cantidad === 1 ? 'FOTO' : 'FOTOS'}
+                            </span>
+                        </div>
+                        
+                        <h3 class="journal-title" style="text-transform: capitalize; margin-top: 0.5rem;">{album.nombre}</h3>
+                        
+                        <p class="journal-body">
+                            Explorá la colección completa de fotografías de la carpeta {album.nombre}.
+                        </p>
+                        
+                        <span class="read-more">Ver álbum completo →</span>
+                        
+                    </a>
+                </article>
+            ))}
+        </div>
+    </main>
+</Layout>

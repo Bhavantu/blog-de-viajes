@@ -1,80 +1,88 @@
 ---
 import Layout from '../layouts/Layout.astro';
+
+// 1. Buscamos todos los artículos
+const posts = import.meta.glob('./diario/*.md', { eager: true });
+const allPosts = Object.values(posts);
+
+// 2. Los ordenamos por fecha (del más nuevo al más viejo)
+const sortedPosts = allPosts.sort((a, b) => {
+    const dateA = new Date(a.frontmatter?.date || 0).valueOf();
+    const dateB = new Date(b.frontmatter?.date || 0).valueOf();
+    return dateB - dateA;
+});
+
+// 3. FILTRAMOS LOS DESTACADOS: Buscamos los que tengan destacado: true y agarramos máximo 3
+const featuredPosts = sortedPosts
+    .filter((post: any) => post.frontmatter.destacado === true)
+    .slice(0, 3);
 ---
-<Layout title="BLOGCITO | en un viaje">
+
+<Layout title="BLOGCITO - Inicio">
     <header>
-        <h1 onclick="window.location.href='/'" style="cursor:pointer">BLOGCITO</h1>
+        <h1><a href="/">BLOGCITO</a></h1>
         <nav>
             <ul>
-                <li><a href="#" onclick="showSection('galeria'); return false;" id="nav-galeria" class="active-link">Galería</a></li>
-                <li><a href="/diario" id="nav-diario">Diario</a></li>
-                <li><a href="#" onclick="showSection('nosotros'); return false;" id="nav-nosotros">Nosotros</a></li>
+                <li><a href="/" class="active-link">Inicio</a></li>
+                <li><a href="/diario">Diario</a></li>
+                <li><a href="/galeria">Galería</a></li>
+                <li><a href="/nosotros">Nosotros</a></li>
             </ul>
         </nav>
     </header>
 
     <main class="container">
-        <section id="sec-galeria" class="section-content active-section">
-            <div class="photo-grid">
-                <article class="photo-card reveal visible">
-                    <div class="image-wrapper"><img src="/img/Reserva/DSC_0375.webp" alt="Reserva"></div>
-                    <div class="photo-info"><span class="photo-title">Reserva</span><span>2023</span></div>
-                </article>
-                <article class="photo-card reveal visible delay-100">
-                    <div class="image-wrapper"><img src="/img/Paisajes/changsha1.webp" alt="Changsha"></div>
-                    <div class="photo-info"><span class="photo-title">Changsha</span><span>2023</span></div>
-                </article>
-                <article class="photo-card reveal visible">
-                    <div class="image-wrapper"><img src="/img/Paisajes/dananghands.webp" alt="Da Nang"></div>
-                    <div class="photo-info"><span class="photo-title">Da Nang</span><span>2022</span></div>
-                </article>
-                <article class="photo-card reveal visible delay-100">
-                    <div class="image-wrapper"><img src="/img/Paisajes/templochina2.webp" alt="Pekin"></div>
-                    <div class="photo-info"><span class="photo-title">Pekin</span><span>2023</span></div>
-                </article>
-                                <article class="photo-card reveal visible">
-                    <div class="image-wrapper"><img src="/img/Fire and Drums/DSC_0092.webp" alt="Fire and Drums"></div>
-                    <div class="photo-info"><span class="photo-title">Fire and Drums</span><span>2024</span></div>
-                </article>
-                <article class="photo-card reveal visible delay-100">
-                    <div class="image-wrapper"><img src="/img/lorenita/DSC_0422.webp" alt="Buenos Aires"></div>
-                    <div class="photo-info"><span class="photo-title">Buenos Aires</span><span>2024</span></div>
-                </article>
-            </div>
-        </section>
+        
+        <div class="section-header">
+            <h2 class="home-section-title">Artículos Destacados</h2>
+        </div>
 
-        <section id="sec-nosotros" class="section-content">
-            <div class="about-layout">
-                <div class="reveal visible">
-                    <img src="/img/nosotros.webp" alt="Nosotros" class="about-img">
-                </div>
-                <div class="about-text reveal visible delay-100">
-                    <h2>Hola, somos nosotros...</h2>
-                    <p>Abriendo el corazon soltamos el prejucio con una convicción seguimos el delirio. Viajar desde el amor conectando con la vida, los pueblos las estrellas y los soles que nos guian. Muchas gracias humanitos que hoy leen este mensaje, entre risas y aventuras compartimos este viaje.</p>
-                    <p>Lore y Santi, enraizados en LATAM descubriendo el mundo. Abrazo grande <br> Vamo arriba!</p>
-                </div>
-            </div>
-        </section>
+        <div class="home-posts-row" id="journal-list">
+            {featuredPosts.map((post: any) => (
+                <article class="journal-entry reveal visible">
+                    
+                    {post.frontmatter.main_image && (
+                        <img 
+                            src={post.frontmatter.main_image} 
+                            alt={`Portada de ${post.frontmatter.title}`} 
+                            class="post-img"
+                        />
+                    )}
+
+                    <div class="post-meta">
+                        {post.frontmatter.tag && (
+                            <span class="journal-tag" data-tag={post.frontmatter.tag.toLowerCase()}>
+                                {post.frontmatter.tag}
+                            </span>
+                        )}
+                        <span class="journal-date">
+                            {new Date(post.frontmatter.date).toLocaleDateString('es-ES', { day: '2-digit', month: 'long', year: 'numeric' }).toUpperCase()}
+                        </span>
+                    </div>
+                    
+                    <h3 class="journal-title">
+                        <a href={post.url} class="title-link">
+                            {post.frontmatter.title}
+                        </a>
+                    </h3>
+                    
+                    <p class="journal-body">
+                        {post.frontmatter.description || "Nueva entrada en nuestro diario de viaje..."}
+                    </p>
+
+                    <div class="read-more-wrapper">
+                        <a href={post.url} class="read-more-link">Leer más &rarr;</a>
+                    </div>
+                    
+                </article>
+            ))}
+        </div>
+
+        <div style="text-align: center; margin-top: 4rem; margin-bottom: 5rem;">
+            <a href="/diario" class="btn-ver-mas">
+                Ver más
+            </a>
+        </div>
+
     </main>
-
-    <script is:inline>
-        function showSection(sectionId) {
-            document.querySelectorAll('.section-content').forEach(sec => sec.classList.remove('active-section'));
-            document.querySelectorAll('nav a').forEach(link => link.classList.remove('active-link'));
-            
-            const target = document.getElementById('sec-' + sectionId);
-            if (target) {
-                target.classList.add('active-section');
-                document.getElementById('nav-' + sectionId).classList.add('active-link');
-                window.scrollTo({ top: 0, behavior: 'smooth' });
-            }
-        }
-
-        window.addEventListener('DOMContentLoaded', () => {
-            if (window.location.hash === '#nosotros') {
-                showSection('nosotros');
-                history.replaceState(null, null, window.location.pathname);
-            }
-        });
-    </script>
 </Layout>
