@@ -52,13 +52,29 @@ const metaDescription = description || "BLOGCITO - Bitácora de viaje, informaci
             a { text-decoration: none; color: inherit; transition: opacity 0.3s; }
             a:hover { opacity: 0.7; }
 
-            header { padding: 4rem 2rem 2rem; text-align: center; width: 100%; }
-            h1 { font-family: var(--font-display); font-size: 2.5rem; letter-spacing: 0.1em; text-transform: uppercase; font-weight: normal; }
+            /* --- NUEVOS ESTILOS DEL HEADER Y MENÚ HAMBURGUESA --- */
+            .site-header { padding: 3rem 2rem 2rem; display: flex; justify-content: space-between; align-items: center; position: relative; max-width: 1000px; margin: 0 auto; width: 100%; }
+            .site-header h1 { margin: 0; font-family: var(--font-display); font-size: 2.5rem; letter-spacing: 0.1em; text-transform: uppercase; font-weight: normal; }
+            .site-header h1 a { text-decoration: none; color: inherit; }
             
-            nav ul { list-style: none; display: flex; justify-content: center; gap: 2rem; font-size: 0.9rem; }
-            nav a { color: var(--accent-color); position: relative; }
+            .menu-toggle { display: none; background: none; border: none; font-size: 2rem; cursor: pointer; color: var(--text-color); }
+            
+            nav ul.nav-links { list-style: none; display: flex; gap: 2rem; font-size: 0.9rem; margin: 0; padding: 0; }
+            nav a { color: var(--accent-color); position: relative; text-transform: uppercase; letter-spacing: 0.05em; font-weight: 500; }
             nav a:hover, nav a.active-link { color: var(--text-color); }
             nav a.active-link::after { content: ''; position: absolute; width: 100%; height: 1px; bottom: -5px; left: 0; background-color: var(--text-color); }
+
+            /* Efecto hover general para títulos (Azul) */
+            .hover-azul:hover { color: #0056b3 !important; }
+
+            @media (max-width: 768px) {
+                .site-header { padding: 2rem; }
+                .menu-toggle { display: block; }
+                #main-nav { display: none; position: absolute; top: 100%; left: 0; width: 100%; background-color: var(--bg-color); box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1); z-index: 1000; padding: 1.5rem 0; text-align: center; }
+                #main-nav.menu-open { display: block; }
+                nav ul.nav-links { flex-direction: column; gap: 1.5rem; }
+            }
+            /* ---------------------------------------------------- */
 
             .container { max-width: 1000px; margin: 0 auto; padding: 2rem 2rem 6rem 2rem; width: 100%; flex-grow: 1; }
             .section-content { display: none; }
@@ -81,17 +97,8 @@ const metaDescription = description || "BLOGCITO - Bitácora de viaje, informaci
             .journal-tag[data-tag="bitacora"] { background-color: #fdf2e9; color: #af601a; border: 1px solid #fad7a0; }
             .journal-tag[data-tag="fotografia"] { background-color: #ebf5fb; color: #2874a6; border: 1px solid #aed6f1; }
             .journal-tag[data-tag="punto de fuga"] { background-color: #f5eef8; color: #6c3483; border: 1px solid #d7bde2; }
-            .journal-tag[data-tag="vida local"] { 
-                background-color: #f4f1ea; 
-                color: #31824b; 
-                border: 1px solid #6fdf96; 
-            }
-            .journal-tag[data-tag="data"] { 
-                background-color: #eaecee; 
-                color: #cbd661; 
-                border: 1px solid #ebf699; 
-            }
-
+            .journal-tag[data-tag="vida local"] { background-color: #f4f1ea; color: #31824b; border: 1px solid #6fdf96; }
+            .journal-tag[data-tag="data"] { background-color: #eaecee; color: #cbd661; border: 1px solid #ebf699; }
 
             .about-layout { display: grid; grid-template-columns: 1fr 1fr; gap: 4rem; align-items: start; }
             @media (max-width: 768px) { .about-layout { grid-template-columns: 1fr; gap: 2rem; } }
@@ -112,23 +119,13 @@ const metaDescription = description || "BLOGCITO - Bitácora de viaje, informaci
             .text-column blockquote { border-left: 4px solid #ddd; padding: 1.5rem 0 1.5rem 2rem; margin: 3.5rem 0; font-family: var(--font-display); font-size: 1.45rem; color: #222; font-style: italic; background-color: #f9f9f9; line-height: 1.5; }
             .text-column blockquote p { margin-bottom: 0; }
 
-            /* --- FIX ABSOLUTO: IMÁGENES CLÁSICAS (Markdown estándar) --- */
-            .text-column img { 
-                display: block; 
-                max-width: 100% !important; 
-                height: auto !important; 
-                margin: 2.5rem auto; 
-                cursor: pointer; 
-                object-fit: contain;
-            }
+            .text-column img { display: block; max-width: 100% !important; height: auto !important; margin: 2.5rem auto; cursor: pointer; object-fit: contain; }
 
-            /* --- FIX: GRID PINTEREST PARA GALERÍAS --- */
             .text-column p:has(img:nth-of-type(2)) { display: block; column-count: 2; column-gap: 1rem; margin: 3rem 0; width: 100%; }
             @media (min-width: 950px) { .text-column p:has(img:nth-of-type(2)) { width: 900px; margin-left: -110px; } }
             @media (max-width: 600px) { .text-column p:has(img:nth-of-type(2)) { column-count: 1; width: 100%; margin-left: 0; } }
             .text-column p:has(img:nth-of-type(2)) img { margin: 0 0 1rem 0; width: 100%; height: auto !important; display: inline-block; object-fit: contain; }
 
-            /* --- ESTILOS PARA COMPONENTES DEL CMS (Nuevas Imágenes) --- */
             .text-column .post-img-box { display: block; margin: 2rem 0; clear: both; }
             .text-column .post-img-box img { width: 100% !important; height: auto !important; margin: 0; cursor: pointer; }
             .img-pequeño { max-width: 250px; }
@@ -143,19 +140,11 @@ const metaDescription = description || "BLOGCITO - Bitácora de viaje, informaci
             .img-derecha .img-caption { text-align: right; }
             .text-column::after { content: ""; display: table; clear: both; }
 
-            /* --- FIX: RESPONSIVE PARA IMÁGENES CEÑIDAS EN CELULARES --- */
             @media (max-width: 600px) {
-                .img-izquierda, .img-derecha { 
-                    float: none !important; 
-                    margin: 2rem auto !important; 
-                    max-width: 100% !important; 
-                }
-                .img-izquierda .img-caption, .img-derecha .img-caption { 
-                    text-align: center; 
-                }
+                .img-izquierda, .img-derecha { float: none !important; margin: 2rem auto !important; max-width: 100% !important; }
+                .img-izquierda .img-caption, .img-derecha .img-caption { text-align: center; }
             }
 
-            /* --- COLORES PARA TEXTO --- */
             .txt-color-marron { color: #af601a; font-weight: 500; }
             .txt-color-azul { color: #2874a6; font-weight: 500; }
             .txt-color-violeta { color: #6c3483; font-weight: 500; }
@@ -179,6 +168,20 @@ const metaDescription = description || "BLOGCITO - Bitácora de viaje, informaci
             let imagesArray = [];
 
             function initPlugins() {
+                // --- Inicializar menú hamburguesa ---
+                const menuBtn = document.getElementById('mobile-menu-btn');
+                const mainNav = document.getElementById('main-nav');
+                if(menuBtn && mainNav) {
+                    // Evitamos duplicar eventos si la página se recarga
+                    menuBtn.replaceWith(menuBtn.cloneNode(true));
+                    const newMenuBtn = document.getElementById('mobile-menu-btn');
+                    newMenuBtn.addEventListener('click', () => {
+                        mainNav.classList.toggle('menu-open');
+                        newMenuBtn.innerHTML = mainNav.classList.contains('menu-open') ? '✕' : '☰';
+                    });
+                }
+
+                // --- Inicializar Lightbox ---
                 const lightbox = document.getElementById('lightbox');
                 const lightboxImg = document.getElementById('lightbox-img');
                 const domImages = document.querySelectorAll('img:not(#lightbox-img)');
@@ -219,6 +222,7 @@ const metaDescription = description || "BLOGCITO - Bitácora de viaje, informaci
                     }
                 };
 
+                // --- Inicializar Reveal ---
                 const observer = new IntersectionObserver((entries) => {
                     entries.forEach(entry => {
                         if (entry.isIntersecting) entry.target.classList.add('visible');
@@ -231,12 +235,13 @@ const metaDescription = description || "BLOGCITO - Bitácora de viaje, informaci
             document.addEventListener('DOMContentLoaded', initPlugins);
             document.addEventListener('astro:after-swap', initPlugins);
         </script>
-    <footer>
-    <p>&copy; 2026 BLOGCITO. Todos los derechos reservados.</p>
-    <div style="margin-top: 10px; font-size: 0.9em;">
-        <a href="/politica-de-privacidad" style="margin-right: 15px;">Política de Privacidad</a>
-        <a href="/contacto">Contacto</a>
-    </div>
-    </footer>
+        
+        <footer>
+            <p>&copy; 2026 BLOGCITO. Todos los derechos reservados.</p>
+            <div style="margin-top: 10px; font-size: 0.9em;">
+                <a href="/politica-de-privacidad" style="margin-right: 15px;">Política de Privacidad</a>
+                <a href="/contacto">Contacto</a>
+            </div>
+        </footer>
     </body>
 </html>

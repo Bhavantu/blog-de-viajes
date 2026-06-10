@@ -3,12 +3,14 @@ import Layout from '../layouts/Layout.astro';
 ---
 
 <Layout title="Contacto | BLOGCITO">
-    <header>
+        <header class="site-header">
         <h1><a href="/">BLOGCITO</a></h1>
-        <nav>
-            <ul>
-                <li><a href="/">Galería</a></li>
-                <li><a href="/diario">Diario</a></li>
+        <button id="mobile-menu-btn" class="menu-toggle">☰</button>
+        <nav id="main-nav">
+            <ul class="nav-links">
+                <li><a href="/">Inicio</a></li>
+                <li><a href="/diario" class="active-link">Diario</a></li>
+                <li><a href="/galeria">Galería</a></li>
                 <li><a href="/nosotros">Nosotros</a></li>
             </ul>
         </nav>
