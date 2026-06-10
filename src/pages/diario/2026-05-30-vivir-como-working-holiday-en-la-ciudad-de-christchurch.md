@@ -4,6 +4,7 @@ title: Vivir como Working Holiday en la ciudad de Christchurch
 date: 2026-05-30T14:55:00.000+12:00
 tag: vida local
 main_image: /img/diario/img_6757.webp
+destacado: true
 ---
 Hace un tiempo estoy viviendo este sueño de viajar por Nueva Zelanda trabajando con una visa de Work and Holiday y aunque es emocionante hay muchas cositas a resolver antes de emprender la aventura. Lo bueno y lo malo de viajar hoy en día es que hay un montón de información, de personas que ya vivieron esa experiencia. Personalmente uso mucho el recurso de YouTube, blogs e inteligencia artificial a la hora de conocer un lugar que me interesa o planificar un viaje. 
 

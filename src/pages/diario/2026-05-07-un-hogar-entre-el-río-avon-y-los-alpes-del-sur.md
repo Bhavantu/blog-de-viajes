@@ -7,6 +7,7 @@ pais: Nueva Zelanda
 description: "Viví 6 meses en Christchurch con la Working Holiday y fue un gran
   acierto. Te cuento cómo es vivir ahí: costo de vida, trabajo y seguridad."
 main_image: /img/diario/whatsapp-image-2026-05-08-at-23.14.31.webp
+destacado: true
 ---
 **De la ruta a la "vida local": por qué elegí Christchurch como base de mi Working Holiday**
 
