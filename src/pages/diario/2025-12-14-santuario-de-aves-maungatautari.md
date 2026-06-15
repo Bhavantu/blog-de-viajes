@@ -17,4 +17,4 @@ Quién sale a pasear cuando mi mente consciente deja el piloto por un rato.
 >
 > Vaya Ríos y montañas las que supimos ver, en el cantar de las aves escucho a mi ser. Y qué sabrá mi alma de a donde voy a caer si perdida en la aventura es donde puedo ser. 
 
-En este caso un video muestra más que mil palabras.
+En este caso una foto dice más que mil palabras.
