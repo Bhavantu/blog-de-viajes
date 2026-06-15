@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPostLayout.astro
 title: Santuario de aves Maungatautari
-date: 15 December 2025
+date: 2026-06-15T19:26:00.000+12:00
 tag: punto de fuga
 pais: Nueva Zelanda
 description: Visita al santuario Maungatautari
