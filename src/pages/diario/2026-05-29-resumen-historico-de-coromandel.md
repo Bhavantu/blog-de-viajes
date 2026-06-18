@@ -4,8 +4,6 @@ title: "resumen historico de Coromandel "
 date: 2026-05-30T11:41:00.000+12:00
 tag: bitacora
 ---
-
-
 # Resumen Histórico de la Península de Coromandel
 
 La península de Coromandel no solo destaca por su belleza salvaje actual, sino por haber sido escenario de profundas transformaciones culturales e industriales en Nueva Zelanda. Aquí tienes los cuatro grandes pilares que definen su historia:
@@ -24,6 +22,8 @@ La península de Coromandel no solo destaca por su belleza salvaje actual, sino 
 ## 3. La Fiebre del Kauri y la Resina (Gum)
 
 * **Los Gigantes de Madera:** Los bosques de la península estaban originalmente cubiertos por densos bosques de **Kauri** (*Agathis australis*), árboles majestuosos y sagrados que pueden vivir más de 1000 años. Durante el siglo XIX, la tala indiscriminada se convirtió en una industria brutal.
+
+  Hoy en día la preservacion de esta especie sagrada es uno de los motivos por los cuales se hace tanto enfasis en la desinfección del calzado a la hora de entrar en areas protegidas evitando el *kauri dieback* (se pudre la raiz del arbol y muere).
 * **Ingeniería de Presas (Kauri Dams):** Como los troncos eran inmensos, los leñadores construían represas de madera en las montañas. Acumulaban agua y miles de troncos y, al abrirlas simultáneamente, provocaban "avalanchas de agua" controladas que empujaban la madera colina abajo hasta los puertos. Tres cuartas partes de los bosques de kauri desaparecieron antes de 1900.
 * **Los Buscadores de Resina (Gumdiggers):** La resina fósil que desprendía el kauri (parecida al ámbar) era muy codiciada en Europa para fabricar barnices y linóleo de alta calidad. Cientos de personas (tanto maoríes como colonos) cavaban la tierra de la península para extraer esta resina del suelo.
 
