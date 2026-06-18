@@ -69,7 +69,7 @@ La principal ventaja vivir allí, Christchurch es un verdadero lujo geográfico.
 
 <div class="post-img-box img-completo img-derecha"><img src="/img/diario/whatsapp-image-2026-06-01-at-18.44.19.jpeg" alt="Imagen de bitácora"><span class="img-caption">Ciudad de Chrischurch paseos por el centro y Sumner Beach</span></div>
 
-## Vida social 
+## Vida social y apps aliadas
 
 Hay mucha gente usando aplicaciones para conectar con otros como *Nomad Table* o *Bumble BFF*. En la ciudad se encuentra una gran oferta de actividades sociales, mercados, deportes, encuentros de idiomas, clases interesantes, experiencias culinarias, juegos de mini golf, pistas de patinaje y cine. Yo en esta ocasión compartí tardes de *climbing* (escalada) con amigos, bares nocturnos con música en vivo y un hermoso taller de joyería con gente local, además de visitar algunos mercados locales y por supuesto muchos hikings.
 
