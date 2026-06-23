@@ -47,8 +47,12 @@ Luego de este periodo llegó la ocupación japonesa (1942-1945) fue una época m
 
 Esta historia de resistencia consolidó al *Banjar* como el pilar de la sociedad balinesa. Este sistema de organización vecinal no es solo administrativo: es una red de contención donde la responsabilidad sobre el territorio y los rituales es colectiva. La identidad balinesa sobrevive precisamente gracias a este tejido comunitario, que funciona como un escudo frente a la pérdida de sus tradiciones.
 
-### Para tener en cuenta
+Datos prácticos para un viaje respetuoso
 
 * **En los templos:** Es obligatorio cubrirse los hombros y las piernas usando un *sarong* para ingresar a cualquier espacio sagrado u oficina del gobierno, tanto hombres como mujeres.
-* **En las calles:** Las ofrendas están por todos lados. Pisarlas de manera intencional o descuidada es considerado una falta de respeto. La atención y la danza para esquivarlos es una práctica necesaria.
-*
+
+  * **En las calles:** Las ofrendas están por todos lados. Pisarlas de manera intencional o descuidada es considerado una falta de respeto. La atención y la danza para esquivarlos es una práctica necesaria.
+
+  * **Hospedaje:** Reservar en residencias o *guest houses* familiares permite tener una experiencia más auténtica, ayudando directamente a la economía local.
+
+    Si vas a viajar a Bali y necesitás conocer detalles sobre transporte, zonas de alojamiento e información actualizada te invito a leer la guía práctica aquí: \[Viajar a Bali en 2026: Requisitos, transporte y zonas para quedarse].
