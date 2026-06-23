@@ -21,4 +21,4 @@ Sobre los treils:
 
 A pesar de que está a 920 metros de altura y se siente el aire frio de la Montaña los recorridos no son particularmente empinados, y encuentran diferentes variables de duracion y complejidad, el estado de los caminos, escalones y la señalizacion permiten que sea un paseo más accesible para todas las personas. 
 
-Nos pareció un parque nacional muy bello, con muchos caminos a recorrer y una historia presente que habla sobre la constituion del territorio tal y como lo conocemos hoy. Pero mejor que expresarlo en palabras decidimos hacer un video para compartirlo más de cerca.
+Nos pareció un parque nacional muy bello, con muchos caminos a recorrer y una historia presente que habla sobre la constitución del territorio tal y como lo conocemos hoy. A continuación unas imágenes capturadas en el lente de Santi.
