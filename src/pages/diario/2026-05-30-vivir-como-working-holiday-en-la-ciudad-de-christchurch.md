@@ -9,9 +9,9 @@ description: "Viví 6 meses en Christchurch con la Working Holiday y fue un gran
   acierto. Te cuento cómo es vivir ahí: costo de vida, trabajo y seguridad."
 main_image: /img/diario/whatsapp-image-2026-06-01-at-18.44.19.jpeg
 ---
-En este articulo comparto mi experiencia viviendo 6 meses en Christchurch en 2026.
+**En este articulo comparto mi experiencia viviendo 6 meses en Christchurch en 2026.**
 
-Hace un tiempo me comenzaron a llegar mensajes de personas random preguntándome sobre mi experiencia  Working Holiday Nueva Zelanda en 2026. Las preguntas principales fueron: cómo está Nueva Zelanda en 2026, que se necesita para conseguir trabajo, cuales son las mejores ciudades para vivir en Nueva Zelanda como Working Holiday entre otras, así que hice lo que más me gusta escribir para compartir mi experiencia para quien le aporte. Salú.
+Hace un tiempo que comenzaron a llegarme mensajes de personas random preguntándome sobre mi experiencia  Working Holiday Nueva Zelanda en 2026. Las preguntas principales fueron: cómo está Nueva Zelanda en 2026, que se necesita para conseguir trabajo, cuales son las mejores ciudades para vivir en Nueva Zelanda como Working Holiday entre otras, así que hice lo que más me gusta escribir para compartir mi experiencia para quien le aporte. Salú.
 
 ## Mi experiencia real: Vivir en Christchurch como Working Holiday
 
