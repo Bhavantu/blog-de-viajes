@@ -7,8 +7,10 @@ tag: vida local
 pais: Nueva Zelanda
 description: "Viví 6 meses en Christchurch con la Working Holiday y fue un gran
   acierto. Te cuento cómo es vivir ahí: costo de vida, trabajo y seguridad."
-main_image: /img/diario/whatsapp-image-2026-06-01-at-18.44.19.jpeg
+main_image: /img/diario/img_6757.webp
 ---
+<div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+
 **En este articulo comparto mi experiencia viviendo 6 meses en Christchurch en 2026.**
 
 Hace un tiempo que comenzaron a llegarme mensajes de personas random preguntándome sobre mi experiencia  Working Holiday Nueva Zelanda en 2026. Las preguntas principales fueron: cómo está Nueva Zelanda en 2026, que se necesita para conseguir trabajo, cuales son las mejores ciudades para vivir en Nueva Zelanda como Working Holiday entre otras, así que hice lo que más me gusta escribir para compartir mi experiencia para quien le aporte. Salú.
@@ -31,7 +33,7 @@ La principal ventaja vivir allí, Christchurch es un verdadero lujo geográfico.
 
 Hay mucha gente usando aplicaciones para conectar con otros como *Nomad Table* o *Bumble BFF*. En la ciudad se encuentra una gran oferta de actividades sociales, mercados, deportes, encuentros de idiomas, clases interesantes, experiencias culinarias, juegos de mini golf, pistas de patinaje y cine. Yo en esta ocasión compartí tardes de *climbing* (escalada) con nuevos amigos y amigas, bares nocturnos con música en vivo y un hermoso taller de joyería con gente local, además de visitar algunos mercados locales y por supuesto muchos hikings.
 
-### Terremotos en Chrischurch ¿Es seguro vivir en la ciudad actualmente?
+## Terremotos en Chrischurch ¿Es seguro vivir en la ciudad actualmente?
 
 Christchurch se encuentra en una zona de actividad sísmica (con terremotos provocados por fallas tectónicas), pero no de actividad volcánica activa directa. Aunque tecnicamente la cercana Península de Banks (muy bella por cierto) tiene un origen volcánico extinto. Lo cierto es que en cualquier parte de Nueva Zelanda existe riesgo de actividad sísmica y esta ciudad tiene sus antecedentes históricos.
 
@@ -53,6 +55,8 @@ Llevando una vida “normal y tranquila” es decir, cocinando en casa, comparti
 * **Para buscar habitación (*flat*):** Las dos herramientas que mejor me funcionaron fueron Trade Me (en la sección de *Flatmates wanted*) para comparar precios de forma organizada, y los grupos de Facebook (como *Christchurch Flatmates*), donde el trato es es directo y rápido.
 
 **Para buscar trabajo:** Use Seek (cv estilo local y alertas activas), otra opción es Trade Me Jobs (el buscador con ofertas variadas y locales) y Backpackerboard. Para una visión general de la oferta de horticultura, usé y recomiendo la web oficial de pick.nz.
+
+<div class="post-img-box img-pequeño img-izquierda"><img src="/img/diario/foto-chrischurch.webp" alt="Imagen de bitácora"><span class="img-caption">Chrischurch Central </span></div>
 
 ## ¿Vale la pena elegir Christchurch para tu Working Holiday?
 
