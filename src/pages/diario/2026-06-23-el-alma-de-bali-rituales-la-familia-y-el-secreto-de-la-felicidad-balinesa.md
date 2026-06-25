@@ -7,6 +7,7 @@ pais: Indonesia
 description: Descubrí el alma de Bali a través de sus rituales, la importancia
   de la familia y el sistema Banjar. Una articulo para conocer la cultura,
   viajar con respeto y conectar de verdad.
+main_image: /img/diario/dsc_0628.webp
 ---
 Cierro mis ojos y disfruto de la cálida brisa que llega desde la selva balinesa; roza suave mi rostro y me recuerda lo afortunada que soy. El sonido de la cascada acompasa con las aves y los insectos, creando una melodía sublime. A pocos metros de la *guest house* gestionada por nuestros anfitriones, quienes nos reciben en su hogar amables y alegres, se encuentra la cascada escondida.
 
@@ -18,9 +19,13 @@ La población balinesa es absolutamente encantadora y amable. Fieles a sus tradi
 
 Siempre van acompañadas de un incienso humeante con el cual sahúman brevemente alrededor con un movimiento sutil de la mano; un gesto destinado a purificar el espacio antes de elevar la oración. Además, es común ver que tras el rezo se coloquen granos de arroz húmedo (*Bija*) en la frente o el pecho, simbolizando la semilla de la vida y la bendición divina.
 
+<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/archivo-pegado.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+
 ### Dioses, demonios y la música en las calles
 
 Al caminar, es común sorprenderse por las máscaras y estatuas de piedra que parecen demonios guardianes. El hinduismo balinés es único; si bien comparten deidades como Brahma, Vishnu y Shiva con la India, el sincretismo es propio. Al no intentar representar a los dioses con forma humana, recurren a la fuerza de la naturaleza y a la mitología.
+
+<div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/dsc_0555.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 Es moneda corriente encontrarse con el *Banjar*, la organización comunitaria del barrio. De pronto, un grupo de jóvenes sale con sus instrumentos tradicionales (el *Gamelan*: metalófonos, gongs y tambores) a ofrecer bendiciones. Entre ellos destaca el *Barong*, una figura protectora que danza al ritmo de la percusión, dirigido por dos personas en su interior. Es un espectáculo ver cómo las familias salen a acompañarlos y los niños aplauden alentando en las veredas.
 
@@ -39,6 +44,8 @@ La familia cobra un lugar central. Se respeta profundamente a los mayores y los 
 
 Si hay un quinto, el ciclo vuelve a empezar. Esta estructura se repite en todas las familias de la isla. Aunque luego tienen otro nombre y apellido siempre se presentan con el primero.
 
+<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/img_9487.jpeg" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+
 ### La resiliencia detrás de la sonrisa: La historia de Indonesia y el espíritu balinés
 
 Charlando con Roi, un guía local de la isla de Java que conocimos al llegar, pudimos entender que tanta calidez; es también producto de una historia de resistencia. Nos contaba cómo Indonesia fue colonizada y esclavizada por los holandeses durante más de 300 años, un período de extracción masiva de recursos que permitió que los Países Bajos se posicionaran como una de las potencias económicas y comerciales más influyentes de Europa.
@@ -52,7 +59,6 @@ Datos prácticos para un viaje respetuoso
 * **En los templos:** Es obligatorio cubrirse los hombros y las piernas usando un *sarong* para ingresar a cualquier espacio sagrado u oficina del gobierno, tanto hombres como mujeres.
 
   * **En las calles:** Las ofrendas están por todos lados. Pisarlas de manera intencional o descuidada es considerado una falta de respeto. La atención y la danza para esquivarlos es una práctica necesaria.
-
   * **Hospedaje:** Reservar en residencias o *guest houses* familiares permite tener una experiencia más auténtica, ayudando directamente a la economía local.
 
     Si vas a viajar a Bali y necesitás conocer detalles sobre transporte, zonas de alojamiento e información actualizada te invito a leer la guía práctica aquí: \[Viajar a Bali en 2026: Requisitos, transporte y zonas para quedarse].
