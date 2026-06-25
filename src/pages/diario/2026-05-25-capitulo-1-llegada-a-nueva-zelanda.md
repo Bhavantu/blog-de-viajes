@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/BlogPostLayout.astro
-title: Capitulo 1 Llegada a Nueva Zelanda
+title: "Capitulo 1 Llegada a Nueva Zelanda e Isla Norte "
 date: 2026-05-25T13:57:00.000+12:00
 tag: bitacora
 pais: Nueva Zelanda
