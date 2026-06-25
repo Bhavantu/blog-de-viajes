@@ -13,4 +13,4 @@ Más, he decidido como ejercicio caminar con la mirada atenta y el corazón abie
 
 Querido lector, querida lectora, más que un racconto es una invitación a dejarse atravesar por el presente, a encontrar algo a su alrededor que lo haga formar parte de un entorno divino como lo es esta existencia. 
 
-Amanece un día más y eso no es poca cosa.
+Amanece un día más y eso no es poca cosa, gracias.
