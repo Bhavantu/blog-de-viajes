@@ -5,7 +5,8 @@ title: ¿Dónde vivir en la Isla Sur de Nueva Zelanda? Comparativa de ciudades
 date: 2026-05-08T13:10:00.000+12:00
 tag: vida local
 pais: Nueva Zelanda
-description: ""
+description: "Comparación de mejores ciudades de la Isla Sur para vivir en Nueva
+  Zelanda 2026 "
 main_image: /img/diario/whatsapp-image-2026-05-08-at-23.14.31.webp
 ---
 **De la ruta a la "vida local": un poco de estabilidad durante la experiencia Working Holiday Visa**
