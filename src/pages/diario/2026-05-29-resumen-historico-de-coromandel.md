@@ -20,14 +20,15 @@ En el siguiente articulo compartiremos un poco sobre su historia dividida en las
 
 ## 1. El Legado Maorí: "La espina del pez de Māui"
 
-* **El Origen Mitológico:** Para los maoríes, la península se conoce originalmente como *Te Tara-o-te-Ika-a-Māui* (que se traduce como «la púa o espina del pez de Māui»). En su cosmología, la Isla Norte es un gran pez (raya marina) capturado por el semidiós Māui; la península de Coromandel representa la espina dorsal o cola del pez.
-* **Presencia Milenaria:** El área de *Hauraki* (toda la región del golfo y la península) ha sido habitada de forma continua por tribus (*iwi*) maoríes como *Te Patukirikiri*, *Ngāti Whanaunga* y *Ngāti Maru* por más de 1000 años.
-* **Tierra de Abundancia:** Era descrita tradicionalmente como *"Ko Manaia, he pataka kai"* («Manaia, el almacén de comida»), debido a la inmensa riqueza de recursos marinos, mariscos y tierras fértiles de la zona.
+### **El Origen Mitológico:**
+
+Para los maoríes, la península se conoce originalmente como *Te Tara-o-te-Ika-a-Māui* (que se traduce como «la púa o espina del pez de Māui»). En su cosmología, la Isla Norte es un gran pez (raya marina) capturado por el semidiós Māui; **la península de Coromandel representa la espina dorsal o cola del pez.** El área de *Hauraki* (toda la región del golfo y la península) ha sido habitada de forma continua por tribus (*iwi*) maoríes como *Te Patukirikiri*, *Ngāti Whanaunga* y *Ngāti Maru* por más de 1000 años. De hecho al entrar a la playa nos encontramos con dos hombres maoris que amablemente nos convidaron con su erizo recien pescado, alimento de verdad lo llamaban, lo partian con sus propias manos y comían su interior. Eso me lleva a resaltar además que historicamente era descrita tradicionalmente como *"Ko Manaia, he pataka kai"* («Manaia, el almacén de comida»), debido a la inmensa riqueza de recursos marinos, mariscos y tierras fértiles de la zona.
 
 ## 2. El Origen del Nombre y el Contacto Europeo
 
-* **El Capitán Cook (1769):** El famoso explorador británico James Cook llegó a la costa este en 1769, específicamente a *Mercury Bay* (Bahía de Mercurio), llamada así porque Cook se detuvo allí para observar el tránsito del planeta Mercurio y trazar mapas astronómicos.
-* **El HMS Coromandel (1820):** La península no lleva un nombre maorí ni inglés tradicional, sino el de un barco de la Marina Real Británica: el **HMS Coromandel** (que a su vez fue nombrado por la costa de Coromandel en la India). El barco ancló en la bahía en 1820 con el único propósito de comprar troncos de madera nativa para convertirlos en mástiles de barcos de guerra ingleses.
+**El Capitán Cook (1769):** El famoso explorador británico James Cook llegó a la costa este en 1769, específicamente a *Mercury Bay* (Bahía de Mercurio), llamada así porque se detuvo allí para observar el tránsito del planeta Mercurio y trazar mapas astronómicos.
+
+**El origen fue un barco HMS Coromandel (1820):** La península no lleva un nombre maorí ni inglés tradicional, sino el de un barco de la Marina Real Británica: el **HMS Coromandel** (que a su vez fue nombrado por la costa de Coromandel en la India). El barco ancló en la bahía en 1820 con el único propósito de comprar troncos de madera nativa para convertirlos en mástiles de barcos de guerra ingleses.
 
 ## 3. El comienzo de la extracción industrial de los bosques: Kauri y Resina (Gum)
 
