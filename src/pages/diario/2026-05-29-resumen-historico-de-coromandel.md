@@ -8,11 +8,15 @@ tag: bitacora
 
 La península de Coromandel es sin duda un lugar muy hermoso, pero no solo destaca por su belleza actual, sino por haber sido escenario de profundas transformaciones culturales e industriales en Nueva Zelanda. 
 
-En el siguiente articulo compartiremos un poco sobre su historia desde:
+En el siguiente articulo compartiremos un poco sobre su historia dividida en las siguientes secciones:
 
-El Legado Maorí: sus primeros pobladores 
+1. El Legado Maorí: sus primeros pobladores 
+2. El Origen del Nombre y el Contacto Europeo
+3. El comienzo de la extracción industrial de los bosques: Kauri y Resina (Gum)
+4. La Fiebre del Oro de Nueva Zelanda
+5. El Declive y el Retorno a la Naturaleza
 
-El Origen del Nombre y el Contacto Europeo
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25547.05446810327!2d175.56273371041806!3d-36.833330973178946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6d72f574eb4b0b2d%3A0x5719917f3949bba5!2sPen%C3%ADnsula%20de%20Coromandel!5e0!3m2!1ses-419!2sid!4v1782464087271!5m2!1ses-419!2sid" width="100%" height="450" style="border:0; border-radius: 8px; margin: 2rem 0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
 ## 1. El Legado Maorí: "La espina del pez de Māui"
 
@@ -27,9 +31,7 @@ El Origen del Nombre y el Contacto Europeo
 
 ## 3. El comienzo de la extracción industrial de los bosques: Kauri y Resina (Gum)
 
-**Los Gigantes de Madera:** Los bosques de la península estaban originalmente cubiertos por densos bosques de **Kauri** (*Agathis australis*), árboles majestuosos y sagrados que pueden vivir más de 1000 años. Durante el siglo XIX, la tala indiscriminada se convirtió en una industria brutal.
-
-Hoy en día la preservacion de esta especie sagrada es uno de los motivos por los cuales se hace tanto enfasis en la desinfección del calzado a la hora de entrar en areas protegidas evitando el *kauri dieback* (se pudre la raiz del arbol y muere).
+**Los Gigantes de Madera:** Los bosques de la península estaban originalmente cubiertos por densos bosques de **Kauri** (*Agathis australis*), árboles majestuosos y sagrados que pueden vivir más de 1000 años. Durante el siglo XIX, la tala indiscriminada se convirtió en la industria extractiva por excelencia.
 
 **Ingeniería de Presas (Kauri Dams):** 
 
@@ -39,11 +41,19 @@ Como los troncos eran inmensos, los leñadores construían represas de madera en
 
 La resina fósil que desprendía el kauri (parecida al ámbar) era muy codiciada en Europa para fabricar barnices y linóleo de alta calidad. Cientos de personas (tanto maoríes como colonos) cavaban la tierra de la península para extraer esta resina del suelo.
 
+Hoy en día la preservación de esta especie sagrada es uno de los motivos por los cuales se hace tanto enfasis en la desinfección del calzado a la hora de entrar en áreas protegidas evitando el *kauri dieback* (se pudre la raíz del árbol y muere).
+
 ## 4. La Fiebre del Oro de Nueva Zelanda
 
-* **El Primer Descubrimiento (1852):** Coromandel Town fue el lugar donde **se descubrió oro por primera vez en Nueva Zelanda** en 1852 (por los hermanos Charles y Frederick Ring en Driving Creek).
-* **El Boom de Thames (1867):** Aunque el primer descubrimiento se agotó rápido, el verdadero "boom" ocurrió en Thames en 1867. La fiebre del oro atrajo a tantos mineros que Thames estuvo a punto de superar a Auckland en población, convirtiéndose temporalmente en una de las ciudades más grandes y ruidosas del país. En La peninsula existe un Museo llamado ... que cuenta con presicion la historia e incluso con fotos y maquetas. 
-* **La Minería de Cuarzo:** A diferencia del oro de río en la Isla Sur, el oro de Coromandel estaba atrapado dentro de rocas de cuarzo duro. Se requería maquinaria pesada (los S*tamper batteries*,  eran martillos gigantes de hierro) para triturar la piedra, que llenaban la península de humo, ruido y túneles subterráneos.
+**El Primer Descubrimiento (1852):** 
+
+Coromandel Town fue el lugar donde **se descubrió oro por primera vez en Nueva Zelanda** en 1852 por los hermanos Charles y Frederick Ring en Driving Creek provenientes de Inglaterra.
+
+**El Boom de Thames (1867):**
+
+Aunque el primer descubrimiento se agotó rápido, el verdadero "boom" ocurrió en Thames en 1867. La fiebre del oro atrajo a tantos mineros que Thames estuvo a punto de superar a Auckland en población, convirtiéndose temporalmente en una de las ciudades más grandes y ruidosas del país. En La península existe un Museo llamado ... que cuenta con presicion la historia e incluso con fotos y maquetas. 
+
+**La Minería de Cuarzo:** También se coemnzó a extraer cuarzo en ... A diferencia del oro de río en la Isla Sur, el oro de Coromandel estaba atrapado dentro de rocas de cuarzo duro. Se requería maquinaria pesada (los S*tamper batteries*,  eran martillos gigantes de hierro) para triturar la piedra, que llenaban la península de humo, ruido y túneles subterráneos.
 
 ## 5. El Declive y el Retorno a la Naturaleza
 
