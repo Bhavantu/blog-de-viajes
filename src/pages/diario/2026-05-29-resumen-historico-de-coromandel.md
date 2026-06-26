@@ -1,8 +1,10 @@
 ---
 layout: ../../layouts/BlogPostLayout.astro
-title: "resumen historico de Coromandel "
+title: "La historia de Coromandel: de la extracción a la conservación "
 date: 2026-05-30T11:41:00.000+12:00
 tag: bitacora
+pais: Nueva Zelanda
+description: Más allá de las playas, historia y secretos de esta hermosa peninsula
 ---
 # Resumen Histórico de la Península de Coromandel
 
@@ -22,7 +24,7 @@ En el siguiente articulo compartiremos un poco sobre su historia dividida en las
 
 ### **El Origen Mitológico:**
 
-Para los maoríes, la península se conoce originalmente como *Te Tara-o-te-Ika-a-Māui* (que se traduce como «la púa o espina del pez de Māui»). En su cosmología, la Isla Norte es un gran pez (raya marina) capturado por el semidiós Māui; **la península de Coromandel representa la espina dorsal o cola del pez.** El área de *Hauraki* (toda la región del golfo y la península) ha sido habitada de forma continua por tribus (*iwi*) maoríes como *Te Patukirikiri*, *Ngāti Whanaunga* y *Ngāti Maru* por más de 1000 años. De hecho al entrar a la playa nos encontramos con dos hombres maoris que amablemente nos convidaron con su erizo recien pescado, alimento de verdad lo llamaban, lo partian con sus propias manos y comían su interior. Eso me lleva a resaltar además que historicamente era descrita tradicionalmente como *"Ko Manaia, he pataka kai"* («Manaia, el almacén de comida»), debido a la inmensa riqueza de recursos marinos, mariscos y tierras fértiles de la zona.
+Para los maoríes, la península se conoce originalmente como *Te Tara-o-te-Ika-a-Māui* (que se traduce como «la púa o espina del pez de Māui»). En su cosmología, la Isla Norte es un gran pez (raya marina) capturado por el semidiós Māui; **la península de Coromandel representa la espina dorsal o cola del pez.** El área de *Hauraki* (toda la región del golfo y la península) ha sido habitada de forma continua por tribus (*iwi*) maoríes como *Te Patukirikiri*, *Ngāti Whanaunga* y *Ngāti Maru* por más de 1000 años. De hecho al entrar a la playa nos encontramos con dos hombres maoris que amablemente nos compartieron algunos ejemplares recién extraidos de Kina, una especie de erizo que habita en el agua, "alimento de verdad lo llamaban". Para comerlo lo partían con sus propias manos y comían su interior. Eso me lleva a resaltar además que históricamente era descrita tradicionalmente como *"Ko Manaia, he pataka kai"* («Manaia, el almacén de comida»), debido a la inmensa riqueza de recursos marinos, mariscos y tierras fértiles de la zona.
 
 ## 2. El Origen del Nombre y el Contacto Europeo
 
@@ -52,9 +54,9 @@ Coromandel Town fue el lugar donde **se descubrió oro por primera vez en Nueva 
 
 **El Boom de Thames (1867):**
 
-Aunque el primer descubrimiento se agotó rápido, el verdadero "boom" ocurrió en Thames en 1867. La fiebre del oro atrajo a tantos mineros que Thames estuvo a punto de superar a Auckland en población, convirtiéndose temporalmente en una de las ciudades más grandes y ruidosas del país. En La península existe un Museo llamado ... que cuenta con presicion la historia e incluso con fotos y maquetas. 
+Aunque el primer descubrimiento se agotó rápido, el verdadero "boom" ocurrió en Thames en 1867. La fiebre del oro atrajo a tantos mineros que Thames estuvo a punto de superar a Auckland en población, convirtiéndose temporalmente en una de las ciudades más grandes y ruidosas del país. En La península existe un Museo llamado *The Treasury* que cuenta con precisión la historia, incluso con fotos, maquetas y zonas interactivas. 
 
-**La Minería de Cuarzo:** También se coemnzó a extraer cuarzo en ... A diferencia del oro de río en la Isla Sur, el oro de Coromandel estaba atrapado dentro de rocas de cuarzo duro. Se requería maquinaria pesada (los S*tamper batteries*,  eran martillos gigantes de hierro) para triturar la piedra, que llenaban la península de humo, ruido y túneles subterráneos.
+**La Minería de Cuarzo:** También se coemenzó a extraer cuarzo en ... A diferencia del oro de río en la Isla Sur, el oro de Coromandel estaba atrapado dentro de rocas de cuarzo duro. Se requería maquinaria pesada (los S*tamper batteries*,  eran martillos gigantes de hierro) para triturar la piedra, que llenaban la península de humo, ruido y túneles subterráneos.
 
 ## 5. El Declive y el Retorno a la Naturaleza
 
