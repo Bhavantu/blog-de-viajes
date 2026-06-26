@@ -56,7 +56,9 @@ Coromandel Town fue el lugar donde **se descubrió oro por primera vez en Nueva 
 
 Aunque el primer descubrimiento se agotó rápido, el verdadero "boom" ocurrió en Thames en 1867. La fiebre del oro atrajo a tantos mineros que Thames estuvo a punto de superar a Auckland en población, convirtiéndose temporalmente en una de las ciudades más grandes y ruidosas del país. En La península existe un Museo llamado *The Treasury* que cuenta con precisión la historia, incluso con fotos, maquetas y zonas interactivas. 
 
-**La Minería de Cuarzo:** También se coemenzó a extraer cuarzo en ... A diferencia del oro de río en la Isla Sur, el oro de Coromandel estaba atrapado dentro de rocas de cuarzo duro. Se requería maquinaria pesada (los S*tamper batteries*,  eran martillos gigantes de hierro) para triturar la piedra, que llenaban la península de humo, ruido y túneles subterráneos.
+**La Minería de Cuarzo**
+
+También se comenzó a extraer cuarzo en **1862**, A diferencia del oro de río en la Isla Sur, el oro de Coromandel estaba atrapado dentro de rocas de cuarzo duro. Por lo cual se requería maquinaria pesada (los S*tamper batteries*,  eran martillos gigantes de hierro) para triturar la piedra, y un arduo trabajo que dejaban como resultado la península llena de humo, ruido y túneles subterráneos.
 
 ## 5. El Declive y el Retorno a la Naturaleza
 
