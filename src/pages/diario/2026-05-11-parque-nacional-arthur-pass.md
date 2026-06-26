@@ -4,7 +4,7 @@ title: Parque Nacional Arthur Pass
 date: 12 May 2026
 tag: bitacora
 pais: Nueva Zelanda
-description: Uno de los arques nacionales imperdibles de Nueva Zelanda en la isla Sur.
+description: Uno de los arques nacionales imperdibles de Nueva Zelanda en la isla Sur
 main_image: /img/diario/dsc_0335.webp
 ---
 Una tarde de Diciembre a un mes de llegar Nueva Zelanda, tomando mates  y conversando con Lucy una amiga kiwi a los pies del Mont Manganui decidimos preguntarle previo a nuestra aventura hacia el sur cual sería el lugar de Nueva Zelanda que en su opinion no nos podíamos perder, la respuesta fue contundente "Arthur Pass" un treking con paisajes de alpino de bosque y tundra seca. Desde ese entonces decidimos que tendríamos que añadirlo sin falta a nuestro intinerario, y aunque se hizo esperar descubrimos que estaba a solo dos hroas de Chrischruch, una ruta fantasitica y contaba con un camping espectacular del Dot, un descapmado apto apra campervans con vista 360 a la Montaña
