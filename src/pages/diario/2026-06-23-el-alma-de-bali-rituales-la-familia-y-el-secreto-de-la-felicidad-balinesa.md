@@ -4,9 +4,9 @@ title: "El alma de Bali: Rituales, la familia y el secreto de la felicidad balin
 date: 2026-06-23T19:05:00.000+08:00
 tag: bitacora
 pais: Indonesia
-description: Descubrí el alma de Bali a través de sus rituales, la importancia
-  de la familia y el sistema Banjar. Una articulo para conocer la cultura,
-  viajar con respeto y conectar de verdad.
+description: El alma de Bali a través de sus rituales, la importancia de la
+  familia y el sistema Banjar. Una articulo para conocer la cultura, viajar con
+  respeto y conectar.
 main_image: /img/diario/dsc_0628.webp
 ---
 Cierro mis ojos y disfruto de la cálida brisa que llega desde la selva balinesa; roza suave mi rostro y me recuerda lo afortunada que soy. El sonido de la cascada acompasa con las aves y los insectos, creando una melodía sublime. A pocos metros de la *guest house* gestionada por nuestros anfitriones, quienes nos reciben en su hogar amables y alegres, se encuentra la cascada escondida.
@@ -25,9 +25,9 @@ Siempre van acompañadas de un incienso humeante con el cual sahúman brevemente
 
 Al caminar, es común sorprenderse por las máscaras y estatuas de piedra que parecen demonios guardianes. El hinduismo balinés es único; si bien comparten deidades como Brahma, Vishnu y Shiva con la India, el sincretismo es propio. Al no intentar representar a los dioses con forma humana, recurren a la fuerza de la naturaleza y a la mitología.
 
-<div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/dsc_0555.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+Es frecuente caminar por las calles y encontrarse con el *Banjar*, la organización comunitaria del barrio. Un grupo de jóvenes que camina con sus instrumentos tradicionales (el *Gamelan*: metalófonos, gongs y tambores) a ofrecer bendiciones y recibir moneditas. Entre ellos destaca el *Barong*, una figura protectora (un disfraz alargado con cara de mono, tigre entre otros) que danza al ritmo de la percusión, dirigido por dos personas en su interior. Las familias salen a acompañarlos y los niños aplauden alentando en las veredas.
 
-Es moneda corriente encontrarse con el *Banjar*, la organización comunitaria del barrio. De pronto, un grupo de jóvenes sale con sus instrumentos tradicionales (el *Gamelan*: metalófonos, gongs y tambores) a ofrecer bendiciones. Entre ellos destaca el *Barong*, una figura protectora que danza al ritmo de la percusión, dirigido por dos personas en su interior. Es un espectáculo ver cómo las familias salen a acompañarlos y los niños aplauden alentando en las veredas.
+<div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/dsc_0555.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 ### El corazón de la casa y la estructura familiar
 
@@ -54,7 +54,7 @@ Luego de este periodo llegó la ocupación japonesa (1942-1945) fue una época m
 
 Esta historia de resistencia consolidó al *Banjar* como el pilar de la sociedad balinesa. Este sistema de organización vecinal no es solo administrativo: es una red de contención donde la responsabilidad sobre el territorio y los rituales es colectiva. La identidad balinesa sobrevive precisamente gracias a este tejido comunitario, que funciona como un escudo frente a la pérdida de sus tradiciones.
 
-Datos prácticos para un viaje respetuoso
+### **Datos prácticos para un viaje respetuoso**
 
 * **En los templos:** Es obligatorio cubrirse los hombros y las piernas usando un *sarong* para ingresar a cualquier espacio sagrado u oficina del gobierno, tanto hombres como mujeres.
 
