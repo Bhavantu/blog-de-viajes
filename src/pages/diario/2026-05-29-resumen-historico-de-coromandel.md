@@ -4,7 +4,8 @@ title: "La historia de Coromandel: de la extracción a la conservación "
 date: 2026-05-30T11:41:00.000+12:00
 tag: bitacora
 pais: Nueva Zelanda
-description: Más allá de las playas, historia y secretos de esta hermosa peninsula
+description: Más allá de las playas, historia y secretos de esta península,
+  desde el legado maorí hasta la fiebre del oro.
 ---
 # Resumen Histórico de la Península de Coromandel
 
@@ -64,4 +65,6 @@ También se comenzó a extraer cuarzo en **1862**, A diferencia del oro de río 
 
 A principios del siglo XX, tanto las minas de oro como las reservas de kauri comenzaron a agotarse. La península se sumió en el silencio, dedicándose temporalmente a la ganadería y la pesca.
 
-En la década de 1970, la herida ecológica comenzó a sanar gracias a fuertes movimientos de conservación y la zona empezó a atraer a artesanos, alfareros y personas que buscaban un estilo de vida alternativo y en calma, dando origen a la "vibra artística y relajada que caracteriza a Coromandel" hoy en día.
+En la década de 1970, la herida ecológica comenzó a sanar gracias a fuertes movimientos de conservación y la zona empezó a atraer a artesanos, alfareros y personas que buscaban un estilo de vida alternativo y en calma, dando origen al ambiente bohemio y relajado que caracteriza a la Peninsula de Coromandel hoy en día.
+
+Es posible recorrerla por una ruta que bordea la peninsula, angosta y con vistas espectaculares, pendientes y altos acantilados. También es posible pasar la noche ya que cuenta con una gran oferta hotelera y campings para campervans habilitadas.
