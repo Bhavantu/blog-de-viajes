@@ -2,14 +2,13 @@
 layout: ../../layouts/BlogPostLayout.astro
 title: "La historia de Coromandel: de la extracción a la conservación "
 date: 2026-05-30T11:41:00.000+12:00
-tag: bitacora
+tag: data
 pais: Nueva Zelanda
 description: Más allá de las playas, historia y secretos de esta península,
   desde el legado maorí, pasando por la fiebre del oro hasta la actual
   conservación.
 main_image: /img/diario/whatsapp-image-2026-06-28-at-00.01.52.jpeg
 ---
-
 # Resumen Histórico de la Península de Coromandel
 
 La península de Coromandel es sin duda un lugar muy hermoso, pero no solo destaca por su belleza actual, sino por haber sido escenario de profundas transformaciones culturales e industriales en Nueva Zelanda. 
@@ -21,7 +20,7 @@ En el siguiente articulo compartiremos un poco sobre su historia dividida en las
 3. El comienzo de la extracción industrial de los bosques: Kauri y Resina (Gum)
 4. La Fiebre del Oro de Nueva Zelanda
 5. El Declive y el Retorno a la Naturaleza
-6. Donde quedarse, pueblos aledaños 
+6. Donde quedarse, pueblos aledaños y playas increíbles
 
 ## 1. El Legado Maorí: "La espina del pez de Māui"
 
@@ -78,6 +77,7 @@ En la década de 1970, la herida ecológica comenzó a sanar gracias a fuertes m
 
   * *Tip de viaje:* Si estás planificando tu ruta, te recomiendo buscar disponibilidad en tiempo real según tu presupuesto en el mapa interactivo de abajo. 
 * **Tip de viajero consciente:** Desinfectar el calzado siempre que veas las estaciones de limpieza. es simpple y es la única forma de proteger los últimos bosques de Kauri.
+* Playas épicas: la zona tiene bastantes playas que emrece la pena recorrer y disfrutar siempre con precaución, entre ellas te recomiendo Pokohino beach (una joya escondida), Cathedral Cove y Hot Water Beach.
 
 ### 6. Donde quedarse, pueblos aledaños
 
