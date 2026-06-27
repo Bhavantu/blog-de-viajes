@@ -5,9 +5,11 @@ date: 2026-05-30T11:41:00.000+12:00
 tag: bitacora
 pais: Nueva Zelanda
 description: Más allá de las playas, historia y secretos de esta península,
-  desde el legado maorí hasta la fiebre del oro.
-main_image: /img/diario/whatsapp-image-2026-06-26-at-16.52.34-1-.jpeg
+  desde el legado maorí, pasando por la fiebre del oro hasta la actual
+  conservación.
+main_image: /img/diario/whatsapp-image-2026-06-28-at-00.01.52.jpeg
 ---
+
 # Resumen Histórico de la Península de Coromandel
 
 La península de Coromandel es sin duda un lugar muy hermoso, pero no solo destaca por su belleza actual, sino por haber sido escenario de profundas transformaciones culturales e industriales en Nueva Zelanda. 
@@ -83,4 +85,4 @@ En la década de 1970, la herida ecológica comenzó a sanar gracias a fuertes m
 * **Whitianga:**  Está sobre *Mercury Bay* y es un gran punto de partida para recorrer las playas famosas las como *Cathedral Cove* o *Hot Water Beach*. 
 * **Whangamata:** esta fue nuestra elección y lo conocimos como un pueblo relajado en el que nuestra querida amiga local solía venir a vacacionar con su familia durante los veranos en Nueva Zelanda. El pueblo es hermoso y la playa tiene atardeceres increíbles también.
 
-  <div class="post-img-box img-mediano img-centro"><img src="/img/diario/0d27c22d-8ac1-41d7-8b29-3d69cad7e9ba.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/0d27c22d-8ac1-41d7-8b29-3d69cad7e9ba.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
