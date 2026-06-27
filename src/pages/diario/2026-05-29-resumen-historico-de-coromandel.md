@@ -18,8 +18,7 @@ En el siguiente articulo compartiremos un poco sobre su historia dividida en las
 3. El comienzo de la extracción industrial de los bosques: Kauri y Resina (Gum)
 4. La Fiebre del Oro de Nueva Zelanda
 5. El Declive y el Retorno a la Naturaleza
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25547.05446810327!2d175.56273371041806!3d-36.833330973178946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6d72f574eb4b0b2d%3A0x5719917f3949bba5!2sPen%C3%ADnsula%20de%20Coromandel!5e0!3m2!1ses-419!2sid!4v1782464087271!5m2!1ses-419!2sid" width="100%" height="450" style="border:0; border-radius: 8px; margin: 2rem 0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+6. Donde quedarse, pueblos aledaños 
 
 ## 1. El Legado Maorí: "La espina del pez de Māui"
 
@@ -31,27 +30,21 @@ Durante más de 1000 años, tribus como *Te Patukirikiri* y *Ngāti Maru* habita
 
 De hecho, hace poco, al caminar por la orilla, nos cruzamos con dos hombres maoríes que amablemente nos invitaron a probar unos *Kina* (erizos de mar) recién extraídos. Los abrían con sus propias manos y nos los ofrecieron como "alimento de verdad". Fue un recordatorio tangible de que esa conexión ancestral con la tierra sigue viva, aunque a veces solo necesites un poco de curiosidad para encontrarla.
 
-
-
 ## 2. El Origen del Nombre y el Contacto Europeo
 
-**El Capitán Cook (1769):** El famoso explorador británico James Cook llegó a la costa este en 1769, específicamente a *Mercury Bay* (Bahía de Mercurio), llamada así porque se detuvo allí para observar el tránsito del planeta Mercurio y trazar mapas astronómicos.
+**El Capitán Cook (1769):** El famoso explorador británico James Cook llegó a la costa este en 1769, específicamente a *Mercury Bay* (Bahía de Mercurio). Que hoy lleva este nombre porque se detuvo allí para observar el tránsito del planeta Mercurio y trazar mapas astronómicos.
 
-**El origen fue un barco HMS Coromandel (1820):** La península no lleva un nombre maorí ni inglés tradicional, sino el de un barco de la Marina Real Británica: el **HMS Coromandel** (que a su vez fue nombrado por la costa de Coromandel en la India). El barco ancló en la bahía en 1820 con el único propósito de comprar troncos de madera nativa para convertirlos en mástiles de barcos de guerra ingleses.
+**El origen fue un barco HMS Coromandel (1820):** La península no lleva un nombre maorí ni inglés tradicional, sino el de un barco de la Marina Real Británica: el **HMS Coromandel** (que a su vez fue nombrado por la costa de Coromandel en la India). El barco ancló en la bahía en 1820 con el único propósito de comprar troncos de madera nativa para convertirlos en mástiles de barcos de guerra ingleses. Fue el primer aviso de lo que estaba por venir.
 
 ## 3. El comienzo de la extracción industrial de los bosques: Kauri y Resina (Gum)
 
 **Los Gigantes de Madera:** Los bosques de la península estaban originalmente cubiertos por densos bosques de **Kauri** (*Agathis australis*), árboles majestuosos y sagrados que pueden vivir más de 1000 años. Durante el siglo XIX, la tala indiscriminada se convirtió en la industria extractiva por excelencia.
 
-**Ingeniería de Presas (Kauri Dams):** 
+Durante el siglo XIX, la península sufrió una transformación drástica. Sus bosques estaban cubiertos de *Kauri* (*Agathis australis*), árboles majestuosos que pueden vivir más de 1000 años.
 
-Como los troncos eran inmensos, los leñadores construían represas de madera en las montañas. Acumulaban agua y miles de troncos y, al abrirlas simultáneamente, provocaban "avalanchas de agua" controladas que empujaban la madera colina abajo hasta los puertos. Tres cuartas partes de los bosques de kauri desaparecieron antes de 1900.
+Para los colonos, el Kauri era oro verde. Desarrollaron un sistema de ingeniería salvaje: las "Kauri Dams" (represas de madera). Acumulaban agua en las montañas y, al abrirlas, generaban avalanchas controladas que arrastraban troncos gigantes hasta los puertos. El proyecto fue tan extractivo que para 1900, tres cuartas partes de estos bosques habían desaparecido.
 
-**Los Buscadores de Resina (Gumdiggers):**
-
-La resina fósil que desprendía el kauri (parecida al ámbar) era muy codiciada en Europa para fabricar barnices y linóleo de alta calidad. Cientos de personas (tanto maoríes como colonos) cavaban la tierra de la península para extraer esta resina del suelo.
-
-Hoy en día la preservación de esta especie sagrada es uno de los motivos por los cuales se hace tanto enfasis en la desinfección del calzado a la hora de entrar en áreas protegidas evitando el *kauri dieback* (se pudre la raíz del árbol y muere).
+Hoy en día la preservación de esta especie sagrada es uno de los motivos por los cuales se hace tanto énfasis en la desinfección del calzado a la hora de entrar en áreas protegidas evitando el *kauri dieback* (se pudre la raíz del árbol y muere).
 
 ## 4. La Fiebre del Oro de Nueva Zelanda
 
@@ -71,6 +64,18 @@ También se comenzó a extraer cuarzo en **1862**, A diferencia del oro de río 
 
 A principios del siglo XX, tanto las minas de oro como las reservas de kauri comenzaron a agotarse. La península se sumió en el silencio, dedicándose temporalmente a la ganadería y la pesca.
 
-En la década de 1970, la herida ecológica comenzó a sanar gracias a fuertes movimientos de conservación y la zona empezó a atraer a artesanos, alfareros y personas que buscaban un estilo de vida alternativo y en calma, dando origen al ambiente bohemio y relajado que caracteriza a la Peninsula de Coromandel hoy en día.
+En la década de 1970, la herida ecológica comenzó a sanar gracias a fuertes movimientos de conservación y la zona empezó a atraer a artesanos, alfareros y personas que buscaban un estilo de vida alternativo y en calma, dando origen al ambiente bohemio y relajado que caracteriza a la Península de Coromandel hoy en día.
 
-Es posible recorrerla por una ruta que bordea la peninsula, angosta y con vistas espectaculares, pendientes y altos acantilados. También es posible pasar la noche ya que cuenta con una gran oferta hotelera y campings para campervans habilitadas.
+### Datos prácticos para tu visita
+
+* **Recorrido:** La mejor forma de conocerla es recorriendo su ruta costera. Tiene vistas increíbles pero es bastante angosta, con curvas cerradas y acantilados así requiere conducir con paciencia (nosotros tardamos bastante más de lo que propone el maps).
+* **Presupuesto y Alojamiento:** La oferta es inmensa, desde campings para campervans hasta lodges de lujo.
+
+  * *Tip de viaje:* Si estás planificando tu ruta, te recomiendo buscar disponibilidad en tiempo real según tu presupuesto en el mapa interactivo de abajo. 
+* **Tip de viajero consciente:** Desinfectar el calzado siempre que veas las estaciones de limpieza. es simpple y es la única forma de proteger los últimos bosques de Kauri.
+
+### 6. Donde quedarse, pueblos aledaños
+
+* **Coromandel Town:** Es el corazón histórico. Si lo que buscás es entender ese pasado minero del que hablábamos, este es tu lugar. Es un pueblo chico, relajado, con estudios de artistas y  arquitectura de madera del estilo siglo XIX. 
+* **Whitianga:**  Está sobre *Mercury Bay* y es un gran punto de partida para recorrer las playas famosas las como *Cathedral Cove* o *Hot Water Beach*. 
+* **Whangamata:** esta fue nuestra elección y lo conocimos como un pueblo relajado en el que nuestra querida amiga local solía venir a vacacionar con su familia durante los veranos en Nueva Zelanda. El pueblo es hermoso y la playa tiene atardeceres increibles también
