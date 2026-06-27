@@ -78,4 +78,6 @@ En la década de 1970, la herida ecológica comenzó a sanar gracias a fuertes m
 
 * **Coromandel Town:** Es el corazón histórico. Si lo que buscás es entender ese pasado minero del que hablábamos, este es tu lugar. Es un pueblo chico, relajado, con estudios de artistas y  arquitectura de madera del estilo siglo XIX. 
 * **Whitianga:**  Está sobre *Mercury Bay* y es un gran punto de partida para recorrer las playas famosas las como *Cathedral Cove* o *Hot Water Beach*. 
-* **Whangamata:** esta fue nuestra elección y lo conocimos como un pueblo relajado en el que nuestra querida amiga local solía venir a vacacionar con su familia durante los veranos en Nueva Zelanda. El pueblo es hermoso y la playa tiene atardeceres increibles también
+* **Whangamata:** esta fue nuestra elección y lo conocimos como un pueblo relajado en el que nuestra querida amiga local solía venir a vacacionar con su familia durante los veranos en Nueva Zelanda. El pueblo es hermoso y la playa tiene atardeceres increíbles también.
+
+  <div class="post-img-box img-mediano img-centro"><img src="/img/diario/0d27c22d-8ac1-41d7-8b29-3d69cad7e9ba.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
