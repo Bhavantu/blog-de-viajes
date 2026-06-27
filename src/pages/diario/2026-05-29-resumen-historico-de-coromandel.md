@@ -25,7 +25,13 @@ En el siguiente articulo compartiremos un poco sobre su historia dividida en las
 
 ### **El Origen Mitológico:**
 
-Para los maoríes, la península se conoce originalmente como *Te Tara-o-te-Ika-a-Māui* (que se traduce como «la púa o espina del pez de Māui»). En su cosmología, la Isla Norte es un gran pez (raya marina) capturado por el semidiós Māui; **la península de Coromandel representa la espina dorsal o cola del pez.** El área de *Hauraki* (toda la región del golfo y la península) ha sido habitada de forma continua por tribus (*iwi*) maoríes como *Te Patukirikiri*, *Ngāti Whanaunga* y *Ngāti Maru* por más de 1000 años. De hecho al entrar a la playa nos encontramos con dos hombres maoris que amablemente nos compartieron algunos ejemplares recién extraidos de Kina, una especie de erizo que habita en el agua, "alimento de verdad lo llamaban". Para comerlo lo partían con sus propias manos y comían su interior. Eso me lleva a resaltar además que históricamente era descrita tradicionalmente como *"Ko Manaia, he pataka kai"* («Manaia, el almacén de comida»), debido a la inmensa riqueza de recursos marinos, mariscos y tierras fértiles de la zona.
+Para los maoríes, este lugar es sagrado. Originalmente se conoce como *Te Tara-o-te-Ika-a-Māui*, o «la púa o espina del pez de Māui». En su cosmología, la Isla Norte es un gran pez capturado por el semidiós Māui, y Coromandel representa esa espina dorsal.
+
+Durante más de 1000 años, tribus como *Te Patukirikiri* y *Ngāti Maru* habitaron la región de Hauraki. Era, literalmente, un paraíso autosustentable; la llamaban *"Ko Manaia, he pataka kai"* («Manaia, el almacén de comida»), por la abundancia de mariscos y tierras fértiles.
+
+De hecho, hace poco, al caminar por la orilla, nos cruzamos con dos hombres maoríes que amablemente nos invitaron a probar unos *Kina* (erizos de mar) recién extraídos. Los abrían con sus propias manos y nos los ofrecieron como "alimento de verdad". Fue un recordatorio tangible de que esa conexión ancestral con la tierra sigue viva, aunque a veces solo necesites un poco de curiosidad para encontrarla.
+
+
 
 ## 2. El Origen del Nombre y el Contacto Europeo
 
