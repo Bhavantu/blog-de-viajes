@@ -25,13 +25,11 @@ En el siguiente articulo compartiremos un poco sobre su historia dividida en las
 
 ### **El Origen Mitológico:**
 
-Para los maoríes, este lugar es sagrado. Originalmente se conoce como *Te Tara-o-te-Ika-a-Māui*, o «la púa o espina del pez de Māui». En su cosmología, la Isla Norte es un gran pez capturado por el semidiós Māui, y Coromandel representa esa espina dorsal.
+Para los maoríes, este lugar es sagrado. Originalmente se conoce como *Te Tara-o-te-Ika-a-Māui*, o «la púa o espina del pez de Māui». En su cosmología, la Isla Norte es un gran pez capturado por el semidiós Māui, y Coromandel representa esa espina dorsal. <div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/whatsapp-image-2026-06-26-at-17.09.58.jpeg" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
-Durante más de 1000 años, tribus como *Te Patukirikiri* y *Ngāti Maru* habitaron la región de Hauraki. Era, literalmente, un paraíso autosustentable; la llamaban *"Ko Manaia, he pataka kai"* («Manaia, el almacén de comida»), por la abundancia de mariscos y tierras fértiles.
+Durante más de 1000 años, tribus como *Te Patukirikiri* y *Ngāti Maru* habitaron la región de Hauraki. Era, literalmente, un paraíso autosustentable; la llamaban *"Ko Manaia, he pataka kai"* («Manaia, el almacén de comida»), por la abundancia de mariscos y tierras fértiles. 
 
 De hecho, hace poco, al caminar por la orilla, nos cruzamos con dos hombres maoríes que amablemente nos invitaron a probar unos *Kina* (erizos de mar) recién extraídos. Los abrían con sus propias manos y nos los ofrecieron como "alimento de verdad". Fue un recordatorio tangible de que esa conexión ancestral con la tierra sigue viva, aunque a veces solo necesites un poco de curiosidad para encontrarla.
-
-<div class="post-img-box img-completo img-derecha"><img src="/img/diario/whatsapp-image-2026-06-26-at-17.09.58.jpeg" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 ## 2. El Origen del Nombre y el Contacto Europeo
 
@@ -67,9 +65,9 @@ También se comenzó a extraer cuarzo en **1862**, A diferencia del oro de río 
 
 A principios del siglo XX, tanto las minas de oro como las reservas de kauri comenzaron a agotarse. La península se sumió en el silencio, dedicándose temporalmente a la ganadería y la pesca.
 
-En la década de 1970, la herida ecológica comenzó a sanar gracias a fuertes movimientos de conservación y la zona empezó a atraer a artesanos, alfareros y personas que buscaban un estilo de vida alternativo y en calma, dando origen al ambiente bohemio y relajado que caracteriza a la Península de Coromandel hoy en día.
+<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/whatsapp-image-2026-06-26-at-16.52.34-1-.jpeg" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/whatsapp-image-2026-06-26-at-16.52.34-1-.jpeg" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+En la década de 1970, la herida ecológica comenzó a sanar gracias a fuertes movimientos de conservación y la zona empezó a atraer a artesanos, alfareros y personas que buscaban un estilo de vida alternativo y en calma, dando origen al ambiente bohemio y relajado que caracteriza a la Península de Coromandel hoy en día.
 
 ### Datos prácticos para tu visita
 
