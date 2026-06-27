@@ -1,6 +1,7 @@
 ---
 layout: ../../layouts/BlogPostLayout.astro
-title: Parque Nacional Arthur Pass
+title: "Explorando el Parque nacional Arthur’s Pass y Kura Tāwhiti: Naturaleza,
+  cultura maorí y aventura en el centro de la Isla Sur"
 date: 12 May 2026
 tag: bitacora
 pais: Nueva Zelanda
@@ -40,3 +41,5 @@ El camino es corto y amigable ya que no cuenta con grandes pendientes, pero es i
 Tanto el parque nacional Arthur Pass como el Castle Hill nos pareció una zona muy bella, con muchos caminos a recorrer y una historia presente que habla sobre la constitución del territorio tal y como lo conocemos hoy, pero como una imagen habla más que mil palabras, a continuación, unas imágenes capturadas con el lente de Santi.
 
 <div class="post-img-box img-completo img-centro"><img src="/img/diario/whatsapp-image-2026-06-27-at-20.45.52-3-.jpeg" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/whatsapp-image-2026-06-27-at-20.45.53.jpeg" alt="Imagen de bitácora"><span class="img-caption"></span></div>
