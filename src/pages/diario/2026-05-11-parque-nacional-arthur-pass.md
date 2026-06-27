@@ -21,6 +21,8 @@ Este paso fue fundamental históricamente para los maoríes en sus rutas comerci
 Según lo que investigamos, el ecosistema se divide en diferentes zonas con paisajes distintos; esto es más visible cerca del verano, cuando la vegetación está más activa:
 
 * **Bosque de Haya (Lado Este - Canterbury):** En las laderas que miran hacia Christchurch, el clima es más seco. El ecosistema dominante es el Bosque de Haya de Montaña (Mountain Beech forest). Es un bosque más abierto, con menos maleza y un aspecto más ordenado.
+
+  <div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 * **Bosque Templado Lluvioso (Lado Oeste - West Coast):** Hacia el lado oeste, la lluvia aumenta drásticamente. El ecosistema se transforma en un Bosque Templado Lluvioso de Rata y Kamahi. Es extremadamente denso, verde, lleno de musgos, helechos y epífitas, muy similar a una selva fría.
 * **Zona Alpina (Cumbres):** Por encima de la línea de los árboles (aprox. 1.200 metros), el ecosistema se convierte en Tundra Alpina o praderas de altura. Se caracteriza por el Tussock (pastizales dorados), hierbas de megaherbia y la fascia rocosa donde vive el Kea (el único loro alpino del mundo).
 
