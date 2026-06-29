@@ -39,7 +39,7 @@ La palabra *Kuningan* viene de *kunyit* (cúrcuma), protagonista del arroz amari
 
 En  día de la ceremonia, en la mañana las mujeres caminan al templo del barrio cargando en su cabeza los *Gebogan* (torres gigantes de frutas y flores).  El resto de la jornada transcurría entre visitas al templo de los vecinos y ceremonias en sus propios templos familiares. En la tarde, una gran marcha de personas vestidas de blanco, con sus *sarongs* y blusas brillantes, recorría las calles entre saludos y covnersaciones que se acompañaban, reían, hacían chistes entre ellos,  cada señora mayor invitaba a los bebés del barrio que observaban a upa de sus padres a formar parte, porque como nos contaba Wayan — En cada barrio nos conocemos, somos amigos y cuidamos del otro—.
 
-<div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/whatsapp-image-2026-06-29-at-12.17.48-1-.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+<div class="post-img-box img-pequeño img-izquierda"><img src="/img/diario/whatsapp-image-2026-06-29-at-12.17.48-1-.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 Embelesada caminaba observaba como era la ceremonia. Liderando la marcha  va el *Barong (*la figura protectora de la aldea que trae bendiciones) y se detenía cada unas cuadras, las señoras le hacían ofrendas mediante un ritual y él bailaba entregando bendiciones al son del *Gamelan*. Formar parte de algo tan grande se sintió increíble y también me hizo reflexionar sobre el sentido comunitario. En Bali no es un concepto abstracto o una idea, es una tradición, una práctica viva. 
 
@@ -56,9 +56,11 @@ La familia es el eje. Los hermanos se nombran según su orden de nacimiento:
 * **Komang (o Nyoman):** El tercero.
 * **Ketut:** El cuarto.
 
-En cada casa baliensa en la que nos hemos encontrado convive una familia, abuelas, madres, tios, primos, y niños. Una cosa es clara, la la vida familiar en Bali es un eje cultural y simbólico. Investigando un poco descubrimos que la cultura está marcada por una fuerte tradición patrilineal.  En los rituales que conocemos como “casamiento” (*Mepejati*), la novia se despide formalmente de sus ancestros en el templo familiar donde creció y es "recibida" o adoptada en el templo ancestral de la familia de su esposo. A partir de ese momento, ella pasa a pertenecer al linaje de él y adquiere responsabilidades religiosas y sociales en su nuevo hogar y *banjar*, más que un cambio de domicilio; es una transición espiritual y social. Sin embargo, existe una excepción (hermosa según mi opinión) cuando una familia solo tiene hijas, se celebra el ritual 'Nyentana', donde es el novio quien se muda al hogar de la mujer y de esa forma  preservar el linaje y el cuidado de las personas mayores de la familia. Es un ejemplo de cómo la cultura balinesa encuentra formas de honrar la continuidad y el equilibrio.
+En cada casa baliensa en la que nos hemos encontrado convive una familia, abuelas, madres, tios, primos, y niños. Una cosa es clara, la la vida familiar en Bali es un eje cultural y simbólico. 
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/whatsapp-image-2026-06-29-at-23.14.01.jpeg" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+<div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/whatsapp-image-2026-06-29-at-23.14.01.jpeg" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+
+Investigando un poco descubrimos que la cultura está marcada por una fuerte tradición patrilineal.  En los rituales que conocemos como “casamiento” (*Mepejati*), la novia se despide formalmente de sus ancestros en el templo familiar donde creció y es "recibida" o adoptada en el templo ancestral de la familia de su esposo. A partir de ese momento, ella pasa a pertenecer al linaje de él y adquiere responsabilidades religiosas y sociales en su nuevo hogar y *banjar*, más que un cambio de domicilio; es una transición espiritual y social. Sin embargo, existe una excepción (hermosa según mi opinión) cuando una familia solo tiene hijas, se celebra el ritual 'Nyentana', donde es el novio quien se muda al hogar de la mujer y de esa forma  preservar el linaje y el cuidado de las personas mayores de la familia. Es un ejemplo de cómo la cultura balinesa encuentra formas de honrar la continuidad y el equilibrio.
 
 ## La resiliencia detrás de la sonrisa: La historia de Indonesia y el espíritu balinés
 
@@ -74,4 +76,4 @@ Esta historia de resistencia consolidó al *Banjar* como el pilar de la sociedad
 * **En las calles:** Las ofrendas están por todos lados. Pisarlas de manera intencional o descuidada es considerado una falta de respeto. La atención y la danza para esquivarlos es una práctica necesaria.
 * **Hospedaje:** Reservar en residencias o *guest houses* familiares permite tener una experiencia más auténtica, ayudando directamente a la economía local.
 
-Si vas a viajar a Bali y necesitás conocer detalles sobre transporte, zonas de alojamiento e información actualizada te invito a leer la Guía Viajar a Bali en 2026: Requisitos, transporte y zonas para quedarse
+Si vas a viajar a Bali y necesitás conocer detalles sobre transporte, zonas de alojamiento e información actualizada te invito a leer la [Guía Viajar a Bali en 2026: Requisitos, transporte y zonas para quedarse](https://blogcito.com/diario/2026-06-29-guia-de-ubud-cultura-gemas-ocultas-y-costos-2026/)
