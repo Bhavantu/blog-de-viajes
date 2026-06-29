@@ -11,7 +11,7 @@ Desde que llegamos a Ubud, cada parte de su aura comenzó a deleitarnos: desde s
 
 Desde el comienzo nos pareció que acá había un aura diferente: sí, es turística, pero también más tranquila. La gente te mira a los ojos y se detiene en la calle para preguntarte: *¿cómo estás?* Así fue como Ubud se convirtió en nuestra base por un período.
 
-## Datos prácticos: 
+## Datos prácticos:
 
 Ubud, ubicado entre las montañas centrales de Bali, es una zona que combina lo turístico y lo local a la perfección. El centro está lleno de restaurantes y experiencias orientadas al turismo, pero también se encuentran muchos *warungs* (pequeños negocios familiares) y *guest houses* gestionados por la población local, siempre dispuesta a compartir sus prácticas y su cultura.
 
@@ -25,7 +25,7 @@ Las actividades en Ubud son casi infinitas, y los conductores dispuestos a mostr
 
 Ubud combina lo auténtico y lo turístico. Acá van mis recomendaciones basadas en lo que realmente disfruté durante mi estadía:
 
-### 1. Las terrazas de arroz y el sistema Subak
+## 1. Las terrazas de arroz y el sistema Subak
 
 Uno de los infaltables para mí era conocer las famosas plantaciones de arroz en terrazas por las cuales es famoso Bali. Lo que me sorprendió gratamente es que, con solo salir del centro de Ubud, las plantaciones se encuentran por todas partes, dejando el panorama verde y despejado para ver el atardecer o las estrellas con vistas increíbles.
 
@@ -50,7 +50,7 @@ Esta es la que queda "más al norte" y es muchísimo menos turística. Es, de he
 * **Costos:** La entrada tiene un valor aproximado de **40.000 IDR** (destinados al mantenimiento y preservación de este gigantesco sitio).
 * **Cómo llegar:** Está a unos 60-90 minutos de Ubud. El viaje de ida es espectacular porque atravesás pueblos tradicionales súper pintorescos. Existen muchas excursiones por el día que salen desde el centro de Ubud e incluyen guías locales con un conocimiento profundo sobre la zona.
 
-### 2. Cascadas: El refugio para el calor de Ubud
+## 2. Cascadas: El refugio para el calor de Ubud
 
 Hay muchísimas opciones de cascadas en los alrededores de Ubud y son un excelente punto para refrescarse después de una caminata bajo el sol. La hora en que vayas es siempre un factor clave en relación a la cantidad de turistas, pero desde mi punto de vista son siempre disfrutables. Eso sí: aunque suelen tener mantenimiento y escalones de acceso, tené en cuenta que después de la lluvia suele haber bastante barro y zonas muy resbaladizas.
 
@@ -60,7 +60,7 @@ Aunque hay decenas de opciones, acá te dejamos las tres que más nos recomendar
 2. **Tibumana:** Muy tranquila, rodeada de una selva densa y con una caída de agua recta y perfecta que forma una pileta natural ideal para nadar.
 3. **Tukad Cepung:** Una joya escondida dentro de una cueva. Para llegar tenés que caminar entre cañones de roca, y si llegás cerca del mediodía, los rayos del sol entran desde arriba creando un efecto místico increíble.
 
-### 3. La experiencia del Café y el Copi Luwak:el café más caro del mundo
+## 3. La experiencia del Café y el Copi Luwak:el café más caro del mundo
 
 La experiencia de hacer una degustación de café es un clásico de Bali. Existen cientos de plantaciones locales en las que te invitan a pasar, te enseñan el proceso tradicional de tostado y tratamiento de los granos, y hasta te convidan con una degustación gratuita de tés y cafés saborizados. Esta bueno retribuir la hospitalidad comprando algo en su tienda o dejando una pequeña colaboración.
 
@@ -68,7 +68,7 @@ Muchas de estas plantaciones tienen la famosa experiencia del café "más caro d
 
 **Mi dilema ético:** La cuestión en términos del cuidado y las condiciones de vida de estos animales sigue siendo un gran misterio para mí. Aunque te digan que los granos son de origen silvestre, la alta demanda turística generó que en muchas plantaciones mantengan a los luwaks en jaulas muy estrechas para forzarlos a comer únicamente café. Creo que un posible camino ético, si decidís probarlo, es investigar bien el lugar y evitar fomentar los sitios donde veas animales en cautiverio con fines de exhibición.
 
-### 4. Templos: Reglas de respeto y el Ritual de Purificación
+## 4. Templos: Reglas de respeto y el Ritual de Purificación
 
 La población de la vecina isla de Java suele llamar a Bali "la isla de los mil templos", y no es ningún chiste: en cada aldea vas a encontrar al menos un templo público, además de los pequeños santuarios familiares que tiene cada casa en su patio.
 
@@ -78,7 +78,7 @@ Los templos son lugares espectaculares y sagrados para la población local, por 
 * **Respeto al entorno:** Mantener el silencio y respetar el espacio como lo que es: un lugar de oración y conexión espiritual activa.
 * **La regla de la menstruación:** En los ingresos vas a ver carteles que restringen la entrada de mujeres durante su período. En la cosmología hindú balinesa, esto se debe al concepto de *sebel* (un estado de vulnerabilidad espiritual o impureza ritual temporal relacionado con la sangre). No se plantea como una discriminación hacia la mujer, sino como una norma de equilibrio energético y pureza del espacio sagrado que los balineses respetan con rigurosidad.
 
-#### El Ritual de Purificación (Melukat)
+## El Ritual de Purificación (Melukat)
 
 Muchos de los templos están centrados en la purificación a través del agua, un ritual sagrado de sanación que se realiza en diferentes piscinas con fuentes según el propósito espiritual de cada chorro de agua.
 
@@ -93,7 +93,9 @@ Para hacer este ritual de forma respetuosa y correcta, es sumamente necesario co
   * **Ofrendas (Canang Sari):** Son los pequeños canastos de hojas de palma con flores y sahumerios que se presentan antes de entrar al agua. Tienen un costo de unos **10.000 a 20.000 IDR** (generalmente las facilita el guía).
 * **Total estimado de la experiencia:** Calculá entre **200.000 y 250.000 IDR** (unos 13-16 USD) para realizar toda la ceremonia de purificación guiada, respetuosa y completa, incluyendo entradas, alquileres y ofrendas.
 
-### 5. Danza tradicional balinesa: la danzal fuego Kecak y la danza de las mujeres Legong
+
+
+## 5. Danza tradicional balinesa: la danzal fuego Kecak y la danza de las mujeres Legong
 
 La "Danza del Fuego" (*Kecak*) es impactante por su ritmo frenético, pero las danzas de las mujeres (*Legong*) poseen una elegancia y un control de los movimientos corporales que te va a dejar sin aliento. Originalmente, estas danzas se presentaban en las cortes reales frente a la nobleza para relatar mitos fundacionales.
 
@@ -103,4 +105,4 @@ Lo fascinante de esta obra es que no utiliza ningún instrumento musical de fond
 
 Al comienzo, la danza narra un fragmento de la epopeya hindú del *Ramayana*: la historia de amor del príncipe Rama y la princesa Sita, el rapto de esta última a manos del malvado demonio de múltiples cabezas, Ravana, y la posterior batalla mística donde interviene el valiente ejército de monos liderado por el dios simio Hanuman. Al finalizar (durante los últimos 10 o 15 minutos de la función), transcurre la danza del fuego, donde un bailarín en pleno estado de trance místico pisa y dispersa las brasas de coco encendidas con sus propios pies descalzos.
 
-*Nota del editor: Recuerden que los precios y regulaciones en Bali fluctúan según la temporada y las actualizaciones de las administraciones locales de cada regencia. Lleven siempre efectivo en rupias indonesias (IDR) ya que en muchos templos y cascadas no se aceptan tarjetas de crédito.*
+*Nota de la editora: Estimado lector/lectora recuerden que los precios y regulaciones en Bali fluctúan según la temporada y las actualizaciones de las administraciones locales de cada regencia. Lleven siempre efectivo en rupias indonesias (IDR) ya que en muchos templos y cascadas no se aceptan tarjetas de crédito. Desde ya gracias por leer.*
