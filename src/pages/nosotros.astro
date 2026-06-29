@@ -4,17 +4,25 @@ import Layout from '../layouts/Layout.astro';
 
 <Layout title="BLOGCITO - Nosotros">
     
-    <!-- HEADER RECUPERADO -->
     <header class="site-header">
         <h1><a href="/">BLOGCITO</a></h1>
         <button id="mobile-menu-btn" class="menu-toggle">☰</button>
         <nav id="main-nav">
-            <ul class="nav-links">
-                <li><a href="/">Inicio</a></li>
-                <li><a href="/diario">Diario</a></li>
-                <li><a href="/galeria">Galería</a></li>
-                <li><a href="/nosotros" class="active-link">Nosotros</a></li>
-            </ul>
+        <ul class="nav-links">
+            <li><a href="/">Inicio</a></li>
+            <li><a href="/diario">Diario</a></li>
+            <li><a href="/nosotros">Nosotros</a></li>
+            
+            <!-- LUPA MINIMALISTA SVG -->
+            <li class="btn-buscar">
+                <a href="#" title="Buscar" style="display: flex; align-items: center; padding-top: 2px;">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <circle cx="11" cy="11" r="8"></circle>
+                        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                    </svg>
+                </a>
+            </li>
+        </ul>
         </nav>
     </header>
 
@@ -23,7 +31,7 @@ import Layout from '../layouts/Layout.astro';
         <header class="nosotros-header">
             <h1>Somos Blogcito</h1>
             <h2 class="subtitle">Un equipo que busca viajar lento y con la mirada atenta, conocer culturas, filosofías, historias y religiones, en definitiva conocer otras formas de ver el mundo.</h2>
-            <p class="intro-text"><em>Compartimos nuestra experiencia, profundizamos en la investigación cultural y creamos guias de viaje para quienes como nosotros eligen caminar el mundo con la mirada atenta y el corazón abierto, sin descuidar los pies sobre la tierra.</em></p>
+            <p class="intro-text"><em>Compartimos nuestra experiencia, profundizamos en la investigación cultural y creamos guías de viaje para quienes como nosotros eligen caminar el mundo con la mirada atenta y el corazón abierto, sin descuidar los pies sobre la tierra.</em></p>
         </header>
 
         <section class="content-section">
@@ -37,28 +45,23 @@ import Layout from '../layouts/Layout.astro';
             </ul>
         </section>
 
-        <!-- SECCIÓN DE LORE -->
         <section class="content-section clearfix">
-            <h3>Presentación de la autora</h3>
-            
-            <!-- Asegurate de tener una foto llamada lore.jpg en tu carpeta public/img/ -->
-            <img src="/img/lore.jpg" alt="Lorena" class="img-float-left" />
-            
-            <p>Soy Lore, amante de los viajes y del intercambio, curiosa sobre las cosmovisiones del mundo y las diferentes formas de conectar con el. Escribir es parte de lo que soy, así que con Santi creamos este espacio para compartir nuestra aventura.</p>
-            
-            <h4>Un breve racconto</h4>
-            <p>Siento que viajar es, ante todo, un ejercicio de presencia. Caminar por espacio diferente, observar su ritmo, dejar que los aromas y los sonidos te cuenten una historia nueva, hacer cuerpo con ello. Con mi prima Lola decíamos que lo más difícil —y a la vez lo más bello— es sentirse turista en nuestro propio hogar.</p>
-            <p>Por eso decidí, como ejercicio, caminar con la mirada atenta y el corazón abierto. Dejarme iluminar por la belleza de un cerro reflejado en un lago o simplemente por el sol tibio de la tarde. Querido lector, querida lectora, esto no es solo un relato; es una invitación a encontrarse recorriendo el camino. Porque amanece un día más, y eso no es poca cosa.</p>
-        </section>
+            <h3>El equipo</h3>
 
-        <!-- SECCIÓN DE SANTI -->
-        <section class="content-section clearfix">
-            <h3>Presentación del autor</h3>
-            
-            <!-- Asegurate de tener una foto llamada santi.jpg en tu carpeta public/img/ -->
-            <img src="/img/santi.jpg" alt="Santiago" class="img-float-right" />
-            
-            <p>¡Acá va tu texto de presentación! Dejé tu imagen flotando a la derecha para que visualmente haya un contraste muy lindo en la página y no quede todo apilado del mismo lado.</p>
+            <div class="miembro-equipo clearfix">
+                <img src="/img/lore.webp" alt="Lorena" class="img-float-left" />
+                <h4>Lore</h4>
+                <p>Soy Lore, amante de los viajes y del intercambio, curiosa sobre las cosmovisiones del mundo y las diferentes formas de conectar con él. Escribir es parte de lo que soy, así que con Santi creamos este espacio para compartir nuestra aventura.</p>
+                <p>Siento que viajar es, ante todo, un ejercicio de presencia. Caminar por un espacio diferente, observar su ritmo, dejar que los aromas y los sonidos te cuenten una historia nueva, hacer cuerpo con ello. Con mi prima Lola decíamos que lo más difícil —y a la vez lo más bello— es sentirse turista en nuestro propio hogar.</p>
+                <p>Por eso decidí, como ejercicio, caminar con la mirada atenta y el corazón abierto. Dejarme iluminar por la belleza de un cerro reflejado en un lago o simplemente por el sol tibio de la tarde. Querido lector, querida lectora, esto no es solo un relato; es una invitación a encontrarse recorriendo el camino. Porque amanece un día más, y eso no es poca cosa.</p>
+            </div>
+
+            <div class="miembro-equipo clearfix">
+                <img src="/img/santi.webp" alt="Santiago" class="img-float-right" />
+                <h4>Santi</h4>
+                <p>Soy Santi, el responsable de capturar los paisajes con la cámara y de escribir el código que hace funcionar este blog. Me encargo de la fotografía y del desarrollo web, construyendo toda la estructura digital para que nuestras crónicas, guías y mapas tengan el espacio perfecto para ser compartidos.</p>
+                <p>Viajar lento también significa detenerse a observar los detalles. Disfruto mucho documentando esa realidad a través del lente y asegurándome de que todo fluya impecable detrás de la pantalla para quienes nos leen.</p>
+            </div>
         </section>
 
         <div class="call-to-action">
@@ -108,19 +111,24 @@ import Layout from '../layouts/Layout.astro';
         margin-bottom: 3.5rem;
     }
 
+    .miembro-equipo {
+        margin-bottom: 3rem; /* Separa a Lore de Santi visualmente */
+    }
+
     h3 {
         font-family: var(--font-display);
         font-size: 1.8rem;
-        margin-bottom: 1rem;
+        margin-bottom: 1.5rem;
         border-bottom: 1px solid #eee;
         padding-bottom: 0.5rem;
     }
 
     h4 {
         font-family: var(--font-display);
-        font-size: 1.3rem;
-        margin-top: 1.5rem;
+        font-size: 1.4rem;
+        margin-top: 0;
         margin-bottom: 0.5rem;
+        color: #006d77;
     }
 
     .custom-list {
@@ -136,7 +144,7 @@ import Layout from '../layouts/Layout.astro';
         float: left;
         width: 300px;
         margin: 0.5rem 1.5rem 1rem 0; 
-        border-radius: 8px;
+        border-radius: 25px;
         object-fit: cover;
     }
 
@@ -144,7 +152,7 @@ import Layout from '../layouts/Layout.astro';
         float: right;
         width: 300px;
         margin: 0.5rem 0 1rem 1.5rem; 
-        border-radius: 8px;
+        border-radius: 25px;
         object-fit: cover;
     }
 

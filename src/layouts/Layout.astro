@@ -4,6 +4,15 @@ interface Props {
     description?: string;
 }
 
+const posts = import.meta.glob('../pages/diario/*.md', { eager: true });
+const searchData = Object.values(posts).map((post: any) => ({
+    title: post.frontmatter.title || '',
+    description: post.frontmatter.description || '',
+    // Agregamos la línea para extraer el contenido completo del artículo
+    content: typeof post.rawContent === 'function' ? post.rawContent().toLowerCase() : '',
+    url: post.url
+}));
+
 const { title, description } = Astro.props;
 
 const metaDescription = description || "BLOGCITO - Bitácora de viaje, información útil y vida local alrededor del mundo.";
@@ -141,6 +150,69 @@ const isGaleria = Astro.url.pathname.includes('/galeria');
             .reveal.visible { opacity: 1; transform: translateY(0); }
 
             footer { width: 100%; text-align: center; padding: 4rem 2rem; font-size: 0.8rem; color: var(--accent-color); margin-top: auto; clear: both; }
+            
+                /* ESTILOS DEL BUSCADOR */
+            .search-modal {
+                display: none;
+                position: fixed;
+                top: 0; left: 0; width: 100%; height: 100%;
+                background: rgba(0,0,0,0.6);
+                z-index: 9999;
+                justify-content: center;
+                align-items: flex-start;
+                padding-top: 15vh;
+                backdrop-filter: blur(3px);
+            }
+            .search-modal.active { display: flex; }
+            
+            .search-container {
+                background: #fff;
+                width: 90%;
+                max-width: 600px;
+                border-radius: 12px;
+                padding: 1.5rem;
+                box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            }
+            
+            .search-header {
+                display: flex;
+                gap: 1rem;
+                margin-bottom: 1rem;
+                border-bottom: 2px solid #eee;
+                padding-bottom: 1rem;
+            }
+            
+            #search-input {
+                flex-grow: 1;
+                padding: 10px;
+                font-size: 1.2rem;
+                border: none;
+                outline: none;
+                font-family: inherit;
+            }
+            
+            #close-search {
+                background: none;
+                border: none;
+                font-size: 1.5rem;
+                cursor: pointer;
+                color: #999;
+                transition: color 0.3s;
+            }
+            #close-search:hover { color: #333; }
+            
+            #search-results { max-height: 50vh; overflow-y: auto; }
+            
+            .search-result-item {
+                display: block;
+                padding: 1rem 0;
+                border-bottom: 1px solid #f5f5f5;
+                text-decoration: none;
+                transition: background 0.3s;
+            }
+            .search-result-item h4 { margin: 0 0 0.4rem 0; color: #006d77; font-size: 1.1rem; }
+            .search-result-item p { margin: 0; font-size: 0.9rem; color: #666; line-height: 1.4; }
+            .search-result-item:hover h4 { text-decoration: underline; }
         </style>
 
         <script is:inline>
@@ -177,5 +249,73 @@ const isGaleria = Astro.url.pathname.includes('/galeria');
                 <a href="/contacto">Contacto</a>
             </div>
         </footer>
+
+        <!-- MODAL DE BÚSQUEDA -->
+    <div id="search-modal" class="search-modal">
+        <div class="search-container">
+            <div class="search-header">
+                <input type="text" id="search-input" placeholder="Buscar palabras clave, destinos..." autocomplete="off" />
+                <button id="close-search">✕</button>
+            </div>
+            <div id="search-results">
+                <p style="color:#777; font-size:0.9rem;">Escribí al menos 2 letras para buscar...</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- SCRIPT DEL BUSCADOR -->
+    <script define:vars={{ searchData }}>
+        document.addEventListener('DOMContentLoaded', () => {
+            const btnsBuscar = document.querySelectorAll('.btn-buscar');
+            const modal = document.getElementById('search-modal');
+            const closeBtn = document.getElementById('close-search');
+            const input = document.getElementById('search-input');
+            const results = document.getElementById('search-results');
+
+            // Abrir el modal desde la lupa
+            btnsBuscar.forEach(btn => {
+                btn.addEventListener('click', (e) => {
+                    e.preventDefault();
+                    modal.classList.add('active');
+                    input.focus();
+                });
+            });
+
+            // Cerrar el modal
+            closeBtn.addEventListener('click', () => modal.classList.remove('active'));
+            modal.addEventListener('click', (e) => {
+                if (e.target === modal) modal.classList.remove('active');
+            });
+
+            // Filtrar resultados en tiempo real
+            input.addEventListener('input', (e) => {
+                const query = e.target.value.toLowerCase();
+                
+                if (query.length < 2) {
+                    results.innerHTML = '<p style="color:#777; font-size:0.9rem;">Escribí al menos 2 letras para buscar...</p>';
+                    return;
+                }
+
+                // Agregamos la lógica para buscar también en el contenido (post.content)
+                const filtered = searchData.filter(post => 
+                    post.title.toLowerCase().includes(query) || 
+                    post.description.toLowerCase().includes(query) ||
+                    (post.content && post.content.includes(query))
+                );
+
+                if (filtered.length === 0) {
+                    results.innerHTML = '<p style="color:#777;">No encontramos artículos con esa palabra.</p>';
+                    return;
+                }
+
+                results.innerHTML = filtered.map(post => `
+                    <a href="${post.url}" class="search-result-item">
+                        <h4>${post.title}</h4>
+                        <p>${post.description}</p>
+                    </a>
+                `).join('');
+            });
+        });
+    </script>
     </body>
 </html>

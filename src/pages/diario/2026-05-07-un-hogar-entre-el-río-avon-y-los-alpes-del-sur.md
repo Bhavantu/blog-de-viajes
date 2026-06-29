@@ -46,7 +46,7 @@ Dato de charlar con otros viajeros: Es muy claro que en junio hay una tendencia 
 
 Tip de viaje, si te interesa trabajar en un centro de esquí hay que tener en cuenta que aunque abren en junio,  **las búsquedas y los contratos suelen cerrar en marzo o abril**.
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/mild-four-sound.jpeg" alt="Imagen de bitácora"><span class="img-caption">Milford Sound, magico infaltable en el roadtrip por Nueva Zelanda </span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/mild-four-sound.webp" alt="Imagen de bitácora"><span class="img-caption">Milford Sound, magico infaltable en el roadtrip por Nueva Zelanda </span></div>
 
 ### 2. Dunedin: Arquitectura victoriana y auténtica vida local
 
@@ -58,7 +58,7 @@ Al visitarla, descubrimos su arquitectura victoriana de ladrillos oscuros, sus c
 
 No quiero dejar de mencionar a las pequeñas ciudades, pueblos y zonas de campo; otras vivencias que pueden armarse lejos de las urbes. Quizá sean un poco el tipo de experiencias que se van dando, pero existen muchos pueblos muy hermosos cerca de las ciudades detalladas arriba en los que hay otro tipo de propuestas laborales y de opciones de alojamiento, ya sea con trabajos al aire libre o en diferentes áreas. Las posibilidades están bastante abiertas para quien se anime a soñar con vivir en un pueblo de montaña.
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/alexandria.jpeg" alt="Imagen de bitácora"><span class="img-caption">Como la bella Alexandria y su movida temporada de cerezas y arándanos </span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/alexandria.webp" alt="Imagen de bitácora"><span class="img-caption">Como la bella Alexandria y su movida temporada de cerezas y arándanos </span></div>
 
 ## 4. Mi decisión final: Vivir en Christchurch como Working Holiday 2026
 
@@ -72,4 +72,4 @@ La ciudad se encuentra en reconstrucción después del gran terremoto del 2010. 
 
 Si te interesa profundizar más sobre la experiencia de residir en La ciudad de Chrischurch en 2026 con información acerca de como conseguir casa, apps para informarte sobre los terremotos, costos y búsqueda de trabajo en Nueva Zelanda te invito a leer el artículo Vivir como Working Holiday en la ciudad de Christchurch
 
-<div class="post-img-box img-completo img-derecha"><img src="/img/diario/whatsapp-image-2026-06-01-at-18.44.19.jpeg" alt="Imagen de bitácora"><span class="img-caption">Ciudad de Chrischurch paseos por el centro y Sumner Beach</span></div>
+<div class="post-img-box img-completo img-derecha"><img src="/img/diario/whatsapp-image-2026-06-01-at-18.44.19.webp" alt="Imagen de bitácora"><span class="img-caption">Ciudad de Chrischurch paseos por el centro y Sumner Beach</span></div>

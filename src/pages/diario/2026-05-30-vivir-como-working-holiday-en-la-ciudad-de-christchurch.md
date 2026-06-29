@@ -27,7 +27,7 @@ La ciudad de Christchurch me esperaba para mostrarme el esplendor de su bello Ja
 
 La principal ventaja vivir allí, Christchurch es un verdadero lujo geográfico. Las colinas de Port Hills se pueden ver desde la ciudad y sus senderos para hacer *trekking* están solo veinte minutos de distancia, así como también dos diferentes playas a media hora. Los imponentes Alpes del sur así como la increíble zona de **Arthur Pass**  o algunos centros de esquí están a solo dos horas en auto. Es el equilibrio perfecto entre la vida social urbana y escapadas constantes a la naturaleza.
 
-<div class="post-img-box img-completo img-derecha"><img src="/img/diario/whatsapp-image-2026-06-01-at-18.44.19.jpeg" alt="Imagen de bitácora"><span class="img-caption">Ciudad de Chrischurch paseos por el centro y Sumner Beach</span></div>
+<div class="post-img-box img-completo img-derecha"><img src="/img/diario/whatsapp-image-2026-06-01-at-18.44.19.webp" alt="Imagen de bitácora"><span class="img-caption">Ciudad de Chrischurch paseos por el centro y Sumner Beach</span></div>
 
 ## Vida social y apps aliadas
 

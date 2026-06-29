@@ -7,7 +7,7 @@ pais: Nueva Zelanda
 description: Más allá de las playas, historia y secretos de esta península,
   desde el legado maorí, pasando por la fiebre del oro hasta la actual
   conservación.
-main_image: /img/diario/whatsapp-image-2026-06-28-at-00.01.52.jpeg
+main_image: /img/diario/whatsapp-image-2026-06-28-at-00.01.52.webp
 ---
 # Resumen Histórico de la Península de Coromandel
 
@@ -26,7 +26,7 @@ En el siguiente articulo compartiremos un poco sobre su historia dividida en las
 
 ### **El Origen Mitológico:**
 
-Para los maoríes, este lugar es sagrado. Originalmente se conoce como *Te Tara-o-te-Ika-a-Māui*, o «la púa o espina del pez de Māui». En su cosmología, la Isla Norte es un gran pez capturado por el semidiós Māui, y Coromandel representa esa espina dorsal. <div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/whatsapp-image-2026-06-26-at-17.09.58.jpeg" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+Para los maoríes, este lugar es sagrado. Originalmente se conoce como *Te Tara-o-te-Ika-a-Māui*, o «la púa o espina del pez de Māui». En su cosmología, la Isla Norte es un gran pez capturado por el semidiós Māui, y Coromandel representa esa espina dorsal. <div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/whatsapp-image-2026-06-26-at-17.09.58.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 Durante más de 1000 años, tribus como *Te Patukirikiri* y *Ngāti Maru* habitaron la región de Hauraki. Era, literalmente, un paraíso autosustentable; la llamaban *"Ko Manaia, he pataka kai"* («Manaia, el almacén de comida»), por la abundancia de mariscos y tierras fértiles. 
 
@@ -66,7 +66,7 @@ También se comenzó a extraer cuarzo en **1862**, A diferencia del oro de río 
 
 A principios del siglo XX, tanto las minas de oro como las reservas de kauri comenzaron a agotarse. La península se sumió en el silencio, dedicándose temporalmente a la ganadería y la pesca.
 
-<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/whatsapp-image-2026-06-26-at-16.52.34-1-.jpeg" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/whatsapp-image-2026-06-26-at-16.52.34-1-.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 En la década de 1970, la herida ecológica comenzó a sanar gracias a fuertes movimientos de conservación y la zona empezó a atraer a artesanos, alfareros y personas que buscaban un estilo de vida alternativo y en calma, dando origen al ambiente bohemio y relajado que caracteriza a la Península de Coromandel hoy en día.
 

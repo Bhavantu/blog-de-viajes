@@ -44,7 +44,7 @@ La familia cobra un lugar central. Se respeta profundamente a los mayores y los 
 
 Si hay un quinto, el ciclo vuelve a empezar. Esta estructura se repite en todas las familias de la isla. Aunque luego tienen otro nombre y apellido siempre se presentan con el primero.
 
-<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/img_9487.jpeg" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/img_9487.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 ### La resiliencia detrás de la sonrisa: La historia de Indonesia y el espíritu balinés
 
