@@ -29,20 +29,7 @@ Es frecuente caminar por las calles y encontrarse con el *Banjar*, la organizaci
 
 <div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/dsc_0555.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
-### El corazón de la casa y la estructura familiar
 
-La arquitectura de las casas tradicionales balinesas responde a esta filosofía de armonía. Un complejo familiar no es una única casa cerrada, sino que consta de varios pabellones al aire libre, protegidos por un muro perimetral. Siempre cuentan con un *Sanggah*, el templo familiar privado orientado hacia la montaña sagrada, donde se realizan los rezos diarios. Al cruzar la puerta de entrada, es común toparse con el *aling-aling*, un pequeño muro que bloquea la entrada para confundir a los malos espíritus, ya que se cree que solo pueden desplazarse en línea recta.
-
-> **Dato de viajero consciente:** Reservar en estas residencias no solo permite tener una experiencia más auténtica y ser recibido con muchísimo amor, sino también conocer la cultura mediante una charla por la mañana así como también recibir sugerencias de lugares paradisíacos locales. Además, es una forma directa y valiosa de aportar a la economía de la comunidad local, que siempre es sumamente agradecida.
-
-La familia cobra un lugar central. Se respeta profundamente a los mayores y los hijos permanecen en el hogar hasta el casamiento. Los hermanos se van nombrando según su orden de nacimiento de la siguiente forma:
-
-* **Wayan:** El hermano o hermana mayor.
-* **Kadek (o Made):** El segundo.
-* **Komang (o Nyoman):** El tercero.
-* **Ketut:** El cuarto.
-
-Si hay un quinto, el ciclo vuelve a empezar. Esta estructura se repite en todas las familias de la isla. Aunque luego tienen otro nombre y apellido siempre se presentan con el primero.
 
 ## La experiencia del Kuningan: cuando los ancestros regresan al mundo espiritual
 
