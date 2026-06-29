@@ -2,35 +2,168 @@
 import Layout from '../layouts/Layout.astro';
 ---
 
-<Layout title="Sobre Nosotros | BLOGCITO">
-    <header class="site-header">
-        <h1><a href="/">BLOGCITO</a></h1>
-        <button id="mobile-menu-btn" class="menu-toggle">☰</button>
-        <nav id="main-nav">
-            <ul class="nav-links">
-                <li><a href="/">Inicio</a></li>
-                <li><a href="/diario">Diario</a></li>
-                <li><a href="/galeria">Galería</a></li>
-                <li><a href="/nosotros" class="active-link">Nosotros</a></li>
-            </ul>
-        </nav>
-    </header>
+<Layout title="BLOGCITO - Nosotros">
+    <main class="container page-nosotros">
+        
+        <header class="nosotros-header">
+            <h1>Somos Blogcito</h1>
+            <h2 class="subtitle">Un equipo que busca viajar lento y con la mirada atenta, conocer culturas, filosofías, historias y religiones, en definitiva conocer otras formas de ver el mundo.</h2>
+            <p class="intro-text"><em>Compartimos nuestra experiencia, profundizamos en la investigación cultural y creamos guías de viaje para quienes como nosotros eligen caminar el mundo con la mirada atenta y el corazón abierto, sin descuidar los pies sobre la tierra.</em></p>
+        </header>
 
-    <main class="container">
-        
-        <section id="nosotros" style="margin-top: 2rem; margin-bottom: 5rem;">
-            <div class="about-layout">
-                <div class="reveal visible">
-                    {/* Añadido el border-radius de 8px a tu imagen original */}
-                    <img src="/img/nosotros.webp" alt="Nosotros" class="about-img" style="border-radius: 8px;" />
-                </div>
-                <div class="about-text reveal visible delay-100">
-                    <h2>Hola, somos nosotros...</h2>
-                    <p>Abriendo el corazon soltamos el prejucio con una convicción seguimos el delirio. Viajar desde el amor conectando con la vida, los pueblos las estrellas y los soles que nos guian. Muchas gracias humanitos que hoy leen este mensaje, entre risas y aventuras compartimos este viaje.</p>
-                    <p>Lore y Santi, enraizados en LATAM descubriendo el mundo. Abrazo grande <br> Vamo arriba!</p>
-                </div>
-            </div>
+        <section class="content-section">
+            <h3>¿Cómo navegar este blog?</h3>
+            <p>Para que encuentres lo que buscás, organizamos el contenido en cuatro caminos claros que puedes filtrar mediante las siguientes etiquetas:</p>
+            <ul class="custom-list">
+                <li><strong>Contexto y Cultura (La mirada):</strong> Análisis cultural, social, religioso e histórico de los diferentes territorios. Reflexionamos sobre las experiencias y sentires para entender y dejarse atravesar por las diferentes cosmovisiones.</li>
+                <li><strong>Guía de Viaje (La herramienta):</strong> Soluciones concretas. Guías paso a paso, presupuestos y trámites basados en nuestra experiencia.</li>
+                <li><strong>Punto de Fuga (El alma):</strong> Crónicas, fotografía, narrativa y música. Es donde volcamos nuestras reflexiones y el arte de viajar lento.</li>
+                <li><strong>Vida Local (La realidad):</strong> Tips prácticos sobre el día a día. Cómo vivir, comprar y habitar una ciudad siendo extranjero.</li>
+            </ul>
         </section>
-        
+
+        <section class="content-section clearfix">
+            <h3>Presentación de la autora</h3>
+            
+            <img src="/img/lore.jpg" alt="Lorena" class="img-float-left" />
+            
+            <p>Soy Lore, amante de los viajes y del intercambio, curiosa sobre las cosmovisiones del mundo y las diferentes formas de conectar con el. Escribir es parte de lo que soy, así que con Santi creamos este espacio para compartir nuestra aventura.</p>
+            
+            <h4>Un breve racconto</h4>
+            <p>Siento que viajar es, ante todo, un ejercicio de presencia. Caminar por espacio diferente, observar su ritmo, dejar que los aromas y los sonidos te cuenten una historia nueva, hacer cuerpo con ello. Con mi prima Lola decíamos que lo más difícil —y a la vez lo más bello— es sentirse turista en nuestro propio hogar.</p>
+            <p>Por eso decidí, como ejercicio, caminar con la mirada atenta y el corazón abierto. Dejarme iluminar por la belleza de un cerro reflejado en un lago o simplemente por el sol tibio de la tarde. Querido lector, querida lectora, esto no es solo un relato; es una invitación a encontrarse recorriendo el camino. Porque amanece un día más, y eso no es poca cosa.</p>
+        </section>
+
+        <section class="content-section clearfix">
+            <h3>Presentación del autor</h3>
+            
+            <img src="/img/santi.jpg" alt="Santiago" class="img-float-right" />
+            
+            <p>¡Acá va tu texto de presentación! Dejé tu imagen flotando a la derecha para que visualmente haya un contraste muy lindo en la página y no quede todo apilado del mismo lado.</p>
+        </section>
+
+        <div class="call-to-action">
+            <p>¿Empezamos? <a href="/diario" class="btn-link">Explorá mis últimas crónicas</a> o <a href="/diario" class="btn-link">Mirá nuestras guías prácticas</a></p>
+        </div>
+
     </main>
 </Layout>
+
+<style>
+    /* ============================================================
+       ESTILOS EXCLUSIVOS DE LA PÁGINA "NOSOTROS"
+       ============================================================ */
+    .page-nosotros {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 2rem 1rem;
+        line-height: 1.7;
+        color: #333;
+    }
+
+    .nosotros-header {
+        text-align: center;
+        margin-bottom: 4rem;
+    }
+
+    .nosotros-header h1 {
+        font-family: var(--font-display);
+        font-size: 2.5rem;
+        margin-bottom: 1rem;
+    }
+
+    .subtitle {
+        font-size: 1.25rem;
+        font-weight: normal;
+        color: #555;
+        margin-bottom: 1.5rem;
+        line-height: 1.5;
+    }
+
+    .intro-text {
+        font-size: 1.1rem;
+        color: #666;
+    }
+
+    .content-section {
+        margin-bottom: 3.5rem;
+    }
+
+    h3 {
+        font-family: var(--font-display);
+        font-size: 1.8rem;
+        margin-bottom: 1rem;
+        border-bottom: 1px solid #eee;
+        padding-bottom: 0.5rem;
+    }
+
+    h4 {
+        font-family: var(--font-display);
+        font-size: 1.3rem;
+        margin-top: 1.5rem;
+        margin-bottom: 0.5rem;
+    }
+
+    .custom-list {
+        padding-left: 1.5rem;
+    }
+
+    .custom-list li {
+        margin-bottom: 1rem;
+    }
+
+    /* --- CLASES MÁGICAS PARA CEÑIR EL TEXTO --- */
+    .img-float-left {
+        float: left;
+        width: 300px; /* Tamaño de la imagen */
+        margin: 0.5rem 1.5rem 1rem 0; /* Empuja el texto hacia la derecha y abajo */
+        border-radius: 8px;
+        object-fit: cover;
+    }
+
+    .img-float-right {
+        float: right;
+        width: 300px;
+        margin: 0.5rem 0 1rem 1.5rem; /* Empuja el texto hacia la izquierda y abajo */
+        border-radius: 8px;
+        object-fit: cover;
+    }
+
+    /* El clearfix evita que el texto de la siguiente sección se suba si la foto es muy alta */
+    .clearfix::after {
+        content: "";
+        clear: both;
+        display: table;
+    }
+
+    .call-to-action {
+        text-align: center;
+        font-size: 1.2rem;
+        font-weight: bold;
+        margin-top: 4rem;
+        margin-bottom: 4rem;
+    }
+
+    .btn-link {
+        color: #006d77;
+        text-decoration: underline;
+        text-underline-offset: 4px;
+        transition: color 0.3s ease;
+    }
+
+    .btn-link:hover {
+        color: #83c5be;
+    }
+
+    /* MODO CELULAR */
+    @media (max-width: 768px) {
+        .img-float-left, 
+        .img-float-right {
+            float: none; /* Desactiva el texto ceñido en el celular */
+            display: block;
+            width: 100%; /* La foto ocupa todo el ancho */
+            max-height: 400px;
+            margin: 1.5rem 0;
+        }
+    }
+</style>
