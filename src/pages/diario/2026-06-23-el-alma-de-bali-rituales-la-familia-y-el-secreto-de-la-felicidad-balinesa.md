@@ -21,7 +21,6 @@ Siempre van acompañadas de un incienso humeante con el cual sahúman brevemente
 
 <div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/archivo-pegado.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
-
 ### Dioses, demonios y la música en las calles
 
 Al caminar, es común sorprenderse por las máscaras y estatuas de piedra que parecen demonios guardianes. El hinduísmo balinés es único; si bien comparten deidades como Brahma, Vishnu y Shiva con el hinduísmo de India, el sincretismo es propio. Al no intentar representar a los dioses con forma humana, recurren a la fuerza de la naturaleza y a la mitología.
@@ -29,8 +28,6 @@ Al caminar, es común sorprenderse por las máscaras y estatuas de piedra que pa
 Es frecuente caminar por las calles y encontrarse con el *Banjar*, la organización comunitaria del barrio. Un grupo de jóvenes que camina con sus instrumentos tradicionales (el *Gamelan*: metalófonos, gongs y tambores) a ofrecer bendiciones y recibir moneditas. Entre ellos destaca el *Barong*, una figura protectora (un disfraz alargado con cara de mono, tigre entre otros) que danza al ritmo de la percusión, dirigido por dos personas en su interior. Las familias salen a acompañarlos y los niños aplauden alentando en las veredas.
 
 <div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/dsc_0555.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
-
-
 
 ## La experiencia del Kuningan: cuando los ancestros regresan al mundo espiritual
 
@@ -40,11 +37,9 @@ La palabra *Kuningan* viene de *kunyit* (cúrcuma), protagonista del arroz amari
 
 En  día de la ceremonia, en la mañana las mujeres caminan al templo del barrio cargando en su cabeza los *Gebogan* (torres gigantes de frutas y flores).  El resto de la jornada transcurría entre visitas al templo de los vecinos y ceremonias en sus propios templos familiares. En la tarde, una gran marcha de personas vestidas de blanco, con sus *sarongs* y blusas brillantes, recorría las calles entre saludos y covnersaciones que se acompañaban, reían, hacían chistes entre ellos,  cada señora mayor invitaba a los bebés del barrio que observaban a upa de sus padres a formar parte, porque como nos contaba Wayan “en cada barrio nos conocemos, somos amigos y cuidamos del otro”.
 
+<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/whatsapp-image-2026-06-29-at-12.17.48-1-.jpeg" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
-
-Embelesada caminaba observaba como era la ceremonia. Liderando la marcha  va el *Barong (*la figura protectora de la aldea que trae bendiciones) y se detenía cada unas cuadras, las señoras le hacían ofrendas mediante un ritual y él bailaba entregando bendiciones al son del *Gamelan*. Formar parte de algo tan grande se sintió increíble y también me hizo reflexionar sobre el sentido comunitario. En Bali no es un concepto abstracto o una idea, es una tradición, una práctica viva. 
-
-Todos cuidan el entorno y de los demás. 
+Embelesada caminaba observaba como era la ceremonia. Liderando la marcha  va el *Barong (*la figura protectora de la aldea que trae bendiciones) y se detenía cada unas cuadras, las señoras le hacían ofrendas mediante un ritual y él bailaba entregando bendiciones al son del *Gamelan*. Formar parte de algo tan grande se sintió increíble y también me hizo reflexionar sobre el sentido comunitario. En Bali no es un concepto abstracto o una idea, es una tradición, una práctica viva. Todos cuidan el entorno y de los demás. 
 — Nuestra aldea alberga a unas 700 personas y nos conocemos entre todos—. Los vecinos se organizan con roles rotativos para encargarse del mantenimiento y las necesidades propias de la comunidad nos contaba Wayan. Los rituales, el cuidado, la familia y la tradición son parte muy integrada de la cultura balinesa, no es un concepto abstracto o una idea, es una tradición, una práctica viva. La verdad me pareció muy hermoso e inspirador, ver gente en la calle riendo charlando, trabajando muchas veces, pero disfrutando juntos, confirmó mi sentir previo a este viaje: la comunidad salva, la comunidad genera alegría y evita ese vacío existencial, esa soledad de la que tanto hablamos en occidente.  
 
 ## El corazón de la casa y la estructura familiar
