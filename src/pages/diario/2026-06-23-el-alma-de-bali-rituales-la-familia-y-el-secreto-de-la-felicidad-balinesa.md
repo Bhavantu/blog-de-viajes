@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPostLayout.astro
 title: "El alma de Bali: Rituales, la familia y el secreto de la felicidad balinesa"
 date: 2026-06-23T19:05:00.000+08:00
-tag: bitacora
+tag: contexto y cultura
 pais: Indonesia
 description: El alma de Bali a través de sus rituales, la importancia de la
   familia y el sistema Banjar. Una articulo para conocer la cultura, viajar con
@@ -33,11 +33,13 @@ Es frecuente caminar por las calles y encontrarse con el *Banjar*, la organizaci
 
 Tuve la fortuna de llegar a Bali cerca del *Kuningan*, una celebración  que ocurre cada 210 días según el ciclo balinés. Esta festividad marca el punto final del ciclo de *Galungan*, y se dice que es el momento en que los ancestros regresan al mundo espiritual tras visitar a sus familias.
 
+<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/whatsapp-image-2026-06-29-at-23.14.01-1-.jpeg" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+
 La palabra *Kuningan* viene de *kunyit* (cúrcuma), protagonista del arroz amarillo quese prepara para los dioses y se ofrece con coco sobre hojas de banana. La ceremonia simboliza la victoria del *Dharma* (el bien) sobre el *Adharma* (el caos). Durante los días previos, el barrio se transforma: las familias preparan juntas decoraciones con hojas de coco, banana y flores.
 
 En  día de la ceremonia, en la mañana las mujeres caminan al templo del barrio cargando en su cabeza los *Gebogan* (torres gigantes de frutas y flores).  El resto de la jornada transcurría entre visitas al templo de los vecinos y ceremonias en sus propios templos familiares. En la tarde, una gran marcha de personas vestidas de blanco, con sus *sarongs* y blusas brillantes, recorría las calles entre saludos y covnersaciones que se acompañaban, reían, hacían chistes entre ellos,  cada señora mayor invitaba a los bebés del barrio que observaban a upa de sus padres a formar parte, porque como nos contaba Wayan — En cada barrio nos conocemos, somos amigos y cuidamos del otro—.
 
-<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/whatsapp-image-2026-06-29-at-12.17.48-1-.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+<div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/whatsapp-image-2026-06-29-at-12.17.48-1-.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 Embelesada caminaba observaba como era la ceremonia. Liderando la marcha  va el *Barong (*la figura protectora de la aldea que trae bendiciones) y se detenía cada unas cuadras, las señoras le hacían ofrendas mediante un ritual y él bailaba entregando bendiciones al son del *Gamelan*. Formar parte de algo tan grande se sintió increíble y también me hizo reflexionar sobre el sentido comunitario. En Bali no es un concepto abstracto o una idea, es una tradición, una práctica viva. 
 
@@ -55,6 +57,8 @@ La familia es el eje. Los hermanos se nombran según su orden de nacimiento:
 * **Ketut:** El cuarto.
 
 En cada casa baliensa en la que nos hemos encontrado convive una familia, abuelas, madres, tios, primos, y niños. Una cosa es clara, la la vida familiar en Bali es un eje cultural y simbólico. Investigando un poco descubrimos que la cultura está marcada por una fuerte tradición patrilineal.  En los rituales que conocemos como “casamiento” (*Mepejati*), la novia se despide formalmente de sus ancestros en el templo familiar donde creció y es "recibida" o adoptada en el templo ancestral de la familia de su esposo. A partir de ese momento, ella pasa a pertenecer al linaje de él y adquiere responsabilidades religiosas y sociales en su nuevo hogar y *banjar*, más que un cambio de domicilio; es una transición espiritual y social. Sin embargo, existe una excepción (hermosa según mi opinión) cuando una familia solo tiene hijas, se celebra el ritual 'Nyentana', donde es el novio quien se muda al hogar de la mujer y de esa forma  preservar el linaje y el cuidado de las personas mayores de la familia. Es un ejemplo de cómo la cultura balinesa encuentra formas de honrar la continuidad y el equilibrio.
+
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/whatsapp-image-2026-06-29-at-23.14.01.jpeg" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 ## La resiliencia detrás de la sonrisa: La historia de Indonesia y el espíritu balinés
 
