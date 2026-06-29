@@ -17,10 +17,6 @@ Ubud, ubicado entre las montañas centrales de Bali, es una zona que combina lo 
 
 Las actividades en Ubud son casi infinitas, y los conductores dispuestos a mostrarte un recorrido por los diferentes puntos también. La verdad es que encontrar un conductor de confianza y pasar por varios puntos en un día con un guía local es una gran opción, sobre todo si tenés un tiempo reducido de viaje.
 
-Ubud, ubicado entre las montañas centrales de Bali, es una zona que combina lo turístico y lo local a la perfección. El centro está lleno de restaurantes y experiencias orientadas al turismo, pero también se encuentran muchos *warungs* (pequeños negocios familiares) y *guest houses* gestionados por la población local, siempre dispuesta a compartir sus prácticas y su cultura.
-
-Las actividades en Ubud son casi infinitas, y los conductores dispuestos a mostrarte un recorrido por los diferentes puntos también. La verdad es que encontrar un conductor de confianza y pasar por varios puntos en un día con un guía local es una gran opción, sobre todo si tenés un tiempo reducido de viaje.
-
 ## Cosas épicas que hacer en Ubud
 
 Ubud combina lo auténtico y lo turístico. Acá van mis recomendaciones basadas en lo que realmente disfruté durante mi estadía:
@@ -34,6 +30,8 @@ Existen dos grandes terrazas proclamadas patrimonios internacionales gracias a s
 A saber: ambas terrazas están habilitadas para el turismo, pero no dejan de ser zonas de trabajo para los agricultores locales, por lo tanto es importante respetar los senderos y a los trabajadores. De hecho, personalmente, me impactó bastante el hecho de estar caminando y encontrarme con gente trabajando al rayo del sol, algunos de ellos muy mayores solicitando limosna. La imagen fue bastante fuerte y me dejó una espina invitando a la reflexión sobre las diferentes realidades que habitamos y lo importante que es sentirse agradecida con esta experiencia vital. Algunos de ellos saludaban amables, otros te invitaban a sacarte fotos con la vestimenta típica a cambio de una colaboración, y también muchos tienen pequeños puestos en donde podés sentarte a disfrutar de las vistas y tomar un coco frío.
 
 #### Tegalalang Rice Terrace (La famosa)
+
+<div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 Es la más popular y turística. Sus vistas son igualmente hermosas. Se encuentra a unos 15-20 minutos hacia el norte del centro de Ubud.
 
