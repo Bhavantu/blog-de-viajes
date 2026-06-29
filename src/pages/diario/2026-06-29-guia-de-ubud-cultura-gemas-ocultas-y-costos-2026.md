@@ -46,9 +46,9 @@ Es la más popular y turística. Sus vistas son igualmente hermosas. Se encuentr
 
 Esta es la que queda "más al norte" y es muchísimo menos turística. Es, de hecho, un Paisaje Cultural declarado formalmente por la UNESCO.
 
-* **Por qué ir:** Es un área protegida y mucho más vasta. Podés caminar durante horas sin encontrarte con masas de turistas. El aire es más fresco porque está a mayor altitud, aunque los caminos para caminar son un poco más "todo terreno".
+* **Por qué ir:** Es un área protegida y mucho más vasta. Es posible caminar durante largos periodos sin encontrarte con tantos turistas. El aire es más fresco porque está a mayor altitud, aunque los caminos para caminar son un poco más "todo terreno".
 * **Costos:** La entrada tiene un valor aproximado de **40.000 IDR** (destinados al mantenimiento y preservación de este gigantesco sitio).
-* **Cómo llegar:** Está a unos 60-90 minutos de Ubud. El viaje de ida es espectacular porque atravesás pueblos tradicionales súper pintorescos. Existen muchas excursiones por el día que salen desde el centro de Ubud e incluyen guías locales con un conocimiento profundo sobre la zona.
+* **Cómo llegar:** Está a unos 60-90 minutos de Ubud. El viaje de ida es espectacular porque atraviesa pueblos tradicionales muy pintorescos. Existen muchas excursiones por el día que salen desde el centro de Ubud e incluyen guías locales con un conocimiento profundo sobre la zona.
 
 ## 2. Cascadas: El refugio para el calor de Ubud
 
@@ -104,5 +104,13 @@ En esta ocasión, nosotros optamos por la famosa **Danza Kecak**, un espectácul
 Lo fascinante de esta obra es que no utiliza ningún instrumento musical de fondo. El sonido, la atmósfera y el ritmo son creados de forma exclusiva por un coro de más de 70 hombres sentados en círculos concéntricos, quienes modulan sus voces imitando diferentes sonidos y entran en una suerte de trance sonoro durante toda la obra. El aire sale de su garganta de una manera muy específica y rítmica con el constante canto del *"chak-chak-chak"*, que sostiene la tensión de la escena.
 
 Al comienzo, la danza narra un fragmento de la epopeya hindú del *Ramayana*: la historia de amor del príncipe Rama y la princesa Sita, el rapto de esta última a manos del malvado demonio de múltiples cabezas, Ravana, y la posterior batalla mística donde interviene el valiente ejército de monos liderado por el dios simio Hanuman. Al finalizar (durante los últimos 10 o 15 minutos de la función), transcurre la danza del fuego, donde un bailarín en pleno estado de trance místico pisa y dispersa las brasas de coco encendidas con sus propios pies descalzos.
+
+Ubud central
+
+6. Monkey Forest 
+
+Esta fue una de nuestras primeras actividades, se trata de un templo antiguo que está es una reserva natural y complejo de templos sagrados donde habitan más de 1.000 macacos de cola larga en semilibertad
+
+7. Palacio real
 
 *Nota de la editora: Estimado lector/lectora recuerden que los precios y regulaciones en Bali fluctúan según la temporada y las actualizaciones de las administraciones locales de cada regencia. Lleven siempre efectivo en rupias indonesias (IDR) ya que en muchos templos y cascadas no se aceptan tarjetas de crédito. Desde ya gracias por leer.*
