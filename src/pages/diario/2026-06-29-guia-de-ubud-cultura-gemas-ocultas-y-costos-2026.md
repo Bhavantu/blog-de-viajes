@@ -4,8 +4,8 @@ title: "Guia de Ubud: cultura, gemas ocultas y costos 2026"
 date: 2026-06-29T20:37:00.000+08:00
 tag: guia de viaje
 pais: Indonesia
-description: "Viví la magia de Ubud. Descubrí sus arrozales, rituales de
-  purificación sagrados, templos y cascadas con nuestra guía práctica. "
+description: "Viví la magia de Ubud: Descubrí sus arrozales, rituales de
+  purificación sagrados, templos y cascadas en nuestra guía práctica. "
 main_image: /img/diario/UBUD24.webp
 ---
 Desde que llegamos a Ubud, cada parte de su aura comenzó a deleitarnos: desde sus construcciones increíbles que parecen templos en todas partes, hasta sus *penjors* —esas artesanías de bambú que cuelgan afuera de las casas en esta época del año—. La gente atenta y amable sonreía por las calles y, en los pequeños callejones, los niños paseaban en bicicleta de acá para allá entre risas y gritos.
@@ -55,7 +55,7 @@ Esta es la que queda "más al norte" y es muchísimo menos turística. Es, de he
 
 Hay muchísimas opciones de cascadas en los alrededores de Ubud y son un excelente punto para refrescarse después de una caminata bajo el sol. La hora en que vayas es siempre un factor clave en relación a la cantidad de turistas, pero desde mi punto de vista son siempre disfrutables. Eso sí: aunque suelen tener mantenimiento y escalones de acceso, tené en cuenta que después de la lluvia suele haber bastante barro y zonas resbaladizas (no es grave, solo precaución).
 
-<div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/cascada-ulu-petanu-ubud.jpeg" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 Aunque hay decenas de opciones, acá te dejamos las tres que más nos recomendaron los locales que fuimos encontrando en el camino:
 
@@ -66,6 +66,8 @@ Aunque hay decenas de opciones, acá te dejamos las tres que más nos recomendar
 ## 3. La experiencia del Café y el Copi Luwak:el café más caro del mundo
 
 La experiencia de hacer una degustación de café es un clásico de Bali. Existen cientos de plantaciones locales en las que te invitan a pasar, te enseñan el proceso tradicional de tostado y tratamiento de los granos, y hasta te convidan con una degustación gratuita de tés y cafés saborizados. Esta bueno retribuir la hospitalidad comprando algo en su tienda o dejando una pequeña colaboración.
+
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/muestra-de-te-y-café-ubud.jpeg" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 Muchas de estas plantaciones tienen la famosa experiencia del café "más caro del mundo" (*Kopi Luwak*). Este café se extrae de los granos que pasaron por el proceso digestivo del *luwak* (la civeta), un pequeño mamífero de la familia de los vivérridos que elige los frutos de café más dulces y maduros. Al pasar por su tracto intestinal y ser defecados, las enzimas modifican las proteínas del grano quitándole amargor. Los recolectores juntan los granos manualmente, los limpian a fondo y luego realizan el proceso de tostado.
 
@@ -83,9 +85,11 @@ Los templos son lugares espectaculares y sagrados para la población local, por 
 
 ## El Ritual de Purificación (Melukat)
 
+<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/ritual-espiritual.jpeg" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+
 Muchos de los templos están centrados en la purificación a través del agua, un ritual sagrado de sanación que se realiza en diferentes piscinas con fuentes según el propósito espiritual de cada chorro de agua.
 
-Para hacer este ritual de forma respetuosa y correcta, es sumamente necesario contar con un guía local que te acompañe, te instruya en los pasos y te ayude a realizar las ofrendas. Sé que hay bastantes polémicas y debates en internet en relación a esto: para quienes queremos conectar de verdad con esta práctica de fe, no es nada agradable estar regateando dinero o estar alerta a posibles estafas. Por eso, acá te dejo la información que en mi caso fue una de las más relevantes para el viaje:
+Para hacer este ritual de forma respetuosa y correcta, es sumamente necesario contar con un guía local que te acompañe, te instruya en los pasos y te ayude a realizar las ofrendas. Sé que hay bastantes polémicas y debates en internet en relación a esto: para quienes queremos conectar de verdad con esta práctica de fe, no es nada agradable estar regateando dinero o estar alerta a posibles estafas. Por eso, acá te dejo la **información** que en mi caso fue una de las más **relevantes para el viaje:**
 
 * **Entrada general al templo:** El costo de ingreso general (por ejemplo, en el famoso templo *Tirta Empul*) ronda los **75.000 IDR** por adulto. Se paga en la taquilla oficial de la entrada. Con tu entrada te van a prestar un sarong básico para recorrer el complejo, pero recordar llevar los hombros cubiertos es tu responsabilidad. **NO es necesario que compres un sarong en los puestos de la entrada.** Si los vendedores insisten y no querés comprar, simplemente agradecé con una sonrisa y seguí de largo hacia la boletería oficial.
 * **El Guía Local:** Un guía que te explique la historia, la mística del lugar y te acompañe paso a paso en el estanque es clave para no cometer faltas de respeto. Podés contactar guías certificados con anticipación por internet o contratar uno en la entrada del templo. Mi consejo es que acuerdes sus honorarios claramente antes de empezar. El valor por su guía suele rondar los **150.000 IDR** por persona.
@@ -96,7 +100,7 @@ Para hacer este ritual de forma respetuosa y correcta, es sumamente necesario co
   * **Ofrendas (Canang Sari):** Son los pequeños canastos de hojas de palma con flores y sahumerios que se presentan antes de entrar al agua. Tienen un costo de unos **10.000 a 20.000 IDR** (generalmente las facilita el guía).
 * **Total estimado de la experiencia:** Calculá entre **200.000 y 250.000 IDR** (unos 13-16 USD) para realizar toda la ceremonia de purificación guiada, respetuosa y completa, incluyendo entradas, alquileres y ofrendas.
 
-### 5. Danza tradicional: El poder del Kecak y la elegancia del Legong
+## 5. Danza tradicional: El poder del Kecak y la elegancia del Legong
 
 La "Danza del Fuego" (*Kecak*) es impactante por su ritmo frenético, pero las danzas de las mujeres (*Legong*) poseen una elegancia y un control de los movimientos corporales. Originalmente, estas danzas se presentaban en las cortes reales frente a la nobleza para relatar mitos fundacionales. 
 
