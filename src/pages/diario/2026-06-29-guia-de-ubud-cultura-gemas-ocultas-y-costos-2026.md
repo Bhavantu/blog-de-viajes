@@ -53,9 +53,7 @@ Esta es la que queda "más al norte" y es muchísimo menos turística. Es, de he
 
 ## 2. Cascadas: El refugio para el calor de Ubud
 
-Hay muchísimas opciones de cascadas en los alrededores de Ubud y son un excelente punto para refrescarse después de una caminata bajo el sol. La hora en que vayas es siempre un factor clave en relación a la cantidad de turistas, pero desde mi punto de vista son siempre disfrutables. Eso sí: aunque suelen tener mantenimiento y escalones de acceso, tené en cuenta que después de la lluvia suele haber bastante barro y zonas resbaladizas (no es grave, solo precaución).
-
-<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/cascada-ulu-petanu-ubud.jpeg" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/cascada-ulu-petanu-ubud.jpeg" alt="Imagen de bitácora"><span class="img-caption"></span></div>Hay muchísimas opciones de cascadas en los alrededores de Ubud y son un excelente punto para refrescarse después de una caminata bajo el sol. La hora en que vayas es siempre un factor clave en relación a la cantidad de turistas, pero desde mi punto de vista son siempre disfrutables. Eso sí: aunque suelen tener mantenimiento y escalones de acceso, tené en cuenta que después de la lluvia suele haber bastante barro y zonas resbaladizas (no es grave, solo precaución).
 
 Aunque hay decenas de opciones, acá te dejamos las tres que más nos recomendaron los locales que fuimos encontrando en el camino:
 
