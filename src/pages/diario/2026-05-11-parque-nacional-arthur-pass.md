@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPostLayout.astro
 title: Explorando el Parque nacional Arthur’s Pass y Kura Tāwhiti en el centro
   de la Isla Sur de Nueva Zelanda
 date: 12 May 2026
-tag: bitacora
+tag: guia de viaje
 pais: Nueva Zelanda
 description: "Uno de los parques nacionales imperdibles de Nueva Zelanda:
   Naturaleza, cultura maorí y aventura desde Canterbury hacia la Costa Oeste "
@@ -31,7 +31,7 @@ Según lo que investigamos, el ecosistema se divide en diferentes zonas con pais
   <div class="post-img-box img-pequeño img-izquierda"><img src="/img/diario/whatsapp-image-2026-06-27-at-20.45.55-7-.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 * **Zona Alpina (Cumbres):** Por encima de la línea de los árboles (aprox. 1.200 metros), el ecosistema se convierte en Tundra Alpina o praderas de altura. Se caracteriza por el Tussock (pastizales dorados), hierbas de megaherbia y la fascia rocosa donde vive el Kea (el único loro alpino del mundo).
 
-  <div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/whatsapp-image-2026-06-27-at-20.45.57-4-.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+  <div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/dsc_0393.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 ## Guía de senderos y trekking en Arthur's Pass
 
@@ -43,7 +43,7 @@ A pesar de que está a 920 metros de altura y se siente el aire frío de la mont
 
 A continuación una última recomendación respecto a una parada corta y de camino bastante impresionante.
 
-Kura Tāwhiti (Castle Hill): Un centro espiritual natural de Nueva Zelanda
+## Kura Tāwhiti (Castle Hill): Un centro espiritual natural de Nueva Zelanda
 
 Es un imponente conjunto de rocas gigantes de piedra caliza que alcanzan los 30 metros de altura. Se ve como un laberinto de piedra, pero cuenta la historia que hace millones de años estaba bajo el mar. Con el tiempo, el lecho marino se elevó, creando estas formaciones únicas que hasta el mismísimo Dalai Lama, al visitarlas en 2002, las bautizó como el "centro espiritual del universo".
 
