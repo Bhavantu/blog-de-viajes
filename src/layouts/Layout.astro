@@ -108,8 +108,22 @@ const isGaleria = Astro.url.pathname.includes('/galeria');
             .text-column { max-width: 680px; margin: 0 auto; font-size: 1.1rem; color: #444; line-height: 1.8; }
             .text-column p { margin-bottom: 1.5rem; }
             .post-banner { max-width: 1000px; margin: 0 auto 3rem auto; width: 100%; }
-            .post-banner img { width: 100%; height: 450px; object-fit: cover; display: block; border-radius: 8px; }
+            .post-banner { 
+                max-width: 1000px; 
+                margin: 0 auto 2rem auto; 
+                width: 100%; 
+                padding: 0 1rem; /* Margen de seguridad para que la foto no pegue contra los bordes del celular */
+            }
 
+            .post-banner img { 
+                width: 100% !important; 
+                height: auto !important; /* Rompe el molde rígido y permite que la foto respire en celulares */
+                max-height: 75vh; /* Evita que en monitores grandes una foto vertical se vuelva gigantesca */
+                object-fit: contain; /* Muestra la imagen entera, sin recortar ni una sola esquina */
+                display: block; 
+                border-radius: 8px; 
+                margin: 0 auto;
+            }           
             .text-column blockquote { border-left: 4px solid #ddd; padding: 1.5rem 0 1.5rem 2rem; margin: 3.5rem 0; font-family: var(--font-display); font-size: 1.45rem; color: #222; font-style: italic; background-color: #f9f9f9; line-height: 1.5; }
             
             /* Imágenes estáticas en los artículos */
