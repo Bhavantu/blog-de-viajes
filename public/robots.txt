@@ -1,7 +1,8 @@
 User-agent: *
 Allow: /
+Disallow: /galeria
+Disallow: /galeria/
+Disallow: /admin
+Disallow: /admin/
 
-User-agent: Mediapartners-Google
-Allow: /
-
-Sitemap: https://blogcito.com/sitemap-index.xml
+Sitemap: https://tudominio.com/sitemap-index.xml
