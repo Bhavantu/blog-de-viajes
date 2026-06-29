@@ -32,7 +32,7 @@ Existen dos grandes terrazas proclamadas patrimonios internacionales gracias a s
 
 A saber: ambas terrazas están habilitadas para el turismo, pero no dejan de ser zonas de trabajo para los agricultores locales, por lo tanto es importante respetar los senderos y a los trabajadores. De hecho, personalmente, me impactó bastante el hecho de estar caminando y encontrarme con gente trabajando al rayo del sol, algunos de ellos muy mayores solicitando limosna. La imagen fue bastante fuerte y me dejó una espina invitando a la reflexión sobre las diferentes realidades que habitamos y lo importante que es sentirse agradecida con esta experiencia vital. Algunos de ellos saludaban amables, otros te invitaban a sacarte fotos con la vestimenta típica a cambio de una colaboración, y también muchos tienen pequeños puestos en donde podés sentarte a disfrutar de las vistas y tomar un coco frío.
 
-#### Tegalalang Rice Terrace (La famosa)
+### Tegalalang Rice Terrace (La famosa)
 
 Es la más popular y turística. Sus vistas son igualmente hermosas. Se encuentra a unos 15-20 minutos hacia el norte del centro de Ubud.
 
@@ -43,7 +43,7 @@ Es la más popular y turística. Sus vistas son igualmente hermosas. Se encuentr
 
 <div class="post-img-box img-completo img-centro"><img src="/img/diario/UBUD10.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
-#### Jatiluwih Rice Terrace (La joya de la UNESCO)
+### Jatiluwih Rice Terrace (La joya de la UNESCO)
 
 Esta es la que queda "más al norte" y es muchísimo menos turística. Es, de hecho, un Paisaje Cultural declarado formalmente por la UNESCO.
 
@@ -120,19 +120,20 @@ Ubicado al final de la transitada Monkey Forest Road, este bosque sagrado es una
 
 Este santuario se rige por el concepto de *Tri Hita Karana* (la armonía entre los humanos, la naturaleza y Dios), resguardando tres templos sagrados activos del siglo XIV los cuales se pueden ver desde afuera pero no entrar. Es un recorrido plano, facil de caminar, una interesante experiencia local habilitada para todas las edades. Además el camino tiene bastantes arboles por lo cual el calor no es terrible volviéndolo una experiencia más disfrutable.
 
-* **Costos de entrada:** La entrada tiene un valor de **130.000 IDR** para adultos internacionales y **100.000 IDR** para niños. Abre todos los días de 9:00 AM a 6:00 PM. El predio cuenta con tótems de autoservicio que aceptan  tarjetas o las entradas se pueden comprar online y existen muchos guias que pueden acomparte y explicarte el recorrido, 
-* **Reglas de seguridad estrictas:** Aunque los macacos de cola larga son muy tiernos siguen siendo animales salvajes. Por seguridad y la de ellos el centro recomienda. 
+**Costos de entrada:** La entrada tiene un valor de **130.000 IDR** para adultos internacionales y **100.000 IDR** para niños aproximadamente 7,27 USD o 6,37 Euros adultos y  5,60 USD o 4,90 Euros para niños. El parque abre todos los días de 9:00 AM a 6:00 PM y cuenta con tótems de autoservicio que aceptan  tarjetas o las entradas se pueden comprar online. También existen guías que pueden acompañarte y explicarte el recorrido, de este u otros puntos de interes.
 
-  * **No permite el ingreso con  bolsas plásticas o botellas plásticas sueltas.**
-  * Evitar acercarse demasiado especialmente a los que están con sus bebés (aunque la verdad es que vimos muchisímos subidos literalmente a personas)
-  * **No mirarlos fijo a los ojos:** Ya que en su lenguaje corporal, el contacto visual directo es señal de agresión.
-  * **No esconder comida en la mochila**
-  * **y tener precaución con los objetos eprsonales como lentes o objetos brillosos ya que son muy curiosos y confiados.** 
+**Reglas de seguridad estrictas:** Aunque los macacos de cola larga son muy tiernos siguen siendo animales salvajes. Por seguridad y la de ellos el centro recomienda. 
 
-    * * <div class="post-img-box img-completo img-centro"><img src="/img/diario/UBUD26.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
-* **La famoso "Selfie con el mono":** la famosa foto donde parece que el mono sostiene el celular. Tenés que comprar un voucher de fotografía adentro (los cupos son limitados por tanda) y ellos se encargan de guiar al animal de manera segura usando pequeños trozos de fruta, se hace únicamente bajo supervisión del personal capacitado de la reserva y es muy gracioso de ver.
+* No permite el ingreso con  bolsas plásticas o botellas plásticas sueltas.
+* Evitar acercarse demasiado especialmente a los que están con sus bebés (aunque la verdad es que vimos muchisímos subidos literalmente a personas)
+* No mirarlos fijo a los ojos: Ya que en su lenguaje corporal, el contacto visual directo es señal de agresión.
+* No esconder comida en la mochila y tener precaución con los objetos eprsonales como lentes o objetos brillosos ya que son muy curiosos y confiados. 
 
-### 7. Palacio de Ubud (Puri Saren Agung): El corazón de la realeza balinesa
+ <div class="post-img-box img-completo img-centro"><img src="/img/diario/UBUD26.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+
+La famoso "Selfie con el mono": la famosa foto donde parece que el mono sostiene el celular. Tenés que comprar un voucher de fotografía adentro (los cupos son limitados por tanda) y ellos se encargan de guiar al animal de manera segura usando pequeños trozos de fruta, se hace únicamente bajo supervisión del personal capacitado de la reserva y es muy gracioso de ver.
+
+## 7. Palacio de Ubud (Puri Saren Agung): El corazón de la realeza balinesa
 
 Situado en  la esquina de Jalan Raya Ubud y Jalan Monkey Forest, frente al mercado de arte tradicional, el Palacio de Ubud es el epicentro geográfico e histórico de la ciudad. Construido durante el reinado de Ida Tjokorda Putu Kandel (1800-1823), todavía sirve como residencia oficial para la familia real de Ubud, por lo que solo se puede recorrer su patio exterior público y sus intrincados portales tallados en piedra y decorados con hojas de oro.
 
