@@ -1,11 +1,11 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 
-export async function getStaticPaths({ paginate }) {
+export async function getStaticPaths({ paginate }: any) {
     const postsRaw = import.meta.glob('./*.md', { eager: true });
     const posts = Object.values(postsRaw);
     
-    posts.sort((a, b) => {
+    posts.sort((a: any, b: any) => {
         const dateA = new Date(a.frontmatter?.date || 0).valueOf();
         const dateB = new Date(b.frontmatter?.date || 0).valueOf();
         return dateB - dateA;
@@ -14,7 +14,7 @@ export async function getStaticPaths({ paginate }) {
     return paginate(posts, { pageSize: 10 });
 }
 
-const { page } = Astro.props;
+const { page }: any = Astro.props;
 ---
 
 <Layout title="Diario de Viaje | BLOGCITO">
