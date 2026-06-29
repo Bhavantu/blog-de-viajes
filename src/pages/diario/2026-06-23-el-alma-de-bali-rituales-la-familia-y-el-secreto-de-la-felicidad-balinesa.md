@@ -19,7 +19,6 @@ La población balinesa es absolutamente encantadora y amable. Fieles a sus tradi
 
 Siempre van acompañadas de un incienso humeante con el cual sahúman brevemente alrededor con un movimiento sutil de la mano; un gesto destinado a purificar el espacio antes de elevar la oración. Además, en determinadas ocaciones tras el rezo se coloquen granos de arroz húmedo (*Bija*) en la frente o el pecho, simbolizando la semilla de la vida y la bendición divina.
 
-<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/archivo-pegado.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 ### Dioses, demonios y la música en las calles
 
