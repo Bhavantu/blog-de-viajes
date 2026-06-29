@@ -19,11 +19,11 @@ Luego de pasar unos días en Ubud central, recorriendo sus calles alegres y ruid
 
 La población balinesa es absolutamente encantadora y amable. Fieles a sus tradiciones, realizan sus rituales de agradecimiento y conexión varias veces al día en sus templos familiares. Estas ofrendas, conocidas como *Canang Sari*, son el latido espiritual de la isla. Se trata de una pequeña canasta tejida a mano con hojas de banano o palma, llena de flores de colores específicos según la dirección sagrada: las blancas al este, las rojas al sur, las amarillas al oeste y las azules o verdes al norte.
 
-Siempre van acompañadas de un incienso humeante con el cual sahúman brevemente alrededor con un movimiento sutil de la mano; un gesto destinado a purificar el espacio antes de elevar la oración. Además, en determinadas ocaciones tras el rezo se coloquen granos de arroz húmedo (*Bija*) en la frente o el pecho, simbolizando la semilla de la vida y la bendición divina.
+Siempre van acompañadas de un incienso humeante con el cual sahúman brevemente alrededor con un movimiento sutil de la mano; un gesto destinado a purificar el espacio antes de elevar la oración. Además, en determinadas ocasiones tras el rezo se coloquen granos de arroz húmedo (*Bija*) en la frente o el pecho, simbolizando la semilla de la vida y la bendición divina.
 
 ### Dioses, demonios y la música en las calles
 
-Al caminar, es común sorprenderse por las máscaras y estatuas de piedra que parecen demonios guardianes. El hinduísmo balinés es único; si bien comparten deidades como Brahma, Vishnu y Shiva con el hinduísmo de India, el sincretismo es propio. Al no intentar representar a los dioses con forma humana, recurren a la fuerza de la naturaleza y a la mitología. 
+Al caminar, es común sorprenderse por las máscaras y estatuas de piedra que parecen demonios guardianes. El hinduismo balinés es único; si bien comparten deidades como Brahma, Vishnu y Shiva con el hinduismo de India, el sincretismo es propio. Al no intentar representar a los dioses con forma humana, recurren a la fuerza de la naturaleza y a la mitología. 
 
 <div class="post-img-box img-completo img-centro"><img src="/img/diario/dsc_0555.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
@@ -35,9 +35,9 @@ Tuve la fortuna de llegar a Bali cerca del *Kuningan*, una celebración  que ocu
 
 <div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/whatsapp-image-2026-06-29-at-23.14.01-1-.jpeg" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
-La palabra *Kuningan* viene de *kunyit* (cúrcuma), protagonista del arroz amarillo quese prepara para los dioses y se ofrece con coco sobre hojas de banana. La ceremonia simboliza la victoria del *Dharma* (el bien) sobre el *Adharma* (el caos). Durante los días previos, el barrio se transforma: las familias preparan juntas decoraciones con hojas de coco, banana y flores.
+La palabra *Kuningan* viene de *kunyit* (cúrcuma), protagonista del arroz amarillo que se prepara para los dioses y se ofrece con coco sobre hojas de banana. La ceremonia simboliza la victoria del *Dharma* (el bien) sobre el *Adharma* (el caos). Durante los días previos, el barrio se transforma: las familias preparan juntas decoraciones con hojas de coco, banana y flores.
 
-En  día de la ceremonia, en la mañana las mujeres caminan al templo del barrio cargando en su cabeza los *Gebogan* (torres gigantes de frutas y flores).  El resto de la jornada transcurría entre visitas al templo de los vecinos y ceremonias en sus propios templos familiares. En la tarde, una gran marcha de personas vestidas de blanco, con sus *sarongs* y blusas brillantes, recorría las calles entre saludos y covnersaciones que se acompañaban, reían, hacían chistes entre ellos,  cada señora mayor invitaba a los bebés del barrio que observaban a upa de sus padres a formar parte, porque como nos contaba Wayan — En cada barrio nos conocemos, somos amigos y cuidamos del otro—.
+En  día de la ceremonia, en la mañana las mujeres caminan al templo del barrio cargando en su cabeza los *Gebogan* (torres gigantes de frutas y flores).  El resto de la jornada transcurría entre visitas al templo de los vecinos y ceremonias en sus propios templos familiares. En la tarde, una gran marcha de personas vestidas de blanco, con sus *sarongs* y blusas brillantes, recorría las calles entre saludos y conversaciones que se acompañaban, reían, hacían chistes entre ellos,  cada señora mayor invitaba a los bebés del barrio que observaban a upa de sus padres a formar parte, porque como nos contaba Wayan — En cada barrio nos conocemos, somos amigos y cuidamos del otro—.
 
 <div class="post-img-box img-pequeño img-izquierda"><img src="/img/diario/whatsapp-image-2026-06-29-at-12.17.48-1-.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
