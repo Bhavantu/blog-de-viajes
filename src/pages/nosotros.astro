@@ -3,12 +3,27 @@ import Layout from '../layouts/Layout.astro';
 ---
 
 <Layout title="BLOGCITO - Nosotros">
+    
+    <!-- HEADER RECUPERADO -->
+    <header class="site-header">
+        <h1><a href="/">BLOGCITO</a></h1>
+        <button id="mobile-menu-btn" class="menu-toggle">☰</button>
+        <nav id="main-nav">
+            <ul class="nav-links">
+                <li><a href="/">Inicio</a></li>
+                <li><a href="/diario">Diario</a></li>
+                <li><a href="/galeria">Galería</a></li>
+                <li><a href="/nosotros" class="active-link">Nosotros</a></li>
+            </ul>
+        </nav>
+    </header>
+
     <main class="container page-nosotros">
         
         <header class="nosotros-header">
             <h1>Somos Blogcito</h1>
             <h2 class="subtitle">Un equipo que busca viajar lento y con la mirada atenta, conocer culturas, filosofías, historias y religiones, en definitiva conocer otras formas de ver el mundo.</h2>
-            <p class="intro-text"><em>Compartimos nuestra experiencia, profundizamos en la investigación cultural y creamos guías de viaje para quienes como nosotros eligen caminar el mundo con la mirada atenta y el corazón abierto, sin descuidar los pies sobre la tierra.</em></p>
+            <p class="intro-text"><em>Compartimos nuestra experiencia, profundizamos en la investigación cultural y creamos guias de viaje para quienes como nosotros eligen caminar el mundo con la mirada atenta y el corazón abierto, sin descuidar los pies sobre la tierra.</em></p>
         </header>
 
         <section class="content-section">
@@ -22,9 +37,11 @@ import Layout from '../layouts/Layout.astro';
             </ul>
         </section>
 
+        <!-- SECCIÓN DE LORE -->
         <section class="content-section clearfix">
             <h3>Presentación de la autora</h3>
             
+            <!-- Asegurate de tener una foto llamada lore.jpg en tu carpeta public/img/ -->
             <img src="/img/lore.jpg" alt="Lorena" class="img-float-left" />
             
             <p>Soy Lore, amante de los viajes y del intercambio, curiosa sobre las cosmovisiones del mundo y las diferentes formas de conectar con el. Escribir es parte de lo que soy, así que con Santi creamos este espacio para compartir nuestra aventura.</p>
@@ -34,9 +51,11 @@ import Layout from '../layouts/Layout.astro';
             <p>Por eso decidí, como ejercicio, caminar con la mirada atenta y el corazón abierto. Dejarme iluminar por la belleza de un cerro reflejado en un lago o simplemente por el sol tibio de la tarde. Querido lector, querida lectora, esto no es solo un relato; es una invitación a encontrarse recorriendo el camino. Porque amanece un día más, y eso no es poca cosa.</p>
         </section>
 
+        <!-- SECCIÓN DE SANTI -->
         <section class="content-section clearfix">
             <h3>Presentación del autor</h3>
             
+            <!-- Asegurate de tener una foto llamada santi.jpg en tu carpeta public/img/ -->
             <img src="/img/santi.jpg" alt="Santiago" class="img-float-right" />
             
             <p>¡Acá va tu texto de presentación! Dejé tu imagen flotando a la derecha para que visualmente haya un contraste muy lindo en la página y no quede todo apilado del mismo lado.</p>
@@ -115,8 +134,8 @@ import Layout from '../layouts/Layout.astro';
     /* --- CLASES MÁGICAS PARA CEÑIR EL TEXTO --- */
     .img-float-left {
         float: left;
-        width: 300px; /* Tamaño de la imagen */
-        margin: 0.5rem 1.5rem 1rem 0; /* Empuja el texto hacia la derecha y abajo */
+        width: 300px;
+        margin: 0.5rem 1.5rem 1rem 0; 
         border-radius: 8px;
         object-fit: cover;
     }
@@ -124,12 +143,11 @@ import Layout from '../layouts/Layout.astro';
     .img-float-right {
         float: right;
         width: 300px;
-        margin: 0.5rem 0 1rem 1.5rem; /* Empuja el texto hacia la izquierda y abajo */
+        margin: 0.5rem 0 1rem 1.5rem; 
         border-radius: 8px;
         object-fit: cover;
     }
 
-    /* El clearfix evita que el texto de la siguiente sección se suba si la foto es muy alta */
     .clearfix::after {
         content: "";
         clear: both;
@@ -159,9 +177,9 @@ import Layout from '../layouts/Layout.astro';
     @media (max-width: 768px) {
         .img-float-left, 
         .img-float-right {
-            float: none; /* Desactiva el texto ceñido en el celular */
+            float: none; 
             display: block;
-            width: 100%; /* La foto ocupa todo el ancho */
+            width: 100%; 
             max-height: 400px;
             margin: 1.5rem 0;
         }
