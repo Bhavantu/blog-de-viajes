@@ -6,6 +6,7 @@ tag: guia de viaje
 pais: Indonesia
 description: "Viví la magia de Ubud. Descubrí sus arrozales, rituales de
   purificación sagrados, templos y cascadas con nuestra guía práctica. "
+main_image: /img/diario/UBUD24.webp
 ---
 Desde que llegamos a Ubud, cada parte de su aura comenzó a deleitarnos: desde sus construcciones increíbles que parecen templos en todas partes, hasta sus *penjors* —esas artesanías de bambú que cuelgan afuera de las casas en esta época del año—. La gente atenta y amable sonreía por las calles y, en los pequeños callejones, los niños paseaban en bicicleta de acá para allá entre risas y gritos.
 
@@ -25,13 +26,13 @@ Ubud combina lo auténtico y lo turístico. Acá van mis recomendaciones basadas
 
 Uno de los infaltables para mí era conocer las famosas plantaciones de arroz en terrazas por las cuales es famoso Bali. Lo que me sorprendió gratamente es que, con solo salir del centro de Ubud, las plantaciones se encuentran por todas partes, dejando el panorama verde y despejado para ver el atardecer o las estrellas con vistas increíbles.
 
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/dsc_0628.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+
 Existen dos grandes terrazas proclamadas patrimonios internacionales gracias a su sistema de riego llamado **Subak**. Este sistema tradicional de gestión del agua data del siglo IX y refleja la filosofía del *Tri Hita Karana*, que busca la armonía entre el reino de los espíritus, el mundo humano y la naturaleza. Es ingeniería agrícola ancestral y representa una práctica espiritual y cooperativa que une a toda la comunidad en el cuidado de los recursos.
 
 A saber: ambas terrazas están habilitadas para el turismo, pero no dejan de ser zonas de trabajo para los agricultores locales, por lo tanto es importante respetar los senderos y a los trabajadores. De hecho, personalmente, me impactó bastante el hecho de estar caminando y encontrarme con gente trabajando al rayo del sol, algunos de ellos muy mayores solicitando limosna. La imagen fue bastante fuerte y me dejó una espina invitando a la reflexión sobre las diferentes realidades que habitamos y lo importante que es sentirse agradecida con esta experiencia vital. Algunos de ellos saludaban amables, otros te invitaban a sacarte fotos con la vestimenta típica a cambio de una colaboración, y también muchos tienen pequeños puestos en donde podés sentarte a disfrutar de las vistas y tomar un coco frío.
 
 #### Tegalalang Rice Terrace (La famosa)
-
-<div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 Es la más popular y turística. Sus vistas son igualmente hermosas. Se encuentra a unos 15-20 minutos hacia el norte del centro de Ubud.
 
@@ -39,6 +40,8 @@ Es la más popular y turística. Sus vistas son igualmente hermosas. Se encuentr
 * **Costos de entrada:** Cuesta unos **25.000 IDR** (pago oficial del gobierno de Indonesia donde te entregan una pulsera de acceso).
 * **Donaciones en el camino:** En algunos puntos del recorrido hay "puestos de donación" locales (suele sugerirse dejar unos 10.000 IDR) para colaborar con el mantenimiento de los puentes y caminos que gestionan y reparan los propios agricultores.
 * **Cuándo ir:** Las vistas son espectaculares y se puede hacer el camino durante todo el año. Existe un trail señalizado y diferentes entradas. Además, las actividades turísticas en esta zona son múltiples, como los famosos columpios (*swings*) y las bicicletas colgantes, cuyos precios varían entre 150.000 y 350.000 IDR.
+
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/UBUD10.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 #### Jatiluwih Rice Terrace (La joya de la UNESCO)
 
@@ -50,7 +53,9 @@ Esta es la que queda "más al norte" y es muchísimo menos turística. Es, de he
 
 ## 2. Cascadas: El refugio para el calor de Ubud
 
-Hay muchísimas opciones de cascadas en los alrededores de Ubud y son un excelente punto para refrescarse después de una caminata bajo el sol. La hora en que vayas es siempre un factor clave en relación a la cantidad de turistas, pero desde mi punto de vista son siempre disfrutables. Eso sí: aunque suelen tener mantenimiento y escalones de acceso, tené en cuenta que después de la lluvia suele haber bastante barro y zonas muy resbaladizas.
+Hay muchísimas opciones de cascadas en los alrededores de Ubud y son un excelente punto para refrescarse después de una caminata bajo el sol. La hora en que vayas es siempre un factor clave en relación a la cantidad de turistas, pero desde mi punto de vista son siempre disfrutables. Eso sí: aunque suelen tener mantenimiento y escalones de acceso, tené en cuenta que después de la lluvia suele haber bastante barro y zonas resbaladizas (no es grave, solo precaución).
+
+<div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 Aunque hay decenas de opciones, acá te dejamos las tres que más nos recomendaron los locales que fuimos encontrando en el camino:
 
@@ -99,13 +104,21 @@ Ambas se realizan en templos sagrados la danza de las mujeres L*egong se realiza
 
 En esta ocasión, nosotros optamos por la famosa **Danza Kecak**, un espectáculo cultural imponente que cuenta con **más de 70 actores en escena**.
 
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/UBUD2.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+
+## Danza Kecak: la danza del fuego
+
 En esta obra es que no utiliza ningún instrumento musical de fondo. El sonido, la atmósfera y el ritmo son creados de forma exclusiva por un coro de más de 70 hombres sentados en círculos concéntricos, quienes modulan sus voces imitando diferentes sonidos y entran en una suerte de trance sonoro durante toda la obra (esto es una reflexión personal debido a que la forma en la que el aire sale de su garganta es muy específico)  y el rítmo constante sostiene la obra.
 
 Al comienzo, la danza narra un fragmento de la epopeya hindú del *Ramayana*: la historia de amor del príncipe Rama y la princesa Sita, el rapto de esta última a manos del malvado demonio de múltiples cabezas, Ravana, y la posterior batalla mística donde interviene el valiente ejército de monos liderado por el dios simio Hanuman. Al finalizar (durante los últimos 10 o 15 minutos de la función), transcurre la danza del fuego, donde un bailarín en pleno estado de trance místico pisa y dispersas las brasas de coco encendidas con sus propios pies descalzos.
 
-### 6. Sacred Monkey Forest Sanctuary: El hogar sagrado de los macacos
+## 6. Sacred Monkey Forest Sanctuary: El hogar sagrado de los macacos
 
-Ubicado al final de la transitada Monkey Forest Road, este bosque sagrado es una reserva ecológica y espiritual gestionada por la comunidad local de Padangtegal. Este santuario se rige por el concepto de *Tri Hita Karana* (la armonía entre los humanos, la naturaleza y Dios), resguardando tres templos sagrados activos del siglo XIV los cuales se pueden ver desde afuera pero no entrar. Es un recorrido plano, facil de caminar, una interesante experiencia local habilitada para todas las edades. Además el camino tiene bastantes arboles por lo cual el calor no es terrible volviéndolo una experiencia más disfrutable.
+Ubicado al final de la transitada Monkey Forest Road, este bosque sagrado es una reserva ecológica y espiritual gestionada por la comunidad local de Padangtegal. 
+
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/UBUD30.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+
+Este santuario se rige por el concepto de *Tri Hita Karana* (la armonía entre los humanos, la naturaleza y Dios), resguardando tres templos sagrados activos del siglo XIV los cuales se pueden ver desde afuera pero no entrar. Es un recorrido plano, facil de caminar, una interesante experiencia local habilitada para todas las edades. Además el camino tiene bastantes arboles por lo cual el calor no es terrible volviéndolo una experiencia más disfrutable.
 
 * **Costos de entrada:** La entrada tiene un valor de **130.000 IDR** para adultos internacionales y **100.000 IDR** para niños. Abre todos los días de 9:00 AM a 6:00 PM. El predio cuenta con tótems de autoservicio que aceptan  tarjetas o las entradas se pueden comprar online y existen muchos guias que pueden acomparte y explicarte el recorrido, 
 * **Reglas de seguridad estrictas:** Aunque los macacos de cola larga son muy tiernos siguen siendo animales salvajes. Por seguridad y la de ellos el centro recomienda. 
@@ -115,6 +128,8 @@ Ubicado al final de la transitada Monkey Forest Road, este bosque sagrado es una
   * **No mirarlos fijo a los ojos:** Ya que en su lenguaje corporal, el contacto visual directo es señal de agresión.
   * **No esconder comida en la mochila**
   * **y tener precaución con los objetos eprsonales como lentes o objetos brillosos ya que son muy curiosos y confiados.** 
+
+    * * <div class="post-img-box img-completo img-centro"><img src="/img/diario/UBUD26.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 * **La famoso "Selfie con el mono":** la famosa foto donde parece que el mono sostiene el celular. Tenés que comprar un voucher de fotografía adentro (los cupos son limitados por tanda) y ellos se encargan de guiar al animal de manera segura usando pequeños trozos de fruta, se hace únicamente bajo supervisión del personal capacitado de la reserva y es muy gracioso de ver.
 
 ### 7. Palacio de Ubud (Puri Saren Agung): El corazón de la realeza balinesa
