@@ -56,9 +56,9 @@ Hay muchísimas opciones de cascadas en los alrededores de Ubud y son un excelen
 
 Aunque hay decenas de opciones, acá te dejamos las tres que más nos recomendaron los locales que fuimos encontrando en el camino:
 
-1. **Kanto Lampo:** A unos 30 minutos de Ubud. Es súper escénica porque el agua cae sobre una pared de rocas escalonadas. El acceso tiene bastantes escalones y suele estar concurrida, pero es una belleza.
-2. **Tibumana:** Muy tranquila, rodeada de una selva densa y con una caída de agua recta y perfecta que forma una pileta natural ideal para nadar.
-3. **Tukad Cepung:** Una joya escondida dentro de una cueva. Para llegar tenés que caminar entre cañones de roca, y si llegás cerca del mediodía, los rayos del sol entran desde arriba creando un efecto místico increíble.
+1. **Kanto Lampo:** A unos 30 minutos de Ubud. Es súper escénica porque el agua cae sobre una pared de rocas escalonadas. El acceso tiene bastantes escalones y suele estar concurrida, pero es muy bella. El costo de entrada es de 25.000 IDR aprox 1.4 USD o 1.23 euros  
+2. **Tibumana waterfall:** Es una pequeña cascada rodeada  de una selva densa y con una caída de agua recta y perfecta que forma una pileta natural ideal para nadar y sacar fotos increibles. La entrada cuenta con escalones y un pequeño templo a la entrada. Aunque no la recorrimos fue una cascada que nos quedó pendiente de las recomendaciones locales. Las entradas cuestan 15.000 IDR lo que equivale aproximadamente a 0,84USD O 0,74 Euros.
+3. **Uli Petanu waterfall:** Una gema escondida a 40 minutos de Ubud central. Es una zona selvática con unas piscinas orientadas a ceremonias religiosas en la entrada, hay que bajar 90 escalores pero es un lugar bastante tranquilo con estacionamiento gratuito. Cuenta con una cascada principal en la que es posible bañarse, otra pequeña y más retirada en la que algunos locales van a hacer pequeñas ceremonias diarias de limpieza y una cueva histórica llamada Tampaksiring de aproximadamente 200 metros llanos, la historia cuenta que fue excavada a mano como parte del sistema de riego de los arrozales en la antigüedad. El ingreso a esta cueva tiene un costo significativo de 10.000 IDR, y el ingreso a la cascada 30.000 IDR. El costo total de ambas entradas es alrededor de 2.24 USD o 1.9 euros. 
 
 ## 3. La experiencia del Café y el Copi Luwak:el café más caro del mundo
 
