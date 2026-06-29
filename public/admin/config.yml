@@ -21,8 +21,8 @@ collections:
       - label: "Etiqueta"
         name: "tag"
         widget: "select"
-        options: ["bitacora", "fotografia", "punto de fuga", "vida local", "data"]
-        default: "bitacora"
+        options: ["bitacora", "fotografia", "punto de fuga", "vida local", "data", "guia de viaje", "contexto y cultura"]
+        default: ""
 
       - label: "País / Destino"
         name: "pais"

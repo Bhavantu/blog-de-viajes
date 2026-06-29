@@ -4,7 +4,7 @@ import Layout from '../layouts/Layout.astro';
 const posts = import.meta.glob('./diario/*.md', { eager: true });
 const allPosts = Object.values(posts);
 
-const sortedPosts = allPosts.sort((a, b) => {
+const sortedPosts = allPosts.sort((a: any, b: any) => {
     const dateA = new Date(a.frontmatter?.date || 0).valueOf();
     const dateB = new Date(b.frontmatter?.date || 0).valueOf();
     return dateB - dateA;
