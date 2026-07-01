@@ -34,7 +34,7 @@ const isGaleria = Astro.url.pathname.includes('/galeria');
         <meta property="og:type" content="website" />
 
         <meta name="google-adsense-account" content="ca-pub-3901046224634106">
-        
+
         {isGaleria && <meta name="robots" content="noindex, nofollow" />}
         
         {!isGaleria && (
@@ -319,5 +319,110 @@ const isGaleria = Astro.url.pathname.includes('/galeria');
             });
         });
     </script>
+    <!-- ========================================== -->
+<!-- AVISO DE COOKIES NATIVO                    -->
+<!-- ========================================== -->
+
+<!-- 1. El HTML del cartel -->
+<div id="cookie-banner" class="cookie-banner">
+  <p>
+    Usamos cookies para mejorar tu experiencia en nuestro diario de viaje y analizar el tráfico. Al continuar navegando, aceptás nuestro uso de cookies.
+  </p>
+  <button id="accept-cookies" class="cookie-btn">Aceptar y cerrar</button>
+</div>
+
+<!-- 2. Los estilos CSS para que se vea profesional -->
+<style>
+  .cookie-banner {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #1a1a1a; /* Fondo oscuro elegante */
+    color: #f1f1f1;
+    padding: 15px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 99999;
+    font-family: inherit;
+    box-sizing: border-box;
+    /* Esto lo oculta inicialmente hacia abajo */
+    transform: translateY(100%);
+    transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: 0 -4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Clase que se agrega por JS para mostrar el cartel */
+  .cookie-banner.show {
+    transform: translateY(0);
+  }
+
+  .cookie-banner p {
+    margin: 0;
+    font-size: 0.9rem;
+    line-height: 1.4;
+    flex: 1;
+    padding-right: 20px;
+  }
+
+  .cookie-btn {
+    background-color: #ffffff;
+    color: #1a1a1a;
+    border: none;
+    padding: 10px 24px;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 0.9rem;
+    border-radius: 4px;
+    white-space: nowrap;
+    transition: background-color 0.2s ease;
+  }
+
+  .cookie-btn:hover {
+    background-color: #e0e0e0;
+  }
+
+  /* Adaptación para celulares */
+  @media (max-width: 768px) {
+    .cookie-banner {
+      flex-direction: column;
+      text-align: center;
+      padding: 20px 15px;
+    }
+    .cookie-banner p {
+      padding-right: 0;
+      margin-bottom: 15px;
+    }
+    .cookie-btn {
+      width: 100%;
+    }
+  }
+</style>
+
+<!-- 3. La lógica JavaScript para recordar la decisión -->
+<script is:inline>
+  document.addEventListener("DOMContentLoaded", () => {
+    const banner = document.getElementById("cookie-banner");
+    const acceptBtn = document.getElementById("accept-cookies");
+
+    // Revisamos si el usuario ya aceptó antes
+    if (!localStorage.getItem("cookies_accepted")) {
+      // Le damos un pequeño delay para que suba suavemente al cargar la web
+      setTimeout(() => {
+        banner.classList.add("show");
+      }, 500);
+    }
+
+    // Qué pasa cuando hace clic en "Aceptar"
+    acceptBtn.addEventListener("click", () => {
+      // Guardamos la decisión en el navegador del usuario
+      localStorage.setItem("cookies_accepted", "true");
+      // Ocultamos el cartel bajándolo de nuevo
+      banner.classList.remove("show");
+    });
+  });
+</script>
+<!-- ========================================== -->
     </body>
 </html>
