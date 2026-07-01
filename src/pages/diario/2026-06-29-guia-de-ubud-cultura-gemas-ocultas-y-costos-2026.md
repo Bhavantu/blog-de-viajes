@@ -53,9 +53,9 @@ Esta es la que queda "más al norte" y es muchísimo menos turística. Es, de he
 
 ## 2. Cascadas: El refugio para el calor de Ubud
 
-Hay muchísimas opciones de cascadas en los alrededores de Ubud y son un excelente punto para refrescarse después de una caminata bajo el sol. La hora en que vayas es siempre un factor clave en relación a la cantidad de turistas, pero desde mi punto de vista son siempre disfrutables. Eso sí: aunque suelen tener mantenimiento y escalones de acceso, tené en cuenta que después de la lluvia suele haber bastante barro y zonas resbaladizas (no es grave, solo precaución).
-
 <div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/cascada-ulu-petanu-ubud.jpeg" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+
+Hay muchísimas opciones de cascadas en los alrededores de Ubud y son un excelente punto para refrescarse después de una caminata bajo el sol. La hora en que vayas es siempre un factor clave en relación a la cantidad de turistas, pero desde mi punto de vista son siempre disfrutables. Eso sí: aunque suelen tener mantenimiento y escalones de acceso, tené en cuenta que después de la lluvia suele haber bastante barro y zonas resbaladizas (no es grave, solo precaución).
 
 Aunque hay decenas de opciones, acá te dejamos las tres que más nos recomendaron los locales que fuimos encontrando en el camino:
 
@@ -148,4 +148,12 @@ Si queres leer más informacion sobre la cultura de Bali te recomiendo leer: [El
 
 Si estas planificando tu viaje y querés [información actualizada sobre Bali como lugares, visas piques y transportes podes leer Viajar a Bali en 2026 click acá](https://blogcito.com/diario/2026-06-18-bali-bby-1/)
 
-*Nota de la editora: Estimado lector/lectora recuerden que los precios y regulaciones en Bali fluctúan según la temporada y las actualizaciones de las administraciones locales de cada regencia. Lleven siempre efectivo en rupias indonesias (IDR) ya que en muchos templos y cascadas no se aceptan tarjetas de crédito. Desde ya gracias por leer.*
+*Nota de la editora: Estimado lector/lectora recuerden que los precios y regulaciones en Bali fluctúan según la temporada y las actualizaciones de las administraciones locales de cada regencia. Se recomienda llevar siempre efectivo en rupias indonesias (IDR) ya que en muchos templos y cascadas no se aceptan tarjetas de crédito.* 
+
+## **Donde quedarse en Ubud**
+
+Probamos varias opciones, pero creo que tengo una recomendación solida para quienes quieran disfrutar la tradicional calma de los arrozales, conocer la ciudad y estar cerca de las diferentes zonas por visitar. Si bien quedarse en el centro es una opción fácil ya que puedes ir a diferentes restaurantes y espectáculos caminando hay que decir que es una zona muy turística y muy habitada. Si eligiera de nuevo seguramente iría por la segunda zona en la que nos quedamos, en las afueras un poco hacia el noreste, antes de Tegalalang a solo 10 minutos de Ubud central y  Existen varias zonas alrededor en las afueras que tienen zonas tranquilas y hermosas. la otra ventaja es que al salir no perderás tiempo trancado en el tráfico dentro de la ciudad (es un gran dato a tener en cuenta). A continuación podrás ver el mapa con diferentes opciones cerca de la zona de referencia.
+
+<iframe id="stay22-widget" width="100%" height="428" src="https://stay22.com/embed/6a4496f5198cff107e57ca30" frameborder="0"></iframe>
+
+Desde ya gracias por leer y buena vida!!
