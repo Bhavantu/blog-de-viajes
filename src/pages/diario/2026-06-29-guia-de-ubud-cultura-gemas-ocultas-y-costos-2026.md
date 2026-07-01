@@ -81,7 +81,7 @@ Los templos son lugares espectaculares y sagrados para la población local, por 
 
 * **Vestimenta adecuada:** Siempre tenés que llevar las rodillas y los hombros cubiertos. Un *sarong* (la tela tradicional que se amarra como falda) es obligatorio.
 * **Respeto al entorno:** Mantener el silencio y respetar el espacio como lo que es: un lugar de oración y conexión espiritual activa.
-* **La regla de la menstruación:** En los ingresos vas a ver carteles que restringen la entrada de mujeres durante su período. En la cosmología hindú balinesa, esto se debe al concepto de *sebel* (un estado de vulnerabilidad espiritual o impureza ritual temporal relacionado con la sangre). No se plantea como una discriminación hacia la mujer, sino como una norma de equilibrio energético y pureza del espacio sagrado que los balineses respetan con rigurosidad.
+* **La regla de la menstruación:** En los ingresos hay carteles que restringen la entrada de mujeres durante la menstruación. Cosa que me chocó bastante, pero leyendo la explciación para estas vinculada al concepto de *sebel* de la cosmología hindú balinesa, el cual se enciende como un estado de vulnerabilidad espiritual o impureza ritual temporal relacionado con la sangre. Se plantea como una norma de equilibrio energético y pureza del espacio sagrado que se respeta con rigurosidad.
 
 ## El Ritual de Purificación (Melukat)
 
@@ -139,9 +139,9 @@ La famoso "Selfie con el mono": la famosa foto donde parece que el mono sostiene
 
 ## 7. Palacio de Ubud (Puri Saren Agung): El corazón de la realeza balinesa
 
-Situado en  la esquina de Jalan Raya Ubud y Jalan Monkey Forest, frente al mercado de arte tradicional, el Palacio de Ubud es el epicentro geográfico e histórico de la ciudad. Construido durante el reinado de Ida Tjokorda Putu Kandel (1800-1823), todavía sirve como residencia oficial para la familia real de Ubud, por lo que solo se puede recorrer su patio exterior público y sus intrincados portales tallados en piedra y decorados con hojas de oro.
+Situado en la esquina de Jalan Raya Ubud y Jalan Monkey Forest, frente al mercado de arte tradicional, el Palacio de Ubud es el epicentro geográfico e histórico de la ciudad. Construido durante el reinado de Ida Tjokorda Putu Kandel (1800-1823), todavía sirve como residencia oficial para la familia real de Ubud, por lo que solo se puede recorrer su patio exterior público y sus intrincados portales tallados en piedra y decorados con hojas de oro.
 
-* **Visita diurna:** La entrada es completamente **gratuita** durante el día (de 8:00 AM a 5:00 PM). Se recorre rápido, en unos 15 o 30 minutos, pero es una parada genial para contemplar de cerca la maravillosa arquitectura de la corte balinesa clásica.
+* **Visita diurna:** La entrada es completamente **gratuita** durante el día (de 8:00 AM a 5:00 PM). Se recorre rápido, en unos 10, 15 minutos,  creo que es una parada práctica ya que está en el centro de la ciudad y permite contemplar de cerca la maravillosa arquitectura de la corte balinesa clásica, además adentro cuenta con un restaurante. 
 * **Espectáculos nocturnos:** Todas las noches, a partir de las 7:00 PM, el patio principal se transforma en un escenario iluminado por antorchas para dar lugar a las danza tradicional balinesa de las mujeres *Legong*.
 
 Si queres leer más informacion sobre la cultura de Bali te recomiendo leer: [El alma de Bali: Rituales, la familia y el secreto de la felicidad balinesa](https://blogcito.com/diario/2026-06-23-el-alma-de-bali-rituales-la-familia-y-el-secreto-de-la-felicidad-balinesa/)
