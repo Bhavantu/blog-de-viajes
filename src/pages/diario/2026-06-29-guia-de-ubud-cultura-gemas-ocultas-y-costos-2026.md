@@ -139,9 +139,9 @@ La famoso "Selfie con el mono": la famosa foto donde parece que el mono sostiene
 
 ## 7. Palacio de Ubud (Puri Saren Agung): El corazón de la realeza balinesa
 
-Situado en  la esquina de Jalan Raya Ubud y Jalan Monkey Forest, frente al mercado de arte tradicional, el Palacio de Ubud es el epicentro geográfico e histórico de la ciudad. Construido durante el reinado de Ida Tjokorda Putu Kandel (1800-1823), todavía sirve como residencia oficial para la familia real de Ubud, por lo que solo se puede recorrer su patio exterior público y sus intrincados portales tallados en piedra y decorados con hojas de oro.
+Situado en la esquina de Jalan Raya Ubud y Jalan Monkey Forest, frente al mercado de arte tradicional, el Palacio de Ubud es el epicentro geográfico e histórico de la ciudad. Construido durante el reinado de Ida Tjokorda Putu Kandel (1800-1823), todavía sirve como residencia oficial para la familia real de Ubud, por lo que solo se puede recorrer su patio exterior público y sus intrincados portales tallados en piedra y decorados con hojas de oro.
 
-* **Visita diurna:** La entrada es completamente **gratuita** durante el día (de 8:00 AM a 5:00 PM). Se recorre rápido, en unos 15 o 30 minutos, pero es una parada genial para contemplar de cerca la maravillosa arquitectura de la corte balinesa clásica.
+* **Visita diurna:** La entrada es completamente **gratuita** durante el día (de 8:00 AM a 5:00 PM). Se recorre rápido, en unos 10, 15 minutos,  creo que es una parada práctica ya que está en el centro de la ciudad y permite contemplar de cerca la maravillosa arquitectura de la corte balinesa clásica, además adentro cuenta con un restaurante. 
 * **Espectáculos nocturnos:** Todas las noches, a partir de las 7:00 PM, el patio principal se transforma en un escenario iluminado por antorchas para dar lugar a las danza tradicional balinesa de las mujeres *Legong*.
 
 Si queres leer más informacion sobre la cultura de Bali te recomiendo leer: [El alma de Bali: Rituales, la familia y el secreto de la felicidad balinesa](https://blogcito.com/diario/2026-06-23-el-alma-de-bali-rituales-la-familia-y-el-secreto-de-la-felicidad-balinesa/)
