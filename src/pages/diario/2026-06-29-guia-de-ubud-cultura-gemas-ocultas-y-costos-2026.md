@@ -7,7 +7,6 @@ pais: Indonesia
 description: "Viví la magia de Ubud: Descubrí sus arrozales, rituales de
   purificación sagrados, templos y cascadas en nuestra guía práctica. "
 main_image: /img/diario/UBUD24.webp
-stay22_widget: "6a4496f5198cff107e57ca30"
 ---
 Desde que llegamos a Ubud, cada parte de su aura comenzó a deleitarnos: desde sus construcciones increíbles que parecen templos en todas partes, hasta sus *penjors* —esas artesanías de bambú que cuelgan afuera de las casas en esta época del año—. La gente atenta y amable sonreía por las calles y, en los pequeños callejones, los niños paseaban en bicicleta de acá para allá entre risas y gritos.
 
@@ -154,5 +153,9 @@ Si estas planificando tu viaje y querés [información actualizada sobre Bali co
 ## **Donde quedarse en Ubud**
 
 Probamos varias opciones, pero creo que tengo una recomendación solida para quienes quieran disfrutar la tradicional calma de los arrozales, conocer la ciudad y estar cerca de las diferentes zonas por visitar. Si bien quedarse en el centro es una opción fácil ya que puedes ir a diferentes restaurantes y espectáculos caminando hay que decir que es una zona muy turística y muy habitada. Si eligiera de nuevo seguramente iría por la segunda zona en la que nos quedamos, en las afueras un poco hacia el noreste, antes de Tegalalang a solo 10 minutos de Ubud central y  Existen varias zonas alrededor en las afueras que tienen zonas tranquilas y hermosas. la otra ventaja es que al salir no perderás tiempo trancado en el tráfico dentro de la ciudad (es un gran dato a tener en cuenta). A continuación podrás ver el mapa con diferentes opciones cerca de la zona de referencia.
+
+<div class="stay22-inline-map" style="margin: 2rem 0; border-radius: 12px; overflow: hidden;">
+  <iframe id="stay22-widget" width="100%" height="428" src="https://stay22.com/embed/6a4496f5198cff107e57ca30" frameborder="0"></iframe>
+</div>
 
 Desde ya gracias por leer y buena vida!!
