@@ -66,15 +66,15 @@ const { frontmatter } = Astro.props;
   .text-column :global(a) {
     color: #1e4d3a !important; /* Verde Pino elegante */
     text-decoration: underline !important; /* Fuerza el subrayado */
-    text-decoration-color: #2a6f52 !important; /* Color del subrayado un toque más suave */
+    text-decoration-color: #50b768 !important; /* Color del subrayado un toque más suave */
     text-underline-offset: 4px; /* Separa la línea del texto para mejorar la lectura */
-    font-weight: 500; /* Le da cuerpo a la tipografía del enlace */
+    font-weight: 700 !important; /* Le da cuerpo a la tipografía del enlace */
     transition: color 0.2s ease, text-decoration-color 0.2s ease;
   }
 
   /* Efecto al pasar el cursor (hover) */
   .text-column :global(a:hover) {
     color: #2a6f52 !important; /* Cambia a un verde ligeramente más vivo */
-    text-decoration-color: #1e4d3a !important; /* El subrayado se oscurece */
+    text-decoration-color: #50b768 !important; /* El subrayado se oscurece */
   }
 </style>
