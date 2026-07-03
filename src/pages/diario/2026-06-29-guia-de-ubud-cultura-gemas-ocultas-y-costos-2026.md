@@ -10,17 +10,17 @@ main_image: /img/diario/UBUD24.webp
 ---
 Desde que llegamos a Ubud, cada parte de su aura comenzó a deleitarnos: desde sus construcciones increíbles que parecen templos en todas partes, hasta sus *penjors* —esas artesanías de bambú que cuelgan afuera de las casas en esta época del año—. La gente atenta y amable sonreía por las calles y, en los pequeños callejones, los niños paseaban en bicicleta de acá para allá entre risas y gritos.
 
-Desde el comienzo nos pareció que acá había un aura diferente: sí, es turística, pero también más tranquila. La gente te mira a los ojos y se detiene en la calle para preguntarte: *¿cómo estás?* Así fue como Ubud se convirtió en nuestra base por un período.
+Desde el comienzo nos pareció que acá había un aura diferente: sí, es turística, pero también más tranquila. La gente te mira a los ojos y se detiene en la calle para preguntarte: *¿cómo estás?* Así fue como Ubud se convirtió en nuestra base por un período de 10 días.
 
 ## Datos prácticos:
 
-Ubud, ubicado entre las montañas centrales de Bali, es una zona que combina lo turístico y lo local a la perfección. El centro está lleno de restaurantes y experiencias orientadas al turismo, pero también se encuentran muchos *warungs* (pequeños negocios familiares) y *guest houses* gestionados por la población local, siempre dispuesta a compartir sus prácticas y su cultura.
+Ubud, esta ubicado entre las montañas centrales de Bali, es una zona que combina lo turístico y lo local a la perfección. El centro está lleno de restaurantes y experiencias orientadas al turismo, pero también se encuentran muchos *warungs* (pequeños negocios familiares) y *guest houses* gestionados por la población local, siempre dispuesta a compartir sus prácticas y su cultura.
 
 Las actividades en Ubud son casi infinitas, y los conductores dispuestos a mostrarte un recorrido por los diferentes puntos también. La verdad es que encontrar un conductor de confianza y pasar por varios puntos en un día con un guía local es una gran opción, sobre todo si tenés un tiempo reducido de viaje.
 
 ## Cosas épicas que hacer en Ubud
 
-Ubud combina lo auténtico y lo turístico. Acá van mis recomendaciones basadas en lo que realmente disfruté durante mi estadía:
+Ubud combina lo auténtico y lo turístico. Acá van mis recomendaciones basadas en lo que realmente disfrutamos durante nuestra estadía:
 
 ## 1. Las terrazas de arroz y el sistema Subak
 
@@ -40,6 +40,8 @@ Es la más popular y turística. Sus vistas son igualmente hermosas. Se encuentr
 * **Costos de entrada:** Cuesta unos **25.000 IDR** (pago oficial del gobierno de Indonesia donde te entregan una pulsera de acceso).
 * **Donaciones en el camino:** En algunos puntos del recorrido hay "puestos de donación" locales (suele sugerirse dejar unos 10.000 IDR) para colaborar con el mantenimiento de los puentes y caminos que gestionan y reparan los propios agricultores.
 * **Cuándo ir:** Las vistas son espectaculares y se puede hacer el camino durante todo el año. Existe un trail señalizado y diferentes entradas. Además, las actividades turísticas en esta zona son múltiples, como los famosos columpios (*swings*) y las bicicletas colgantes, cuyos precios varían entre 150.000 y 350.000 IDR.
+
+[Podés reservar tu visita con guía y fotos en los arrozales aquí ](https://www.getyourguide.com/es-es/bali-l347/ubud-entrada-a-la-terraza-de-arroz-y-columpio-de-tegallalang-con-guia-t456886/?ranking_uuid=7604d510-5b5f-40f0-9755-6444cd1b50c4)
 
 <div class="post-img-box img-completo img-centro"><img src="/img/diario/UBUD10.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
@@ -136,6 +138,8 @@ Este santuario se rige por el concepto de *Tri Hita Karana* (la armonía entre l
  <div class="post-img-box img-completo img-centro"><img src="/img/diario/UBUD26.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 La famoso "Selfie con el mono": la famosa foto donde parece que el mono sostiene el celular. Tenés que comprar un voucher de fotografía adentro (los cupos son limitados por tanda) y ellos se encargan de guiar al animal de manera segura usando pequeños trozos de fruta, se hace únicamente bajo supervisión del personal capacitado de la reserva y es muy gracioso de ver.
+
+[Reservá un guía en español, italiano o inglés para varios de los puntos seleccionados con traslados, entradas y almuerzo incluido haciendo click acá](https://www.getyourguide.com/es-es/ubud-l32246/tour-por-ubud-con-guia-opcional-en-ingles-espanol-e-italiano-t895337?ranking_uuid=7604d510-5b5f-40f0-9755-6444cd1b50c4&date_from=2026-07-08)
 
 ## 7. Palacio de Ubud (Puri Saren Agung): El corazón de la realeza balinesa
 
