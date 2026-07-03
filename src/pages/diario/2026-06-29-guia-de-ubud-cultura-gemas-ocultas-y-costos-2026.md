@@ -77,7 +77,7 @@ Muchas de estas plantaciones tienen la famosa experiencia del café "más caro d
 
 **Mi dilema ético:** La cuestión en términos del cuidado y las condiciones de vida de estos animales sigue siendo un gran misterio para mí. Aunque te digan que los granos son de origen silvestre, la alta demanda turística generó que en muchas plantaciones mantengan a los luwaks en jaulas muy estrechas para forzarlos a comer únicamente café. Creo que un posible camino ético, si decidís probarlo, es investigar bien el lugar y evitar fomentar los sitios donde veas animales en cautiverio con fines de exhibición.
 
-Aún así existen lugares como Lokasari Agrowisata quienes ofrecen una interesante [experiencia cultural y artesanal y ética en sus campos de plantación de café, producción organica de te de hiervas y miel. El tour no ofrece traslado.](https://www.getyourguide.com/sidemen-village-l92066/lokasari-tour-por-una-plantacion-de-cafe-te-de-hierbas-y-miel-pura-t1040405?ranking_uuid=36029e36-77dd-4afa-b226-b241f7e7449b&q=Tours+sobre+caf%C3%A9,+Bali&date_from=2026-07-10)
+Aún así existen lugares como Lokasari Agrowisata quienes ofrecen una interesante [experiencia cultural, artesanal y ética en sus campos de plantación de café, producción organica de té de hiervas y miel. El tour no ofrece traslado.](https://www.getyourguide.com/sidemen-village-l92066/lokasari-tour-por-una-plantacion-de-cafe-te-de-hierbas-y-miel-pura-t1040405?ranking_uuid=36029e36-77dd-4afa-b226-b241f7e7449b&q=Tours+sobre+caf%C3%A9,+Bali&date_from=2026-07-10)
 
 ## 4. Templos: Reglas de respeto y el Ritual de Purificación
 
