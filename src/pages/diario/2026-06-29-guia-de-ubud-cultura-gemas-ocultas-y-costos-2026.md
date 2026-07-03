@@ -75,6 +75,8 @@ Muchas de estas plantaciones tienen la famosa experiencia del café "más caro d
 
 **Mi dilema ético:** La cuestión en términos del cuidado y las condiciones de vida de estos animales sigue siendo un gran misterio para mí. Aunque te digan que los granos son de origen silvestre, la alta demanda turística generó que en muchas plantaciones mantengan a los luwaks en jaulas muy estrechas para forzarlos a comer únicamente café. Creo que un posible camino ético, si decidís probarlo, es investigar bien el lugar y evitar fomentar los sitios donde veas animales en cautiverio con fines de exhibición.
 
+Aún así existen lugares como Lokasari Agrowisata quienes ofrecen una interesante [experiencia cultural y artesanal y ética en sus campos de plantación de café, producción organica de te de hiervas y miel. El tour no ofrece traslado.](https://www.getyourguide.com/sidemen-village-l92066/lokasari-tour-por-una-plantacion-de-cafe-te-de-hierbas-y-miel-pura-t1040405?ranking_uuid=36029e36-77dd-4afa-b226-b241f7e7449b&q=Tours+sobre+caf%C3%A9,+Bali&date_from=2026-07-10)
+
 ## 4. Templos: Reglas de respeto y el Ritual de Purificación
 
 La población de la vecina isla de Java suele llamar a Bali "la isla de los mil templos", y no es ningún chiste: en cada aldea vas a encontrar al menos un templo público, además de los pequeños santuarios familiares que tiene cada casa en su patio.
@@ -101,6 +103,8 @@ Para hacer este ritual de forma respetuosa y correcta, es sumamente necesario co
   * **Casilleros (Lockers):** Para dejar tus pertenencias secas mientras estás en el agua, el alquiler cuesta de **10.000 a 15.000 IDR** por persona.
   * **Ofrendas (Canang Sari):** Son los pequeños canastos de hojas de palma con flores y sahumerios que se presentan antes de entrar al agua. Tienen un costo de unos **10.000 a 20.000 IDR** (generalmente las facilita el guía).
 * **Total estimado de la experiencia:** Calculá entre **200.000 y 250.000 IDR** (unos 13-16 USD) para realizar toda la ceremonia de purificación guiada, respetuosa y completa, incluyendo entradas, alquileres y ofrendas.
+
+Una opción que nos parece razonable después de nuestra experiencia, para evitar romper con la mística del momento es contratar previamente un tour que tenga todo incluido. [Te recomendamos este tour que incluye el ritual, las entradas, los costos añadidos y además podés conocer las terrazas de Jatiluwih (Las menos turísticas)  ](https://www.getyourguide.com/es-es/jatiluwih-l88105/bali-tour-por-las-terrazas-arroceras-de-jatiluwih-y-purificacion-del-agua-t1327978/?ranking_uuid=7a0f57c5-f655-4f07-ba90-7c8c509de41d&q=Terraza+de+arroz+de+Jatiluwih&date_from=2026-07-08&date_to=2026-07-08)
 
 ## 5. Danza tradicional: El poder del Kecak y la elegancia del Legong
 
