@@ -160,7 +160,7 @@ Situado en la esquina de Jalan Raya Ubud y Jalan Monkey Forest, frente al merca
 
 Si queres leer más informacion sobre la cultura de Bali te recomiendo leer: [El alma de Bali: Rituales, la familia y el secreto de la felicidad balinesa](https://blogcito.com/diario/2026-06-23-el-alma-de-bali-rituales-la-familia-y-el-secreto-de-la-felicidad-balinesa/)
 
-Si estas planificando tu viaje y querés [información actualizada sobre Bali como lugares, visas piques y transportes podes leer Viajar a Bali en 2026 click acá](https://blogcito.com/diario/2026-06-18-bali-bby-1/)
+Si estas planificando tu viaje y querés información actualizada sobre Bali como: [lugares, visas ,piques y transportes podes leer Viajar a Bali en 2026, click acá](https://blogcito.com/diario/2026-06-18-bali-bby-1/)
 
 *Nota de la editora: Estimado lector/lectora recuerden que los precios y regulaciones en Bali fluctúan según la temporada y las actualizaciones de las administraciones locales de cada regencia. Se recomienda llevar siempre efectivo en rupias indonesias (IDR) ya que en muchos templos y cascadas no se aceptan tarjetas de crédito.* 
 
