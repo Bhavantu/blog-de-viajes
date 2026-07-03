@@ -423,15 +423,28 @@ const isGaleria = Astro.url.pathname.includes('/galeria');
     });
   });
 </script>
+
 <!-- ========================================== -->
- <!-- ========================================== -->
-    <!-- WIDGET FLOTANTE DE KO-FI                   -->
+    <!-- WIDGET FLOTANTE DE KO-FI MULTILINGÜE       -->
     <!-- ========================================== -->
     <script is:inline src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
     <script is:inline>
+      // 1. Detectamos el idioma del navegador del lector
+      const userLang = navigator.language || navigator.userLanguage;
+      
+      // 2. Elegimos el texto según el idioma
+      let buttonText = 'Support me'; // Texto por defecto (para inglés y resto del mundo)
+      
+      if (userLang.startsWith('es')) {
+        buttonText = 'Apoyar el blog'; // Si su navegador está en español
+      } else if (userLang.startsWith('pt')) {
+        buttonText = 'Apoiar o blog'; // Si su navegador está en portugués
+      }
+
+      // 3. Dibujamos el botón con el texto dinámico
       kofiWidgetOverlay.draw('blogcito', {
         'type': 'floating-chat',
-        'floating-chat.donateButton.text': 'Apoyar el Blog',
+        'floating-chat.donateButton.text': buttonText,
         'floating-chat.donateButton.background-color': '#323842',
         'floating-chat.donateButton.text-color': '#fff'
       });
