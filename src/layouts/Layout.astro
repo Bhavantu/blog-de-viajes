@@ -424,5 +424,17 @@ const isGaleria = Astro.url.pathname.includes('/galeria');
   });
 </script>
 <!-- ========================================== -->
+ <!-- ========================================== -->
+    <!-- WIDGET FLOTANTE DE KO-FI                   -->
+    <!-- ========================================== -->
+    <script is:inline src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+    <script is:inline>
+      kofiWidgetOverlay.draw('blogcito', {
+        'type': 'floating-chat',
+        'floating-chat.donateButton.text': 'Apoyar el blogcito',
+        'floating-chat.donateButton.background-color': '#323842',
+        'floating-chat.donateButton.text-color': '#fff'
+      });
+    </script>
     </body>
 </html>
