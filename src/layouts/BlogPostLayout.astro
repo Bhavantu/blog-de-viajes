@@ -1,10 +1,8 @@
 ---
 import Layout from './Layout.astro';
 
-// 1. Extraemos la información del post y los "headings" (títulos) sin duplicar
 const { frontmatter, headings } = Astro.props;
 
-// 2. Filtramos para mostrar solo los H2 (Títulos) y H3 (Subtítulos)
 const indices = headings ? headings.filter((h: any) => h.depth === 2 || h.depth === 3) : [];
 ---
 
@@ -92,7 +90,7 @@ const indices = headings ? headings.filter((h: any) => h.depth === 2 || h.depth 
      ESTILOS PARA LOS TÍTULOS DEL MARKDOWN (H2, H3, H4)
      ============================================================ */
   .text-column :global(h2) {
-    font-family: var(--font-display); /* Usa tu tipografía elegante de los títulos */
+    font-family: var(--font-display);
     font-size: 2rem;
     font-weight: normal;
     color: var(--text-color, #333);
@@ -119,22 +117,19 @@ const indices = headings ? headings.filter((h: any) => h.depth === 2 || h.depth 
     margin-bottom: 0.8rem;
   }
   
-  /* Separación para los párrafos normales */
   .text-column :global(p) {
     margin-bottom: 1.5rem;
   }  
 
-  /* 1. ENLACES DENTRO DEL TEXTO DEL POST */
   .text-column :global(a:not(.hover-verde):not(.indice-item a)) {
-    color: #333 !important; /* Color gris oscuro elegante por defecto */
+    color: #333 !important;
     text-decoration: underline !important; 
-    text-decoration-color: #ccc !important; /* Subrayado sutil */
+    text-decoration-color: #ccc !important;
     text-underline-offset: 4px; 
     font-weight: 700 !important; 
     transition: all 0.3s ease;
   }
 
-  /* Efecto al pasar el cursor (hover) - UNIFICADO AL VERDE ESMERALDA */
   .text-column :global(a:not(.hover-verde):not(.indice-item a):hover) {
     color: #006d77 !important; 
     text-decoration-color: #006d77 !important; 

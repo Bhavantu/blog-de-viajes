@@ -3,7 +3,6 @@ const { isTransparent = false } = Astro.props;
 ---
 
 <div class={isTransparent ? "header-wrapper transparente" : "header-wrapper solido"}>
-    <!-- ACÁ USAMOS EXACTAMENTE TU HTML ORIGINAL -->
     <header class="site-header">
         <h1><a href="/">BLOGCITO</a></h1>
         
@@ -28,14 +27,12 @@ const { isTransparent = false } = Astro.props;
 </div>
 
 <style>
-    /* 1. Comportamiento del contenedor principal */
     .header-wrapper {
         width: 100%;
         z-index: 50;
         transition: all 0.3s ease;
     }
     
-    /* 2. Cuando está sobre la imagen (Inicio y Diario) */
     .header-wrapper.transparente {
         position: absolute;
         top: 0;
@@ -43,24 +40,21 @@ const { isTransparent = false } = Astro.props;
         background: transparent;
     }
 
-    /* 3. Cuando está en artículos comunes (Resto de páginas) */
     .header-wrapper.solido {
         position: relative;
         background: var(--bg-color, #fcfcfc);
         border-bottom: 1px solid #eee;
     }
 
-    /* 4. Forzamos el color blanco y las sombras SOLO cuando está transparente */
     .header-wrapper.transparente .site-header h1 a,
     .header-wrapper.transparente .menu-toggle,
     .header-wrapper.transparente nav a,
     .header-wrapper.transparente .btn-buscar svg {
         color: #ffffff !important;
-        text-shadow: 0 2px 4px rgba(0,0,0,0.5); /* Sombrita para que se lea sobre la foto */
+        text-shadow: 0 2px 4px rgba(0,0,0,0.5);
     }
 
-    /* Efecto al pasar el mouse en modo transparente */
     .header-wrapper.transparente nav a:hover {
-        color: #fde68a !important; /* Un tono ámbar suave */
+        color: #fde68a !important; 
     }
 </style>
