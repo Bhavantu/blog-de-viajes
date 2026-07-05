@@ -45,6 +45,21 @@ const isGaleria = Astro.url.pathname.includes('/galeria');
         )}
         
         <script is:inline src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
+                <!-- Datos estructurados para ayudar a generar Sitelinks -->
+        <script type="application/ld+json" is:inline>
+        {
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            "name": "BLOGCITO",
+            "url": "https://blogcito.com",
+            "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://blogcito.com/?search={search_term_string}",
+            "query-input": "required name=search_term_string"
+            }
+        }
+        </script>
     </head>
     <body>
         <!-- 3. ¡INYECTAMOS EL MENÚ ACÁ! Justo arriba del slot -->
@@ -52,12 +67,10 @@ const isGaleria = Astro.url.pathname.includes('/galeria');
 
         <slot />
 
-        <style is:global>
-/* ... ACÁ SIGUE TODO TU CÓDIGO CSS Y SCRIPTS EXACTAMENTE COMO LO TENÍAS ... */
 
-        <style is:global>
+     <style is:global>
             :root {
-                --bg-color: #f4f1ea;;
+                --bg-color: #f4f1ea;
                 --text-color: #333;
                 --accent-color: #888;
                 --font-main: 'Helvetica Neue', Helvetica, Arial, sans-serif;

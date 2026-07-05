@@ -23,8 +23,7 @@ interface Props {
 const { page } = Astro.props;
 ---
 
-<Layout title={`Diario de Viaje - Página ${page.currentPage}`} isTransparentHeader={true}>
-  
+<Layout title={`Diario de Viaje - Página ${page.currentPage}`} description="Explorá nuestro diario de viaje. Una colección de crónicas honestas, relatos de ruta, guías prácticas y fotografías inspiradoras de nuestras aventuras por el mundo." isTransparentHeader={true}>  
   <Hero 
     title="Diario de Viaje" 
     description="Todas nuestras crónicas, guías y relatos en un solo lugar."
