@@ -1,23 +1,26 @@
 ---
+import '../styles/global.css';
+import Header from '../components/Header.astro';
+
 interface Props {
     title: string;
     description?: string;
+    isTransparentHeader?: boolean; /* <-- 1. ¡Acá autorizamos la variable para borrar la línea roja! */
 }
 
 const posts = import.meta.glob('../pages/diario/*.md', { eager: true });
 const searchData = Object.values(posts).map((post: any) => ({
     title: post.frontmatter.title || '',
     description: post.frontmatter.description || '',
-    // Agregamos la línea para extraer el contenido completo del artículo
     content: typeof post.rawContent === 'function' ? post.rawContent().toLowerCase() : '',
     url: post.url
 }));
 
-const { title, description } = Astro.props;
+/* 2. Acá recibimos la variable y le damos "false" por defecto */
+const { title, description, isTransparentHeader = false } = Astro.props; 
 
 const metaDescription = description || "BLOGCITO - Bitácora de viaje, información útil y vida local alrededor del mundo.";
 
-// 1. Detectamos si el usuario está en la página de la galería
 const isGaleria = Astro.url.pathname.includes('/galeria');
 ---
 <!doctype html>
@@ -44,11 +47,17 @@ const isGaleria = Astro.url.pathname.includes('/galeria');
         <script is:inline src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     </head>
     <body>
+        <!-- 3. ¡INYECTAMOS EL MENÚ ACÁ! Justo arriba del slot -->
+        <Header isTransparent={isTransparentHeader} />
+
         <slot />
 
         <style is:global>
+/* ... ACÁ SIGUE TODO TU CÓDIGO CSS Y SCRIPTS EXACTAMENTE COMO LO TENÍAS ... */
+
+        <style is:global>
             :root {
-                --bg-color: #fcfcfc;
+                --bg-color: #f4f1ea;;
                 --text-color: #333;
                 --accent-color: #888;
                 --font-main: 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -73,7 +82,15 @@ const isGaleria = Astro.url.pathname.includes('/galeria');
             nav a:hover, nav a.active-link { color: var(--text-color); }
             nav a.active-link::after { content: ''; position: absolute; width: 100%; height: 1px; bottom: -5px; left: 0; background-color: var(--text-color); }
 
-            .hover-azul:hover { color: #0056b3 !important; }
+        /* ============================================================
+            NUEVO HOVER VERDE (Para títulos y Leer Más)
+            ============================================================ */
+            .hover-verde {
+                transition: color 0.3s ease;
+            }
+            .hover-verde:hover {
+                color: #006d77 !important;
+            }
 
             @media (max-width: 768px) {
                 .site-header { padding: 2rem; }
@@ -215,6 +232,72 @@ const isGaleria = Astro.url.pathname.includes('/galeria');
             .search-result-item h4 { margin: 0 0 0.4rem 0; color: #006d77; font-size: 1.1rem; }
             .search-result-item p { margin: 0; font-size: 0.9rem; color: #666; line-height: 1.4; }
             .search-result-item:hover h4 { text-decoration: underline; }
+
+            /* ============================================================
+            ESTILOS DE LA PAGINACIÓN CORREGIDOS
+            ============================================================ */
+            
+            .paginacion-container {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                gap: 2rem;
+                /* Forzamos el margen superior con !important para ganarle a cualquier otro div */
+                margin-top: 7rem !important; 
+                margin-bottom: 4rem;
+                width: 100%;
+                clear: both;
+            }
+
+            .btn-paginacion {
+                display: inline-block;
+                padding: 10px 20px;
+                border: 1px solid var(--text-color, #333);
+                border-radius: 6px;
+                text-decoration: none;
+                color: var(--text-color, #333);
+                font-size: 0.85rem;
+                text-transform: uppercase;
+                letter-spacing: 0.05em;
+                transition: all 0.3s ease;
+                background-color: transparent;
+            }
+
+            /* Hover verde esmeralda para los botones */
+            .btn-paginacion:hover {
+                background-color: #006d77 !important;
+                border-color: #006d77 !important;
+                color: #ffffff !important;
+            }
+
+            .btn-paginacion.disabled {
+                border-color: #ccc;
+                color: #aaa;
+                cursor: not-allowed;
+            }
+
+            .btn-paginacion.disabled:hover {
+                background-color: transparent !important;
+                color: #aaa !important;
+                border-color: #ccc !important;
+            }
+
+            .paginacion-info {
+                font-size: 0.85rem;
+                text-transform: uppercase;
+                letter-spacing: 0.1em;
+                color: #555;
+                font-weight: 500;
+            }
+
+            @media (max-width: 600px) {
+                .paginacion-container {
+                    flex-direction: column;
+                    gap: 1.5rem;
+                    margin-top: 5rem !important;
+                }
+            }
+
         </style>
 
         <script is:inline>

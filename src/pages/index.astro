@@ -1,5 +1,6 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import Hero from '../components/Hero.astro'; // <-- IMPORTANTE: Importamos el Hero
 
 const posts = import.meta.glob('./diario/*.md', { eager: true });
 const allPosts = Object.values(posts);
@@ -21,33 +22,20 @@ if (featuredPosts.length < 3) {
 }
 ---
 
-<Layout title="BLOGCITO - Inicio">
-    <header class="site-header">
-        <h1><a href="/">BLOGCITO</a></h1>
-        <button id="mobile-menu-btn" class="menu-toggle">☰</button>
-        <nav id="main-nav">
-        <ul class="nav-links">
-            <li><a href="/">Inicio</a></li>
-            <li><a href="/diario">Diario</a></li>
-            <li><a href="/nosotros">Nosotros</a></li>
-            
-            <!-- LUPA MINIMALISTA SVG -->
-            <li class="btn-buscar">
-                <a href="#" title="Buscar" style="display: flex; align-items: center; padding-top: 2px;">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                        <circle cx="11" cy="11" r="8"></circle>
-                        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
-                    </svg>
-                </a>
-            </li>
-        </ul>     
-        </nav>  
-    </header>
+<Layout title="BLOGCITO - Inicio" isTransparentHeader={true}>
 
-    <main class="container">
+    <!-- COMPONENTE HERO -->
+<Hero 
+        title="Conociendo otros Mundos" 
+        description="Crónicas, guías y fotografías de nuestros viajes."
+        bgImage="/img/diario/UBUD8.webp" 
+    />
+
+    <!-- CONTENIDO PRINCIPAL (Tu grilla exacta sin tocar) -->
+    <main class="container mx-auto px-4 pt-16">
         
         <div style="display: flex; align-items: center; margin-bottom: 3rem; border-bottom: 1px solid #eee; padding-bottom: 1rem;">
-            <h2 style="margin: 0; font-size: 1.5rem; font-weight: normal; letter-spacing: 0.05em; text-transform: uppercase; color: var(--text-color, #333);">Artículos Destacados</h2>
+            <h2 style="margin: 0; font-size: 1.5rem; font-weight: normal; letter-spacing: 0.05em; text-transform: uppercase; color: var(--text-color, #333);"></h2>
         </div>
 
         <div id="grilla-portada-segura">
@@ -74,7 +62,7 @@ if (featuredPosts.length < 3) {
                     </div>
                     
                     <h3 class="titulo-portada">
-                        <a href={post.url} class="hover-azul">
+                        <a href={post.url} class="hover-verde">
                             {post.frontmatter.title}
                         </a>
                     </h3>
@@ -84,7 +72,7 @@ if (featuredPosts.length < 3) {
                     </p>
 
                     <div class="btn-leer-mas-portada">
-                        <a href={post.url} class="hover-azul">
+                        <a href={post.url} class="hover-verde">
                             Leer más &rarr;
                         </a>
                     </div>
@@ -156,8 +144,11 @@ if (featuredPosts.length < 3) {
         letter-spacing: 1px;
         transition: all 0.3s ease;
     }
-    .btn-ver-mas-global:hover { background-color: var(--text-color, #333); color: var(--bg-color, #fff); }
-
+    .btn-ver-mas-global:hover {
+        background-color: #006d77 !important; /* Fondo verde esmeralda */
+        border-color: #006d77 !important;     /* Borde verde esmeralda */
+        color: #ffffff !important;            /* Texto blanco */
+    }
     /* MODO CELULAR (Pasa a 1 columna automáticamente) */
     @media (max-width: 800px) {
         #grilla-portada-segura {

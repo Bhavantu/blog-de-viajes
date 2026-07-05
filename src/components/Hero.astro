@@ -1,0 +1,34 @@
+---
+const { 
+  title = "", 
+  subtitle = "", 
+  description = "", 
+  bgImage = "" 
+} = Astro.props;
+---
+
+<div 
+  class="relative w-full h-[60vh] md:h-[75vh] flex items-center justify-center bg-cover bg-center"
+  style={`background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5)), url('${bgImage}');`}
+>
+  <div class="text-center text-white px-4 max-w-3xl z-10 flex flex-col items-center">
+    
+    {/* El subtítulo ahora es condicional. Si está vacío, no ocupa espacio. */}
+    {subtitle && (
+      <span class="text-xs md:text-sm tracking-[0.3em] uppercase font-semibold text-gray-200 block mb-3">
+        {subtitle}
+      </span>
+    )}
+    
+    <h1 class="text-4xl md:text-6xl font-bold tracking-tight mb-4 font-serif text-white">
+      {title}
+    </h1>
+    
+    {description && (
+      <p class="text-base md:text-lg text-gray-100 max-w-xl mx-auto font-light leading-relaxed">
+        {description}
+      </p>
+    )}
+
+  </div>
+</div>
