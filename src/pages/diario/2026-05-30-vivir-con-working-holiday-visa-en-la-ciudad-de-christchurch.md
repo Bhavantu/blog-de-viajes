@@ -7,7 +7,7 @@ tag: vida local
 pais: Nueva Zelanda
 description: "Viví 6 meses en Christchurch con la Working Holiday y fue un gran
   acierto. Te cuento cómo es vivir ahí: costo de vida, trabajo y seguridad."
-main_image: /img/diario/chrischurch.jpeg
+main_image: /img/diario/chrischurch.webp
 ---
 **En este articulo comparto mi experiencia viviendo 6 meses en Christchurch en 2026.**
 
