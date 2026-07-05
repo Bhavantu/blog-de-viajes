@@ -32,6 +32,8 @@ Si venís de la Isla Norte como nosotros, el ferry te deja en Picton. Luego de u
 
 ### El parque nacional Abel Tasman y la Golden Bay)
 
+
+
 Le hicimos  caso a la recomendación del músico local de Fat Eddie's y nos desviamos al nor- este a la peninsula Goldey Bay. Para esto, abandonamos temporalmente la Ruta 6 y tomamos la State Highway 60 (SH60).
 
 #### 📍 Índice de la Ruta SH60 (Nelson a Collingwood):
@@ -96,8 +98,6 @@ Cruzamos de una ciudad de lagos a la capital mundial del deporte de aventura.
   * **That Wanaka Tree:** El famoso árbol solitario que resiste dentro del lago Wanaka y la ciudad también es muy bella. Nosotros tuvimos la suerte de coincidir el 31 de diciembre; el ambiente era muy festivo: feria de comidas, música, fuegos artificiales, una verdadera fiesta kiwi.
 
 > 💡 **CONSEJO PARA DORMIR EN WANAKA**: Al ser una zona ultra turística, es necesario ir muy temprano a los *free campings* o reservar con anticipación en los Holiday Parks. Si te estacionás en la calle en zonas no permitidas, la multa es considerable. También podés encontrar hoteles en la zona para pasar la noche en la ciudad.
->
->
 
 ## Días 10 a 12: Queenstown y Milford Sound
 
@@ -107,14 +107,11 @@ Día 10 Queenstown: Una ciudad muy cool. Restaurantes, tiendas, artistas calleje
 
 * **Tramos clave:** 290 km (calculá al menos 4 horas de ida debido a la dificultad del terreno y las paradas fotográficas).
 
- 
-
-* * **Imperdibles en ruta:**
+  * **Imperdibles en ruta:**
 
     * **Lake Te Anau:** Un lago gigante rodeado de fiordos, una caminata plana fácil y con vistas alucinantes.
     * **Túnel Homer:** Una obra de ingeniería impresionante tallada a mano en la roca viva de la montaña. Parada al salir del túnel: punto de lookout muy bello.
     * **Lake Marian Track:** Un sendero que nos encontantó, es súper agreste de unas 3 horas (ida y vuelta) que arranca cruzando un puente colgante sobre el río Marian. Los primeros 10-15 minutos son planos hasta las cascadas, pero después el camino se vuelve una aventura física: vas a tener que avanzar esquivando raíces gigantes de árboles centenarios, rocas y zonas con barro. No es una subida empinada y uniforme que te deje sin aire, sino un trekking técnico muy entretenido que te obliga a estar presente durante todo el recorrido para llegar a un  hermoso lago alpino.
-
   * [**Milford Sound:** ](https://www.booking.com/attractions/nz/prh1d08irngk-2-hour-milford-sound-scenic-cruise.es.html?aid=2427663&label=milford-sound-attractions-D6Kuaf7TYN8%2AtM59pAzuIwS717216742695%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-2282772141770%3Alp9227990%3Ali%3Adec%3Adm%3Acid21786396167%3Aagid172490118841&source=searchresults-product-card&ufi=900052740&date=2026-07-08&timeslot=ATS-PRH1D08irNgk-202607081100-nullnull&ticket_type=OFI0NG3wxIFp)Cascadas de deshielo cayendo por los fiordos de roca sobre las aguas oscuras y profundas. Es posible caminar por los trails de alrededor, navegar por los fiordos e incluso vistarlos en helicoptero (no lo hice pero me han contado que la experiencia es única)
 
 🚢 **Navegando los fiordos:** La mejor forma de vivir Milford Sound es navegando sus aguas. Las salidas de los cruceros por la mañana suelen ser más baratas y tienen menos gente. Asegurá tu ticket con descuento y podes reservar[ tu crucero por Milford Sound acá](https://www.booking.com/attractions/nz/prh1d08irngk-2-hour-milford-sound-scenic-cruise.es.html?aid=2427663&label=milford-sound-attractions-D6Kuaf7TYN8%2AtM59pAzuIwS717216742695%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-2282772141770%3Alp9227990%3Ali%3Adec%3Adm%3Acid21786396167%3Aagid172490118841&source=searchresults-product-card&ufi=900052740&date=2026-07-08&timeslot=ATS-PRH1D08irNgk-202607081100-nullnull&ticket_type=OFI0NG3wxIFp).
