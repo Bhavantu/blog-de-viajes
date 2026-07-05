@@ -13,9 +13,7 @@ Muchos de los viajeros que vamos a Nueva Zelanda lo hacemos con el sueño de viv
 
 La columna vertebral del viaje es la mítica Ruta 6, pero nosotros hicimos un desvío por recomendación de un músico local y sumamos la mágica península de Golden Bay a través de la State Highway 60 (SH60). En este artículo vas a encontrar una ruta optimizada de 12 días que te lleva por playas de arena dorada, bosques prehistóricos en el Parque Nacional Abel Tasman, pasos de montaña con vistas increíbles y glaciares, hasta terminar en Milford Sound, los fiordos más profundos del planeta.
 
-Esta guía rápida te da un vistazo general de norte a sur con puntos icónicos, referencias de tiempos de manejo, alertas de seguridad basadas en nuestra experiencia y consejos prácticos para que disfrutes de la ruta sin estrés. Si te interesa profundizar más, podés leer también https://blogcito.com/diario/
-
-*
+Esta guía rápida te da un vistazo general de norte a sur con puntos icónicos, referencias de tiempos de manejo, alertas de seguridad basadas en nuestra experiencia y consejos prácticos para que disfrutes de la ruta sin estrés. Si te interesa profundizar más, [podés ver más artículos sobre Nueva Zelanda en nuestro blog ](https://blogcito.com/diario/)
 
 ## Día 1: Llegada a Picton y ruta hasta Nelson
 
@@ -63,8 +61,6 @@ Volvimos a cruzar Takaka Hill por la SH60, reconectamos con la Ruta 6 hacia el s
   * **Buller Gorge:** El puente colgante más largo de Nueva Zelanda.
   * **Punakaiki (Pancake Rocks):** Formaciones de piedra caliza que parecen pilas de panqueques gigantes. Si vas con marea alta, vas a ver cómo los sopladores (*blowholes*) escupen agua marina a metros de altura (nosotros no tuvimos esa suerte, pero han de ser increíbles).
 
-
-
 ## Día 6: De Punakaiki a Franz Josef (zona de Glaciares)
 
 Recorriendo el camino hacia el sur llegamos a la zona húmeda de los glaciares, donde la vegetación y los paisajes cambian completamente (y el frío también, sobre todo en la madrugada).
@@ -75,7 +71,7 @@ Recorriendo el camino hacia el sur llegamos a la zona húmeda de los glaciares, 
   * **Hokitika Gorge:** Un sendero corto que te lleva a un puente colgante sobre un río de un color turquesa.
   * **Ross:** Un antiguo pueblo minero donde todavía se respira la fiebre del oro.
 
-
+    <div class="post-img-box img-pequeño img-izquierda"><img src="/img/diario/rio-ruta-del-oro.jpeg" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 ## Días 7 y 8: Glaciares, lagos espejo y el Paso de Haast hasta Wanaka
 
@@ -89,8 +85,6 @@ Días de transición entre la selva tropical húmeda y los imponentes Alpes del 
   * **Blue Pools:** Piletas naturales de agua de deshielo turquesa y cristalina en Makarora.
 
 💡 **Planificación:** Las excursiones para caminar sobre el hielo en Franz Josef se agotan con meses de anticipación durante el verano. Si es un infaltable en Nueva Zelanda, podés comparar precios y [reservar tu lugar haciendo click acá](https://www.booking.com/attractions/searchresults.es.html?selected_currency=USD&source=search_box&aid=2427663&label=milford-sound-attractions-D6Kuaf7TYN8%2AtM59pAzuIwS717216742695%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-2282772141770%3Alp9227990%3Ali%3Adec%3Adm%3Acid21786396167%3Aagid172490118841&start_date=2026-12-17&end_date=2026-12-17&dest_id=-1509737).
-
-
 
 ## Día 9: De Wanaka a Queenstown
 
@@ -115,9 +109,13 @@ Día 10 Queenstown: Una ciudad muy cool. Restaurantes, tiendas, artistas calleje
   * **Lake Te Anau:** Un lago gigante rodeado de fiordos, una caminata plana fácil y con vistas alucinantes.
   * **Túnel Homer:** Una obra de ingeniería impresionante tallada a mano en la roca viva de la montaña. Parada al salir del túnel: punto de lookout muy bello.
   * **Lake Marian Track:** Un sendero que nos encantó, es súper agreste de unas 3 horas (ida y vuelta) que arranca cruzando un puente colgante sobre el río Marian. Los primeros 10-15 minutos son planos hasta las cascadas, pero después el camino se vuelve una aventura física: vas a tener que avanzar esquivando raíces gigantes de árboles centenarios, rocas y zonas con barro. No es una subida empinada y uniforme que te deje sin aire, sino un trekking técnico muy entretenido que te obliga a estar presente durante todo el recorrido para llegar a un hermoso lago alpino.
+
+    <div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
   * [**Milford Sound:** ](https://www.booking.com/attractions/nz/prh1d08irngk-2-hour-milford-sound-scenic-cruise.es.html?aid=2427663&label=milford-sound-attractions-D6Kuaf7TYN8%2AtM59pAzuIwS717216742695%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-2282772141770%3Alp9227990%3Ali%3Adec%3Adm%3Acid21786396167%3Aagid172490118841&source=searchresults-product-card&ufi=900052740&date=2026-07-08&timeslot=ATS-PRH1D08irNgk-202607081100-nullnull&ticket_type=OFI0NG3wxIFp)Cascadas de deshielo cayendo por los fiordos de roca sobre las aguas oscuras y profundas. Es posible caminar por los trails de alrededor, navegar por los fiordos e incluso visitarlos en helicóptero (no lo hice pero me han contado que la experiencia es única).
 
 🚢 **Navegando los fiordos:** La mejor forma de vivir Milford Sound es navegando sus aguas. Las salidas de los cruceros por la mañana suelen ser más baratas y tienen menos gente. Asegurá tu ticket con descuento y podés reservar [tu crucero por Milford Sound acá](https://www.booking.com/attractions/nz/prh1d08irngk-2-hour-milford-sound-scenic-cruise.es.html?aid=2427663&label=milford-sound-attractions-D6Kuaf7TYN8%2AtM59pAzuIwS717216742695%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-2282772141770%3Alp9227990%3Ali%3Adec%3Adm%3Acid21786396167%3Aagid172490118841&source=searchresults-product-card&ufi=900052740&date=2026-07-08&timeslot=ATS-PRH1D08irNgk-202607081100-nullnull&ticket_type=OFI0NG3wxIFp).
+
+![](/img/diario/mild-four-sound.jpeg)
 
 ## 📌 Datos prácticos para tu roadtrip
 
