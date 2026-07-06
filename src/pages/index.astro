@@ -92,6 +92,13 @@ isTransparentHeader={true}>
 </Layout>
 
 <style is:global>
+
+    /* ============================================================
+        CONTENEDOR PARA TARJETAS MÁS ANCHAS
+       ============================================================ */
+    main.container {
+        max-width: 1200px !important;
+    }
     /* ============================================================
        ESTILOS EXCLUSIVOS DE LA PORTADA (Aislados de Layout.astro)
        ============================================================ */
@@ -110,18 +117,34 @@ isTransparentHeader={true}>
         height: 100% !important;
         min-width: 0 !important; 
         margin: 0 !important;
-        padding: 0 !important;
+        padding: 0 !important; /* Se mantiene en 0 para que la foto toque los bordes superior y lateral */
         border: none !important;
         max-width: 100% !important;
+        
+        /* ESTILOS EDITORIALES: Fondo blanco, bordes rectos y sombra sutil */
+        background-color: #ffffff !important;
+        border-radius: 0 !important; 
+        box-shadow: 0 4px 10px rgba(0,0,0,0.03) !important; 
     }
 
     .img-portada {
         width: 100% !important;
         height: 220px !important;
         object-fit: cover !important;
-        border-radius: 8px !important;
-        margin-bottom: 1.5rem !important;
         display: block !important;
+        
+        /* Bordes rectos para la imagen */
+        border-radius: 0 !important; 
+        margin-bottom: 1.5rem !important;
+    }
+
+    /* Padding interno para que los textos respiren dentro de la caja blanca */
+    .meta-portada,
+    .titulo-portada,
+    .desc-portada,
+    .btn-leer-mas-portada {
+        padding-left: 1.5rem !important;
+        padding-right: 1.5rem !important;
     }
 
     .meta-portada { display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 0.5rem; }
@@ -131,7 +154,8 @@ isTransparentHeader={true}>
     
     .desc-portada { flex-grow: 1; margin-bottom: 1.5rem; line-height: 1.6; font-size: 0.95rem; color: #555; }
     
-    .btn-leer-mas-portada { margin-top: auto; }
+    /* Padding inferior al botón para cerrar la caja blanca con buen espacio */
+    .btn-leer-mas-portada { margin-top: auto; padding-bottom: 2rem !important; }
     .btn-leer-mas-portada a { display: inline-block; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--text-color, #333); text-decoration: none; font-weight: 500; transition: color 0.3s ease; }
 
     .btn-ver-mas-global {
@@ -151,6 +175,7 @@ isTransparentHeader={true}>
         border-color: #006d77 !important;     /* Borde verde esmeralda */
         color: #ffffff !important;            /* Texto blanco */
     }
+    
     /* MODO CELULAR (Pasa a 1 columna automáticamente) */
     @media (max-width: 800px) {
         #grilla-portada-segura {

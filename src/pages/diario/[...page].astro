@@ -78,7 +78,7 @@ const { page } = Astro.props;
         ))}
     </div>
 
-    <!-- PAGINACIÓN (Ahora asegurada fuera de la grilla) -->
+    <!-- PAGINACIÓN -->
     <div class="paginacion-container">
       {page.url.prev ? (
         <a href={page.url.prev} class="btn-paginacion">&larr; Más recientes</a>
@@ -101,16 +101,41 @@ const { page } = Astro.props;
 </Layout>
 
 <style is:global>
-    /* 1. ESTILOS DE GRILLA */
+
+        main.container {
+        max-width: 1200px !important;
+    }
+    /* 1. ESTILOS DE GRILLA (DISEÑO EDITORIAL BLANCO Y RECTO) */
     #grilla-portada-segura { display: grid !important; grid-template-columns: repeat(3, 1fr) !important; gap: 2.5rem !important; width: 100% !important; align-items: stretch !important; margin-top: 3rem; }
-    .tarjeta-portada { display: flex !important; flex-direction: column !important; height: 100% !important; min-width: 0 !important; margin: 0 !important; padding: 0 !important; border: none !important; max-width: 100% !important; background: transparent !important; }
-    .img-portada { width: 100% !important; height: 220px !important; object-fit: cover !important; border-radius: 8px !important; margin-bottom: 1.5rem !important; display: block !important; transition: transform 0.4s ease !important; }
+    
+    .tarjeta-portada { 
+        display: flex !important; flex-direction: column !important; height: 100% !important; min-width: 0 !important; margin: 0 !important; padding: 0 !important; border: none !important; max-width: 100% !important; 
+        /* Fondo blanco, bordes rectos y sombra sutil */
+        background-color: #ffffff !important; 
+        border-radius: 0 !important; 
+        box-shadow: 0 4px 10px rgba(0,0,0,0.03) !important; 
+    }
+    
+    .img-portada { 
+        width: 100% !important; height: 220px !important; object-fit: cover !important; margin-bottom: 1.5rem !important; display: block !important; transition: transform 0.4s ease !important; 
+        /* Bordes rectos para la imagen */
+        border-radius: 0 !important; 
+    }
     .img-portada:hover { transform: scale(1.02) !important; }
+
+    /* Padding interno para que los textos respiren dentro de la caja blanca */
+    .meta-portada, .titulo-portada, .desc-portada, .btn-leer-mas-portada {
+        padding-left: 1.5rem !important;
+        padding-right: 1.5rem !important;
+    }
+
     .meta-portada { display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 0.5rem; }
     .titulo-portada { margin: 0.5rem 0; line-height: 1.3; font-family: var(--font-display); font-size: 1.5rem; }
     .titulo-portada a { text-decoration: none; color: var(--text-color, #333); transition: color 0.3s ease; }
     .desc-portada { flex-grow: 1; margin-bottom: 1.5rem; line-height: 1.6; font-size: 0.95rem; color: #555; }
-    .btn-leer-mas-portada { margin-top: auto; }
+    
+    /* Padding inferior al botón para cerrar la caja blanca prolijo */
+    .btn-leer-mas-portada { margin-top: auto; padding-bottom: 2rem !important; }
     .btn-leer-mas-portada a { display: inline-block; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--text-color, #333); text-decoration: none; font-weight: 500; transition: color 0.3s ease; }
 
     /* 2. HOVER VERDE ESMERALDA */

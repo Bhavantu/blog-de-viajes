@@ -86,6 +86,30 @@ const indices = headings ? headings.filter((h: any) => h.depth === 2 || h.depth 
 <!-- ========================================== -->
 <style>
 
+    /* ============================================================
+     EFECTO "HOJA DE PAPEL" PARA EL ARTÍCULO
+     ============================================================ */
+  .article-view {
+      background-color: #ffffff; /* Fondo blanco puro */
+      padding: 4rem 5rem; /* Espaciado interno generoso para que respire */
+      max-width: 950px; /* Ancho máximo de la hoja blanca */
+      margin: 0 auto; /* Centramos la hoja en la pantalla */
+      box-shadow: 0 10px 30px rgba(0,0,0,0.03); /* Sombra elegante para que "flote" sobre el arena */
+      border-radius: 0; /* Bordes rectos para mantener el estilo editorial */
+  }
+
+  /* Ajuste de espaciado en la cabecera del artículo */
+  .article-header {
+      margin-bottom: 4rem;
+  }
+
+  /* Adaptación de la hoja blanca para celulares */
+  @media (max-width: 768px) {
+      .article-view {
+          padding: 2.5rem 1.5rem;
+      }
+  }
+
   /* ============================================================
      ESTILOS PARA LOS TÍTULOS DEL MARKDOWN (H2, H3, H4)
      ============================================================ */
