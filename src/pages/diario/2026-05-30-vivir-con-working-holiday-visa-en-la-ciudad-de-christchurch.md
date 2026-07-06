@@ -37,7 +37,7 @@ Christchurch se encuentra en una zona de actividad sísmica (con terremotos prov
 
 Sin embargo, lo positivo es que el país es sumamente preventivo y cuenta con procedimientos estandarizados de seguridad muy claros. Además, la aplicación Geo Net en el teléfono te informa al instante sobre cualquier movimiento de la tierra, lo que ayuda a mantener la calma. la información en relación a ello es muy clara y la cartelería está preparada para estos incidentes como en todo el país. Por otro lado, siempre es fundamental conocer de antemano la información oficial sobre qué hacer en caso de sismo o alerta.
 
-## 4. Costo de vida en Christchurch: Alquiler y comida 
+## 4. Costo de vida en Christchurch: Alquiler y comida
 
 * **Alimentación:** El costo de vida es accesible. Salir a comer afuera es caro, pero hay una muy buena oferta de frutas y verduras de productores locales de Nueva Zelanda. La calidad y el sabor de los alimentos es excelente. Mi experiencia fue trabajando en un supermercado orgánico y tuve la suerte de poder probar verduras locales cultivadas sin químicos; conclusión muy buen alimento neozelandés.
 * **Vivienda y transporte:** El acceso a la vivienda es razonable y existe una gran variedad de zonas para elegir. Además, la infraestructura urbana tiene una buena red de ciclovías y un transporte público eficiente, las calles se encuentran en buen  estado y el tráfico no es imposible en las mañanas.
@@ -64,8 +64,9 @@ La verdad que estoy contenta con mi decisión de residir en esta ciudad y conoce
 
 Desde ya gracias por leer, estos artículos buscan brindar claridad a otros viajeros así que si te sirvió compartilo para que llegue a más gente, también podes hacer una colaboración simbólica en el botón de la izquierda para que podamos seguir sosteniendo este blog, abrazo grande Lore y Santi.
 
-###### Te puede interesar también: 
+###### Te puede interesar también:
 
 * [¿Dónde vivir en la Isla Sur de Nueva Zelanda? Comparativa de ciudades](https://blogcito.com/diario/2026-05-07-un-hogar-entre-el-r%C3%ADo-avon-y-los-alpes-del-sur/)
 * [Comprar una Campervan o auto en Nueva Zelanda: Guía para no morir en el intento](https://blogcito.com/diario/2026-06-01-comprar-una-camper-van-o-auto-en-nueva-zelanda/)
-*
+* ###### [Itinerario de 12 días por la Costa Oeste de Nueva Zelanda: Roadtrip de Picton a Milford Sound](https://blogcito.com/diario/2026-02-12-itinerario-de-12-d%C3%ADas-por-la-costa-oeste-de-nueva-zelanda-roadtrip-de-picton-a-milford-sound/)
+* ###### [¿Qué es Aotearoa? Historia y cultura maorí en Nueva Zelanda](https://blogcito.com/diario/2026-05-11-aotearoa-donde-la-tierra-comienza/)
