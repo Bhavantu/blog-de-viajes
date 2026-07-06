@@ -15,7 +15,7 @@ Hace un tiempo que comenzaron a llegarme mensajes de personas random preguntánd
 
 ## Mi experiencia real: Vivir en Christchurch como Working Holiday
 
-La verdad es que no soy gran fanática de las ciudades, pero esta experiencia se dió tras viajar por la costa Este de la Isla Sur y comparar las diferentes ciudades, si te interesa valorar opciones sobre donde residir te invito a leer ¿Dónde vivir en la Isla Sur de Nueva Zelanda? Comparativa de ciudades
+La verdad es que no soy gran fanática de las ciudades, pero esta experiencia se dió tras viajar por la costa Este de la Isla Sur y comparar las diferentes ciudades, si te interesa valorar opciones sobre donde residir te invito a leer [¿Dónde vivir en la Isla Sur de Nueva Zelanda? Comparativa de ciudades](https://blogcito.com/diario/2026-05-07-un-hogar-entre-el-r%C3%ADo-avon-y-los-alpes-del-sur/)
 
 Luego de aplicar en diferentes trabajos en el camino, descansamos en un precioso *free camping* sin restricción de días en Lake Side Domain, el cual encontramos por la aplicación **CamperMate**, el mejor amigo del viajero en *campervan*.
 
@@ -30,6 +30,8 @@ La principal ventaja vivir allí, Christchurch es un verdadero lujo geográfico.
 ## 2. Vida social y apps aliadas
 
 Si te estás preguntando como conocer gente o que hacer en Chrischurch, te traigo buenas noticias, hay mucha gente usando aplicaciones para conectar con otros como *Nomad Table* o *Bumble BFF*. En la ciudad se encuentra una gran oferta de actividades sociales, mercados, deportes, encuentros de idiomas, clases interesantes, experiencias culinarias, juegos de mini golf, pistas de patinaje y cine. Yo en esta ocasión compartí tardes de *climbing* (escalada) con nuevos amigos y amigas, bares nocturnos con música en vivo y un hermoso taller de joyería con gente local, además de visitar algunos mercados locales y por supuesto muchos hikings.
+
+* Podé ver más actividades en Chrischurch y alrededores haciendo [click acá](https://www.getyourguide.com/es-es/christchurch-l945/?adults=1&searchSource=8)
 
 ## 3. Terremotos en Chrischurch ¿Es seguro vivir en la ciudad actualmente?
 
