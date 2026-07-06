@@ -34,7 +34,7 @@ Le hicimos caso a la recomendación del músico local de Fat Eddie's\[cite: 1] y
 
 #### 📍 Índice de la Ruta SH60 (Nelson a Collingwood):
 
-* **Tramo 1 (Nelson a Motueka):** 50 km de ruta plana cruzando campos frutales.
+* **Tramo 1** (Nelson a Motueka): 50 km de ruta plana cruzando campos frutales.
 * **Tramo 2 (Motueka a Kaiteriteri):** 13 km de desvío costero hacia la playa más dorada de la región. Totalmente recomendada.
 * **Tramo 3 (Motueka a Takaka):** 48 km cruzando el paso de Takaka Hill (la SH60 alcanza los 791 metros de altura).
 * **Tramo 4 (Takaka a Collingwood):** 28 km de manejo tranquilo por el valle de la bahía entre colinas verdes y playas desiertas.
