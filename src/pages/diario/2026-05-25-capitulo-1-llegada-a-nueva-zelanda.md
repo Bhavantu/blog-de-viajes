@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/BlogPostLayout.astro
-title: "Llegada a Nueva Zelanda y recorrido por la Isla Norte "
+title: "Ruta por la Isla Norte que ver y primeros pasos en Nueva Zelanda:"
 date: 2026-05-25T13:57:00.000+12:00
 tag: bitacora
 pais: Nueva Zelanda
@@ -18,7 +18,6 @@ Con los años el deseo creció. En 2025 apliqué online para una visa de viaje y
 
 <div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/kiwibird.webp" alt="Imagen de bitácora"><span class="img-caption">kiwibird</span></div>
 
-\
 \
 Nueva Zelanda, un país donde los locales se llaman a sí mismos como un pájaro autóctono nocturno (*kiwi bird*) y una fruta (*kiwi fruit*); sí, todo al mismo tiempo. Mezcla de gente amable y resolutiva, que disfruta de la tranquilidad y la calma. La verdad es lindo compartir con estas personas en el viaje. Durante algunos meses viajamos y vivimos la experiencia de vivir en una camper van, hacer caminatas y conocer paisajes increíbles.
 
