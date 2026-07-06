@@ -12,30 +12,19 @@ main_image: /img/diario/whatsapp-image-2026-06-28-at-00.01.52.webp
 ---
 La península de Coromandel es sin duda un lugar muy hermoso, pero no solo destaca por su belleza actual, sino por haber sido escenario de profundas transformaciones culturales e industriales en Nueva Zelanda. 
 
-En el siguiente articulo compartiremos un poco sobre su historia dividida en las siguientes secciones:
-
-1. El Legado Maorí: sus primeros pobladores 
-2. El Origen del Nombre y el Contacto Europeo
-3. El comienzo de la extracción industrial de los bosques: Kauri y Resina (Gum)
-4. La Fiebre del Oro de Nueva Zelanda
-5. El Declive y el Retorno a la Naturaleza
-6. Donde quedarse, pueblos aledaños y playas increíbles
-
-
+En el siguiente artículo compartiremos un poco sobre su historia dividida en las siguientes secciones:
 
 ## **1. El Legado Maorí: "La espina del pez de Māui"**
 
-## El Origen Mitológico:
+### El Origen Mitológico:
 
 Para los maoríes, este lugar es sagrado. Originalmente se conoce como *Te Tara-o-te-Ika-a-Māui*, o «la púa o espina del pez de Māui». En su cosmología, la Isla Norte es un gran pez capturado por el semidiós Māui, y Coromandel representa esa espina dorsal. 
 
-<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/whatsapp-image-2026-06-26-at-17.09.58.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/whatsapp-image-2026-06-26-at-17.09.58.webp" alt="Imagen de bitácora"><span class="img-caption"> Kina (erizos de mar) alimento maori nueva Zelanda</span></div>
 
 Durante más de 1000 años, tribus como *Te Patukirikiri* y *Ngāti Maru* habitaron la región de Hauraki. Era, literalmente, un paraíso autosustentable; la llamaban *"Ko Manaia, he pataka kai"* («Manaia, el almacén de comida»), por la abundancia de mariscos y tierras fértiles. 
 
 De hecho, hace poco, al caminar por la orilla, nos cruzamos con dos hombres maoríes que amablemente nos invitaron a probar unos *Kina* (erizos de mar) recién extraídos. Los abrían con sus propias manos y nos los ofrecieron como "alimento de verdad". Fue un recordatorio tangible de que esa conexión ancestral con la tierra sigue viva, aunque a veces solo necesites un poco de curiosidad para encontrarla.
-
-
 
 ## 2. El Origen del Nombre y el contacto Europeo
 
@@ -45,8 +34,6 @@ De hecho, hace poco, al caminar por la orilla, nos cruzamos con dos hombres maor
 
 ## 3. El comienzo de la extracción industrial de los bosques: Kauri y Resina (Gum)
 
-
-
 **Los Gigantes de Madera:** Los bosques de la península estaban originalmente cubiertos por densos bosques de **Kauri** (*Agathis australis*), árboles majestuosos y sagrados que pueden vivir más de 1000 años. Durante el siglo XIX, la tala indiscriminada se convirtió en la industria extractiva por excelencia.
 
 Durante el siglo XIX, la península sufrió una transformación drástica. Sus bosques estaban cubiertos de *Kauri* (*Agathis australis*), árboles majestuosos que pueden vivir más de 1000 años.
@@ -54,8 +41,6 @@ Durante el siglo XIX, la península sufrió una transformación drástica. Sus b
 Para los colonos, el Kauri era oro verde. Desarrollaron un sistema de ingeniería salvaje: las "Kauri Dams" (represas de madera). Acumulaban agua en las montañas y, al abrirlas, generaban avalanchas controladas que arrastraban troncos gigantes hasta los puertos. El proyecto fue tan extractivo que para 1900, tres cuartas partes de estos bosques habían desaparecido.
 
 Hoy en día la preservación de esta especie sagrada es uno de los motivos por los cuales se hace tanto énfasis en la desinfección del calzado a la hora de entrar en áreas protegidas evitando el *kauri dieback* (se pudre la raíz del árbol y muere).
-
-
 
 ## 4. La Fiebre del Oro de Nueva Zelanda
 
@@ -79,7 +64,7 @@ A principios del siglo XX, tanto las minas de oro como las reservas de kauri com
 
 En la década de 1970, la herida ecológica comenzó a sanar gracias a fuertes movimientos de conservación y la zona empezó a atraer a artesanos, alfareros y personas que buscaban un estilo de vida alternativo y en calma, dando origen al ambiente bohemio y relajado que caracteriza a la Península de Coromandel hoy en día.
 
-### Datos prácticos para tu visita
+## Datos prácticos para tu visita
 
 * **Recorrido:** La mejor forma de conocerla es recorriendo su ruta costera. Tiene vistas increíbles pero es bastante angosta, con curvas cerradas y acantilados así requiere conducir con paciencia (nosotros tardamos bastante más de lo que propone el maps).
 * **Presupuesto y Alojamiento:** La oferta es inmensa, desde campings para campervans hasta lodges de lujo.
