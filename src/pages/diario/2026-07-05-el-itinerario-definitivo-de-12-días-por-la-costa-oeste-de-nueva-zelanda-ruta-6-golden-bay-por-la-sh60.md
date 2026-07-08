@@ -65,7 +65,7 @@ Le hicimos caso a la recomendación del músico local de Fat Eddie's\[cite: 1] y
 
 **Dato: La SH60 es un callejón sin salida es decir que para retomar la Ruta 6 y bajar al sur, hay que desandar el camino y volver a cruzar la montaña. Te recomendamos dedicarle al menos 3 días enteros para disfrutar sin correr o también podés optar por seguir solo por la Ruta 6 y pasar directamente al punto 5. Otra opción es [recorrer la Golden Bay en un tour de 1 día desde Nelson](https://www.getyourguide.com/es-es/nelson-nueva-zelanda-l1758/nelson-excursion-de-un-dia-a-golden-bay-t1009283/?ranking_uuid=af1abcb7-94e3-4c03-bc38-96c9875e1769&q=Parque+Nacional+Abel+Tasman+en+sup) visitando los puntos icónicos de la zona.**
 
-<div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+<div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/4.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 <div class="post-img-box img-mediano img-derecha"><img src="/img/diario/5.webp" alt="Imagen de bitácora"><span class="img-caption">Kaiteriteri Beach - Golden Bay - Nueva Zelanda</span></div>
 
