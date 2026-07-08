@@ -60,54 +60,56 @@ Caminando hacia el corazón cívico, vas a cruzarte con algunos puntos icónicos
 
 El **Arts Centre** de Christchurch es un complejo de edificios de estilo neogótico. Fue bastante golpeado en el gran terremoto del 2011, pero hoy está restaurado y lleno de vida con galerías de arte, tiendas y cafecitos.
 
-> **💡 Tip de viaje:** A veces la zona se llena de color con eventos en la calle, como el festival de arte urbano *Flare Street Art Festival* o el festival de artistas callejeros a la gorra *World Buskers Festival* (también conocido como *Bread & Circus*). Podés chequear qué fechas coinciden con tu viaje en la página oficial de turismo y eventos de ChristchurchNZ.
+> **💡 Tip de viaje:** A veces la zona se llena de color con eventos en la calle, como el festival de arte urbano *Flare Street Art Festival* o el festival de artistas callejeros a la gorra *World Buskers Festival* que tuve el placer de presenciar. Podés chequear qué fechas coinciden con tu viaje en la página oficial de turismo y eventos de ChristchurchNZ.
 
 Caminando unos minutos desde el Arts Centre podés descubrir:
 
 * **La Catedral de Christchurch (ChristChurch Cathedral):** La emblemática iglesia anglicana de Cathedral Square que sigue en su histórico proceso de reconstrucción tras el sismo.
-* **Canterbury Earthquake National Memorial:** El emotivo muro de mármol blanco ubicado junto al río Avon, que conmemora a las víctimas del terremoto de 2011. Visité este lugar en el aniversario de la tragedia; ver a las familias con flores en silencio te conecta de una manera muy fuerte con el agradecer por la vida.
-* **Christchurch Art Gallery Te Puna o Waiwhetū:** El museo de arte contemporáneo de la ciudad, famoso por su fachada de vidrio ondulada y sus muestras vanguardistas. La visita es rápida, no tiene costo y ofrece colecciones interesantes de artistas de las islas del Pacífico.
-* **Canterbury Museum Pop-Up (Gloucester St):** *Dato clave de local:* El histórico edificio del museo ubicado junto al jardín botánico está cerrado por una enorme reconstrucción (proyectada hasta 2028). Sin embargo, mudaron sus piezas más queridas a un formato pop-up gratuito en el edificio de CoCA (66 Gloucester St). Si vas con chicos (o si te encantan los dinosaurios), ahí tienen una réplica enorme de un esqueleto de T-Rex, fósiles y la famosa casa interactiva de conchas *Paua Shell House* digitalizada.
+* **Canterbury Earthquake National Memorial:** El emblemático muro de mármol blanco ubicado junto al río Avon, que conmemora a las víctimas del terremoto de 2011. Visité este lugar en el aniversario de la tragedia; ver a las familias con flores en silencio me hizo conectar realmente con el agradecer por la vida, que al fin de cuentas es impredecible,
+* **Christchurch Art Gallery Te Puna o Waiwhetū:** El museo de arte contemporáneo de la ciudad. recomiendo al 100% es famoso por su fachada de vidrio ondulada y sus muestras vanguardistas. La visita es rápida, no tiene costo y ofrece colecciones interesantes de artistas de las islas del Pacífico.
+* **Canterbury Museum Pop-Up (Gloucester St):**Actualmente (2026) este museo mudó sus piezas más a un formato pop-up gratuito en el edificio de 66 Gloucester St. Es chiquito pero interesante, lleno de muestras de dinosaurios y propuestas interactivas para todas las edades. Como por ejemplo, un esqueleto de T-Rex, cajones para visualizar insectos con una lupa digital, un arenero para desenterrar los "fosiles". Muchos niños y no tan niños disfrutamos de la propuesta.
 
-### Almuerzo: El polo gastronómico de la ciudad
+Donde comer en Chrischurch
 
-El **Riverside Market** es un mercado techado semicubierto, construido frente al río. Está lleno de opciones gastronómicas que van desde comida internacional de todos los rincones del mundo hasta panaderías locales y barras de cerveza artesanal.
+El polo gastronómico de la ciudad se encuentra cerca de la zona del centro, un claro ejemplo es el **Riverside Market** un mercado techado semicubierto, construido frente al río. Está lleno de opciones gastronómicas que van desde comida internacional de todos los rincones del mundo hasta panaderías locales, barras de cerveza artesanal y pequeñas tiendas en la entrada. Su horario es bastante extenso y algunas opciones recomendadas son: 
 
 * **Midnight Shanghai:** Uno de mis favoritos. Es un restaurante y *cocktail bar* de *dim sum* y cocina asiática moderna con salas de karaoke en el segundo piso.
 * **Kaiser Brew Garden:** Un jardín cervecero ubicado en el piso superior con buenas pizzas a la piedra y cervezas tiradas bien frías.
-* **El Fogón:** Si extrañás el asado de este lado del mapa, este puesto ofrece cortes de carne al estilo argentino tradicional.
+* **El Fogón:** Para quienes aman el asado, este puesto ofrece cortes de carne al estilo argentino tradicional y otros platos de la región.
 
-### Otras opciones más allá del mercado
+### Otras opciones fuera del centro
 
 * **C1 Espresso (Tuam St & High St):** Funciona en el antiguo edificio de correos de la ciudad. Lo divertido de este café de aire industrial es que tostás tu propia comida de reojo mientras esperás las hamburguesas o las papas fritas, que te las envían desde la cocina directo a tu mesa a través de tubos neumáticos de aire comprimido a 140 km/h que bajan del techo.
-* **The Cookie Trader (124 Cashel St):** Un local chico especializado en galletas gigantes y pesadas, rellenas de cheesecake de Oreo, caramelo salado con pretzel o marshmallows. Comprás una calentita y te la comés caminando por el centro.
-* **Rollickin Gelato (New Regent St & Cashel St):** Hacen helados y sorbetes artesanales usando leche orgánica de granjas de la zona de Canterbury. El local tiene un estilo muy ciruja con sillones viejos recuperados de la calle y una canilla libre de chocolate derretido para bañar el cono. Abre hasta tarde, ideal para cerrar el día.
+* **The Cookie Trader (124 Cashel St):** Un local chico especializado en galletas gigantes, rellenas de cheesecake de Oreo, caramelo salado con pretzel o marshmallows. La gracia es que las podés personalizar a gusto, todo muy "fancy".
+* **Rollickin Gelato (New Regent St & Cashel St):** Hacen helados artesanales usando leche orgánica de granjas de la zona de Canterbury. El local tiene un estilo particular con illones viejos recuperados de la calle y una canilla libre de chocolate derretido para bañar el cono. 
 
 ### Tarde: El Jardín Botánico y el río Avon
 
-Christchurch tiene el apodo de "la ciudad jardín" y se debe a su inmenso **Jardín Botánico**, pegado al río. Es el lugar perfecto para tirarse en el pasto a descansar. En lo personal, era mi rincón de caminata post-trabajo; es tan grande que cada día recorría una zona diferente. Tiene un invernadero de época y es sede de festivales de música gratuitos en verano.
+Christchurch tiene el apodo de "la ciudad jardín" y se debe a sus plazas verdes y al inmenso **Jardín Botánico**, pegado al río. Es el lugar perfecto para tirarse en el pasto a descansar, leer un libro, salir a correr los domingos o jugar al golf. En lo personal, era mi rincón de caminata post-trabajo, es literalmente tan grande que cada día recorría una zona diferente. Tiene un invernadero, un peque{o museo que cuenta sobre la flora de la isla y algo de historia sobre los jardines y además es sede de festivales de música gratuitos en verano.
 
-* **Experiencia por el Río Avon:** El clásico paseo de [Punting on the Avon](https://www.getyourguide.com/christchurch-l1013/christchurch-punting-on-the-avon-t42475/?partner_id=TU_ID_AFILIADO) (recorrido en barca tradicional de madera con un guía vestido de época) es un plan superrelajante que te da una perspectiva diferente de la ciudad navegando debajo de los sauces.
+* **Experiencia por el Río Avon:** El paseo de [Punting on the Avon](https://www.getyourguide.com/christchurch-l1013/christchurch-punting-on-the-avon-t42475/?partner_id=TU_ID_AFILIADO) (recorrido en barca tradicional de madera con un guía vestido de época) un clásico que da una perspectiva diferente de la ciudad navegando por el Río que recorre gran parte de la misma. 
 
-Al caer el sol, una caminata junto al río Avon cruzando el icónico *Bridge of Remembrance* te lleva directamente a **The Strip** (en Oxford Terrace). Esta costanera peatonal concentra la mayor oferta gastronómica de la ciudad; acá es donde locales y turistas se encuentran a disfrutar de las terrazas calefaccionadas en bares excelentes como *The Craft Embassy* (con una pizarra enorme de birras artesanales), *Amazonita* (con su decoración selvática súper cuidada) o *The Terrace Tavern*.
+Si continuas caminando  junto al río Avon cruzando el icónico *Bridge of Remembrance* te lleva directamente a **The Strip** (en Oxford Terrace). Esta costanera peatonal concentra la mayor oferta gastronómica de la ciudad; acá es donde locales y turistas se encuentran a disfrutar de las terrazas y tomarse una copa en los bares top como *The Craft Embassy*, *Amazonita* o *The Terrace Tavern*.
 
-## 🌙 El Termómetro de la Noche: Copas, música en vivo y sótanos secretos
 
-Christchurch tiene una vida nocturna increíblemente vibrante si sabés dónde buscar. Para ayudarte a organizar la salida, acá tenés la progresión perfecta de la noche, de menor a mayor intensidad:
+
+## Noche de copas, música en vivo y sótanos secretos
+
+Christchurch tiene una vida nocturna bastante activa los fines de semana. Para ayudarte a organizar la salida, acá tenés la progresión de la noche perfecta ordenada de menor a mayor intensidad, podés elegir según tus intereses:
 
 ### 1. Copas al atardecer (Rooftops con vistas épicas)
 
 Antes de que caiga el sol, la mejor opción es subir a ver la cordillera y los colores del cielo desde las alturas:
 
 * **Lounge 505 (Cathedral Square):** Ubicado en la terraza del Christchurch City Hotel, es un lugar excelente para tomar una copa con vistas de 270 grados a la catedral y al corazón histórico. Cuentan con sumiller profesional.
-* **Pink Lady Rooftop Bar:** En el octavo piso del edificio de la calle Manchester. Ofrece las mejores vistas en 360 grados de toda la ciudad. Los tragos de autor son sofisticados y de presupuesto medio-alto, ideales para arrancar la noche.
+* **Pink Lady Rooftop Bar:** En el octavo piso del edificio de la calle Manchester. Ofrece las mejores vistas en 360 grados de toda la ciudad. Los tragos de autor son sofisticados y de presupuesto medio-alto. 
 
-### 2. Cerveza y socialización (Pubs y templos con onda)
+### 2. Cerveza y socialización:
 
-Si buscás algo relajado para juntarte con amigos, charlar de la vida o planificar los próximos viajes:
+Si buscás algo relajado para juntarte con amigos, charlar de la vida o planificar los próximos trails: 
 
 * **The Church:** El lugar donde nos juntábamos con la mayoría de amigos que hice durante mi Working Holiday. Ubicado en una antigua iglesia reformada, este pub ofrece música en vivo, noches de trivia (*quiz nights*), un patio calefaccionado para el invierno y buenas opciones de comida vegetariana.
-* **Paddy McNaughton’s:** Prácticamente pegado a *The Church* se encuentra este pub irlandés clásico del mismo dueño. Sirven buenas pintas de Guinness (de las más baratas del centro) y los fines de semana en el segundo piso se arman las verdaderas fiestas irlandesas, donde un músico entona canciones tradicionales y todos cantan y bailan pegados en un ambiente de pura alegría.
+* **Paddy McNaughton’s:** Prácticamente pegado a *The Church* se encuentra este pub irlandés clásico del mismo dueño. Sirven el mejor gin irish que probé y pintas de Guinness (de las más baratas del centro)además descubrí que los fines de semana en el segundo piso se arman "fiestas irlandesas" en un espacio minúsculo un músico entona canciones tradicionales, todos cantan y bailan, la verdad es un ambiente de pura alegría, además súper inclusivo a compartir y bailar con la gente.
 
 ### 3. Rincones íntimos y sofisticados (New Regent Street)
 
@@ -118,18 +120,18 @@ Si la noche te pide un ambiente más tranquilo, íntimo y estético, tu destino 
 
 ### 4. Música en vivo y pista abierta
 
-Si tenés ganas de bailar, estas son las opciones que más me gustaron:
+Para bailar, estas son las opciones que más me gustaron:
 
-* **Fat Eddie's:** Un clásico que no falla. Ubicado en un primer piso sobre el Strip (Oxford Terrace), el bar ofrece música en vivo casi todas las noches (mucho jazz, soul, funk y bandas de *covers* con baile y agite los fines de semana). Está abierto hasta las 3:00 am y suele llenarse de gente joven.
-* **Muy Muy (Welles Street):** Un bar de cocina mexicana en una zona industrial recuperada. Es el punto de encuentro ideal para quienes aman la salsa, la bachata y la kizomba; muchas escuelas de danza se acercan los días de pista abierta y se arma una verdadera fiesta latina.
+* **Fat Eddie's:** Un clásico que no falla. Ubicado en un primer piso sobre el Strip (Oxford Terrace), el bar ofrece música en vivo casi todas las noches (mucho jazz, soul, funk y bandas de *covers* con baile y agite los fines de semana). Está abierto hasta las 3:00 am y suele llenarse de gente bastante joven.
+* **Muy Muy (Welles Street):** Un bar de cocina mexicana en una zona industrial de moda. Es  ideal para quienes aman la salsa, la bachata y la kizomba; muchas escuelas de danza se acercan los días de pista abierta y se arma la  verdadera fiesta latina.
 
 ### 5. El Secreto local de la Noche: The Austin Club
 
-Por último, te presento este secreto que nos mostró una pareja local en una noche de tragos con amigas. Oculto en un callejón sin salida del centro (con cero pinta por fuera) se encuentra **The Austin Club**, un *speakeasy* (bar secreto) subterráneo ambientado en un sótano de los años 50. La estética es oscura, con jazz sonando de fondo y una carta de tragos sofisticada y muy buena.
+Por último, te presento este secreto que nos mostró una pareja local en una noche de tragos con amigas. Oculto en un callejón sin salida del centro (con cero pinta por fuera) se encuentra **The Austin Club**, un *speakeasy* (bar secreto) subterráneo ambientado en un sótano de los años 50. La estética es oscura, con jazz sonando de fondo y una carta de tragos sofisticados (y muy buenos).
 
-> **Dato clave de entrada:** Para poder entrar, necesitás buscar la contraseña semanal que publican en su cuenta de Instagram y decírsela al portero en la entrada antes de bajar las escaleras. Sí, todo muy de película.
+> **Dato:** Para poder entrar, necesitás buscar la contraseña semanal que publican en su cuenta de Instagram y decírsela al portero en la entrada antes de bajar las escaleras. Sí, todo muy de película.
 
-## ☀️ Día 2: Joyas ocultas, tardes de cine y el mirador de la ciudad
+## Día 2: 
 
 ### Mañana: Estilo industrial en The Tannery
 
@@ -139,9 +141,15 @@ Ubicado un poco más hacia el suburbio de Woolston, **The Tannery** es un centro
 
 Dentro de The Tannery se encuentra **Deluxe Cinemas**, un cine de autor de dos salas diseñado como los cines de los años 1920. Tiene sillones de terciopelo rojo, mesas de madera pulida y servicio de bar con vinos locales mientras ves la película. Es un plan salvador para una tarde lluviosa de invierno.
 
-Si el día acompaña, otra opción hermosa es subir a las **Port Hills** para hacer una caminata al atardecer y ver el sol caer sobre las llanuras de Canterbury.
+Si el día acompaña, otra opción hermosa es subir a las **Port Hills** para hacer una caminata al atardecer y ver el sol caer sobre las llanuras de Canterbury o una gran opción para mi gusto es:
 
-## 🗺️ Escapadas imperdibles: Opciones en las zonas aledañas
+El teleférico de Christchurch: Gondola y el sendero del cráter
+
+Para ver la ciudad y el mar al mismo tiempo, el Christchurch Gondola es una telecabina que te eleva sobre las laderas del *Mount Cavendish* en las Port Hills. A medida que sube,la vista panorámica es de 360 grados que abarca desde la llanura de Canterbury y los Alpes del Sur, hasta el puerto de Lyttelton y el Océano Pacífico.
+
+* **Para amantes del trekking:** Al pie de la góndola (Heathcote Valley) arranca el histórico *Bridle Path Walk* (un trekking empinado y exigente de 1.5 horas que recrea el camino que hacían los primeros colonos desde Lyttelton a Christchurch). En la parte superior conecta con el *Crater Rim Walkway*, con miradores naturales sobre los bordes rocosos del extinto cráter del volcán.
+
+## 🗺️ Otras opciones de escapadas imperdibles: en las zonas aledañas
 
 ### 1. Akaroa y el avistamiento de los delfines de Héctor
 
@@ -155,13 +163,7 @@ Si te gusta la alta montaña, esta excursión de un día es obligatoria. Podés 
 
 Si hacés base en el pueblo o vas en auto, no te pierdas la caminata a *Devil's Punchbowl*, una cascada espectacular de 131 metros rodeada de bosque nativo. Mantené los ojos abiertos: es muy probable que te cruces con el *Kea*, el único loro de montaña del mundo, conocido por ser sumamente curioso (¡y por intentar morder las gomas de los autos!).
 
-### 3. La Christchurch Gondola y el sendero del cráter
-
-Para ver la ciudad y el mar al mismo tiempo, podés subir a la [Christchurch Gondola](https://www.getyourguide.com/christchurch-l1013/christchurch-gondola-ride-t42475/?partner_id=TU_ID_AFILIADO), una telecabina que te eleva sobre las laderas del *Mount Cavendish* en las Port Hills. A medida que subís, se abre una panorámica espectacular en 360 grados que abarca desde la llanura de Canterbury y los Alpes del Sur, hasta el puerto de Lyttelton y el Océano Pacífico.
-
-* **Para amantes del trekking:** Al pie de la góndola (Heathcote Valley) arranca el histórico *Bridle Path Walk* (un trekking empinado y exigente de 1.5 horas que recrea el camino que hacían los primeros colonos desde Lyttelton a Christchurch). En la parte superior conecta con el *Crater Rim Walkway*, con miradores naturales alucinantes sobre los bordes rocosos del extinto cráter del volcán.
-
-### 4. El International Antarctic Centre
+### 3. El International Antarctic Centre
 
 Ubicado al lado del aeropuerto internacional, el **International Antarctic Centre** es un parque temático y científico interactivo fascinante. Christchurch es históricamente una de las cinco puertas de entrada oficiales a la Antártida (de acá salen las misiones de Estados Unidos y Nueva Zelanda). Podés experimentar una tormenta polar real dentro de una cúpula de hielo con temperaturas bajo cero, pasear en un vehículo anfibio todoterreno *Hagglund* original y conocer a los pequeños pingüinos azules en su centro de rescate.
 
