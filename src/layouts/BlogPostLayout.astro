@@ -86,6 +86,37 @@ const indices = headings ? headings.filter((h: any) => h.depth === 2 || h.depth 
 <!-- ========================================== -->
 <style>
 
+
+/* ============================================================
+     IMÁGENES LADO A LADO (ESTILO GALERÍA)
+     ============================================================ */
+  .imagenes-paralelas {
+      display: flex !important;
+      gap: 1.5rem !important;
+      margin: 2.5rem 0 !important;
+      width: 100% !important;
+  }
+
+  .imagenes-paralelas img {
+      flex: 1 !important;
+      width: 50% !important; /* Cada una toma la mitad del ancho */
+      height: 380px !important; /* Altura fija para que queden perfectamente alineadas */
+      object-fit: cover !important; /* Evita que las fotos se deformen o estiren */
+      border-radius: 0 !important; /* Mantenemos el estilo recto editorial */
+      margin: 0 !important;
+  }
+
+  /* MODO CELULAR: Se apilan verticalmente */
+  @media (max-width: 650px) {
+      .imagenes-paralelas {
+          flex-direction: column !important;
+          gap: 1rem !important;
+      }
+      .imagenes-paralelas img {
+          width: 100% !important;
+          height: auto !important; /* En celular que tomen su altura natural */
+      }
+  }
     /* ============================================================
      EFECTO "HOJA DE PAPEL" PARA EL ARTÍCULO
      ============================================================ */
