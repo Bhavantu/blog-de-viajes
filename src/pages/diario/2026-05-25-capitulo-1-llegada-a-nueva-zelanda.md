@@ -1,6 +1,7 @@
 ---
 layout: ../../layouts/BlogPostLayout.astro
-title: "Ruta por la Isla Norte que ver y primeros pasos en Nueva Zelanda:"
+title: "Primeros días en Nueva Zelanda: Ruta por la Isla Norte y 3 lugares
+  imperdibles del este"
 date: 2026-05-25T13:57:00.000+12:00
 tag: bitacora
 pais: Nueva Zelanda
