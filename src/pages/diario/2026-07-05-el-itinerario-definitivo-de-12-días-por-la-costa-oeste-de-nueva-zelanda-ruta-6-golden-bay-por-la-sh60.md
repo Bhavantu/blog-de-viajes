@@ -37,6 +37,8 @@ Si venís de la Isla Norte como nosotros, el ferry te deja en Picton. Luego de u
   * **Cable Bay:** Un desvío hermoso donde la montaña choca con una playa de piedras preciosa.
 * **Dónde dormir:** Nelson tiene Holiday Parks excelentes que podés encontrar en la app CamperMate para vehículos *self-contained*. Si tomás el ferry nocturno, como fue nuestro caso, también hay varios *free camping* cerca de la zona de Picton con vistas a las montañas.
 
+  <div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+
 - - -
 
 ## 2. Días 2 a 4: El desvío de la SH60 hacia la Golden Bay y Abel Tasman
