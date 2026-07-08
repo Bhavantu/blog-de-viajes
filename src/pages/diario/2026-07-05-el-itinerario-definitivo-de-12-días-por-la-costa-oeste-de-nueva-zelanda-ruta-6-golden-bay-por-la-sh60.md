@@ -13,16 +13,20 @@ Muchos de los viajeros que vamos a Nueva Zelanda lo hacemos con el sueño de viv
 
 La columna vertebral del viaje es la mítica Ruta 6, pero nosotros hicimos un desvío por recomendación de un músico local y sumamos la mágica península de Golden Bay a través de la State Highway 60 (SH60). En este artículo vas a encontrar una ruta optimizada de 12 días que te lleva por playas de arena dorada, bosques prehistóricos en el Parque Nacional Abel Tasman, pasos de montaña con vistas increíbles y glaciares, hasta terminar en Milford Sound, los fiordos más profundos del planeta.
 
-> 📊 **FICHA TÉCNICA DEL ROADTRIP (RESUMEN EJECUTIVO)**
+> 📊 **FICHA TÉCNICA DEL ROADTRIP (RESUMEN)**
 >
 > * **Duración total:** 12 días recomendados.
 > * **Distancia estimada:** ~1.200 km (Manejo neto: 20-22 horas repartidas).
 > * **Punto de inicio y fin:** Picton a Milford Sound (Isla Sur).
 > * **Rutas principales:** State Highway 6 (Ruta 6) y State Highway 60 (SH60).
-> * **Vehículo recomendado:** Campervan o vehículo con certificación *Self-Contained* para aprovechar los camping libres o auto de alquiler con motorización adecuada (mínimo 1.8L - 2.0L) (básicamente con potencia suficiente para subir comodamente los pasos de montaña (ideal si elegís hacer la ruta con la [comodidad de los hoteles.](https://www.booking.com/searchresults.es.html?ss=South+Island+%28Isla+Sur%29%2C+Nueva+Zelanda&ssne=Nueva+Zelanda&ssne_untouched=Nueva+Zelanda&efdco=1&label=nz-WCnuW9tzrM80NkDgoIXbNAS379601445588%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-357665074748%3Alp9072522%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YfpWGnRw6lOGZNq08ntPlxk&aid=1610688&lang=es&sb=1&src_elem=sb&src=country&dest_id=1059&dest_type=region&ac_position=0&ac_click_type=b&ac_langcode=es&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=e71f327af04803f5&ac_meta=GhBlNzFmMzI3YWYwNDgwM2Y1IAAoATICZXM6F051ZXZhIFplbGFuZGEgaXNsYSBzdXIg&checkin=2026-10-14&checkout=2026-10-15&ltfd=%3A%3A10-2026%3A1%3A&group_adults=2&no_rooms=1&group_children=0&sb_lp=1&selected_currency=USD#map_opened)
+> * **Vehículo recomendado:** Campervan o vehículo con certificación *Self-Contained* para aprovechar los camping libres. Alquila tu camper acá
+>
+>   O  auto  con motor adecuado (mínimo 1.8L - 2.0L) (básicamente con potencia suficiente para subir tranquilamente los pasos de montaña (ideal si elegís hacer la ruta con la [comodidad de los hoteles.](https://www.booking.com/searchresults.es.html?ss=South+Island+%28Isla+Sur%29%2C+Nueva+Zelanda&ssne=Nueva+Zelanda&ssne_untouched=Nueva+Zelanda&efdco=1&label=nz-WCnuW9tzrM80NkDgoIXbNAS379601445588%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-357665074748%3Alp9072522%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YfpWGnRw6lOGZNq08ntPlxk&aid=1610688&lang=es&sb=1&src_elem=sb&src=country&dest_id=1059&dest_type=region&ac_position=0&ac_click_type=b&ac_langcode=es&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=e71f327af04803f5&ac_meta=GhBlNzFmMzI3YWYwNDgwM2Y1IAAoATICZXM6F051ZXZhIFplbGFuZGEgaXNsYSBzdXIg&checkin=2026-10-14&checkout=2026-10-15&ltfd=%3A%3A10-2026%3A1%3A&group_adults=2&no_rooms=1&group_children=0&sb_lp=1&selected_currency=USD#map_opened)
 > * **Mejor época:** De noviembre a abril (verano / otoño).
 
-Esta guía rápida te da un vistazo general de norte a sur con puntos icónicos, referencias de tiempos de manejo, alertas de seguridad basadas en nuestra experiencia y consejos prácticos para que disfrutes de la ruta sin estrés. Si te interesa profundizar más, podés leer también https://blogcito.com/diario/
+Esta guía rápida te da un vistazo general de norte a sur con puntos icónicos, referencias de tiempos de manejo, alertas de seguridad basadas en nuestra experiencia y consejos prácticos para que disfrutes de la ruta sin estrés. 
+
+
 
 - - -
 
@@ -65,24 +69,23 @@ Le hicimos caso a la recomendación del músico local de Fat Eddie's\[cite: 1] y
 
 **Dato: La SH60 es un callejón sin salida es decir que para retomar la Ruta 6 y bajar al sur, hay que desandar el camino y volver a cruzar la montaña. Te recomendamos dedicarle al menos 3 días enteros para disfrutar sin correr o también podés optar por seguir solo por la Ruta 6 y pasar directamente al punto 5. Otra opción es [recorrer la Golden Bay en un tour de 1 día desde Nelson](https://www.getyourguide.com/es-es/nelson-nueva-zelanda-l1758/nelson-excursion-de-un-dia-a-golden-bay-t1009283/?ranking_uuid=af1abcb7-94e3-4c03-bc38-96c9875e1769&q=Parque+Nacional+Abel+Tasman+en+sup) visitando los puntos icónicos de la zona.**
 
-<div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
-
-<div class="imagenes-paralelas">
-  <img src="/img/diario/5.webp" alt="Descripción de la foto izquierda" />
-  <iimg src="/img/diario/4.webp" alt="Descripción de la foto derecha" />
-</div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/kaiteriteri-beach.jpeg" alt="Imagen de bitácora"><span class="img-caption">Kaiteriteri Beach - Golden Bay </span></div>
 
 - - -
 
 ## 3. Día 5: De Golden Bay a Punakaiki (Pancake Rocks) por la Ruta 6
 
-Volvimos a cruzar Takaka Hill por la SH60, reconectamos con la Ruta 6 hacia el sur y pasamos por el pueblo de Murchison (ideal para cargar nafta y descansar) hasta llegar al salvaje Mar de Tasmania.
+Volvimos a cruzar Takaka Hill por la SH60, reconectamos con la Ruta 6 hacia el sur y pasamos por el pueblo de Murchison (ideal para cargar nafta y descansar) hasta llegar al salvaje Mar de Tasmania. Nosotros optamos por pasar la tarde y dormir allí, una verdadera joya oculta  
+
+<div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 * **Tramos clave:** 265 km (aproximadamente 3.5 horas de manejo).
 * **Imperdibles en ruta:**
 
   * **Buller Gorge:** El puente colgante más largo de Nueva Zelanda.
   * **Punakaiki (Pancake Rocks):** Formaciones de piedra caliza que parecen pilas de panqueques gigantes. Si vas con marea alta, vas a ver cómo los sopladores (*blowholes*) escupen agua marina a metros de altura.
+
+    <div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 - - -
 
@@ -95,6 +98,8 @@ Recorriendo el camino hacia el sur llegamos a la zona húmeda de los glaciares, 
 
   * **Hokitika Gorge:** Un sendero corto que te lleva a un puente colgante sobre un río de un color turquesa que parece de mentira.
   * **Ross:** Un antiguo pueblo minero donde todavía se respira la fiebre del oro.
+
+    <div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 - - -
 
@@ -122,7 +127,9 @@ Cruzamos de una ciudad de lagos a la capital mundial del deporte de aventura.
 
   * **That Wanaka Tree:** El famoso árbol solitario que resiste dentro del lago Wanaka. La ciudad también es hermosa; nosotros tuvimos la suerte de coincidir el 31 de diciembre y el ambiente fue único: feria de comidas, música en vivo y fuegos artificiales.
 
-> 💡 **CONSEJO PARA DORMIR EN WANAKA**: Al ser una zona ultra turística, es necesario ir muy temprano a los *free campings* o reservar con anticipación en los Holiday Parks. Si te estacionás en la calle en zonas no permitidas, la multa es considerable. También podés encontrar hoteles en la zona para pasar la noche.
+> 💡 **CONSEJO PARA DORMIR EN WANAKA**: Al ser una zona ultra turística en temporada, es necesario ir muy temprano a los *free campings* o reservar con anticipación en los Holiday Parks. Si te estacionás en la calle en zonas no permitidas, la multa es considerable. También podés encontrar hoteles en la zona para pasar la noche.
+>
+> <div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 - - -
 
@@ -141,6 +148,8 @@ El broche de oro. La ruta escénica que te lleva desde Te Anau hasta Milford Sou
   * **[Milford Sound:](https://www.booking.com/attractions/nz/prh1d08irngk-2-hour-milford-sound-scenic-cruise.es.html?aid=2427663&label=milford-sound-attractions-D6Kuaf7TYN8%2AtM59pAzuIwS717216742695%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-2282772141770%3Alp9227990%3Ali%3Adec%3Adm%3Acid21786396167%3Aagid172490118841&source=searchresults-product-card&ufi=900052740&date=2026-07-08&timeslot=ATS-PRH1D08irNgk-202607081100-nullnull&ticket_type=OFI0NG3wxIFp)** Cascadas de deshielo cayendo por los fiordos de roca sobre las aguas oscuras y profundas. Podés caminar por los senderos cercanos, navegar sus fiordos e incluso visitarlo en helicóptero.
 
 🚢 **Navegando los fiordos:** La mejor forma de vivir Milford Sound es navegando sus aguas. Las salidas de los cruceros por la mañana suelen ser más baratas y tienen menos gente. Asegurá tu ticket con descuento y podés reservar [tu crucero por Milford Sound acá](https://www.booking.com/attractions/nz/prh1d08irngk-2-hour-milford-sound-scenic-cruise.es.html?aid=2427663&label=milford-sound-attractions-D6Kuaf7TYN8%2AtM59pAzuIwS717216742695%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-2282772141770%3Alp9227990%3Ali%3Adec%3Adm%3Acid21786396167%3Aagid172490118841&source=searchresults-product-card&ufi=900052740&date=2026-07-08&timeslot=ATS-PRH1D08irNgk-202607081100-nullnull&ticket_type=OFI0NG3wxIFp).
+
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/whatsapp-image-2026-06-01-at-14.38.17.jpeg" alt="Imagen de bitácora"><span class="img-caption">Mildfour Sound</span></div>
 
 - - -
 
