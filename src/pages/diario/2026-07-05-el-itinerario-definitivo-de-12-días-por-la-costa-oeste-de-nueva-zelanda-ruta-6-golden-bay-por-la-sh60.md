@@ -62,8 +62,8 @@ Le hicimos caso a la recomendación del músico local de Fat Eddie's\[cite: 1] y
 
 > ⚠️ **ALERTA DE SEGURIDAD EN LA SH60** 
 > La subida y bajada de Takaka Hill tiene curvas cerradas de cornisa. Actualización 2026: Las obras viales ya terminaron y toda la ruta está habilitada en óptimas condiciones. Igualmente, si manejás una campervan grande, es importante tener en cuenta que hay que subir en marchas bajas y usar amablemente los *passing bays* para dejar pasar a los locales.
->
-> **Dato:** La SH60 es un callejón sin salida (*cul-de-sac*): para retomar la Ruta 6 y bajar al sur, vas a tener que desandar el camino y volver a cruzar la montaña. Te recomendamos dedicarle al menos 3 días enteros para disfrutar sin correr o también podés optar por seguir solo por la Ruta 6 y pasar directamente al punto 5. Otra opción es [recorrer la Golden Bay en un tour de 1 día desde Nelson](https://www.getyourguide.com/es-es/nelson-nueva-zelanda-l1758/nelson-excursion-de-un-dia-a-golden-bay-t1009283/?ranking_uuid=af1abcb7-94e3-4c03-bc38-96c9875e1769&q=Parque+Nacional+Abel+Tasman+en+sup) visitando los puntos icónicos de la zona.
+
+**Dato: La SH60 es un callejón sin salida es decir que para retomar la Ruta 6 y bajar al sur, hay que desandar el camino y volver a cruzar la montaña. Te recomendamos dedicarle al menos 3 días enteros para disfrutar sin correr o también podés optar por seguir solo por la Ruta 6 y pasar directamente al punto 5. Otra opción es [recorrer la Golden Bay en un tour de 1 día desde Nelson](https://www.getyourguide.com/es-es/nelson-nueva-zelanda-l1758/nelson-excursion-de-un-dia-a-golden-bay-t1009283/?ranking_uuid=af1abcb7-94e3-4c03-bc38-96c9875e1769&q=Parque+Nacional+Abel+Tasman+en+sup) visitando los puntos icónicos de la zona.**
 
 - - -
 
