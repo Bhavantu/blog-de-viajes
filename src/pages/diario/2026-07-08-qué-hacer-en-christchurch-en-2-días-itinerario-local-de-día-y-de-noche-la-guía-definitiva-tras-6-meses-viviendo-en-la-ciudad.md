@@ -1,12 +1,13 @@
 ---
 layout: ../../layouts/BlogPostLayout.astro
-title: "Qué hacer en Christchurch en 2 días: Itinerario local de día y de noche
-  (La guía definitiva tras 6 meses viviendo en la ciudad)"
+title: "Qué hacer en Christchurch en 2 días: Itinerario local de día y noche (La
+  guía definitiva tras 6 meses viviendo en la ciudad)"
 date: 2026-07-09T00:46:00.000+08:00
 tag: guia de viaje
 pais: Nueva Zelanda
 description: "Qué hacer en Christchurch en 2 días: guía local con itinerario a
   pie, naturaleza, cultura y los mejores rincones nocturnos. Descubrí la ruta."
+main_image: /img/diario/ciudad-de-chrischurch.webp
 ---
 Si leíste mi artículo sobre por qué elegir Christchurch para arrancar tu Working Holiday, ya sabés que esta ciudad tiene una energía de resiliencia y comunidad única. No es la típica ciudad gris de paso; Christchurch es una ciudad con vibra local, cafés de especialidad, rincones culturales, naturaleza y una arquitectura moderna. Sin duda, es una de mis ciudades favoritas de Nueva Zelanda.
 
