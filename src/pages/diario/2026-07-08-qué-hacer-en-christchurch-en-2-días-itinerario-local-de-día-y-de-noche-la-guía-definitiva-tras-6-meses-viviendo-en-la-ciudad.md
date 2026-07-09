@@ -48,7 +48,9 @@ Para ayudarte a ubicarte en tu recorrido a pie de estos dos días, acá tenés l
 
 ### Mañana: El trazado urbano y la zona histórica
 
-El centro de la ciudad está delimitado por cuatro avenidas principales (Bealey, Fitzgerald, Moorhouse y Deans Avenue). Esta zona es preciosa para caminar y conocer. Empezá la mañana en la famosa **New Regent Street**, una joya peatonal de casas estilo *Spanish Mission* de tonos pastel por la que pasa el emblemático Tranvía Histórico de Christchurch.
+El centro de la ciudad está delimitado por cuatro avenidas principales (Bealey, Fitzgerald, Moorhouse y Deans Avenue). Esta zona es preciosa para caminar y conocer. Empezá la mañana en la famosa **New Regent Street**, una joya peatonal de casas estilo *Spanish Mission* de tonos pastel por la que pasa el emblemático [Tranvía Histórico de Christchurch.](https://www.getyourguide.com/es-es/christchurch-l945/tour-de-la-ciudad-de-christchurch-en-tranvia-antiguo-t58043/?ranking_uuid=be48381e-37b2-4133-8c70-ec65169a19af&q=Tranv%C3%ADa+Hist%C3%B3rico+de+Christchurch.&adults=1)
+
+<div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 Caminando hacia el corazón cívico, vas a cruzarte con algunos puntos icónicos como:
 
