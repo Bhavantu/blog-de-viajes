@@ -125,7 +125,7 @@ Cruzamos de una ciudad de lagos a la capital mundial del deporte de aventura.
 
 > 💡 **CONSEJO PARA DORMIR EN WANAKA**: Al ser una zona muy  turística en temporada, es necesario ir muy temprano a los *free campings* o reservar con anticipación en los Holiday Parks. Si te estacionás en la calle en zonas no permitidas, la multa es considerable. También podés encontrar [hoteles Wanaka para pasar la noche.](https://www.booking.com/searchresults.es.html?ss=Wanaka&ssne=Wanaka&ssne_untouched=Wanaka&theme_id=8&efdco=1&label=New_Spanish_ES_ROW_5496343705-IRXF**fXkjlT1Jfkfsb2mAS637942155485%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atidsa-55482331735%3Alp9227990%3Ali%3Adec%3Adm%3Aag5496343705%3Acmp108540265&sid=b79c37fc00fe5273ba01510bca8165bb&aid=318615&lang=es&sb=1&src_elem=sb&src=city&dest_id=-1516080&dest_type=city&checkin=2026-12-27&checkout=2026-12-28&group_adults=2&no_rooms=1&group_children=0&sb_lp=1&chal_t=1783608741051&force_referer=https%3A%2F%2Fblogcito.com%2F)
 >
-> <div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+> <div class="post-img-box img-completo img-centro"><img src="/img/diario/wanaka-.jpeg" alt="Imagen de bitácora"><span class="img-caption">Wanaka tree 2026</span></div>
 
 - - -
 
@@ -177,4 +177,4 @@ El clima en la Costa Oeste es impredecible y suele haber desprendimientos de roc
 * **Duración mínima recomendada:** 12 días enteros si querés sumar el desvío de la SH60..
 * [Información oficial sobre el Parque Nacional Abel Tasman y reserva de acampe acá.](https://www.doc.govt.nz/parks-and-recreation/places-to-go/nelson-tasman/places/abel-tasman-national-park/things-to-do/tracks/abel-tasman-coast-track/)
 * **[Seguro de viaje:](https://www.doc.govt.nz/parks-and-recreation/places-to-go/nelson-tasman/places/abel-tasman-national-park/things-to-do/tracks/abel-tasman-coast-track/)** No te olvides de viajar con un buen seguro que cubra deportes de aventura, sobre todo si vas a hacer trekkings técnicos como Lake Marian o actividades de adrenalina en Queenstown.
-* Buscar campervan de alquiler en Nueva Zelanda
+* [Buscar campervan de alquiler en Nueva Zelanda  acá](https://www.campstar.com/nz/campervan-hire/new_zealand?currency=aud&gad_campaignid=23783394670&gad_source=1&gbraid=0AAAAABjC6xFa2-2pcr-eXgiyPc_6Nuh6v&gclid=Cj0KCQjwjb3SBhDgARIsAMKiWzgykWcMSxM6YYJg1KVumr62EQ3amBxcrjndhb11dGDLcfs91dCmzfgaAgfwEALw_wcB)
