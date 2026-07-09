@@ -11,17 +11,20 @@ const {
   class="relative w-full h-[60vh] md:h-[75vh] flex items-center justify-center bg-cover bg-center"
   style={`background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5)), url('${bgImage}');`}
 >
-  <div class="text-center text-white px-4 max-w-3xl z-10 flex flex-col items-center">
+  <!-- Cambiamos px-4 por px-8 en móvil, pero mantenemos px-4 en pantallas grandes (md:px-4) -->
+  <div class="text-center text-white px-8 md:px-4 max-w-3xl z-10 flex flex-col items-center">
     
-    {}
     {subtitle && (
       <span class="text-xs md:text-sm tracking-[0.3em] uppercase font-semibold text-gray-200 block mb-3">
         {subtitle}
       </span>
     )}
     
-    <h1 class="text-4xl md:text-6xl font-bold tracking-tight mb-4 font-serif text-white">
-      {title}
+    <!-- Usamos set:html para que Astro procese el salto de línea correctamente -->
+    <h1 
+      class="text-4xl md:text-6xl font-bold tracking-tight mb-4 font-serif text-white leading-tight"
+      set:html={title}
+    >
     </h1>
     
     {description && (
