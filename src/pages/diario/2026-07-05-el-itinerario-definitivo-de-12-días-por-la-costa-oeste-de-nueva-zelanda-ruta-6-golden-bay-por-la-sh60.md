@@ -26,8 +26,6 @@ La columna vertebral del viaje es la mítica Ruta 6, pero nosotros hicimos un de
 
 Esta guía rápida te da un vistazo general de norte a sur con puntos icónicos, referencias de tiempos de manejo, alertas de seguridad basadas en nuestra experiencia y consejos prácticos para que disfrutes de la ruta sin estrés. 
 
-
-
 - - -
 
 ## 1. Día 1: De Picton a Nelson por la Queen Charlotte Drive (Ruta 6)
@@ -75,17 +73,17 @@ Le hicimos caso a la recomendación del músico local de Fat Eddie's\[cite: 1] y
 
 ## 3. Día 5: De Golden Bay a Punakaiki (Pancake Rocks) por la Ruta 6
 
-Volvimos a cruzar Takaka Hill por la SH60, reconectamos con la Ruta 6 hacia el sur y pasamos por el pueblo de Murchison (ideal para cargar nafta y descansar) hasta llegar al salvaje Mar de Tasmania. Nosotros optamos por pasar la tarde y dormir allí, una verdadera joya oculta  
+<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/murchison-.jpeg" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
-<div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+Volvimos a cruzar Takaka Hill por la SH60, reconectamos con la Ruta 6 hacia el sur y pasamos por el pueblo de Murchison (ideal para cargar nafta y descansar) hasta llegar al salvaje Mar de Tasmania. Nosotros optamos por pasar la tarde y dormir allí, en mi opinión un lugar de calma y belleza natural, una verdadera joya oculta . 
 
 * **Tramos clave:** 265 km (aproximadamente 3.5 horas de manejo).
-* **Imperdibles en ruta:**
+* **Imperdibles de la ruta:**
 
   * **Buller Gorge:** El puente colgante más largo de Nueva Zelanda.
   * **Punakaiki (Pancake Rocks):** Formaciones de piedra caliza que parecen pilas de panqueques gigantes. Si vas con marea alta, vas a ver cómo los sopladores (*blowholes*) escupen agua marina a metros de altura.
 
-    <div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/ruta-hacia-pankake-rock-.jpeg" alt="Imagen de bitácora"><span class="img-caption">Look out camino hacia las Pancake Rock - Punakaiki </span></div>
 
 - - -
 
@@ -96,10 +94,8 @@ Recorriendo el camino hacia el sur llegamos a la zona húmeda de los glaciares, 
 * **Tramos clave:** 220 km (unas 3 horas de manejo).
 * **Imperdibles en ruta:**
 
-  * **Hokitika Gorge:** Un sendero corto que te lleva a un puente colgante sobre un río de un color turquesa que parece de mentira.
-  * **Ross:** Un antiguo pueblo minero donde todavía se respira la fiebre del oro.
-
-    <div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+  * **Hokitika Gorge:** Un sendero corto que te lleva a un puente colgante sobre un río de un color turquesa.
+  * <div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 - - -
 
