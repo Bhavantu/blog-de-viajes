@@ -86,35 +86,45 @@ const indices = headings ? headings.filter((h: any) => h.depth === 2 || h.depth 
 <!-- ========================================== -->
 <style>
 
-
 /* ============================================================
-     IMÁGENES LADO A LADO (ESTILO GALERÍA)
+     GALERÍA EDITORIAL AUTOMÁTICA (Transforma listas de imágenes)
      ============================================================ */
-  .imagenes-paralelas {
+  
+  /* Detectamos si una lista común (ul) contiene imágenes adentro */
+  .article-view ul:has(img) {
       display: flex !important;
       gap: 1.5rem !important;
+      list-style: none !important; /* Borramos los puntitos de la lista */
+      padding: 0 !important;       /* Quitamos el margen izquierdo nativo */
       margin: 2.5rem 0 !important;
       width: 100% !important;
   }
 
-  .imagenes-paralelas img {
+  /* Hacemos que cada elemento de la lista se reparta el espacio por igual */
+  .article-view ul:has(img) li {
       flex: 1 !important;
-      width: 50% !important; /* Cada una toma la mitad del ancho */
-      height: 380px !important; /* Altura fija para que queden perfectamente alineadas */
-      object-fit: cover !important; /* Evita que las fotos se deformen o estiren */
-      border-radius: 0 !important; /* Mantenemos el estilo recto editorial */
+      margin: 0 !important;
+      padding: 0 !important;
+  }
+
+  /* Estilo estricto para las imágenes de la galería */
+  .article-view ul:has(img) img {
+      width: 100% !important;
+      height: 380px !important; /* Altura fija simétrica */
+      object-fit: cover !important; /* Evita deformaciones */
+      border-radius: 0 !important;  /* Estilo recto revista */
+      display: block !important;
       margin: 0 !important;
   }
 
-  /* MODO CELULAR: Se apilan verticalmente */
+  /* MODO CELULAR: Se rompe la fila y vuelven a ponerse en vertical */
   @media (max-width: 650px) {
-      .imagenes-paralelas {
+      .article-view ul:has(img) {
           flex-direction: column !important;
           gap: 1rem !important;
       }
-      .imagenes-paralelas img {
-          width: 100% !important;
-          height: auto !important; /* En celular que tomen su altura natural */
+      .article-view ul:has(img) img {
+          height: auto !important; /* En celu recuperan su proporción natural */
       }
   }
     /* ============================================================
