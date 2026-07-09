@@ -55,6 +55,9 @@ Caminando hacia el corazón cívico, vas a cruzarte con algunos puntos icónicos
 * **Cathedral Square:** El corazón de la ciudad, donde vas a respirar la mezcla de la historia colonial y el futuro que se está construyendo.
 * **Bridge of Remembrance (Puente del Recuerdo):** Un monumental arco de piedra que rinde homenaje a los soldados y sirve de entrada peatonal hacia la zona gastronómica del río.
 * **Victoria Square:** Un parque  con fuentes y estatuas históricas.
+* tren 
+
+
 
 ### Media mañana: Paseo por el Arts Centre y la memoria de la ciudad
 
@@ -67,9 +70,11 @@ Caminando unos minutos desde el Arts Centre podés descubrir:
 * **La Catedral de Christchurch (ChristChurch Cathedral):** La emblemática iglesia anglicana de Cathedral Square que sigue en su histórico proceso de reconstrucción tras el sismo.
 * **Canterbury Earthquake National Memorial:** El emblemático muro de mármol blanco ubicado junto al río Avon, que conmemora a las víctimas del terremoto de 2011. Visité este lugar en el aniversario de la tragedia; ver a las familias con flores en silencio me hizo conectar realmente con el agradecer por la vida, que al fin de cuentas es impredecible,
 * **Christchurch Art Gallery Te Puna o Waiwhetū:** El museo de arte contemporáneo de la ciudad. recomiendo al 100% es famoso por su fachada de vidrio ondulada y sus muestras vanguardistas. La visita es rápida, no tiene costo y ofrece colecciones interesantes de artistas de las islas del Pacífico.
+
+  <div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/museo-de-arte-chrischurch.jpeg" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 * **Canterbury Museum Pop-Up (Gloucester St):**Actualmente (2026) este museo mudó sus piezas más a un formato pop-up gratuito en el edificio de 66 Gloucester St. Es chiquito pero interesante, lleno de muestras de dinosaurios y propuestas interactivas para todas las edades. Como por ejemplo, un esqueleto de T-Rex, cajones para visualizar insectos con una lupa digital, un arenero para desenterrar los "fosiles". Muchos niños y no tan niños disfrutamos de la propuesta.
 
-Donde comer en Chrischurch
+## Donde comer en Chrischurch
 
 El polo gastronómico de la ciudad se encuentra cerca de la zona del centro, un claro ejemplo es el **Riverside Market** un mercado techado semicubierto, construido frente al río. Está lleno de opciones gastronómicas que van desde comida internacional de todos los rincones del mundo hasta panaderías locales, barras de cerveza artesanal y pequeñas tiendas en la entrada. Su horario es bastante extenso y algunas opciones recomendadas son: 
 
@@ -91,8 +96,6 @@ Christchurch tiene el apodo de "la ciudad jardín" y se debe a sus plazas verdes
 
 Si continuas caminando  junto al río Avon cruzando el icónico *Bridge of Remembrance* te lleva directamente a **The Strip** (en Oxford Terrace). Esta costanera peatonal concentra la mayor oferta gastronómica de la ciudad; acá es donde locales y turistas se encuentran a disfrutar de las terrazas y tomarse una copa en los bares top como *The Craft Embassy*, *Amazonita* o *The Terrace Tavern*.
 
-
-
 ## Noche de copas, música en vivo y sótanos secretos
 
 Christchurch tiene una vida nocturna bastante activa los fines de semana. Para ayudarte a organizar la salida, acá tenés la progresión de la noche perfecta ordenada de menor a mayor intensidad, podés elegir según tus intereses:
@@ -104,11 +107,15 @@ Antes de que caiga el sol, la mejor opción es subir a ver la cordillera y los c
 * **Lounge 505 (Cathedral Square):** Ubicado en la terraza del Christchurch City Hotel, es un lugar excelente para tomar una copa con vistas de 270 grados a la catedral y al corazón histórico. Cuentan con sumiller profesional.
 * **Pink Lady Rooftop Bar:** En el octavo piso del edificio de la calle Manchester. Ofrece las mejores vistas en 360 grados de toda la ciudad. Los tragos de autor son sofisticados y de presupuesto medio-alto. 
 
+  <div class="post-img-box img-pequeño img-izquierda"><img src="/img/diario/rooftoop-chrischurch-.jpeg" alt="Imagen de bitácora"><span class="img-caption">Lounge 505 (Cathedral Square):</span></div>
+
 ### 2. Cerveza y socialización:
 
 Si buscás algo relajado para juntarte con amigos, charlar de la vida o planificar los próximos trails: 
 
 * **The Church:** El lugar donde nos juntábamos con la mayoría de amigos que hice durante mi Working Holiday. Ubicado en una antigua iglesia reformada, este pub ofrece música en vivo, noches de trivia (*quiz nights*), un patio calefaccionado para el invierno y buenas opciones de comida vegetariana.
+
+  <div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 * **Paddy McNaughton’s:** Prácticamente pegado a *The Church* se encuentra este pub irlandés clásico del mismo dueño. Sirven el mejor gin irish que probé y pintas de Guinness (de las más baratas del centro)además descubrí que los fines de semana en el segundo piso se arman "fiestas irlandesas" en un espacio minúsculo un músico entona canciones tradicionales, todos cantan y bailan, la verdad es un ambiente de pura alegría, además súper inclusivo a compartir y bailar con la gente.
 
 ### 3. Rincones íntimos y sofisticados (New Regent Street)
@@ -131,7 +138,7 @@ Por último, te presento este secreto que nos mostró una pareja local en una no
 
 > **Dato:** Para poder entrar, necesitás buscar la contraseña semanal que publican en su cuenta de Instagram y decírsela al portero en la entrada antes de bajar las escaleras. Sí, todo muy de película.
 
-## Día 2: 
+## Día 2:
 
 ### Mañana: Estilo industrial en The Tannery
 
@@ -156,6 +163,8 @@ Para ver la ciudad y el mar al mismo tiempo, el Christchurch Gondola es una tele
 A solo una hora y media de auto de la ciudad, cruzando los valles verdes de la península de Banks, se llega a Akaroa, un encantador e histórico pueblo costero de herencia francesa (vas a ver banderas francesas y nombres de calles como *Rue Jolie*).
 
 Este pueblo está enclavado en un puerto que originalmente fue el cráter de un enorme volcán extinto. Podés reservar un [avistamiento de los delfines de Héctor](https://www.getyourguide.com/akaroa-l1983/akaroa-2-hour-harbor-nature-cruise-t66952/?partner_id=TU_ID_AFILIADO) para navegar por el fiordo volcánico y ver de cerca a los delfines marinos más pequeños y raros del mundo (tienen la aleta dorsal redondeada como la oreja de Mickey Mouse). Verlos saltar al lado de la embarcación es una experiencia inolvidable.
+
+<div class="post-img-box img-pequeño img-centro"><img src="/img/diario/whatsapp-image-2026-05-25-at-13.21.08.webp" alt="Imagen de bitácora"><span class="img-caption">Akaroa</span></div>
 
 ### 2. El tren TranzAlpine y el paso de montaña Arthur's Pass
 
