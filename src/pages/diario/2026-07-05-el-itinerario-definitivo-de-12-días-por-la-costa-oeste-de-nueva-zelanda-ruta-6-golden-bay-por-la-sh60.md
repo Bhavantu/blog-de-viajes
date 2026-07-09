@@ -37,7 +37,7 @@ Si venís de la Isla Norte como nosotros, el ferry te deja en Picton. Luego de u
 
   * **Pelorus Bridge:** Un sendero corto de 15 minutos entre árboles gigantescos sobre el río Rai. Perfecto para estirar las piernas.
   * **Cable Bay:** Un desvío hermoso donde la montaña choca con una playa de piedras preciosa.
-* **Dónde dormir:** Nelson tiene Holiday Parks excelentes que podés encontrar en la app CamperMate para vehículos *self-contained*. Si tomás el ferry nocturno, como fue nuestro caso, también hay varios *free camping* cerca de la zona de Picton con vistas a las montañas.
+* **Dónde dormir:** Nelson tiene Holiday Parks excelentes que podés encontrar en la app CamperMate para vehículos *self-contained*. Si tomás el ferry nocturno, como fue nuestro caso, también hay varios *free camping* Cargandocerca de la zona de Picton con vistas a las montañas.
 
   <div class="post-img-box img-mediano img-centro"><img src="/img/diario/nelson.jpeg" alt="Imagen de bitácora"><span class="img-caption">Nelson - Vista de Basin Reserve Walkway</span></div>
 
@@ -94,8 +94,8 @@ Recorriendo el camino hacia el sur llegamos a la zona húmeda de los glaciares, 
 * **Tramos clave:** 220 km (unas 3 horas de manejo).
 * **Imperdibles en ruta:**
 
-  * **Hokitika Gorge:** Un sendero corto que te lleva a un puente colgante sobre un río de un color turquesa.
-  * <div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+  * **Hokitika Gorge:** Un sendero corto que te lleva a un puente colgante sobre un río de un color turquesa que no tiene desperdicio. El recorrido es rápido y en temporada es una zona muy túristica.
+  * <div class="post-img-box img-completo img-centro"><img src="/img/diario/hokitika.jpeg" alt="Imagen de bitácora"><span class="img-caption">Hokitika River </span></div>
 
 - - -
 
@@ -121,9 +121,9 @@ Cruzamos de una ciudad de lagos a la capital mundial del deporte de aventura.
 * **Tramos clave:** 70 km por el camino de Crown Range Road (la ruta pavimentada más alta del país, con vistas espectaculares) o 110 km por el valle de Cromwell.
 * **Imperdibles en ruta:**
 
-  * **That Wanaka Tree:** El famoso árbol solitario que resiste dentro del lago Wanaka. La ciudad también es hermosa; nosotros tuvimos la suerte de coincidir el 31 de diciembre y el ambiente fue único: feria de comidas, música en vivo y fuegos artificiales.
+  * **That Wanaka Tree:** El famoso árbol solitario que resiste dentro del lago Wanaka. La ciudad también es hermosa; nosotros tuvimos la suerte de coincidir el 31 de diciembre y el ambiente fue único: feria de comidas, música en vivo y fuegos artificiales. Hermosa experiencia para pasar fin de año lejos de casa pero acompañado,
 
-> 💡 **CONSEJO PARA DORMIR EN WANAKA**: Al ser una zona ultra turística en temporada, es necesario ir muy temprano a los *free campings* o reservar con anticipación en los Holiday Parks. Si te estacionás en la calle en zonas no permitidas, la multa es considerable. También podés encontrar hoteles en la zona para pasar la noche.
+> 💡 **CONSEJO PARA DORMIR EN WANAKA**: Al ser una zona muy  turística en temporada, es necesario ir muy temprano a los *free campings* o reservar con anticipación en los Holiday Parks. Si te estacionás en la calle en zonas no permitidas, la multa es considerable. También podés encontrar [hoteles Wanaka para pasar la noche.](https://www.booking.com/searchresults.es.html?ss=Wanaka&ssne=Wanaka&ssne_untouched=Wanaka&theme_id=8&efdco=1&label=New_Spanish_ES_ROW_5496343705-IRXF**fXkjlT1Jfkfsb2mAS637942155485%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atidsa-55482331735%3Alp9227990%3Ali%3Adec%3Adm%3Aag5496343705%3Acmp108540265&sid=b79c37fc00fe5273ba01510bca8165bb&aid=318615&lang=es&sb=1&src_elem=sb&src=city&dest_id=-1516080&dest_type=city&checkin=2026-12-27&checkout=2026-12-28&group_adults=2&no_rooms=1&group_children=0&sb_lp=1&chal_t=1783608741051&force_referer=https%3A%2F%2Fblogcito.com%2F)
 >
 > <div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
@@ -140,7 +140,7 @@ El broche de oro. La ruta escénica que te lleva desde Te Anau hasta Milford Sou
 
   * **Lake Te Anau:** Un lago gigante rodeado de fiordos, una caminata plana fácil y con vistas alucinantes.
   * **Túnel Homer:** Una obra de ingeniería impresionante tallada a mano en la roca viva de la montaña. Parada al salir del túnel: mirador espectacular.
-  * **Lake Marian Track:** Un sendero que nos encantó. Es súper agreste, toma unas 3 horas (ida y vuelta) y arranca cruzando un puente colgante sobre el río Marian. Los primeros 10-15 minutos son planos hasta las cascadas, pero después el camino se vuelve una aventura física: vas a tener que avanzar esquivando raíces gigantes de árboles centenarios, rocas y zonas con barro. Es un trekking técnico muy entretenido que te obliga a estar presente en todo momento hasta llegar a un lago alpino hermoso.
+  * **Lake Marian Track:** Un sendero que nos encantó. Es súper agreste, toma unas 3 horas (ida y vuelta) y comienza cruzando un puente colgante sobre el río Marian. Los primeros 10-15 minutos son planos hasta las cascadas, pero después el camino se vuelve una verdadera aventura. El terreno es irregular, hay que avanzar esquivando raíces gigantes de árboles centenarios, rocas y zonas con barro. Es un trekking técnico muy entretenido que te obliga a estar presente e hasta llegar a un lago alpino, hermoso.
   * **[Milford Sound:](https://www.booking.com/attractions/nz/prh1d08irngk-2-hour-milford-sound-scenic-cruise.es.html?aid=2427663&label=milford-sound-attractions-D6Kuaf7TYN8%2AtM59pAzuIwS717216742695%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-2282772141770%3Alp9227990%3Ali%3Adec%3Adm%3Acid21786396167%3Aagid172490118841&source=searchresults-product-card&ufi=900052740&date=2026-07-08&timeslot=ATS-PRH1D08irNgk-202607081100-nullnull&ticket_type=OFI0NG3wxIFp)** Cascadas de deshielo cayendo por los fiordos de roca sobre las aguas oscuras y profundas. Podés caminar por los senderos cercanos, navegar sus fiordos e incluso visitarlo en helicóptero.
 
 🚢 **Navegando los fiordos:** La mejor forma de vivir Milford Sound es navegando sus aguas. Las salidas de los cruceros por la mañana suelen ser más baratas y tienen menos gente. Asegurá tu ticket con descuento y podés reservar [tu crucero por Milford Sound acá](https://www.booking.com/attractions/nz/prh1d08irngk-2-hour-milford-sound-scenic-cruise.es.html?aid=2427663&label=milford-sound-attractions-D6Kuaf7TYN8%2AtM59pAzuIwS717216742695%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-2282772141770%3Alp9227990%3Ali%3Adec%3Adm%3Acid21786396167%3Aagid172490118841&source=searchresults-product-card&ufi=900052740&date=2026-07-08&timeslot=ATS-PRH1D08irNgk-202607081100-nullnull&ticket_type=OFI0NG3wxIFp).
@@ -174,6 +174,7 @@ El clima en la Costa Oeste es impredecible y suele haber desprendimientos de roc
 
 ## 9. Datos prácticos para tu roadtrip
 
-* **Duración mínima recomendada:** 12 días enteros si querés sumar el desvío de la SH60 sin vivir a las corridas arriba de la camioneta.
-* [Información oficial sobre el Parque Nacional Abel Tasman y reserva de acampe](https://www.doc.govt.nz/parks-and-recreation/places-to-go/nelson-tasman/places/abel-tasman-national-park/things-to-do/tracks/abel-tasman-coast-track/)
+* **Duración mínima recomendada:** 12 días enteros si querés sumar el desvío de la SH60..
+* [Información oficial sobre el Parque Nacional Abel Tasman y reserva de acampe acá.](https://www.doc.govt.nz/parks-and-recreation/places-to-go/nelson-tasman/places/abel-tasman-national-park/things-to-do/tracks/abel-tasman-coast-track/)
 * **[Seguro de viaje:](https://www.doc.govt.nz/parks-and-recreation/places-to-go/nelson-tasman/places/abel-tasman-national-park/things-to-do/tracks/abel-tasman-coast-track/)** No te olvides de viajar con un buen seguro que cubra deportes de aventura, sobre todo si vas a hacer trekkings técnicos como Lake Marian o actividades de adrenalina en Queenstown.
+* Buscar campervan de alquiler en Nueva Zelanda
