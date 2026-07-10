@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPostLayout.astro
-title: "Qué hacer en Christchurch en 2 días: Itinerario local de día y noche (La
-  guía definitiva tras 6 meses viviendo en la ciudad)"
+title: Qué hacer en Christchurch en 2 días de actividades para el día y la noche
+  (La guía definitiva tras 6 meses viviendo en la ciudad)
 date: 2026-07-09T00:46:00.000+08:00
 tag: guia de viaje
 pais: Nueva Zelanda
@@ -9,9 +9,9 @@ description: "Qué hacer en Christchurch en 2 días: guía local con itinerario 
   pie, naturaleza, cultura y los mejores rincones nocturnos. Descubrí la ruta."
 main_image: /img/diario/ciudad-de-chrischurch.webp
 ---
-Si leíste mi artículo sobre por qué elegir Christchurch para arrancar tu Working Holiday, ya sabés que esta ciudad tiene una energía de resiliencia y comunidad única. No es la típica ciudad gris de paso; Christchurch es una ciudad con vibra local, cafés de especialidad, rincones culturales, naturaleza y una arquitectura moderna. Sin duda, es una de mis ciudades favoritas de Nueva Zelanda.
+Christchurch es una ciudad con vibra local, cafés de especialidad, rincones culturales, naturaleza y una arquitectura moderna. Sin duda, es una de mis ciudades favoritas de Nueva Zelanda. Si leíste mi artículo sobre por qué elegir Christchurch para arrancar tu Working Holiday, ya sabés que esta ciudad tiene una energía de resiliencia y comunidad única basada en su historia reciente. No es solo una ciudad gris de paso. 
 
-En este artículo te comparto todo lo interesante que hay para hacer en Christchurch después de haber vivido 6 meses ahí con mi Working Holiday Visa, estructurado en un recorrido perfecto de dos días para que no te pierdas de nada.
+En este artículo te comparto todo lo interesante que hay para hacer en Christchurch después de haber vivido 6 meses ahí con mi Working Holiday Visa. Estructurado en un recorrido armado de dos días para que no te pierdas de nada con toda la información para que puedas armar tu propio recorrido si así lo deseas. 
 
 Ya sea que estés de paso o que estés residiendo, estos planes se adaptan para todos los que quieran disfrutar de la ciudad y sus alrededores. A continuación, planazos de Christchurch.
 
@@ -19,49 +19,38 @@ Ya sea que estés de paso o que estés residiendo, estos planes se adaptan para 
 
 Información Clave:
 
-* **Duración sugerida :** 2 días completos (ideal para base inicial o escala técnica).
+* **Duración sugerida :** 2 días completos (ideal para base inicial o escala para conocer la ciudad).
 * **Presupuesto promedio:** Medio-Bajo (muchos planes gratuitos de naturaleza y cultura).
 * **Cómo moverse:** A pie por el centro, monopatines eléctricos (*Lime* o *Beam*) auto u omnibus urbanos.
-* **Hospedaje recomendado:** Centro de la ciudad (para abaratar el transporte diario) o Sumner beach para una experiencia increíble.
+* **Hospedaje recomendado:** Centro de la ciudad (practicad del transporte diario) o Sumner beach para una experiencia increíble. 
 * **Época recomendada:** Todo el año (primavera/verano para paseos al aire libre, adaptable para planes en otoño e invierno )
 
 ## 🗺️ Mapa de ruta del centro histórico y puntos clave
 
 Para ayudarte a ubicarte en tu recorrido a pie de estos dos días, acá tenés los puntos principales mapeados dentro de las cuatro avenidas límites del centro (*Bealey, Fitzgerald, Moorhouse y Deans Avenue*):
 
-<!-- Mapa Interactivo de Christchurch (Día 1 y Día 2) - Blogcito -->
 
-<div class="map-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 12px; margin: 24px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-  <iframe 
-    title="Mapa del recorrido de 2 días en Christchurch"
-    width="100%" 
-    height="100%" 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
-    loading="lazy" 
-    allowfullscreen 
-    src="https://www.openstreetmap.org/export/embed.html?bbox=172.6100%2C-43.5400%2C172.6500%2C-43.5200&amp;layer=mapnik&amp;marker=-43.5309%2C172.6366">
-  </iframe>
-</div>
-<small style="display: block; text-align: center; color: #666; margin-top: -16px; margin-bottom: 24px; font-size: 0.85em;">
-</small>
 
-# Día 1: Centro histórico, arte y mercados locales
+
+# Día 1
+
+# 1. Centro histórico, arte y mercados locales
 
 # Mañana: El trazado urbano y la zona histórica
 
-<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/tranvía-histórico-de-christchurch..webp" alt="Imagen de bitácora"><span class="img-caption">Tranvía Histórico de Christchurch</span></div>
+<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/tranvía-histórico-de-christchurch..jpeg" alt="Imagen de bitácora"><span class="img-caption">Tranvía Histórico de Christchurch</span></div>
 
-El centro de la ciudad está delimitado por cuatro avenidas principales (Bealey, Fitzgerald, Moorhouse y Deans Avenue). Esta zona es preciosa para caminar y conocer. Empezá la mañana en la famosa **New Regent Street**, una joya peatonal de casas estilo *Spanish Mission* de tonos pastel por la que pasa el emblemático [Tranvía Histórico de Christchurch.](https://www.getyourguide.com/es-es/christchurch-l945/tour-de-la-ciudad-de-christchurch-en-tranvia-antiguo-t58043/?ranking_uuid=be48381e-37b2-4133-8c70-ec65169a19af&q=Tranv%C3%ADa+Hist%C3%B3rico+de+Christchurch.&adults=1)
+El centro de la ciudad está delimitado por cuatro avenidas principales (Bealey, Fitzgerald, Moorhouse y Deans Avenue). Esta zona es linda para caminar y conocer. Como la famosa **New Regent Street**, unacalle peatonal de casas estilo Spanish Mission (foto de portada) de tonos pastel por la que pasa el emblemático [Tranvía Histórico de Christchurch. ](https://www.getyourguide.com/es-es/christchurch-l945/tour-de-la-ciudad-de-christchurch-en-tranvia-antiguo-t58043/?ranking_uuid=be48381e-37b2-4133-8c70-ec65169a19af&q=Tranv%C3%ADa+Hist%C3%B3rico+de+Christchurch.&adults=1)
 
-Caminando hacia el corazón cívico, vas a cruzarte con algunos puntos icónicos como:
+Sí seguis caminando hacia el centro cívico vas a cruzarte con algunos puntos icónicos como:
 
-* **Cathedral Square:** El corazón de la ciudad, donde vas a respirar la mezcla de la historia colonial y el futuro que se está construyendo.
-* **Bridge of Remembrance (Puente del Recuerdo):** Un monumental arco de piedra que rinde homenaje a los soldados y sirve de entrada peatonal hacia la zona gastronómica del río.
+* **Cathedral Square:** En el centro de la ciudad, es la catedrál historica más importante que actualmente se encuentra en reconstrucción tras el terremoto del 2011. 
+* **Bridge of Remembrance (Puente del Recuerdo):** Un monumental arco de piedra que rinde homenaje a los soldados caídos en las guerras (primera guerra mundial, segunda y enfrentamientos bélicos posteriores) y sirve de entrada peatonal hacia la zona gastronómica junto al río (punto 5)
 * **Victoria Square:** Un parque  con fuentes y estatuas históricas.
 
-  <div class="post-img-box img-mediano img-centro"><img src="/img/diario/rememoral-puerta-chrischurch-central-.webp" alt="Imagen de bitácora"><span class="img-caption">Bridge of Remembrance (Puente del Recuerdo)</span></div>
+  <div class="post-img-box img-mediano img-centro"><img src="/img/diario/rememoral-puerta-chrischurch-central-.jpeg" alt="Imagen de bitácora"><span class="img-caption">Bridge of Remembrance (Puente del Recuerdo)</span></div>
 
-# Media mañana: Paseo por el Arts Centre y la memoria de la ciudad
+# 2. Media mañana: Paseo por el Arts Centre y la memoria de la ciudad
 
 El **Arts Centre** de Christchurch es un complejo de edificios de estilo neogótico. Fue bastante golpeado en el gran terremoto del 2011, pero hoy está restaurado y lleno de vida con galerías de arte, tiendas y cafecitos.
 
@@ -73,10 +62,10 @@ Caminando unos minutos desde el Arts Centre podés descubrir:
 * **Canterbury Earthquake National Memorial:** El emblemático muro de mármol blanco ubicado junto al río Avon, que conmemora a las víctimas del terremoto de 2011. Visité este lugar en el aniversario de la tragedia; ver a las familias con flores en silencio me hizo conectar realmente con el agradecer por la vida, que al fin de cuentas es impredecible,
 * **Christchurch Art Gallery Te Puna o Waiwhetū:** El museo de arte contemporáneo de la ciudad. recomiendo al 100% es famoso por su fachada de vidrio ondulada y sus muestras vanguardistas. La visita es rápida, no tiene costo y ofrece colecciones interesantes de artistas de las islas del Pacífico.
 
-  <div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/museo-de-arte-chrischurch.webp" alt="Imagen de bitácora"><span class="img-caption">Christchurch Art Gallery Te Puna o Waiwhetū</span></div>
+  <div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/museo-de-arte-chrischurch.jpeg" alt="Imagen de bitácora"><span class="img-caption">Christchurch Art Gallery Te Puna o Waiwhetū</span></div>
 * **Canterbury Museum Pop-Up (Gloucester St):**Actualmente (2026) este museo mudó sus piezas más a un formato pop-up gratuito en el edificio de 66 Gloucester St. Es chiquito pero interesante, lleno de muestras de dinosaurios y propuestas interactivas para todas las edades. Como por ejemplo, un esqueleto de T-Rex, cajones para visualizar insectos con una lupa digital, un arenero para desenterrar los "fosiles". Muchos niños y no tan niños disfrutamos de la propuesta.
 
-# Donde comer en Chrischurch
+# 3. Donde comer en Chrischurch
 
 El polo gastronómico de la ciudad se encuentra cerca de la zona del centro, un claro ejemplo es el **Riverside Market** un mercado techado semicubierto, construido frente al río. Está lleno de opciones gastronómicas que van desde comida internacional de todos los rincones del mundo hasta panaderías locales, barras de cerveza artesanal y pequeñas tiendas en la entrada. Su horario es bastante extenso y algunas opciones recomendadas son: 
 
@@ -90,7 +79,7 @@ El polo gastronómico de la ciudad se encuentra cerca de la zona del centro, un 
 * **The Cookie Trader (124 Cashel St):** Un local chico especializado en galletas gigantes, rellenas de cheesecake de Oreo, caramelo salado con pretzel o marshmallows. La gracia es que las podés personalizar a gusto, todo muy "fancy".
 * **Rollickin Gelato (New Regent St & Cashel St):** Hacen helados artesanales usando leche orgánica de granjas de la zona de Canterbury. El local tiene un estilo particular con illones viejos recuperados de la calle y una canilla libre de chocolate derretido para bañar el cono. 
 
-# Tarde: El Jardín Botánico y el río Avon
+# 4. Tarde: El Jardín Botánico y el río Avon
 
 Christchurch tiene el apodo de "la ciudad jardín" y se debe a sus plazas verdes y al inmenso **Jardín Botánico**, pegado al río. Es el lugar perfecto para tirarse en el pasto a descansar, leer un libro, salir a correr los domingos o jugar al golf. En lo personal, era mi rincón de caminata post-trabajo, es literalmente tan grande que cada día recorría una zona diferente. Tiene un invernadero, un peque{o museo que cuenta sobre la flora de la isla y algo de historia sobre los jardines y además es sede de festivales de música gratuitos en verano.
 
@@ -98,7 +87,7 @@ Christchurch tiene el apodo de "la ciudad jardín" y se debe a sus plazas verdes
 
 Si continuas caminando  junto al río Avon cruzando el icónico *Bridge of Remembrance* te lleva directamente a **The Strip** (en Oxford Terrace). Esta costanera peatonal concentra la mayor oferta gastronómica de la ciudad; acá es donde locales y turistas se encuentran a disfrutar de las terrazas y tomarse una copa en los bares top como *The Craft Embassy*, *Amazonita* o *The Terrace Tavern*.
 
-# Noche de copas, música en vivo y sótanos secretos
+# 5. Noche de copas, música en vivo y sótanos secretos
 
 Christchurch tiene una vida nocturna bastante activa los fines de semana. Para ayudarte a organizar la salida, acá tenés la progresión de la noche perfecta ordenada de menor a mayor intensidad, podés elegir según tus intereses:
 
@@ -109,7 +98,7 @@ Antes de que caiga el sol, la mejor opción es subir a ver la cordillera y los c
 * **Lounge 505 (Cathedral Square):** Ubicado en la terraza del Christchurch City Hotel, es un lugar excelente para tomar una copa con vistas de 270 grados a la catedral y al corazón histórico. Cuentan con sumiller profesional.
 * **Pink Lady Rooftop Bar:** En el octavo piso del edificio de la calle Manchester. Ofrece las mejores vistas en 360 grados de toda la ciudad. Los tragos de autor son sofisticados y de presupuesto medio-alto. 
 
-  <div class="post-img-box img-pequeño img-izquierda"><img src="/img/diario/rooftoop-chrischurch-.webp" alt="Imagen de bitácora"><span class="img-caption">Lounge 505 (Cathedral Square):</span></div>
+  <div class="post-img-box img-pequeño img-izquierda"><img src="/img/diario/rooftoop-chrischurch-.jpeg" alt="Imagen de bitácora"><span class="img-caption">Lounge 505 (Cathedral Square):</span></div>
 
 ## 2. Cerveza y socialización:
 
@@ -117,7 +106,7 @@ Si buscás algo relajado para juntarte con amigos, charlar de la vida o planific
 
 * **The Church:** El lugar donde nos juntábamos con la mayoría de amigos que hice durante mi Working Holiday. Ubicado en una antigua iglesia reformada, este pub ofrece música en vivo, noches de trivia (*quiz nights*), un patio calefaccionado para el invierno y buenas opciones de comida vegetariana.
 
-  <div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/the-church-.webp" alt="Imagen de bitácora"><span class="img-caption">The church, el templo de la socialización de los working Holiday</span></div>
+  <div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/the-church-.jpeg" alt="Imagen de bitácora"><span class="img-caption">The church, el templo de la socialización de los working Holiday</span></div>
 * **Paddy McNaughton’s:** Prácticamente pegado a *The Church* se encuentra este pub irlandés clásico del mismo dueño. Sirven el mejor gin irish que probé y pintas de Guinness (de las más baratas del centro)además descubrí que los fines de semana en el segundo piso se arman "fiestas irlandesas" en un espacio minúsculo un músico entona canciones tradicionales, todos cantan y bailan, la verdad es un ambiente de pura alegría, además súper inclusivo a compartir y bailar con la gente.
 
 ### 3. Rincones íntimos y sofisticados (New Regent Street)
@@ -140,15 +129,15 @@ Por último, te presento este secreto que nos mostró una pareja local en una no
 
 > **Dato:** Para poder entrar, necesitás buscar la contraseña semanal que publican en su cuenta de Instagram y decírsela al portero en la entrada antes de bajar las escaleras. Sí, todo muy de película.
 
-## Día 2:
+## Día 2
 
-### Mañana: Estilo industrial en The Tannery
+## 6. Mañana: Estilo industrial en The Tannery
 
-<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/the-tannery.webp" alt="Imagen de bitácora"><span class="img-caption">The Tannery</span></div>
+<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/the-tannery.jpeg" alt="Imagen de bitácora"><span class="img-caption">The Tannery</span></div>
 
 Ubicado un poco más hacia el suburbio de Woolston, **The Tannery** es un centro comercial boutique reciclado de una antigua curtiembre industrial victoriana. Es el lugar perfecto para recorrer librerías independientes, tiendas de ropa vintage y desayunar en alguna cafetería local. Toda la estética es muy cuidada, combinando hierro fundido, madera y vitrales redondeados.
 
-### Tarde: Un cine de época o caminata al atardecer
+### 7. Tarde: Un cine de época o caminata al atardecer
 
 Dentro de The Tannery se encuentra **Deluxe Cinemas**, un cine de autor de dos salas diseñado como los cines de los años 1920. Tiene sillones de terciopelo rojo, mesas de madera pulida y servicio de bar con vinos locales mientras ves la película. Es un plan salvador para una tarde lluviosa de invierno.
 
