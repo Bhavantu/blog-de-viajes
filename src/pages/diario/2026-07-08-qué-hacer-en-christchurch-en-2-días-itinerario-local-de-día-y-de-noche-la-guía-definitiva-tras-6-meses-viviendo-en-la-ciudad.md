@@ -29,9 +29,6 @@ Información Clave:
 
 Para ayudarte a ubicarte en tu recorrido a pie de estos dos días, acá tenés los puntos principales mapeados dentro de las cuatro avenidas límites del centro (*Bealey, Fitzgerald, Moorhouse y Deans Avenue*):
 
-
-
-
 # Día 1
 
 # 1. Centro histórico, arte y mercados locales
@@ -46,13 +43,15 @@ Sí seguis caminando hacia el centro cívico vas a cruzarte con algunos puntos i
 
 * **Cathedral Square:** En el centro de la ciudad, es la catedrál historica más importante que actualmente se encuentra en reconstrucción tras el terremoto del 2011. 
 * **Bridge of Remembrance (Puente del Recuerdo):** Un monumental arco de piedra que rinde homenaje a los soldados caídos en las guerras (primera guerra mundial, segunda y enfrentamientos bélicos posteriores) y sirve de entrada peatonal hacia la zona gastronómica junto al río (punto 5)
-* **Victoria Square:** Un parque  con fuentes y estatuas históricas.
+* **Victoria Square:** Un parque  con fuentes y estatuas históricas una bella caminata rodeada de arboles, verde y el Río Avon. 
 
   <div class="post-img-box img-mediano img-centro"><img src="/img/diario/rememoral-puerta-chrischurch-central-.jpeg" alt="Imagen de bitácora"><span class="img-caption">Bridge of Remembrance (Puente del Recuerdo)</span></div>
 
 # 2. Media mañana: Paseo por el Arts Centre y la memoria de la ciudad
 
-El **Arts Centre** de Christchurch es un complejo de edificios de estilo neogótico. Fue bastante golpeado en el gran terremoto del 2011, pero hoy está restaurado y lleno de vida con galerías de arte, tiendas y cafecitos.
+El **Arts Centre** de Christchurch es un complejo de edificios de estilo neogótico. Fue bastante golpeado en el gran terremoto del 2011, pero hoy está restaurado y lleno de vida con galerías de arte, tiendas y cafés.
+
+<div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 > **💡 Tip de viaje:** A veces la zona se llena de color con eventos en la calle, como el festival de arte urbano *Flare Street Art Festival* o el festival de artistas callejeros a la gorra *World Buskers Festival* que tuve el placer de presenciar. Podés chequear qué fechas coinciden con tu viaje en la página oficial de turismo y eventos de ChristchurchNZ.
 
