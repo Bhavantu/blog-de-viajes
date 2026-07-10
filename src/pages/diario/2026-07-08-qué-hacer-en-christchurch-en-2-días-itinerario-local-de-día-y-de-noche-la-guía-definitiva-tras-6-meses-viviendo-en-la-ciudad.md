@@ -19,7 +19,7 @@ Ya sea que estés de paso o que estés residiendo, estos planes se adaptan para 
 
 Información Clave:
 
-* **Duración sugerida :** 2 días completos (ideal para base inicial o escala para conocer la ciudad).
+* **Duración sugerida :** 2 días completos (ideal para hacer base y explorar los alrededores o escala para conocer la ciudad).
 * **Presupuesto promedio:** Medio-Bajo (muchos planes gratuitos de naturaleza y cultura).
 * **Cómo moverse:** A pie por el centro, monopatines eléctricos (*Lime* o *Beam*) auto u omnibus urbanos.
 * **Hospedaje recomendado:** Centro de la ciudad (practicad del transporte diario) o Sumner beach para una experiencia increíble. 
@@ -37,7 +37,7 @@ Para ayudarte a ubicarte en tu recorrido a pie de estos dos días, acá tenés l
 
 <div class="post-img-box img-mediano img-derecha"><img src="/img/diario/tranvía-histórico-de-christchurch..jpeg" alt="Imagen de bitácora"><span class="img-caption">Tranvía Histórico de Christchurch</span></div>
 
-El centro de la ciudad está delimitado por cuatro avenidas principales (Bealey, Fitzgerald, Moorhouse y Deans Avenue). Esta zona es linda para caminar y conocer. Como la famosa **New Regent Street**, unacalle peatonal de casas estilo Spanish Mission (foto de portada) de tonos pastel por la que pasa el emblemático [Tranvía Histórico de Christchurch. ](https://www.getyourguide.com/es-es/christchurch-l945/tour-de-la-ciudad-de-christchurch-en-tranvia-antiguo-t58043/?ranking_uuid=be48381e-37b2-4133-8c70-ec65169a19af&q=Tranv%C3%ADa+Hist%C3%B3rico+de+Christchurch.&adults=1)
+El centro de la ciudad está delimitado por cuatro avenidas principales (Bealey, Fitzgerald, Moorhouse y Deans Avenue). Esta zona es linda para caminar y conocer. Como la famosa **New Regent Street**, una calle peatonal de casas estilo Spanish Mission (foto de portada) de tonos pastel por la que pasa el emblemático [Tranvía Histórico de Christchurch. ](https://www.getyourguide.com/es-es/christchurch-l945/tour-de-la-ciudad-de-christchurch-en-tranvia-antiguo-t58043/?ranking_uuid=be48381e-37b2-4133-8c70-ec65169a19af&q=Tranv%C3%ADa+Hist%C3%B3rico+de+Christchurch.&adults=1)
 
 Sí seguis caminando hacia el centro cívico vas a cruzarte con algunos puntos icónicos como:
 
