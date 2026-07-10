@@ -27,6 +27,15 @@ const isGaleria = Astro.url.pathname.includes('/galeria');
 <html lang="es">
     <head>
         <meta charset="UTF-8" />
+
+        <script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-37WGK8P699"></script>
+        <script is:inline>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-37WGK8P699');
+        </script>
         <meta name="viewport" content="width=device-width" />
         <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
         <title>{title}</title>
@@ -60,7 +69,6 @@ const isGaleria = Astro.url.pathname.includes('/galeria');
             }
         }
         </script>
-        <script type="text/javascript">(function(i,m,p,a,c,t){c.ire_o=p;c[p]=c[p]||function(){(c[p].a=c[p].a||[]).push(arguments)};t=a.createElement(m);var z=a.getElementsByTagName(m)[0];t.async=1;t.src=i;z.parentNode.insertBefore(t,z)})('https://utt.impactcdn.com/P-A7468102-f14f-4bcd-a1cf-a0c8d22381e41.js','script','impactStat',document,window);impactStat('transformLinks');impactStat('trackImpression');</script>
 
     </head>
     <body>
@@ -527,5 +535,6 @@ const isGaleria = Astro.url.pathname.includes('/galeria');
         'floating-chat.donateButton.text-color': '#fff'
       });
     </script>
+
     </body>
 </html>
