@@ -240,6 +240,7 @@ const isGaleria = Astro.url.pathname.includes('/galeria');
             footer { width: 100%; text-align: center; padding: 4rem 2rem; font-size: 0.8rem; color: var(--accent-color); margin-top: auto; clear: both; }
             
                 /* ESTILOS DEL BUSCADOR */
+/* ESTILOS DEL BUSCADOR */
             .search-modal {
                 display: none;
                 position: fixed;
@@ -268,6 +269,7 @@ const isGaleria = Astro.url.pathname.includes('/galeria');
                 margin-bottom: 1rem;
                 border-bottom: 2px solid #eee;
                 padding-bottom: 1rem;
+                align-items: center; /* Centra la X con el input */
             }
             
             #search-input {
@@ -277,6 +279,8 @@ const isGaleria = Astro.url.pathname.includes('/galeria');
                 border: none;
                 outline: none;
                 font-family: inherit;
+                min-width: 0; /* MAGIA: Permite que el input se encoja en celulares */
+                width: 100%;
             }
             
             #close-search {
@@ -286,6 +290,7 @@ const isGaleria = Astro.url.pathname.includes('/galeria');
                 cursor: pointer;
                 color: #999;
                 transition: color 0.3s;
+                flex-shrink: 0; /* MAGIA: Evita que el input aplaste a la X */
             }
             #close-search:hover { color: #333; }
             
@@ -302,6 +307,20 @@ const isGaleria = Astro.url.pathname.includes('/galeria');
             .search-result-item p { margin: 0; font-size: 0.9rem; color: #666; line-height: 1.4; }
             .search-result-item:hover h4 { text-decoration: underline; }
 
+            /* Ajustes del buscador para celulares */
+            @media (max-width: 768px) {
+                .search-container {
+                    width: 95%; /* Aprovecha un poquito más el ancho de la pantalla */
+                    padding: 1rem;
+                }
+                #search-input {
+                    font-size: 1rem; /* Achicamos la letra para que entre el texto largo */
+                    padding: 8px 5px;
+                }
+                .search-header {
+                    gap: 0.5rem;
+                }
+            }
             /* =======================
             ESTILOS DE LA PAGINACIÓN 
             =========================*/
