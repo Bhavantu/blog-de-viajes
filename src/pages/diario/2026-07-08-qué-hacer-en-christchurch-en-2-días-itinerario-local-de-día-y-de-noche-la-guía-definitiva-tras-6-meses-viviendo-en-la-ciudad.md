@@ -27,7 +27,9 @@ Información Clave:
 
 ## 🗺️ Mapa de ruta del centro histórico y puntos clave
 
-Para ayudarte a ubicarte en tu recorrido a pie de estos dos días, acá tenés los puntos principales mapeados dentro de las cuatro avenidas límites del centro (*Bealey, Fitzgerald, Moorhouse y Deans Avenue*):
+Para ayudarte a ubicarte en tu recorrido a pie de estos dos días, acá tenés los puntos principales mapeados dentro de las cuatro avenidas principales del centro (*Bealey, Fitzgerald, Moorhouse y Deans Avenue*)
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1qxgmKDg0TlTplt-dyE5BZ3Xxa7UNqxc&hl=es&ehbc=2E312F" width="640" height="480"></iframe>
 
 # Día 1
 
