@@ -49,7 +49,7 @@ Para ayudarte a ubicarte en tu recorrido a pie de estos dos días, acá tenés l
 
 # Mañana: El trazado urbano y la zona histórica
 
-<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/tranvía-histórico-de-christchurch..jpeg" alt="Imagen de bitácora"><span class="img-caption">Tranvía Histórico de Christchurch</span></div>
+<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/tranvía-histórico-de-christchurch..webp" alt="Imagen de bitácora"><span class="img-caption">Tranvía Histórico de Christchurch</span></div>
 
 El centro de la ciudad está delimitado por cuatro avenidas principales (Bealey, Fitzgerald, Moorhouse y Deans Avenue). Esta zona es preciosa para caminar y conocer. Empezá la mañana en la famosa **New Regent Street**, una joya peatonal de casas estilo *Spanish Mission* de tonos pastel por la que pasa el emblemático [Tranvía Histórico de Christchurch.](https://www.getyourguide.com/es-es/christchurch-l945/tour-de-la-ciudad-de-christchurch-en-tranvia-antiguo-t58043/?ranking_uuid=be48381e-37b2-4133-8c70-ec65169a19af&q=Tranv%C3%ADa+Hist%C3%B3rico+de+Christchurch.&adults=1)
 
@@ -59,7 +59,7 @@ Caminando hacia el corazón cívico, vas a cruzarte con algunos puntos icónicos
 * **Bridge of Remembrance (Puente del Recuerdo):** Un monumental arco de piedra que rinde homenaje a los soldados y sirve de entrada peatonal hacia la zona gastronómica del río.
 * **Victoria Square:** Un parque  con fuentes y estatuas históricas.
 
-  <div class="post-img-box img-mediano img-centro"><img src="/img/diario/rememoral-puerta-chrischurch-central-.jpeg" alt="Imagen de bitácora"><span class="img-caption">Bridge of Remembrance (Puente del Recuerdo)</span></div>
+  <div class="post-img-box img-mediano img-centro"><img src="/img/diario/rememoral-puerta-chrischurch-central-.webp" alt="Imagen de bitácora"><span class="img-caption">Bridge of Remembrance (Puente del Recuerdo)</span></div>
 
 # Media mañana: Paseo por el Arts Centre y la memoria de la ciudad
 
@@ -73,7 +73,7 @@ Caminando unos minutos desde el Arts Centre podés descubrir:
 * **Canterbury Earthquake National Memorial:** El emblemático muro de mármol blanco ubicado junto al río Avon, que conmemora a las víctimas del terremoto de 2011. Visité este lugar en el aniversario de la tragedia; ver a las familias con flores en silencio me hizo conectar realmente con el agradecer por la vida, que al fin de cuentas es impredecible,
 * **Christchurch Art Gallery Te Puna o Waiwhetū:** El museo de arte contemporáneo de la ciudad. recomiendo al 100% es famoso por su fachada de vidrio ondulada y sus muestras vanguardistas. La visita es rápida, no tiene costo y ofrece colecciones interesantes de artistas de las islas del Pacífico.
 
-  <div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/museo-de-arte-chrischurch.jpeg" alt="Imagen de bitácora"><span class="img-caption">Christchurch Art Gallery Te Puna o Waiwhetū</span></div>
+  <div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/museo-de-arte-chrischurch.webp" alt="Imagen de bitácora"><span class="img-caption">Christchurch Art Gallery Te Puna o Waiwhetū</span></div>
 * **Canterbury Museum Pop-Up (Gloucester St):**Actualmente (2026) este museo mudó sus piezas más a un formato pop-up gratuito en el edificio de 66 Gloucester St. Es chiquito pero interesante, lleno de muestras de dinosaurios y propuestas interactivas para todas las edades. Como por ejemplo, un esqueleto de T-Rex, cajones para visualizar insectos con una lupa digital, un arenero para desenterrar los "fosiles". Muchos niños y no tan niños disfrutamos de la propuesta.
 
 # Donde comer en Chrischurch
@@ -109,7 +109,7 @@ Antes de que caiga el sol, la mejor opción es subir a ver la cordillera y los c
 * **Lounge 505 (Cathedral Square):** Ubicado en la terraza del Christchurch City Hotel, es un lugar excelente para tomar una copa con vistas de 270 grados a la catedral y al corazón histórico. Cuentan con sumiller profesional.
 * **Pink Lady Rooftop Bar:** En el octavo piso del edificio de la calle Manchester. Ofrece las mejores vistas en 360 grados de toda la ciudad. Los tragos de autor son sofisticados y de presupuesto medio-alto. 
 
-  <div class="post-img-box img-pequeño img-izquierda"><img src="/img/diario/rooftoop-chrischurch-.jpeg" alt="Imagen de bitácora"><span class="img-caption">Lounge 505 (Cathedral Square):</span></div>
+  <div class="post-img-box img-pequeño img-izquierda"><img src="/img/diario/rooftoop-chrischurch-.webp" alt="Imagen de bitácora"><span class="img-caption">Lounge 505 (Cathedral Square):</span></div>
 
 ## 2. Cerveza y socialización:
 
@@ -117,7 +117,7 @@ Si buscás algo relajado para juntarte con amigos, charlar de la vida o planific
 
 * **The Church:** El lugar donde nos juntábamos con la mayoría de amigos que hice durante mi Working Holiday. Ubicado en una antigua iglesia reformada, este pub ofrece música en vivo, noches de trivia (*quiz nights*), un patio calefaccionado para el invierno y buenas opciones de comida vegetariana.
 
-  <div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/the-church-.jpeg" alt="Imagen de bitácora"><span class="img-caption">The church, el templo de la socialización de los working Holiday</span></div>
+  <div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/the-church-.webp" alt="Imagen de bitácora"><span class="img-caption">The church, el templo de la socialización de los working Holiday</span></div>
 * **Paddy McNaughton’s:** Prácticamente pegado a *The Church* se encuentra este pub irlandés clásico del mismo dueño. Sirven el mejor gin irish que probé y pintas de Guinness (de las más baratas del centro)además descubrí que los fines de semana en el segundo piso se arman "fiestas irlandesas" en un espacio minúsculo un músico entona canciones tradicionales, todos cantan y bailan, la verdad es un ambiente de pura alegría, además súper inclusivo a compartir y bailar con la gente.
 
 ### 3. Rincones íntimos y sofisticados (New Regent Street)
@@ -144,7 +144,7 @@ Por último, te presento este secreto que nos mostró una pareja local en una no
 
 ### Mañana: Estilo industrial en The Tannery
 
-<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/the-tannery.jpeg" alt="Imagen de bitácora"><span class="img-caption">The Tannery</span></div>
+<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/the-tannery.webp" alt="Imagen de bitácora"><span class="img-caption">The Tannery</span></div>
 
 Ubicado un poco más hacia el suburbio de Woolston, **The Tannery** es un centro comercial boutique reciclado de una antigua curtiembre industrial victoriana. Es el lugar perfecto para recorrer librerías independientes, tiendas de ropa vintage y desayunar en alguna cafetería local. Toda la estética es muy cuidada, combinando hierro fundido, madera y vitrales redondeados.
 
