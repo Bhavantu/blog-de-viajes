@@ -55,8 +55,7 @@ const isGaleria = Astro.url.pathname.includes('/galeria');
         
         <script is:inline src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
-                <!-- Datos estructurados para ayudar a generar Sitelinks -->
-        <script type="application/ld+json" is:inline>
+                <script type="application/ld+json" is:inline>
         {
             "@context": "https://schema.org",
             "@type": "WebSite",
@@ -113,13 +112,64 @@ const isGaleria = Astro.url.pathname.includes('/galeria');
 
             @media (max-width: 768px) {
                 .site-header { padding: 2rem; }
-                .menu-toggle { display: block; }
-                #main-nav { display: none; position: absolute; top: 100%; left: 0; width: 100%; background-color: var(--bg-color); box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1); z-index: 1000; padding: 1.5rem 0; text-align: center; }
-                #main-nav.menu-open { display: block; }
-                nav ul.nav-links { flex-direction: column; gap: 1.5rem; }
+                .menu-toggle { display: block; position: relative; z-index: 1001; }
+                
+                /* Backdrop de sombra */
+                .menu-overlay {
+                    position: fixed;
+                    top: 0; left: 0; width: 100vw; height: 100vh;
+                    background: rgba(0,0,0,0.6);
+                    z-index: 990;
+                    opacity: 0; pointer-events: none;
+                    transition: opacity 0.3s ease;
+                }
+                .menu-overlay.menu-open { opacity: 1; pointer-events: auto; }
+
+                /* Menú lateral (Drawer) */
+                #main-nav { 
+                    display: flex; 
+                    flex-direction: column;
+                    position: fixed; 
+                    top: 0; 
+                    right: 0; 
+                    width: 260px; 
+                    height: 100vh; 
+                    background-color: var(--bg-color); 
+                    box-shadow: -5px 0 15px rgba(0,0,0,0.1); 
+                    z-index: 1000; 
+                    padding: 6rem 1.5rem 2rem; 
+                    transform: translateX(100%); /* Escondido a la derecha */
+                    transition: transform 0.3s ease-in-out;
+                    text-align: center;
+                }
+                #main-nav.menu-open { 
+                    transform: translateX(0); /* Entra a la pantalla */
+                }
+                
+                nav ul.nav-links { flex-direction: column; gap: 2rem; align-items: center; }
+
+                /* Colores oscuros forzados para que se lean sobre fondo claro */
+                .header-wrapper.transparente #main-nav a,
+                .header-wrapper.transparente #main-nav .btn-buscar svg,
+                #main-nav a,
+                #main-nav .btn-buscar svg {
+                    color: var(--text-color) !important;
+                    text-shadow: none !important;
+                }
+                
+                /* Cambiar color de la "X" al abrir sobre fotos claras */
+                .menu-toggle.menu-abierto {
+                    color: var(--text-color) !important;
+                    text-shadow: none !important;
+                }
             }
 
             .container { max-width: 1000px; margin: 0 auto; padding: 2rem 2rem 6rem 2rem; width: 100%; flex-grow: 1; }
+            
+            /* Ajuste de padding para celulares */
+            @media (max-width: 768px) {
+                .container { padding: 1rem 1rem 4rem 1rem; }
+            }
             
             /* Galería Grid */
             .photo-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 4rem 2rem; }
@@ -174,14 +224,15 @@ const isGaleria = Astro.url.pathname.includes('/galeria');
             .text-column blockquote { border-left: 4px solid #ddd; padding: 1.5rem 0 1.5rem 2rem; margin: 3.5rem 0; font-family: var(--font-display); font-size: 1.45rem; color: #222; font-style: italic; background-color: #f9f9f9; line-height: 1.5; }
             
             /* Imágenes estáticas en los artículos */
-            .text-column img { display: block; max-width: 100% !important; height: auto !important; margin: 2.5rem auto; object-fit: contain; }
+            .text-column img { display: block; max-width: 100% !important; height: auto !important; margin: 2.5rem auto 0.5rem auto; object-fit: contain; }
 
             .text-column p:has(img:nth-of-type(2)) { display: block; column-count: 2; column-gap: 1rem; margin: 3rem 0; width: 100%; }
             @media (min-width: 950px) { .text-column p:has(img:nth-of-type(2)) { width: 900px; margin-left: -110px; } }
             @media (max-width: 600px) { .text-column p:has(img:nth-of-type(2)) { column-count: 1; width: 100%; margin-left: 0; } }
             .text-column p:has(img:nth-of-type(2)) img { margin: 0 0 1rem 0; width: 100%; height: auto !important; display: inline-block; object-fit: contain; }
 
-            .img-caption { display: block; font-size: 0.78rem; color: var(--accent-color); text-align: center; margin-top: 0.6rem; line-height: 1.4; font-style: italic; }
+            /* Epígrafes pegados a la foto */
+            .img-caption { display: block; font-size: 0.78rem; color: var(--accent-color); text-align: center; margin-top: 0; margin-bottom: 2.5rem; line-height: 1.4; font-style: italic; }
             
             .reveal { opacity: 0; transform: translateY(20px); transition: all 0.8s ease-out; }
             .reveal.visible { opacity: 1; transform: translateY(0); }
@@ -318,19 +369,54 @@ const isGaleria = Astro.url.pathname.includes('/galeria');
 
         <script is:inline>
             function initPlugins() {
-                // Menú Hamburguesa
-                const menuBtn = document.getElementById('mobile-menu-btn');
+                // Menú Hamburguesa Lateral
+                const oldMenuBtn = document.getElementById('mobile-menu-btn');
                 const mainNav = document.getElementById('main-nav');
-                if(menuBtn && mainNav) {
-                    menuBtn.replaceWith(menuBtn.cloneNode(true));
-                    const newMenuBtn = document.getElementById('mobile-menu-btn');
-                    newMenuBtn.addEventListener('click', () => {
-                        mainNav.classList.toggle('menu-open');
-                        newMenuBtn.innerHTML = mainNav.classList.contains('menu-open') ? '✕' : '☰';
+                
+                if (oldMenuBtn && mainNav) {
+                    // Reemplazamos el botón para limpiar eventos (Evita bugs en Astro)
+                    const newMenuBtn = oldMenuBtn.cloneNode(true);
+                    oldMenuBtn.replaceWith(newMenuBtn);
+
+                    // Creamos el fondo oscuro (backdrop) si no existe
+                    let overlay = document.getElementById('mobile-menu-overlay');
+                    if (!overlay) {
+                        overlay = document.createElement('div');
+                        overlay.id = 'mobile-menu-overlay';
+                        overlay.className = 'menu-overlay';
+                        mainNav.parentNode.insertBefore(overlay, mainNav);
+                    }
+
+                    const closeMenu = () => {
+                        mainNav.classList.remove('menu-open');
+                        overlay.classList.remove('menu-open');
+                        newMenuBtn.classList.remove('menu-abierto');
+                        newMenuBtn.innerHTML = '☰';
+                        document.body.style.overflow = '';
+                    };
+
+                    const openMenu = () => {
+                        mainNav.classList.add('menu-open');
+                        overlay.classList.add('menu-open');
+                        newMenuBtn.classList.add('menu-abierto');
+                        newMenuBtn.innerHTML = '✕';
+                        document.body.style.overflow = 'hidden';
+                    };
+
+                    newMenuBtn.addEventListener('click', (e) => {
+                        e.stopPropagation();
+                        if (mainNav.classList.contains('menu-open')) closeMenu();
+                        else openMenu();
+                    });
+
+                    overlay.addEventListener('click', closeMenu);
+
+                    mainNav.querySelectorAll('a').forEach(link => {
+                        link.addEventListener('click', closeMenu);
                     });
                 }
 
-                // Animaciones Reveal
+                // Animaciones Reveal (Las mantenemos igual)
                 const observer = new IntersectionObserver((entries) => {
                     entries.forEach(entry => {
                         if (entry.isIntersecting) entry.target.classList.add('visible');
@@ -351,8 +437,7 @@ const isGaleria = Astro.url.pathname.includes('/galeria');
             </div>
         </footer>
 
-        <!-- MODAL DE BÚSQUEDA -->
-    <div id="search-modal" class="search-modal">
+        <div id="search-modal" class="search-modal">
         <div class="search-container">
             <div class="search-header">
                 <input type="text" id="search-input" placeholder="Buscar palabras clave, destinos..." autocomplete="off" />
@@ -364,7 +449,6 @@ const isGaleria = Astro.url.pathname.includes('/galeria');
         </div>
     </div>
 
-    <!-- SCRIPT DEL BUSCADOR -->
     <script define:vars={{ searchData }}>
         document.addEventListener('DOMContentLoaded', () => {
             const btnsBuscar = document.querySelectorAll('.btn-buscar');
@@ -418,11 +502,7 @@ const isGaleria = Astro.url.pathname.includes('/galeria');
             });
         });
     </script>
-    <!-- ========================================== -->
-    <!-- AVISO DE COOKIES NATIVO                    -->
-    <!-- ========================================== -->
-
-<div id="cookie-banner" class="cookie-banner">
+    <div id="cookie-banner" class="cookie-banner">
   <p>
     Usamos cookies para mejorar tu experiencia en nuestro diario de viaje y analizar el tráfico. Al continuar navegando, aceptás nuestro uso de cookies.
   </p>
@@ -513,9 +593,6 @@ const isGaleria = Astro.url.pathname.includes('/galeria');
   });
 </script>
 
-    <!-- ========================================== -->
-    <!-- WIDGET FLOTANTE DE KO-FI MULTILINGÜE       -->
-    <!-- ========================================== -->
     <script is:inline src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
     <script is:inline>
       const userLang = navigator.language || navigator.userLanguage;

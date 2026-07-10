@@ -3,6 +3,8 @@ const { isTransparent = false } = Astro.props;
 ---
 
 <div class={isTransparent ? "header-wrapper transparente" : "header-wrapper solido"}>
+    <div id="mobile-menu-overlay" class="menu-overlay"></div>
+
     <header class="site-header">
         <h1><a href="/">BLOGCITO</a></h1>
         
@@ -27,6 +29,9 @@ const { isTransparent = false } = Astro.props;
 </div>
 
 <style>
+    /* =========================================
+       ESTILOS BASE (Tus estilos originales)
+       ========================================= */
     .header-wrapper {
         width: 100%;
         z-index: 50;
@@ -57,4 +62,122 @@ const { isTransparent = false } = Astro.props;
     .header-wrapper.transparente nav a:hover {
         color: #fde68a !important; 
     }
+
+    /* Ocultamos la sombra por defecto en compu */
+    .menu-overlay { display: none; }
+
+    /* =========================================
+       ESTILOS DEL DRAWER (CELULARES)
+       ========================================= */
+    @media (max-width: 768px) {
+        .menu-toggle {
+            position: relative;
+            z-index: 1001; /* Botón por encima de todo */
+        }
+
+        .menu-overlay {
+            display: block;
+            position: fixed;
+            top: 0; left: 0; width: 100vw; height: 100vh;
+            background: rgba(0,0,0,0.6);
+            z-index: 990;
+            opacity: 0; pointer-events: none;
+            transition: opacity 0.3s ease;
+        }
+        .menu-overlay.menu-open {
+            opacity: 1; pointer-events: auto;
+        }
+
+        #main-nav { 
+            display: flex; 
+            flex-direction: column;
+            position: fixed; 
+            top: 0; 
+            right: 0; 
+            width: 260px; 
+            height: 100vh; 
+            background-color: var(--bg-color, #f4f1ea); 
+            box-shadow: -5px 0 15px rgba(0,0,0,0.2); 
+            z-index: 1000; 
+            padding: 6rem 1.5rem 2rem; 
+            transform: translateX(100%); /* Escondido a la derecha */
+            transition: transform 0.3s ease-in-out;
+        }
+        
+        #main-nav.menu-open { 
+            transform: translateX(0); /* Entra a la pantalla */
+        }
+        
+        /* Centramos los links */
+        #main-nav ul.nav-links { 
+            display: flex;
+            flex-direction: column; 
+            gap: 2.5rem; 
+            align-items: center;
+            padding: 0;
+            margin: 0;
+        }
+
+        /* Forzamos colores oscuros para leer bien sobre el fondo claro del menú */
+        .header-wrapper.transparente #main-nav a,
+        .header-wrapper.transparente #main-nav .btn-buscar svg,
+        #main-nav a,
+        #main-nav .btn-buscar svg {
+            color: #333 !important;
+            text-shadow: none !important;
+            font-size: 1.1rem;
+        }
+        
+        /* Cuando el menú se abre, la "X" tiene que ser negra */
+        .menu-toggle.menu-abierto {
+            color: #333 !important;
+            text-shadow: none !important;
+        }
+    }
 </style>
+
+<script is:inline>
+    // Usamos astro:page-load para que no se rompa al navegar entre páginas
+    document.addEventListener('astro:page-load', () => {
+        const oldMenuBtn = document.getElementById('mobile-menu-btn');
+        const mainNav = document.getElementById('main-nav');
+        const overlay = document.getElementById('mobile-menu-overlay');
+        
+        if (oldMenuBtn && mainNav && overlay) {
+            // Clonamos el botón para limpiar eventos viejos (truco útil en Astro)
+            const newMenuBtn = oldMenuBtn.cloneNode(true);
+            oldMenuBtn.replaceWith(newMenuBtn);
+
+            const closeMenu = () => {
+                mainNav.classList.remove('menu-open');
+                overlay.classList.remove('menu-open');
+                newMenuBtn.classList.remove('menu-abierto');
+                newMenuBtn.innerHTML = '☰';
+                document.body.style.overflow = ''; // Devuelve el scroll al sitio
+            };
+
+            const openMenu = () => {
+                mainNav.classList.add('menu-open');
+                overlay.classList.add('menu-open');
+                newMenuBtn.classList.add('menu-abierto');
+                newMenuBtn.innerHTML = '✕';
+                document.body.style.overflow = 'hidden'; // Bloquea el scroll del sitio
+            };
+
+            // Evento para el botón Hamburguesa/X
+            newMenuBtn.addEventListener('click', (e) => {
+                e.stopPropagation();
+                if (mainNav.classList.contains('menu-open')) closeMenu();
+                else openMenu();
+            });
+
+            // Cierra el menú al tocar la zona oscura
+            overlay.addEventListener('click', closeMenu);
+
+            // Cierra el menú al hacer clic en un link (Inicio, Diario, etc)
+            mainNav.querySelectorAll('a').forEach(link => {
+                link.addEventListener('click', closeMenu);
+            });
+        }
+    });
+</script>
