@@ -17,11 +17,11 @@ Para los que queremos habitar Bali, estar en Amed implica vivir cerca de la play
 
 No hay grandes centros comerciales ni autopistas. Es un rincón para quienes buscan estar presentes. Para nosotros fue una fuente constante de inspiración para la escritura, el dibujo y el trabajo remoto, un lugar ideal para bajar un cambio.
 
-Igual seamos honestos, Amed no es un secreto absoluto. El turismo es parte del paisaje y las propuestas comerciales son constantes, hay cafés de especialidad, hoteles resort y escuelas de buceo de capital extranjero, pero todo convive con el ritmo de la villa de una manera bastante amigable. Amed es un punto medio estratetégico entre el “snorkel slow travel” y la cercanía a templos antiguos, palacios históricos o playas de la arena clara y vistas increíbles como Virgin Beach. Desde mi punto de vista, es un equilibrio ideal para Bali.
+Igual seamos honestos, Amed no es un secreto absoluto. El turismo es parte del paisaje y las propuestas comerciales son constantes, hay cafés de especialidad, hoteles resort y escuelas de buceo de capital extranjero, pero todo convive con el ritmo de la villa de una manera bastante amigable. Amed es un punto medio estratetégico entre el “slow travel” y la cercanía a puntos turísticos de interés templos antiguos, palacios históricos o playas de la arena clara y vistas increíbles como Virgin Beach. Desde mi punto de vista, es un equilibrio ideal para Bali.
 
 ## Los Jukungs y el mar: la posta de la vida local
 
-Una de las primeras cosas que se ven en la mañana de Amed es el mar salpicado de velas de colores. Son los *jukungs*, canoas de madera estabilizadas con dos bases laterales de bambú que los pescadores locales usan desde hace generaciones. En la temporada turística, también las usan para salidas de snorkel, pesca o paseos al atardecer.
+Una de las primeras cosas que vimos en la mañana de Amed es el mar salpicado de velas de colores. Con los *jukungs*, canoas de madera estabilizadas con dos bases laterales de bambú que los pescadores locales usan desde hace generaciones. En la temporada turística, también las usan para salidas de snorkel, pesca o paseos al atardecer.
 
 Ketut, (un pescador y guía local) nos contaba que muchas veces la gente se queda sin trabajo en otras áreas y opta por comprarse un *jukung* para pescar como medio de sustento. A media mañana están estacionados en la orilla; con mucho cuidado, sus dueños limpian los motores y los traccionan con cuerdas para acomodarlos, aunque también hemos visto cómo los cargan al hombro ellos mismos para dejarlos a salvo de la marea.
 
@@ -81,13 +81,13 @@ Es imposible hablar de Amed sin mencionar que es uno de los destinos de buceo m�
 * **Buceo con tanque (Scuba):** Si alguna vez pensaste en hacer tu bautismo de buceo (Discover Scuba Diving) o certificar tu primer nivel (Open Water), este es el lugar ideal del mundo para hacerlo. Las aguas mansas y los precios accesibles de las escuelas locales hacen que sea una experiencia súper amigable para principiantes. A mí me quedó pendiente para la próxima, ¡pero la verdad es que dan muchas ganas!
 * **El USAT Liberty en Tulamben:** A solo 15 minutos en moto hacia el norte de Amed se encuentra Tulamben, hogar del *USAT Liberty*, un buque de transporte militar estadounidense encallado y luego empujado al mar por la erupción del volcán Agung en 1963. Es considerado uno de los naufragios más accesibles del mundo, apto tanto para principiantes (está a poca profundidad) como para buceadores avanzados.
 
-## Circuitos turísticos clásicos: ¿Qué hacer si te agarra la ansiedad de turista?
+## Circuitos turísticos clásicos: puntos de interés
 
-Durante mis 15 días en Amed me dediqué principalmente a descansar y a vivir el día a día. Sin embargo, si sentís la necesidad de moverte y explorar los alrededores, tenés varios puntos históricos y paisajes increíbles muy cerca.
+Durante mis 15 días en Amed me dediqué principalmente a descansar y a vivir el día a día. Sin embargo, si seplorar los alrededores, tenés varios puntos históricos y paisajes increíbles muy cerca.
 
-### Lahangan Sweet: El mirador que sí vale la pena
+### Lahangan Sweet: El mirador que  vale la pena
 
-Es un mirador rústico ubicado en lo alto de una colina que te regala una de las postales más nítidas y limpias del volcán Agung. El camino de acceso en moto es empinado, empedrado y no apto para cardíacos; si no tenés mucha experiencia manejando scooter, es mejor contratar a un conductor local en el pueblo o tomar el transporte tipo jeep que ofrecen en la base de la colina.
+Es un mirador ubicado en lo alto de una colina que te regala una de las postales más nítidas y limpias del volcán Agung. El camino de acceso en moto es empinado, empedrado y no apto para cardíacos; si no tenés mucha experiencia manejando scooter, es mejor contratar a un conductor local en el pueblo o tomar el transporte tipo jeep que ofrecen en la base de la colina.
 
 * **Precio de entrada:** IDR 50.000 (unos USD 3).
 
@@ -114,8 +114,6 @@ El atardecer en Amed es un ritual diario. Al estar en la costa este, el sol se o
 * **Transporte:** La moto es la reina indiscutida de Amed para moverte de bahía en bahía, pero las rutas tienen curvas pronunciadas y pendientes empinadas y la calle no está en óptimas condiciones. Si no te sentís 100% seguro manejando scooter, no arriesgues tus vacaciones; en los mismos hostales o *homestays* podés contratar choferes locales muy predispuestos. El tránsito es mil veces más amigable que en Canggu, pero las calles no siempre están en perfecto estado.
 * **Efectivo:** En Amed las tarjetas de crédito no son muy populares fuera de los hoteles grandes, centros de buceo o restaurantes. Además, los cajeros automáticos (ATM) de la zona a veces se quedan sin efectivo o directamente no funcionan con tarjetas extranjeras. Recomendamos llevar siempre suficiente efectivo desde el sur o Ubud para evitar dolores de cabeza (o sacar en amed con anticipación).
 * **Monetización Silenciosa & Seguridad:** Como las calles de Amed son empinadas, el tránsito tiene sus bemoles y el coral de las playas raspa de verdad al hacer snorkel, viajar con un buen seguro médico no es negociable en esta zona de Bali. Yo viajo siempre protegida con mi seguro de confianza y te recomiendo que hagas lo mismo para disfrutar de la calma de la costa este sin preocupaciones. *(Podés cotizar tu seguro con descuento desde nuestro enlace afiliado aquí)*.
-
-
 
 Preguntas frecuentes 
 
