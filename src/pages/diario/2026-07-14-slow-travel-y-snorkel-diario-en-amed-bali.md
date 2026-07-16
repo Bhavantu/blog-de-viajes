@@ -60,8 +60,6 @@ Las bahías más recomendadas para hacer snorkel desde la orilla son tres. Atenc
 * **Zapatos de neopreno (escarpines):** Las playas de Amed son de piedra volcánica negra y la entrada al agua puede ser muy  intensa para los pies. Además, te protegen de raspaduras si hay marea baja. Te dejamos unos con diseños épicos 
 * Traje uv para el sol
 
-
-
 ### 1. Jemeluk Bay (Uno de mis favoritos)
 
 Es una bahía hermosa con aguas tranquilas y transparentes. Es ideal para ir a cualquier hora del día porque casi no tiene corriente en la mañana la visibilidad suele ser excelente, en la tarde es posible pero la marea baja mucho dejando al descubierto el coral, por tanto la entrada es dificil. 
@@ -105,14 +103,17 @@ Es imposible hablar de Amed sin mencionar que es uno de los destinos de buceo m�
 
 Durante mis 15 días en Amed me dediqué principalmente a descansar y a vivir el día a día. Pero también recorrimos los alrededores y puntos de interés turisticos, históricos y paisajes increíbles muy cerca.
 
-### Lahangan Sweet: un parque en la montaña con vistas al mont agung 
-Es un conjunto de miradores ubicados en la montaña con vistas realmente increibles. El camino de acceso en moto es empinado, empedrado y no apto para cardíacos; contratar a un conductor local para ir hasta allí tiene sentido. 
+### Lahangan Sweet: un parque en la montaña con vistas al mont agung
 
-* **Precio de entrada:** IDR 50.000 (unos USD 3).Incluye estacionamiento y la camioneta que te lleva hasta la cima. 
+Es un conjunto de miradores ubicados en la montaña con vistas realmente increibles. El camino de acceso en moto es empinado, empedrado y no apto para cardíacos; contratar a un conductor local para ir hasta allá tiene sentido. 
+
+* **Precio de entrada:** IDR 50.000 (unos USD 3). Incluye estacionamiento y la camioneta que te lleva hasta la cima. 
 
 ### Pura Lempuyang (Las Puertas del Cielo)
 
-Es un complejo de los templos hermosos muy popularizado por la famoso fotos de viajeros entre dos grandes columnas de piedra con el volcán de fondo con el "reflejo del agua en un lago" que no existe y es una persona colocando un pequeño espejo debajo de la cámara del celular. Las filas para sacarse esa foto pueden demorar de 1:30 a 4 horas.Cuanto más cerca del amanecer menos gente.
+Es un complejo de los templos hermosos muy popularizado por la famoso fotos de viajeros entre dos grandes columnas estilo clásico llamadas "Las puertas al cielo" con el volcán de fondo y el "reflejo del agua de un lago" que no existe, sino que una persona coloca  un pequeño espejo debajo de la cámara del celular para crear este efecto (que se ve bastante espectacular). Las filas para sacarse esa foto pueden demorar de 1:30 a 4 horas.Cuanto más cerca del amanecer menos gente. 
+
+Si sigues subiendo te encontrarás con una experiencia compeltamente diferente, sin tantos turistas, con niebla y vistas a la montaña. Eventualmente también podes cruzarte con personas locales haciendo sus ofrendas. 
 
 ### Tirta Gangga: El palacio de agua real
 
