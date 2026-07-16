@@ -116,7 +116,7 @@ Es un complejo de los templos hermosos muy popularizado por la famoso fotos de v
 
 ### Tirta Gangga: El palacio de agua real
 
-Un antiguo palacio real rodeado de jardines balineses y piletas de agua decoradas con estatuas tradicionales. El principal atractivo es caminar sobre los senderos de piedra que flotan en el agua mientras alimentás a las carpas koi gigantes que viven ahí. Es un paseo muy visual y relajado para hacer a media tarde.
+Un antiguo palacio real rodeado de jardines balineses y piscinas de agua decoradas con estatuas tradicionales. El principal atractivo es caminar sobre los senderos de piedra que flotan en el agua alimentando a las carpas koi gigantes que viven ahí. Es un paseo muy visual y relajado para hacer a media tard, posible de combinar con los dos siguientes en un mismo día.
 
 ## Atardeceres mágicos: ¿Dónde ver caer el sol en Amed?
 
