@@ -19,6 +19,18 @@ No hay grandes centros comerciales ni autopistas. Es un rincón para quienes bus
 
 Igual seamos honestos, Amed no es un secreto absoluto. El turismo es parte del paisaje y las propuestas comerciales son constantes, hay cafés de especialidad, hoteles resort y escuelas de buceo de capital extranjero, pero todo convive con el ritmo de la villa de una manera bastante amigable. Amed es un punto medio estratetégico entre el “slow travel” y la cercanía a puntos turísticos de interés templos antiguos, palacios históricos o playas de la arena clara y vistas increíbles como Virgin Beach. Desde mi punto de vista, es un equilibrio ideal para Bali.
 
+Además se ajusta a todos los presupuestos con estadías bastante espectaculares frente al mar para todos los presupuestos:
+
+[Estadía frente al mar spa ](https://www.booking.com/hotel/id/surya-amed-beach.html?aid=318615&label=New_Spanish_ES_ROW_5496343705-IRXF%2A%2AfXkjlT1Jfkfsb2mAS637942155485%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atidsa-55482331735%3Alp9227990%3Ali%3Adec%3Adm%3Aag5496343705%3Acmp108540265&sid=90611b33264c18071339590e9ab71fc9&all_sr_blocks=762356305_425328227_2_1_0_1357604&checkin=2026-07-24&checkout=2026-07-25&dest_id=-2670300&dest_type=city&dist=0&group_adults=2&group_children=0&hapos=2&highlighted_blocks=762356305_425328227_2_1_0_1357604&hpos=2&matching_block_id=762356305_425328227_2_1_0_1357604&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=762356305_425328227_2_1_0_1357604_71680000&srepoch=1784181452&srpvid=aed229da19a30217&type=total&ucfs=1&)
+
+[Estadia frente al mar beach resort local](https://www.booking.com/hotel/id/amed-beach-resort.html?aid=318615&label=New_Spanish_ES_ROW_5496343705-IRXF%2A%2AfXkjlT1Jfkfsb2mAS637942155485%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atidsa-55482331735%3Alp9227990%3Ali%3Adec%3Adm%3Aag5496343705%3Acmp108540265&sid=90611b33264c18071339590e9ab71fc9&all_sr_blocks=69656401_141511359_0_0_0&checkin=2026-07-31&checkout=2026-08-01&dest_id=-2670300&dest_type=city&dist=0&group_adults=2&group_children=0&hapos=4&highlighted_blocks=69656401_141511359_0_0_0&hpos=4&matching_block_id=69656401_141511359_0_0_0&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=69656401_141511359_0_0_0__69414200&srepoch=1784181642&srpvid=aed229da19a30217&type=total&ucfs=1&)
+
+[Estadía presupuesto medio, experiencia local ](https://www.booking.com/hotel/id/valomia-beachfront.html?aid=318615&label=New_Spanish_ES_ROW_5496343705-IRXF%2A%2AfXkjlT1Jfkfsb2mAS637942155485%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atidsa-55482331735%3Alp9227990%3Ali%3Adec%3Adm%3Aag5496343705%3Acmp108540265&sid=90611b33264c18071339590e9ab71fc9&all_sr_blocks=253598802_373555043_0_0_0&checkin=2026-07-17&checkout=2026-07-18&dest_id=-2670300&dest_type=city&dist=0&group_adults=2&group_children=0&hapos=13&highlighted_blocks=253598802_373555043_0_0_0&hpos=13&matching_block_id=253598802_373555043_0_0_0&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=253598802_373555043_0_0_0__42120000&srepoch=1784181881&srpvid=aed229da19a30217&type=total&ucfs=1&)
+
+[ Estadía frente al mar, presupuesto medio](https://www.booking.com/hotel/id/meditasi-bungalow.html?aid=318615&label=New_Spanish_ES_ROW_5496343705-IRXF%2A%2AfXkjlT1Jfkfsb2mAS637942155485%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atidsa-55482331735%3Alp9227990%3Ali%3Adec%3Adm%3Aag5496343705%3Acmp108540265&sid=90611b33264c18071339590e9ab71fc9&all_sr_blocks=50687703_237070938_2_41_0_240718&checkin=2026-07-31&checkout=2026-08-01&dest_id=-2670300&dest_type=city&dist=0&group_adults=2&group_children=0&hapos=15&highlighted_blocks=50687703_237070938_2_41_0_240718&hpos=15&matching_block_id=50687703_237070938_2_41_0_240718&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=50687703_237070938_2_41_0_240718_45900000&srepoch=1784182055&srpvid=aed229da19a30217&type=total&ucfs=1&)
+
+[Estadía presupuesto bajo](https://www.booking.com/hotel/id/bali-yogi-amed1.html?aid=318615&label=New_Spanish_ES_ROW_5496343705-IRXF%2A%2AfXkjlT1Jfkfsb2mAS637942155485%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atidsa-55482331735%3Alp9227990%3Ali%3Adec%3Adm%3Aag5496343705%3Acmp108540265&sid=90611b33264c18071339590e9ab71fc9&all_sr_blocks=151784002_172319487_2_1_0&checkin=2026-07-17&checkout=2026-07-18&dest_id=-2670300&dest_type=city&dist=0&group_adults=2&group_children=0&hapos=2&highlighted_blocks=151784002_172319487_2_1_0&hpos=2&matching_block_id=151784002_172319487_2_1_0&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=price&sr_pri_blocks=151784002_172319487_2_1_0__14999000&srepoch=1784182286&srpvid=aed229da19a30217&type=total&ucfs=1&)
+
 ## Los Jukungs y el mar: la posta de la vida local
 
 Una de las primeras cosas que vimos en la mañana de Amed es el mar salpicado de velas de colores. Con los *jukungs*, canoas de madera estabilizadas con dos bases laterales de bambú que los pescadores locales usan desde hace generaciones. En la temporada turística, también las usan para salidas de snorkel, pesca o paseos al atardecer.
@@ -27,7 +39,7 @@ Ketut, (un pescador y guía local) nos contaba que muchas veces la gente se qued
 
 En la temporada de lluvias el mar crece tanto que la playa desaparece bajo las olas, que golpean directo contra los muros de contención que construyen para evitar que el agua entre en sus casas o recintos.
 
-* **Experiencia de pesca:** Podés coordinar directamente con los pescadores en la playa o reservar tu salida con antelación acá.
+* **Experiencia de pesca:** Podés coordinar directamente con los pescadores en la playa o[ reservar tu salida con antelación acá.](https://www.getyourguide.com/karangasem-l190139/amed-snorkel-exclusivo-pesca-y-cocina-balinesa-t1193317/?ranking_uuid=042fbc85-8c89-4d9c-994e-efeb98250c1d&referral_redirect=1&q=Karangasem)
 
 ## El snorkel a diez metros de la orilla: una joya pública
 
@@ -37,11 +49,13 @@ Los arrecifes de Coral Gardens son de las cosas más inspiradoras que vi en toda
 
 Las bahías más recomendadas para hacer snorkel desde la orilla son tres. Atención, porque acá va la información real y práctica para entrar directo a la playa sin estafas.
 
-### Consejos de co-worker para tu equipo de snorkel:
+### Equipo de snorkel:
 
-* **¿Alquilar o comprar equipo?** Alquilar la máscara y las patas de rana (aletas) en la playa sale unas IDR 40.000 - 50.000 por día (unos USD 3). Si te vas a quedar dos semanas como yo, te conviene mil veces comprar un set básico en algún supermercado grande del sur o de Ubud. Te vas a ahorrar plata y te asegurás de tener una máscara que no se te llene de agua.
-* **Seguridad y botes:** Al ser playas con mucha actividad de pescadores, es común que pasen botes cerca del arrecife. Si tenés una boya de seguridad inflable, usala para que te vean desde lejos. Si no tenés mucha experiencia nadando, un chaleco salvavidas te va a dar la tranquilidad necesaria para disfrutar sin cansarte.
-* **Zapatos de neopreno (escarpines):** No los dejes en casa. Las playas de Amed son de piedra volcánica negra y la entrada al agua puede ser una verdadera tortura para los pies sensibles. Además, te protegen de raspaduras si hay marea baja y el coral queda muy cerca de la superficie.
+* **¿Alquilar o comprar equipo?** Alquilar una máscara de snorkel en la playa sale unas IDR 50.000 por día (unos USD 3). Si te vas a quedar mucho tiempo como nosotroste conviene comprar un set básico en algún supermercado o cualquier tiendita local. 
+
+  Tip de compra: parece ser que la prueba que corrobora la calidad de la mascara es: ponersela, inhalar por la nariz y que no se despegue. Nosotros compramos una de marca Index por aprox IDR 290.000 (USD 17) y resultó bastante bien.
+* **Seguridad y botes:** Al ser playas con mucha actividad de pescadores, es común que pasen botes cerca del arrecife, siempre están atentos y si necesitan pasar alguien avisa, pero viejero prevenido vale por 2, osea prestar atención y si tenés una boya de seguridad inflable, es muy útil para que te vean desde lejos. Además es una zona sin fuertes mareas y no muy profunda para quienes van con niños. 
+* **Zapatos de neopreno (escarpines):** Las playas de Amed son de piedra volcánica negra y la entrada al agua puede ser una intensa para los pies. Además, te protegen de raspaduras si hay marea baja y el coral queda muy cerca de la superficie.
 
 ### 1. Jemeluk Bay (Uno de mis favoritos)
 
