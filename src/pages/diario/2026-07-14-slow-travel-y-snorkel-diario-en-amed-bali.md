@@ -41,6 +41,8 @@ En la temporada de lluvias el mar crece tanto que la playa desaparece bajo las o
 
 * **Experiencia de pesca:** Podés coordinar directamente con los pescadores en la playa o[ reservar tu salida con antelación acá.](https://www.getyourguide.com/karangasem-l190139/amed-snorkel-exclusivo-pesca-y-cocina-balinesa-t1193317/?ranking_uuid=042fbc85-8c89-4d9c-994e-efeb98250c1d&referral_redirect=1&q=Karangasem)
 
+  <div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+
 ## El snorkel a diez metros de la orilla: una joya pública
 
 Lo mejor de Amed es que su jardín submarino es de acceso público y gratuito. Es decir no es necesario  pagar ningún tour  para ver corales sanos; están ahí, a unos pasos de la arena. 
