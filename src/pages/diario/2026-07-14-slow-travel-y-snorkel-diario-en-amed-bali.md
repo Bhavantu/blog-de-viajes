@@ -103,17 +103,16 @@ Es imposible hablar de Amed sin mencionar que es uno de los destinos de buceo m�
 
 ## Circuitos turísticos clásicos: puntos de interés
 
-Durante mis 15 días en Amed me dediqué principalmente a descansar y a vivir el día a día. Sin embargo, si seplorar los alrededores, tenés varios puntos históricos y paisajes increíbles muy cerca.
+Durante mis 15 días en Amed me dediqué principalmente a descansar y a vivir el día a día. Pero también recorrimos los alrededores y puntos de interés turisticos, históricos y paisajes increíbles muy cerca.
 
-### Lahangan Sweet: El mirador que  vale la pena
+### Lahangan Sweet: un parque en la montaña con vistas al mont agung 
+Es un conjunto de miradores ubicados en la montaña con vistas realmente increibles. El camino de acceso en moto es empinado, empedrado y no apto para cardíacos; contratar a un conductor local para ir hasta allí tiene sentido. 
 
-Es un mirador ubicado en lo alto de una colina que te regala una de las postales más nítidas y limpias del volcán Agung. El camino de acceso en moto es empinado, empedrado y no apto para cardíacos; si no tenés mucha experiencia manejando scooter, es mejor contratar a un conductor local en el pueblo o tomar el transporte tipo jeep que ofrecen en la base de la colina.
-
-* **Precio de entrada:** IDR 50.000 (unos USD 3).
+* **Precio de entrada:** IDR 50.000 (unos USD 3).Incluye estacionamiento y la camioneta que te lleva hasta la cima. 
 
 ### Pura Lempuyang (Las Puertas del Cielo)
 
-Es uno de los templos más fotografiados de Bali, famoso por los retratos de viajeros entre dos grandes columnas de piedra con el volcán de fondo. Sin embargo, acá va un consejo honesto: la famosa foto del "reflejo en el agua" se hace colocando un pequeño espejo debajo de la cámara del celular. Las filas para sacarse esa foto pueden demorar de 3 a 4 horas bajo el sol. Si decidís ir, armate de paciencia o intentá llegar antes del amanecer.
+Es un complejo de los templos hermosos muy popularizado por la famoso fotos de viajeros entre dos grandes columnas de piedra con el volcán de fondo con el "reflejo del agua en un lago" que no existe y es una persona colocando un pequeño espejo debajo de la cámara del celular. Las filas para sacarse esa foto pueden demorar de 1:30 a 4 horas.Cuanto más cerca del amanecer menos gente.
 
 ### Tirta Gangga: El palacio de agua real
 
