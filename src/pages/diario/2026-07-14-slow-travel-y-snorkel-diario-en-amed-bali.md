@@ -43,11 +43,13 @@ En la temporada de lluvias el mar crece tanto que la playa desaparece bajo las o
 
 ## El snorkel a diez metros de la orilla: una joya pública
 
-Lo mejor de Amed es que su jardín submarino es de acceso público y gratuito. Es decir no es necesario  pagar ningun tour  para ver corales sanos; están ahí, a unos pasos de la arena. Igualmente si vas con poco tiempo, reservar o coordinar con un local el viaje en barco te permitirá ir a los 3 puntos principales de forma rápida y disfrutar de navegar en los clásicos *jukung.*
+Lo mejor de Amed es que su jardín submarino es de acceso público y gratuito. Es decir no es necesario  pagar ningún tour  para ver corales sanos; están ahí, a unos pasos de la arena. 
 
-Los arrecifes de Coral Gardens son de las cosas más inspiradoras que vi en toda la isla, sus formas, sus colores, miles de peses diferentes, aunque es verdad que muchos viajeros también recomiendan hacer una escapada a las Islas Gili si buscás ver tortugas grandes de forma garantizada.
+Igualmente si vas con poco tiempo, reservar o coordinar con un local el viaje en barco te permitirá ir a los 3 puntos principales de forma rápida y disfrutar de navegar en los clásicos *jukung.*
 
-Las bahías más recomendadas para hacer snorkel desde la orilla son tres. Atención, porque acá va la información real y práctica para entrar directo a la playa sin estafas.
+Los arrecifes de Coral son de las cosas más inspiradoras que vi en toda la isla, sus formas, sus colores, miles de peses diferentes, aunque es verdad que, muchos viajeros también recomiendan hacer una escapada a las Islas Gili o Nusa Penida para hacer snorkel o bcuear con mantas, delfines y tortugas.
+
+Las bahías más recomendadas para hacer snorkel desde la orilla son tres. Atención, porque acá va la información real y práctica para entrar directo a la playa sin estafas ni cosas raras. 
 
 ### Equipo de snorkel:
 
@@ -55,41 +57,45 @@ Las bahías más recomendadas para hacer snorkel desde la orilla son tres. Atenc
 
   Tip de compra: parece ser que la prueba que corrobora la calidad de la mascara es: ponersela, inhalar por la nariz y que no se despegue. Nosotros compramos una de marca Index por aprox IDR 290.000 (USD 17) y resultó bastante bien.
 * **Seguridad y botes:** Al ser playas con mucha actividad de pescadores, es común que pasen botes cerca del arrecife, siempre están atentos y si necesitan pasar alguien avisa, pero viejero prevenido vale por 2, osea prestar atención y si tenés una boya de seguridad inflable, es muy útil para que te vean desde lejos. Además es una zona sin fuertes mareas y no muy profunda para quienes van con niños. 
-* **Zapatos de neopreno (escarpines):** Las playas de Amed son de piedra volcánica negra y la entrada al agua puede ser una intensa para los pies. Además, te protegen de raspaduras si hay marea baja y el coral queda muy cerca de la superficie.
+* **Zapatos de neopreno (escarpines):** Las playas de Amed son de piedra volcánica negra y la entrada al agua puede ser muy  intensa para los pies. Además, te protegen de raspaduras si hay marea baja. Te dejamos unos con diseños épicos 
+* Traje uv para el sol
+
+
 
 ### 1. Jemeluk Bay (Uno de mis favoritos)
 
-Es una bahía hermosa con aguas tranquilas y transparentes. Es ideal para ir a cualquier hora del día porque casi no tiene corriente y la visibilidad suele ser excelente.
+Es una bahía hermosa con aguas tranquilas y transparentes. Es ideal para ir a cualquier hora del día porque casi no tiene corriente en la mañana la visibilidad suele ser excelente, en la tarde es posible pero la marea baja mucho dejando al descubierto el coral, por tanto la entrada es dificil. 
 
-Es famosa porque alberga un pequeño templo submarino de piedra bajo el agua, rodeado de corales y peces de colores que convirtieron la estructura en su hogar.
+Es famosa porque alberga un pequeño templo submarino de piedra bajo el agua, rodeado de corales y peces de colores que convirtieron la estructura en su hogar. 
 
-* **Entrada:** Gratuita. Accedés caminando desde la playa principal de Jemeluk.
-* **Pros:** Aguas súper mansas, ideal para principiantes y muy fácil navegación. El templo está a pocos metros de la orilla.
-* **Contras:** Al ser la bahía más popular, suele tener bastante movimiento de botes por la tarde.
+* **Entrada:** Gratuita. Entramos por el restaurante y bungalows "Blue Star Bungalows & Cafe" la entrada es por un callejón y hay espacio para estacionar las motos. Las personas que trabajan allí son muy amables y si consumís una bebida o comida podes usar las tumbonas. 
+* **Pros:** Aguas súper tranquilas, ideal para principiantes o niños. El templo está a pocos metros de la orilla.
+* **Contras:** Suele tener bastante movimiento de botes (nada grave).
 
 ### 2. Lipah Beach
 
-Es una bahía preciosa con la arena un poco más clara, sin tantas piedras grandes en la orilla y con un ambiente súper relajado. Los corales acá están sumamente sanos.
+Es una bahía de arena un poco más clara, sin tantas piedras grandes en la orilla. Los corales acá están muy sanos. La playa se divide básicamente en dos sectores: una zona con un jardín de corales tupido y otra un poco más profunda donde, si vas temprano por la mañana (con un poco de suerte y viento a favor), podés cruzarte con tortugas marinas (en la zona de la izquierda).
 
-La playa se divide básicamente en dos sectores: una zona con un jardín de corales tupido y otra un poco más profunda donde, si vas temprano por la mañana (con un poco de suerte y viento a favor), podés cruzarte con tortugas marinas descansando.
-
-* **Entrada:** Gratuita.
-* **Pros:** Arena más fina para descansar en la orilla y una salud de coral increíble.
-* **Contras:** Cuando la marea está muy baja, el arrecife queda a centímetros de tu panza. Hay que flotar con mucho cuidado para no dañar el ecosistema ni lastimarte.
+* **Entrada:** Gratuita. Nosotros entramos y estacionamos siempre en Viena Beach Resort (mapa abajo).
+* **Pros:** Agradable para nadar, una jardín de coral muy sano. La marea no es muy intensa . Tiene una linda vista
+* **Contras:** Si la marea baja mucho es realmente dificil entrar a la zona del arrecife (normalmente en las tardes). La calle para llegar hasta allí esta en bastante mal estado.
 
 ### 3. Japanese Shipwreck
 
-Es una playa mucho más agreste y rocosa ubicada en la aldea de Banyuning, un poco más al este. Acá se encuentran los restos de un pequeño barco patrullero japonés de la Segunda Guerra Mundial que naufragó muy cerca de la costa.
+Es una playa mucho más agreste y rocosa ubicada en la aldea de Banyuning, un poco más al este. Acá se encuentran los restos de un pequeño barco patrullero japonés de la Segunda Guerra Mundial que naufragó cerca de la costa.
 
-El naufragio está en una zona que gana profundidad de golpe, por lo que la visibilidad a veces fluctúa según las corrientes marinas de la tarde.
+Datos: El naufragio está en una zona que gana profundidad de golpe, por lo que la visibilidad a veces fluctúa según las corrientes marinas. 
 
-* **Entrada:** Gratuita si entrás por los accesos públicos, aunque algunos paradores locales te pueden cobrar un monto mínimo por usar sus estacionamientos o reposeras.
+**Entrada:** Gratuita si entrás por los accesos públicos, que básicamente es una especie de terreno abandonado no muy amigable.  Otra opcion, en este caso recomendada es entrar por un parador local, que cobra una consumisión de 25.000IDR (1,39USD) por usar sus instalaciones, estacionamiento, y entrada.
+
 * **Pros:** Menos gente que en Jemeluk y la oportunidad única de ver un barco histórico cubierto de vida marina a pocos metros de profundidad.
-* **Contras:** La entrada al agua es puramente de piedras grandes (imposible ingresar sin escarpines) y la marea puede ponerse un poco picada, empujándote hacia las rocas si no tenés cuidado.
+* **Contras:** La entrada al agua es puramente de piedras grandes y la marea puede ser fuerte, y empujarte hacia las rocas, la entrada es viable pero lenta y con cuidado. No lo recomendaría para niños sin mucha experiencia personalmente.
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1X8zPiqeYPvj9x8Nrj1ypdVYE1fX651c&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
 
 ## La meca del buceo: Apnea y naufragios mundiales
 
-Es imposible hablar de Amed sin mencionar que es uno de los destinos de buceo más respetados del planeta.
+Es imposible hablar de Amed sin mencionar que es uno de los destinos de buceo más respetados del planeta, asi que aunque no lo practicamos dejamos un breve apartado sobre un tema muy trascendente en el área. 
 
 * **Freediving (Apnea):** Debido a que la costa gana profundidad de manera muy abrupta y casi no hay corrientes fuertes en ciertas bahías, Amed es la meca mundial de la apnea. Vas a ver escuelas por todos lados donde te enseñan a respirar y a descender decenas de metros conteniendo la respiración. Existen cientos de centros que combinan esta práctica con disciplinas como el yoga para trabajar la mentice y el cuerpo bajo el agua.
 * **Buceo con tanque (Scuba):** Si alguna vez pensaste en hacer tu bautismo de buceo (Discover Scuba Diving) o certificar tu primer nivel (Open Water), este es el lugar ideal del mundo para hacerlo. Las aguas mansas y los precios accesibles de las escuelas locales hacen que sea una experiencia súper amigable para principiantes. A mí me quedó pendiente para la próxima, ¡pero la verdad es que dan muchas ganas!
