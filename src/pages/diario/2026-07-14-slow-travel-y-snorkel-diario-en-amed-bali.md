@@ -4,6 +4,8 @@ title: Slow travel y snorkel diario en Amed, Bali
 date: 2026-07-14T15:03:00.000+08:00
 tag: guia de viaje
 pais: Indonesia
+description: Amed Bali qué hacer, snorkel en Amed por libre, precios templos
+  Bali 2026, Lahangan Sweet cómo llegar
 ---
 Hace años tenía el sueño de viajar a Bali, en Indonesia. Quería el Bali de los sueños, ese con playas tranquilas, rituales en templos sagrados y una conexión real con la naturaleza.
 
