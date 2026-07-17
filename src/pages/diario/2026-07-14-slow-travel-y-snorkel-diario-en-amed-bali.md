@@ -43,24 +43,17 @@ En la temporada de lluvias el mar crece tanto que la playa desaparece bajo las o
 
   <div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
-## El snorkel a diez metros de la orilla: una joya pública
+## El snorkel a unos metros de la orilla: una joya pública
 
 Lo mejor de Amed es que su jardín submarino es de acceso público y gratuito. Es decir no es necesario  pagar ningún tour  para ver corales sanos; están ahí, a unos pasos de la arena. 
 
-Igualmente si vas con poco tiempo, reservar o coordinar con un local el viaje en barco te permitirá ir a los 3 puntos principales de forma rápida y disfrutar de navegar en los clásicos *jukung.*
+Igualmente si vas con poco tiempo, reservar o coordinar el viaje en barco con un local te permitirá ir a los 3 puntos principales de forma rápida y disfrutar de navegar en los clásicos *jukung.*
 
-Los arrecifes de Coral son de las cosas más inspiradoras que vi en toda la isla, sus formas, sus colores, miles de peses diferentes, aunque es verdad que, muchos viajeros también recomiendan hacer una escapada a las Islas Gili o Nusa Penida para hacer snorkel o bcuear con mantas, delfines y tortugas.
+Los arrecifes de Coral son de las cosas más inspiradoras que vi en toda la isla, sus formas, sus colores, muchos peses diferentes, aunque es verdad que, muchos viajeros también recomiendan hacer una escapada a las Islas Gili o Nusa Penida para hacer snorkel o bucear con mantas, delfines y tortugas, este lugar tiene su encanto.
 
 Las bahías más recomendadas para hacer snorkel desde la orilla son tres. Atención, porque acá va la información real y práctica para entrar directo a la playa sin estafas ni cosas raras. 
 
-### Equipo de snorkel:
 
-* **¿Alquilar o comprar equipo?** Alquilar una máscara de snorkel en la playa sale unas IDR 50.000 por día (unos USD 3). Si te vas a quedar mucho tiempo como nosotroste conviene comprar un set básico en algún supermercado o cualquier tiendita local. 
-
-  Tip de compra: parece ser que la prueba que corrobora la calidad de la mascara es: ponersela, inhalar por la nariz y que no se despegue. Nosotros compramos una de marca Index por aprox IDR 290.000 (USD 17) y resultó bastante bien.
-* **Seguridad y botes:** Al ser playas con mucha actividad de pescadores, es común que pasen botes cerca del arrecife, siempre están atentos y si necesitan pasar alguien avisa, pero viejero prevenido vale por 2, osea prestar atención y si tenés una boya de seguridad inflable, es muy útil para que te vean desde lejos. Además es una zona sin fuertes mareas y no muy profunda para quienes van con niños. 
-* **Zapatos de neopreno (escarpines):** Las playas de Amed son de piedra volcánica negra y la entrada al agua puede ser muy  intensa para los pies. Además, te protegen de raspaduras si hay marea baja. Te dejamos unos con diseños épicos 
-* Traje uv para el sol
 
 ### 1. Jemeluk Bay (Uno de mis favoritos)
 
@@ -93,54 +86,71 @@ Datos: El naufragio está en una zona que gana profundidad de golpe, por lo que 
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1X8zPiqeYPvj9x8Nrj1ypdVYE1fX651c&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
 
+### Preguntas frecuentes
+
+* **¿Alquilar o comprar equipo?** Alquilar una máscara de snorkel en la playa sale unas IDR 50.000 por día (unos USD 3). Si te vas a quedar mucho tiempo como nosotros te conviene comprar un set básico en algún supermercado o cualquier tiendita local. 
+
+  Tip de compra: parece ser que la prueba que corrobora la calidad de la mascara es: ponersela, inhalar por la nariz y que no se despegue. Nosotros compramos una de marca Index por aprox IDR 290.000 (USD 17) y resultó bastante bien.
+* **¿Qué pasa con los botes en la costa?**  Al ser playas con mucha actividad, es común que pasen botes cerca del arrecife, (siempre están atentos y si necesitan pasar alguien avisan) pero viejero prevenido vale por 2. Consejo principal prestar atención y si tenés una boya de seguridad inflable, es muy útil para que te vean desde lejos. 
+* **Son necesarios los zapatos de neopreno (escaprines):** No son estrictamente necesarios, pero hay que tener en cuenta que las playas de Amed son de piedra volcánica negra con piedras, por tanto  la entrada al agua puede ser un poco  intensa para los pies. Además, te protegen de raspaduras si hay marea baja. Acá te dejamos unos con diseños épicos 
+* Traje uv para el sol
+
 ## La meca del buceo: Apnea y naufragios mundiales
 
-Es imposible hablar de Amed sin mencionar que es uno de los destinos de buceo más respetados del planeta, asi que aunque no lo practicamos dejamos un breve apartado sobre un tema muy trascendente en el área. 
+Es imposible hablar de Amed sin mencionar que es uno de los destinos de buceo más destacados a nivel mundial, así que aunque no lo practicamos dejamos un breve apartado sobre un tema muy trascendente en el área. 
 
-* **Freediving (Apnea):** Debido a que la costa gana profundidad de manera muy abrupta y casi no hay corrientes fuertes en ciertas bahías, Amed es la meca mundial de la apnea. Vas a ver escuelas por todos lados donde te enseñan a respirar y a descender decenas de metros conteniendo la respiración. Existen cientos de centros que combinan esta práctica con disciplinas como el yoga para trabajar la mentice y el cuerpo bajo el agua.
-* **Buceo con tanque (Scuba):** Si alguna vez pensaste en hacer tu bautismo de buceo (Discover Scuba Diving) o certificar tu primer nivel (Open Water), este es el lugar ideal del mundo para hacerlo. Las aguas mansas y los precios accesibles de las escuelas locales hacen que sea una experiencia súper amigable para principiantes. A mí me quedó pendiente para la próxima, ¡pero la verdad es que dan muchas ganas!
-* **El USAT Liberty en Tulamben:** A solo 15 minutos en moto hacia el norte de Amed se encuentra Tulamben, hogar del *USAT Liberty*, un buque de transporte militar estadounidense encallado y luego empujado al mar por la erupción del volcán Agung en 1963. Es considerado uno de los naufragios más accesibles del mundo, apto tanto para principiantes (está a poca profundidad) como para buceadores avanzados.
+* **Freediving (Apnea):** Debido a que la costa gana profundidad de manera muy abrupta y casi no hay corrientes fuertes en ciertas bahías, Amed es un punto importante de práctica de la apnea. Hay muchas escuelas donde te enseñan a respirar y a descender varios metros conteniendo la respiración. Es una práctica muy interesante a nivel físico ya que conlleva un estado mental y corporal de presencia y relajación muy específico (y entrenable). De hecho existen centros que lo combinan con la práctica de yoga.
+* **Buceo con tanque (Scuba):** Si alguna vez pensaste en hacer tu bautismo de buceo (Discover Scuba Diving) o certificar tu primer nivel (Open Water), este es el lugar ideal para hacerlo. Las aguas tranquilas, los precios accesibles con buenas recomendaciones. A mí me quedó pendiente para la próxima, ¡pero la verdad es que dan muchas ganas! una de las escuelas que más recomiendan es
+* **El USAT Liberty en Tulamben:** A solo 15 minutos en moto hacia el norte de Amed se encuentra Tulamben, *USAT Liberty*, un buque de transporte militar estadounidense encallado y luego empujado al mar por la erupción del volcán Agung en 1963. Es considerado uno de los naufragios más accesibles del mundo, apto tanto para principiantes (está a poca profundidad) como para buceadores avanzados.
 
-## Circuitos turísticos clásicos: puntos de interés
+## Circuitos turísticos: puntos de interés
 
-Durante mis 15 días en Amed me dediqué principalmente a descansar y a vivir el día a día. Pero también recorrimos los alrededores y puntos de interés turisticos, históricos y paisajes increíbles muy cerca.
+Durante nuestros 15 días en Amed nos dedicamos principalmente  a vivir el día a día, hacer snorkel y trabajar. Pero también recorrimos los alrededores y puntos de interés turísticos, históricos y paisajes increíbles muy cerca.
 
 ### Lahangan Sweet: un parque en la montaña con vistas al mont agung
 
-Es un conjunto de miradores ubicados en la montaña con vistas realmente increibles. El camino de acceso en moto es empinado, empedrado y no apto para cardíacos; contratar a un conductor local para ir hasta allá tiene sentido. 
+Es un conjunto de miradores ubicados en la montaña con vistas realmente increíbles. El camino de acceso en moto es empinado, empedrado y no apto para cardíacos (pero posible) o podés contratar a un conductor local para ir hasta allá (tiene sentido). 
 
 * **Precio de entrada:** IDR 50.000 (unos USD 3). Incluye estacionamiento y la camioneta que te lleva hasta la cima. 
+
+  <div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 ### Pura Lempuyang (Las Puertas del Cielo)
 
 Es un complejo de los templos hermosos muy popularizado por la famoso fotos de viajeros entre dos grandes columnas estilo clásico llamadas "Las puertas al cielo" con el volcán de fondo y el "reflejo del agua de un lago" que no existe, sino que una persona coloca  un pequeño espejo debajo de la cámara del celular para crear este efecto (que se ve bastante espectacular). Las filas para sacarse esa foto pueden demorar de 1:30 a 4 horas.Cuanto más cerca del amanecer menos gente. 
 
-Si sigues subiendo te encontrarás con una experiencia compeltamente diferente, sin tantos turistas, con niebla y vistas a la montaña. Eventualmente también podes cruzarte con personas locales haciendo sus ofrendas. 
+Si seguís subiendo te encontrarás con una experiencia completamente diferente, otros templos, sin tantos turistas, con niebla y vistas a la montaña. Eventualmente también podes cruzarte con personas locales haciendo sus ofrendas. 
 
 ### Tirta Gangga: El palacio de agua real
 
 Un antiguo palacio real rodeado de jardines balineses y piscinas de agua decoradas con estatuas tradicionales. El principal atractivo es caminar sobre los senderos de piedra que flotan en el agua alimentando a las carpas koi gigantes que viven ahí. Es un paseo muy visual y relajado para hacer a media tarde, posible de combinar con los dos siguientes en un mismo día.
 
+Costo de la entrada 100.000 IDR (USD)
+
+Estacionamiento 50.000 IDR 
+
 El palacio real: 
 
-Este palacio esta ubicado en 
+Este palacio es un complejo de ... palacio flotante , esta ubicado en ...  y al verdad fue una verdadera joya que nos sorprendió. Resulta ser que (historia del palacio). Actualmente funciona como centro turístico, muy bien cuidado y mantenido 20.000 
 
 Virgin Beach 
 
+La playa más épica de la isla, arena blanca, agua turquesa (antes de las 3) es como estar en el mismisimo paraiso. La entrada cuesta 5.000IDR  e incluye estacionamiento (algun otro dato que agregar? )
+
 ## Atardeceres mágicos: ¿Dónde ver caer el sol en Amed?
 
-El atardecer en Amed es un ritual diario. Al estar en la costa este, el sol se oculta detrás del imponente contorno del volcán Agung, regalando postales inolvidables. Acá tenés mis tres opciones preferidas para cerrar el día:
+El atardecer en Amed es un ritual diario. Al estar en la costa este, el sol se oculta detrás del contorno del volcán Agung, regalando postales inolvidables. Acá tenés tres lugares donde podes tomar algo y ver caer el sol. Pd: la playa siempre es un buen plan:
 
 * **Amed Beach (La opción local y gratis):** Sentate directo en la arena negra del pueblo. El sonido de las olas, la silueta de los botes descansando en la orilla y el sol cayendo directamente detrás de la montaña es un espectáculo que no te cuesta un solo peso.
 * **Amed Sunset Point (La experiencia con pileta):** Es un mirador muy popular con una pileta infinita que apunta directo a la bahía de Jemeluk y al volcán. Tienen música en vivo y, a veces, espectáculos tradicionales (como la danza del fuego).
 
   * *El costo:* Cobran un gasto mínimo (*minimum spend*) de **IDR 125.000 por persona** (unos USD 8) que pagás al entrar y podés consumir en tragos o comida. *Dato honesto de co-worker:* Las vistas son gloriosas, pero la comida es bastante floja. Andá a tomarte algo para disfrutar la pileta y la panorámica, pero cená en otro lado.
-* **El barcito local de enfrente (Nuestra joyita oculta):** Si querés saltarte el gasto mínimo y el ambiente más turístico de Sunset Point, justo enfrente o en los alrededores hay pequeños emprendimientos locales y familiares. Tienen la misma vista espléndida, te reciben con una sonrisa gigante, te cobran una fracción del precio por una cerveza Bintang helada y apoyás directamente a la economía de la comunidad.
+* **El barcito local de enfrente (Nuestra joyita oculta):** Si querés saltarte el gasto mínimo y el ambiente más turístico de Sunset Point, justo enfrente o en los alrededores hay pequeños warungs locales y familiares. Tienen la misma vista espléndida, te reciben con todo el amor y te cobran una fracción del precio por una Bintang helada o el clásico de la isla (bebida que es como el ron.)
 
 ## Manual de supervivencia en Amed: Datos prácticos
 
-* **Transporte:** La moto es la reina indiscutida de Amed para moverte de bahía en bahía, pero las rutas tienen curvas pronunciadas y pendientes empinadas y la calle no está en óptimas condiciones. Si no te sentís 100% seguro manejando scooter, no arriesgues tus vacaciones; en los mismos hostales o *homestays* podés contratar choferes locales muy predispuestos. El tránsito es mil veces más amigable que en Canggu, pero las calles no siempre están en perfecto estado.
-* **Efectivo:** En Amed las tarjetas de crédito no son muy populares fuera de los hoteles grandes, centros de buceo o restaurantes. Además, los cajeros automáticos (ATM) de la zona a veces se quedan sin efectivo o directamente no funcionan con tarjetas extranjeras. Recomendamos llevar siempre suficiente efectivo desde el sur o Ubud para evitar dolores de cabeza (o sacar en amed con anticipación).
+* **Transporte:** La moto es bastante ideal apra quienes manejan con audacia en Amed te permite moverte de bahía en bahía con libertad, pero eso sí,  las rutas tienen curvas pronunciadas y pendientes empinadas y la calle no siempre está en óptimas condiciones. Si no te sentís 100% seguro manejando scooter, nohay encesidad de arriesgar la salid. En los mismos *homestays* podés contratar choferes muy predispuestos. El tránsito más amigable que en Ubud o Canggu.
+* **Efectivo:** En general siempre está bueno tener efectivo, aunque la mayor parte de los restaurantes y negocios aceptan tarjeta. Los cajeros automáticos (ATM) de la zona frecuentemente se quedan sin efectivo Recomendamos sacar en Amed con anticipación).
 * **Monetización Silenciosa & Seguridad:** Como las calles de Amed son empinadas, el tránsito tiene sus bemoles y el coral de las playas raspa de verdad al hacer snorkel, viajar con un buen seguro médico no es negociable en esta zona de Bali. Yo viajo siempre protegida con mi seguro de confianza y te recomiendo que hagas lo mismo para disfrutar de la calma de la costa este sin preocupaciones. *(Podés cotizar tu seguro con descuento desde nuestro enlace afiliado aquí)*.
 
 Preguntas frecuentes 
