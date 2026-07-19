@@ -37,7 +37,7 @@ Además, se ajusta a todos los presupuestos con estadías bastante espectaculare
 
 Una de las primeras cosas que vimos en la mañana de Amed es el mar salpicado de velas de colores. Con los *jukungs*, canoas de madera estabilizadas con dos bases laterales de bambú que los pescadores locales usan desde hace generaciones. En la temporada turística, también las usan para salidas de snorkel, pesca o paseos al atardecer.
 
-<div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/jukunkgs.jpeg" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 Ketut (un pescador y guía local) nos contaba que muchas veces la gente se queda sin trabajo y opta por comprarse un *jukung* para pescar como medio de sustento. A media mañana están estacionados en la orilla; con mucho cuidado, sus dueños limpian los motores y los traccionan con cuerdas para acomodarlos, aunque también hemos visto cómo los cargan al hombro ellos mismos para dejarlos a salvo de la marea.
 
@@ -85,6 +85,7 @@ Es una playa mucho más agreste y rocosa ubicada en la aldea de Banyuning, un po
 * **Contras:** La entrada al agua es puramente de piedras grandes y la marea puede ser fuerte y empujarte hacia las rocas; la entrada es viable pero lenta y con cuidado. No lo recomendaría para niños personalmente.
 
 Acá te dejamos un mapa indicando las entradas específicas por las que ingresamos a cada bahía 
+
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1X8zPiqeYPvj9x8Nrj1ypdVYE1fX651c&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
 
 ### **Preguntas frecuentes de snorkel y tips de seguridad**
@@ -138,9 +139,7 @@ Este palacio es un complejo de bellísimos estanques y puentes históricos conoc
 
 La playa más épica de la isla: arena blanca, agua turquesa, el mismísimo paraíso. La entrada cuesta 20.000 IDR (aprox. USD 1,30) e incluye el estacionamiento. Desde la mañana hasta alrededor de las 3 el agua tiene un color turquesa increíble, la zona de alrededor tiene palmeras y pasto con algo de sombra que en la tarde se llena de gente local que disfruta el paisaje muy tranquila. En la playa hay warungs y puestos de alquiler de tumbonas con sombrilla para pasar el día (100.000 IDR, unos USD 6).
 
-## Treking por el monte Batur 
-
-
+## Treking por el monte Batur
 
 ## Trekking por el volcan Monte Agung
 
@@ -148,15 +147,13 @@ La playa más épica de la isla: arena blanca, agua turquesa, el mismísimo para
 
 El atardecer en Amed es un ritual diario. Al estar en la costa este, el sol se oculta detrás del contorno del volcán Agung, regalando postales inolvidables. Acá tenés tres lugares donde podés tomar algo y ver caer el sol. Pd: la playa siempre es un buen plan
 
-<div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/atardecer-amed-beach-vistas-al-mont-batur-.jpeg" alt="Imagen de bitácora"><span class="img-caption">Atardecer en la playa de amed (amed beach)</span></div>
 
 * **Amed Beach (La opción local y gratis):** Sentate directo en la arena negra del pueblo. El sonido de las olas, la silueta de los botes descansando en la orilla y el sol cayendo directamente detrás de la montaña es un espectáculo que no te cuesta un solo peso.
 * **Amed Sunset Point (La experiencia con pileta):** Es un mirador muy popular con una pileta infinita que apunta directo a la bahía de Jemeluk y al volcán. Tienen música en vivo y, a veces, espectáculos tradicionales (como la danza del fuego).
 * *El costo:* Cobran un gasto mínimo (*minimum spend*) de **IDR 125.000 por persona** (unos USD 8) que pagás al entrar y podés consumir en tragos o comida. 
 
   * **El barcito local de enfrente (Nuestra joya oculta):** Si querés saltarte el gasto mínimo y el ambiente más turístico de Sunset Point, justo enfrente un warung local y familiar. Tienen la misma vista, te reciben con todo el amor y te cobran una fracción del precio por una Bintang o el clásico de la isla: el **arak balinés**, una bebida tradicional destilada de palma o arroz parecida al ron blanco que combinan con diferentes frutas y sabores. 
-
-
 
 ## **Todo lo que necesitás saber antes de ir: Datos prácticos**
 
