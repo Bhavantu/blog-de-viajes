@@ -21,7 +21,7 @@ Para los que queremos habitar Bali, estar en Amed implica quedarse cerca de la p
 
 No hay grandes centros comerciales ni autopistas. Es un rincón para quienes buscan estar presentes. Para nosotros fue una fuente constante de inspiración para la escritura, el dibujo y el trabajo remoto, un lugar para bajar.
 
-<div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/amanecer-en-la-playa-de-amed.jpeg" alt="Imagen de bitácora"><span class="img-caption">Amanecer en la playa de amed (amed beach)</span></div>
 
 Igual seamos honestos, Amed no es un secreto absoluto. El turismo es parte del paisaje y las propuestas comerciales son constantes: hay cafés de especialidad, hoteles resort y escuelas de buceo de capital extranjero, pero todo convive con el ritmo de la villa de una manera bastante amigable. Amed es un punto medio estratégico entre el “slow travel” y la cercanía a puntos turísticos de interés como templos antiguos, palacios históricos o playas paradisíacas como Virgin Beach. Desde mi punto de vista, es un equilibrio ideal para estar en Bali.
 
@@ -37,7 +37,7 @@ Además, se ajusta a todos los presupuestos con estadías bastante espectaculare
 
 Una de las primeras cosas que vimos en la mañana de Amed es el mar salpicado de velas de colores. Con los *jukungs*, canoas de madera estabilizadas con dos bases laterales de bambú que los pescadores locales usan desde hace generaciones. En la temporada turística, también las usan para salidas de snorkel, pesca o paseos al atardecer.
 
-<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/jukunkgs.jpeg" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/jukunkgs.jpeg" alt="Imagen de bitácora"><span class="img-caption">Jukungs en la playa de amed </span></div>
 
 Ketut (un pescador y guía local) nos contaba que muchas veces la gente se queda sin trabajo y opta por comprarse un *jukung* para pescar como medio de sustento. A media mañana están estacionados en la orilla; con mucho cuidado, sus dueños limpian los motores y los traccionan con cuerdas para acomodarlos, aunque también hemos visto cómo los cargan al hombro ellos mismos para dejarlos a salvo de la marea.
 
@@ -114,7 +114,7 @@ Es un conjunto de miradores ubicados en la montaña con vistas realmente increí
 
 * **Precio de entrada:** IDR 50.000 (unos USD 3). Incluye estacionamiento y la camioneta que te lleva hasta la cima.
 
-  <div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+  <div class="post-img-box img-completo img-centro"><img src="/img/diario/lahangan-sweet spot-2.webp" alt="Imagen de bitácora"><span class="img-caption">Lahangan Sweet al atardecer</span></div>
 
 ### **Pura Lempuyang (Las Puertas del Cielo)**
 
@@ -133,11 +133,13 @@ Un antiguo palacio real rodeado de jardines balineses y piscinas de agua decorad
 
 Este palacio es un complejo de bellísimos estanques y puentes históricos conocido como Taman Ujung. Está ubicado en el pueblo de Tumbu y la verdad fue una verdadera joya que nos sorprendió. Resulta ser que fue construido en 1909 por el rey de Karangasem, Anak Agung Anglurah, fusionando de manera asombrosa la arquitectura balinesa, europea y china. Actualmente funciona como centro turístico, muy bien cuidado y mantenido, y la entrada cuesta 100.000 IDR (unos USD 6). 
 
-<div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/taman-ujung-full-view.webp" alt="Imagen de bitácora"><span class="img-caption">Taman Ujung palacio de agua, Bali</span></div>
 
 ### **Virgin Beach**
 
 La playa más épica de la isla: arena blanca, agua turquesa, el mismísimo paraíso. La entrada cuesta 20.000 IDR (aprox. USD 1,30) e incluye el estacionamiento. Desde la mañana hasta alrededor de las 3 el agua tiene un color turquesa increíble, la zona de alrededor tiene palmeras y pasto con algo de sombra que en la tarde se llena de gente local que disfruta el paisaje muy tranquila. En la playa hay warungs y puestos de alquiler de tumbonas con sombrilla para pasar el día (100.000 IDR, unos USD 6).
+
+<div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 ## Treking por el monte Batur
 
