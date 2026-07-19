@@ -43,7 +43,7 @@ En la temporada de lluvias el mar crece tanto que la playa desaparece bajo las o
 
 * **Experiencia de pesca:** Podés coordinar directamente con los pescadores en la playa o[ reservar tu salida con antelación acá.](https://www.getyourguide.com/karangasem-l190139/amed-snorkel-exclusivo-pesca-y-cocina-balinesa-t1193317/?ranking_uuid=042fbc85-8c89-4d9c-994e-efeb98250c1d&referral_redirect=1&q=Karangasem)
 
-  <div class="post-img-box img-completo img-centro"><img src="/img/diario/amanecer-en-la-playa-de-amed.jpeg" alt="Imagen de bitácora"><span class="img-caption">Amanecer en amed </span></div>
+  <div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/jukunkgs.jpeg" alt="Imagen de bitácora"><span class="img-caption">Jukungs en la playa de amed</span></div>
 
 ## El snorkel a unos metros de la orilla: una joya pública
 
@@ -113,7 +113,7 @@ Es un conjunto de miradores ubicados en la montaña con vistas realmente increí
 
 * **Precio de entrada:** IDR 50.000 (unos USD 3). Incluye estacionamiento y la camioneta que te lleva hasta la cima. 
 
-  <div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+  <div class="post-img-box img-completo img-centro"><img src="/img/diario/lahangan-sweet spot-2.webp" alt="Imagen de bitácora"><span class="img-caption">Lahangan Sweet al atardecer, vistas del mont agung</span></div>
 
 ### Pura Lempuyang (Las Puertas del Cielo)
 
