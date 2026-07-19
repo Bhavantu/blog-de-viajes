@@ -158,7 +158,7 @@ El atardecer en Amed es un ritual diario. Al estar en la costa este, el sol se o
 
 ## **Todo lo que necesitás saber antes de ir: Datos prácticos**
 
-* **Transporte:** La moto es bastante ideal para quienes manejan con audacia. En Amed te permite moverte de bahía en bahía con libertad, pero eso sí: las rutas tienen curvas pronunciadas y pendientes empinadas, y la calle no siempre está en óptimas condiciones. Si no te sentís 100% seguro manejando scooter, no hay necesidad de arriesgar la salud. En los mismos *homestays* podés contratar choferes muy predispuestos. El tránsito es más amigable que en Ubud o Canggu.
+* **Transporte:** La moto es ideal para quienes manejan con audacia. En Amed te permite moverte de bahía en bahía con libertad, pero es importante saber que las rutas tienen curvas pronunciadas y pendientes empinadas (principalmente fuera de la ciudad) y las calles de la ciudad no siempre está en óptimas condiciones. Si no te sentís 100% seguro manejando scooter, no hay necesidad de arriesgar la salud. En los mismos *homestays* se puede contratar choferes locales que encantados te facilitan los traslados. El tránsito es más amigable que en Ubud o Canggu.
 
 ⚠️ **Efectivo / ATMs:** Los cajeros automáticos (ATM) de la zona frecuentemente se quedan sin efectivo. Recomendamos sacar en Amed con anticipación.
 
