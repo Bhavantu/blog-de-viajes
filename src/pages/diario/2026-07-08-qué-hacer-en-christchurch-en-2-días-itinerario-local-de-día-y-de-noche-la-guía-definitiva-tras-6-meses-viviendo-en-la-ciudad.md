@@ -31,11 +31,11 @@ Para ayudarte a ubicarte en tu recorrido a pie de estos dos días, acá tenés l
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1qxgmKDg0TlTplt-dyE5BZ3Xxa7UNqxc&hl=es&ehbc=2E312F" width="100%" height="480"></iframe>
 
-# Día 1
+## Día 1
 
-# 1. Centro histórico, arte y mercados locales
+## 1. Centro histórico, arte y mercados locales
 
-# Mañana: El trazado urbano y la zona histórica
+## Mañana: El trazado urbano y la zona histórica
 
 <div class="post-img-box img-mediano img-derecha"><img src="/img/diario/tranvía-histórico-de-christchurch..webp" alt="Imagen de bitácora"><span class="img-caption">Tranvía Histórico de Christchurch</span></div>
 
@@ -45,13 +45,11 @@ Sí seguis caminando hacia el centro cívico vas a cruzarte con algunos puntos i
 
 * **Cathedral Square:** En el centro de la ciudad, es la catedrál historica más importante que actualmente se encuentra en reconstrucción tras el terremoto del 2011. 
 * **Bridge of Remembrance (Puente del Recuerdo):** Un monumental arco de piedra que rinde homenaje a los soldados caídos en las guerras (primera guerra mundial, segunda y enfrentamientos bélicos posteriores) y sirve de entrada peatonal hacia la zona gastronómica junto al río (punto 5).
-
-  <div class="post-img-box img-pequeño img-izquierda"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 * **Victoria Square:** Un parque  con fuentes y estatuas históricas una bella caminata rodeada de arboles, verde y el Río Avon. 
 
   <div class="post-img-box img-mediano img-centro"><img src="/img/diario/rememoral-puerta-chrischurch-central-.webp" alt="Imagen de bitácora"><span class="img-caption">Bridge of Remembrance (Puente del Recuerdo)</span></div>
 
-# 2. Media mañana: Paseo por el Arts Centre y la memoria de la ciudad
+## 2. Media mañana: Paseo por el Arts Centre y memorial de la ciudad
 
 El **Arts Centre** de Christchurch es un complejo de edificios de estilo neogótico. Fue bastante golpeado en el gran terremoto del 2011, pero hoy está restaurado y lleno de vida con galerías de arte, tiendas y cafés.
 
@@ -66,7 +64,7 @@ Caminando unos minutos desde el Arts Centre podés descubrir:
   <div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/museo-de-arte-chrischurch.webp" alt="Imagen de bitácora"><span class="img-caption">Christchurch Art Gallery Te Puna o Waiwhetū</span></div>
 * **Canterbury Museum Pop-Up (Gloucester St):**Actualmente (2026) este museo mudó sus piezas más a un formato pop-up gratuito en el edificio de 66 Gloucester St. Es chiquito pero interesante, lleno de muestras de dinosaurios y propuestas interactivas para todas las edades. Como por ejemplo, un esqueleto de T-Rex, cajones para visualizar insectos con una lupa digital, un arenero para desenterrar los "fosiles". Muchos niños y no tan niños disfrutamos de la propuesta.
 
-# 3. Donde comer en Chrischurch
+## 3. Donde comer en Christchurch
 
 El polo gastronómico de la ciudad se encuentra cerca de la zona del centro, un claro ejemplo es el **Riverside Market** un mercado techado semicubierto, construido frente al río. Está lleno de opciones gastronómicas que van desde comida internacional de todos los rincones del mundo hasta panaderías locales, barras de cerveza artesanal y pequeñas tiendas en la entrada. Su horario es bastante extenso y algunas opciones recomendadas son: 
 
@@ -82,7 +80,7 @@ El polo gastronómico de la ciudad se encuentra cerca de la zona del centro, un 
 * **The Cookie Trader (124 Cashel St):** Un local chico especializado en galletas gigantes, rellenas de cheesecake de Oreo, caramelo salado con pretzel o marshmallows. La gracia es que las podés personalizar a gusto, todo muy "fancy".
 * **Rollickin Gelato (New Regent St & Cashel St):** Hacen helados artesanales usando leche orgánica de granjas de la zona de Canterbury. El local tiene un estilo particular con illones viejos recuperados de la calle y una canilla libre de chocolate derretido para bañar el cono. 
 
-# 4. Tarde: El Jardín Botánico y el río Avon
+## 4. Tarde: El Jardín Botánico y el río Avon
 
 Christchurch tiene el apodo de "la ciudad jardín" y se debe a sus plazas verdes y al inmenso **Jardín Botánico**, pegado al río. Es el lugar perfecto para tirarse en el pasto a descansar, leer un libro, salir a correr los domingos o jugar al golf. En lo personal, era mi rincón de caminata post-trabajo, es literalmente tan grande que cada día recorría una zona diferente. Tiene un invernadero, un peque{o museo que cuenta sobre la flora de la isla y algo de historia sobre los jardines y además es sede de festivales de música gratuitos en verano.
 
@@ -90,11 +88,11 @@ Christchurch tiene el apodo de "la ciudad jardín" y se debe a sus plazas verdes
 
 Si continuas caminando  junto al río Avon cruzando el icónico *Bridge of Remembrance* te lleva directamente a **The Strip** (en Oxford Terrace). Esta costanera peatonal concentra la mayor oferta gastronómica de la ciudad; acá es donde locales y turistas se encuentran a disfrutar de las terrazas y tomarse una copa en los bares top como *The Craft Embassy*, *Amazonita* o *The Terrace Tavern*.
 
-# 5. Noche de copas, música en vivo y sótanos secretos
+## 5. Noche de copas, música en vivo y sótanos secretos
 
 Christchurch tiene una vida nocturna bastante activa los fines de semana. Para ayudarte a organizar la salida, acá tenés la progresión de la noche perfecta ordenada de menor a mayor intensidad, podés elegir según tus intereses:
 
-## 1. Copas al atardecer (Rooftops con vistas épicas)
+### Copas al atardecer (Rooftops con vistas épicas)
 
 Antes de que caiga el sol, la mejor opción es subir a ver la cordillera y los colores del cielo desde las alturas:
 
@@ -103,7 +101,7 @@ Antes de que caiga el sol, la mejor opción es subir a ver la cordillera y los c
 
   <div class="post-img-box img-pequeño img-izquierda"><img src="/img/diario/rooftoop-chrischurch-.webp" alt="Imagen de bitácora"><span class="img-caption">Lounge 505 (Cathedral Square):</span></div>
 
-## 2. Cerveza y socialización:
+### Cerveza y socialización:
 
 Si buscás algo relajado para juntarte con amigos, charlar de la vida o planificar los próximos trails: 
 
@@ -112,21 +110,21 @@ Si buscás algo relajado para juntarte con amigos, charlar de la vida o planific
   <div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/the-church-.webp" alt="Imagen de bitácora"><span class="img-caption">The church, el templo de la socialización de los working Holiday</span></div>
 * **Paddy McNaughton’s:** Prácticamente pegado a *The Church* se encuentra este pub irlandés clásico del mismo dueño. Sirven el mejor gin irish que probé y pintas de Guinness (de las más baratas del centro)además descubrí que los fines de semana en el segundo piso se arman "fiestas irlandesas" en un espacio minúsculo un músico entona canciones tradicionales, todos cantan y bailan, la verdad es un ambiente de pura alegría, además súper inclusivo a compartir y bailar con la gente.
 
-### 3. Rincones íntimos y sofisticados (New Regent Street)
+### Rincones íntimos y sofisticados (New Regent Street)
 
 Si la noche te pide un ambiente más tranquilo, íntimo y estético, tu destino es la calle de las casitas color pastel:
 
 * **The Last Word:** Un salón especializado en whiskies de todo el mundo y cócteles clásicos. Lugar muy tranquilo y silencioso.
 * **Gin Gin:** Una opción muy popular por su decoración botánica cuidada y una variedad infinita de gin tonics con hierbas locales de Nueva Zelanda.
 
-### 4. Música en vivo y pista abierta
+### Música en vivo y pista abierta
 
 Para bailar, estas son las opciones que más me gustaron:
 
 * **Fat Eddie's:** Un clásico que no falla. Ubicado en un primer piso sobre el Strip (Oxford Terrace), el bar ofrece música en vivo casi todas las noches (mucho jazz, soul, funk y bandas de *covers* con baile y agite los fines de semana). Está abierto hasta las 3:00 am y suele llenarse de gente bastante joven.
 * **Muy Muy (Welles Street):** Un bar de cocina mexicana en una zona industrial de moda. Es  ideal para quienes aman la salsa, la bachata y la kizomba; muchas escuelas de danza se acercan los días de pista abierta y se arma la  verdadera fiesta latina.
 
-### 5. El Secreto local de la Noche: The Austin Club
+### El Secreto local de la Noche: The Austin Club
 
 Por último, te presento este secreto que nos mostró una pareja local en una noche de tragos con amigas. Oculto en un callejón sin salida del centro (con cero pinta por fuera) se encuentra **The Austin Club**, un *speakeasy* (bar secreto) subterráneo ambientado en un sótano de los años 50. La estética es oscura, con jazz sonando de fondo y una carta de tragos sofisticados (y muy buenos).
 
@@ -146,7 +144,7 @@ Dentro de The Tannery se encuentra **Deluxe Cinemas**, un cine de autor de dos s
 
 Si el día acompaña, otra opción hermosa es subir a las **Port Hills** para hacer una caminata al atardecer y ver el sol caer sobre las llanuras de Canterbury o una gran opción para mi gusto es:
 
-El teleférico de Christchurch: Gondola y el sendero del cráter
+### 8. El teleférico de Christchurch: Gondola y el sendero del cráter
 
 Para ver la ciudad y el mar al mismo tiempo, el Christchurch Gondola es una telecabina que te eleva sobre las laderas del *Mount Cavendish* en las Port Hills. A medida que sube,la vista panorámica es de 360 grados que abarca desde la llanura de Canterbury y los Alpes del Sur, hasta el puerto de Lyttelton y el Océano Pacífico.
 
@@ -154,7 +152,7 @@ Para ver la ciudad y el mar al mismo tiempo, el Christchurch Gondola es una tele
 
 ## 🗺️ Otras opciones de escapadas imperdibles: en las zonas aledañas
 
-### 1. Akaroa y el avistamiento de los delfines de Héctor
+## Akaroa y el avistamiento de los delfines de Héctor
 
 A solo una hora y media de auto de la ciudad, cruzando los valles verdes de la península de Banks, se llega a Akaroa, un encantador e histórico pueblo costero de herencia francesa (vas a ver banderas francesas y nombres de calles como *Rue Jolie*).
 
@@ -162,19 +160,19 @@ Este pueblo está enclavado en un puerto que originalmente fue el cráter de un 
 
 <div class="post-img-box img-completo img-centro"><img src="/img/diario/whatsapp-image-2026-05-25-at-13.21.08.webp" alt="Imagen de bitácora"><span class="img-caption">Akaroa</span></div>
 
-### 2. El tren TranzAlpine y el paso de montaña Arthur's Pass
+## El tren TranzAlpine y el paso de montaña Arthur's Pass
 
 Si te gusta la alta montaña, esta excursión de un día es obligatoria. Podés tomar el famoso [tren TranzAlpine](https://www.getyourguide.com/christchurch-l1013/christchurch-tranzalpine-train-journey-t394220/?partner_id=TU_ID_AFILIADO), considerado uno de los viajes ferroviarios más escénicos del mundo. El tren sale temprano desde Christchurch, cruza las llanuras de Canterbury y se interna en las gargantas del río Waimakariri hasta llegar al corazón alpino en el pueblo de **Arthur's Pass**.
 
 Si hacés base en el pueblo o vas en auto, no te pierdas la caminata a *Devil's Punchbowl*, una cascada espectacular de 131 metros rodeada de bosque nativo. Mantené los ojos abiertos: es muy probable que te cruces con el *Kea*, el único loro de montaña del mundo, conocido por ser sumamente curioso (¡y por intentar morder las gomas de los autos!).
 
-### 3. El International Antarctic Centre
+## El International Antarctic Centre
 
 Ubicado al lado del aeropuerto internacional, el **International Antarctic Centre** es un parque temático y científico interactivo fascinante. Christchurch es históricamente una de las cinco puertas de entrada oficiales a la Antártida (de acá salen las misiones de Estados Unidos y Nueva Zelanda). Podés experimentar una tormenta polar real dentro de una cúpula de hielo con temperaturas bajo cero, pasear en un vehículo anfibio todoterreno *Hagglund* original y conocer a los pequeños pingüinos azules en su centro de rescate.
 
-## 📌 Datos prácticos para tu primera semana en Christchurch
+## Datos prácticos para alojarse en Christchurch
 
-### 🛌 Dónde hacer base (Alojamientos recomendados)
+### Dónde hacer base (Alojamientos recomendados)
 
 Si venís llegando con la visa Working Holiday o estás planeando tu salida de la Isla Sur hacia el extranjero, quedarte en el centro de la ciudad te va a ahorrar muchísimo dinero en transporte diario:
 
@@ -182,7 +180,7 @@ Si venís llegando con la visa Working Holiday o estás planeando tu salida de l
 * **Las cápsulas de LyLo:** Si querés algo moderno, funcional e hiper-cómodo, el [LyLo Christchurch](https://www.booking.com/hotel/nz/jucy-snooze-christchurch.html?aid=TU_ID_AFILIADO) es una de las opciones más elegidas en el país por sus habitaciones con cabinas tipo cápsula privada que te permiten dormir con total privacidad a un costo súper mochilero.
 * **Para viajeros independientes:** Si preferís más privacidad sin perder la ubicación estratégica, podés buscar [hoteles céntricos en Christchurch a través de Booking](https://www.booking.com/searchresults.es.html?city=-1508201&aid=TU_ID_AFILIADO) para estar a pasos de los tranvías y moverte enteramente a pie.
 
-### 🚗 Transporte y conectividad
+### Transporte y conectividad
 
 * **Del aeropuerto al centro:** El colectivo de línea (línea 3 o *Purple Line*) te lleva directo al *Bus Interchange del centro* por solo unos pocos dólares. También podés optar por Uber o taxis autorizados en la salida de la terminal.
 * **Para moverte por la ciudad:** Caminar es la opción más linda, pero si estás apurado, usar los monopatines eléctricos de alquiler (como *Lime* o *Beam*) es la forma más rápida de cruzar del Jardín Botánico al Arts Centre en cuestión de minutos.
