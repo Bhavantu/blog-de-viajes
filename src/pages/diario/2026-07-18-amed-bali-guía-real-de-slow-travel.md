@@ -4,9 +4,8 @@ title: "Amed, Bali: Guía real de slow travel"
 date: 2026-07-18T16:14:00.000+08:00
 tag: guia de viaje
 pais: Indonesia
-description: "edicion final¿Viajás a Bali? Descubrí Amed, el refugio de playa y
-  snorkel libre bajo el volcán Agung. Precios, mapas y consejos reales para
-  evitar estafas. "
+description: "¿Viajás a Bali? Descubrí Amed, el refugio de playa y snorkel libre
+  bajo el volcán Agung. Precios, mapas y consejos reales para evitar estafas. "
 ---
 **¿Estás planeando tu viaje a la costa este de Bali?** En esta guía real te cuento todo lo **que hacer en Amed por libre**: desde cómo hacer snorkel en sus mejores bahías de arena negra, hasta precios actualizados de templos, mapas y consejos honestos de supervivencia para slow travelers. Ahora, sin más preámbulos, comenzamos con el viaje. 
 
@@ -85,6 +84,9 @@ Es una playa mucho más agreste y rocosa ubicada en la aldea de Banyuning, un po
 * **Pros:** Menos gente que en Jemeluk y la oportunidad de ver un barco histórico cubierto de vida marina a pocos metros de profundidad.
 * **Contras:** La entrada al agua es puramente de piedras grandes y la marea puede ser fuerte y empujarte hacia las rocas; la entrada es viable pero lenta y con cuidado. No lo recomendaría para niños personalmente.
 
+Acá te dejamos un mapa indicando las entradas específicas por las que ingresamos a cada bahía 
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1X8zPiqeYPvj9x8Nrj1ypdVYE1fX651c&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
+
 ### **Preguntas frecuentes de snorkel y tips de seguridad**
 
 * **¿Alquilar o comprar equipo?** Alquilar una máscara de snorkel en la playa sale unas IDR 50.000 por día (unos USD 3). Si te vas a quedar mucho tiempo como nosotros te conviene comprar un set básico en algún supermercado o cualquier tiendita local.\
@@ -158,7 +160,7 @@ El atardecer en Amed es un ritual diario. Al estar en la costa este, el sol se o
 
 ## **Todo lo que necesitás saber antes de ir: Datos prácticos**
 
-* **Transporte:** La moto es ideal para quienes manejan con audacia. En Amed te permite moverte de bahía en bahía con libertad, pero es importante saber que las rutas tienen curvas pronunciadas y pendientes empinadas (principalmente fuera de la ciudad) y las calles de la ciudad no siempre está en óptimas condiciones. Si no te sentís 100% seguro manejando scooter, no hay necesidad de arriesgar la salud. En los mismos *homestays* se puede contratar choferes locales que encantados te facilitan los traslados. El tránsito es más amigable que en Ubud o Canggu.
+* **Transporte:** La moto es bastante ideal para quienes manejan con audacia. En Amed te permite moverte de bahía en bahía con libertad, pero eso sí: las rutas tienen curvas pronunciadas y pendientes empinadas, y la calle no siempre está en óptimas condiciones. Si no te sentís 100% seguro manejando scooter, no hay necesidad de arriesgar la salud. En los mismos *homestays* podés contratar choferes muy predispuestos. El tránsito es más amigable que en Ubud o Canggu.
 
 ⚠️ **Efectivo / ATMs:** Los cajeros automáticos (ATM) de la zona frecuentemente se quedan sin efectivo. Recomendamos sacar en Amed con anticipación.
 
