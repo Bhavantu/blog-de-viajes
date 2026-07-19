@@ -4,13 +4,11 @@ title: "Amed, Bali: Guía real de slow travel"
 date: 2026-07-18T16:14:00.000+08:00
 tag: guia de viaje
 pais: Indonesia
-description: edicion final
+description: "edicion final¿Viajás a Bali? Descubrí Amed, el refugio de playa y
+  snorkel libre bajo el volcán Agung. Precios, mapas y consejos reales para
+  evitar estafas. "
 ---
-# **Amed, Bali: Guía real de slow travel** 
-
-¿Viajás a Bali? Descubrí Amed, el refugio de playa y snorkel libre bajo el volcán Agung. Precios, mapas y consejos reales para evitar estafas. Leé más.
-
-**¿Estás planeando tu viaje a la costa este de Bali?** En esta guía real te cuento todo lo **que hacer en Amed por libre**: desde cómo hacer snorkel en sus mejores bahías de arena negra sin pagar tours, hasta precios actualizados de templos, mapas y consejos honestos de supervivencia para slow travelers. *Ahora, sin más preámbulos, comenzamos con el viaje.* 
+**¿Estás planeando tu viaje a la costa este de Bali?** En esta guía real te cuento todo lo **que hacer en Amed por libre**: desde cómo hacer snorkel en sus mejores bahías de arena negra, hasta precios actualizados de templos, mapas y consejos honestos de supervivencia para slow travelers. Ahora, sin más preámbulos, comenzamos con el viaje. 
 
 Hace años tenía el sueño de viajar a Bali, en Indonesia. Quería el Bali de los sueños, ese con playas tranquilas, rituales en templos sagrados y una conexión real con la naturaleza.
 
@@ -24,9 +22,11 @@ Para los que queremos habitar Bali, estar en Amed implica quedarse cerca de la p
 
 No hay grandes centros comerciales ni autopistas. Es un rincón para quienes buscan estar presentes. Para nosotros fue una fuente constante de inspiración para la escritura, el dibujo y el trabajo remoto, un lugar para bajar.
 
+<div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+
 Igual seamos honestos, Amed no es un secreto absoluto. El turismo es parte del paisaje y las propuestas comerciales son constantes: hay cafés de especialidad, hoteles resort y escuelas de buceo de capital extranjero, pero todo convive con el ritmo de la villa de una manera bastante amigable. Amed es un punto medio estratégico entre el “slow travel” y la cercanía a puntos turísticos de interés como templos antiguos, palacios históricos o playas paradisíacas como Virgin Beach. Desde mi punto de vista, es un equilibrio ideal para estar en Bali.
 
-Además, se ajusta a todos los presupuestos con estadías bastante espectaculares frente al mar para todos los bolsillos, acá te dejamos algunos ejemplos:
+Además, se ajusta a todos los presupuestos con estadías bastante espectaculares frente al mar para todos los bolsillos, acá te dejamos algunos ejemplos y una tabla comparativa al final del artículo. 
 
 * [Estadía frente al mar spa](https://www.booking.com/hotel/id/surya-amed-beach.html?aid=318615&label=New_Spanish_ES_ROW_5496343705-IRXF%2A%2AfXkjlT1Jfkfsb2mAS637942155485%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atidsa-55482331735%3Alp9227990%3Ali%3Adec%3Adm%3Aag5496343705%3Acmp108540265&sid=90611b33264c18071339590e9ab71fc9&all_sr_blocks=762356305_425328227_2_1_0_1357604&checkin=2026-07-24&checkout=2026-07-25&dest_id=-2670300&dest_type=city&dist=0&group_adults=2&group_children=0&hapos=2&highlighted_blocks=762356305_425328227_2_1_0_1357604&hpos=2&matching_block_id=762356305_425328227_2_1_0_1357604&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=762356305_425328227_2_1_0_1357604_71680000&srepoch=1784181452&srpvid=aed229da19a30217&type=total&ucfs=1&)
 * [Estadía frente al mar beach resort local](https://www.booking.com/hotel/id/amed-beach-resort.html?aid=318615&label=New_Spanish_ES_ROW_5496343705-IRXF%2A%2AfXkjlT1Jfkfsb2mAS637942155485%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atidsa-55482331735%3Alp9227990%3Ali%3Adec%3Adm%3Aag5496343705%3Acmp108540265&sid=90611b33264c18071339590e9ab71fc9&all_sr_blocks=69656401_141511359_0_0_0&checkin=2026-07-31&checkout=2026-08-01&dest_id=-2670300&dest_type=city&dist=0&group_adults=2&group_children=0&hapos=4&highlighted_blocks=69656401_141511359_0_0_0&hpos=4&matching_block_id=69656401_141511359_0_0_0&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=69656401_141511359_0_0_0__69414200&srepoch=1784181642&srpvid=aed229da19a30217&type=total&ucfs=1&)
@@ -37,6 +37,8 @@ Además, se ajusta a todos los presupuestos con estadías bastante espectaculare
 ## **Los Jukungs y el mar: la posta de la vida local**
 
 Una de las primeras cosas que vimos en la mañana de Amed es el mar salpicado de velas de colores. Con los *jukungs*, canoas de madera estabilizadas con dos bases laterales de bambú que los pescadores locales usan desde hace generaciones. En la temporada turística, también las usan para salidas de snorkel, pesca o paseos al atardecer.
+
+<div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 Ketut (un pescador y guía local) nos contaba que muchas veces la gente se queda sin trabajo y opta por comprarse un *jukung* para pescar como medio de sustento. A media mañana están estacionados en la orilla; con mucho cuidado, sus dueños limpian los motores y los traccionan con cuerdas para acomodarlos, aunque también hemos visto cómo los cargan al hombro ellos mismos para dejarlos a salvo de la marea.
 
@@ -85,7 +87,7 @@ Es una playa mucho más agreste y rocosa ubicada en la aldea de Banyuning, un po
 
 ### **Preguntas frecuentes de snorkel y tips de seguridad**
 
-* **¿Alquilar o comprar equipo?** Alquilar una máscara de snorkel en la playa sale unas IDR 50.000 por día (unos USD 3). Si te vas a quedar mucho tiempo como nosotros te conviene comprar un set básico en algún supermercado o cualquier tiendita local.  
+* **¿Alquilar o comprar equipo?** Alquilar una máscara de snorkel en la playa sale unas IDR 50.000 por día (unos USD 3). Si te vas a quedar mucho tiempo como nosotros te conviene comprar un set básico en algún supermercado o cualquier tiendita local.\
   *Tip de compra:* Parece ser que la prueba que corrobora la calidad de la máscara es: ponérsela, inhalar por la nariz y que no se despegue. Nosotros compramos una de marca Intex por aprox. IDR 290.000 (USD 17) y resultó bastante bien.
 * **¿Qué pasa con los botes en la costa?** Al ser playas con mucha actividad, es común que pasen botes cerca del arrecife (siempre están atentos y si necesitan pasar alguien avisa), pero viajero prevenido vale por dos. Consejos principales: prestar atención y, si tenés una [boya de seguridad inflable,](https://amzn.to/4bRRYnx) es muy útil para que te vean desde lejos (y te ayuda a flotar en caso de ser necesario).
 * **¿Son necesarios los zapatos de neopreno (escarpines)?:** Para ser honestos nosotros no usamos, pero nos llevamos algún cortecito de regalo con la marea baja. Si tenés pies sensibles o no querés sufrir al entrar y salir del agua con marea baja, es una gran opción llevar [escarpines básicos de neopreno (como estos que además tienen toda la onda)](https://www.amazon.com/SEEKWAY-Quick-Dry-Snorkeling-701-Black/dp/B0GKMSXRB3?crid=1P9AG7Q2VHV2V&dib=eyJ2IjoiMSJ9.53gSoWNmK0QEEJbOlANpjKcjddOqOeKsDT_F6PVTyhSyagXmRk0e3eaP83Vs5EI7nDkpO-AhU7vxWmUXtohnrRGsqzUPCf3m3zS8_lxIja6be2MIe91S_yu5d45_Ji2KuXSzPJRjkfuqkOM8HOgZ-Q5EpNJsYho07VYLFECk53E-J1mkBxx2ad3IkhAuD5C0TbrSSwzNvYxRv3_sFLhvEQtPtx-856EehjxoI07M3NkW8KWWMMnGVTAwVm6UTSubH3OJgSUUzhA7wrHqsMKgONMV3hCkH1gSRoXIZl44Hl0.2abl4I8VF_xiOSy67YFlatHxmXdCfxkGlEHQ0Xc2Ktw&dib_tag=se&keywords=Aqua%2Bshoes&qid=1784198928&sprefix=beach%2Bwater%2Bshoes,aps,558&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&psc=1&linkCode=sl2&tag=blogcito09-20&linkId=092c28f75dba76c83879127c823321a5&language=en_US&ref_=as_li_ss_tl). 
@@ -109,6 +111,8 @@ Es un conjunto de miradores ubicados en la montaña con vistas realmente increí
 
 * **Precio de entrada:** IDR 50.000 (unos USD 3). Incluye estacionamiento y la camioneta que te lleva hasta la cima.
 
+  <div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+
 ### **Pura Lempuyang (Las Puertas del Cielo)**
 
 Es un complejo de templos hermosos muy popularizado por las famosos fotos de viajeros entre dos grandes columnas estilo clásico llamadas "Las puertas al cielo" con el volcán de fondo y el "reflejo del agua de un lago" que no existe; sino que una persona coloca un pequeño espejo debajo de la cámara del celular para crear este efecto (que se ve bastante espectacular). Las filas para sacarse esa foto pueden demorar de 1:30 a 4 horas. Cuanto más cerca del amanecer, menos gente vas a cruzar. La entrada general cuesta 100.000 IDR (unos USD 6) y el shuttle bus obligatorio de ida y vuelta para subir hasta el templo cuesta otros 50.000 IDR (unos USD 3).
@@ -126,19 +130,31 @@ Un antiguo palacio real rodeado de jardines balineses y piscinas de agua decorad
 
 Este palacio es un complejo de bellísimos estanques y puentes históricos conocido como Taman Ujung. Está ubicado en el pueblo de Tumbu y la verdad fue una verdadera joya que nos sorprendió. Resulta ser que fue construido en 1909 por el rey de Karangasem, Anak Agung Anglurah, fusionando de manera asombrosa la arquitectura balinesa, europea y china. Actualmente funciona como centro turístico, muy bien cuidado y mantenido, y la entrada cuesta 100.000 IDR (unos USD 6). 
 
+<div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+
 ### **Virgin Beach**
 
 La playa más épica de la isla: arena blanca, agua turquesa, el mismísimo paraíso. La entrada cuesta 20.000 IDR (aprox. USD 1,30) e incluye el estacionamiento. Desde la mañana hasta alrededor de las 3 el agua tiene un color turquesa increíble, la zona de alrededor tiene palmeras y pasto con algo de sombra que en la tarde se llena de gente local que disfruta el paisaje muy tranquila. En la playa hay warungs y puestos de alquiler de tumbonas con sombrilla para pasar el día (100.000 IDR, unos USD 6).
 
+## Treking por el monte Batur 
+
+
+
+## Trekking por el volcan Monte Agung
+
 ## **Atardeceres mágicos: ¿dónde ver caer el sol en Amed?**
 
-El atardecer en Amed es un ritual diario. Al estar en la costa este, el sol se oculta detrás del contorno del volcán Agung, regalando postales inolvidables. Acá tenés tres lugares donde podés tomar algo y ver caer el sol. Pd: la playa siempre es un buen plan:
+El atardecer en Amed es un ritual diario. Al estar en la costa este, el sol se oculta detrás del contorno del volcán Agung, regalando postales inolvidables. Acá tenés tres lugares donde podés tomar algo y ver caer el sol. Pd: la playa siempre es un buen plan
+
+<div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 * **Amed Beach (La opción local y gratis):** Sentate directo en la arena negra del pueblo. El sonido de las olas, la silueta de los botes descansando en la orilla y el sol cayendo directamente detrás de la montaña es un espectáculo que no te cuesta un solo peso.
 * **Amed Sunset Point (La experiencia con pileta):** Es un mirador muy popular con una pileta infinita que apunta directo a la bahía de Jemeluk y al volcán. Tienen música en vivo y, a veces, espectáculos tradicionales (como la danza del fuego).
 * *El costo:* Cobran un gasto mínimo (*minimum spend*) de **IDR 125.000 por persona** (unos USD 8) que pagás al entrar y podés consumir en tragos o comida. 
 
   * **El barcito local de enfrente (Nuestra joya oculta):** Si querés saltarte el gasto mínimo y el ambiente más turístico de Sunset Point, justo enfrente un warung local y familiar. Tienen la misma vista, te reciben con todo el amor y te cobran una fracción del precio por una Bintang o el clásico de la isla: el **arak balinés**, una bebida tradicional destilada de palma o arroz parecida al ron blanco que combinan con diferentes frutas y sabores. 
+
+
 
 ## **Todo lo que necesitás saber antes de ir: Datos prácticos**
 
@@ -150,6 +166,6 @@ El atardecer en Amed es un ritual diario. Al estar en la costa este, el sol se o
 
 * **¿Cómo es la playa en Amed?** Se caracteriza por tener arena negra volcánica y muchas piedras. El agua es transparente y la corriente no es fuerte. En las bahías el viento está bastante contenido.
 * **¿Se puede salir a caminar por la playa?** Sí, pero con matices: la arena gruesa y las piedras pueden ser un masaje o una molestia, pero se resuelve fácil con calzado.
-* * En la mañana la marea está bastante alta y están los *jukungs* (barcos clásicos de Bali); por tanto, se puede caminar pero hay que acercarse más al agua, esquivar los barcos, etc.
 
+  * En la mañana la marea está bastante alta y están los *jukungs* (barcos clásicos de Bali); por tanto, se puede caminar pero hay que acercarse más al agua, esquivar los barcos, etc.
   * La tarde es el momento ideal ya que el atardecer es hermoso, muchos restaurantes tienen música en vivo y la marea está más baja.
