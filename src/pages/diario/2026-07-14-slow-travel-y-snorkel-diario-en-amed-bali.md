@@ -43,7 +43,7 @@ En la temporada de lluvias el mar crece tanto que la playa desaparece bajo las o
 
 * **Experiencia de pesca:** Podés coordinar directamente con los pescadores en la playa o[ reservar tu salida con antelación acá.](https://www.getyourguide.com/karangasem-l190139/amed-snorkel-exclusivo-pesca-y-cocina-balinesa-t1193317/?ranking_uuid=042fbc85-8c89-4d9c-994e-efeb98250c1d&referral_redirect=1&q=Karangasem)
 
-  <div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+  <div class="post-img-box img-completo img-centro"><img src="/img/diario/amanecer-en-la-playa-de-amed.jpeg" alt="Imagen de bitácora"><span class="img-caption">Amanecer en amed </span></div>
 
 ## El snorkel a unos metros de la orilla: una joya pública
 
@@ -54,8 +54,6 @@ Igualmente si vas con poco tiempo, reservar o coordinar el viaje en barco con un
 Los arrecifes de Coral son de las cosas más inspiradoras que vi en toda la isla, sus formas, sus colores, muchos peses diferentes, aunque es verdad que, muchos viajeros también recomiendan hacer una escapada a las Islas Gili o Nusa Penida para hacer snorkel o bucear con mantas, delfines y tortugas, este lugar tiene su encanto.
 
 Las bahías más recomendadas para hacer snorkel desde la orilla son tres. Atención, porque acá va la información real y práctica para entrar directo a la playa sin estafas ni cosas raras. 
-
-
 
 ### 1. Jemeluk Bay (Uno de mis favoritos)
 
