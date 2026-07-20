@@ -221,15 +221,14 @@ A continuación te dejamos dos tablas con los costos de estadías, entradas y to
 
 | Referencia | Costo IDR | Costo USD | Costo EUR | Observaciones |
 | :--- | :---: | :---: | :---: | :--- |
-| [Estadía presupuesto económico](https://www.booking.com/hotel/id/bali-yogi-amed1.html?aid=318615) | 150.000 | 8.36 | 7.31 | Precio promedio por noche económico frente al mar|
-| [Estadía presupuesto Medio](https://www.booking.com/hotel/id/valomia-beachfront.html?aid=318615) | 350.000 | 19.5 | 17.05 | Bungalow o resort medio ideal para slow travelers|
-| [Estadía presupuesto Alto](https://www.booking.com/hotel/id/surya-amed-beach.html?aid=318615) | 700.000 | 38.99 | 34.09 | Resort frente al mar con todas las comodidades|
-| Alquiler de Moto 110cc | 50.000 - 70.000 | 2.79 - 3.90 | 2.44 - 3.41 | Pago local en efectivo (motos ligeras y funcionales)|
-| Alquiler de Moto Intermedia 125cc | 75.000 - 85.000 | 4.18 - 4.73 | 3.65 - 4.14 | Pago local en efectivo (estilo retro y mayor potencia)|
-| Alquiler de Moto Grande 155cc | 100.000 - 130.000 | 5.57 - 7.24 | 4.87 - 6.33 | Pago local en efectivo (motos grandes, automáticas)|
-| Referencia de conversión de moneda | 100.000 | 5.57 | 4.87 | Datos actualizados Julio 2026 (sujeto a cambios completamente ajenos a nosotros:)|
-| *Costos de referencia por noche | Si querés un presupuesto personalizado usá nuestra calculadora gratis online  
-
+| [Estadía presupuesto económico](https://www.booking.com/hotel/id/bali-yogi-amed1.html?aid=318615) | 150.000 | 8.36 | 7.31 | Precio promedio por noche económico frente al mar |
+| [Estadía presupuesto Medio](https://www.booking.com/hotel/id/valomia-beachfront.html?aid=318615) | 350.000 | 19.5 | 17.05 | Bungalow o resort medio ideal para slow travelers |
+| [Estadía presupuesto Alto](https://www.booking.com/hotel/id/surya-amed-beach.html?aid=318615) | 700.000 | 38.99 | 34.09 | Resort frente al mar con todas las comodidades |
+| Alquiler de Moto 110cc | 50.000 - 70.000 | 2.79 - 3.90 | 2.44 - 3.41 | Pago local en efectivo (motos ligeras y funcionales) |
+| Alquiler de Moto Intermedia 125cc | 75.000 - 85.000 | 4.18 - 4.73 | 3.65 - 4.14 | Pago local en efectivo (estilo retro y mayor potencia) |
+| Alquiler de Moto Grande 155cc | 100.000 - 130.000 | 5.57 - 7.24 | 4.87 - 6.33 | Pago local en efectivo (motos grandes, automáticas) |
+| Referencia de conversión de moneda | 100.000 | 5.57 | 4.87 | Datos actualizados Julio 2026 (sujeto a cambios completamente ajenos a nosotros:) |
+| *Costos de referencia por noche | <td colspan="4">Si querés un presupuesto personalizado usá nuestra calculadora gratis online</td> |
 
 
 
