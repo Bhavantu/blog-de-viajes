@@ -192,7 +192,29 @@ El atardecer en Amed es un ritual diario. Al estar en la costa este, el sol se o
   * En la mañana la marea está bastante alta y están los *jukungs* (barcos clásicos de Bali); por tanto, se puede caminar pero hay que acercarse más al agua, esquivar los barcos, etc.
   * La tarde es el momento ideal ya que el atardecer es hermoso, muchos restaurantes tienen música en vivo y la marea está más baja.
 
-## Tabla de costos Amed bali, armá tu presupuesto: 
+## Tabla de costos Amed bali 2026, armá tu presupuesto: 
 
 A continuación te dejamos dos tablas con los costos de estadías, entradas y tours. Además podés armar tu presupuesto personalizado 2026 entrando a nuestra calculadora online.
+
+| Concepto | IDR (Rupia Indo) | USD | EUR | Observaciones / Enlace directo |
+| :--- | :---: | :---: | :---: | :--- |
+| Entrada Jemeluk o Lipah | Gratis | 0 | 0 | Acceso público directo desde la playa |
+| Entrada Japanese Shipwreck (Parador) | 25 | 1.39 | 1.22 | Consumición mínima para usar estacionamiento y duchas |
+| Alquiler Máscara Snorkel (Día) | 50 | 2.79 | 2.43 | Tarifa estándar de alquiler en paradores de playa |
+| Compra Máscara Snorkel (Intex) | 290 | 16.16 | 14.12 | Tienditas locales |
+| Tour de Snorkel (reserva online) | 700 | 39.01 | 34.08 | Excursión guiada por 3 puntos |
+| Tour de snorkel a coordinar (locales) | 500 | 27.87 | 24.37 | Costo de referencia |
+| Tour de snorkel + pesca | 1,255,972 | 70 | 61.15 | |
+| Entrada Lahangan Sweet (incluye shuttle) | 50 | 2.79 | 2.43 | Mirador de montaña (incluye camioneta de subida) |
+| Entrada Pura Lempuyang (+ Shuttle Bus) | 150 | 8.36 | 7.3 | Entrada general y transporte local obligatorio (para subida) |
+| Entrada Tirta Gangga | 100 | 5.57 | 4.87 | Palacio real de agua (Tumbu) |
+| Entrada Taman Ujung | 100 | 5.57 | 4.87 | Palacio de agua |
+| Entrada Virgin Beach | 20 | 1.11 | 0.97 | Incluye estacionamiento de vehículos |
+| Alquiler de 2 Tumbonas + sombrilla Virgin Beach | 100 | 5.57 | 4.87 | Opcional para pasar el día con sombrilla en la playa |
+| Tour privado desde Ubud o Kuta con entradas y traslado | 1,956,912 | 109 | 95.92 | Opción destacada porque tiene contenido histórico cultural y además conoces un pueblo indígena bali aga y su tradición de tejido |
+| Referencia de conversión de moneda | 100 | 5.57 | 4.87 | |
+
+
+
+
 
