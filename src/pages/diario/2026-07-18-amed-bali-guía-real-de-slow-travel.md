@@ -141,7 +141,7 @@ La playa más épica de la isla: arena blanca, agua turquesa, el mismísimo para
 
 Si querés juntar las experiencias en un solo tour sin manejar en moto podés o contratar un guía local o un servicio de traslado (o taxi) son muy frecuentes tanto en la calle como en los homestay/ hoteles y podés negociar el precio. Por si acaso compartimos el número de Anderson con quién hicimos los traslados por todo Bali, es amable, conversador, confiable y tiene un auto eléctrico +6281574887501 (si te comunicas contale que vas de parte de blogcito).
 
-[Si te gustaría conocer estos lugares saliendo desde Ubud, Kuta o Denpasar te compartimos esta experiencia ](https://www.getyourguide.com/es-es/karangasem-l190139/bali-tour-privado-con-todo-incluido-por-los-puntos-destacados-del-este-de-bali-t1205121?ranking_uuid=2f0097e3-d8c4-4c7a-b66e-c3f6d1bdba45&date_from=2026-07-25)que incluye el traslado, el paseo por varios de los puntos recomendados y además podés conocer pueblo de Tenganan Pegringsingan, un pueblo indígena conocido por sus telas y tejidos tradicionales.  
+> [Si te gustaría conocer estos lugares saliendo desde Ubud, Kuta o Denpasar te compartimos esta experiencia](https://www.getyourguide.com/es-es/karangasem-l190139/bali-tour-privado-con-todo-incluido-por-los-puntos-destacados-del-este-de-bali-t1205121?ranking_uuid=2f0097e3-d8c4-4c7a-b66e-c3f6d1bdba45&date_from=2026-07-25) es un tour armado que incluye el traslado, el paseo por varios de los puntos recomendados. Tiene contenido histórico cultural y además podés conocer pueblo de **Tenganan Pegringsingan,** un pueblo indígena conocido por sus tejidos tradicionales.  
 
 ## **Senderismo en volcanes cerca de amed**
 
