@@ -106,7 +106,7 @@ Es imposible hablar de Amed sin mencionar que es uno de los destinos de buceo m�
 
 ## **Circuitos turísticos: puntos de interés**
 
-Durante nuestros 15 días en Amed nos dedicamos principalmente a vivir el día a día, hacer snorkel y trabajar. Pero también recorrimos los alrededores y puntos de interés turísticos, históricos y paisajes increíbles muy cerca.
+Durante nuestros 15 días en Amed nos dedicamos principalmente a vivir el día a día, hacer snorkel y trabajar. Pero también recorrimos los alrededores y puntos de interés turísticos, históricos y paisajes increíbles muy cerca. Te dejamos toda la información de las actividades para hacer en Amed a continuación.
 
 ### **Lahangan Sweet: un parque en la montaña con vistas al Monte Agung**
 
@@ -167,11 +167,12 @@ El atardecer en Amed es un ritual diario. Al estar en la costa este, el sol se o
 <div class="post-img-box img-mediano img-centro"><img src="/img/diario/atardecer-amed-beach-vistas-al-mont-batur-.jpeg" alt="Imagen de bitácora"><span class="img-caption">Atardecer en la playa de amed (amed beach)</span></div>
 
 * **Amed Beach (La opción local y gratis):** mantenerlo simple, sentarse en las rocas o la arena negra. Con el sonido de las olas, la silueta del monte y el sol cayendo directamente detrás de la montaña es un espectáculo gratuito.
-* Bares en la playa: planazo que incluye un licuado o algo para beber por aproximadamente 
-* **Amed Sunset Point (La experiencia con pileta):** Es un mirador muy popular con una pileta infinita que apunta directo a la bahía de Jemeluk y al volcán. Tienen música en vivo y, a veces, espectáculos tradicionales (como la danza del fuego).
-* *El costo:* Cobran un gasto mínimo (*minimum spend*) de **IDR 125.000 por persona** (unos USD 8) que pagás al entrar y podés consumir en tragos o comida. 
+* Bares en la playa: planazo que incluye un jugo natural fresco o algo de beber por aproximadamente 30.000IDR alrededor de (1,67USD) (1,46 €) en muchos lugares música en vivo, y puffs en la arena con vista al mar. 
+* **Amed Sunset Point (La experiencia con piscina):** Es un mirador muy popular con una pileta infinita que apunta directo a la bahía de Jemeluk y al volcán. Tienen música en vivo y, a veces, espectáculos tradicionales (como la danza del fuego).
 
-  * **El barcito local de enfrente (Nuestra joya oculta):** Si querés saltarte el gasto mínimo y el ambiente más turístico de Sunset Point, justo enfrente un warung local y familiar. Tienen la misma vista, te reciben con todo el amor y te cobran una fracción del precio por una Bintang o el clásico de la isla: el **arak balinés**, una bebida tradicional destilada de palma o arroz parecida al ron blanco que combinan con diferentes frutas y sabores. 
+*El costo:* Cobran un gasto mínimo (*minimum spend*) de **IDR 125.000 por persona** (unos USD 8) que pagás al entrar y podés consumir en tragos o comida. 
+
+* **El barcito local de enfrente (Nuestra joya oculta):** Si querés saltarte el gasto mínimo y el ambiente más turístico de Sunset Point, justo enfrente un warung local. Tienen la misma vista, te reciben con todo el amor y te cobran una fracción del precio por una Bintang o el clásico de la isla: el **arak balinés.** Es una bebida tradicional, destilada de palma o arroz parecida al ron blanco que combinan con diferentes frutas y sabores. 
 
 ## **Todo lo que necesitás saber antes de ir: Datos prácticos**
 
