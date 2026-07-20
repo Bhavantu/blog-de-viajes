@@ -200,22 +200,35 @@ A continuación te dejamos dos tablas con los costos de estadías, entradas y to
 
 | Concepto | IDR (Rupia Indo) | USD | EUR | Observaciones / Enlace directo |
 | :--- | :---: | :---: | :---: | :--- |
-| Entrada Jemeluk o Lipah | Gratis | 0 | 0 | Acceso público directo desde la playa |
-| Entrada Japanese Shipwreck (Parador) | 25 | 1.39 | 1.22 | Consumición mínima para usar estacionamiento y duchas |
-| Alquiler Máscara Snorkel (Día) | 50 | 2.79 | 2.43 | Tarifa estándar de alquiler en paradores de playa |
-| Compra Máscara Snorkel (Intex) | 290 | 16.16 | 14.12 | Tienditas locales |
-| Tour de Snorkel (reserva online) | 700 | 39.01 | 34.08 | Excursión guiada por 3 puntos |
-| Tour de snorkel a coordinar (locales) | 500 | 27.87 | 24.37 | Costo de referencia |
-| Tour de snorkel + pesca | 1,255,972 | 70 | 61.15 | |
-| Entrada Lahangan Sweet (incluye shuttle) | 50 | 2.79 | 2.43 | Mirador de montaña (incluye camioneta de subida) |
-| Entrada Pura Lempuyang (+ Shuttle Bus) | 150 | 8.36 | 7.3 | Entrada general y transporte local obligatorio (para subida) |
-| Entrada Tirta Gangga | 100 | 5.57 | 4.87 | Palacio real de agua (Tumbu) |
-| Entrada Taman Ujung | 100 | 5.57 | 4.87 | Palacio de agua |
-| Entrada Virgin Beach | 20 | 1.11 | 0.97 | Incluye estacionamiento de vehículos |
-| Alquiler de 2 Tumbonas + sombrilla Virgin Beach | 100 | 5.57 | 4.87 | Opcional para pasar el día con sombrilla en la playa |
-| Tour privado desde Ubud o Kuta con entradas y traslado | 1,956,912 | 109 | 95.92 | Opción destacada porque tiene contenido histórico cultural y además conoces un pueblo indígena bali aga y su tradición de tejido |
-| Referencia de conversión de moneda | 100 | 5.57 | 4.87 | |
+| Entrada Jemeluk o Lipah | Gratis | 0 | 0 | Acceso público directo desde la playa|
+| Entrada Japanese Shipwreck (Parador) | 25.000 | 1.39 | 1.22 | Consumición mínima para usar estacionamiento y duchas |
+| Alquiler Máscara Snorkel (Día) | 50.000 | 2.79 | 2.43 | Tarifa estándar de alquiler en paradores de playa|
+| Compra Máscara Snorkel (Intex) | 290.000 | 16.16 | 14.12 | Tienditas locales |
+| [Tour de Snorkel (reserva online)](https://www.getyourguide.com/karangasem-l190139/baliamed-experiencia-de-esnorquel-en-un-templo-submarino-t914585/?ranking_uuid=d8ce01cb-a94d-48a5-89f8-7361b97c2d8a&q=snorkel+amed&date_from=2026-07-19&date_to=2026-07-19&adults=1) | 700.000 | 39.01 | 34.08 | Excursión guiada por 3 puntos |
+| Tour de snorkel a coordinar (locales) | 500.000 | 27.87 | 24.37 | Costo de referencia |
+| [Tour de snorkel + pesca](https://www.getyourguide.com/karangasem-l190139/amed-snorkel-exclusivo-pesca-y-cocina-balinesa-t1193317/?ranking_uuid=042fbc85-8c89-4d9c-994e-efeb98250c1d&referral_redirect=1&q=Karangasem) | 1.255.972 | 70 | 61.15 | |
+| Entrada Lahangan Sweet (incluye shuttle) | 50.000 | 2.79 | 2.43 | Mirador de montaña (incluye camioneta de subida) |
+| Entrada Pura Lempuyang (+ Shuttle Bus) | 150.000 | 8.36 | 7.3 | Entrada general y transporte local obligatorio (para subida) |
+| Entrada Tirta Gangga | 100.000 | 5.57 | 4.87 | Palacio real de agua (Tumbu) |
+| Entrada Taman Ujung | 100.000 | 5.57 | 4.87 | Palacio de agua |
+| Entrada Virgin Beach | 20.000 | 1.11 | 0.97 | Incluye estacionamiento de vehículos |
+| Alquiler de 2 Tumbonas + sombrilla Virgin Beach | 100.000 | 5.57 | 4.87 | Opcional para pasar el día con sombrilla en la playa |
+| [Tour privado desde Ubud o Kuta con entradas y traslado](https://www.getyourguide.com/es-es/karangasem-l190139/bali-tour-privado-con-todo-incluido-por-los-puntos-destacados-del-este-de-bali-t1205121?ranking_uuid=2f0097e3-d8c4-4c7a-b66e-c3f6d1bdba45&date_from=2026-07-25) | 1.956.912 | 109 | 95.92 | Opción destacada porque tiene contenido histórico cultural y además conoces un pueblo indígena bali aga y su tradición de tejido |
+| Referencia de conversión de moneda | 100.000 | 5.57 | 4.87 | |
 
+
+
+
+| Referencia | Costo IDR | Costo USD | Costo EUR | Observaciones |
+| :--- | :---: | :---: | :---: | :--- |
+| [Estadía presupuesto económico](https://www.booking.com/hotel/id/bali-yogi-amed1.html?aid=318615) | 150.000 | 8.36 | 7.31 | Precio promedio por noche económico frente al mar|
+| [Estadía presupuesto Medio](https://www.booking.com/hotel/id/valomia-beachfront.html?aid=318615) | 350.000 | 19.5 | 17.05 | Bungalow o resort medio ideal para slow travelers|
+| [Estadía presupuesto Alto](https://www.booking.com/hotel/id/surya-amed-beach.html?aid=318615) | 700.000 | 38.99 | 34.09 | Resort frente al mar con todas las comodidades|
+| Alquiler de Moto 110cc | 50.000 - 70.000 | 2.79 - 3.90 | 2.44 - 3.41 | Pago local en efectivo (motos ligeras y funcionales)|
+| Alquiler de Moto Intermedia 125cc | 75.000 - 85.000 | 4.18 - 4.73 | 3.65 - 4.14 | Pago local en efectivo (estilo retro y mayor potencia)|
+| Alquiler de Moto Grande 155cc | 100.000 - 130.000 | 5.57 - 7.24 | 4.87 - 6.33 | Pago local en efectivo (motos grandes, automáticas)|
+| Referencia de conversión de moneda | 100.000 | 5.57 | 4.87 | Datos actualizados Julio 2026 (sujeto a cambios completamente ajenos a nosotros:)|
+| *Costos de referencia por noche | Si querés un presupuesto personalizado usá nuestra calculadora gratis online  
 
 
 
