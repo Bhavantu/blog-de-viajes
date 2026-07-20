@@ -196,6 +196,8 @@ El atardecer en Amed es un ritual diario. Al estar en la costa este, el sol se o
 
 A continuación te dejamos dos tablas con los costos de estadías, entradas y tours. Además podés armar tu presupuesto personalizado 2026 entrando a nuestra calculadora online.
 
+
+
 | Concepto | IDR (Rupia Indo) | USD | EUR | Observaciones / Enlace directo |
 | :--- | :---: | :---: | :---: | :--- |
 | Entrada Jemeluk o Lipah | Gratis | 0 | 0 | Acceso público directo desde la playa |
