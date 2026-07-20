@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/BlogPostLayout.astro
-title: "Amed, Bali: Guía real de slow travel"
+title: "Que hacer en Amed, Bali: Guía real de slow travel y presupuesto 2026"
 date: 2026-07-18T16:14:00.000+08:00
 tag: guia de viaje
 pais: Indonesia
@@ -11,9 +11,9 @@ description: "¿Viajás a Bali? Descubrí Amed, el refugio de playa y snorkel li
 
 Hace años tenía el sueño de viajar a Bali, en Indonesia. Quería el Bali de los sueños, ese con playas tranquilas, rituales en templos sagrados y una conexión real con la naturaleza.
 
-Antes de viajar miré videos, leí reseñas e investigué todo lo necesario para "saber" lo que se necesita. Y, aun así, al llegar la vibra te sorprende. Sí, está masificado; sí, hay turistas por todas partes, pero también hay gente local que te recibe con una sonrisa de verdad. Hay un Bali más allá del circuito turístico tradicional, y eso es justamente lo que nos dispusimos a conocer, y a mitad del viaje decidimos rumbear para Amed.
+Antes de viajar miré videos, leí reseñas e investigué todo lo necesario para "saber" lo que se necesita. Y, aun así, al llegar la vibra te sorprende. Sí, está masificado; sí, hay turistas por todas partes, pero también hay gente local que te recibe con una sonrisa de verdad. Hay un Bali más allá del circuito turístico tradicional; eso es justamente lo que nos dispusimos a conocer, y es por esto que a mitad del viaje decidimos rumbear para Amed.
 
-Amed es una franja costera al noreste de Bali, rodeada por colinas volcánicas, campos de arroz y la silueta del imponente Monte Agung. El nombre pertenece originalmente a un pequeño pueblo de pescadores que se popularizó y terminó extendiéndose a la denominación que hoy recibe el conjunto de **7 aldeas costeras tradicionales**: Amed, Jemeluk, Bunutan, Lipah, Selang, Banyuning y Aas. Juntas conforman una zona de aproximadamente 14 kilómetros de costa; actualmente en pleno desarrollo turístico, la zona se reparte entre los distritos de Abang y Kubu.
+Amed es una franja costera al noreste de Bali,Indonesia, esta rodeada por colinas volcánicas, campos de arroz y la silueta del Monte Agung. El nombre pertenece originalmente a un pequeño pueblo de pescadores que se popularizó y terminó extendiéndose a la denominación que hoy recibe el conjunto de **7 aldeas costeras tradicionales**: Amed, Jemeluk, Bunutan, Lipah, Selang, Banyuning y Aas. Juntas conforman una zona de aproximadamente 14 kilómetros de costa; actualmente en pleno desarrollo turístico, la zona se reparte entre los distritos de Abang y Kubu.
 
 ## **¿Por qué Amed es el refugio de los slow travelers?**
 
@@ -114,7 +114,7 @@ Es un conjunto de miradores ubicados en la montaña con vistas realmente increí
 
 * **Precio de entrada:** IDR 50.000 (unos USD 3). Incluye estacionamiento y la camioneta que te lleva hasta la cima.
 
-  <div class="post-img-box img-completo img-centro"><img src="/img/diario/lahangan-sweet spot-2.webp" alt="Imagen de bitácora"><span class="img-caption">Lahangan Sweet al atardecer</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/lahangan-sweet spot-2.webp" alt="Imagen de bitácora"><span class="img-caption">Lahangan Sweet al atardecer</span></div>
 
 ### **Pura Lempuyang (Las Puertas del Cielo)**
 
@@ -139,16 +139,29 @@ Este palacio es un complejo de bellísimos estanques y puentes históricos conoc
 
 La playa más épica de la isla: arena blanca, agua turquesa, el mismísimo paraíso. La entrada cuesta 20.000 IDR (aprox. USD 1,30) e incluye el estacionamiento. Desde la mañana hasta alrededor de las 3 el agua tiene un color turquesa increíble, la zona de alrededor tiene palmeras y pasto con algo de sombra que en la tarde se llena de gente local que disfruta el paisaje muy tranquila. En la playa hay warungs y puestos de alquiler de tumbonas con sombrilla para pasar el día (100.000 IDR, unos USD 6).
 
+## **Mirando desde abajo: la tentación de los grandes volcanes**
 
-## Treking por el monte Batur
+Las siluetas de los volcanes dominan todo el paisaje y, aunque de momento no los hemos subido, recopilamos la información clave que todo viajero aventurero necesita antes de hacer un buen trekking.
 
-## Trekking por el volcan Monte Agung
+### **Monte Batur: el amanecer clásico sobre la caldera**
 
-## **Atardeceres mágicos: ¿dónde ver caer el sol en Amed?**
+Para quienes buscan una caminata relativamente accesible pero con unas vistas increíbles, el Monte Batur (1717 metros) es la opción predilecta en la isla. Es un volcán activo cuya última erupción importante ocurrió en el año 2000. Se encuentra en zona de Kintaman. La gran mayoría de las excursiones comienza a las 03:00 o 04:00 am para llegar a la cima a ver el amanecer, es obligatorio ir con guía.
+
+* **Datos sobre la experiencia:** Es un trekking de dificultad media. No es un sendero técnico, pero sí exigente debido a la pendiente constante sobre tierra volcánica y ceniza suelta. El nivel de comienzo es aproximadamente a 1000 m sobre el nivel del mar y el asenso  de 600 a 700m de pendiente positiva. Se tarda entre 1.5 y 2 horas en llegar a la cumbre.
+* **La recompensa:** Una vista panorámica del lago Batur, el Monte Abang y, en días despejados, la silueta lejana del monte Rinjani en la vecina isla de Lombok, rodeado por un manto denso de nubes bajas.
+* **[Podes reservar tu tour caminando o con subida en jeep acá](https://www.getyourguide.com/es-es/bali-l347/bali-monte-batur-sunrise-trek-con-entrada-t401391?ranking_uuid=72e57dfc-5a0e-44eb-8860-ad7db6dca002&date_from=2026-08-21)**
+
+### **Monte Agung: volcan activo y vistas de otro planeta**
+
+El Monte Batur es el punto más alto de la isla y el volcán más sagrado para los balineses, quienes lo consideran el "ombligo del mundo". Subirlo implica un desafío mayor ya que 
+
+* **La experiencia:** Es un trekking de dificultad alta, exigente y técnico ya que la cima se encuentra a unos 3142 metros. Existen dos rutas principales: la que parte desde el templo Pura Pasar Agung (que llega hasta el borde del cráter a unos 2866 metros y toma unas 3 o 4 horas de subida).La ruta completa desde el templo madre de Besakih (que asciende hasta la cumbre real a 3142 metros, requiriendo entre 5 y 7 horas de subida continua sobre roca empinada). Se empieza a caminar cerca de las 11:00 de la noche del día anterior.
+* **Consideraciones:** Requiere preparación física apta para enfrentar el desafiío y calzado apropiado. Además, al ser un sitio sagrado, hay periodos del año en los que el acceso está prohibido debido a la celebración de ceremonias religiosas en los templos del volcán.
+* **Podes reservar el tour privado con guías locales que incluye** Oración en el monte Agung y degustación de miel silvestre nat**Atardeceres mágicos: ¿dónde ver caer el sol en Amed?**
 
 El atardecer en Amed es un ritual diario. Al estar en la costa este, el sol se oculta detrás del contorno del volcán Agung, regalando postales inolvidables. Acá tenés tres lugares donde podés tomar algo y ver caer el sol. Pd: la playa siempre es un buen plan
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/atardecer-amed-beach-vistas-al-mont-batur-.jpeg" alt="Imagen de bitácora"><span class="img-caption">Atardecer en la playa de amed (amed beach)</span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/atardecer-amed-beach-vistas-al-mont-batur-.jpeg" alt="Imagen de bitácora"><span class="img-caption">Atardecer en la playa de amed (amed beach)</span></div>
 
 * **Amed Beach (La opción local y gratis):** Sentate directo en la arena negra del pueblo. El sonido de las olas, la silueta de los botes descansando en la orilla y el sol cayendo directamente detrás de la montaña es un espectáculo que no te cuesta un solo peso.
 * **Amed Sunset Point (La experiencia con pileta):** Es un mirador muy popular con una pileta infinita que apunta directo a la bahía de Jemeluk y al volcán. Tienen música en vivo y, a veces, espectáculos tradicionales (como la danza del fuego).
