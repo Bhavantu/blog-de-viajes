@@ -191,3 +191,8 @@ El atardecer en Amed es un ritual diario. Al estar en la costa este, el sol se o
 
   * En la mañana la marea está bastante alta y están los *jukungs* (barcos clásicos de Bali); por tanto, se puede caminar pero hay que acercarse más al agua, esquivar los barcos, etc.
   * La tarde es el momento ideal ya que el atardecer es hermoso, muchos restaurantes tienen música en vivo y la marea está más baja.
+
+## Tabla de costos Amed bali, armá tu presupuesto: 
+
+A continuación te dejamos dos tablas con los costos de estadías, entradas y tours. Además podés armar tu presupuesto personalizado 2026 entrando a nuestra calculadora online.
+
