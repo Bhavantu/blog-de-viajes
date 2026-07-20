@@ -156,14 +156,18 @@ Para quienes buscan una caminata relativamente accesible pero con unas vistas in
 El Monte Batur es el punto más alto de la isla y el volcán más sagrado para los balineses, quienes lo consideran el "ombligo del mundo". Subirlo implica un desafío mayor ya que 
 
 * **La experiencia:** Es un trekking de dificultad alta, exigente y técnico ya que la cima se encuentra a unos 3142 metros. Existen dos rutas principales: la que parte desde el templo Pura Pasar Agung (que llega hasta el borde del cráter a unos 2866 metros y toma unas 3 o 4 horas de subida).La ruta completa desde el templo madre de Besakih (que asciende hasta la cumbre real a 3142 metros, requiriendo entre 5 y 7 horas de subida continua sobre roca empinada). Se empieza a caminar cerca de las 11:00 de la noche del día anterior.
-* **Consideraciones:** Requiere preparación física apta para enfrentar el desafiío y calzado apropiado. Además, al ser un sitio sagrado, hay periodos del año en los que el acceso está prohibido debido a la celebración de ceremonias religiosas en los templos del volcán.
-* **Podes reservar el tour privado con guías locales que incluye** Oración en el monte Agung y degustación de miel silvestre nat**Atardeceres mágicos: ¿dónde ver caer el sol en Amed?**
+* **Consideraciones:** Requiere preparación física apta para enfrentar el desafío y calzado apropiado. Además, al ser un sitio sagrado, hay periodos del año en los que el acceso está prohibido debido a la celebración de ceremonias religiosas en los templos del volcán.
 
-El atardecer en Amed es un ritual diario. Al estar en la costa este, el sol se oculta detrás del contorno del volcán Agung, regalando postales inolvidables. Acá tenés tres lugares donde podés tomar algo y ver caer el sol. Pd: la playa siempre es un buen plan
+  > [Podes reservar el tour privado con guías locales acá.](https://www.getyourguide.com/es-es/karangasem-l190139/ruta-al-amanecer-por-el-monte-agung-con-cafe-y-miel-en-una-casa-local-t1211975?ranking_uuid=b26881a4-20bb-44e8-bcf2-e0ebb967afce&q=Monte+Agung&date_from=2026-08-20) En esta experiencia: te pasan a buscar por tu homestay (incluye ambos traslados) te recibe un guía local con el que se realiza una oración previa acorde a la tradición balinesa (para una subida armónica). Subís por uno de los 3 senderos disponibles y posteriormente se visita la casa del guía en la zona en donde te invitan con un café balines y te cuentan sobre el proceso de recolección de miel de forma sostenible según los métodos tradicionales de la zona. La verdad es que esta propuesta parece un acierto total. 
+
+## **Atardeceres mágicos: ¿dónde ver caer el sol en Amed?**
+
+El atardecer en Amed es un ritual diario. Al estar en la costa este, el sol se oculta detrás del contorno del volcán Agung, regalando postales inolvidables. Acá tenés tres lugares donde podés tomar algo y ver caer el sol. Pd: la playa siempre es un buen plan.
 
 <div class="post-img-box img-mediano img-centro"><img src="/img/diario/atardecer-amed-beach-vistas-al-mont-batur-.jpeg" alt="Imagen de bitácora"><span class="img-caption">Atardecer en la playa de amed (amed beach)</span></div>
 
-* **Amed Beach (La opción local y gratis):** Sentate directo en la arena negra del pueblo. El sonido de las olas, la silueta de los botes descansando en la orilla y el sol cayendo directamente detrás de la montaña es un espectáculo que no te cuesta un solo peso.
+* **Amed Beach (La opción local y gratis):** mantenerlo simple, sentarse en las rocas o la arena negra. Con el sonido de las olas, la silueta del monte y el sol cayendo directamente detrás de la montaña es un espectáculo gratuito.
+* Bares en la playa: planazo que incluye un licuado o algo para beber por aproximadamente 
 * **Amed Sunset Point (La experiencia con pileta):** Es un mirador muy popular con una pileta infinita que apunta directo a la bahía de Jemeluk y al volcán. Tienen música en vivo y, a veces, espectáculos tradicionales (como la danza del fuego).
 * *El costo:* Cobran un gasto mínimo (*minimum spend*) de **IDR 125.000 por persona** (unos USD 8) que pagás al entrar y podés consumir en tragos o comida. 
 
