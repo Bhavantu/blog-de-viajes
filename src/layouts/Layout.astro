@@ -240,7 +240,7 @@ const isGaleria = Astro.url.pathname.includes('/galeria');
             footer { width: 100%; text-align: center; padding: 4rem 2rem; font-size: 0.8rem; color: var(--accent-color); margin-top: auto; clear: both; }
             
                 /* ESTILOS DEL BUSCADOR */
-/* ESTILOS DEL BUSCADOR */
+                /* ESTILOS DEL BUSCADOR */
             .search-modal {
                 display: none;
                 position: fixed;
@@ -437,6 +437,45 @@ const isGaleria = Astro.url.pathname.includes('/galeria');
                     padding: 10px 12px;
                 }
             }
+
+            /* Ajuste para celdas combinadas con colspan */
+            .text-column td[colspan] {
+                text-align: left;
+                padding: 12px 15px;
+                font-family: var(--font-main);
+                color: var(--text-color);
+                border-bottom: 1px solid #e6e2da;
+            }
+
+            /* =========================================
+               RESTABLECER LISTAS EN LOS POSTS
+               ========================================= */
+            .text-column ul {
+                list-style-type: disc !important;
+                margin-top: 1rem;
+                margin-bottom: 1rem;
+                padding-left: 1.8rem !important;
+            }
+
+            .text-column ol {
+                list-style-type: decimal !important;
+                margin-top: 1rem;
+                margin-bottom: 1rem;
+                padding-left: 1.8rem !important;
+            }
+
+            .text-column li {
+                margin-bottom: 0.5rem;
+                line-height: 1.6;
+            }
+
+            /* Para sub-listas si anidan viñetas */
+            .text-column ul ul {
+                list-style-type: circle !important;
+                margin-top: 0.5rem;
+                margin-bottom: 0.5rem;
+            }
+
         </style>
 
         <script is:inline>
