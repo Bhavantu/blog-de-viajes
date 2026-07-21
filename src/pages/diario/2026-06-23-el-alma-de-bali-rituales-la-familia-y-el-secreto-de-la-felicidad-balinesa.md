@@ -9,7 +9,9 @@ description: El alma de Bali a través de sus rituales, la importancia de la
   respeto y conectar.
 main_image: /img/diario/dsc_0628.webp
 ---
-¿Cómo es la cultura en Bali? para responder a esta pregunta viajamos 1 mes y medio a la Isla en Indonesia, para conocer sus tradiciones, prácticas religión y forma de ver el mundo. 
+¿Cómo es la cultura en Bali? para responder a esta pregunta viajamos 1 mes y medio a la Isla en Indonesia, para conocer sus tradiciones, religión y forma de ver el mundo. 
+
+Introducción
 
 Cierro mis ojos y disfruto de la cálida brisa que llega desde la selva balinesa; roza suave mi rostro y me recuerda lo afortunada que soy. El sonido de la cascada acompasa con las aves y los insectos, creando una melodía sublime. Llega a puertas de nuestro alojamiento, una *guest house* en donde una amble familia local nos reciben amables y alegres, en su hogar.
 
@@ -27,7 +29,7 @@ Siempre van acompañadas de un incienso humeante con el cual sahúman brevemente
 
 Al caminar, es común sorprenderse por las máscaras y estatuas de piedra que parecen demonios guardianes. El hinduismo balinés es único; si bien comparten deidades como Brahma, Vishnu y Shiva con el hinduismo de India, el sincretismo es propio. Al no intentar representar a los dioses con forma humana, recurren a la fuerza de la naturaleza y a la mitología. 
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/dsc_0555.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/dsc_0555.webp" alt="Imagen de bitácora"><span class="img-caption">Representación de dioses en forma de animales, Hindu Bali</span></div>
 
 Es frecuente caminar por las calles y encontrarse con el *Banjar*, la organización comunitaria del barrio. Un grupo de jóvenes camina con sus instrumentos tradicionales (el *Gamelan*: metalófonos, gongs y tambores) para ofrecer bendiciones y recibir moneditas. Entre ellos destaca el *Barong*, una figura protectora (un disfraz alargado con cara de mono o tigre, entre otros) que danza al ritmo de la percusión, dirigido por dos personas en su interior. Las familias salen a acompañarlos y los niños aplauden alentando en las veredas.
 
@@ -35,7 +37,7 @@ Es frecuente caminar por las calles y encontrarse con el *Banjar*, la organizaci
 
 Tuve la fortuna de llegar a Bali cerca del *Kuningan*, una celebración que ocurre cada 210 días según el ciclo balinés. Esta festividad marca el punto final del ciclo de *Galungan*, y se dice que es el momento en que los ancestros regresan al mundo espiritual tras visitar a sus familias.
 
-<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/whatsapp-image-2026-06-29-at-23.14.01-1-.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/whatsapp-image-2026-06-29-at-23.14.01-1-.webp" alt="Imagen de bitácora"><span class="img-caption">Kuningan day en bali </span></div>
 
 La palabra *Kuningan* viene de *kunyit* (cúrcuma), protagonista del arroz amarillo que se prepara para los dioses y se ofrece con coco sobre hojas de banana. La ceremonia simboliza la victoria del *Dharma* (el bien) sobre el *Adharma* (el caos). Durante los días previos, el barrio se transformaba: las familias preparaban juntas decoraciones con hojas de coco, banana y flores.
 
@@ -70,7 +72,7 @@ Charlando con Roi, un guía local de la isla de Java que conocimos al llegar, pu
 
 Luego de este periodo llegó la ocupación japonesa (1942-1945), que fue una época muy severa, aunque él la califica como «mejor» en términos de adquisición de conocimientos para la población local. Me pareció interesante su visión como la de alguien que ve el pasado como una cicatriz de la que se aprendió. Pero al indagar un poco más, descubrimos que Bali tiene un capítulo propio: fue la última isla en caer bajo dominio colonial. A principios del siglo XX, ante la invasión holandesa, el pueblo balinés protagonizó el *Puputan*: al ver llegar los barcos holandeses, realizaron un suicidio colectivo ritual de la nobleza y sus súbditos, quienes prefirieron morir antes que rendirse ante la esclavitud y la explotación.
 
-Esta historia de resistencia consolidó al *Banjar* como el pilar de la sociedad balinesa. Este sistema de organización vecinal no es solo administrativo: es una red de contención donde la responsabilidad sobre el territorio y los rituales es colectiva. La identidad balinesa sobrevive precisamente gracias a este tejido comunitario, que funciona como un escudo frente a la pérdida de sus tradiciones.
+Esta historia de resistencia consolidó al *Banjar* como el pilar de la sociedad balinesa. Este sistema de organización vecinal no es solo administrativo: es una red de contención donde la responsabilidad sobre el territorio y los rituales es colectiva. La identidad balinesa sobrevive precisamente gracias a este tejido comunitario, que funciona como un escudo frente a la pérdida de sus tradiciones. Realmente este viaje me hizo reflexionar en relación al problema de la soledad tan extendido en occidente. El encuentro y el intercambio con quienes los rodean aquí familia, vecinos es parte de la vida y encuentra como tal su tiempo en una jornada cualquiera mediante una charla en la vereda o el realizar una actividad compartida, y refuerza ese vinculo con la ceremonia, el simbolo y el ritual. Nadie esta solo, nadie vive solo, todo es en relación.
 
 ### **Datos prácticos para un viaje respetuoso**
 
