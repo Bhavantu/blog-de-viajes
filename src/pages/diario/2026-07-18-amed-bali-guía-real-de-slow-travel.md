@@ -197,7 +197,7 @@ El atardecer en Amed es un ritual diario. Al estar en la costa este, el sol se o
 
 A continuación te dejamos dos tablas con los costos de estadías, entradas y tours. Además podés armar tu presupuesto personalizado 2026 entrando a nuestra calculadora online.
 
-Que hacer en amed tabla de costos
+## Que hacer en amed tabla de costos 2026
 
 | Concepto                                                                                                                                                                                                                                                                       | IDR (Rupia Indo) | USD   | EUR   | Observaciones / Enlace directo                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ----- | ----- | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -217,7 +217,9 @@ Que hacer en amed tabla de costos
 | [Tour privado desde Ubud o Kuta con entradas y traslado](https://www.getyourguide.com/es-es/karangasem-l190139/bali-tour-privado-con-todo-incluido-por-los-puntos-destacados-del-este-de-bali-t1205121?ranking_uuid=2f0097e3-d8c4-4c7a-b66e-c3f6d1bdba45&date_from=2026-07-25) | 1.956.912        | 109   | 95.92 | Opción destacada porque tiene contenido histórico cultural y además conoces un pueblo indígena bali aga y su tradición de tejido |
 | Referencia de conversión de moneda                                                                                                                                                                                                                                             | 100.000          | 5.57  | 4.87  |                                                                                                                                  |
 
-Donde quedarse en amed según tu presupuesto
+
+
+## Presupuesto para quedarse en Amed
 
 | Referencia                                                                                        | Costo IDR                                                                                         | Costo USD   | Costo EUR   | Observaciones                                                                     |
 | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ----------- | ----------- | --------------------------------------------------------------------------------- |
