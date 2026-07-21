@@ -9,7 +9,7 @@ description: El alma de Bali a través de sus rituales, la importancia de la
   respeto y conectar.
 main_image: /img/diario/dsc_0628.webp
 ---
-# ¿Cómo es la cultura en Bali? Viaje a la esencia de la Isla de los Dioses
+## ¿Cómo es la cultura en Bali? Viaje a la esencia de la Isla de los Dioses
 
 Para responder a esta pregunta viajamos 1 mes y medio a la Isla en Indonesia, para conocer sus tradiciones, religión y forma de ver el mundo. 
 
