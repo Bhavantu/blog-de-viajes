@@ -69,9 +69,13 @@ Aunque hay decenas de opciones, acá te dejamos las tres que más nos recomendar
 2. **[Tibumana waterfall](https://www.getyourguide.com/es-es/ubud-l32246/ubud-cascadas-y-templo-con-terraza-de-arroz-en-tour-en-grupo-reducido-t484232/?ranking_uuid=13d6c0db-8eca-42aa-a5ca-99810cda8039&q=tibumana+waterfall&date_from=2026-07-08&date_to=2026-07-08):** Es una pequeña cascada rodeada  de una selva densa y con una caída de agua recta y perfecta que forma una pileta natural ideal para nadar y sacar fotos increibles. La entrada cuenta con escalones y un pequeño templo a la entrada. Aunque no la recorrimos fue una cascada que nos quedó pendiente de las recomendaciones locales. Las entradas cuestan 15.000 IDR lo que equivale aproximadamente a 0,84USD O 0,74 Euros.
 3. **[Ulu Petanu waterfall:](https://www.getyourguide.com/es-es/ubud-l32246/tour-por-ubud-con-guia-opcional-en-ingles-espanol-e-italiano-t895337/?ranking_uuid=22ec2f2f-5cf6-40d7-9f4d-6a2f07016c88&q=Cascada+Ulu+Petanu&date_from=2026-07-08&date_to=2026-07-08)** Una gema escondida a 40 minutos de Ubud central. Es una zona selvática con unas piscinas orientadas a ceremonias religiosas en la entrada, hay que bajar 90 escalores pero es un lugar bastante tranquilo con estacionamiento gratuito. Cuenta con una cascada principal en la que es posible bañarse, otra pequeña y más retirada en la que algunos locales van a hacer pequeñas ceremonias diarias de limpieza y una cueva histórica llamada Tampaksiring de aproximadamente 200 metros llanos, la historia cuenta que fue excavada a mano como parte del sistema de riego de los arrozales en la antigüedad. El ingreso a esta cueva tiene un costo significativo de 10.000 IDR, y el ingreso a la cascada 30.000 IDR. El costo total de ambas entradas es alrededor de 2.24 USD o 1.9 euros. 
 
+## 3. Taller de cocina balinesa en una granja ecológica: Nuestra experiencia estrella en Ubud
 
+Sin duda, una de las experiencias que más disfrutamos durante nuestro viaje por Bali fue hacer un taller de cocina balinesa vegetariana en una granja ecológica. La actividad fue perfecta de principio a principio: nos recogieron directamente en el centro de Ubud para trasladarnos hacia las montañas del norte. Al llegar, la exuberante vegetación nos dio la bienvenida con un auténtico *"Welcome to the jungle"*.
 
-## 3. La experiencia del Café y el Copi Luwak:el café más caro del mundo
+Nos acompañó una chica local súper amable a lo largo de toda la clase. Elegimos la opción de la tarde y tuvimos la suerte de ser los únicos del grupo esa sesión, lo que convirtió el taller en una cena romántica privada dentro de una construcción tradicional balinesa. Durante la actividad, cosechamos vegetales del huerto, aprendimos a preparar y degustamos 6 platos vegetarianos  de la gastronomía balinesa (pueden ser con carne) que ciertamente dejaron la vara culinaria muy alta. Además en a mañana incluye una visita al emrcado local. Es una actividad muy auténtica y divertida fuera de las rutas masivas de Ubud, que recomendamos al 100% podés reservar con antelación  [Acá: Clase de cocina Balinesa en una granja ecológica](https://www.google.com/search?q=https://www.getyourguide.com/bali-l347/clase-de-cocina-balinesa-en-una-granja-ecologica-t101019/%3Fpartner_id%3DTU_ID_DE_AFILIADO).
+
+## 4. La experiencia del Café y el Copi Luwak:el café más caro del mundo
 
 La experiencia de hacer una degustación de café es un clásico de Bali. Existen cientos de plantaciones locales en las que te invitan a pasar, te enseñan el proceso tradicional de tostado y tratamiento de los granos, y hasta te convidan con una degustación gratuita de tés y cafés saborizados. Esta bueno retribuir la hospitalidad comprando algo en su tienda o dejando una pequeña colaboración.
 
@@ -83,7 +87,7 @@ Muchas de estas plantaciones tienen la famosa experiencia del café "más caro d
 
 Aún así existen lugares como "Lokasari Agrowisata" quienes ofrecen una interesante [experiencia cultural, artesanal y ética en sus campos de plantación de café, producción organica de té de hiervas y miel. El tour no ofrece traslado.](https://www.getyourguide.com/sidemen-village-l92066/lokasari-tour-por-una-plantacion-de-cafe-te-de-hierbas-y-miel-pura-t1040405?ranking_uuid=36029e36-77dd-4afa-b226-b241f7e7449b&q=Tours+sobre+caf%C3%A9,+Bali&date_from=2026-07-10)
 
-## 4. Templos: Reglas de respeto y el Ritual de Purificación
+## 5. Templos: Reglas de respeto y el Ritual de Purificación
 
 La población de la vecina isla de Java suele llamar a Bali "la isla de los mil templos", y no es ningún chiste: en cada aldea vas a encontrar al menos un templo público, además de los pequeños santuarios familiares que tiene cada casa en su patio.
 
@@ -112,7 +116,7 @@ Para hacer este ritual de forma respetuosa y correcta, es sumamente necesario co
 
 Una opción que nos parece razonable después de nuestra experiencia, para evitar romper con la mística del momento es contratar previamente [un tour que tenga todo incluido.](https://www.getyourguide.com/es-es/bali-l347/bali-visita-al-templo-gunung-kawi-con-ritual-de-purificacion-t1141894/?ranking_uuid=12e8c29b-2205-4eb2-ad7e-128b215afda8&q=ritual+de+purificacion&date_from=2026-07-08&date_to=2026-07-08) Nos parece interesante [este tour que incluye el ritual, las entradas, los costos añadidos y además podés conocer las terrazas de Jatiluwih (Las menos turísticas)  ](https://www.getyourguide.com/es-es/jatiluwih-l88105/bali-tour-por-las-terrazas-arroceras-de-jatiluwih-y-purificacion-del-agua-t1327978/?ranking_uuid=7a0f57c5-f655-4f07-ba90-7c8c509de41d&q=Terraza+de+arroz+de+Jatiluwih&date_from=2026-07-08&date_to=2026-07-08)
 
-## 5. Danza tradicional: El poder del Kecak y la [elegancia del Legong](https://www.getyourguide.com/es-es/ubud-l32246/bali-ubud-palace-legong-dance-show-ticket-de-entrada-t440675/?ranking_uuid=1fc82157-37ce-418d-8f38-86f786139f4c&q=legong&date_from=2026-07-08&date_to=2026-07-08)
+## 6. Danza tradicional: [El poder del Kecak](https://www.getyourguide.com/ubud-l32246/bali-entradas-para-el-espectaculo-de-danzas-kecak-y-del-fuego-de-ubud-t761650/?ranking_uuid=a25889a5-e5aa-4cf1-bb86-4ca8e92b23a2&q=ubud+Danza+Kecak%3A+la+danza+del+fuego&adults=1) y la [elegancia del Legong](https://www.getyourguide.com/es-es/ubud-l32246/bali-ubud-palace-legong-dance-show-ticket-de-entrada-t440675/?ranking_uuid=1fc82157-37ce-418d-8f38-86f786139f4c&q=legong&date_from=2026-07-08&date_to=2026-07-08)
 
 La "Danza del Fuego" (*Kecak*) es impactante por su ritmo frenético, pero las danzas de las mujeres (*Legong*) poseen una elegancia y un control de los movimientos corporales. Originalmente, estas danzas se presentaban en las cortes reales frente a la nobleza para relatar mitos fundacionales. 
 
@@ -122,7 +126,7 @@ En esta ocasión, nosotros optamos por la famosa **Danza Kecak**, un espectácul
 
 <div class="post-img-box img-completo img-centro"><img src="/img/diario/UBUD2.webp" alt="Imagen de bitácora"><span class="img-caption">Danza Kecak: la danza del fuego en un templo de Ubud</span></div>
 
-## Danza Kecak: la danza del fuego
+## [Danza Kecak: la danza del fuego](https://www.getyourguide.com/ubud-l32246/bali-entradas-para-el-espectaculo-de-danzas-kecak-y-del-fuego-de-ubud-t761650/?ranking_uuid=a25889a5-e5aa-4cf1-bb86-4ca8e92b23a2&q=ubud+Danza+Kecak%3A+la+danza+del+fuego&adults=1)
 
 En esta obra es que no utiliza ningún instrumento musical de fondo. El sonido, la atmósfera y el ritmo son creados de forma exclusiva por un coro de más de 70 hombres sentados en círculos concéntricos, quienes modulan sus voces imitando diferentes sonidos y entran en una suerte de trance sonoro durante toda la obra (esto es una reflexión personal debido a que la forma en la que el aire sale de su garganta es muy específico)  y el rítmo constante sostiene la obra.
 
@@ -130,7 +134,7 @@ Al comienzo, la danza narra un fragmento de la epopeya hindú del *Ramayana*: la
 
 [Entradas para el espectáculo Danza del Fuego ](https://www.getyourguide.com/ubud-l32246/bali-entradas-para-el-espectaculo-de-danzas-kecak-y-del-fuego-de-ubud-t761650/?ranking_uuid=52efd32b-3783-48d5-a45f-37353c5a7dcf&q=volcan+bali&date_from=2026-07-08&date_to=2026-07-08)
 
-## 6. Sacred Monkey Forest Sanctuary: El hogar sagrado de los macacos
+## 7. Sacred Monkey Forest Sanctuary: El hogar sagrado de los macacos
 
 Ubicado al final de la transitada Monkey Forest Road, este bosque sagrado es una reserva ecológica y espiritual gestionada por la comunidad local de Padangtegal. 
 
@@ -155,7 +159,7 @@ La famoso "Selfie con el mono": la famosa foto donde parece que el mono sostiene
 
 [Reservá un guía en español, italiano o inglés para varios de los puntos seleccionados con traslados, entradas y almuerzo incluido haciendo click acá](https://www.getyourguide.com/es-es/ubud-l32246/tour-por-ubud-con-guia-opcional-en-ingles-espanol-e-italiano-t895337?ranking_uuid=7604d510-5b5f-40f0-9755-6444cd1b50c4&date_from=2026-07-08)
 
-## 7. Palacio de Ubud (Puri Saren Agung): El corazón de la realeza balinesa
+## 8. Palacio de Ubud (Puri Saren Agung): El corazón de la realeza balinesa
 
 Situado en la esquina de Jalan Raya Ubud y Jalan Monkey Forest, frente al mercado de arte tradicional, el Palacio de Ubud es el epicentro geográfico e histórico de la ciudad. Construido durante el reinado de Ida Tjokorda Putu Kandel (1800-1823), todavía sirve como residencia oficial para la familia real de Ubud, por lo que solo se puede recorrer su patio exterior público y sus intrincados portales tallados en piedra y decorados con hojas de oro.
 
@@ -165,8 +169,6 @@ Situado en la esquina de Jalan Raya Ubud y Jalan Monkey Forest, frente al merca
 Si queres leer más informacion sobre la cultura de Bali te recomiendo leer: [El alma de Bali: Rituales, la familia y el secreto de la felicidad balinesa](https://blogcito.com/diario/2026-06-23-el-alma-de-bali-rituales-la-familia-y-el-secreto-de-la-felicidad-balinesa/)
 
 Si estas planificando tu viaje y querés información actualizada sobre Bali como: [lugares, visas ,piques y transportes podes leer Viajar a Bali en 2026, click acá](https://blogcito.com/diario/2026-06-18-bali-bby-1/)
-
-
 
 *Nota de la editora: Estimado lector/lectora recuerden que los precios y regulaciones en Bali fluctúan según la temporada y las actualizaciones de las administraciones locales de cada regencia. Se recomienda llevar siempre efectivo en rupias indonesias (IDR) ya que en muchos templos y cascadas no se aceptan tarjetas de crédito.* 
 
@@ -179,3 +181,9 @@ Probamos varias opciones, pero creo que tengo una recomendación solida para qui
 </div>
 
 Desde ya gracias por leer y buena vida!!
+
+Podría interesarte también: 
+
+* [Que hacer en Amed, Bali: Guía real de slow travel y presupuesto 2026](https://blogcito.com/diario/2026-07-18-amed-bali-gu%C3%ADa-real-de-slow-travel/)
+* [El alma de Bali: Rituales, la familia y el secreto de la felicidad balinesa](https://blogcito.com/diario/2026-06-23-el-alma-de-bali-rituales-la-familia-y-el-secreto-de-la-felicidad-balinesa/)
+* [Viajar a Bali en 2026: Requisitos, transporte y zonas para quedarse](https://blogcito.com/diario/2026-06-18-bali-bby-1/)
