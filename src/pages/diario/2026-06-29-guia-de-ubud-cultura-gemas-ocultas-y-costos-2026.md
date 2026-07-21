@@ -144,7 +144,7 @@ Al comienzo, la danza narra un fragmento de la epopeya hindú del *Ramayana*: la
 
 Ubicado al final de la transitada Monkey Forest Road, este bosque sagrado es una reserva ecológica y espiritual gestionada por la comunidad local de Padangtegal. 
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/UBUD30.webp" alt="Imagen de bitácora"><span class="img-caption">Sacred Monkey Forest Sanctuary:</span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/UBUD30.webp" alt="Imagen de bitácora"><span class="img-caption">Sacred Monkey Forest Sanctuary</span></div>
 
 Este santuario se rige por el concepto de *Tri Hita Karana* (la armonía entre los humanos, la naturaleza y Dios), resguardando tres templos sagrados activos del siglo XIV los cuales se pueden ver desde afuera pero no entrar. Es un recorrido plano, fácil de caminar, una interesante experiencia local habilitada para todas las edades. Además el camino tiene bastantes árboles por lo cual el calor no es terrible, volviéndolo una experiencia más disfrutable.
 
@@ -159,7 +159,7 @@ Este santuario se rige por el concepto de *Tri Hita Karana* (la armonía entre l
 * No mirarlos fijo a los ojos: ya que en su lenguaje corporal, el contacto visual directo es señal de agresión.
 * No esconder comida en la mochila y tener precaución con los objetos personales como lentes u objetos brillosos, ya que son muy curiosos y confiados. 
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/UBUD26.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/UBUD26.webp" alt="Imagen de bitácora"><span class="img-caption">Sacred Monkey Forest Sanctuary</span></div>
 
 La famosa "Selfie con el mono": la famosa foto donde parece que el mono sostiene el celular. Tenés que comprar un voucher de fotografía adentro (los cupos son limitados por tanda) y ellos se encargan de guiar al animal de manera segura usando pequeños trozos de fruta; se hace únicamente bajo supervisión del personal capacitado de la reserva y es muy gracioso de ver.
 
