@@ -43,7 +43,7 @@ La palabra *Kuningan* viene de *kunyit* (cúrcuma), protagonista del arroz amari
 
 El día de la ceremonia, por la mañana, las mujeres caminaban al templo del barrio cargando en su cabeza los *Gebogan* (torres gigantes de frutas y flores). El resto de la jornada transcurría entre visitas al templo de los vecinos y ceremonias en sus propios templos familiares. En la tarde, una gran marcha de personas vestidas de blanco, con sus *sarongs* y blusas brillantes, recorría las calles entre saludos y conversaciones. Se acompañaban, reían e hacían chistes entre ellos; cada señora mayor invitaba a los bebés del barrio que observaban a upa de sus padres a formar parte, porque, como nos contaba Wayan: «En cada barrio nos conocemos, somos amigos y cuidamos del otro».
 
-<div class="post-img-box img-pequeño img-izquierda"><img src="/img/diario/whatsapp-image-2026-06-29-at-12.17.48-1-.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+<div class="post-img-box img-pequeño img-izquierda"><img src="/img/diario/whatsapp-image-2026-06-29-at-12.17.48-1-.webp" alt="Imagen de bitácora"><span class="img-caption">Ngelawang, marcha por la villa entre Galungan y Kuningan</span></div>
 
 Embelesada, caminaba y observaba cómo era la ceremonia. Liderando la marcha iba el *Barong* (la figura protectora de la aldea que trae bendiciones), que se detenía cada pocas cuadras; las señoras le hacían ofrendas mediante un ritual y él bailaba entregando bendiciones al son del *Gamelan*. Formar parte de algo tan grande se sintió increíble y también me hizo reflexionar sobre el sentido comunitario. En Bali, esto no es un concepto abstracto o una idea: es una tradición, una práctica viva. 
 
@@ -62,7 +62,7 @@ La familia es el eje. Los hermanos se nombran según su orden de nacimiento:
 
 En cada casa balinesa en la que nos hemos encontrado convive una familia: abuelas, madres, tíos, primos y niños. Una cosa está clara: la vida familiar en Bali es un eje cultural y simbólico. 
 
-<div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/whatsapp-image-2026-06-29-at-23.14.01.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+<div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/whatsapp-image-2026-06-29-at-23.14.01.webp" alt="Imagen de bitácora"><span class="img-caption">"Los icónicos bambúes decorados que adornan las calles durante estas fechas se llaman Penjor, y simbolizan la gratitud hacia la tierra y las montañas sagradas."</span></div>
 
 Investigando un poco, descubrimos que la cultura está marcada por una fuerte tradición patrilineal. En los rituales que conocemos como «casamiento» (*Mepejati*), la novia se despide formalmente de sus ancestros en el templo familiar donde creció y es «recibida» o adoptada en el templo ancestral de la familia de su esposo. A partir de ese momento, ella pasa a pertenecer al linaje de él y adquiere responsabilidades religiosas y sociales en su nuevo hogar y *banjar*. Es más que un cambio de domicilio: es una transición espiritual y social. Sin embargo, existe una excepción (hermosa, según mi opinión): cuando una familia solo tiene hijas, se celebra el ritual *Nyentana*, donde es el novio quien se muda al hogar de la mujer y, de esa forma, se preserva el linaje y el cuidado de las personas mayores de la familia. Es un ejemplo de cómo la cultura balinesa encuentra formas de honrar la continuidad y el equilibrio.
 
