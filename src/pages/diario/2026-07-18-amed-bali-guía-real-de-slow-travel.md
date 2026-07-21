@@ -1,11 +1,12 @@
 ---
 layout: ../../layouts/BlogPostLayout.astro
 title: "Que hacer en Amed, Bali: Guía real de slow travel y presupuesto 2026"
-date: 2026-07-18T16:14:00.000+08:00
+date: 2026-07-21T13:43:00.000+08:00
 tag: guia de viaje
 pais: Indonesia
 description: "¿Viajás a Bali? Descubrí Amed, el refugio de playa y snorkel libre
-  bajo el volcán Agung. Precios, mapas y consejos reales para evitar estafas. "
+  bajo el volcán Agung. Presupuesto, mapas y consejos reales para disfrutar sin
+  estafas. "
 main_image: /img/diario/mount-agung.webp
 ---
 **¿Estás planeando tu viaje a la costa este de Bali?** En esta guía real te cuento todo lo **que hacer en Amed por libre**: desde cómo hacer snorkel en sus mejores bahías de arena negra, hasta precios actualizados de templos, mapas y consejos honestos de supervivencia para slow travelers. Ahora, sin más preámbulos, comenzamos con el viaje. 
@@ -197,7 +198,7 @@ El atardecer en Amed es un ritual diario. Al estar en la costa este, el sol se o
 
 A continuación te dejamos dos tablas con los costos de estadías, entradas y tours. Además podés armar tu presupuesto personalizado 2026 entrando a nuestra calculadora online.
 
-Que hacer en amed tabla de costos
+## Que hacer en amed tabla de costos 2026
 
 | Concepto                                                                                                                                                                                                                                                                       | IDR (Rupia Indo) | USD   | EUR   | Observaciones / Enlace directo                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ----- | ----- | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -217,7 +218,9 @@ Que hacer en amed tabla de costos
 | [Tour privado desde Ubud o Kuta con entradas y traslado](https://www.getyourguide.com/es-es/karangasem-l190139/bali-tour-privado-con-todo-incluido-por-los-puntos-destacados-del-este-de-bali-t1205121?ranking_uuid=2f0097e3-d8c4-4c7a-b66e-c3f6d1bdba45&date_from=2026-07-25) | 1.956.912        | 109   | 95.92 | Opción destacada porque tiene contenido histórico cultural y además conoces un pueblo indígena bali aga y su tradición de tejido |
 | Referencia de conversión de moneda                                                                                                                                                                                                                                             | 100.000          | 5.57  | 4.87  |                                                                                                                                  |
 
-Donde quedarse en amed según tu presupuesto
+
+
+## Presupuesto para quedarse en Amed
 
 | Referencia                                                                                        | Costo IDR                                                                                         | Costo USD   | Costo EUR   | Observaciones                                                                     |
 | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ----------- | ----------- | --------------------------------------------------------------------------------- |
