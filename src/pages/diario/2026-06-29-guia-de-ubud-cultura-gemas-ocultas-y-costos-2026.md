@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/BlogPostLayout.astro
-title: "Guía de Ubud, Bali: cultura, gemas ocultas y costos 2026"
+title: "Guía de Ubud, Bali 2026: Qué Ver, Gemas Ocultas, Costos y Experiencias"
 date: 2026-06-29T20:37:00.000+08:00
 tag: guia de viaje
 pais: Indonesia
