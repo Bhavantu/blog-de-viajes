@@ -9,15 +9,17 @@ description: El alma de Bali a través de sus rituales, la importancia de la
   respeto y conectar.
 main_image: /img/diario/dsc_0628.webp
 ---
-Cierro mis ojos y disfruto de la cálida brisa que llega desde la selva balinesa; roza suave mi rostro y me recuerda lo afortunada que soy. El sonido de la cascada acompasa con las aves y los insectos, creando una melodía sublime. A pocos metros de la *guest house* gestionada por nuestros anfitriones, quienes nos reciben en su hogar amables y alegres, se encuentra la cascada escondida.
+¿Cómo es la cultura en Bali? para responder a esta pregunta viajamos 1 mes y medio a la Isla en Indonesia, para conocer sus tradiciones, prácticas religión y forma de ver el mundo. 
 
-Luego de pasar unos días en Ubud central, recorriendo sus calles alegres y ruidosas, descubriendo el Palacio de Ubud, el Bosque de los Monos y los templos aledaños, comenzamos nuestra segunda etapa del viaje. Para mí, esto implica escribir todas las historias que llevo repasando en mi mente y conservo en mi corazón con mucho cariño. Encontramos el lugar perfecto que combina la belleza y la calma con la posibilidad de cumplir nuestros objetivos de trabajo digital. La alegría explota en nuestro corazón, y por eso aquí comparto el aprendizaje sobre la interesante cultura balinesa hasta el día de hoy.
+Cierro mis ojos y disfruto de la cálida brisa que llega desde la selva balinesa; roza suave mi rostro y me recuerda lo afortunada que soy. El sonido de la cascada acompasa con las aves y los insectos, creando una melodía sublime. Llega a puertas de nuestro alojamiento, una *guest house* en donde una amble familia local nos reciben amables y alegres, en su hogar.
+
+Luego de pasar unos días en Ubud central, recorriendo sus calles alegres y ruidosas, descubriendo el Palacio de Ubud, el Bosque de los Monos y los templos aledaños, comenzamos nuestra segunda etapa del viaje. Para mí, esto implica escribir todas las historias que llevo repasando en mi mente y conservo en mi corazón con mucho cariño. Hacia las afueras de Ubud encontramos el lugar perfecto que combina la belleza y la calma con la posibilidad de cumplir nuestros objetivos de trabajo digital. La alegría explota en nuestro corazón, y por eso aquí comparto el aprendizaje sobre la interesante cultura balinesa hasta el día de hoy.
 
 ### La devoción diaria: El significado de las ofrendas
 
-<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/archivo-pegado.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/archivo-pegado.webp" alt="Imagen de bitácora"><span class="img-caption">Ofrendas diarias Balinesas Canang Sari</span></div>
 
-La población balinesa es absolutamente encantadora y amable. Fieles a sus tradiciones, realizan sus rituales de agradecimiento y conexión varias veces al día en sus templos familiares. Estas ofrendas, conocidas como *Canang Sari*, son el latido espiritual de la isla. Se trata de una pequeña canasta tejida a mano con hojas de banano o palma, llena de flores de colores específicos según la dirección sagrada: las blancas al este, las rojas al sur, las amarillas al oeste y las azules o verdes al norte.
+La población balinesa nos sorprendió con su encantanto y amabilidad. Ellos tienen un paradigma de vida diferente, fieles a sus tradiciones, realizan sus rituales de agradecimiento y conexión varias veces al día en sus templos familiares. Estas ofrendas, conocidas como *Canang Sari*, son el latido espiritual de la isla. Se trata de una pequeña canasta tejida a mano con hojas de banano o palma, llena de flores de colores específicos según la dirección sagrada: las blancas al este, las rojas al sur, las amarillas al oeste y las azules o verdes al norte. 
 
 Siempre van acompañadas de un incienso humeante con el cual sahúman brevemente alrededor con un movimiento sutil de la mano; un gesto destinado a purificar el espacio antes de elevar la oración. Además, en determinadas ocasiones tras el rezo, se colocan granos de arroz húmedo (*Bija*) en la frente o el pecho, simbolizando la semilla de la vida y la bendición divina.
 
@@ -52,11 +54,8 @@ La arquitectura de las casas tradicionales responde a esta filosofía de armoní
 La familia es el eje. Los hermanos se nombran según su orden de nacimiento:
 
 * **Wayan:** El hermano o hermana mayor.
-
 * **Kadek (o Made):** El segundo.
-
 * **Komang (o Nyoman):** El tercero.
-
 * **Ketut:** El cuarto.
 
 En cada casa balinesa en la que nos hemos encontrado convive una familia: abuelas, madres, tíos, primos y niños. Una cosa está clara: la vida familiar en Bali es un eje cultural y simbólico. 
@@ -76,9 +75,7 @@ Esta historia de resistencia consolidó al *Banjar* como el pilar de la sociedad
 ### **Datos prácticos para un viaje respetuoso**
 
 * **En los templos:** Es obligatorio cubrirse los hombros y las piernas usando un *sarong* para ingresar a cualquier espacio sagrado u oficina del gobierno, tanto hombres como mujeres.
-
 * **En las calles:** Las ofrendas están por todos lados. Pisarlas de manera intencional o descuidada es considerado una falta de respeto. La atención y la danza para esquivarlas es una práctica necesaria.
-
 * **Hospedaje:** Reservar en residencias o *guest houses* familiares permite tener una experiencia más auténtica, ayudando directamente a la economía local.
 
 Si vas a viajar a Bali y necesitás conocer detalles sobre transporte, zonas de alojamiento e información actualizada, te invito a leer la [Guía Viajar a Bali en 2026: Requisitos, transporte y zonas para quedarse](https://blogcito.com/diario/2026-06-29-guia-de-ubud-cultura-gemas-ocultas-y-costos-2026/)
