@@ -6,6 +6,7 @@ tag: guia de viaje
 pais: Indonesia
 description: "¿Viajás a Bali? Descubrí Amed, el refugio de playa y snorkel libre
   bajo el volcán Agung. Precios, mapas y consejos reales para evitar estafas. "
+main_image: /img/diario/mount-agung.webp
 ---
 **¿Estás planeando tu viaje a la costa este de Bali?** En esta guía real te cuento todo lo **que hacer en Amed por libre**: desde cómo hacer snorkel en sus mejores bahías de arena negra, hasta precios actualizados de templos, mapas y consejos honestos de supervivencia para slow travelers. Ahora, sin más preámbulos, comenzamos con el viaje. 
 
@@ -192,43 +193,1180 @@ El atardecer en Amed es un ritual diario. Al estar en la costa este, el sol se o
   * En la mañana la marea está bastante alta y están los *jukungs* (barcos clásicos de Bali); por tanto, se puede caminar pero hay que acercarse más al agua, esquivar los barcos, etc.
   * La tarde es el momento ideal ya que el atardecer es hermoso, muchos restaurantes tienen música en vivo y la marea está más baja.
 
-## Tabla de costos Amed bali 2026, armá tu presupuesto: 
+## Tabla de costos Amed bali 2026, armá tu presupuesto:
 
 A continuación te dejamos dos tablas con los costos de estadías, entradas y tours. Además podés armar tu presupuesto personalizado 2026 entrando a nuestra calculadora online.
 
+Que hacer en amed tabla de costos
+
+| Concepto                                                                                                                                                                                                                                                                       | IDR (Rupia Indo) | USD   | EUR   | Observaciones / Enlace directo                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ----- | ----- | -------------------------------------------------------------------------------------------------------------------------------- |
+| Entrada Jemeluk o Lipah                                                                                                                                                                                                                                                        | Gratis           | 0     | 0     | Acceso público directo desde la playa                                                                                            |
+| Entrada Japanese Shipwreck (Parador)                                                                                                                                                                                                                                           | 25.000           | 1.39  | 1.22  | Consumición mínima para usar estacionamiento y duchas                                                                            |
+| Alquiler Máscara Snorkel (Día)                                                                                                                                                                                                                                                 | 50.000           | 2.79  | 2.43  | Tarifa estándar de alquiler en paradores de playa                                                                                |
+| Compra Máscara Snorkel (Intex)                                                                                                                                                                                                                                                 | 290.000          | 16.16 | 14.12 | Tienditas locales                                                                                                                |
+| [Tour de Snorkel (reserva online)](https://www.getyourguide.com/karangasem-l190139/baliamed-experiencia-de-esnorquel-en-un-templo-submarino-t914585/?ranking_uuid=d8ce01cb-a94d-48a5-89f8-7361b97c2d8a&q=snorkel+amed&date_from=2026-07-19&date_to=2026-07-19&adults=1)        | 700.000          | 39.01 | 34.08 | Excursión guiada por 3 puntos                                                                                                    |
+| Tour de snorkel a coordinar (locales)                                                                                                                                                                                                                                          | 500.000          | 27.87 | 24.37 | Costo de referencia                                                                                                              |
+| [Tour de snorkel + pesca](https://www.getyourguide.com/karangasem-l190139/amed-snorkel-exclusivo-pesca-y-cocina-balinesa-t1193317/?ranking_uuid=042fbc85-8c89-4d9c-994e-efeb98250c1d&referral_redirect=1&q=Karangasem)                                                         | 1.255.972        | 70    | 61.15 |                                                                                                                                  |
+| Entrada Lahangan Sweet (incluye shuttle)                                                                                                                                                                                                                                       | 50.000           | 2.79  | 2.43  | Mirador de montaña (incluye camioneta de subida)                                                                                 |
+| Entrada Pura Lempuyang (+ Shuttle Bus)                                                                                                                                                                                                                                         | 150.000          | 8.36  | 7.3   | Entrada general y transporte local obligatorio (para subida)                                                                     |
+| Entrada Tirta Gangga                                                                                                                                                                                                                                                           | 100.000          | 5.57  | 4.87  | Palacio real de agua (Tumbu)                                                                                                     |
+| Entrada Taman Ujung                                                                                                                                                                                                                                                            | 100.000          | 5.57  | 4.87  | Palacio de agua                                                                                                                  |
+| Entrada Virgin Beach                                                                                                                                                                                                                                                           | 20.000           | 1.11  | 0.97  | Incluye estacionamiento de vehículos                                                                                             |
+| Alquiler de 2 Tumbonas + sombrilla Virgin Beach                                                                                                                                                                                                                                | 100.000          | 5.57  | 4.87  | Opcional para pasar el día con sombrilla en la playa                                                                             |
+| [Tour privado desde Ubud o Kuta con entradas y traslado](https://www.getyourguide.com/es-es/karangasem-l190139/bali-tour-privado-con-todo-incluido-por-los-puntos-destacados-del-este-de-bali-t1205121?ranking_uuid=2f0097e3-d8c4-4c7a-b66e-c3f6d1bdba45&date_from=2026-07-25) | 1.956.912        | 109   | 95.92 | Opción destacada porque tiene contenido histórico cultural y además conoces un pueblo indígena bali aga y su tradición de tejido |
+| Referencia de conversión de moneda                                                                                                                                                                                                                                             | 100.000          | 5.57  | 4.87  |                                                                                                                                  |
+
+Donde quedarse en amed según tu presupuesto
+
+| Referencia                                                                                        | Costo IDR                                                                                         | Costo USD   | Costo EUR   | Observaciones                                                                     |
+| ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ----------- | ----------- | --------------------------------------------------------------------------------- |
+| [Estadía presupuesto económico](https://www.booking.com/hotel/id/bali-yogi-amed1.html?aid=318615) | 150.000                                                                                           | 8.36        | 7.31        | Precio promedio por noche económico frente al mar                                 |
+| [Estadía presupuesto Medio](https://www.booking.com/hotel/id/valomia-beachfront.html?aid=318615)  | 350.000                                                                                           | 19.5        | 17.05       | Bungalow o resort medio ideal para slow travelers                                 |
+| [Estadía presupuesto Alto](https://www.booking.com/hotel/id/surya-amed-beach.html?aid=318615)     | 700.000                                                                                           | 38.99       | 34.09       | Resort frente al mar con todas las comodidades                                    |
+| Alquiler de Moto 110cc                                                                            | 50.000 - 70.000                                                                                   | 2.79 - 3.90 | 2.44 - 3.41 | Pago local en efectivo (motos ligeras y funcionales)                              |
+| Alquiler de Moto Intermedia 125cc                                                                 | 75.000 - 85.000                                                                                   | 4.18 - 4.73 | 3.65 - 4.14 | Pago local en efectivo (estilo retro y mayor potencia)                            |
+| Alquiler de Moto Grande 155cc                                                                     | 100.000 - 130.000                                                                                 | 5.57 - 7.24 | 4.87 - 6.33 | Pago local en efectivo (motos grandes, automáticas)                               |
+| Referencia de conversión de moneda                                                                | 100.000                                                                                           | 5.57        | 4.87        | Datos actualizados Julio 2026 (sujeto a cambios completamente ajenos a nosotros:) |
+| \*Costos de referencia por noche                                                                  | <td colspan="4">Si querés un presupuesto personalizado usá nuestra calculadora gratis online</td> |             |             |                                                                                   |
 
 
-| Concepto | IDR (Rupia Indo) | USD | EUR | Observaciones / Enlace directo |
-| :--- | :---: | :---: | :---: | :--- |
-| Entrada Jemeluk o Lipah | Gratis | 0 | 0 | Acceso público directo desde la playa|
-| Entrada Japanese Shipwreck (Parador) | 25.000 | 1.39 | 1.22 | Consumición mínima para usar estacionamiento y duchas |
-| Alquiler Máscara Snorkel (Día) | 50.000 | 2.79 | 2.43 | Tarifa estándar de alquiler en paradores de playa|
-| Compra Máscara Snorkel (Intex) | 290.000 | 16.16 | 14.12 | Tienditas locales |
-| [Tour de Snorkel (reserva online)](https://www.getyourguide.com/karangasem-l190139/baliamed-experiencia-de-esnorquel-en-un-templo-submarino-t914585/?ranking_uuid=d8ce01cb-a94d-48a5-89f8-7361b97c2d8a&q=snorkel+amed&date_from=2026-07-19&date_to=2026-07-19&adults=1) | 700.000 | 39.01 | 34.08 | Excursión guiada por 3 puntos |
-| Tour de snorkel a coordinar (locales) | 500.000 | 27.87 | 24.37 | Costo de referencia |
-| [Tour de snorkel + pesca](https://www.getyourguide.com/karangasem-l190139/amed-snorkel-exclusivo-pesca-y-cocina-balinesa-t1193317/?ranking_uuid=042fbc85-8c89-4d9c-994e-efeb98250c1d&referral_redirect=1&q=Karangasem) | 1.255.972 | 70 | 61.15 | |
-| Entrada Lahangan Sweet (incluye shuttle) | 50.000 | 2.79 | 2.43 | Mirador de montaña (incluye camioneta de subida) |
-| Entrada Pura Lempuyang (+ Shuttle Bus) | 150.000 | 8.36 | 7.3 | Entrada general y transporte local obligatorio (para subida) |
-| Entrada Tirta Gangga | 100.000 | 5.57 | 4.87 | Palacio real de agua (Tumbu) |
-| Entrada Taman Ujung | 100.000 | 5.57 | 4.87 | Palacio de agua |
-| Entrada Virgin Beach | 20.000 | 1.11 | 0.97 | Incluye estacionamiento de vehículos |
-| Alquiler de 2 Tumbonas + sombrilla Virgin Beach | 100.000 | 5.57 | 4.87 | Opcional para pasar el día con sombrilla en la playa |
-| [Tour privado desde Ubud o Kuta con entradas y traslado](https://www.getyourguide.com/es-es/karangasem-l190139/bali-tour-privado-con-todo-incluido-por-los-puntos-destacados-del-este-de-bali-t1205121?ranking_uuid=2f0097e3-d8c4-4c7a-b66e-c3f6d1bdba45&date_from=2026-07-25) | 1.956.912 | 109 | 95.92 | Opción destacada porque tiene contenido histórico cultural y además conoces un pueblo indígena bali aga y su tradición de tejido |
-| Referencia de conversión de moneda | 100.000 | 5.57 | 4.87 | |
+
+## Armá tu presupuesto para viajar a amed
+Calculadora personalizada
+
+<!DOCTYPE html>
+
+<html lang="es">
+
+<head>
+
+\    <meta charset="UTF-8">
+
+\    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+\    <title>Calculadora de Presupuesto Interactiva - Amed, Bali</title>
+
+\    <script src="https://cdn.tailwindcss.com"></script>
+
+\    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+
+\    <style>
+
+\    body {
+
+\    font-family: 'Inter', sans-serif;
+
+\    background-color: #0b0a0a;
+
+\    }
+
+\    ::-webkit-scrollbar {
+
+\    width: 8px;
+
+\    }
+
+\    ::-webkit-scrollbar-track {
+
+\    background: #141313;
+
+\    }
+
+\    ::-webkit-scrollbar-thumb {
+
+\    background: #2d2a2a;
+
+\    border-radius: 4px;
+
+\    }
+
+\    ::-webkit-scrollbar-thumb:hover {
+
+\    background: #ea580c;
+
+\    }
+
+\    </style>
+
+</head>
+
+<body class="text-stone-100 min-h-screen selection:bg-orange-500 selection:text-white pb-16">
 
 
 
+\    <!-- Navigation / Brand Header -->
 
-| Referencia | Costo IDR | Costo USD | Costo EUR | Observaciones |
-| :--- | :---: | :---: | :---: | :--- |
-| [Estadía presupuesto económico](https://www.booking.com/hotel/id/bali-yogi-amed1.html?aid=318615) | 150.000 | 8.36 | 7.31 | Precio promedio por noche económico frente al mar |
-| [Estadía presupuesto Medio](https://www.booking.com/hotel/id/valomia-beachfront.html?aid=318615) | 350.000 | 19.5 | 17.05 | Bungalow o resort medio ideal para slow travelers |
-| [Estadía presupuesto Alto](https://www.booking.com/hotel/id/surya-amed-beach.html?aid=318615) | 700.000 | 38.99 | 34.09 | Resort frente al mar con todas las comodidades |
-| Alquiler de Moto 110cc | 50.000 - 70.000 | 2.79 - 3.90 | 2.44 - 3.41 | Pago local en efectivo (motos ligeras y funcionales) |
-| Alquiler de Moto Intermedia 125cc | 75.000 - 85.000 | 4.18 - 4.73 | 3.65 - 4.14 | Pago local en efectivo (estilo retro y mayor potencia) |
-| Alquiler de Moto Grande 155cc | 100.000 - 130.000 | 5.57 - 7.24 | 4.87 - 6.33 | Pago local en efectivo (motos grandes, automáticas) |
-| Referencia de conversión de moneda | 100.000 | 5.57 | 4.87 | Datos actualizados Julio 2026 (sujeto a cambios completamente ajenos a nosotros:) |
-| *Costos de referencia por noche | <td colspan="4">Si querés un presupuesto personalizado usá nuestra calculadora gratis online</td> |
+\    <header class="border-b border-stone-800/80 bg-stone-950/50 backdrop-blur-md sticky top-0 z-50">
+
+\    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
+
+\    <div class="flex items-center space-x-3">
+
+\    <span class="text-xl font-extrabold tracking-wider bg-gradient-to-r from-orange-500 to-amber-500 bg-clip-text text-transparent">
+
+\    BLOGCITO
+
+\    </span>
+
+\    <span class="text-xs font-semibold bg-stone-800 px-2.5 py-1 rounded-full text-stone-400 border border-stone-700/55">
+
+\    Manual del Viajero
+
+\    </span>
+
+\    </div>
+
+\    <div class="text-[10px] sm:text-xs text-stone-400 flex items-center gap-1.5">
+
+\    <span class="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span>
+
+\    Tasas de Cambio Julio 2026 (100k IDR = 5.57 USD | 4.87 EUR)
+
+\    </div>
+
+\    </div>
+
+\    </header>
 
 
 
+\    <!-- Hero / Intro -->
+
+\    <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-8">
+
+\    <div class="bg-gradient-to-br from-stone-900 to-neutral-950 rounded-3xl p-6 sm:p-10 border border-stone-800 relative overflow-hidden mb-8 shadow-2xl">
+
+\    <!-- Decorative light ray -->
+
+\    <div class="absolute -right-16 -top-16 w-64 h-64 bg-orange-500/10 rounded-full blur-3xl pointer-events-none"></div>
+
+\    
+
+\    <div class="relative z-10 max-w-3xl">
+
+\    <span class="text-xs font-bold text-orange-500 tracking-widest uppercase block mb-2">Herramienta Estratégica</span>
+
+\    <h1 class="text-3xl sm:text-4xl font-extrabold tracking-tight text-white mb-4">
+
+\    Calculadora de Presupuesto Real: Amed
+
+\    </h1>
+
+\    <p class="text-stone-400 text-sm sm:text-base leading-relaxed">
+
+\    Ajustá tus días de estadía, elegí la categoría de scooter adecuada y seleccioná los paseos y entradas que querés realizar. La calculadora estimará tus costos en <strong class="text-orange-400">Rupias, Dólares y Euros</strong> utilizando la equivalencia de cambio especificada arriba a la derecha. Al terminar, podrás ver el presupuesto optimizado en directo y podrás recinir tu presupuesto personalizado gratis al mail en formato Excel.
+
+\    </p>
+
+\    </div>
+
+\    </div>
+
+
+
+\    <!-- Interactive Layout Grid -->
+
+\    <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+
+\    
+
+\    <!-- Controls Sidebar (Inputs) -->
+
+\    <div class="lg:col-span-1 space-y-6">
+
+\    <div class="bg-stone-900/60 border border-stone-800 rounded-2xl p-6 backdrop-blur-sm">
+
+\    <h2 class="text-lg font-bold text-white mb-4 flex items-center gap-2">
+
+\    <span>⚙️</span> Configuración del Viaje
+
+\    </h2>
+
+\    
+
+\    <div class="space-y-5">
+
+\    <!-- Days of stay -->
+
+\    <div>
+
+\    <label class="block text-xs font-semibold text-stone-400 uppercase tracking-wider mb-2">
+
+\    Días de estadía en Amed
+
+\    </label>
+
+\    <input type="number" id="inputDays" min="1" max="90" value="5" 
+
+\    class="w-full bg-stone-950 border border-stone-800 rounded-xl px-4 py-3 text-white focus:outline-none focus:border-orange-500 transition font-mono text-sm">
+
+\    </div>
+
+
+
+\    <!-- Accommodation Tier -->
+
+\    <div>
+
+\    <label class="block text-xs font-semibold text-stone-400 uppercase tracking-wider mb-2">
+
+\    Tipo de Alojamiento (Noche)
+
+\    </label>
+
+\    <select id="selectHotel" class="w-full bg-stone-950 border border-stone-800 rounded-xl px-4 py-3 text-white focus:outline-none focus:border-orange-500 transition text-sm">
+
+\    <option value="bajo">Presupuesto Económico ($8.36 USD / €7.31 EUR)</option>
+
+\    <option value="medio" selected>Presupuesto Medio ($19.50 USD / €17.05 EUR)</option>
+
+\    <option value="alto">Presupuesto Alto ($38.99 USD / €34.09 EUR)</option>
+
+\    <option value="ninguno">Ninguno (Ya tengo reserva)</option>
+
+\    </select>
+
+\    </div>
+
+
+
+\    <!-- Scooter Category selection -->
+
+\    <div>
+
+\    <label class="block text-xs font-semibold text-stone-400 uppercase tracking-wider mb-2">
+
+\    Alquiler de Scooter (Día)
+
+\    </label>
+
+\    <select id="selectMotoType" class="w-full bg-stone-950 border border-stone-800 rounded-xl px-4 py-3 text-white focus:outline-none focus:border-orange-500 transition mb-3 text-sm">
+
+\    <option value="economica" selected>Moto 110cc: Scoopy/Vario (\~$3.34 USD / \~2.92 EUR)</option>
+
+\    <option value="fancy">Intermedia 125cc: Fazzio/Vario (\~$4.46 USD / \~3.90 EUR)</option>
+
+\    <option value="grande">Grande 155cc: NMAX/PCX (\~$6.41 USD / \~5.60 EUR)</option>
+
+\    <option value="ninguna">Ninguna (Me moveré a pie o chofer)</option>
+
+\    </select>
+
+\    
+
+\    <label class="block text-xs font-semibold text-stone-400 uppercase tracking-wider mb-2">
+
+\    Días de alquiler de moto
+
+\    </label>
+
+\    <input type="number" id="inputMotoDays" min="0" max="90" value="5" 
+
+\    class="w-full bg-stone-950 border border-stone-800 rounded-xl px-4 py-3 text-white focus:outline-none focus:border-orange-500 transition font-mono text-sm">
+
+\    </div>
+
+
+
+\    <!-- Activities checklist based on image_492c68.jpg -->
+
+\    <div>
+
+\    <label class="block text-xs font-semibold text-stone-400 uppercase tracking-wider mb-3">
+
+\    Entradas y Actividades
+
+\    </label>
+
+\    <div class="space-y-2.5 max-h-[340px] overflow-y-auto pr-1">
+
+\    <label class="flex items-start gap-3 p-2 rounded-lg hover:bg-stone-800/30 cursor-pointer transition">
+
+\    <input type="checkbox" id="checkJemeluk" class="mt-1 rounded text-orange-500 focus:ring-orange-500 bg-stone-950 border-stone-800">
+
+\    <div class="text-xs">
+
+\    <p class="font-semibold text-stone-200">Entrada Jemeluk o Lipah</p>
+
+\    <p class="text-stone-400 font-mono">Gratis</p>
+
+\    </div>
+
+\    </label>
+
+\    <label class="flex items-start gap-3 p-2 rounded-lg hover:bg-stone-800/30 cursor-pointer transition">
+
+\    <input type="checkbox" id="checkJapanese" checked class="mt-1 rounded text-orange-500 focus:ring-orange-500 bg-stone-950 border-stone-800">
+
+\    <div class="text-xs">
+
+\    <p class="font-semibold text-stone-200">Entrada Japanese Shipwreck (Parador)</p>
+
+\    <p class="text-stone-400 font-mono">25.000 IDR (~$1.39 USD)</p>
+
+\    </div>
+
+\    </label>
+
+\    <label class="flex items-start gap-3 p-2 rounded-lg hover:bg-stone-800/30 cursor-pointer transition">
+
+\    <input type="checkbox" id="checkAlquilerSnorkel" checked class="mt-1 rounded text-orange-500 focus:ring-orange-500 bg-stone-950 border-stone-800">
+
+\    <div class="text-xs">
+
+\    <p class="font-semibold text-stone-200">Alquiler Máscara Snorkel (Día)</p>
+
+\    <p class="text-stone-400 font-mono">50.000 IDR (~$2.79 USD)</p>
+
+\    </div>
+
+\    </label>
+
+\    <label class="flex items-start gap-3 p-2 rounded-lg hover:bg-stone-800/30 cursor-pointer transition">
+
+\    <input type="checkbox" id="checkCompraSnorkel" class="mt-1 rounded text-orange-500 focus:ring-orange-500 bg-stone-950 border-stone-800">
+
+\    <div class="text-xs">
+
+\    <p class="font-semibold text-stone-200">Compra Máscara Snorkel (Intex)</p>
+
+\    <p class="text-stone-400 font-mono">290.000 IDR (~$16.16 USD)</p>
+
+\    </div>
+
+\    </label>
+
+\    <label class="flex items-start gap-3 p-2 rounded-lg hover:bg-stone-800/30 cursor-pointer transition">
+
+\    <input type="checkbox" id="checkTourOnline" class="mt-1 rounded text-orange-500 focus:ring-orange-500 bg-stone-950 border-stone-800">
+
+\    <div class="text-xs">
+
+\    <p class="font-semibold text-stone-200">Tour de Snorkel (Reserva Online)</p>
+
+\    <p class="text-stone-400 font-mono">700.000 IDR (~$39.01 USD)</p>
+
+\    </div>
+
+\    </label>
+
+\    <label class="flex items-start gap-3 p-2 rounded-lg hover:bg-stone-800/30 cursor-pointer transition">
+
+\    <input type="checkbox" id="checkTourLocal" checked class="mt-1 rounded text-orange-500 focus:ring-orange-500 bg-stone-950 border-stone-800">
+
+\    <div class="text-xs">
+
+\    <p class="font-semibold text-stone-200">Tour Snorkel Coordinado Local</p>
+
+\    <p class="text-stone-400 font-mono">500.000 IDR (~$27.87 USD)</p>
+
+\    </div>
+
+\    </label>
+
+\    <label class="flex items-start gap-3 p-2 rounded-lg hover:bg-stone-800/30 cursor-pointer transition">
+
+\    <input type="checkbox" id="checkTourPesca" class="mt-1 rounded text-orange-500 focus:ring-orange-500 bg-stone-950 border-stone-800">
+
+\    <div class="text-xs">
+
+\    <p class="font-semibold text-stone-200">Tour de Snorkel + Pesca Tradicional</p>
+
+\    <p class="text-stone-400 font-mono">1.255.972 IDR (~$70.00 USD)</p>
+
+\    </div>
+
+\    </label>
+
+\    <label class="flex items-start gap-3 p-2 rounded-lg hover:bg-stone-800/30 cursor-pointer transition">
+
+\    <input type="checkbox" id="checkLahangan" checked class="mt-1 rounded text-orange-500 focus:ring-orange-500 bg-stone-950 border-stone-800">
+
+\    <div class="text-xs">
+
+\    <p class="font-semibold text-stone-200">Entrada Lahangan Sweet (con Shuttle)</p>
+
+\    <p class="text-stone-400 font-mono">50.000 IDR (~$2.79 USD)</p>
+
+\    </div>
+
+\    </label>
+
+\    <label class="flex items-start gap-3 p-2 rounded-lg hover:bg-stone-800/30 cursor-pointer transition">
+
+\    <input type="checkbox" id="checkLempuyang" checked class="mt-1 rounded text-orange-500 focus:ring-orange-500 bg-stone-950 border-stone-800">
+
+\    <div class="text-xs">
+
+\    <p class="font-semibold text-stone-200">Entrada Lempuyang (+ Shuttle Bus)</p>
+
+\    <p class="text-stone-400 font-mono">150.000 IDR (~$8.36 USD)</p>
+
+\    </div>
+
+\    </label>
+
+\    <label class="flex items-start gap-3 p-2 rounded-lg hover:bg-stone-800/30 cursor-pointer transition">
+
+\    <input type="checkbox" id="checkTirta" checked class="mt-1 rounded text-orange-500 focus:ring-orange-500 bg-stone-950 border-stone-800">
+
+\    <div class="text-xs">
+
+\    <p class="font-semibold text-stone-200">Entrada Tirta Gangga</p>
+
+\    <p class="text-stone-400 font-mono">100.000 IDR (~$5.57 USD)</p>
+
+\    </div>
+
+\    </label>
+
+\    <label class="flex items-start gap-3 p-2 rounded-lg hover:bg-stone-800/30 cursor-pointer transition">
+
+\    <input type="checkbox" id="checkUjung" class="mt-1 rounded text-orange-500 focus:ring-orange-500 bg-stone-950 border-stone-800">
+
+\    <div class="text-xs">
+
+\    <p class="font-semibold text-stone-200">Entrada Taman Ujung</p>
+
+\    <p class="text-stone-400 font-mono">100.000 IDR (~$5.57 USD)</p>
+
+\    </div>
+
+\    </label>
+
+\    <label class="flex items-start gap-3 p-2 rounded-lg hover:bg-stone-800/30 cursor-pointer transition">
+
+\    <input type="checkbox" id="checkVirgin" checked class="mt-1 rounded text-orange-500 focus:ring-orange-500 bg-stone-950 border-stone-800">
+
+\    <div class="text-xs">
+
+\    <p class="font-semibold text-stone-200">Entrada Virgin Beach</p>
+
+\    <p class="text-stone-400 font-mono">20.000 IDR (~$1.11 USD)</p>
+
+\    </div>
+
+\    </label>
+
+\    <label class="flex items-start gap-3 p-2 rounded-lg hover:bg-stone-800/30 cursor-pointer transition">
+
+\    <input type="checkbox" id="checkTumbonas" checked class="mt-1 rounded text-orange-500 focus:ring-orange-500 bg-stone-950 border-stone-800">
+
+\    <div class="text-xs">
+
+\    <p class="font-semibold text-stone-200">Alquiler de 2 Tumbonas + sombrilla</p>
+
+\    <p class="text-stone-400 font-mono">100.000 IDR (~$5.57 USD)</p>
+
+\    </div>
+
+\    </label>
+
+\    <!-- Tour privado Ubud/Kuta based on image_492c68.jpg -->
+
+\    <label class="flex items-start gap-3 p-2 rounded-lg hover:bg-stone-800/30 cursor-pointer transition border border-stone-800/50 bg-stone-900/30">
+
+\    <input type="checkbox" id="checkTourUbudKuta" class="mt-1 rounded text-orange-500 focus:ring-orange-500 bg-stone-950 border-stone-800">
+
+\    <div class="text-xs">
+
+\    <p class="font-semibold text-orange-400">Tour privado Ubud/Kuta (con traslados)</p>
+
+\    <p class="text-stone-400 font-mono">1.956.912 IDR (~$109.00 USD)</p>
+
+\    </div>
+
+\    </label>
+
+\    </div>
+
+\    </div>
+
+
+
+\    </div>
+
+\    </div>
+
+\    </div>
+
+
+
+\    <!-- Main Content: Live Budget Sheet & Multi-currency Table -->
+
+\    <div class="lg:col-span-2 space-y-6">
+
+\    
+
+\    <!-- Live Summary Header Card -->
+
+\    <div class="bg-gradient-to-r from-stone-900 to-stone-900/40 border border-stone-800 rounded-2xl p-6 shadow-lg">
+
+\    <div class="flex flex-col xl:flex-row justify-between items-start xl:items-center gap-6">
+
+\    <div class="space-y-1">
+
+\    <span class="text-xs font-bold text-stone-400 uppercase tracking-widest block">Costo Total Estimado del Viaje</span>
+
+\    <div class="flex flex-wrap items-baseline gap-2">
+
+\    <span id="totalIDR" class="text-2xl sm:text-3xl font-black text-white font-mono">0 IDR</span>
+
+\    <span id="totalUSD" class="text-base sm:text-lg font-semibold text-orange-400 font-mono">($0.00 USD)</span>
+
+\    <span id="totalEUR" class="text-base sm:text-lg font-semibold text-amber-500 font-mono">(€0.00 EUR)</span>
+
+\    </div>
+
+\    <p class="text-[10px] text-stone-500">
+
+\    Conversión de referencia exacta: 100.000 IDR = 5,57 USD | 4,87 EUR (Julio 2026)
+
+\    </p>
+
+\    </div>
+
+\    
+
+\    <!-- Fixed alignment container for buttons preventing overflow -->
+
+\    <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 w-full xl:w-auto">
+
+\    <button onclick="downloadCSV()" class="bg-gradient-to-r from-orange-500 to-amber-600 hover:from-orange-600 hover:to-amber-700 text-white font-bold py-3 px-4 rounded-xl transition duration-200 text-xs sm:text-sm flex items-center justify-center gap-2 shadow-lg shadow-orange-500/15 whitespace-nowrap">
+
+\    <svg class="w-4 h-4 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"></path></svg>
+
+\    Descargar Excel (.CSV)
+
+\    </button>
+
+\    <button onclick="copyToClipboard()" class="border border-stone-700 hover:border-stone-500 bg-stone-800/40 hover:bg-stone-800 text-stone-300 hover:text-white font-semibold py-3 px-4 rounded-xl transition duration-200 text-xs sm:text-sm flex items-center justify-center gap-2 whitespace-nowrap">
+
+\    <svg class="w-4 h-4 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3"></path></svg>
+
+\    Copiar Resumen
+
+\    </button>
+
+\    </div>
+
+\    </div>
+
+\    </div>
+
+
+
+\    <!-- Dynamic Breakdown Table -->
+
+\    <div class="bg-stone-900/40 border border-stone-800 rounded-2xl overflow-hidden backdrop-blur-sm">
+
+\    <div class="px-6 py-4 border-b border-stone-800 flex justify-between items-center bg-stone-900/60">
+
+\    <h3 class="font-bold text-white text-xs sm:text-sm uppercase tracking-wider">Planilla de Gastos Unificada</h3>
+
+\    <span class="text-xs text-stone-400 font-mono">Resultados calculados</span>
+
+\    </div>
+
+\    
+
+\    <div class="overflow-x-auto">
+
+\    <table class="w-full text-left border-collapse">
+
+\    <thead>
+
+\    <tr class="border-b border-stone-800 text-[10px] font-bold text-stone-400 uppercase tracking-widest bg-stone-950/40">
+
+\    <th class="py-4 px-6 min-w-[180px]">Concepto</th>
+
+\    <th class="py-4 px-6 text-right whitespace-nowrap">Cantidad / Días</th>
+
+\    <th class="py-4 px-6 font-mono text-right whitespace-nowrap">IDR (Rupia Indo)</th>
+
+\    <th class="py-4 px-6 font-mono text-right text-orange-400 whitespace-nowrap">USD</th>
+
+\    <th class="py-4 px-6 font-mono text-right text-amber-500 whitespace-nowrap">EUR</th>
+
+\    </tr>
+
+\    </thead>
+
+\    <tbody id="tableBody" class="divide-y divide-stone-800/60 text-xs sm:text-sm">
+
+\    <!-- Dynamic rows loaded via JS -->
+
+\    </tbody>
+
+\    </table>
+
+\    </div>
+
+\    </div>
+
+
+
+\    <!-- Clean and Warm Cartel Final for Reader Connection -->
+
+\    <div class="bg-gradient-to-br from-stone-900 to-neutral-950 border border-stone-800 rounded-2xl p-6 sm:p-8 shadow-xl relative overflow-hidden">
+
+\    <div class="absolute -left-10 -bottom-10 w-40 h-40 bg-orange-500/5 rounded-full blur-2xl pointer-events-none"></div>
+
+\    
+
+\    <div class="relative z-10">
+
+\    <h3 class="text-base sm:text-lg font-bold text-orange-500 uppercase tracking-widest mb-4 flex items-center gap-2">
+
+\    <span>🌴</span> Bitácora Abierta para Viajeros
+
+\    </h3>
+
+\    <p class="text-xs sm:text-sm text-stone-300 leading-relaxed font-normal space-y-4">
+
+\    ¡Qué bueno que estés acá planificando tu aventura!<br><br>
+
+\    Viajar por libre es hermoso, pero sabemos que a veces abruma ordenar tanta información. Armamos este manual y su calculadora con precios reales para facilitar la planificación de los demás basándonos en nuestra experiencia. Por eso creamos Blogcito que existe gracias a personas como vos, que buscan una forma más humana y respetuosa de recorrer el mundo.<br><br>
+
+\    Gracias por leer, tu apoyo es el motor que nos permite seguir escribiendo crónicas reales y respetuosas con el entorno. ¡Buenas rutas y que disfrutes cada rincón de Amed! 🌴✨<br><br>
+
+\    Si este contenido te sirvió te invitamos a compartirlo, nos leemos en el próximo destino.
+
+\    </p>
+
+\    </div>
+
+\    </div>
+
+
+
+\    </div>
+
+\    </div>
+
+\    </main>
+
+
+
+\    <!-- Elegant Toast Notification -->
+
+\    <div id="toast" class="fixed bottom-6 right-6 bg-stone-900 border border-stone-700 text-stone-200 text-xs font-semibold py-3.5 px-5 rounded-xl shadow-2xl translate-y-20 opacity-0 transition-all duration-300 flex items-center gap-2.5 z-50">
+
+\    <span class="w-2 h-2 rounded-full bg-orange-500"></span>
+
+\    <span id="toastMsg">Copiado al portapapeles</span>
+
+\    </div>
+
+
+
+\    <script>
+
+\    // Official exact values from "image_492c68.jpg" and PDF references
+
+\    const rates = {
+
+\    hotelBajo: { idr: 150000, usd: 8.36, eur: 7.31, name: "Estadía presupuesto económico" },
+
+\    hotelMedio: { idr: 350000, usd: 19.50, eur: 17.05, name: "Estadía presupuesto Medio" },
+
+\    hotelAlto: { idr: 700000, usd: 38.99, eur: 34.09, name: "Estadía presupuesto Alto" },
+
+\    
+
+\    motoEconomica: { idr: 60000, usd: 3.34, eur: 2.92, name: "Alquiler de Moto 110cc (Promedio)" },
+
+\    motoFancy: { idr: 80000, usd: 4.46, eur: 3.90, name: "Alquiler de Moto Intermedia 125cc (Promedio)" },
+
+\    motoGrande: { idr: 115000, usd: 6.41, eur: 5.60, name: "Alquiler de Moto Grande 155cc (Promedio)" },
+
+\    
+
+\    jemeluk: { idr: 0, usd: 0.00, eur: 0.00, name: "Entrada Jemeluk o Lipah" },
+
+\    japaneseShipwreck: { idr: 25000, usd: 1.39, eur: 1.22, name: "Entrada Japanese Shipwreck (Parador)" },
+
+\    alquilerSnorkel: { idr: 50000, usd: 2.79, eur: 2.43, name: "Alquiler Máscara Snorkel (Día)" },
+
+\    compraSnorkel: { idr: 290000, usd: 16.16, eur: 14.12, name: "Compra Máscara Snorkel (Intex)" },
+
+\    tourSnorkelOnline: { idr: 700000, usd: 39.01, eur: 34.08, name: "Tour de Snorkel (reserva online)" },
+
+\    tourSnorkelLocal: { idr: 500000, usd: 27.87, eur: 24.37, name: "Tour de snorkel a coordinar (locales)" },
+
+\    tourSnorkelPesca: { idr: 1255972, usd: 70.00, eur: 61.15, name: "Tour de snorkel + pesca" },
+
+\    lahangan: { idr: 50000, usd: 2.79, eur: 2.43, name: "Entrada Lahangan Sweet (incluye shuttle)" },
+
+\    lempuyang: { idr: 150000, usd: 8.36, eur: 7.30, name: "Entrada Pura Lempuyang (+ Shuttle Bus)" },
+
+\    tirta: { idr: 100000, usd: 5.57, eur: 4.87, name: "Entrada Tirta Gangga" },
+
+\    ujung: { idr: 100000, usd: 5.57, eur: 4.87, name: "Entrada Taman Ujung" },
+
+\    virgin: { idr: 20000, usd: 1.11, eur: 0.97, name: "Entrada Virgin Beach" },
+
+\    tumbonas: { idr: 100000, usd: 5.57, eur: 4.87, name: "Alquiler de 2 Tumbonas + sombrilla" },
+
+\    tourUbudKuta: { idr: 1956912, usd: 109.00, eur: 95.92, name: "Tour privado Ubud/Kuta (con traslados)" }
+
+\    };
+
+
+
+\    // Cache DOM nodes
+
+\    const inputDays = document.getElementById('inputDays');
+
+\    const selectHotel = document.getElementById('selectHotel');
+
+\    const selectMotoType = document.getElementById('selectMotoType');
+
+\    const inputMotoDays = document.getElementById('inputMotoDays');
+
+\    
+
+\    const checkJemeluk = document.getElementById('checkJemeluk');
+
+\    const checkJapanese = document.getElementById('checkJapanese');
+
+\    const checkAlquilerSnorkel = document.getElementById('checkAlquilerSnorkel');
+
+\    const checkCompraSnorkel = document.getElementById('checkCompraSnorkel');
+
+\    const checkTourOnline = document.getElementById('checkTourOnline');
+
+\    const checkTourLocal = document.getElementById('checkTourLocal');
+
+\    const checkTourPesca = document.getElementById('checkTourPesca');
+
+\    const checkLahangan = document.getElementById('checkLahangan');
+
+\    const checkLempuyang = document.getElementById('checkLempuyang');
+
+\    const checkTirta = document.getElementById('checkTirta');
+
+\    const checkUjung = document.getElementById('checkUjung');
+
+\    const checkVirgin = document.getElementById('checkVirgin');
+
+\    const checkTumbonas = document.getElementById('checkTumbonas');
+
+\    const checkTourUbudKuta = document.getElementById('checkTourUbudKuta');
+
+
+
+\    const totalIDR = document.getElementById('totalIDR');
+
+\    const totalUSD = document.getElementById('totalUSD');
+
+\    const totalEUR = document.getElementById('totalEUR');
+
+\    const tableBody = document.getElementById('tableBody');
+
+
+
+\    const inputs = [
+
+\    inputDays, selectHotel, selectMotoType, inputMotoDays,
+
+\    checkJemeluk, checkJapanese, checkAlquilerSnorkel, checkCompraSnorkel,
+
+\    checkTourOnline, checkTourLocal, checkTourPesca, checkLahangan,
+
+\    checkLempuyang, checkTirta, checkUjung, checkVirgin, checkTumbonas, checkTourUbudKuta
+
+\    ];
+
+
+
+\    inputs.forEach(el => {
+
+\    el.addEventListener('change', updateBudget);
+
+\    el.addEventListener('input', updateBudget);
+
+\    });
+
+
+
+\    function calculateBudget() {
+
+\    const days = parseInt(inputDays.value) || 0;
+
+\    const motoDays = parseInt(inputMotoDays.value) || 0;
+
+\    
+
+\    let idrSum = 0;
+
+\    let usdSum = 0;
+
+\    let eurSum = 0;
+
+\    const items = \[];
+
+
+
+\    // 1. Accommodation Selection
+
+\    const hotelKey = selectHotel.value;
+
+\    if (hotelKey !== 'ninguno') {
+
+\    let hotelData = rates.hotelBajo;
+
+\    if (hotelKey === 'medio') hotelData = rates.hotelMedio;
+
+\    if (hotelKey === 'alto') hotelData = rates.hotelAlto;
+
+\    
+
+\    const costIdr = hotelData.idr * days;
+
+\    const costUsd = hotelData.usd * days;
+
+\    const costEur = hotelData.eur * days;
+
+\    
+
+\    idrSum += costIdr;
+
+\    usdSum += costUsd;
+
+\    eurSum += costEur;
+
+\    
+
+\    items.push({ name: hotelData.name, qty: \`${days} noches\`, idr: costIdr, usd: costUsd, eur: costEur, unitIdr: hotelData.idr });
+
+\    }
+
+
+
+\    // 2. Transport Selection
+
+\    const motoKey = selectMotoType.value;
+
+\    if (motoDays > 0 && motoKey !== 'ninguna') {
+
+\    let motoData = rates.motoEconomica;
+
+\    if (motoKey === 'fancy') motoData = rates.motoFancy;
+
+\    if (motoKey === 'grande') motoData = rates.motoGrande;
+
+
+
+\    const costIdr = motoData.idr * motoDays;
+
+\    const costUsd = motoData.usd * motoDays;
+
+\    const costEur = motoData.eur * motoDays;
+
+\    
+
+\    idrSum += costIdr;
+
+\    usdSum += costUsd;
+
+\    eurSum += costEur;
+
+\    
+
+\    items.push({ name: motoData.name, qty: \`${motoDays} días\`, idr: costIdr, usd: costUsd, eur: costEur, unitIdr: motoData.idr });
+
+\    }
+
+
+
+\    // 3. Checklist Items
+
+\    const checkboxes = [
+
+\    { el: checkJemeluk, key: 'jemeluk', qty: "1 entrada" },
+
+\    { el: checkJapanese, key: 'japaneseShipwreck', qty: "1 entrada" },
+
+\    { el: checkAlquilerSnorkel, key: 'alquilerSnorkel', qty: "1 día" },
+
+\    { el: checkCompraSnorkel, key: 'compraSnorkel', qty: "1 set" },
+
+\    { el: checkTourOnline, key: 'tourSnorkelOnline', qty: "1 ticket" },
+
+\    { el: checkTourLocal, key: 'tourSnorkelLocal', qty: "1 ticket" },
+
+\    { el: checkTourPesca, key: 'tourSnorkelPesca', qty: "1 ticket" },
+
+\    { el: checkLahangan, key: 'lahangan', qty: "1 entrada" },
+
+\    { el: checkLempuyang, key: 'lempuyang', qty: "1 entrada" },
+
+\    { el: checkTirta, key: 'tirta', qty: "1 entrada" },
+
+\    { el: checkUjung, key: 'ujung', qty: "1 entrada" },
+
+\    { el: checkVirgin, key: 'virgin', qty: "1 entrada" },
+
+\    { el: checkTumbonas, key: 'tumbonas', qty: "2 unidades" },
+
+\    { el: checkTourUbudKuta, key: 'tourUbudKuta', qty: "1 ticket" }
+
+\    ];
+
+
+
+\    checkboxes.forEach(item => {
+
+\    if (item.el.checked) {
+
+\    const data = rates\[item.key];
+
+\    idrSum += data.idr;
+
+\    usdSum += data.usd;
+
+\    eurSum += data.eur;
+
+\    items.push({ name: data.name, qty: item.qty, idr: data.idr, usd: data.usd, eur: data.eur, unitIdr: data.idr });
+
+\    }
+
+\    });
+
+
+
+\    return { idrSum, usdSum, eurSum, items };
+
+\    }
+
+
+
+\    function updateBudget() {
+
+\    const { idrSum, usdSum, eurSum, items } = calculateBudget();
+
+
+
+\    // Render totals in screen elements
+
+\    totalIDR.innerText = idrSum.toLocaleString('es-ES') + " IDR";
+
+\    totalUSD.innerText = \`($${usdSum.toFixed(2)} USD)\`;
+
+\    totalEUR.innerText = \`(€${eurSum.toFixed(2)} EUR)\`;
+
+
+
+\    // Render dynamic table
+
+\    tableBody.innerHTML = '';
+
+\    if (items.length === 0) {
+
+\    tableBody.innerHTML = `
+
+\    <tr>
+
+\    <td colspan="5" class="py-8 px-6 text-center text-stone-500 text-xs sm:text-sm">
+
+\    No seleccionaste ningún costo aún. ¡Comenzá a armar tu plan a la izquierda!
+
+\    </td>
+
+\    </tr>
+
+\    `;
+
+\    return;
+
+\    }
+
+
+
+\    items.forEach(item => {
+
+\    const tr = document.createElement('tr');
+
+\    tr.className = "hover:bg-stone-800/15 transition duration-150";
+
+\    tr.innerHTML = `
+
+\    <td class="py-4 px-6 font-medium text-stone-200">${item.name}</td>
+
+\    <td class="py-4 px-6 text-right text-stone-300 font-semibold whitespace-nowrap">${item.qty}</td>
+
+\    <td class="py-4 px-6 font-mono text-right text-stone-400 whitespace-nowrap">${item.unitIdr > 0 ? item.unitIdr.toLocaleString('es-ES') : 'Gratis'}</td>
+
+\    <td class="py-4 px-6 font-mono text-right text-orange-400 font-semibold whitespace-nowrap">$${item.usd.toFixed(2)}</td>
+
+\    <td class="py-4 px-6 font-mono text-right text-amber-500 font-semibold whitespace-nowrap">€${item.eur.toFixed(2)}</td>
+
+\    `;
+
+\    tableBody.appendChild(tr);
+
+\    });
+
+\    }
+
+
+
+\    function downloadCSV() {
+
+\    const { idrSum, usdSum, eurSum, items } = calculateBudget();
+
+\    
+
+\    // Build multi-currency CSV Content with explicit UTF-8 BOM
+
+\    let csvContent = "\uFEFF"; 
+
+\    csvContent += "Presupuesto de Viaje Personalizado: Amed, Bali\n";
+
+\    csvContent += \`Generado el: ${new Date().toLocaleDateString('es-ES')}\n\n\`;
+
+\    csvContent += "Concepto,Costo Unitario (IDR),Cantidad/Días,Total (IDR),Total (USD),Total (EUR)\n";
+
+\    
+
+\    items.forEach(item => {
+
+\    const safeName = item.name.replace(/,/g, " ");
+
+\    const unit = item.unitIdr || 0;
+
+\    csvContent += \`"${safeName}",${unit},"${item.qty}",${item.idr},${item.usd.toFixed(2)},${item.eur.toFixed(2)}\n\`;
+
+\    });
+
+\    
+
+\    csvContent += \`\nTOTAL ESTIMADO DEL VIAJE,,,${idrSum},${usdSum.toFixed(2)},${eurSum.toFixed(2)}\n\`;
+
+\    csvContent += \`* Cambio de referencia: 100.000 IDR = 5,57 USD | 4,87 EUR\n\`;
+
+
+
+\    // Trigger safe browser file download
+
+\    const blob = new Blob(\[csvContent], { type: 'text/csv;charset=utf-8;' });
+
+\    const link = document.createElement("a");
+
+\    const url = URL.createObjectURL(blob);
+
+\    link.setAttribute("href", url);
+
+\    link.setAttribute("download", \`Presupuesto_Amed\_Bali\_${inputDays.value}_dias.csv\`);
+
+\    link.style.visibility = 'hidden';
+
+\    document.body.appendChild(link);
+
+\    link.click();
+
+\    document.body.removeChild(link);
+
+
+
+\    showToast("Planilla Excel (.CSV) descargada correctamente");
+
+\    }
+
+
+
+\    function copyToClipboard() {
+
+\    const { idrSum, usdSum, eurSum, items } = calculateBudget();
+
+\    
+
+\    let textToCopy = \`📋 MI PRESUPUESTO PERSONALIZADO: AMED, BALI\n\`;
+
+\    textToCopy += \`-------------------------------------------\n\`;
+
+\    textToCopy += \`Duración: ${inputDays.value} días\n\`;
+
+\    textToCopy += \`-------------------------------------------\n\`;
+
+\    
+
+\    items.forEach(item => {
+
+\    textToCopy += \`- ${item.name} (${item.qty}): ${item.idr.toLocaleString('es-ES')} IDR | $${item.usd.toFixed(2)} USD | €${item.eur.toFixed(2)} EUR\n\`;
+
+\    });
+
+\    
+
+\    textToCopy += \`-------------------------------------------\n\`;
+
+\    textToCopy += \`💰 TOTAL ESTIMADO: ${idrSum.toLocaleString('es-ES')} IDR | $${usdSum.toFixed(2)} USD | €${eurSum.toFixed(2)} EUR\n\`;
+
+\    textToCopy += \`-------------------------------------------\n\`;
+
+\    textToCopy += \`Guía y tips prácticos en: blogcito.com/diario\`;
+
+
+
+\    // Reliable legacy copy support inside iframe structures
+
+\    const dummy = document.createElement("textarea");
+
+\    document.body.appendChild(dummy);
+
+\    dummy.value = textToCopy;
+
+\    dummy.select();
+
+\    document.execCommand("copy");
+
+\    document.body.removeChild(dummy);
+
+
+
+\    showToast("Resumen copiado con éxito al portapapeles");
+
+\    }
+
+
+
+\    function showToast(message) {
+
+\    const toast = document.getElementById('toast');
+
+\    document.getElementById('toastMsg').innerText = message;
+
+\    toast.classList.remove('translate-y-20', 'opacity-0');
+
+\    toast.classList.add('translate-y-0', 'opacity-100');
+
+\    
+
+\    setTimeout(() => {
+
+\    toast.classList.remove('translate-y-0', 'opacity-100');
+
+\    toast.classList.add('translate-y-20', 'opacity-0');
+
+\    }, 3500);
+
+\    }
+
+
+
+\    // Initialize state on window load
+
+\    window.onload = function() {
+
+\    updateBudget();
+
+\    }
+
+\    </script>
+
+</body>
+
+</html>
