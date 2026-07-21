@@ -13,7 +13,7 @@ async function optimizarTodo() {
         const files = await fs.readdir(imgDir, { recursive: true });
         
         // AHORA BUSCAMOS TAMBIÉN ARCHIVOS .WEBP
-        const images = files.filter(f => /\.(jpg|jpeg|png|webp)$/i.test(f));
+        const images = files.filter(f => /\.(jpg|jpeg|png)$/i.test(f));
 
         if (images.length === 0) {
             console.log('✅ No hay imágenes para optimizar.');
