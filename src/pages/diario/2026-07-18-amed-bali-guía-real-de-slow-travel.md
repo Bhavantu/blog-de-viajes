@@ -6,6 +6,7 @@ tag: guia de viaje
 pais: Indonesia
 description: "¿Viajás a Bali? Descubrí Amed, el refugio de playa y snorkel libre
   bajo el volcán Agung. Precios, mapas y consejos reales para evitar estafas. "
+main_image: /img/diario/mount-agung.webp
 ---
 **¿Estás planeando tu viaje a la costa este de Bali?** En esta guía real te cuento todo lo **que hacer en Amed por libre**: desde cómo hacer snorkel en sus mejores bahías de arena negra, hasta precios actualizados de templos, mapas y consejos honestos de supervivencia para slow travelers. Ahora, sin más preámbulos, comenzamos con el viaje. 
 
