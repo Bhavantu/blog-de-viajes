@@ -3,40 +3,58 @@ import path from 'path';
 import sharp from 'sharp';
 
 // 1. Apuntamos a las raíces generales
-const imgDir = './public/img'; // Ahora arranca desde la carpeta padre
-const contentDir = './src';    // Busca en toda la web (pages, layouts, components)
+const imgDir = './public/img'; 
+const contentDir = './src';    
 
 async function optimizarTodo() {
-    console.log('🔍 Escaneando todas las carpetas y subcarpetas de imágenes...');
+    console.log('🔍 Escaneando todas las carpetas buscando imágenes (incluyendo WebP)...');
     
     try {
-        // 2. LEER IMÁGENES RECURSIVAMENTE (Entra a todas las subcarpetas solas)
         const files = await fs.readdir(imgDir, { recursive: true });
-        // Filtramos para agarrar solo JPG/PNG
-        const images = files.filter(f => /\.(jpg|jpeg|png)$/i.test(f));
+        
+        // AHORA BUSCAMOS TAMBIÉN ARCHIVOS .WEBP
+        const images = files.filter(f => /\.(jpg|jpeg|png|webp)$/i.test(f));
 
         if (images.length === 0) {
-            console.log('✅ No hay imágenes nuevas en JPG/PNG para optimizar.');
+            console.log('✅ No hay imágenes para optimizar.');
         } else {
             for (const img of images) {
                 const oldPath = path.join(imgDir, img);
-                // Le cambiamos la extensión al nombre respetando su subcarpeta
-                const newPath = oldPath.replace(/\.(jpg|jpeg|png)$/i, '.webp');
+                const isWebp = /\.webp$/i.test(img);
+                
+                // Si ya es webp, Sharp necesita un archivo temporal para no chocar consigo mismo
+                const newPath = isWebp 
+                    ? oldPath.replace(/\.webp$/i, '-tmp.webp') 
+                    : oldPath.replace(/\.(jpg|jpeg|png)$/i, '.webp');
 
-                // Convertimos a WebP y borramos la original
+                // Aplicamos compresión y redimensionado a TODAS las fotos
                 await sharp(oldPath)
-                    .webp({ quality: 80 })
+                    .resize({
+                        width: 1920,
+                        withoutEnlargement: true
+                    })
+                    .webp({ 
+                        quality: 65,
+                        effort: 6
+                    })
                     .toFile(newPath);
                 
+                // Borramos el archivo original (ya sea JPG o el WebP al 80%)
                 await fs.unlink(oldPath);
-                console.log(`🖼️  Convertido: ${img}`);
+                
+                // Si era WebP desde el principio, le devolvemos el nombre original al temporal
+                if (isWebp) {
+                    await fs.rename(newPath, oldPath);
+                    console.log(`♻️  Re-optimizado: ${img}`);
+                } else {
+                    console.log(`⚡  Convertido y Optimizado: ${img}`);
+                }
             }
         }
 
         // 3. ACTUALIZAR TODOS LOS ARCHIVOS DE TEXTO Y CÓDIGO
         console.log('\n📝 Actualizando rutas en el código de toda la web...');
         const srcFiles = await fs.readdir(contentDir, { recursive: true });
-        // Buscamos tanto en crónicas (.md) como en componentes de Astro (.astro)
         const textFiles = srcFiles.filter(f => f.endsWith('.md') || f.endsWith('.astro'));
 
         let archivosModificados = 0;
@@ -44,12 +62,11 @@ async function optimizarTodo() {
         for (const file of textFiles) {
             const filePath = path.join(contentDir, file);
             
-            // Evitamos errores leyendo carpetas con puntos en el nombre
             const stat = await fs.stat(filePath);
             if (!stat.isFile()) continue;
 
             const content = await fs.readFile(filePath, 'utf8');
-            // Reemplaza extensiones viejas por webp globalmente
+            // Reemplaza extensiones viejas por webp globalmente (si ya dice .webp, lo deja igual)
             const updatedContent = content.replace(/\.(jpg|jpeg|png)/gi, '.webp');
 
             if (content !== updatedContent) {
@@ -63,7 +80,7 @@ async function optimizarTodo() {
             console.log('✅ El código ya estaba al día.');
         }
 
-        console.log('\n🚀 ¡Toda la web está optimizada y lista!');
+        console.log('\n🚀 ¡Todas las imágenes (nuevas y viejas) optimizadas!');
 
     } catch (error) {
         console.error('❌ Hubo un error en el proceso:', error);
