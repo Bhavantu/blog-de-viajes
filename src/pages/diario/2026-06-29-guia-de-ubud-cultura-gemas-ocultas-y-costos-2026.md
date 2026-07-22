@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/BlogPostLayout.astro
-title: "Guía de Ubud, Bali 2026: Qué Ver, Gemas Ocultas, Costos y Experiencias"
+title: "Qué hacer en Ubud, Bali: que ver, zonas y consejos. Guía 2026"
 date: 2026-06-29T20:37:00.000+08:00
 tag: guia de viaje
 pais: Indonesia
@@ -30,7 +30,7 @@ Las actividades en Ubud son casi infinitas, y los conductores dispuestos a mostr
 
 Uno de los infaltables para mí era conocer las famosas plantaciones de arroz en terrazas por las cuales es famosa Bali. Lo que me sorprendió gratamente es que, con solo salir del centro de Ubud, las plantaciones se encuentran por todas partes, dejando el panorama verde y despejado para ver el atardecer o las estrellas con vistas increíbles.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/dsc_0628.webp" alt="Imagen de bitácora"><span class="img-caption">Campos de arroz Tegalalang Rice Terrace </span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/dsc_0628.webp" alt="Que-hacer-en-ubud-bali-terrazas-de-arroz"><span class="img-caption">Campos de arroz Tegalalang Rice Terrace </span></div>
 
 Existen dos grandes terrazas proclamadas patrimonio internacional gracias a su sistema de riego llamado **Subak**. Este sistema tradicional de gestión del agua data del siglo IX y refleja la filosofía del *Tri Hita Karana*, que busca la armonía entre el reino de los espíritus, el mundo humano y la naturaleza. Es ingeniería agrícola ancestral y representa una práctica espiritual y cooperativa que une a toda la comunidad en el cuidado de los recursos.
 
@@ -47,7 +47,7 @@ Es la más popular y turística. Sus vistas son igualmente hermosas. Se encuentr
 
 [Podés reservar tu visita con guía y fotos en los arrozales aquí](https://www.getyourguide.com/es-es/bali-l347/ubud-entrada-a-la-terraza-de-arroz-y-columpio-de-tegallalang-con-guia-t456886/?ranking_uuid=7604d510-5b5f-40f0-9755-6444cd1b50c4)
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/UBUD10.webp" alt="Imagen de bitácora"><span class="img-caption">Arrozales en Bali</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/UBUD10.webp" alt="terrazas-de-arroz-tegallalang-ubud.webp"><span class="img-caption">Arrozales en Bali</span></div>
 
 ### Jatiluwih Rice Terrace (La joya de la UNESCO)
 
@@ -61,7 +61,7 @@ Esta es la que queda "más al norte" y es muchísimo menos turística. Es, de he
 
 ## 2. Cascadas: El refugio para el calor de Ubud
 
-<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/cascada-ulu-petanu-ubud.webp" alt="Imagen de bitácora"><span class="img-caption">Ulu Petanu waterfall  - Ubud Bali</span></div>
+<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/cascada-ulu-petanu-ubud.webp" alt="cascada-ulu-petanu-ubud.webp"><span class="img-caption">Ulu Petanu waterfall  - Ubud Bali</span></div>
 
 Hay muchísimas opciones de cascadas en los alrededores de Ubud y son un excelente punto para refrescarse después de una caminata bajo el sol. La hora en que vayas es siempre un factor clave en relación a la cantidad de turistas, pero desde mi punto de vista son siempre disfrutables. Eso sí: aunque suelen tener mantenimiento y escalones de acceso, tené en cuenta que después de la lluvia suele haber bastante barro y zonas resbaladizas (no es grave, solo precaución).
 
@@ -71,7 +71,7 @@ Aunque hay decenas de opciones, acá te dejamos las tres que más nos recomendar
 2. **[Tibumana waterfall](https://www.getyourguide.com/es-es/ubud-l32246/ubud-cascadas-y-templo-con-terraza-de-arroz-en-tour-en-grupo-reducido-t484232/?ranking_uuid=13d6c0db-8eca-42aa-a5ca-99810cda8039&q=tibumana+waterfall&date_from=2026-07-08&date_to=2026-07-08):** Es una pequeña cascada rodeada de una selva densa y con una caída de agua recta y perfecta que forma una pileta natural ideal para nadar y sacar fotos increíbles. La entrada cuenta con escalones y un pequeño templo a la entrada. Aunque no la recorrimos, fue una cascada que nos quedó pendiente de las recomendaciones locales. Las entradas cuestan 15.000 IDR, lo que equivale aproximadamente a 0,84 USD o 0,74 euros.
 3. **[Ulu Petanu waterfall:](https://www.getyourguide.com/es-es/ubud-l32246/tour-por-ubud-con-guia-opcional-en-ingles-espanol-e-italiano-t895337/?ranking_uuid=22ec2f2f-5cf6-40d7-9f4d-6a2f07016c88&q=Cascada+Ulu+Petanu&date_from=2026-07-08&date_to=2026-07-08)** Una gema escondida a 40 minutos de Ubud central. Es una zona selvática con unas piscinas orientadas a ceremonias religiosas en la entrada; hay que bajar 90 escalones, pero es un lugar bastante tranquilo con estacionamiento gratuito. Cuenta con una cascada principal en la que es posible bañarse, otra pequeña y más retirada en la que algunos locales van a hacer pequeñas ceremonias diarias de limpieza y una cueva histórica llamada Tampaksiring de aproximadamente 200 metros llanos; la historia cuenta que fue excavada a mano como parte del sistema de riego de los arrozales en la antigüedad. El ingreso a esta cueva tiene un costo significativo de 10.000 IDR, y el ingreso a la cascada 30.000 IDR. El costo total de ambas entradas es alrededor de 2.24 USD o 1.9 euros. 
 
-<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/clase-de-cocina-balinesa-en-granja-orgánica.jpeg" alt="Imagen de bitácora"><span class="img-caption">Taller de cocina vegetariana en granja ecológica Ubud </span></div>
+<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/clase-de-cocina-balinesa-en-granja-orgánica.jpeg" alt="Taller-de-cocina-granja-ecológica">Taller de cocina vegetariana en granja ecológica Ubud </span></div>
 
 ## 3. Taller de cocina balinesa en una granja ecológica: Nuestra experiencia estrella en Ubud
 
@@ -83,7 +83,7 @@ Nos acompañó una chica local súper amable a lo largo de toda la clase. Elegim
 
 La experiencia de hacer una degustación de café es un clásico de Bali. Existen cientos de plantaciones locales en las que te invitan a pasar, te enseñan el proceso tradicional de tostado y tratamiento de los granos, y hasta te convidan con una degustación gratuita de tés y cafés saborizados. Está bueno retribuir la hospitalidad comprando algo en su tienda o dejando una pequeña colaboración, pero no es "obligatorio".
 
-<div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/muestra-de-te-y-café-ubud.webp" alt="Imagen de bitácora"><span class="img-caption">Degustación de té y café local de Bali indonesia </span></div>
+<div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/muestra-de-te-y-café-ubud.webp" alt="Plantaciones de café degustación de té y café gratuita en bali"><span class="img-caption">Degustación de té y café local de Bali indonesia </span></div>
 
 Muchas de estas plantaciones tienen la famosa experiencia del café "más caro del mundo" (*Kopi Luwak*). Este café se extrae de los granos que pasaron por el proceso digestivo del *luwak* (la civeta), un pequeño mamífero de la familia de los vivérridos que elige los frutos de café más dulces y maduros. Al pasar por su tracto intestinal y ser defecados, las enzimas modifican las proteínas del grano quitándole amargor. Los recolectores juntan los granos manualmente, los limpian a fondo y luego realizan el proceso de tostado.
 
@@ -105,13 +105,13 @@ Los templos son lugares espectaculares y sagrados para la población local, por 
 
 ## El Ritual de Purificación (Melukat)
 
-<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/ritual-espiritual.webp" alt="Imagen de bitácora"><span class="img-caption">Ritual de purificación Balines en piscinas sagradas, Ubud </span></div>
+<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/ritual-espiritual.webp" alt="Ritual de purificación en piscinas sagradas Ubud Bali"><span class="img-caption">Ritual de purificación Balines en piscinas sagradas, Ubud </span></div>
 
 Muchos de los templos están centrados en la purificación a través del agua, un ritual sagrado de sanación que se realiza en diferentes piscinas con fuentes según el propósito espiritual de cada chorro de agua.
 
 Para hacer este ritual de forma respetuosa y correcta, es necesario contar con un guía local que te acompañe, te instruya en los pasos y te ayude a realizar las ofrendas. Sé que hay bastantes polémicas y debates en Internet en relación a esto y la verdad es que para quienes queremos conectar de verdad con esta práctica de fe, no es nada agradable estar regateando dinero o estar alerta a posibles estafas. Por eso, acá te dejo la **información** que en mi caso fue una de las más **relevantes para el viaje:**
 
-* **Entrada general al templo:** El costo de ingreso general (por ejemplo, en el famoso templo *Tirta Empul*) ronda los **75.000 IDR** por adulto. Se paga en la taquilla oficial de la entrada. Con tu entrada te van a prestar un sarong básico para recorrer el complejo, pero recordar llevar los hombros cubiertos es tu responsabilidad. **NO es necesario que compres un sarong en los puestos de la entrada.** Si los vendedores insisten y no querés comprar, simplemente agradecé con una sonrisa y seguí de largo hacia la boletería oficial.
+* **Entrada general al templo:** El costo de ingreso general (por ejemplo, en el famoso templo *Tirta Empul*) ronda los **75.000 IDR** por adulto. Se paga en la taquilla oficial de la entrada. Con tu entrada te van a prestar un Sarong básico para recorrer el complejo, pero recordar llevar los hombros cubiertos es tu responsabilidad. **NO es necesario que compres un sarong en los puestos de la entrada.** Si los vendedores insisten y no querés comprar, simplemente agradecé con una sonrisa y seguí de largo hacia la boletería oficial.
 * **El Guía Local:** Un guía que te explique la historia, la mística del lugar y te acompañe paso a paso en el estanque es necesario para no cometer faltas de respeto (además no tenemos claro si se puede hacer el ritual sin guía). [Podés contactar guías certificados con anticipación por internet](https://www.getyourguide.com/es-es/bali-l347/bali-visita-al-templo-gunung-kawi-con-ritual-de-purificacion-t1141894/?ranking_uuid=12e8c29b-2205-4eb2-ad7e-128b215afda8&q=ritual+de+purificacion&date_from=2026-07-08&date_to=2026-07-08) o contratar uno en la entrada del templo. Nuestro consejo en esta segunda opción es que acuerdes sus honorarios claramente antes de empezar (lo decimos por experiencia). El valor por su guía suele rondar los **150.000 IDR** por persona.
 * **El Ritual de Purificación (Costos extra):** Participar en las piscinas sagradas tiene requisitos y costos adicionales que no cubre la entrada general:
 
@@ -130,7 +130,7 @@ Ambas se realizan en templos sagrados: la [danza de las mujeres *Legong*](https:
 
 En esta ocasión, [nosotros optamos por la famosa **Danza Kecak**](https://www.getyourguide.com/ubud-l32246/bali-entradas-para-el-espectaculo-de-danzas-kecak-y-del-fuego-de-ubud-t761650/?ranking_uuid=a25889a5-e5aa-4cf1-bb86-4ca8e92b23a2&q=ubud+Danza+Kecak%3A+la+danza+del+fuego&adults=1), un espectáculo cultural imponente que cuenta con **más de 70 actores en escena**.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/UBUD2.webp" alt="Imagen de bitácora"><span class="img-caption">Danza Kecak: la danza del fuego en un templo de Ubud</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/UBUD2.webp" alt="Danza del Fuego Kecak show en el templo Ubud"><span class="img-caption">Danza Kecak: la danza del fuego en un templo de Ubud</span></div>
 
 ## [Danza Kecak: la danza del fuego](https://www.getyourguide.com/ubud-l32246/bali-entradas-para-el-espectaculo-de-danzas-kecak-y-del-fuego-de-ubud-t761650/?ranking_uuid=a25889a5-e5aa-4cf1-bb86-4ca8e92b23a2&q=ubud+Danza+Kecak%3A+la+danza+del+fuego&adults=1)
 
@@ -144,11 +144,11 @@ Al comienzo, la danza narra un fragmento de la epopeya hindú del *Ramayana*: la
 
 Ubicado al final de la transitada Monkey Forest Road, este bosque sagrado es una reserva ecológica y espiritual gestionada por la comunidad local de Padangtegal. 
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/UBUD30.webp" alt="Imagen de bitácora"><span class="img-caption">Sacred Monkey Forest Sanctuary</span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/UBUD30.webp" alt="Monos en el Bosque sagrado de los monos, macacos bebes en el Monkey forest><span class="img-caption">Sacred Monkey Forest Sanctuary</span></div>
 
 Este santuario se rige por el concepto de *Tri Hita Karana* (la armonía entre los humanos, la naturaleza y Dios), resguardando tres templos sagrados activos del siglo XIV los cuales se pueden ver desde afuera pero no entrar. Es un recorrido plano, fácil de caminar, una interesante experiencia local habilitada para todas las edades. Además el camino tiene bastantes árboles por lo cual el calor no es terrible, volviéndolo una experiencia más disfrutable.
 
-**Costos de entrada:** La entrada tiene un valor de **130.000 IDR** para adultos internacionales y **100.000 IDR** para niños (aproximadamente 7,27 USD o 6,37 Euros adultos y 5,60 USD o 4,90 Euros para niños). El parque abre todos los días de 9:00 AM a 6:00 PM y cuenta con tótems de autoservicio que aceptan tarjetas, o las entradas se pueden comprar online. También existen guías que pueden acompañarte y explicarte el recorrido de este u otros puntos de interés.
+**Costos de entrada:** La entrada tiene un valor de **130.000 IDR** para adultos internacionales y **100.000 IDR** para niños (aproximadamente 7,27 USD o 6,37 Euros adultos y 5,60 USD o 4,90 Euros para niños). El parque abre todos los días de 9:00 AM a 6:00 PM y cuenta con totems de autoservicio que aceptan tarjetas, o las entradas se pueden comprar online. También existen guías que pueden acompañarte y explicarte el recorrido de este u otros puntos de interés.
 
 [Para sacar entradas anticipadas para el Monkey Forest ingresá acá](https://es.trip.com/travel-guide/attraction/bali/sacred-monkey-forest-sanctuary-80319?poitype=3&locale=es-es&curr=eur&allianceid=14893&sid=316394044&ppcid=ckid-41811202359_adid-811497939240_akid-kwd-303843193134_adgid-200668903081&utm_source=google&utm_medium=cpc&utm_campaign=23898460452&gad_source=1&gad_campaignid=23898460452&gbraid=0AAAAABn2eFKZGIMLbyMqRtxKU-Qcd5P40&gclid=CjwKCAjwu53SBhAhEiwAJzSLNoEMl1qpxXr8hj3ODpiHlh_Cd9QkI_o_dZzeHB_hXC6O4zXlF488_RoCyhMQAvD_BwE)
 
@@ -159,7 +159,7 @@ Este santuario se rige por el concepto de *Tri Hita Karana* (la armonía entre l
 * No mirarlos fijo a los ojos: ya que en su lenguaje corporal, el contacto visual directo es señal de agresión.
 * No esconder comida en la mochila y tener precaución con los objetos personales como lentes u objetos brillosos, ya que son muy curiosos y confiados. 
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/UBUD26.webp" alt="Imagen de bitácora"><span class="img-caption">Sacred Monkey Forest Sanctuary</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/UBUD26.webp" alt="bosque-de-los-monos-monkey-forest-ubud.webp"><span class="img-caption">Sacred Monkey Forest Sanctuary</span></div>
 
 La famosa "Selfie con el mono": la famosa foto donde parece que el mono sostiene el celular. Tenés que comprar un voucher de fotografía adentro (los cupos son limitados por tanda) y ellos se encargan de guiar al animal de manera segura usando pequeños trozos de fruta; se hace únicamente bajo supervisión del personal capacitado de la reserva y es muy gracioso de ver.
 
@@ -167,7 +167,7 @@ La famosa "Selfie con el mono": la famosa foto donde parece que el mono sostiene
 
 ## 8. Palacio de Ubud (Puri Saren Agung)
 
-<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/palacio-real-ubud-bali.jpeg" alt="Imagen de bitácora"><span class="img-caption">Palacio real Ubud </span></div>
+<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/palacio-real-ubud-bali.jpeg" alt="Palacio real de Ubud"><span class="img-caption">Palacio real Ubud </span></div>
 
 Situado en la esquina de Jalan Raya Ubud y Jalan Monkey Forest, frente al mercado de arte tradicional, el Palacio de Ubud es el epicentro geográfico e histórico de la ciudad. Construido durante el reinado de Ida Tjokorda Putu Kandel (1800-1823), todavía sirve como residencia oficial para la familia real de Ubud, por lo que solo se puede recorrer su patio exterior público y sus intrincados portales tallados en piedra y decorados con hojas de oro.
 
@@ -191,7 +191,11 @@ Probamos varias opciones, pero creo que tengo una recomendación sólida para qu
 Desde ya ¡gracias por leer y buena vida!
 
 Podría interesarte también: 
-
+Si buscas combinar la naturaleza de Ubud con playas tranquilas y esnórquel, te recomendamos leer:
 * [Qué hacer en Amed, Bali: Guía real de slow travel y presupuesto 2026](https://blogcito.com/diario/2026-07-18-amed-bali-gu%C3%ADa-real-de-slow-travel/)
+
+Si querés conocer sobre la cultura Balinesa:
 * [El alma de Bali: Rituales, la familia y el secreto de la felicidad balinesa](https://blogcito.com/diario/2026-06-23-el-alma-de-bali-rituales-la-familia-y-el-secreto-de-la-felicidad-balinesa/)
+
+Si querés planificar tu viaje a bali:
 * [Viajar a Bali en 2026: Requisitos, transporte y zonas para quedarse](https://blogcito.com/diario/2026-06-18-bali-bby-1/)
