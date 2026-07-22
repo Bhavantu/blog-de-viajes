@@ -12,7 +12,7 @@ main_image: /img/diario/UBUD24.webp
 
 Ubud combina la auténtica tradición balinesa con una infinita propuesta turística. En esta guía completa vas a encontrar actividades de interés para hacer en Ubud, costos y recomendaciones basadas en lo que más disfrutamos durante nuestra estadía.
 
-## Introducción
+* ## Introducción
 
 Desde que llegamos a Ubud, cada parte de su aura comenzó a deleitarnos: desde sus construcciones increíbles que parecen templos en todas partes, hasta sus *penjors,* artesanías de bambú que cuelgan afuera de las casas en esta época del año para celebrar el Kuningan Day, un ritual local de la tradición balinesa hindú. La gente atenta y amable sonreía por las calles y, en los pequeños callejones, los niños paseaban en bicicleta de acá para allá entre risas y gritos.
 
@@ -20,7 +20,7 @@ Desde el comienzo nos pareció que acá había un aura diferente: sí, es turís
 
 Si querés profundizar en la cultura podés leer [El alma de Bali: Rituales, la familia y el secreto de la felicidad balinesa](https://blogcito.com/diario/2026-06-23-el-alma-de-bali-rituales-la-familia-y-el-secreto-de-la-felicidad-balinesa/)
 
-## Datos sobre Ubud:
+* ## Datos sobre Ubud:
 
 Ubud, que está ubicado entre las montañas centrales de Bali, es una zona que combina lo turístico y lo local a la perfección. El centro está lleno de restaurantes y experiencias orientadas al turismo, pero también se encuentran muchos *warungs* (pequeños negocios familiares) y *guest houses* (casas con habitaciones gestionadas por la población local, siempre dispuesta a compartir sus prácticas y su cultura).
 
@@ -176,7 +176,7 @@ Situado en la esquina de Jalan Raya Ubud y Jalan Monkey Forest, frente al mercad
 
 *Nota de la editora: Estimado lector/lectora, recuerden que los precios y regulaciones en Bali fluctúan según la temporada y las actualizaciones de las administraciones locales de cada regencia. Se recomienda llevar siempre efectivo en rupias indonesias (IDR), ya que en muchos templos y cascadas no se aceptan tarjetas de crédito.* 
 
-## **Dónde quedarse en Ubud**
+## **Donde quedarse en Ubud**
 
 Probamos varias opciones, pero creo que tengo una recomendación sólida para quienes quieran disfrutar la tradicional calma de los arrozales, conocer la ciudad y estar cerca de las diferentes zonas por visitar. Si bien quedarse en el centro es una opción fácil ya que podés ir a diferentes restaurantes y espectáculos caminando, hay que decir que es una zona muy turística y muy habitada. Si eligiera de nuevo, seguramente iría por la segunda zona en la que nos quedamos: en las afueras, un poco hacia el noreste, antes de Tegalalang y a solo 10 minutos de Ubud central. Los alrededores cuentan con áreas muy tranquilas y hermosas; la otra ventaja es que al salir no perderás tiempo trancado en el tráfico dentro de la ciudad (es un gran dato a tener en cuenta). A continuación podrás ver el mapa con diferentes opciones cerca de la zona de referencia.
 
@@ -184,11 +184,9 @@ Probamos varias opciones, pero creo que tengo una recomendación sólida para qu
   <iframe id="stay22-widget" width="100%" height="428" src="https://stay22.com/embed/6a4496f5198cff107e57ca30" frameborder="0"></iframe>
 </div>
 
-## **Tabla de costos de entradas**
+## Tabla de costos de actividades, entradas y tours en Ubud
 
 Nota del blog: Los precios en IDR corresponden a las tarifas oficiales en taquilla 2026 si decides hacer la visita por tu cuenta. Para tu comodidad, en los nombres de cada atracción hemos dejado enlazadas las opciones de tours guiados o reservas anticipadas con traslados por si prefieres llevar el itinerario resuelto y evitar filas. Usando nuestro link el costo es el mismo para ti y nos ayudas a poder seguir creando este blog.
-
-## **Tabla de costos de actividades, entradas y tours en Ubud**
 
 | Referencia                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Costo IDR         | Costo USD     | Costo EUR    | Observaciones                                                          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- | ------------- | ------------ | ---------------------------------------------------------------------- |
@@ -213,25 +211,27 @@ Nota del blog: Los precios en IDR corresponden a las tarifas oficiales en taquil
 
 
 
-\### ¿Cuál es la mejor época para visitar Ubud?
+## Preguntas frecuentes 
+
+* #### ¿Cuál es la mejor época para visitar Ubud?
 
 La mejor época es durante la temporada seca, que va de \*\*abril a octubre\*\*. Durante estos meses hay menos lluvias, los caminos de las cascadas y arrozales están en mejores condiciones y el clima es ideal para recorrer.
 
-\### ¿Es seguro recorrer Ubud y sus alrededores?
+* #### ¿Es seguro recorrer Ubud y sus alrededores?
 
 Sí, Ubud es un destino sumamente seguro para viajeros, familias y personas que viajan solas. Solo se deben tener precauciones básicas de sentido común, como llevar casco si alquilas scooter, tener cuidado con tus objetos de valor en el Monkey Forest y contratar excursiones con guías oficiales. especial precacución al caminar por la calle ya que fuera del centro no suele haber veredas para caminar, en general la gente que conduce va atenta, pero es recomendable caminar durante el día, con cuidado y en columna. 
 
-\### ¿Cómo conviene moverse por Ubud?
+* #### ¿Cómo conviene moverse por Ubud?
 
 Si tienes experiencia, alquilar una \*\*scooter\*\* es la forma más rápida y económica (entre 50.000 y 80.000 IDR al día). Si prefieres evitar el tráfico intenso del centro o no conduces moto, podes contratar un taxi o \*\*contratar un conductor privado por el día\*\* para hacer rutas de cascadas y templos o usar aplicaciones como \*\*Gojek/Grab\*\* para trayectos cortos.
 
-\### ¿Cuánto cuesta la entrada al Monkey Forest de Ubud en 2026?
+* #### ¿Cuánto cuesta la entrada al Monkey Forest de Ubud en 2026?
 
 La entrada general para adultos internacionales cuesta \*\*130.000 IDR\*\* (aprox. 7,20 USD / 6,30 EUR) y para niños \*\*100.000 IDR\*\* (aprox. 5,50 USD / 4,90 EUR). Las entradas se pueden comprar directamente en las máquinas de autoservicio o por internet.
 
-Desde ya ¡gracias por leer y buena vida!
+Desde ya ¡gracias por leer y buenos viajes!
 
-### Podría interesarte también:
+## Podría interesarte también:
 
 Si buscas combinar la naturaleza de Ubud con playas tranquilas y esnórquel, te recomendamos leer:
 
