@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPostLayout.astro
 title: "Qué hacer en Ubud, Bali: que ver, zonas y consejos. Guía 2026"
-date: 2026-06-29T20:37:00.000+08:00
+date: 2026-07-22T21:24:00.000+08:00
 tag: guia de viaje
 pais: Indonesia
 description: "Viví la magia de Ubud: Descubrí sus arrozales, rituales de
@@ -30,7 +30,7 @@ Las actividades en Ubud son casi infinitas, y los conductores dispuestos a mostr
 
 Uno de los infaltables para mí era conocer las famosas plantaciones de arroz en terrazas por las cuales es famosa Bali. Lo que me sorprendió gratamente es que, con solo salir del centro de Ubud, las plantaciones se encuentran por todas partes, dejando el panorama verde y despejado para ver el atardecer o las estrellas con vistas increíbles.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/dsc_0628.webp" alt="Que-hacer-en-ubud-bali-terrazas-de-arroz"><span class="img-caption">Campos de arroz Tegalalang Rice Terrace </span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/dsc_0628.webp" alt="Imagen de bitácora"><span class="img-caption">Campos de arroz Tegalalang Rice Terrace </span></div>
 
 Existen dos grandes terrazas proclamadas patrimonio internacional gracias a su sistema de riego llamado **Subak**. Este sistema tradicional de gestión del agua data del siglo IX y refleja la filosofía del *Tri Hita Karana*, que busca la armonía entre el reino de los espíritus, el mundo humano y la naturaleza. Es ingeniería agrícola ancestral y representa una práctica espiritual y cooperativa que une a toda la comunidad en el cuidado de los recursos.
 
@@ -47,11 +47,11 @@ Es la más popular y turística. Sus vistas son igualmente hermosas. Se encuentr
 
 [Podés reservar tu visita con guía y fotos en los arrozales aquí](https://www.getyourguide.com/es-es/bali-l347/ubud-entrada-a-la-terraza-de-arroz-y-columpio-de-tegallalang-con-guia-t456886/?ranking_uuid=7604d510-5b5f-40f0-9755-6444cd1b50c4)
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/UBUD10.webp" alt="terrazas-de-arroz-tegallalang-ubud.webp"><span class="img-caption">Arrozales en Bali</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/UBUD10.webp" alt="Imagen de bitácora"><span class="img-caption">Arrozales en Bali</span></div>
 
 ### Jatiluwih Rice Terrace (La joya de la UNESCO)
 
-Esta es la que queda "más al norte" y es muchísimo menos turística. Es, de hecho, un Paisaje Cultural declarado formalmente por la UNESCO.
+Esta es la que está más hacia al norte y es muchísimo menos turística. Es, de hecho, un Paisaje Cultural declarado formalmente por la UNESCO.
 
 * **Por qué ir:** Es un área protegida y mucho más vasta. Es posible caminar durante largos períodos sin encontrarte con tantos turistas. El aire es más fresco porque está a mayor altitud, aunque los caminos para caminar son un poco más "todo terreno".
 * **Costos:** La entrada tiene un valor aproximado de **40.000 IDR** (destinados al mantenimiento y preservación de este gigantesco sitio).
@@ -61,7 +61,7 @@ Esta es la que queda "más al norte" y es muchísimo menos turística. Es, de he
 
 ## 2. Cascadas: El refugio para el calor de Ubud
 
-<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/cascada-ulu-petanu-ubud.webp" alt="cascada-ulu-petanu-ubud.webp"><span class="img-caption">Ulu Petanu waterfall  - Ubud Bali</span></div>
+<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/cascada-ulu-petanu-ubud.webp" alt="Imagen de bitácora"><span class="img-caption">Ulu Petanu waterfall  - Ubud Bali</span></div>
 
 Hay muchísimas opciones de cascadas en los alrededores de Ubud y son un excelente punto para refrescarse después de una caminata bajo el sol. La hora en que vayas es siempre un factor clave en relación a la cantidad de turistas, pero desde mi punto de vista son siempre disfrutables. Eso sí: aunque suelen tener mantenimiento y escalones de acceso, tené en cuenta que después de la lluvia suele haber bastante barro y zonas resbaladizas (no es grave, solo precaución).
 
@@ -83,7 +83,7 @@ Nos acompañó una chica local súper amable a lo largo de toda la clase. Elegim
 
 La experiencia de hacer una degustación de café es un clásico de Bali. Existen cientos de plantaciones locales en las que te invitan a pasar, te enseñan el proceso tradicional de tostado y tratamiento de los granos, y hasta te convidan con una degustación gratuita de tés y cafés saborizados. Está bueno retribuir la hospitalidad comprando algo en su tienda o dejando una pequeña colaboración, pero no es "obligatorio".
 
-<div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/muestra-de-te-y-café-ubud.webp" alt="Plantaciones de café degustación de té y café gratuita en bali"><span class="img-caption">Degustación de té y café local de Bali indonesia </span></div>
+<div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/muestra-de-te-y-café-ubud.webp" alt="Imagen de bitácora"><span class="img-caption">Degustación de té y café local de Bali indonesia </span></div>
 
 Muchas de estas plantaciones tienen la famosa experiencia del café "más caro del mundo" (*Kopi Luwak*). Este café se extrae de los granos que pasaron por el proceso digestivo del *luwak* (la civeta), un pequeño mamífero de la familia de los vivérridos que elige los frutos de café más dulces y maduros. Al pasar por su tracto intestinal y ser defecados, las enzimas modifican las proteínas del grano quitándole amargor. Los recolectores juntan los granos manualmente, los limpian a fondo y luego realizan el proceso de tostado.
 
@@ -105,7 +105,7 @@ Los templos son lugares espectaculares y sagrados para la población local, por 
 
 ## El Ritual de Purificación (Melukat)
 
-<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/ritual-espiritual.webp" alt="Ritual de purificación en piscinas sagradas Ubud Bali"><span class="img-caption">Ritual de purificación Balines en piscinas sagradas, Ubud </span></div>
+<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/ritual-espiritual.webp" alt="Imagen de bitácora"><span class="img-caption">Ritual de purificación Balines en piscinas sagradas, Ubud </span></div>
 
 Muchos de los templos están centrados en la purificación a través del agua, un ritual sagrado de sanación que se realiza en diferentes piscinas con fuentes según el propósito espiritual de cada chorro de agua.
 
@@ -130,7 +130,7 @@ Ambas se realizan en templos sagrados: la [danza de las mujeres *Legong*](https:
 
 En esta ocasión, [nosotros optamos por la famosa **Danza Kecak**](https://www.getyourguide.com/ubud-l32246/bali-entradas-para-el-espectaculo-de-danzas-kecak-y-del-fuego-de-ubud-t761650/?ranking_uuid=a25889a5-e5aa-4cf1-bb86-4ca8e92b23a2&q=ubud+Danza+Kecak%3A+la+danza+del+fuego&adults=1), un espectáculo cultural imponente que cuenta con **más de 70 actores en escena**.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/UBUD2.webp" alt="Danza del Fuego Kecak show en el templo Ubud"><span class="img-caption">Danza Kecak: la danza del fuego en un templo de Ubud</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/UBUD2.webp" alt="Imagen de bitácora"><span class="img-caption">Danza Kecak: la danza del fuego show nocturno en el templo de Ubud</span></div>
 
 ## [Danza Kecak: la danza del fuego](https://www.getyourguide.com/ubud-l32246/bali-entradas-para-el-espectaculo-de-danzas-kecak-y-del-fuego-de-ubud-t761650/?ranking_uuid=a25889a5-e5aa-4cf1-bb86-4ca8e92b23a2&q=ubud+Danza+Kecak%3A+la+danza+del+fuego&adults=1)
 
@@ -144,7 +144,7 @@ Al comienzo, la danza narra un fragmento de la epopeya hindú del *Ramayana*: la
 
 Ubicado al final de la transitada Monkey Forest Road, este bosque sagrado es una reserva ecológica y espiritual gestionada por la comunidad local de Padangtegal. 
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/UBUD30.webp" alt="Monos en el Bosque sagrado de los monos, macacos bebes en el Monkey forest><span class="img-caption">Sacred Monkey Forest Sanctuary</span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/UBUD30.webp" alt="Monos en el Bosque sagrado de los monos, macacos bebes en el Monkey forest"></span> class="img-caption">Sacred Monkey Forest Sanctuary</span></div>
 
 Este santuario se rige por el concepto de *Tri Hita Karana* (la armonía entre los humanos, la naturaleza y Dios), resguardando tres templos sagrados activos del siglo XIV los cuales se pueden ver desde afuera pero no entrar. Es un recorrido plano, fácil de caminar, una interesante experiencia local habilitada para todas las edades. Además el camino tiene bastantes árboles por lo cual el calor no es terrible, volviéndolo una experiencia más disfrutable.
 
@@ -159,7 +159,7 @@ Este santuario se rige por el concepto de *Tri Hita Karana* (la armonía entre l
 * No mirarlos fijo a los ojos: ya que en su lenguaje corporal, el contacto visual directo es señal de agresión.
 * No esconder comida en la mochila y tener precaución con los objetos personales como lentes u objetos brillosos, ya que son muy curiosos y confiados. 
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/UBUD26.webp" alt="bosque-de-los-monos-monkey-forest-ubud.webp"><span class="img-caption">Sacred Monkey Forest Sanctuary</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/UBUD26.webp" alt="Imagen de bitácora"><span class="img-caption">Sacred Monkey Forest Sanctuary</span></div>
 
 La famosa "Selfie con el mono": la famosa foto donde parece que el mono sostiene el celular. Tenés que comprar un voucher de fotografía adentro (los cupos son limitados por tanda) y ellos se encargan de guiar al animal de manera segura usando pequeños trozos de fruta; se hace únicamente bajo supervisión del personal capacitado de la reserva y es muy gracioso de ver.
 
@@ -167,16 +167,12 @@ La famosa "Selfie con el mono": la famosa foto donde parece que el mono sostiene
 
 ## 8. Palacio de Ubud (Puri Saren Agung)
 
-<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/palacio-real-ubud-bali.jpeg" alt="Palacio real de Ubud"><span class="img-caption">Palacio real Ubud </span></div>
+<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/palacio-real-ubud-bali.jpeg" alt="Imagen de bitácora"><span class="img-caption">Palacio real Ubud durante el dia</span></div>
 
-Situado en la esquina de Jalan Raya Ubud y Jalan Monkey Forest, frente al mercado de arte tradicional, el Palacio de Ubud es el epicentro geográfico e histórico de la ciudad. Construido durante el reinado de Ida Tjokorda Putu Kandel (1800-1823), todavía sirve como residencia oficial para la familia real de Ubud, por lo que solo se puede recorrer su patio exterior público y sus intrincados portales tallados en piedra y decorados con hojas de oro.
+Situado en la esquina de Jalan Raya Ubud y Jalan Monkey Forest, frente al mercado de arte tradicional, el Palacio de Ubud es el epicentro geográfico e histórico de la ciudad. Construido durante el reinado de Ida Tjokorda Putu Kandel (años 1800-1823), todavía sirve como residencia oficial para la familia real de Ubud, por lo que solo se puede recorrer su patio exterior público y sus intrincados portales tallados en piedra y decorados con hojas de oro.
 
 * **Visita diurna:** La entrada es completamente **gratuita** durante el día (de 8:00 AM a 5:00 PM). Se recorre rápido, en unos 10 o 15 minutos; creo que es una parada práctica ya que está en el centro de la ciudad y permite contemplar de cerca la maravillosa arquitectura de la corte balinesa clásica. Además, adentro cuenta con un restaurante. 
 * **Espectáculos nocturnos:** Todas las noches, a partir de las 7:00 PM, el patio principal se transforma en un escenario iluminado por antorchas para dar lugar a la danza tradicional balinesa de las mujeres *Legong*.
-
-Si querés leer más información sobre la cultura de Bali te recomiendo leer: [El alma de Bali: Rituales, la familia y el secreto de la felicidad balinesa](https://blogcito.com/diario/2026-06-23-el-alma-de-bali-rituales-la-familia-y-el-secreto-de-la-felicidad-balinesa/)
-
-Si estás planificando tu viaje y querés información actualizada sobre Bali como: [lugares, visas, piques y transportes podés leer Viajar a Bali en 2026, click acá](https://blogcito.com/diario/2026-06-18-bali-bby-1/)
 
 *Nota de la editora: Estimado lector/lectora, recuerden que los precios y regulaciones en Bali fluctúan según la temporada y las actualizaciones de las administraciones locales de cada regencia. Se recomienda llevar siempre efectivo en rupias indonesias (IDR), ya que en muchos templos y cascadas no se aceptan tarjetas de crédito.* 
 
@@ -188,14 +184,63 @@ Probamos varias opciones, pero creo que tengo una recomendación sólida para qu
   <iframe id="stay22-widget" width="100%" height="428" src="https://stay22.com/embed/6a4496f5198cff107e57ca30" frameborder="0"></iframe>
 </div>
 
+## **Tabla de costos de entradas**
+
+Nota del blog: Los precios en IDR corresponden a las tarifas oficiales en taquilla 2026 si decides hacer la visita por tu cuenta. Para tu comodidad, en los nombres de cada atracción hemos dejado enlazadas las opciones de tours guiados o reservas anticipadas con traslados por si prefieres llevar el itinerario resuelto y evitar filas. Usando nuestro link el costo es el mismo para ti y nos ayudas a poder seguir creando este blog.
+
+## **Tabla de costos de actividades, entradas y tours en Ubud**
+
+| Referencia                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Costo IDR         | Costo USD     | Costo EUR    | Observaciones                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- | ------------- | ------------ | ---------------------------------------------------------------------- |
+| [Entrada Tegalalang Rice Terrace](https://www.getyourguide.com/es-es/bali-l347/ubud-entrada-a-la-terraza-de-arroz-y-columpio-de-tegallalang-con-guia-t456886/?ranking_uuid=7604d510-5b5f-40f0-9755-6444cd1b50c4)                                                                                                                                                                                                                                                                                                               | 25.000            | 1.39          | 1.22         | Pago oficial en taquilla. *Link incluye tour con guía y columpio.*     |
+| [Entrada Jatiluwih Rice Terrace (UNESCO)](https://www.getyourguide.com/es-es/jatiluwih-l88105/bali-tour-por-las-terrazas-arroceras-de-jatiluwih-y-purificacion-del-agua-t1327978/?ranking_uuid=7a0f57c5-f655-4f07-ba90-7c8c509de41d&q=Terraza+de+arroz+de+Jatiluwih&date_from=2026-07-08&date_to=2026-07-08)                                                                                                                                                                                                                   | 40.000            | 2.23          | 1.95         | Área protegida en taquilla. *Link a excursión completa.*               |
+| Actividades en Tegalalang (Swings / Bicis)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | 150.000 - 350.000 | 8.36 - 19.50  | 7.31 - 17.05 | Precios en el lugar según la atracción elegida                         |
+| [Entrada Cascada Kanto Lampo](https://www.getyourguide.com/es-es/ubud-l32246/ubud-cascadas-y-templo-con-terraza-de-arroz-en-tour-en-grupo-reducido-t484232/?ranking_uuid=13d6c0db-8eca-42aa-a5ca-99810cda8039&q=tibumana+waterfall&date_from=2026-07-08&date_to=2026-07-08)                                                                                                                                                                                                                                                    | 25.000            | 1.39          | 1.22         | Entrada local en puerta. *Link a tour guiado por varias cascadas.*     |
+| [Entrada Cascada Tibumana](https://www.getyourguide.com/es-es/ubud-l32246/ubud-cascadas-y-templo-con-terraza-de-arroz-en-tour-en-grupo-reducido-t484232/?ranking_uuid=13d6c0db-8eca-42aa-a5ca-99810cda8039&q=tibumana+waterfall&date_from=2026-07-08&date_to=2026-07-08)                                                                                                                                                                                                                                                       | 15.000            | 0.84          | 0.74         | Entrada local en puerta. *Link a tour combinado.*                      |
+| [Entrada Cascada y Cueva Ulu Petanu](https://www.getyourguide.com/es-es/ubud-l32246/tour-por-ubud-con-guia-opcional-en-ingles-espanol-e-italiano-t895337/?ranking_uuid=22ec2f2f-5cf6-40d7-9f4d-6a2f07016c88&q=Cascada+Ulu+Petanu&date_from=2026-07-08&date_to=2026-07-08)                                                                                                                                                                                                                                                      | 40.000            | 2.23          | 1.95         | 30.000 IDR cascada + 10.000 IDR cueva en taquilla.                     |
+| [Taller de cocina balinesa en granja ecológica](https://www.getyourguide.com/bali-l347/clase-de-cocina-balinesa-en-una-granja-ecologica-t101019/?partner_id=TU_ID_DE_AFILIADO)                                                                                                                                                                                                                                                                                                                                                 | 628.000           | 35.00         | 30.60        | Clase completa vegetariana con recojo en hotel e ingredientes.         |
+| [Tour y Degustación de Café Lokasari](https://www.getyourguide.com/sidemen-village-l92066/lokasari-tour-por-una-plantacion-de-cafe-te-de-hierbas-y-miel-pura-t1040405?ranking_uuid=36029e36-77dd-4afa-b226-b241f7e7449b&q=Tours+sobre+caf%C3%A9,+Bali&date_from=2026-07-10)                                                                                                                                                                                                                                                    | 108.000           | 6.00          | 5.25         | Recorrido guiado por plantación, cata de té, café y miel pura.         |
+| Entrada Templo Tirta Empul                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | 75.000            | 4.18          | 3.65         | Entrada general en taquilla (incluye préstamo de sarong seco).         |
+| [Experiencia Completa Ritual de Purificación](https://www.getyourguide.com/es-es/bali-l347/bali-visita-al-templo-gunung-kawi-con-ritual-de-purificacion-t1141894/?ranking_uuid=12e8c29b-2205-4eb2-ad7e-128b215afda8&q=ritual+de+purificacion&date_from=2026-07-08&date_to=2026-07-08)                                                                                                                                                                                                                                          | 200.000 - 250.000 | 11.14 - 13.93 | 9.74 - 12.18 | Estimado en sitio (entradas, guía, sarong húmedo, locker y ofrendas).  |
+| [Excursión Ritual de Purificación + Jatiluwih](https://www.getyourguide.com/es-es/jatiluwih-l88105/bali-tour-por-las-terrazas-arroceras-de-jatiluwih-y-purificacion-del-agua-t1327978/?ranking_uuid=7a0f57c5-f655-4f07-ba90-7c8c509de41d&q=Terraza+de+arroz+de+Jatiluwih&date_from=2026-07-08&date_to=2026-07-08)                                                                                                                                                                                                              | 1.418.000         | 79.00         | 69.08        | Tour privado guiado con traslados y todo incluido.                     |
+| [Show de Danza Legong en el Palacio](https://www.getyourguide.com/es-es/ubud-l32246/bali-ubud-palace-legong-dance-show-ticket-de-entrada-t440675/?ranking_uuid=1fc82157-37ce-418d-8f38-86f786139f4c&q=legong&date_from=2026-07-08&date_to=2026-07-08)                                                                                                                                                                                                                                                                          | 100.000           | 5.57          | 4.87         | Función nocturna diaria en el Palacio de Ubud.                         |
+| [Show de Danza Kecak (Danza del Fuego)](https://www.getyourguide.com/ubud-l32246/bali-entradas-para-el-espectaculo-de-danzas-kecak-y-del-fuego-de-ubud-t761650/?ranking_uuid=a25889a5-e5aa-4cf1-bb86-4ca8e92b23a2&q=ubud+Danza+Kecak%3A+la+danza+del+fuego&adults=1)                                                                                                                                                                                                                                                           | 100.000           | 5.57          | 4.87         | Entrada para espectáculo tradicional con más de 70 actores.            |
+| [Entrada Sacred Monkey Forest (Adultos)](https://es.trip.com/travel-guide/attraction/bali/sacred-monkey-forest-sanctuary-80319?poitype=3&locale=es-es&curr=eur&allianceid=14893&sid=316394044&ppcid=ckid-41811202359_adid-811497939240_akid-kwd-303843193134_adgid-200668903081&utm_source=google&utm_medium=cpc&utm_campaign=23898460452&gad_source=1&gad_campaignid=23898460452&gbraid=0AAAAABn2eFKZGIMLbyMqRtxKU-Qcd5P40&gclid=CjwKCAjwu53SBhAhEiwAJzSLNoEMl1qpxXr8hj3ODpiHlh_Cd9QkI_o_dZzeHB_hXC6O4zXlF488_RoCyhMQAvD_BwE) | 130.000           | 7.24          | 6.33         | Reserva ecológica y templo activo.                                     |
+| [Entrada Sacred Monkey Forest (Niños)](https://es.trip.com/travel-guide/attraction/bali/sacred-monkey-forest-sanctuary-80319?poitype=3&locale=es-es&curr=eur&allianceid=14893&sid=316394044&ppcid=ckid-41811202359_adid-811497939240_akid-kwd-303843193134_adgid-200668903081&utm_source=google&utm_medium=cpc&utm_campaign=23898460452&gad_source=1&gad_campaignid=23898460452&gbraid=0AAAAABn2eFKZGIMLbyMqRtxKU-Qcd5P40&gclid=CjwKCAjwu53SBhAhEiwAJzSLNoEMl1qpxXr8hj3ODpiHlh_Cd9QkI_o_dZzeHB_hXC6O4zXlF488_RoCyhMQAvD_BwE)   | 100.000           | 5.57          | 4.87         | Tarifa oficial para niños.                                             |
+| [Día Completo Guiado por Ubud + Traslados](https://www.getyourguide.com/es-es/ubud-l32246/tour-por-ubud-con-guia-opcional-en-ingles-espanol-e-italiano-t895337?ranking_uuid=7604d510-5b5f-40f0-9755-6444cd1b50c4&date_from=2026-07-08)                                                                                                                                                                                                                                                                                         | 1.562.000         | 87.00         | 76.08        | Incluye vehículo privado, guía en español/inglés, entradas y almuerzo. |
+| Entrada Palacio de Ubud (Puri Saren Agung)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Gratis            | 0.00          | 0.00         | Acceso libre al patio principal durante el día (8:00 AM - 5:00 PM).    |
+| Referencia de conversión de moneda                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 100.000           | 5.57          | 4.87         | Datos actualizados Julio 2026 (sujeto a cambios).                      |
+
+
+
+\### ¿Cuál es la mejor época para visitar Ubud?
+
+La mejor época es durante la temporada seca, que va de \*\*abril a octubre\*\*. Durante estos meses hay menos lluvias, los caminos de las cascadas y arrozales están en mejores condiciones y el clima es ideal para recorrer.
+
+\### ¿Es seguro recorrer Ubud y sus alrededores?
+
+Sí, Ubud es un destino sumamente seguro para viajeros, familias y personas que viajan solas. Solo se deben tener precauciones básicas de sentido común, como llevar casco si alquilas scooter, tener cuidado con tus objetos de valor en el Monkey Forest y contratar excursiones con guías oficiales. especial precacución al caminar por la calle ya que fuera del centro no suele haber veredas para caminar, en general la gente que conduce va atenta, pero es recomendable caminar durante el día, con cuidado y en columna. 
+
+\### ¿Cómo conviene moverse por Ubud?
+
+Si tienes experiencia, alquilar una \*\*scooter\*\* es la forma más rápida y económica (entre 50.000 y 80.000 IDR al día). Si prefieres evitar el tráfico intenso del centro o no conduces moto, podes contratar un taxi o \*\*contratar un conductor privado por el día\*\* para hacer rutas de cascadas y templos o usar aplicaciones como \*\*Gojek/Grab\*\* para trayectos cortos.
+
+\### ¿Cuánto cuesta la entrada al Monkey Forest de Ubud en 2026?
+
+La entrada general para adultos internacionales cuesta \*\*130.000 IDR\*\* (aprox. 7,20 USD / 6,30 EUR) y para niños \*\*100.000 IDR\*\* (aprox. 5,50 USD / 4,90 EUR). Las entradas se pueden comprar directamente en las máquinas de autoservicio o por internet.
+
 Desde ya ¡gracias por leer y buena vida!
 
-Podría interesarte también: 
+### Podría interesarte también:
+
 Si buscas combinar la naturaleza de Ubud con playas tranquilas y esnórquel, te recomendamos leer:
+
 * [Qué hacer en Amed, Bali: Guía real de slow travel y presupuesto 2026](https://blogcito.com/diario/2026-07-18-amed-bali-gu%C3%ADa-real-de-slow-travel/)
 
 Si querés conocer sobre la cultura Balinesa:
+
 * [El alma de Bali: Rituales, la familia y el secreto de la felicidad balinesa](https://blogcito.com/diario/2026-06-23-el-alma-de-bali-rituales-la-familia-y-el-secreto-de-la-felicidad-balinesa/)
 
 Si querés planificar tu viaje a bali:
+
 * [Viajar a Bali en 2026: Requisitos, transporte y zonas para quedarse](https://blogcito.com/diario/2026-06-18-bali-bby-1/)
