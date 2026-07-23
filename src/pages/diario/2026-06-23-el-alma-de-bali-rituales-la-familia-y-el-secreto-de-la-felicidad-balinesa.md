@@ -139,13 +139,13 @@ Visitar la isla con respeto también implica reconocer sus retos actuales. El cr
 
 ## Glosario básico de expresiones cotidianas en Bali
 
-| Español                 | Inglés           | Indonesio (*Bahasa*)           | Balinés local                   |
-| ----------------------- | ---------------- | ------------------------------ | ------------------------------- |
-| **Hola / Saludo**       | Hello            | *Halo / Selamat pagi* (mañana) | *Om Swastiastu* (saludo formal) |
-| **¿Cómo estás?**        | How are you?     | *Apa kabar?*                   | *Kenken kabare?*                |
-| **Bien, ¿y tú?**        | Fine, and you?   | *Baik, cómo estás?*            | *Becik, kenken kabare?*         |
-| **Gracias**             | Thank you        | *Terima kasih*                 | *Suksma*                        |
-| **Por favor / De nada** | Please / Welcome | *Sama-sama / Tolong*           | *Mewali / Suksma mewali*        |
+| Español                                                                                           | Balinés local                                                                                     | Inglés      | Indonesio (Bahasa)                                                                |
+| ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ----------- | --------------------------------------------------------------------------------- |
+| **Hola / Saludo**                                                                                 | *Om Swastiastu*                                                                                   | Hello       | *Halo / Selamat pagi*                                                             |
+| **¿Cómo estás?**                                                                                  | *Kenken kabare?*                                                                                  | How are you?| *Apa kabar?*                                                                      |
+| **Bien, ¿y vos?**                                                                                 | *Becik, kenken kabare?*                                                                           | Good, and you?| *Baik, kalau kamu?*                                                             |
+| **Gracias**                                                                                       | *Suksma*                                                                                          | Thank you   | *Terima kasih*                                                                    |
+| **Por favor / De nada**                                                                           | *Nunas / Suksma mewali*                                                                           | Please / You're welcome | *Tolong / Sama-sama*                                                    |
 
 - - -
 
