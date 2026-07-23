@@ -231,7 +231,7 @@ A continuación te dejamos dos tablas con los costos de estadías, entradas y to
 | Alquiler de Moto Intermedia 125cc                                                                 | 75.000 - 85.000                                                                                   | 4.18 - 4.73 | 3.65 - 4.14 | Pago local en efectivo (estilo retro y mayor potencia)                            |
 | Alquiler de Moto Grande 155cc                                                                     | 100.000 - 130.000                                                                                 | 5.57 - 7.24 | 4.87 - 6.33 | Pago local en efectivo (motos grandes, automáticas)                               |
 | Referencia de conversión de moneda                                                                | 100.000                                                                                           | 5.57        | 4.87        | Datos actualizados Julio 2026 (sujeto a cambios completamente ajenos a nosotros:) |
-| \*Costos de referencia por noche                                                                  | <td colspan="4">Si querés un presupuesto personalizado usá nuestra calculadora gratis online</td> |             |             |                                                                                   |
+| \*Costos de referencia por noche                                                                  | <td colspan="4">Si querés un presupuesto personalizado usá nuestra calculadora gratis online</td>            |          |          |                                                                                   |
 
 ## Armá tu presupuesto para viajar a amed
 
