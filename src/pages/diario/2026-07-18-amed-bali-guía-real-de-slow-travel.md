@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPostLayout.astro
 title: "Que hacer en Amed, Bali: Guía real de slow travel y presupuesto 2026"
-date: 2026-07-21T13:43:00.000+08:00
+date: 2026-07-23T12:09:00.000+08:00
 tag: guia de viaje
 pais: Indonesia
 description: "¿Viajás a Bali? Descubrí Amed, el refugio de playa y snorkel libre
@@ -116,7 +116,7 @@ Es un conjunto de miradores ubicados en la montaña con vistas realmente increí
 
 * **Precio de entrada:** IDR 50.000 (unos USD 3). Incluye estacionamiento y la camioneta que te lleva hasta la cima.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/lahangan-sweet spot-2.webp" alt="Imagen de bitácora"><span class="img-caption">Lahangan Sweet al atardecer</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/lahangan-sweet spot-2.webp" alt="">Lahangan Sweet al atardecer vistas del Monte Agung<span class="img-caption">Lahangan Sweet al atardecer</span></div>
 
 ### **Pura Lempuyang (Las Puertas del Cielo)**
 
@@ -137,7 +137,7 @@ Un antiguo palacio real rodeado de jardines balineses y piscinas de agua decorad
 * **Costo de la entrada:** 100.000 IDR (unos USD 6).
 * **Estacionamiento:** 2.000 IDR para motos y 5.000 IDR para autos (menos de USD 0,50).
 
-### **Virgin Beach**<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/virgin-beach.webp" alt="Imagen de bitácora"><span class="img-caption">Virgin beach </span></div>
+### **Virgin Beach**<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/virgin-beach.webp" alt="Virgin beach, playa paradisíaca en bali, con palmeras y agua turquesa"><span class="img-caption">Virgin beach </span></div>
 
 La playa más épica de la isla: arena blanca, agua turquesa, el mismísimo paraíso. La entrada cuesta 20.000 IDR (aprox. USD 1,30) e incluye el estacionamiento. Desde la mañana hasta alrededor de las 3 el agua tiene un color turquesa increíble, la zona de alrededor tiene palmeras y pasto con algo de sombra que en la tarde se llena de gente local que disfruta el paisaje muy tranquila. En la playa hay warungs y puestos de alquiler de tumbonas con sombrilla para pasar el día (100.000 IDR, unos USD 6).
 
@@ -186,8 +186,10 @@ El atardecer en Amed es un ritual diario. Al estar en la costa este, el sol se o
 
 ⚠️ **Efectivo / ATMs:** Los cajeros automáticos (ATM) de la zona frecuentemente se quedan sin efectivo. Recomendamos sacar en Amed con anticipación.
 
-**Preguntas frecuentes**
+## **Preguntas frecuentes**
 
+* **¿Cuál es la mejor época para visitar Amed?
+  La mejor época es entre** mayo y octubre\*\*, durante la temporada seca de Bali. En estos meses el mar está más calmo, la visibilidad bajo el agua para hacer esnórquel y buceo es excelente, las probabilidades de lluvia suelen ser bajas. Además nos comentaron que durante la temporada de lluvias la marea sube considerablemente de forma que la playa prácticamente desaparece, llegando el agua a golpear directamente contra los pequeños muros de contención que construyen bordeando la costa. 
 * **¿Cómo es la playa en Amed?** Se caracteriza por tener arena negra volcánica y muchas piedras. El agua es transparente y la corriente no es fuerte. En las bahías el viento está bastante contenido.
 * **¿Se puede salir a caminar por la playa?** Sí, pero con matices: la arena gruesa y las piedras pueden ser un masaje o una molestia, pero se resuelve fácil con calzado.
 
@@ -218,8 +220,6 @@ A continuación te dejamos dos tablas con los costos de estadías, entradas y to
 | [Tour privado desde Ubud o Kuta con entradas y traslado](https://www.getyourguide.com/es-es/karangasem-l190139/bali-tour-privado-con-todo-incluido-por-los-puntos-destacados-del-este-de-bali-t1205121?ranking_uuid=2f0097e3-d8c4-4c7a-b66e-c3f6d1bdba45&date_from=2026-07-25) | 1.956.912        | 109   | 95.92 | Opción destacada porque tiene contenido histórico cultural y además conoces un pueblo indígena bali aga y su tradición de tejido |
 | Referencia de conversión de moneda                                                                                                                                                                                                                                             | 100.000          | 5.57  | 4.87  |                                                                                                                                  |
 
-
-
 ## Presupuesto para quedarse en Amed
 
 | Referencia                                                                                        | Costo IDR                                                                                         | Costo USD   | Costo EUR   | Observaciones                                                                     |
@@ -231,11 +231,11 @@ A continuación te dejamos dos tablas con los costos de estadías, entradas y to
 | Alquiler de Moto Intermedia 125cc                                                                 | 75.000 - 85.000                                                                                   | 4.18 - 4.73 | 3.65 - 4.14 | Pago local en efectivo (estilo retro y mayor potencia)                            |
 | Alquiler de Moto Grande 155cc                                                                     | 100.000 - 130.000                                                                                 | 5.57 - 7.24 | 4.87 - 6.33 | Pago local en efectivo (motos grandes, automáticas)                               |
 | Referencia de conversión de moneda                                                                | 100.000                                                                                           | 5.57        | 4.87        | Datos actualizados Julio 2026 (sujeto a cambios completamente ajenos a nosotros:) |
-| \*Costos de referencia por noche                                                                  | <td colspan="4">Si querés un presupuesto personalizado usá nuestra calculadora gratis online</td> |             |             |                                                                                   |
+| \*Costos de referencia por noche                                                                  | <td colspan="4">Si querés un presupuesto personalizado usá nuestra calculadora gratis online</td>            |          |          |                                                                                   |
 
 ## Armá tu presupuesto para viajar a amed
 
-Calculadora personalizada
+Usá nuestra calculadora personalizada y planificá tu viaje a amed según tus necesidades  e intereses, recordá que al reservar desde nuestros links ayudas a que este blog siga existiendo.
 
 <div style="background: linear-gradient(135deg, #1c1917, #0c0a09); border: 1px solid #292524; padding: 2rem; border-radius: 1rem; text-align: center; margin-top: 3rem; box-shadow: 0 10px 30px -10px rgba(0,0,0,0.5);">
     <h3 style="color: #ffffff; margin-top: 0; margin-bottom: 0.5rem; font-size: 1.5rem;">Calculá tu Presupuesto Exacto</h3>
@@ -244,3 +244,16 @@ Calculadora personalizada
         Ir a la Calculadora Gratis
     </a>
 </div>
+
+- - -
+
+## Podría interesarte también:
+
+* **[Qué hacer en Ubud: Guía completa, templos y costos](https://blogcito.com/diario/2026-07-20-ubud-bali-que-hacer/)**\
+  *Descubre la capital cultural de Bali, con sus arrozales en terrazas, cascadas, rituales de purificación, talleres de cocina y espectáculos de danza tradicional.*
+* **[El alma de Bali: Rituales, la familia y el secreto de la felicidad balinesa](https://blogcito.com/diario/2026-06-23-el-alma-de-bali-rituales-la-familia-y-el-secreto-de-la-felicidad-balinesa/)**\
+  *Un recorrido más íntimo por la cultura balinesa para entender la espiritualidad, las ofrendas diarias y la filosofía de vida en la isla.*
+* **[Viajar a Bali en 2026: Requisitos, transporte y zonas para quedarse](https://blogcito.com/diario/2026-06-18-bali-bby-1/)**\
+    *La guía práctica con todo lo que necesitás saber sobre visados, consjeos y zonas para moverte con seguirdad.*
+
+  <div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/pedang-ubud.webp" alt="Imagen de bitácora"><span class="img-caption">Penjor en Ubud, un simbolo de agradecimiento y prosperidad, para las familias balinesas</span></div>
