@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPostLayout.astro
 title: "Que hacer en Amed, Bali: Guía real de slow travel y presupuesto 2026"
-date: 2026-07-21T13:43:00.000+08:00
+date: 2026-07-23T12:09:00.000+08:00
 tag: guia de viaje
 pais: Indonesia
 description: "¿Viajás a Bali? Descubrí Amed, el refugio de playa y snorkel libre
@@ -256,4 +256,4 @@ Usá nuestra calculadora personalizada y planificá tu viaje a amed según tus n
 * **[Viajar a Bali en 2026: Requisitos, transporte y zonas para quedarse](https://blogcito.com/diario/2026-06-18-bali-bby-1/)**\
     *La guía práctica con todo lo que necesitás saber sobre visados, consjeos y zonas para moverte con seguirdad.*
 
-  <div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/pedang-ubud.webp" alt="Penjor, un simbolo"><span class="img-caption"></span></div>
+  <div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/pedang-ubud.webp" alt="Imagen de bitácora"><span class="img-caption">Penjor en Ubud, un simbolo de agradecimiento y prosperidad, para las familias balinesas</span></div>
