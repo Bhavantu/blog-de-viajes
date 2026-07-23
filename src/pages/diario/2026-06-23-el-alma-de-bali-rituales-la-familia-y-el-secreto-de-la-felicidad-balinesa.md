@@ -5,8 +5,8 @@ title: "El Alma de Bali: cultura, tradiciones y la secretos sobre la Isla de los
 date: 2026-07-23T13:31:00.000+08:00
 tag: contexto y cultura
 pais: Indonesia
-description: "Descubrí la verdadera esencia de Bali: una vibrante travesía por
-  sus tradiciones, templos, espiritualidad y vida en comunidad."
+description: "Descubrí la esencia de Bali: una vibrante travesía por sus
+  tradiciones, templos, espiritualidad y vida en comunidad."
 main_image: /img/diario/dsc_0628.webp
 ---
 # ¿Cómo es la cultura en Bali? Viaje a la esencia de la Isla de los Dioses
