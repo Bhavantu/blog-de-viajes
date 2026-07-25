@@ -48,7 +48,7 @@ Sin embargo, lo positivo es que el país es sumamente preventivo y cuenta con pr
 
 ## 4. Costo de vida en Christchurch: Alquiler y comida
 
-* **Alimentación:** El costo de vida es accesible. Salir a comer afuera es caro, pero hay una muy buena oferta de frutas y verduras de productores locales de Nueva Zelanda. La calidad y el sabor de los alimentos es excelente. Mi experiencia fue trabajando en un supermercado orgánico y tuve la suerte de poder probar verduras locales cultivadas sin químicos; conclusión: muy buen alimento neozelandés.
+* **Alimentación:** El costo de vida es accesible. Salir a comer afuera no es tan barato (alrededor de 20 a 40 NZD por plato) pero hay una muy buena oferta de frutas y verduras de productores locales de Nueva Zelanda. La calidad y el sabor de los alimentos es excelente. Mi experiencia fue trabajando en un supermercado orgánico y tuve la suerte de poder probar verduras locales cultivadas sin químicos; conclusión: muy buen alimento neozelandés.
 * **Vivienda y transporte:** El acceso a la vivienda es razonable y existe una gran variedad de zonas para elegir. Además, la infraestructura urbana tiene una buena red de ciclovías y un transporte público eficiente, las calles se encuentran en buen estado y el tráfico no es imposible en las mañanas.
 
 ### Resumen de Gastos Semanales Estimados (2026)
@@ -81,9 +81,9 @@ Al aterrizar en Christchurch con la Working Holiday Visa, lo ideal es reservar e
 * **[Urbanz Hostel](https://www.booking.com/hotel/nz/urbanz.html?aid=318615):** En pleno centro urbano (*CBD*). Cuenta con bar, amplia cocina comunitaria y es una de las opciones más populares para hacer primeros contactos laborales.
 * **[LyLo Christchurch Airport](https://www.booking.com/hotel/nz/jucy-snooze-christchurch.html?aid=318615):** A menos de 10 minutos caminando de la terminal del aeropuerto. Ideal si tu vuelo aterriza de noche o muy temprano.
 
-### Para buscar habitación definitiva (*flat*):
+### Para buscar habitación compartida definitiva (*flat*):
 
-Las dos herramientas que mejor me funcionaron fueron **Trade Me** (en la sección de *Flatmates wanted*) para comparar precios de forma organizada, y los grupos de **Facebook** (como *Christchurch Flatmates*), donde el trato es directo y rápido.
+Las dos herramientas que mejor me funcionaron fueron **Trade Me** (en la sección de *Flatmates wanted*) para comparar precios de forma organizada, y principalmente los grupos de **Facebook** (como *Christchurch Flatmates*), donde el trato es directo y rápido. La gente publica ofertas todos los días y si hacés una publicación con tus necesidades llueven propuestas de cuartos en casas compartidas. 
 
 ### Para buscar trabajo:
 
@@ -115,8 +115,6 @@ Lo recomendable es ingresar con un fondo de reserva de al menos **$1.500 a $2.00
 ### ¿Se necesita auto obligatorio para vivir en Christchurch?
 
 No es estrictamente necesario desde el primer día dentro de la ciudad, ya que Christchurch es plana, cuenta con ciclovías y una red de buses eficiente (*Metro*). Sin embargo, contar con auto o *campervan* facilita muchísimo los traslado, optimiza el tiempo y te permite planificar escapadas a la montaña (Arthur's Pass) y playas de los fines de semana (que igual podés planificar con otrs viajeros).
-
-
 
 ## Te puede interesar también:
 
