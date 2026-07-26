@@ -1,26 +1,63 @@
 ---
-import { getRelativeLocaleUrl } from 'astro:i18n';
 import { ui } from '../i18n/ui.js';
 
-const currentLang = Astro.currentLocale || 'es';
-const currentPath = Astro.url.pathname.replace(/^\/en/, '');
-const t = ui[currentLang as keyof typeof ui];
+const currentLang = (Astro.currentLocale || 'es') as 'es' | 'en';
+const t = ui[currentLang];
 const { isTransparent = false } = Astro.props;
+
+// Limpieza de ruta para evitar errores con index.html o barras sobrantes
+let rawPath = Astro.url.pathname;
+let cleanPath = rawPath.replace(/^\/en/, '').replace(/\/index\.html$/, '').replace(/\/$/, '');
+if (cleanPath === '') cleanPath = '/';
+
+// Armado inteligente de URLs para el selector ES | EN
+let urlEs = cleanPath; 
+let urlEn = '/en' + (cleanPath === '/' ? '' : cleanPath);
+
+// Mapeo manual de tus archivos traducidos
+if (cleanPath === '/nosotros' || rawPath.startsWith('/en/about')) {
+    urlEs = '/nosotros';
+    urlEn = '/en/about';
+} else if (cleanPath === '/diario' || rawPath.startsWith('/en/journal')) {
+    urlEs = '/diario';
+    urlEn = '/en/journal';
+} else if (cleanPath === '/contacto' || rawPath.startsWith('/en/contact')) {
+    urlEs = '/contacto';
+    urlEn = '/en/contact';
+} else if (cleanPath.startsWith('/diario/')) {
+    const slug = cleanPath.split('/').pop();
+    urlEs = `/diario/${slug}`;
+    urlEn = `/en/diario/${slug}`; 
+}
+
+// Diccionario estricto para los botones de navegación
+const menuLinks = {
+    es: {
+        inicio: '/',
+        diario: '/diario',
+        nosotros: '/nosotros'
+    },
+    en: {
+        inicio: '/en',
+        diario: '/en/journal',
+        nosotros: '/en/about'
+    }
+};
 ---
 
 <div class={isTransparent ? "header-wrapper transparente" : "header-wrapper solido"}>
     <div id="mobile-menu-overlay" class="menu-overlay"></div>
     
     <header class="site-header">
-        <!-- El logo también debe apuntar al idioma correcto -->
-        <h1><a href={getRelativeLocaleUrl(currentLang, '/')}>BLOGCITO</a></h1>
+        <!-- El logo apunta a la raíz correspondiente -->
+        <h1><a href={menuLinks[currentLang].inicio}>BLOGCITO</a></h1>
         
         <button id="mobile-menu-btn" class="menu-toggle">☰</button>        
         <nav id="main-nav">
             <ul class="nav-links">
-                <li><a href={getRelativeLocaleUrl(currentLang, '/')}>{t['nav.inicio']}</a></li>
-                <li><a href={getRelativeLocaleUrl(currentLang, 'diario')}>{t['nav.diario']}</a></li>
-                <li><a href={getRelativeLocaleUrl(currentLang, 'nosotros')}>{t['nav.nosotros']}</a></li>
+                <li><a href={menuLinks[currentLang].inicio}>{t['nav.inicio']}</a></li>
+                <li><a href={menuLinks[currentLang].diario}>{t['nav.diario']}</a></li>
+                <li><a href={menuLinks[currentLang].nosotros}>{t['nav.nosotros']}</a></li>
                 
                 <li class="btn-buscar">
                     <a href="#" title="Buscar" style="display: flex; align-items: center; padding-top: 2px;">
@@ -31,15 +68,15 @@ const { isTransparent = false } = Astro.props;
                     </a>
                 </li>
 
-                <!-- Selector de Idiomas agregado como un elemento más de la lista -->
+                <!-- Selector de Idiomas con las variables limpias -->
                 <li class="lang-switcher" style="display: flex; align-items: center; gap: 8px; margin-left: 12px; font-family: monospace; font-size: 0.85rem;">
                     <a 
-                        href={getRelativeLocaleUrl('es', currentPath)} 
+                        href={urlEs} 
                         style={currentLang === 'es' ? 'font-weight: bold; color: #f97316;' : 'color: #a8a29e;'}
                     >ES</a>
                     <span style="color: #57534e;">|</span>
                     <a 
-                        href={getRelativeLocaleUrl('en', currentPath)} 
+                        href={urlEn} 
                         style={currentLang === 'en' ? 'font-weight: bold; color: #f97316;' : 'color: #a8a29e;'}
                     >EN</a>
                 </li>

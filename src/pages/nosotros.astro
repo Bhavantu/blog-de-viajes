@@ -5,172 +5,303 @@ import Layout from '../layouts/Layout.astro';
 <Layout title="BLOGCITO - Nosotros"
   description="¿Quiénes estamos detrás de BLOGCITO? Conocé nuestra historia, qué nos impulsa a recorrer el mundo, nuestra filosofía de viaje y cómo vivimos la vida local."
 >
-
-
-    <main class="container page-nosotros">
+    <main class="container-nosotros">
         
         <header class="nosotros-header">
+            <span class="nosotros-badge">Nuestra Filosofía</span>
             <h1>Somos Blogcito</h1>
-            <h2 class="subtitle">Un equipo que busca viajar lento y con la mirada atenta, conocer culturas, filosofías, historias y religiones, en definitiva conocer otras formas de ver el mundo.</h2>
-            <p class="intro-text"><em>Compartimos nuestra experiencia, profundizamos en la investigación cultural y creamos guías de viaje para quienes como nosotros eligen caminar el mundo con la mirada atenta y el corazón abierto, sin descuidar los pies sobre la tierra.</em></p>
+            <h2 class="subtitle">
+                Un equipo que busca viajar lento y con la mirada atenta, conocer culturas, filosofías, historias y religiones; en definitiva, conocer otras formas de ver el mundo.
+            </h2>
+            <p class="intro-text">
+                Compartimos nuestra experiencia, profundizamos en la investigación cultural y creamos guías de viaje para quienes, como nosotros, eligen caminar el mundo con la mirada atenta y el corazón abierto, sin descuidar los pies sobre la tierra.
+            </p>
         </header>
 
-        <section class="content-section">
-            <h3>¿Cómo navegar este blog?</h3>
-            <p>Para que encuentres lo que buscás, organizamos el contenido en cuatro caminos claros que puedes filtrar mediante las siguientes etiquetas:</p>
-            <ul class="custom-list">
-                <li><strong>Contexto y Cultura:</strong> Análisis cultural, social, religioso e histórico de los diferentes territorios. Reflexionamos sobre las experiencias y sentires para entender y dejarse atravesar por las diferentes cosmovisiones.</li>
-                <li><strong>Guía de Viaje:</strong> Soluciones concretas. Guías paso a paso, presupuestos y trámites basados en nuestra experiencia.</li>
-                <li><strong>Punto de Fuga:</strong> Crónicas, fotografía, narrativa y música. Es donde volcamos nuestras reflexiones y el arte de viajar lento.</li>
-                <li><strong>Vida Local:</strong> Tips prácticos sobre el día a día. Cómo vivir, comprar y habitar una ciudad siendo extranjero.</li>
-            </ul>
-        </section>
-
-        <section class="content-section clearfix">
-            <h3>El equipo</h3>
-
-            <div class="miembro-equipo clearfix">
-                <img src="/img/lore.webp" alt="Lorena" class="img-float-left" />
-                <h4>Lore</h4>
-                <p>Soy Lore, amante de los viajes y del intercambio, curiosa sobre las cosmovisiones del mundo y las diferentes formas de conectar con él. Escribir es parte de lo que soy, así que con Santi creamos este espacio para compartir nuestra aventura.</p>
-                <p>Siento que viajar es, ante todo, un ejercicio de presencia. Caminar por un espacio diferente, observar su ritmo, dejar que los aromas y los sonidos te cuenten una historia nueva, hacer cuerpo con ello. Con mi prima Lola decíamos que lo más difícil —y a la vez lo más bello— es sentirse turista en nuestro propio hogar.</p>
-                <p>Por eso decidí, como ejercicio, caminar con la mirada atenta y el corazón abierto. Dejarme iluminar por la belleza de un cerro reflejado en un lago o simplemente por el sol tibio de la tarde. Querido lector, querida lectora, esto no es solo un relato; es una invitación a encontrarse recorriendo el camino. Porque amanece un día más, y eso no es poca cosa.</p>
-            </div>
-
-            <div class="miembro-equipo clearfix">
-                <img src="/img/santi.webp" alt="Santiago" class="img-float-right" />
-                <h4>Santi</h4>
-                <p>Soy Santi, el responsable de capturar los paisajes con la cámara y de escribir el código que hace funcionar este blog. Me encargo de la fotografía y del desarrollo web, construyendo toda la estructura digital para que nuestras crónicas, guías y mapas tengan el espacio perfecto para ser compartidos.</p>
-                <p>Viajar lento también significa detenerse a observar los detalles. Disfruto mucho documentando esa realidad a través del lente y asegurándome de que todo fluya impecable detrás de la pantalla para quienes nos leen.</p>
+        <section class="navegacion-section">
+            <h3 class="section-title">¿Cómo navegar este blog?</h3>
+            <p class="section-desc">Para que encuentres exactamente lo que buscás, organizamos nuestro diario en cuatro caminos claros:</p>
+            
+            <div class="rutas-grid">
+                <div class="ruta-card">
+                    <h4>Contexto y Cultura</h4>
+                    <p>Análisis social, religioso e histórico de los territorios. Reflexionamos sobre las experiencias para dejarse atravesar por diferentes cosmovisiones.</p>
+                </div>
+                <div class="ruta-card">
+                    <h4>Guía de Viaje</h4>
+                    <p>Soluciones concretas. Guías paso a paso, presupuestos reales y trámites basados íntegramente en nuestra propia experiencia.</p>
+                </div>
+                <div class="ruta-card">
+                    <h4>Punto de Fuga</h4>
+                    <p>Crónicas, fotografía, narrativa y música. El espacio donde volcamos nuestras reflexiones más personales y el arte de viajar lento.</p>
+                </div>
+                <div class="ruta-card">
+                    <h4>Vida Local</h4>
+                    <p>Tips prácticos sobre el día a día. Cómo vivir, comprar, alquilar y habitar verdaderamente una ciudad siendo extranjero.</p>
+                </div>
             </div>
         </section>
 
-        <div class="call-to-action">
-            <p>¿Empezamos? <a href="/diario" class="btn-link">Explorá mis últimas crónicas</a> o <a href="/diario" class="btn-link">Mirá nuestras guías prácticas</a></p>
+        <section class="equipo-section">
+            <h3 class="section-title">El equipo</h3>
+
+            <div class="miembro-grid">
+                <div class="miembro-img-wrapper">
+                    <img src="/img/lore.webp" alt="Lorena" class="miembro-img" onerror="this.src='https://placehold.co/400x500/006d77/ffffff?text=Lore'" />
+                </div>
+                <div class="miembro-texto">
+                    <span class="miembro-rol">Redacción & Filosofía de Viaje</span>
+                    <h4>Lore</h4>
+                    <p>Amante de los viajes y del intercambio, curiosa sobre las cosmovisiones del mundo y las diferentes formas de conectar con él. Escribir es parte de lo que soy, así que creamos este espacio para compartir nuestra aventura.</p>
+                    <p>Siento que viajar es, ante todo, un ejercicio de presencia. Caminar por un espacio diferente, observar su ritmo, dejar que los aromas y los sonidos te cuenten una historia nueva, hacer cuerpo con ello. Lo más difícil —y a la vez lo más bello— es sentirse turista en nuestro propio hogar.</p>
+                    <p>Querido lector, esto no es solo un relato; es una invitación a encontrarse recorriendo el camino. Porque amanece un día más, y eso no es poca cosa.</p>
+                </div>
+            </div>
+
+            <div class="miembro-grid reverso">
+                <div class="miembro-img-wrapper">
+                    <img src="/img/santi.webp" alt="Santiago" class="miembro-img" onerror="this.src='https://placehold.co/400x500/006d77/ffffff?text=Santi'" />
+                </div>
+                <div class="miembro-texto">
+                    <span class="miembro-rol">Fotografía & Desarrollo Web</span>
+                    <h4>Santi</h4>
+                    <p>Soy el responsable de capturar los paisajes con la cámara y de escribir el código que hace funcionar este blog. Me encargo de la fotografía y del desarrollo web, construyendo toda la estructura digital para que nuestras crónicas, guías y mapas tengan el espacio perfecto para ser compartidos.</p>
+                    <p>Viajar lento también significa detenerse a observar los detalles. Disfruto mucho documentando esa realidad a través del lente y asegurándome de que todo fluya impecable detrás de la pantalla para quienes nos leen.</p>
+                </div>
+            </div>
+        </section>
+
+        <div class="cta-final">
+            <p>¿Empezamos la ruta?</p>
+            <div class="cta-links">
+                <a href="/diario" class="btn-primary">Explorar crónicas</a>
+                <a href="/diario" class="btn-secondary">Ver guías prácticas</a>
+            </div>
         </div>
 
     </main>
 </Layout>
 
-<style>
-    /* ============================================================
-       ESTILOS EXCLUSIVOS DE LA PÁGINA "NOSOTROS"
-       ============================================================ */
-    .page-nosotros {
-        max-width: 800px;
+<style is:global>
+    .container-nosotros {
+        max-width: 900px;
         margin: 0 auto;
-        padding: 2rem 1rem;
-        line-height: 1.7;
-        color: #333;
+        padding: 4rem 1.5rem;
+        color: var(--text-color, #333);
     }
 
+    /* HEADER EDITORIAL */
     .nosotros-header {
         text-align: center;
-        margin-bottom: 4rem;
+        max-width: 750px;
+        margin: 0 auto 5rem auto;
+    }
+
+    .nosotros-badge {
+        display: inline-block;
+        background-color: #f4f1ea;
+        color: #006d77;
+        padding: 6px 16px;
+        font-size: 0.75rem;
+        text-transform: uppercase;
+        letter-spacing: 0.15em;
+        font-weight: 600;
+        border-radius: 4px;
+        margin-bottom: 1.5rem;
     }
 
     .nosotros-header h1 {
         font-family: var(--font-display);
-        font-size: 2.5rem;
-        margin-bottom: 1rem;
+        font-size: 3.5rem;
+        font-weight: normal;
+        margin-bottom: 1.5rem;
+        line-height: 1.1;
     }
 
     .subtitle {
-        font-size: 1.25rem;
+        font-size: 1.35rem;
         font-weight: normal;
-        color: #555;
-        margin-bottom: 1.5rem;
-        line-height: 1.5;
+        color: #444;
+        margin-bottom: 2rem;
+        line-height: 1.6;
+        font-family: var(--font-display);
+        font-style: italic;
     }
 
     .intro-text {
         font-size: 1.1rem;
         color: #666;
+        line-height: 1.8;
     }
 
-    .content-section {
-        margin-bottom: 3.5rem;
+    /* TÍTULOS DE SECCIÓN */
+    .section-title {
+        font-family: var(--font-display);
+        font-size: 2.2rem;
+        text-align: center;
+        margin-bottom: 0.5rem;
+        font-weight: normal;
     }
 
-    .miembro-equipo {
-        margin-bottom: 3rem; /* Separa a Lore de Santi visualmente */
+    .section-desc {
+        text-align: center;
+        color: #666;
+        margin-bottom: 3rem;
+        font-size: 1.05rem;
     }
 
-    h3 {
+    /* GRID DE NAVEGACIÓN */
+    .navegacion-section {
+        margin-bottom: 6rem;
+        padding-top: 4rem;
+        border-top: 1px solid #eee;
+    }
+
+    .rutas-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 2rem;
+    }
+
+    .ruta-card {
+        background-color: #ffffff;
+        padding: 2.5rem;
+        border-radius: 12px;
+        box-shadow: 0 4px 15px rgba(0,0,0,0.03);
+        border: 1px solid #f0f0f0;
+        transition: transform 0.3s ease;
+    }
+
+    .ruta-card:hover {
+        transform: translateY(-5px);
+    }
+
+    .ruta-card h4 {
+        font-family: var(--font-display);
+        font-size: 1.3rem;
+        color: #006d77;
+        margin-bottom: 1rem;
+        font-weight: normal;
+    }
+
+    .ruta-card p {
+        font-size: 0.95rem;
+        line-height: 1.6;
+        color: #555;
+        margin: 0;
+    }
+
+    /* GRID DEL EQUIPO (Reemplaza los viejos floats) */
+    .equipo-section {
+        margin-bottom: 5rem;
+    }
+
+    .miembro-grid {
+        display: grid;
+        grid-template-columns: 1fr 1.2fr;
+        gap: 3.5rem;
+        align-items: center;
+        margin-top: 4rem;
+    }
+
+    .miembro-grid.reverso {
+        grid-template-columns: 1.2fr 1fr;
+    }
+
+    .miembro-grid.reverso .miembro-img-wrapper {
+        order: 2;
+    }
+    
+    .miembro-grid.reverso .miembro-texto {
+        order: 1;
+    }
+
+    .miembro-img {
+        width: 100%;
+        height: 500px;
+        object-fit: cover;
+        border-radius: 12px;
+        box-shadow: 0 8px 20px rgba(0,0,0,0.06);
+    }
+
+    .miembro-rol {
+        font-size: 0.75rem;
+        text-transform: uppercase;
+        letter-spacing: 0.1em;
+        color: #888;
+        display: block;
+        margin-bottom: 0.5rem;
+        font-weight: 600;
+    }
+
+    .miembro-texto h4 {
+        font-family: var(--font-display);
+        font-size: 2.2rem;
+        margin-bottom: 1.5rem;
+        font-weight: normal;
+        color: #333;
+    }
+
+    .miembro-texto p {
+        font-size: 1.05rem;
+        line-height: 1.8;
+        color: #555;
+        margin-bottom: 1.5rem;
+    }
+
+    /* CALL TO ACTION FINAL */
+    .cta-final {
+        text-align: center;
+        background-color: #faf8f5;
+        padding: 4rem 2rem;
+        border-radius: 12px;
+        border: 1px solid #eee;
+    }
+
+    .cta-final p {
         font-family: var(--font-display);
         font-size: 1.8rem;
-        margin-bottom: 1.5rem;
-        border-bottom: 1px solid #eee;
-        padding-bottom: 0.5rem;
+        margin-bottom: 2rem;
+        color: #333;
     }
 
-    h4 {
-        font-family: var(--font-display);
-        font-size: 1.4rem;
-        margin-top: 0;
-        margin-bottom: 0.5rem;
-        color: #006d77;
+    .cta-links {
+        display: flex;
+        justify-content: center;
+        gap: 1.5rem;
     }
 
-    .custom-list {
-        padding-left: 1.5rem;
-    }
-
-    .custom-list li {
-        margin-bottom: 1rem;
-    }
-
-    /* --- CLASES MÁGICAS PARA CEÑIR EL TEXTO --- */
-    .img-float-left {
-        float: left;
-        width: 300px;
-        margin: 0.5rem 1.5rem 1rem 0; 
-        border-radius: 25px;
-        object-fit: cover;
-    }
-
-    .img-float-right {
-        float: right;
-        width: 300px;
-        margin: 0.5rem 0 1rem 1.5rem; 
-        border-radius: 25px;
-        object-fit: cover;
-    }
-
-    .clearfix::after {
-        content: "";
-        clear: both;
-        display: table;
-    }
-
-    .call-to-action {
-        text-align: center;
-        font-size: 1.2rem;
-        font-weight: bold;
-        margin-top: 4rem;
-        margin-bottom: 4rem;
-    }
-
-    .btn-link {
-        color: #006d77;
-        text-decoration: underline;
-        text-underline-offset: 4px;
-        transition: color 0.3s ease;
-    }
-
-    .btn-link:hover {
-        color: #83c5be;
-    }
-
-    /* MODO CELULAR */
+    /* RESPONSIVE */
     @media (max-width: 768px) {
-        .img-float-left, 
-        .img-float-right {
-            float: none; 
-            display: block;
-            width: 100%; 
-            max-height: 400px;
-            margin: 1.5rem 0;
+        .nosotros-header h1 {
+            font-size: 2.8rem;
+        }
+
+        .rutas-grid {
+            grid-template-columns: 1fr;
+            gap: 1.5rem;
+        }
+
+        .miembro-grid,
+        .miembro-grid.reverso {
+            grid-template-columns: 1fr;
+            gap: 2rem;
+        }
+
+        .miembro-grid.reverso .miembro-img-wrapper {
+            order: 1;
+        }
+        
+        .miembro-grid.reverso .miembro-texto {
+            order: 2;
+        }
+
+        .miembro-img {
+            height: 400px;
+        }
+
+        .cta-links {
+            flex-direction: column;
         }
     }
 </style>
