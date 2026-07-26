@@ -1,16 +1,20 @@
 ---
 import Layout from './Layout.astro';
+import { getRelativeLocaleUrl } from 'astro:i18n';
+import { ui } from '../i18n/ui.js';
 
 const { frontmatter, headings } = Astro.props;
-
 const indices = headings ? headings.filter((h: any) => h.depth === 2 || h.depth === 3) : [];
+
+// Atrapamos el idioma y cargamos las traducciones
+const currentLang = Astro.currentLocale || 'es';
+const t = ui[currentLang as keyof typeof ui];
 ---
 
 <Layout title={frontmatter.title} description={frontmatter.description}>
     <main class="container">
         <article class="article-view" style="display: block;">
-            <a href="/diario" class="back-btn hover-verde">← Volver al diario</a>
-            
+            <a href={getRelativeLocaleUrl(currentLang, 'diario')} class="back-btn hover-verde">← {t['post.volver']}</a>            
             <header class="article-header reveal visible">
                 {frontmatter.tag && (
                     <span class="journal-tag" data-tag={frontmatter.tag.toLowerCase()}>
@@ -18,7 +22,7 @@ const indices = headings ? headings.filter((h: any) => h.depth === 2 || h.depth 
                     </span>
                 )}
                 <span class="journal-date">
-                    {new Date(frontmatter.date).toLocaleDateString('es-ES', { day: '2-digit', month: 'long', year: 'numeric' }).toUpperCase()} 
+                {new Date(frontmatter.date).toLocaleDateString(currentLang === 'es' ? 'es-ES' : 'en-US', { day: '2-digit', month: 'long', year: 'numeric' }).toUpperCase()}
                 </span>
                 <h1 class="article-title-main">{frontmatter.title}</h1>
             </header>
@@ -240,4 +244,84 @@ const indices = headings ? headings.filter((h: any) => h.depth === 2 || h.depth 
       transition: color 0.3s ease;
   }
   .indice-item a:hover { color: #006d77 !important; }
+
+/* ============================================================
+     REGLAS PARA CONTENEDORES DE IMÁGENES DEL CMS
+     ============================================================ */
+  
+  /* ESCRITORIO (Pantallas mayores a 768px): Aplica el ceñido de texto */
+  @media (min-width: 769px) {
+      .text-column :global(.img-derecha) {
+          float: right !important;
+          margin: 0.5rem 0 1.5rem 2rem !important;
+          clear: none !important;
+      }
+
+      .text-column :global(.img-izquierda) {
+          float: left !important;
+          margin: 0.5rem 2rem 1.5rem 0 !important;
+          clear: none !important;
+      }
+
+      .text-column :global(.img-pequeño) {
+          width: 350px !important;
+          max-width: 50% !important;
+      }
+
+      .text-column :global(.img-derecha img),
+      .text-column :global(.img-izquierda img) {
+          width: 100% !important;
+          margin: 0 !important;
+      }
+  }
+
+  /* CELULARES (Pantallas de 768px o menos): Sin ceñir y desplegado de borde a borde */
+  @media (max-width: 768px) {
+      .text-column :global(.post-img-box),
+      .text-column :global(.img-derecha),
+      .text-column :global(.img-izquierda),
+      .text-column :global(.img-pequeño) {
+          float: none !important;
+          width: calc(100% + 3rem) !important; /* Expande la imagen anulando los márgenes internos */
+          max-width: calc(100% + 3rem) !important;
+          margin-left: -1.5rem !important; /* Empuja la imagen hacia la izquierda hasta el borde */
+          margin-right: -1.5rem !important; /* Empuja la imagen hacia la derecha hasta el borde */
+          margin-top: 2rem !important;
+          margin-bottom: 2rem !important;
+          display: block !important;
+      }
+
+      .text-column :global(.post-img-box img),
+      .text-column :global(.img-derecha img),
+      .text-column :global(.img-izquierda img) {
+          width: 100% !important;
+          height: auto !important;
+          margin: 0 auto !important;
+          border-radius: 0 !important;
+      }
+  }
+
+  /* Limpiar los flotantes al final para no romper el layout */
+  .text-column::after {
+      content: "";
+      display: table;
+      clear: both;
+  }
+
+  /* ============================================================
+     IMAGEN DE PORTADA DE BORDE A BORDE EN CELULARES
+     ============================================================ */
+  @media (max-width: 768px) {
+      .article-view .post-banner {
+          width: calc(100% + 3rem) !important;
+          max-width: calc(100% + 3rem) !important;
+          margin-left: -1.5rem !important;
+          margin-right: -1.5rem !important;
+      }
+      
+      .article-view .post-banner img {
+          border-radius: 0 !important; /* Le sacamos las puntas redondeadas para que encaje perfecto en los bordes de la pantalla */
+      }
+  }
+
 </style>

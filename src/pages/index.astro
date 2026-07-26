@@ -1,6 +1,8 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import Hero from '../components/Hero.astro'; // <-- IMPORTANTE: Importamos el Hero
+import Hero from '../components/Hero.astro'; 
+
+const currentLang = Astro.currentLocale || 'es';
 
 const posts = import.meta.glob('./diario/*.md', { eager: true });
 const allPosts = Object.values(posts);
@@ -26,85 +28,424 @@ if (featuredPosts.length < 3) {
 description="Bitácora de viaje, información útil y vida local alrededor del mundo. Acompañanos a descubrir nuevos destinos a través de nuestras crónicas y guías."
 isTransparentHeader={true}>
 
-    <!-- COMPONENTE HERO -->
-    <Hero 
-    title="Conociendo <br class='block md:hidden' /> otros mundos"
-    description="Crónicas, guías y fotografías de nuestros viajes."
-    bgImage="/img/diario/UBUD3.webp"
-    loading="eager" 
-    fetchpriority="high"
-    />
+    <!-- HERO PERSONALIZADO PARA EL INICIO -->
+    <section class="hero-inicio" style="background-image: url('/img/diario/UBUD3.webp');">
+        <div class="hero-overlay"></div>
+        
+        <div class="hero-contenido-interno relative z-10">
+            <span class="hero-badge">Diario de viajes, slow travel & nomadismo digital</span>
+            <h1 class="hero-title">Conociendo otros mundos a ritmo lento</h1>
+            <p class="hero-subtitle">
+                Guías reales y presupuestos transparentes para viajar con respeto cultural, trabajar en el camino y habitar los territorios a tu propio ritmo.
+            </p>
+            <div class="hero-actions">
+                <a href="#destinos" class="btn-primary">Explorar Destinos</a>
+                <a href="#quienes-somos" class="btn-secondary">Conocer la historia</a>
+            </div>
+        </div>
+    </section>
 
     <!-- CONTENIDO PRINCIPAL -->
     <main class="container mx-auto px-4 pt-16">
         
-        <div style="display: flex; align-items: center; margin-bottom: 3rem; border-bottom: 1px solid #eee; padding-bottom: 1rem;">
-            <h2 style="margin: 0; font-size: 1.5rem; font-weight: normal; letter-spacing: 0.05em; text-transform: uppercase; color: var(--text-color, #333);"></h2>
-        </div>
+        <!-- NUEVA SECCIÓN: DESTINOS 
+        <section id="destinos" class="section-container">
+            <div class="section-header">
+                <h2 class="section-title">¿Qué estás planificando?</h2>
+                <p class="section-subtitle">Acceso directo a las carpetas y rutas principales del blog</p>
+            </div>
 
-        <div id="grilla-portada-segura">
-            {featuredPosts.map((post: any) => (
-                <article class="tarjeta-portada reveal visible">
-                    
-                    {post.frontmatter.main_image && (
-                        <img 
-                            src={post.frontmatter.main_image} 
-                            alt={`Portada de ${post.frontmatter.title}`} 
-                            class="img-portada"
-                        />
-                    )}
+            <div class="categories-grid">
+                <a href="/diario" class="category-card hover-verde">
+                    <div>
+                        <div class="card-icon">🌴</div>
+                        <h3>Guías de Bali</h3>
+                        <p>Slow travel, esnórquel en Amed, la verdad sobre la cultura en Ubud y presupuestos reales para nomadas digitales.</p>
+                    </div>
+                    <span class="card-link">Ver guías de Bali &rarr;</span>
+                </a>
 
-                    <div class="meta-portada">
-                        {post.frontmatter.tag && (
-                            <span class="journal-tag" data-tag={post.frontmatter.tag.toLowerCase()}>
-                                {post.frontmatter.tag}
-                            </span>
+                <a href="/diario" class="category-card hover-verde">
+                    <div>
+                        <div class="card-icon">💻</div>
+                        <h3>Nomadismo Digital & Guías</h3>
+                        <p>Costo de vida, alquileres, trabajo remoto, presupuesto honesto y consejos de adaptación en distintos destinos.</p>
+                    </div>
+                    <span class="card-link">Ver guías nómadas &rarr;</span>
+                </a>
+
+                <a href="/diario" class="category-card hover-verde">
+                    <div>
+                        <div class="card-icon">📜</div>
+                        <h3>Cultura y Reflexiones</h3>
+                        <p>Ensayos sobre vida en comunidad, tradiciones locales, resiliencia y el valor del encuentro en el camino.</p>
+                    </div>
+                    <span class="card-link">Leer crónicas &rarr;</span>
+                </a>
+            </div>
+        </section>-->
+
+        <!-- SECCIÓN: GRILLA DINÁMICA DE POSTS -->
+        <section id="guias" class="section-container">
+            <div class="section-header">
+                <h2 class="section-title">Por dónde empezar</h2>
+                <p class="section-subtitle">Nuestras guías más leídas y detalladas para organizar tu ruta</p>
+            </div>
+
+            <div id="grilla-portada-segura">
+                {featuredPosts.map((post: any) => (
+                    <article class="tarjeta-portada reveal visible">
+                        
+                        {post.frontmatter.main_image && (
+                            <img 
+                                src={post.frontmatter.main_image} 
+                                alt={`Portada de ${post.frontmatter.title}`} 
+                                class="img-portada"
+                            />
                         )}
-                        <span class="journal-date">
-                            {new Date(post.frontmatter.date).toLocaleDateString('es-ES', { day: '2-digit', month: 'long', year: 'numeric' }).toUpperCase()}
-                        </span>
-                    </div>
-                    
-                    <h3 class="titulo-portada">
-                        <a href={post.url} class="hover-verde">
-                            {post.frontmatter.title}
-                        </a>
-                    </h3>
-                    
-                    <p class="desc-portada">
-                        {post.frontmatter.description || "Nueva entrada en nuestro diario de viaje..."}
+
+                        <div class="meta-portada">
+                            {post.frontmatter.tag && (
+                                <span class="journal-tag" data-tag={post.frontmatter.tag.toLowerCase()}>
+                                    {post.frontmatter.tag}
+                                </span>
+                            )}
+                            <span class="journal-date">
+                                {new Date(post.frontmatter.date).toLocaleDateString(currentLang === 'es' ? 'es-ES' : 'en-US', { day: '2-digit', month: 'long', year: 'numeric' }).toUpperCase()}
+                            </span>
+                        </div>
+                        
+                        <h3 class="titulo-portada">
+                            <a href={post.url} class="hover-verde">
+                                {post.frontmatter.title}
+                            </a>
+                        </h3>
+                        
+                        <p class="desc-portada">
+                            {post.frontmatter.description || "Nueva entrada en nuestro diario de viaje..."}
+                        </p>
+
+                        <div class="btn-leer-mas-portada">
+                            <a href={post.url} class="hover-verde">
+                                Leer más &rarr;
+                            </a>
+                        </div>
+                        
+                    </article>
+                ))}
+            </div>
+
+            <div style="text-align: center; margin-top: 4rem;">
+                <a href="/diario" class="btn-ver-mas-global">
+                    Ver más
+                </a>
+            </div>
+        </section>
+
+        <!-- SECCIÓN: QUIÉNES SOMOS -->
+        <section id="quienes-somos" class="about-section">
+            <div class="about-container">
+                <div class="about-image-box">
+                    <img src="/img/nosotros.webp" alt="Creadores de Blogcito viajando" class="about-avatar" onerror="this.src='https://placehold.co/400x400/006d77/ffffff?text=Blogcito'">
+                    <span class="about-badge">Viajeros & Creadores Nómadas</span>
+                </div>
+                <div class="about-content">
+                    <h2 class="section-title">Detrás de Blogcito</h2>
+                    <p style="margin-bottom: 1.5rem; line-height: 1.8; color: #555;">
+                        Viajamos lento, habitamos los lugares y escribimos guías reales para que planifiques tu viaje con presupuesto honesto y respeto cultural. Más que coleccionar atracciones, nos interesa conectar con la gente, los territorios y sus costumbres, aprendiendo a partir de esa convivencia.
                     </p>
+                    <p style="line-height: 1.8; color: #555;">
+                        Creamos este espacio para responder las preguntas que todos nos hacemos antes de salir: cuánto cuesta realmente vivir en un lugar, cómo adaptarnos a la cultura local y cómo equilibrar el trabajo remoto con un viaje consciente. Sin contenido patrocinado engañoso: solo datos prácticos sobre alquileres, costos reales, estilo de vida nómada y crónicas desde el camino para darte herramientas claras que te ayuden a armar tu propio viaje, a tu ritmo.
+                    </p>
+                </div>
+            </div>
+        </section>
 
-                    <div class="btn-leer-mas-portada">
-                        <a href={post.url} class="hover-verde">
-                            Leer más &rarr;
-                        </a>
-                    </div>
-                    
-                </article>
-            ))}
-        </div>
+        <!-- SECCIÓN: COMUNIDAD Y RECURSOS (GRID UNIFICADO) -->
+        <section class="support-section">
+            <div class="section-header">
+                <h2 class="section-title">Sé parte del proyecto</h2>
+                <p class="section-subtitle">Distintas formas de apoyar nuestro trabajo y hacer crecer Blogcito</p>
+            </div>
 
-        <div style="text-align: center; margin-top: 4rem; margin-bottom: 5rem;">
-            <a href="/diario" class="btn-ver-mas-global">
-                Ver más
-            </a>
-        </div>
+            <div class="support-grid">
+                
+                <!-- Tarjeta 1: Ko-fi -->
+                <div class="support-card">
+                    <div class="support-icon">☕</div>
+                    <h3>Invitamos un café</h3>
+                    <p>Mantenemos el blog libre de anuncios molestos. Si nuestras guías te ayudaron, podés apoyarnos con un café virtual.</p>
+                    <a href="https://ko-fi.com/blogcito" target="_blank" class="support-btn btn-kofi">
+                        Apoyar en Ko-fi
+                    </a>
+                </div>
+
+                <!-- Tarjeta 2: Referidos / Afiliados -->
+                <div class="support-card">
+                    <div class="support-icon">🎒</div>
+                    <h3>Recursos y descuentos</h3>
+                    <p>Viajá seguro y optimizá tu presupuesto usando las mismas plataformas, seguros y herramientas que utilizamos nosotros.</p>
+                    <a href="#" class="support-btn btn-recursos">
+                        Ver nuestros descuentos
+                    </a>
+                </div>
+
+                <!-- Tarjeta 3: Media Kit -->
+                <div class="support-card">
+                    <div class="support-icon">💼</div>
+                    <h3>Trabajemos juntos</h3>
+                    <p>Conocé nuestro Media Kit, las métricas del blog y cómo podemos colaborar para darle visibilidad a tu marca o proyecto.</p>
+                    <a href="/colab" class="support-btn btn-colab">
+                        Ver opciones
+                    </a>
+                </div>
+
+            </div>
+        </section>
+        
     </main>
 </Layout>
 
 <style is:global>
 
     /* ============================================================
-        CONTENEDOR PARA TARJETAS MÁS ANCHAS
+        ESTILOS GENERALES Y CONTENEDOR
        ============================================================ */
     main.container {
         max-width: 1200px !important;
     }
+
+    .section-container {
+        margin-bottom: 7rem;
+    }
+
+    .section-header {
+        text-align: center;
+        margin-bottom: 3.5rem;
+        border-bottom: 1px solid #eee;
+        padding-bottom: 1.5rem;
+    }
+
+    .section-title {
+        font-family: var(--font-display);
+        font-size: 2.2rem;
+        font-weight: normal;
+        color: var(--text-color, #333);
+        margin-bottom: 0.5rem;
+    }
+
+    .section-subtitle {
+        color: #777;
+        font-size: 1.05rem;
+        letter-spacing: 0.02em;
+    }
+
     /* ============================================================
-       ESTILOS EXCLUSIVOS DE LA PORTADA (Aislados de Layout.astro)
+       ESTILOS DEL HERO PRINCIPAL
        ============================================================ */
-    
+    .hero-inicio {
+        position: relative;
+        width: 100%;
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        text-align: center;
+        padding: 2rem;
+        margin-top: -120px; /* Sube la imagen para que pase por debajo del header transparente */
+        padding-top: 120px; 
+    }
+
+    .hero-overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.45); /* Oscurece la foto para resaltar el texto */
+        z-index: 1;
+    }
+
+    .hero-contenido-interno {
+        position: relative;
+        z-index: 2;
+        max-width: 800px;
+        color: #ffffff;
+    }
+
+    .hero-badge {
+        display: inline-block;
+        background-color: rgba(255, 255, 255, 0.15);
+        backdrop-filter: blur(4px);
+        padding: 6px 18px;
+        border-radius: 20px;
+        font-size: 0.75rem;
+        text-transform: uppercase;
+        letter-spacing: 0.1em;
+        margin-bottom: 2rem;
+        border: 1px solid rgba(255, 255, 255, 0.3);
+        font-weight: 500;
+    }
+
+    .hero-inicio .hero-title {
+        font-family: var(--font-display);
+        font-size: 3.5rem;
+        line-height: 1.1;
+        margin-bottom: 1.5rem;
+        font-weight: normal;
+        text-shadow: 0 2px 10px rgba(0,0,0,0.4);
+    }
+
+    .hero-inicio .hero-subtitle {
+        font-size: 1.15rem;
+        line-height: 1.6;
+        margin-bottom: 3rem;
+        text-shadow: 0 1px 5px rgba(0,0,0,0.6);
+        color: #f4f1ea;
+    }
+
+    .hero-actions {
+        display: flex;
+        gap: 1.5rem;
+        justify-content: center;
+    }
+
+    .btn-primary {
+        background-color: #006d77;
+        color: #ffffff;
+        padding: 14px 32px;
+        border-radius: 8px;
+        text-decoration: none;
+        font-weight: bold;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        font-size: 0.9rem;
+        transition: all 0.3s ease;
+        border: 1px solid #006d77;
+    }
+
+    .btn-primary:hover {
+        background-color: #005a62;
+        transform: translateY(-2px);
+    }
+
+    .btn-secondary {
+        background-color: transparent;
+        color: #ffffff;
+        padding: 14px 32px;
+        border-radius: 8px;
+        text-decoration: none;
+        font-weight: bold;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        font-size: 0.9rem;
+        border: 1px solid #ffffff;
+        transition: all 0.3s ease;
+    }
+
+    .btn-secondary:hover {
+        background-color: #ffffff;
+        color: #333333;
+    }
+
+    @media (max-width: 768px) {
+        .hero-inicio {
+            min-height: 100vh !important;
+            margin-top: 0 !important; /* MAGIA: Anula el margen negativo que tiraba todo al techo */
+            padding: 130px 1.5rem 3rem 1.5rem !important; /* Espacio real desde el tope de la pantalla */
+            align-items: flex-start !important; /* Obliga al texto a respetar el padding superior */
+            margin-bottom: 2rem !important;
+        }
+
+        .hero-contenido-interno {
+            width: 100% !important;
+            margin-top: 2rem !important; /* Un respiro extra exclusivo para separar del logo */
+        }
+        
+        .hero-badge {
+            font-size: 0.7rem !important;
+            margin-bottom: 1.5rem !important;
+        }
+
+        .hero-inicio .hero-title {
+            font-size: 2.2rem !important;
+            margin-bottom: 1rem !important;
+        }
+
+        .hero-inicio .hero-subtitle {
+            font-size: 1.05rem !important;
+            margin-bottom: 2rem !important;
+        }
+
+        .hero-actions {
+            flex-direction: column;
+            gap: 1rem;
+        }
+        
+        .btn-primary, .btn-secondary {
+            width: 100%;
+        }
+    }
+
+    /* ============================================================
+       ESTILOS DE DESTINOS
+       ============================================================ */
+    .categories-grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 2rem;
+    }
+
+    .category-card {
+        background-color: #ffffff;
+        padding: 2.5rem 2rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        box-shadow: 0 4px 10px rgba(0,0,0,0.03);
+        text-decoration: none;
+        color: inherit;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        height: 100%;
+    }
+
+    .category-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 10px 20px rgba(0,0,0,0.06);
+    }
+
+    .card-icon {
+        font-size: 2.5rem;
+        margin-bottom: 1rem;
+    }
+
+    .category-card h3 {
+        font-family: var(--font-display);
+        font-size: 1.4rem;
+        margin-bottom: 1rem;
+        color: var(--text-color);
+    }
+
+    .category-card p {
+        font-size: 0.95rem;
+        color: #555;
+        line-height: 1.6;
+        margin-bottom: 2rem;
+    }
+
+    .card-link {
+        font-size: 0.85rem;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        font-weight: bold;
+    }
+
+    /* ============================================================
+       ESTILOS EXCLUSIVOS DE LA PORTADA
+       ============================================================ */
     #grilla-portada-segura {
         display: grid !important;
         grid-template-columns: repeat(3, 1fr) !important;
@@ -119,11 +460,9 @@ isTransparentHeader={true}>
         height: 100% !important;
         min-width: 0 !important; 
         margin: 0 !important;
-        padding: 0 !important; /* Se mantiene en 0 para que la foto toque los bordes superior y lateral */
+        padding: 0 !important; 
         border: none !important;
         max-width: 100% !important;
-        
-        /* ESTILOS EDITORIALES: Fondo blanco, bordes rectos y sombra sutil */
         background-color: #ffffff !important;
         border-radius: 0 !important; 
         box-shadow: 0 4px 10px rgba(0,0,0,0.03) !important; 
@@ -134,13 +473,10 @@ isTransparentHeader={true}>
         height: 220px !important;
         object-fit: cover !important;
         display: block !important;
-        
-        /* Bordes rectos para la imagen */
         border-radius: 0 !important; 
         margin-bottom: 1.5rem !important;
     }
 
-    /* Padding interno para que los textos respiren dentro de la caja blanca */
     .meta-portada,
     .titulo-portada,
     .desc-portada,
@@ -156,7 +492,6 @@ isTransparentHeader={true}>
     
     .desc-portada { flex-grow: 1; margin-bottom: 1.5rem; line-height: 1.6; font-size: 0.95rem; color: #555; }
     
-    /* Padding inferior al botón para cerrar la caja blanca con buen espacio */
     .btn-leer-mas-portada { margin-top: auto; padding-bottom: 2rem !important; }
     .btn-leer-mas-portada a { display: inline-block; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--text-color, #333); text-decoration: none; font-weight: 500; transition: color 0.3s ease; }
 
@@ -173,20 +508,210 @@ isTransparentHeader={true}>
         transition: all 0.3s ease;
     }
     .btn-ver-mas-global:hover {
-        background-color: #006d77 !important; /* Fondo verde esmeralda */
-        border-color: #006d77 !important;     /* Borde verde esmeralda */
-        color: #ffffff !important;            /* Texto blanco */
+        background-color: #006d77 !important; 
+        border-color: #006d77 !important;     
+        color: #ffffff !important;            
     }
-    
-    /* MODO CELULAR (Pasa a 1 columna automáticamente) */
+
+    /* ============================================================
+       ESTILOS DE QUIÉNES SOMOS Y COMUNIDAD
+       ============================================================ */
+    .about-section {
+        background-color: #ffffff;
+        padding: 4rem;
+        box-shadow: 0 4px 10px rgba(0,0,0,0.03);
+        margin-bottom: 7rem;
+    }
+
+    .about-container {
+        display: grid;
+        grid-template-columns: 1fr 2fr;
+        gap: 4rem;
+        align-items: center;
+    }
+
+    .about-image-box {
+        position: relative;
+        text-align: center;
+    }
+
+    .about-avatar {
+        width: 100%;
+        max-width: 300px;
+        height: auto;
+        border-radius: 8px;
+        object-fit: cover;
+    }
+
+    .about-badge {
+        position: absolute;
+        bottom: -15px;
+        left: 50%;
+        transform: translateX(-50%);
+        background-color: #006d77;
+        color: white;
+        padding: 6px 16px;
+        font-size: 0.75rem;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        white-space: nowrap;
+        border-radius: 20px;
+    }
+
+    .community-banner {
+        background-color: #faf8f5;
+        padding: 5rem 2rem;
+        text-align: center;
+        border-top: 1px solid #eee;
+        border-bottom: 1px solid #eee;
+        margin-bottom: 2rem;
+    }
+
+    .btn-kofi {
+        display: inline-block;
+        background-color: #323842;
+        color: #ffffff;
+        padding: 14px 28px;
+        border-radius: 8px;
+        font-weight: bold;
+        text-decoration: none;
+        transition: opacity 0.3s ease;
+    }
+
+    .btn-kofi:hover {
+        opacity: 0.8;
+    }
+
+    /* ============================================================
+       RESPONSIVE DESIGN (MÓVILES)
+       ============================================================ */
     @media (max-width: 800px) {
-        #grilla-portada-segura {
+        #grilla-portada-segura,
+        .categories-grid {
             grid-template-columns: 1fr !important;
-            gap: 4rem !important;
+            gap: 3rem !important;
         }
+        
         .img-portada {
             height: auto !important;
             max-height: 350px !important;
         }
+
+        .about-container {
+            grid-template-columns: 1fr;
+            gap: 3rem;
+            text-align: center;
+        }
+
+        .about-section {
+            padding: 2.5rem 1.5rem;
+        }
+
+        .banner-trabajo {
+            background-color: #f4f1ea;
+            padding: 4rem 2rem;
+            text-align: center;
+            border-radius: 12px;
+            margin: 4rem auto 7rem auto;
+            max-width: 900px;
+            border: 1px solid #e6e2da;
+        }}
+
+        /* ============================================================
+       ESTILOS DE LA GRILLA DE APOYO Y RECURSOS
+       ============================================================ */
+    .support-section {
+        padding: 4rem 0 6rem 0;
+        border-top: 1px solid #eee; /* Una línea sutil para separarlo del contenido anterior */
     }
+
+    .support-grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 2rem;
+        margin-top: 3rem;
+    }
+
+    .support-card {
+        background-color: #ffffff;
+        padding: 2.5rem 2rem;
+        border-radius: 12px;
+        text-align: center;
+        box-shadow: 0 4px 15px rgba(0,0,0,0.03);
+        border: 1px solid #f0f0f0;
+        display: flex;
+        flex-direction: column;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .support-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 10px 25px rgba(0,0,0,0.06);
+    }
+
+    .support-icon {
+        font-size: 2.5rem;
+        margin-bottom: 1rem;
+    }
+
+    .support-card h3 {
+        font-family: var(--font-display);
+        font-size: 1.5rem;
+        margin-bottom: 1rem;
+        color: var(--text-color, #333);
+        font-weight: normal;
+    }
+
+    .support-card p {
+        font-size: 0.95rem;
+        color: #666;
+        line-height: 1.6;
+        margin-bottom: 2rem;
+        flex-grow: 1; /* Esto hace que el botón siempre quede pegado abajo sin importar cuánto texto haya */
+    }
+
+    .support-btn {
+        display: inline-block;
+        padding: 12px 24px;
+        border-radius: 8px;
+        text-decoration: none;
+        font-weight: 600;
+        font-size: 0.85rem;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        transition: all 0.3s ease;
+        width: 100%;
+    }
+
+    /* Colores personalizados para cada botón */
+    .btn-kofi {
+        background-color: #323842;
+        color: #ffffff;
+        border: 1px solid #323842;
+    }
+    .btn-kofi:hover { background-color: #1a1e24; color: #ffffff; }
+
+    .btn-recursos {
+        background-color: transparent;
+        color: #006d77;
+        border: 1px solid #006d77;
+    }
+    .btn-recursos:hover { background-color: #006d77; color: #ffffff; }
+
+    .btn-colab {
+        background-color: #006d77;
+        color: #ffffff;
+        border: 1px solid #006d77;
+    }
+    .btn-colab:hover { background-color: #005a62; border-color: #005a62; color: #ffffff;}
+
+    /* Adaptación para pantallas chicas */
+    @media (max-width: 850px) {
+        .support-grid {
+            grid-template-columns: 1fr;
+            gap: 2rem;
+            padding: 0 1rem;
+        }
+    }
+    
 </style>

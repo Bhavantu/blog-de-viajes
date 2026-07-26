@@ -1,6 +1,8 @@
 ---
 import '../styles/global.css';
 import Header from '../components/Header.astro';
+import { ui } from '../i18n/ui.js';
+import { getRelativeLocaleUrl } from 'astro:i18n';
 
 interface Props {
     title: string;
@@ -17,14 +19,19 @@ const searchData = Object.values(posts).map((post: any) => ({
 }));
 
 /* 2. Acá recibimos la variable y le damos "false" por defecto */
-const { title, description, isTransparentHeader = false } = Astro.props; 
+const { title, description, isTransparentHeader = false } = Astro.props;
 
 const metaDescription = description || "BLOGCITO - Bitácora de viaje, información útil y vida local alrededor del mundo.";
 
 const isGaleria = Astro.url.pathname.includes('/galeria');
+
+const currentLang = Astro.currentLocale || 'es';
+
+// Inyectamos el diccionario
+const t = ui[currentLang as keyof typeof ui];
 ---
 <!doctype html>
-<html lang="es">
+<html lang={currentLang}>
     <head>
         <meta charset="UTF-8" />
 
@@ -541,26 +548,29 @@ const isGaleria = Astro.url.pathname.includes('/galeria');
         </script>
         
         <footer>
-            <p>&copy; 2026 BLOGCITO. Todos los derechos reservados.</p>
+            <p>&copy; 2026 BLOGCITO. {t['footer.derechos']}</p>
+            <p style="max-width: 650px; margin: 1.2rem auto; font-size: 0.8rem; line-height: 1.5; color: #555555; text-align: center;">
+            {t['footer.afiliados']}
+            </p>
             <div style="margin-top: 10px; font-size: 0.9em;">
-                <a href="/politica-de-privacidad" style="margin-right: 15px;">Política de Privacidad</a>
-                <a href="/contacto">Contacto</a>
+                <a href={getRelativeLocaleUrl(currentLang, 'politica-de-privacidad')} style="margin-right: 15px;">{t['footer.privacidad']}</a>
+                <a href={getRelativeLocaleUrl(currentLang, 'contacto')}>{t['footer.contacto']}</a>
             </div>
         </footer>
 
         <div id="search-modal" class="search-modal">
-        <div class="search-container">
-            <div class="search-header">
-                <input type="text" id="search-input" placeholder="Buscar palabras clave, destinos..." autocomplete="off" />
-                <button id="close-search">✕</button>
-            </div>
-            <div id="search-results">
-                <p style="color:#777; font-size:0.9rem;">Escribí al menos 2 letras para buscar...</p>
+            <div class="search-container">
+                <div class="search-header">
+                    <input type="text" id="search-input" placeholder={t['search.placeholder']} autocomplete="off" />
+                    <button id="close-search">✕</button>
+                </div>
+                <div id="search-results">
+                    <p style="color:#777; font-size:0.9rem;">{t['search.short']}</p>
+                </div>
             </div>
         </div>
-    </div>
 
-    <script define:vars={{ searchData }}>
+        <script define:vars={{ searchData, msgShort: t['search.short'], msgEmpty: t['search.empty'] }}>        
         document.addEventListener('DOMContentLoaded', () => {
             const btnsBuscar = document.querySelectorAll('.btn-buscar');
             const modal = document.getElementById('search-modal');
@@ -583,12 +593,12 @@ const isGaleria = Astro.url.pathname.includes('/galeria');
                 if (e.target === modal) modal.classList.remove('active');
             });
 
-            // Filtrar resultados en tiempo real
+           // Filtrar resultados en tiempo real
             input.addEventListener('input', (e) => {
                 const query = e.target.value.toLowerCase();
                 
                 if (query.length < 2) {
-                    results.innerHTML = '<p style="color:#777; font-size:0.9rem;">Escribí al menos 2 letras para buscar...</p>';
+                    results.innerHTML = `<p style="color:#777; font-size:0.9rem;">${msgShort}</p>`;
                     return;
                 }
 
@@ -600,7 +610,7 @@ const isGaleria = Astro.url.pathname.includes('/galeria');
                 );
 
                 if (filtered.length === 0) {
-                    results.innerHTML = '<p style="color:#777;">No encontramos artículos con esa palabra.</p>';
+                    results.innerHTML = `<p style="color:#777;">${msgEmpty}</p>`;
                     return;
                 }
 
@@ -614,11 +624,9 @@ const isGaleria = Astro.url.pathname.includes('/galeria');
         });
     </script>
     <div id="cookie-banner" class="cookie-banner">
-  <p>
-    Usamos cookies para mejorar tu experiencia en nuestro diario de viaje y analizar el tráfico. Al continuar navegando, aceptás nuestro uso de cookies.
-  </p>
-  <button id="accept-cookies" class="cookie-btn">Aceptar y cerrar</button>
-</div>
+        <p>{t['cookies.text']}</p>
+        <button id="accept-cookies" class="cookie-btn">{t['cookies.btn']}</button>
+    </div>
 
 <style>
   .cookie-banner {

@@ -1,5 +1,4 @@
 ---
-destacado: true
 layout: ../../layouts/BlogPostLayout.astro
 title: Vivir con Working Holiday Visa en la ciudad de Christchurch Nueva Zelanda
 date: 2026-05-30T14:55:00.000+12:00

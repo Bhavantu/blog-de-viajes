@@ -1,5 +1,4 @@
 ---
-destacado: true
 layout: ../../layouts/BlogPostLayout.astro
 title: ¿Qué es Aotearoa? Historia y cultura maorí en Nueva Zelanda
 date: 2026-04-27T13:22:00.000+12:00

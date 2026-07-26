@@ -1,5 +1,4 @@
 ---
-destacado: true
 layout: ../../layouts/BlogPostLayout.astro
 title: ¿Dónde vivir en la Isla Sur de Nueva Zelanda? Comparativa de ciudades
 date: 2026-05-08T13:10:00.000+12:00

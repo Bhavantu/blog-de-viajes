@@ -1,4 +1,5 @@
 ---
+destacado: true
 layout: ../../layouts/BlogPostLayout.astro
 title: "El alma de Bali: Rituales, la familia y el secreto de la felicidad balinesa"
 date: 2026-07-21T23:40:00.000+08:00

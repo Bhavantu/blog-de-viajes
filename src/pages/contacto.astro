@@ -2,17 +2,163 @@
 import Layout from '../layouts/Layout.astro';
 ---
 
-<Layout title="Contacto - BLOGCITO" description="¿Tenés alguna duda sobre un destino, propuesta o querés saludarnos? Escribinos directamente a través de nuestro formulario de contacto. ¡Nos encanta leerte!">
-    <main class="container" style="max-width: 800px; margin: 0 auto; padding: 2rem 1rem; text-align: center;">
-        <h2>Hablemos</h2>
-        <p style="margin-bottom: 2rem;">¿Tenés alguna duda sobre nuestras rutas, sugerencias para el blog o consultas comerciales? br Nos encantaría leerte.</p>
+<Layout title="Contacto - BLOGCITO" description="¿Tenés alguna duda sobre un destino, propuesta o querés saludarnos? Escribinos directamente. ¡Nos encanta leerte!">
+    <main class="container-contacto">
         
-        <div style="background-color: #f4f4f4; padding: 2rem; border-radius: 8px;">
-            <h3>Escribinos directamente</h3>
-            <p>Puedes enviarnos un correo electrónico y te responderemos lo antes posible:</p>
-            <a href="mailto:lorenagonzalez.contenidodigital@gmail.com" style="display: inline-block; background-color: #333; color: #fff; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin-top: 1rem;">
-                Enviar un correo
-            </a>
+        <div class="contacto-card">
+            <span class="contacto-badge">Contacto</span>
+            <h1 class="contacto-title">Charlemos</h1>
+            
+            <p class="contacto-text">
+                El viaje se nutre de los encuentros, y aunque ahora estemos del otro lado de la pantalla, nos encanta leerte. Si tenés alguna duda sobre nuestros itinerarios, necesitás un consejo para organizar tu propia ruta, o simplemente querés pasar a saludar, nuestra bandeja de entrada siempre está abierta.
+            </p>
+
+            <div class="contacto-action">
+                <p style="margin-bottom: 1.2rem; font-weight: 500; color: #333;">Escribinos directamente a nuestro correo:</p>
+                <a href="mailto:lorenagonzalez.contenidodigital@gmail.com" class="btn-primary">
+                    Enviar un mensaje &rarr;
+                </a>
+            </div>
+
+            <hr class="contacto-divider" />
+
+            <div class="contacto-marcas">
+                <h3 class="marcas-title">¿Sos una marca o alojamiento?</h3>
+                <p class="marcas-text">
+                    Si representás a un proyecto turístico, marca o agencia y te interesa proponernos una acción comercial, te invitamos a conocer nuestras métricas y formatos de trabajo.
+                </p>
+                <a href="/colab" class="link-marcas">
+                    Ver página de colaboraciones &rarr;
+                </a>
+            </div>
         </div>
+
     </main>
 </Layout>
+
+<style is:global>
+    .container-contacto {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 4rem 1.5rem 8rem 1.5rem;
+    }
+
+    .contacto-card {
+        background-color: #ffffff;
+        padding: 4rem;
+        border-radius: 12px;
+        text-align: center;
+        box-shadow: 0 4px 20px rgba(0,0,0,0.03);
+        border: 1px solid #eaeaea;
+    }
+
+    .contacto-badge {
+        display: inline-block;
+        background-color: #f4f1ea;
+        color: #006d77;
+        padding: 6px 14px;
+        font-size: 0.75rem;
+        text-transform: uppercase;
+        letter-spacing: 0.1em;
+        font-weight: 600;
+        border-radius: 4px;
+        margin-bottom: 1.5rem;
+    }
+
+    .contacto-title {
+        font-family: var(--font-display);
+        font-size: 3rem;
+        font-weight: normal;
+        color: var(--text-color, #333);
+        margin-bottom: 1.5rem;
+    }
+
+    .contacto-text {
+        font-size: 1.1rem;
+        line-height: 1.7;
+        color: #555;
+        margin-bottom: 3rem;
+        max-width: 600px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .contacto-action {
+        background-color: #faf8f5;
+        padding: 2.5rem;
+        border-radius: 8px;
+        border: 1px solid #f0ece1;
+        margin-bottom: 3rem;
+    }
+
+    .btn-primary {
+        display: inline-block;
+        background-color: #006d77;
+        color: #ffffff;
+        padding: 14px 32px;
+        border-radius: 8px;
+        text-decoration: none;
+        font-weight: bold;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        font-size: 0.9rem;
+        transition: all 0.3s ease;
+        border: 1px solid #006d77;
+    }
+
+    .btn-primary:hover {
+        background-color: #005a62;
+        transform: translateY(-2px);
+        color: #ffffff;
+    }
+
+    .contacto-divider {
+        border: 0;
+        height: 1px;
+        background-color: #eee;
+        margin: 0 0 3rem 0;
+    }
+
+    .contacto-marcas {
+        text-align: center;
+        max-width: 550px;
+        margin: 0 auto;
+    }
+
+    .marcas-title {
+        font-family: var(--font-display);
+        font-size: 1.4rem;
+        color: #333;
+        margin-bottom: 0.8rem;
+    }
+
+    .marcas-text {
+        font-size: 0.95rem;
+        color: #666;
+        line-height: 1.6;
+        margin-bottom: 1.2rem;
+    }
+
+    .link-marcas {
+        color: #006d77;
+        font-weight: 600;
+        font-size: 0.95rem;
+        text-decoration: none;
+        transition: opacity 0.3s ease;
+    }
+
+    .link-marcas:hover {
+        opacity: 0.8;
+        text-decoration: underline;
+    }
+
+    @media (max-width: 768px) {
+        .contacto-card {
+            padding: 2.5rem 1.5rem;
+        }
+
+        .contacto-title {
+            font-size: 2.2rem;
+        }
+    }
+</style>

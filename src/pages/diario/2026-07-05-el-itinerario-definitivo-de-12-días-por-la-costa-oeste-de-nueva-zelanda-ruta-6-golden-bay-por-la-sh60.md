@@ -1,4 +1,5 @@
 ---
+destacado: true
 layout: ../../layouts/BlogPostLayout.astro
 title: "Itinerario de 12 días por la Costa Oeste de Nueva Zelanda: Roadtrip de
   Picton a Milford Sound"
