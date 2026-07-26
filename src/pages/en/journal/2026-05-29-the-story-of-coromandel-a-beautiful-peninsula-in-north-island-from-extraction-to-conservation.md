@@ -1,8 +1,7 @@
 ---
 layout: ../../../layouts/BlogPostLayout.astro
-title: >-
-  The story of Coromandel, a beautiful peninsula on North Island: from
-  extraction to conservation
+title: "The story of Coromandel, a beautiful peninsula on North Island: from
+  extraction to conservation"
 date: 2026-05-29T23:41:00.000Z
 tag: contexto y cultura
 pais: Nueva Zelanda

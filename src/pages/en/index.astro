@@ -4,7 +4,7 @@ import Layout from '../../layouts/Layout.astro';
 const currentLang = Astro.currentLocale || 'en';
 
 // Leemos las entradas que estarán en la carpeta de inglés
-const posts = import.meta.glob('./diario/*.md', { eager: true });
+const posts = import.meta.glob('./journal/*.md', { eager: true });
 const allPosts = Object.values(posts);
 
 const sortedPosts = allPosts.sort((a: any, b: any) => {
@@ -147,11 +147,11 @@ if (featuredPosts.length < 3) {
 
                 <!-- Card 2: Resources -->
                 <div class="support-card">
-                    <div class="support-icon">🎒</div>
-                    <h3>Resources & Discounts</h3>
-                    <p>Travel safely and optimize your budget using the exact platforms, travel insurance, and gear we rely on.</p>
-                    <a href="#" class="support-btn btn-recursos">
-                        View discounts
+                    <div class="support-icon">🏠</div>
+                    <h3>Book your stays</h3>
+                    <p style="margin-bottom: 1.5rem; font-size: 0.95rem; color: #555;">Book your accommodation here to support the blog and keep us going.</p>
+                    <a href="https://www.booking.com/" target="_blank" rel="noopener noreferrer" class="support-btn btn-recursos">
+                        Book on Booking.com
                     </a>
                 </div>
 

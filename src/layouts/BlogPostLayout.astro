@@ -9,12 +9,15 @@ const indices = headings ? headings.filter((h: any) => h.depth === 2 || h.depth 
 // Atrapamos el idioma y cargamos las traducciones
 const currentLang = Astro.currentLocale || 'es';
 const t = ui[currentLang as keyof typeof ui];
+
+// Definimos la carpeta de destino según el idioma
+const carpetaDiario = currentLang === 'en' ? 'journal' : 'diario';
 ---
 
 <Layout title={frontmatter.title} description={frontmatter.description}>
     <main class="container">
         <article class="article-view" style="display: block;">
-            <a href={getRelativeLocaleUrl(currentLang, 'diario')} class="back-btn hover-verde">← {t['post.volver']}</a>            
+            <a href={getRelativeLocaleUrl(currentLang, carpetaDiario)} class="back-btn hover-verde">← {t['post.volver']}</a>            
             <header class="article-header reveal visible">
                 {frontmatter.tag && (
                     <span class="journal-tag" data-tag={frontmatter.tag.toLowerCase()}>

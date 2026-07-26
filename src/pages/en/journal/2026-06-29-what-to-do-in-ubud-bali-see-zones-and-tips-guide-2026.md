@@ -129,9 +129,9 @@ To perform this ritual in a respectful and correct manner, it is necessary to ha
   * **Offerings (Canang Sari):** These are small baskets of palm leaves with flowers and incense that are presented before entering the water. They have a cost of approximately **10,000 to 20,000 IDR** (usually facilitated by the guide).
 * **Estimated Total Experience Cost:** Approximately between **200,000 to 250,000 IDR** (around 13-16 USD) for performing a complete and respectful guided purification ceremony, including entries, rentals, and offerings.
 
-A reasonable option that seems to us after our experience, to avoid breaking the mystique of the moment, is to book in advance a *tour that includes everything*. [https://www.getyourguide.com/en-us/bali/l347/bali-visit-to-gunung-kawi-temple-with-purification-ritual-t1141894/?ranking_uuid=12e8c29b-2205-4eb2-ad7e-128b215afda8&q=ritual+of+purification&date_from=2026-07-08&date_to=2026-07-08]
+A reasonable option that seems to us after our experience, to avoid breaking the mystique of the moment, is to book in advance a [tour that includes everything](https://www.getyourguide.com/en-us/bali/l347/bali-visit-to-gunung-kawi-temple-with-purification-ritual-t1141894/?ranking_uuid=12e8c29b-2205-4eb2-ad7e-128b215afda8&q=ritual+of+purification&date_from=2026-07-08&date_to=2026-07-08).
 
-We find interesting *this tour that includes the ritual, entrance fees, additional costs, and you can also get to know Jatiluwih's (less touristy) rice terraces*. [https://www.getyourguide.com/en-us/jatiluwih/l88105/bali-tour-of-jatiluwih-rice-terraces-and-water-purification-t1327978/?ranking_uuid=7a0f57c5-f655-4f07-ba90-7c8c509de41d&q=Rice+Terrace+of+Jatiluwih&date_from=2026-07-08&date_to=2026-07-08]
+We find interesting [this tour that includes the ritual, entrance fees, additional costs, and you can also get to know Jatiluwih's (less touristy) rice terraces](https://www.getyourguide.com/en-us/jatiluwih/l88105/bali-tour-of-jatiluwih-rice-terraces-and-water-purification-t1327978/?ranking_uuid=7a0f57c5-f655-4f07-ba90-7c8c509de41d&q=Rice+Terrace+of+Jatiluwih&date_from=2026-07-08&date_to=2026-07-08).
 
 ## 6. Traditional Dance: The Power of Kecak and the Elegance of Legong
 

@@ -1,58 +1,35 @@
 ---
 destacado: true
 layout: ../../../layouts/BlogPostLayout.astro
-title: >-
-  # 12-Day Itinerary for West Coast New Zealand: Road Trip from Picton to
-  Milford Sound
-
-
-  **Day 1: Picton**
-
-
-  Explore the charming town of Picton, surrounded by the Marlborough Sounds.
-
-
-  **Day 2-3: Kaikoura**
-
-
-  Visit the whale watching capital and take a dolphin swimming tour.
-
-
-  **Day 4-5: Hanmer Springs**
-
-
-  Relax in the natural hot springs and enjoy hiking trails.
-
-
-  **Day 6-7: Franz Josef**
-
-
-  Take a scenic flight over the glaciers, hike to the terminal face, or soak in
-  the hot pools.
-
-
-  **Day 8: Wanaka**
-
-
-  Enjoy water sports on Lake Wānaka or take a wine tour.
-
-
-  **Day 9-10: Milford Sound**
-
-
-  Cruise through the stunning fjords and admire the breathtaking scenery.
+title: "12-Day Itinerary for West Coast New Zealand: Road Trip from Picton to Milford Sound"
 date: 2026-03-06T04:19:00.000Z
 tag: guia de viaje
 pais: Nueva Zelanda
-description: >-
-  # New Zealand Road Trip: West Coast of South Island
-
-  Route 6, New Zealand, South Island's West Coast, camper van itinerary, State
-  Highway 60, what to see in Abel Tasman
+description: "New Zealand Road Trip: West Coast of South Island. Route 6, camper van itinerary, State Highway 60, what to see in Abel Tasman."
 main_image: /img/diario/2.webp
-archivo_original: >-
-  2026-07-05-el-itinerario-definitivo-de-12-días-por-la-costa-oeste-de-nueva-zelanda-ruta-6-golden-bay-por-la-sh60.md
+archivo_original: 2026-07-05-el-itinerario-definitivo-de-12-días-por-la-costa-oeste-de-nueva-zelanda-ruta-6-golden-bay-por-la-sh60.md
 ---
+
+**Day 1: Picton**
+Explore the charming town of Picton, surrounded by the Marlborough Sounds.
+
+**Day 2-3: Kaikoura**
+Visit the whale watching capital and take a dolphin swimming tour.
+
+**Day 4-5: Hanmer Springs**
+Relax in the natural hot springs and enjoy hiking trails.
+
+**Day 6-7: Franz Josef**
+Take a scenic flight over the glaciers, hike to the terminal face, or soak in the hot pools.
+
+**Day 8: Wanaka**
+Enjoy water sports on Lake Wānaka or take a wine tour.
+
+**Day 9-10: Milford Sound**
+Cruise through the stunning fjords and admire the breathtaking scenery.
+
+---
+
 Many of the travelers who come to New Zealand do so with the dream of living an epic *roadtrip*. We're making it happen and today we're sharing the updated information about our journey along the rugged West Coast of South Island.
 
 The backbone of the journey is the mythical Route 6, but we took a detour on the recommendation of a local musician and added the magical Golden Bay peninsula through State Highway 60 (SH60). In this article, you'll find an optimized 12-day route that takes you through golden beaches, prehistoric forests in Abel Tasman National Park, mountain passes with incredible views and glaciers, all the way to Milford Sound, the deepest fiords on the planet.
@@ -142,8 +119,6 @@ Traversing the path towards the south, we arrived at the humid zone of glaciers,
 
 ---
 
-(Note: The original text appears to be empty lines or a separator, so I've kept the translation identical.)
-
 ## 5. Days 7 and 8: Glaciers, Mirror Lakes, and the Haast Pass to Wanaka
 
 Days of transition between the humid tropical jungle and the imposing South Alps.
@@ -194,19 +169,17 @@ The golden brooch. The scenic route that takes you from Te Anau to Milford Sound
 
 ---
 
-(Note: I did not translate this as it appears to be a Markdown code block)
-
 ## 8. Frequently Asked Questions about Route 6 and SH60 (FAQ)
 
 ### Can you do the West Coast of New Zealand without a self-contained campervan?
 
 Yes, it's totally possible. You can rent a conventional car or an uncertified campervan and spend the night in hostels, cabins, or camping at sites with facilities by booking in advance. Another excellent option is to stop over in hotels along the route:
 
-* [Hotels in Nelson](https://www.booking.com/searchresults.en.html?label=milford-sound-attractions-D6Kuaf7TYN8*tM59pAzuIwS717216742695:pl:ta:ap1:ap2:ac:ap:neg:fi:tikwd-2282772141770(lp9227990li:dec:dm:acid21786396167agid172490118841&sid=01fa225dbfad434335484b2f147ddf6b&aid=2427663&ss=Nelson+Nelson+Region+Nueva+Zelanda&ssne=Queenstown&ssne_untouched=Queenstown&lang=en&sb=1&src_elem=sb&dest_id=-1514471&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=en&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=e38a2fa5109a01e3&checkin=2026-12-21&checkout=2026-12-22&group_adults=2&no_rooms=1&group_children=0&order=review_score_and_price)
-* [Hotels near Kaiteriteri Beach](https://www.booking.com/searchresults.en.html?label=milford-sound-attractions-D6Kuaf7TYN8*tM59pAzuIwS717216742695:pl:ta:ap1:ap2:ac:ap:neg:fi:tikwd-2282772141770(lp9227990li:dec:dm:acid21786396167agid172490118841&sid=01fa225dbfad434335484b2f147ddf6b&aid=2427663&ss=kaiteriteri+beach&ssne=Nelson&ssne_untouched=Nelson&lang=en&sb=1&src_elem=sb&dest_id=900051945&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=en&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=949a2fab4e0f04b8&checkin=2026-12-21&checkout=2026-12-22&group_adults=2&no_rooms=1&group_children=0&order=review_score_and_price#map_closed)
-* [Accommodation near Collingwood](https://www.booking.com/searchresults.en.html?ss=Modern+Comfort+in+Collingwood+-+Brand+New+Holiday+Home,+Collingwood,+Tasman+%28Golden+Bay%29,+New+Zealand&ssne=Indonesia&ssne_untouched=Indonesia&label=milford-sound-attractions-D6Kuaf7TYN8*tM59pAzuIwS717216742695:pl:ta:ap1:ap2:ac:ap:neg:fi:tikwd-2282772141770(lp9227990li:dec:dm:acid21786396167agid172490118841&sid=01fa225dbfad434335484b2f147ddf6b&aid=2427663&lang=en&sb=1&src_elem=sb&src=searchresults&dest_id=13181727&dest_type=hotel&ac_position=1&ac_click_type=b&ac_langcode=hu&ac_suggestion_list_length=2&search_selected=true&search_pageview_id=738b3031f5cf03b9&ac_meta=GhA3MzhiMzAzMWY1Y2YwM2I5IAEoATICaHU6FU5ldyZaZWxhbmQgR29sZGVuIEJheQ%3D%3D&checkin=2026-12-21&checkout=2026-12-22&group_adults=2&no_rooms=1&group_children=0)
+* [Hotels in Nelson](https://www.booking.com/searchresults.en.html?label=milford-sound-attractions-D6Kuaf7TYN8*tM59pAzuIwS717216742695:pl:ta:ap1:ap2:ac:ap:neg:fi:tikwd-2282772141770%28lp9227990li:dec:dm:acid21786396167agid172490118841&sid=01fa225dbfad434335484b2f147ddf6b&aid=2427663&ss=Nelson+Nelson+Region+Nueva+Zelanda&ssne=Queenstown&ssne_untouched=Queenstown&lang=en&sb=1&src_elem=sb&dest_id=-1514471&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=en&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=e38a2fa5109a01e3&checkin=2026-12-21&checkout=2026-12-22&group_adults=2&no_rooms=1&group_children=0&order=review_score_and_price)
+* [Hotels near Kaiteriteri Beach](https://www.booking.com/searchresults.en.html?label=milford-sound-attractions-D6Kuaf7TYN8*tM59pAzuIwS717216742695:pl:ta:ap1:ap2:ac:ap:neg:fi:tikwd-2282772141770%28lp9227990li:dec:dm:acid21786396167agid172490118841&sid=01fa225dbfad434335484b2f147ddf6b&aid=2427663&ss=kaiteriteri+beach&ssne=Nelson&ssne_untouched=Nelson&lang=en&sb=1&src_elem=sb&dest_id=900051945&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=en&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=949a2fab4e0f04b8&checkin=2026-12-21&checkout=2026-12-22&group_adults=2&no_rooms=1&group_children=0&order=review_score_and_price#map_closed)
+* [Accommodation near Collingwood](https://www.booking.com/searchresults.en.html?ss=Modern+Comfort+in+Collingwood+-+Brand+New+Holiday+Home,+Collingwood,+Tasman+%28Golden+Bay%29,+New+Zealand&ssne=Indonesia&ssne_untouched=Indonesia&label=milford-sound-attractions-D6Kuaf7TYN8*tM59pAzuIwS717216742695:pl:ta:ap1:ap2:ac:ap:neg:fi:tikwd-2282772141770%28lp9227990li:dec:dm:acid21786396167agid172490118841&sid=01fa225dbfad434335484b2f147ddf6b&aid=2427663&lang=en&sb=1&src_elem=sb&src=searchresults&dest_id=13181727&dest_type=hotel&ac_position=1&ac_click_type=b&ac_langcode=hu&ac_suggestion_list_length=2&search_selected=true&search_pageview_id=738b3031f5cf03b9&ac_meta=GhA3MzhiMzAzMWY1Y2YwM2I5IAEoATICaHU6FU5ldyZaZWxhbmQgR29sZGVuIEJheQ%3D%3D&checkin=2026-12-21&checkout=2026-12-22&group_adults=2&no_rooms=1&group_children=0)
 * [Accommodation near Pancake Rocks (Punakaiki Beach)](https://www.booking.com/searchresults.en.html?ss=Pancake+Rocks&ssne=Pancake+Rocks&ssne_untouched=Pancake+Rocks&efdco=1&label=gog235jc-10CAUorgFCDXBhbmNha2Utcm9ja3SIUlgDaGiIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4AoKHqNIGwAIB0gIkZTFjN2MxMzYtNWQ4Yi00M2IwLThhYWQtZDlkYzBjNGZmZmVi2AIB4AIB&sid=8e7d8ff7effb498a8bee5530ad7f5a6b&aid=356980&lang=en&sb=1&src_elem=sb&src=landmark&dest_id=59007&dest_type=landmark&checkin=2026-12-27&checkout=2026-12-28&group_adults=2&no_rooms=1&group_children=0&sb_lp=1#map_opened)
-* [Accommodation in Wanaka](https://www.booking.com/searchresults.en.html?ss=Wanaka&ssne=Wanaka&ssne_untouched=Wanaka&theme_id=8&efdco=1&label=New_Spanish_ES_ROW_5496343705-IRXF**fXkjlT1Jfkfsb2mAS637942155485:pl:ta:ap1:ap2:ac:ap:neg:fi:tikwd-2282772141770(lp9227990li:dec:dm:acid21786396167agid172490118841&sid=b79c37fc00fe5273ba01510bca8165bb&aid=318615&lang=en&sb=1&src_elem=sb&src=city&dest_id=-1516080&dest_type=city&checkin=2026-12-27&checkout=2026-12-28&group_adults=2&no_rooms=1&group_children=0&sb_lp=1)
+* [Accommodation in Wanaka](https://www.booking.com/searchresults.en.html?ss=Wanaka&ssne=Wanaka&ssne_untouched=Wanaka&theme_id=8&efdco=1&label=New_Spanish_ES_ROW_5496343705-IRXF**fXkjlT1Jfkfsb2mAS637942155485:pl:ta:ap1:ap2:ac:ap:neg:fi:tikwd-2282772141770%28lp9227990li:dec:dm:acid21786396167agid172490118841&sid=b79c37fc00fe5273ba01510bca8165bb&aid=318615&lang=en&sb=1&src_elem=sb&src=city&dest_id=-1516080&dest_type=city&checkin=2026-12-27&checkout=2026-12-28&group_adults=2&no_rooms=1&group_children=0&sb_lp=1)
 * [Hotels in Queenstown](https://www.booking.com/searchresults.en.html?ss=Queenstown&ssne=Queenstown&ssne_untouched=Queenstown)
 
 ### What are the rules of freedom camping in New Zealand?

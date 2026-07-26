@@ -146,13 +146,13 @@ An ancient royal palace surrounded by Balinese gardens and pools of water decora
 * **Parking:** 2,000 IDR for motorcycles and 5,000 IDR for cars (less than $0.50).
 
 ### **Virgin Beach**
-<div class="post-img-box img-pequeño img-right"><img src="[URL not provided]" alt="Image journal"><span class="img-caption">Virgin beach</span></div>
+<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/virgin-beach.webp" alt="Virgin beach"><span class="img-caption">Virgin beach</span></div>
 
 The most epic beach on the island: white sand, turquoise water, pure paradise itself. The entrance costs 20,000 IDR (approx. USD $1.30) and includes parking. From morning until around 3 pm, the water has an incredible turquoise color, the surrounding area has palm trees and grass with some shade that fills up in the afternoon with local people who enjoy the peaceful landscape. On the beach there are warungs and rental stands for umbrellas and lounge chairs to spend the day (100,000 IDR, approximately USD $6).
 
 If you want to combine experiences in a single tour without renting a motorbike, you can hire a local guide or book a transfer service (or taxi) which are very common both on the street and at homestays/hotels and you can negotiate the price. As a precaution, we're sharing Anderson's number with whom we used for transfers all over Bali, he's friendly, chatty, reliable, and has an electric car +6281574887501 (if you contact him, tell him you're from blogcito).
 
-> [If you'd like to know about these places departing from Ubud, Kuta or Denpasar, we'll share this experience](https://www.getyourguide.com/es-es/karangasem-l190139/bali-tour-privado-con-todo-incluido-por-los-puntos-destacados-del-este-de-bali-t1205121?ranking_uuid=2f0097e3-d8c4-4c7a-b66e-c3f6d1bdba45&date_from=2026-07-25) is a tour package that includes transportation, a stroll through several recommended points. It has historical and cultural content, and you can also get to know the village of **Tenganan Pegringsingan,** an indigenous town known for its traditional textiles.
+> [If you'd like to know about these places departing from Ubud, Kuta or Denpasar, we'll share this experience](https://www.getyourguide.com/es-es/karangasem-l190139/bali-private-tour-with-everything-included-for-the-highlighted-points-of-east-bali-t1205121?ranking_uuid=2f0097e3-d8c4-4c7a-b66e-c3f6d1bdba45&date_from=2026-07-25) is a tour package that includes transportation, a stroll through several recommended points. It has historical and cultural content, and you can also get to know the village of **Tenganan Pegringsingan,** an indigenous town known for its traditional textiles.
 
 ## **Hiking near volcanic areas around Amed**
 
@@ -173,7 +173,7 @@ The Mount Batur is the highest point on the island and the most sacred volcano f
 * **The Experience:** It's a high-difficulty trekking that is demanding and technical since the summit is at around 10,342 meters. There are two main routes: one that starts from Pura Pasar Agung temple (which reaches the crater rim at around 9,286 meters and takes around 3-4 hours to ascend). The complete route from Besakih's mother temple (which ascends to the real summit at 10,342 meters, requiring between 5 and 7 hours of continuous ascent over steep rock). You start walking near 11:00 pm the previous day.
 * **Considerations:** It requires physical fitness preparation to face the challenge and suitable footwear. Additionally, since it's a sacred site, there are periods throughout the year when access is prohibited due to religious ceremonies at the volcano temples.
 
-You can book the private tour with local guides here: https://www.getyourguide.com/es-es/karangasem-l190139/ruta-al-amanecer-por-el-monte-agung-con-cafe-y-miel-en-una-casa-local-t1211975?ranking_uuid=b26881a4-20bb-44e8-bcf2-e0ebb967afce&q=Monte+Agung&date_from=2026-08-20
+* [You can book the private tour with local guides here](https://www.getyourguide.com/es-es/karangasem-l190139/ruta-al-amanecer-por-el-monte-agung-con-cafe-y-miel-en-una-casa-local-t1211975?ranking_uuid=b26881a4-20bb-44e8-bcf2-e0ebb967afce&q=Monte+Agung&date_from=2026-08-20)
 
 In this experience: you'll be picked up from your homestay (includes both transfers) and greeted by a local guide with whom an earlier blessing is performed according to Balinese tradition (for a harmonious ascent). You'll ascend via one of three available trails and then visit the guide's home in the area where you're invited with a Balinese coffee and told about the sustainable honey collection process, following traditional methods from the region. Honestly, this proposal seems like a total hit.
 
@@ -202,63 +202,57 @@ They charge a minimum fee (*minimum spend*) of **IDR 125,000 per person** (aroun
 
 * **How is the beach in Amed?** It's characterized by having volcanic black sand and many rocks. The water is transparent and the current isn't strong. In the bays the wind is relatively calm.
 * **Can you walk along the beach?** Yes, but with nuances: the coarse sand and rocks can be a massage or a nuisance, but it resolves easily with footwear.
-
 * In the morning the tide is quite high and there are the *jukungs* (classic Bali boats); so you can walk but you have to get closer to the water, avoid the boats, etc.
-  * The afternoon is the ideal moment since the sunset is beautiful, many restaurants have live music and the tide is lower.
+* The afternoon is the ideal moment since the sunset is beautiful, many restaurants have live music and the tide is lower.
 
 ## Budget Table Amed Bali 2026, Arm Your Budget:
 
 Hereafter we leave you with two tables detailing the costs of stays, entrances, and tours. Additionally, you can build your personalized budget for 2026 by entering our online calculator.
 
-# What to do in an open-ended cost table 2026
+### **What to do in Amed: Cost Table 2026**
 
-**Concepts**
+| Concept | IDR (Indonesian Rupia) | USD | EUR | Observations / Direct Link |
+| :--- | :--- | :--- | :--- | :--- |
+| Jemeluk or Lipah Entrance | Gratis | 0 | 0 | Public access directly from the beach |
+| Japanese Shipwreck (Parador) | 25,000 | 1.39 | 1.22 | Minimum consumption required for parking and showers |
+| Snorkel Mask Rental (Day) | 50,000 | 2.79 | 2.43 | Standard rental fee at beach resorts |
+| Snorkel Mask Purchase (Intex) | 290,000 | 16.16 | 14.12 | Local shops |
+| [Snorkeling Tour (online reservation)](https://www.getyourguide.com/karangasem-l190139/baliamed-experience-of-snorkeling-in-an-underwater-temple-t914585/?ranking_uuid=d8ce01cb-a94d-48a5-89f8-7361b97c2d8a&q=snorkel+amed&date_from=2026-07-19&date_to=2026-07-19&adults=1) | 700,000 | 39.01 | 34.08 | Guided tour to three points |
+| Snorkeling Tour to Coordinate (Locals) | 500,000 | 27.87 | 24.37 | Reference cost |
+| [Snorkeling + Fishing](https://www.getyourguide.com/karangasem-l190139/amed-snorkel-exclusive-fishing-and-balinese-cooking-t1193317/?ranking_uuid=042fbc85-8c89-4d9c-994e-efeb98250c1d&referral_redirect=1&q=Karangasem) | 1,255,972 | 70 | 61.15 | |
+| Lahangan Sweet Entrance (includes shuttle) | 50,000 | 2.79 | 2.43 | Mountain viewpoint (includes van ride) |
+| Pura Lempuyang Entrance (+ Shuttle Bus) | 150,000 | 8.36 | 7.3 | General admission and local transportation required (for ascent) |
+| Tirta Gangga Entrance | 100,000 | 5.57 | 4.87 | Royal water palace (Tumbu) |
+| Taman Ujung Entrance | 100,000 | 5.57 | 4.87 | Water palace |
+| Virgin Beach Entrance | 20,000 | 1.11 | 0.97 | Includes vehicle parking |
+| Rental of 2 Umbrellas + Shade Virgin Beach | 100,000 | 5.57 | 4.87 | Optional for spending the day with shade on the beach |
+| [Private Tour from Ubud or Kuta with entries and transportation](https://www.getyourguide.com/es-es/karangasem-l190139/bali-private-tour-with-everything-included-for-the-highlighted-points-of-east-bali-t1205121?ranking_uuid=2f0097e3-d8c4-4c7a-b66e-c3f6d1bdba45&date_from=2026-07-25) | 1,956,912 | 109 | 95.92 | Highlighted option because it has historical cultural content and you know an indigenous Baliaga people and their weaving tradition |
 
-| Concept  | IDR (Indonesian Rupia) | USD   | EUR   | Observations / Direct Link |
-| ---     | ----------------     | ----- | ----- | ---                         |
-| Jemeluk or Lipah Entrance  | Gratis           | 0     | 0     | Public access directly from the beach |
-| Japanese Shipwreck (Parador)  | 25.000           | 1.39  | 1.22  | Minimum consumption required for parking and showers |
-| Snorkel Mask Rental (Day)    | 50.000           | 2.79  | 2.43  | Standard rental fee at beach resorts |
-| Snorkel Mask Purchase (Intex) | 290.000          | 16.16 | 14.12 | Local shops |
-| [Snorkeling Tour (online reservation)](https://www.getyourguide.com/karangasem-l190139/baliamed-experience-of-snorkeling-in-an-underwater-temple-t914585/?ranking_uuid=d8ce01cb-a94d-48a5-89f8-7361b97c2d8a&q=snorkel+amed&date_from=2026-07-19&date_to=2026-07-19&adults=1) | 700.000          | 39.01 | 34.08 | Guided tour to three points |
-| Snorkeling Tour to Coordinate (Locals)    | 500.000          | 27.87 | 24.37 | Reference cost |
-| [Snorkeling + Fishing](https://www.getyourguide.com/karangasem-l190139/amed-snorkel-exclusive-fishing-and-balinese-cooking-t1193317/?ranking_uuid=042fbc85-8c89-4d9c-994e-efeb98250c1d&referral_redirect=1&q=Karangasem) | 1.255.972        | 70    | 61.15 | |
-| Lahangan Sweet Entrance (includes shuttle) | 50.000           | 2.79  | 2.43  | Mountain viewpoint (includes van ride) |
-| Pura Lempuyang Entrance (+ Shuttle Bus)  | 150.000          | 8.36  | 7.3   | General admission and local transportation required (for ascent) |
-| Tirta Gangga Entrance          | 100.000          | 5.57  | 4.87  | Royal water palace (Tumbu) |
-| Taman Ujung Entrance          | 100.000          | 5.57  | 4.87  | Water palace |
-| Virgin Beach Entrance         | 20.000           | 1.11  | 0.97  | Includes vehicle parking |
-| Rental of 2 Umbrellas + Shade Virgin Beach   | 100.000          | 5.57  | 4.87  | Optional for spending the day with shade on the beach |
-| [Private Tour from Ubud or Kuta with entries and transportation](https://www.getyourguide.com/es-es/karangasem-l190139/bali-private-tour-with-everything-included-for-the-highlighted-points-of-east-bali-t1205121?ranking_uuid=2f0097e3-d8c4-4c7a-b66e-c3f6d1bdba45&date_from=2026-07-25) | 1.956.912        | 109   | 95.92 | Highlighted option because it has historical cultural content and you know an indigenous Baliaga people and their weaving tradition |
-| Currency Conversion Reference         | 100.000          | 5.57  | 4.87  |
+### **Accommodation Costs**
 
-## Budget for staying in Améd
+| Concept | Cost IDR | Cost USD | Cost EUR | Observations |
+| :--- | :--- | :--- | :--- | :--- |
+| [Budget Stay](https://www.booking.com/hotel/id/bali-yogi-amed1.html?aid=318615) | 150,000 | 8.36 | 7.31 | Average nightly cost for a budget-friendly stay by the sea |
+| [Mid-range Stay](https://www.booking.com/hotel/id/valomia-beachfront.html?aid=318615) | 350,000 | 19.50 | 17.05 | Ideal bungalow or resort for slow travelers |
+| [Holiday Package](https://www.booking.com/hotel/id/surya-amed-beach.html?aid=318615) | 700,000 | 38.99 | 34.09 | High-end resort with all amenities overlooking the sea |
 
-* **Accommodation:**
-	+ Hostel: €20-€30 per night
-	+ Guesthouse: €40-€60 per night
-	+ Hotel: €80-€120 per night
-* **Food:**
-	+ Street food: €3-€5 per meal
-	+ Mid-range restaurant: €15-€25 per meal
-	+ Fine dining: €30-€50 per meal
-* **Activities:**
-	+ Temple visit: free
-	+ Yoga class: €10-€20 per session
-	+ Language course: €200-€500 per week
+### **Motorcycle Rental**
 
-**Reference**                                                                                        **Cost IDR**                             **Cost USD**   **Cost EUR**   **Observations**
-**-------------------------**                                                                                  **---------------------**          **-----------** **-----------** **-------------------------------**
-[Budget Stay](https://www.booking.com/hotel/id/bali-yogi-amed1.html?aid=318615) | 150,000                                                                                           | 8.36        | 7.31        | Average nightly cost for a budget-friendly stay by the sea
-[Mid-range Stay](https://www.booking.com/hotel/id/valomia-beachfront.html?aid=318615) | 350,000                                                                                           | 19.5        | 17.05       | Ideal bungalow or resort for slow travelers
-[Holiday Package](https://www.booking.com/hotel/id/surya-amed-beach.html?aid=318615) | 700,000                                                                                           | 38.99       | 34.09       | High-end resort with all amenities overlooking the sea
-**Motorcycle Rental**                                                                                  **Cost IDR**                             **Cost USD**   **Cost EUR**   **
-110cc Bike            | 50,000 - 70,000                                                                                   | 2.79 - 3.90 | 2.44 - 3.41 | Cash payment in local currency for light and functional bikes
-125cc Intermediate    | 75,000 - 85,000                                                                                   | 4.18 - 4.73 | 3.65 - 4.14 | Cash payment in local currency for retro-style bikes with higher power
-155cc Large Bike      | 100,000 - 130,000                                                                                 | 5.57 - 7.24 | 4.87 - 6.33 | Cash payment in local currency for large and automatic bikes
-**Currency Conversion Reference**                                                                  **Cost IDR**                             **Cost USD**   **Cost EUR**  
-100,000                                                                                           | 5.57        | 4.87        | Up-to-date conversion rates as of July 2026 (subject to change without notice)
-*Average Costs per Night*                                                                  | <td colspan="4">If you want a personalized budget, use our free online calculator</td> |             |             |
+| Model | Cost IDR | Cost USD | Cost EUR | Observations |
+| :--- | :--- | :--- | :--- | :--- |
+| 110cc Bike | 50,000 - 70,000 | 2.79 - 3.90 | 2.44 - 3.41 | Cash payment in local currency for light and functional bikes |
+| 125cc Intermediate | 75,000 - 85,000 | 4.18 - 4.73 | 3.65 - 4.14 | Cash payment in local currency for retro-style bikes with higher power |
+| 155cc Large Bike | 100,000 - 130,000 | 5.57 - 7.24 | 4.87 - 6.33 | Cash payment in local currency for large and automatic bikes |
+
+### **Currency Conversion Reference**
+
+| Currency | Cost IDR | Cost USD | Cost EUR | Observations |
+| :--- | :--- | :--- | :--- | :--- |
+| Reference Rate | 100,000 | 5.57 | 4.87 | Up-to-date conversion rates as of July 2026 |
+
+<div style="background: var(--bg-color, #f4f1ea); border: 1px solid #e5e5e5; padding: 1.5rem; border-radius: 8px; text-align: center; margin: 2rem 0;">
+    <p style="margin: 0; font-weight: 500;">If you want a personalized budget, use our free online calculator below.</p>
+</div>
 
 ## Plan Your Trip Budget Ahead
 

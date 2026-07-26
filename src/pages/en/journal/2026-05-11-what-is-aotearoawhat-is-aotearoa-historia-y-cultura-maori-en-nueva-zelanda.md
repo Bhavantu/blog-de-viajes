@@ -5,11 +5,9 @@ date: 2026-04-27T01:22:00.000Z
 tag: contexto y cultura
 pais: Nueva Zelanda
 description: >-
-  #A Bit of Earth's History Learned in New Zealand - Aotearoa
-
-
-  A small part of the earth's history is learned in New Zealand, also known as
-  Aotearoa.
+  A piece of the earth's history learned on Great White Cloud land in New
+  Zealand - Aotearoa
+  
 main_image: /img/diario/img-lake-pearson-campamento-arthur-pass.webp
 archivo_original: 2026-05-11-aotearoa-donde-la-tierra-comienza.md
 ---

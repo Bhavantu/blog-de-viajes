@@ -1,24 +1,15 @@
 ---
 layout: ../../../layouts/BlogPostLayout.astro
-title: >-
-  # First Days in New Zealand: North Island Route and 3 Must-Visit East Coast
-  Spots
-
-
-  First days in New Zealand and I'm already falling in love with this country!
-  After arriving in Auckland, we decided to start our adventure on the North
-  Island, taking a scenic route that would take us along the coast and through
-  some of the most stunning landscapes.
+title: "First Days in New Zealand: North Island Route and 3 Must-Visit East Coast Spots"
 date: 2026-05-25T01:57:00.000Z
 tag: bitacora
 pais: Nueva Zelanda
-description: >-
-  *A Brief Summary Ordering the Experience and Expanding on Different
-  Destinations of Northern Island*
+description: "A brief summary ordering the experience and expanding on different destinations of the North Island."
 main_image: /img/diario/img_5481.webp
 archivo_original: 2026-05-25-capitulo-1-llegada-a-nueva-zelanda.md
 ---
-### **The dream is on its way**
+
+## The dream is on its way
 
 Traveling to New Zealand was a desire that tapped into my curiosity from the depths of my being. A country of mountain experiences and long highway routes with iconic landscapes, added to the shared experiences people had and the phrase that kept repeating itself: "*That country will charm you*".
 
@@ -36,19 +27,21 @@ The trip lasted 8 months, it was an extensive adventure and mainly divided betwe
 
 Dear reader, "If you're interested in delving deeper into a corner, all you have to do is touch or click on its underlined name to travel to its story".
 
-# The North Island: Travel Odyssey
+---
+
+## The North Island: Travel Odyssey
 
 Joyful and with great determination we embarked on an adventure. We achieved our dream ride in Auckland, lived a time near the beach and the iconic Mount Maunganui with our friends half locals, half Uruguayans.
 
 We discovered the beauty of Mount Maunganui's (Mauao) sacred zone and strolled along the incredible Coromandel Peninsula. The dense vegetation and humid, warm climate presented us with the essence of coastal life on the island in the Tauranga area.
 
-## Mount Maunganui
+### Mount Maunganui
 
 <div class="post-img-box img-mediano img-izquierda"><img src="/img/img_5531.webp" alt="Imagen de bitácora"><span class="img-caption">Pokohino Beach</span></div>
 
 Many people who come to New Zealand choose this area to stay, and the truth is that it feels a little magical, the beauty of the immense mountain bordering with Pacific water, dense forests of trees around the beach. The proximity to cities and restaurants. It's a precious place to spend a season. In summer, the movement was quite active and varied activities, we enjoyed going to the beach and hiking up the mountain with incredible views of sunset. Additionally, our friends told us local stories like the Maori legend of the mountain and about the Steel framing that is the logo of the famous All Blacks.
 
-### **Holidays on the Coromandel Peninsula**
+### Holidays on the Coromandel Peninsula
 
 A few days in paradise beaches, icy and transparent water.
 
@@ -60,9 +53,9 @@ At the beginning of the 20th century, extracted resources (mainly gold and resin
 
 [The Coromandel Peninsula](https://blogcito.com/diario/2026-05-29-resumen-historico-de-coromandel/) combines the history of its land with a relaxed, artistic local culture and the possible transition towards coexistence in respect with nature.
 
-## **McLaren Falls Park**
+### McLaren Falls Park
 
-**McLaren Falls Park:** A solo 15 minutes from Mount Maunganui, this park was an incredible escape. The prevailing calmness, the humid freshness of the waterfall, ducks gliding across the water and families strolling peacefully on the weekend gifted us a profoundly positive impact to begin understanding our journey through New Zealand.
+Solo 15 minutes from Mount Maunganui, this park was an incredible escape. The prevailing calmness, the humid freshness of the waterfall, ducks gliding across the water and families strolling peacefully on the weekend gifted us a profoundly positive impact to begin understanding our journey through New Zealand.
 
 This park spans 190 hectares of pure nature and houses one of the country's most impressive collections of trees. Here, what stands out particularly is its astonishing blend of native giants like the majestic **Rimu** (red pine), the revered **Totara**, the towering **Kahikatea**, and the iconic silver fern (**Ponga**), which coexist with exotic species that transform the landscape with spectacular colors every season.
 
