@@ -55,11 +55,11 @@ Cómo ir a Nusa Penida desde Lombok: Fast boat desde el peurto de
 Cómo ir a Nusa Penida desde las Islas Gili: Fast boat desde el peurto de
 
 
-El trayecto en lancha rápida desde Bali dura aproximadamente entre **25 y 45 minutos** según el muelle de salida y el estado del mar. Por lo general, las mañanas ofrecen una navegación muy tranquila; hacia la tarde el mar suele agitarse un poco más debido al viento del estrecho.
+El trayecto en lancha rápida desde Bali dura aproximadamente entre **25 y 45 minutos** según el muelle de salida y el estado del mar. Por lo general, las mañanas ofrecen una navegación tranquila; hacia la tarde el mar suele agitarse un poco más debido al viento.
 
 ---
 
-## Transporte en la isla: ¿Scooter o auto con chofer?
+## Cómo moverse en la Isla: ¿Scooter o auto con chofer?
 
 El transporte en Nusa Penida es un tema central. **Como mencionamos, las aplicaciones como Grab o Gojek no funcionan acá.** Los caminos mejoraron muchísimo en las rutas principales, pero las calles secundarias que bajan a las playas siguen teniendo pozos enormes, grava suelta y tramos muy estrechos.
 
