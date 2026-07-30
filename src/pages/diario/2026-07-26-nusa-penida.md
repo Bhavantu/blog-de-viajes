@@ -134,11 +134,10 @@ Desde el barco de ida confirmamos nuestros puntos de interés charlando con un g
 
   ### Snorkel en Nusa Penida: Nadar con Mantarrayas
 
-  Nusa Penida tiene varios puntos de snorkel increíbles. Los principales son: **Crystal Bay, Manta Bay, Manta Point**, y otros dos muy conocidos que completan el circuito, como **Gamat Bay** y **Wall Point**. De todos estos, **solo a Crystal Bay es viable acceder directamente desde la playa**. Para llegar a los demás hay que hacer una excursión en barco; nosotros elegimos \[esta excursión / agregar link] y fue un éxito total.
+  Nusa Penida tiene varios puntos de snorkel rpicnipales . Los principales son: **Crystal Bay, Manta Bay, Manta Point, Gamat Bay,**  **Wall Point**. De todos estos, **solo a Crystal Bay es viable acceder directamente desde la playa**. Para llegar a los demás hay que [reservar una excursión en barco.](https://www.getyourguide.com/es-es/s/?q=nusa+penida+snorkel+manta+bay&searchSource=3&src=search_bar&date_from=2026-08-12&date_to=2026-08-12) 
 
-  El principal atractivo de la isla es la posibilidad de nadar con mantarrayas gigantes (e inofensivas) de hasta 4 metros de envergadura. En los otros puntos del recorrido, también es posible ver tortugas, peces tropicales y arrecifes de coral llenos de vida.
-
-  #### ¿Dónde ver mantas: Manta Point o Manta Bay?
+  El principal atractivo de la isla es la posibilidad de nadar con mantarrayas gigantes (e inofensivas) de hasta 4 metros de largo. En los otros puntos del recorrido, también es posible ver tortugas, peces tropicales y arrecifes de coral llenos de vida.
+* #### ¿Dónde ver mantas: Manta Point o Manta Bay?
 
   Las experiencias son completamente diferentes y depende mucho de lo que busques (y de cómo te lleves con el mar).
 
@@ -146,11 +145,11 @@ Desde el barco de ida confirmamos nuestros puntos de interés charlando con un g
 
     * **Posibilidades de ver mantas:** 80% a 90% durante casi todo el año.
     * **La experiencia:** Es una "estación de limpieza", el lugar exacto en mar abierto al que las mantas acuden para que los peces pequeños las limpien de parásitos. 
-    * **A tener en cuenta:** El mar acá suele estar bastante movido y el agua es más fría. El viaje en barco es un poco más largo y marea a quienes son sensibles. [Podés reservar tu lugar para esta opción acá.](https://www.getyourguide.com/es-es/nusa-penida-l89276/isla-de-nusa-penida-snorkel-en-manta-point-y-tour-por-la-costa-oeste-t816548?date_from=2026-08-20)
+    * **A tener en cuenta:** Es una experiencia en mar abierto, suele estar bastante movido y el agua es más fría. El viaje en barco es un poco más largo y con mucho movimiento, pero la experienciaincreible. [Podés reservar tu lugar para esta opción acá.](https://www.getyourguide.com/es-es/nusa-penida-l89276/isla-de-nusa-penida-snorkel-en-manta-point-y-tour-por-la-costa-oeste-t816548?date_from=2026-08-20)
   * **Manta Bay:**
 
-    * **Posibilidades de ver mantas:** Alrededor de un 60% a 70% en temporada seca (principalmente Julio y Agosto) en temporada de lluvias el procentaje es menor. 
-    * **La experiencia:** Es una bahía profunda rodeada de acantilados. Tiene olas, pero no tiene tanto movimiento extremo como Manta Point. Nosotros tuvimos la suerte de verlas acá y fue algo verdaderamente impresionante. Te dejamos el link con la empresa que lo hicimos. 
+    * **Posibilidades de ver mantas:** Alrededor de un 60% a 70% en temporada seca (principalmente Julio y Agosto) en temporada de lluvias el procentaje es menor. En este punto es posible ver alguna manta y no encesariamnte de las gigantes. 
+    * **La experiencia:** Es una bahía profunda rodeada de acantilados. Tiene olas, pero no tiene tanto movimiento extremo como Manta Point. Nosotros tuvimos la suerte de verlas acá y fue algo verdaderamente impresionante. Te dejamos el link con la empresa que lo hicimos la cual estuvo, bien. 
 
       [Podes reservar tu experiencia de snorkel en 3 puntos de la isla acá](https://www.getyourguide.com/es-es/nusa-penida-l89276/nusa-penida-excursion-de-esnorquel-en-manta-bay-y-manta-point-t1393333/?ranking_uuid=f9ba3ef1-6f5e-4621-b41a-37677930ae94&q=nusa+penida+snorkel)
 
