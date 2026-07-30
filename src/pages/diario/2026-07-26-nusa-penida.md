@@ -17,9 +17,9 @@ Planificá tu viaje a Nusa Penida Bali.
 | Aspecto Clave | El dato real en Nusa Penida |
 | --- | --- |
 | **Transporte** | **¡Importante!** Gojek, Grab y Uber están bloqueadas por el sindicato local. Solo podés usar choferes de la isla (necesario negociar) o alquilar una moto. |
-| ⏳ **Tiempo ideal** | Mínimo 3 días / 2 noches. Lo ideal son 5 días para ir a un ritmo lento y disfrutar ambas costas. |
-| 🛵 **Manejar Moto** | Caminos empinados, calles rotas con tierra suelta y baches. Si no tenés experiencia conduciendo moto, sin dudás, contratá chofer. |
-| 💳 **Dinero (Efectivo)** | Hay cajeros (ATM) en varios puntos de la isla.
+| ⏳ **Tiempo ideal** | Mínimo 3 días / 2 noches. Idealmente en 5 días podes recorrrer la isla dsifrutando en calma de ambas costas. |
+| 🛵 **Condiciones de las rutas/ Moto** | Caminos empinados, calles rotas con tierra suelta y baches. Si no tenés experiencia conduciendo moto, sin dudás, contratá chofer. |
+| 💳 **Dinero (Efectivo)** | El efectivo es necdesario para todas las activudades turísticas. Hay cajeros (ATM) en la isla.
 
 ---
 
@@ -29,7 +29,7 @@ Nusa Penida es una isla de aproximadamente 200 km² ubicada al sureste de la isl
 
 Al igual que en Bali, la gran mayoría de su población local (cerca del 98%) practica el **hinduismo balinés**. Es decir, las ceremonias, los *Canang Sari* (ofrendas diarias)y la vida comunitaria funcionan igual. Si te interesa comprender mejor la cosmovisión local, las tradiciones y el significado de sus rituales, te invitamos a leer nuestra [guía completa sobre la cultura y el alma de Bali](https://blogcito.com/diario/2026-07-22-el-alma-de-bali-rituales-familia-y-comunidad/). Sin embargo, la isla cuenta con una pequeña comunidad histórica de origen musulmán (entre el 1% y 2%) radicada principalmente en el *Kampung Toyapakeh*, un asentamiento portuario.
 
-Desde que comenzamos a planificar el viaje charlando con amigos que ya habían visitado la isla, Nusa Penida se convirtió en un sueño pendiente para nosotros. Luego de unos días disfrutando de la calma en Amed, decidimos emprender la aventura: **10 días en la isla de paraísos, playas y acantilados**. Pero nos surgían las dudas de siempre: ¿dónde quedarse en Nusa Penida Bali?, ¿que ver?, ¿cómo huir de la experiencia Instagram masificada? Bueno, ese fue el desafío que hoy elegimos compartir.
+Desde que comenzamos a planificar el viaje a bali por libre charlando con amigos que ya habían visitado la isla, Nusa Penida se convirtió en un sueño pendiente para nosotros. Luego de unos días disfrutando de la calma en Amed, decidimos emprender la aventura: **10 días en la isla de paraísos, playas y acantilados**. Pero nos surgían las dudas de siempre: ¿dónde quedarse en Nusa Penida Bali?, ¿que ver?, ¿cómo huir de la experiencia Instagram masificada? Bueno, ese fue el desafío que hoy elegimos compartir.
 
 ---
 
@@ -61,74 +61,73 @@ El trayecto en lancha rápida desde Bali dura aproximadamente entre **25 y 45 mi
 
 ## Cómo moverse en la Isla: ¿Scooter o auto con chofer?
 
-El transporte en Nusa Penida es un tema central. **Como mencionamos, las aplicaciones como Grab o Gojek no funcionan acá.** Los caminos mejoraron muchísimo en las rutas principales, pero las calles secundarias que bajan a las playas siguen teniendo pozos enormes, grava suelta y tramos muy estrechos.
-
-* **Alquiler de scooter:** Es la opción más económica y te da total libertad. **Recomendada únicamente si tenés experiencia previa manejando moto** en caminos difíciles y con acompañante. Manejá siempre con casco, despacio y revisá los frenos antes de arrancar.
-* **Coche con chofer privado local:** Si no te sentís 100% seguro en moto o viajás con equipaje pesado, contratar un auto con conductor local por el día es la alternativa más cómoda y segura para recorrer la isla sin estrés, además de que vas con aire acondicionado.
-
+El transporte en Nusa Penida es un tema central. **Como mencionamos, las aplicaciones como Grab o Gojek no funcionan acá.** Los caminos mejoraron muchísimo en las rutas principales, pero las calles secundarias que bajan a las playas están en muy malas condiciones. 
+* **Alquiler de scooter:** Es la opción más económica y te da total libertad. **Recomendada únicamente si tenés experiencia previa manejando moto** en caminos difíciles. Manejá siempre con casco, despacio y revisá los frenos antes de arrancar.
+* **Coche con chofer privado local:** Contratar un auto con conductor local por el día es la alternativa cómoda y segura para recorrer la isla sin estrés. La mayor parte de los home stays ofrecen este servicio o podeés reservarlo acá. 
 ---
 
 ## ¿Excursión de un día a Nusa Penida o quedarse a dormir?
 
-Uno de los errores más comunes al planificar la ruta por Bali es contratar un tour de un día desde Sanur.
+La excursión de un día es una ocpión rápida y facil para darle un vistazo a los principales puntos turisticos de la isla (los detallamos abajo). Pero tiene algunos peros:
 
-* **Por qué NO recomendamos la excursión de 1 día:** Las lanchas rápidas desembarcan masivamente entre las 9:30 AM y las 10:30 AM. Durante ese rango horario y hasta las 15:30 PM, los puntos icónicos se colapsan, los miradores se llenan de filas y el calor con el sol pegando fuerte se vuelven agotadores.
-* **La ventaja de quedarse a dormir (2 o 3 noches mínimo):** Al dormir en la isla, podés visitar las atracciones principales a primera hora de la mañana (antes de las 8:30 AM) o a última hora de la tarde, disfrutando del paisaje en completo silencio y a tu propio ritmo. Apoyás a la economía local cenando en *warungs* familiares y disfrutando de la paz de la isla cuando cae el sol.
+* **Por qué NO recomendamos la excursión de 1 día:** Las lanchas rápidas desembarcan masivamente entre las 9:30 AM y las 10:30 AM. Durante ese rango horario y hasta las 15:30 PM, los puntos icónicos se colapsan, los miradores se llenan con gente haciendo sesiones de fotos y las estrechas calles se atascan por el tráfico para ir de un punto a otro.
+* **Por qué elejimos quedarnos a dormir en la isla:** Poder recorrer a nuestro ritmo,visitando las atracciones principales a contra horario de los tours, (a primera hora de la mañana o a última hora de la tarde) disfrutando del atardecer y la paz de la isla cuando cae el sol. (Principalmente en la costa oeste)
 
 ---
 
 ## Dónde Alojarse en Nusa Penida: Análisis por Zonas
 
-Elegir la ubicación del hospedaje cambia por completo la experiencia de viaje. A continuación desglosamos las mejores zonas para alojarse:
+Elegir la ubicación del hospedaje cambia por completo la experiencia de viaje. A continuación desglosamos las mejores zonas para alojars en Nusa pénida según lo que buscás:
 
-### 1. Zona Norte (Cerca del Puerto: Toyapakeh / Sampalan / Batununggul)
-* **A favor:** Comodidad por la cercanía al puerto, gran cantidad de restaurantes, *warungs*, cafeterías con buen Wi-Fi para trabajar, farmacias, supermercados y alquiler de motos.
-* **En contra:** Tráfico constante de autos y motos durante el día; de todas formas tenés que trasladarte para llegar a los puntos turísticos. Hay bastante polvo (no todas las calles secundarias están asfaltadas).
-* **Ideal para:** Quienes buscan logística práctica y buena oferta gastronómica nocturna.
+### 1. Zona Norte La opcion práctica (Cerca del Puerto)
+* **A favor:** comodidad por la cercanía al puerto, gran cantidad de restaurantes, *warungs*, cafeterías con buen Wi-Fi para trabajar, farmacias, supermercados y alquiler de motos.
+* **En contra:** Tráfico constante de autos y motos durante el día; traslados largos para llegar a los puntos turísticos. Hay bastante polvo (no todas las calles están asfaltadas) se respira un clima un poco más de "ciudad".
+* **Ideal para:** Quienes quieres hacer una visita rápida y buscan  practicidad y buena oferta gastronómica nocturna.
 
-### 2. Costa Este (Diamond Beach / Atuh Beach) — *Donde nos quedamos nosotros*
-* **A favor:** Paz absoluta, paisajes de acantilados salvajes, amaneceres increíbles y la posibilidad de bajar a Diamond Beach o Atuh Beach caminando a primera hora.
+### 2. Costa Este (paz y tranquilidad local)
+Lugares turisticos cercanos: (Diamond Beach / Atuh Beach) — 
+* **A favor:** Es nuestra favorita por la paz absoluta, paisajes de acantilados, amaneceres increíbles con vista al mar.
 * **Por qué nos encantó hacer base acá:** Dormir en la costa este de Nusa Penida nos permitió disfrutar de la isla en silencio y conectar con la cultura de Bali en un pueblo tradicional. En este lado de la isla el ritmo generalmente es lento, y podés pasear por las callecitas conociendo gente local y caminando por la costa al atardecer.
-* **En contra:** Menor oferta de restaurantes nocturnos y distancias más largas para ver el atardecer en el oeste o trasladarse a los puntos turísticos de ese lado. Atardece más temprano debido a la sombra de los acantilados.
+* **En contra:** Menor oferta de restaurantes nocturnos y distancias más largas para ver el atardecer en el oeste o trasladarse a los puntos turísticos de la costa oeste. Atardece más temprano debido a la sombra de los acantilados.
 * **Ideal para:** Viajeros de *slow travel*, parejas, nómadas digitales y quienes priorizan la tranquilidad.
 
-### 3. Costa Oeste (Crystal Bay / Kelingking)
-* **A favor:** Cercanía a los mejores puntos para ver el atardecer (Crystal Bay, Amok Sunset) y acceso rápido a los acantilados más famosos.
-* **En contra:** Zona con precios ligeramente más elevados en alojamientos premium y movimiento vehicular intenso en los caminos principales durante las horas pico.
-* **Ideal para:** Quienes quieren ver atardeceres épicos cada día cerca de su hotel y estar a un paso de las atracciones más virales.
+### 3. Costa Oeste La zona turística (Crystal Bay / Kelingking)
+* **A favor:** Cercanía a los mejores puntos para ver el atardecer (Crystal Bay, Amok Sunset) y acceso rápido a los acantilados más famosos. Amplía y variada oferta de estadías y de restaurantes con una oferta muy variada. 
+* **En contra:** Zona con precios ligeramente más elevados y movimiento vehicular intenso en los caminos principales durante las horas pico.
+* **Ideal para:** Quienes quieren ver atardeceres épicos cada día cerca de su hotel, ir a restaurantes con música en vivo, tragos y sunset, estar a un paso de las atracciones más virales.
 
 ---
 
 ## Qué ver en Nusa Penida: Análisis por Costas y Calificación
 
-Ya desde el barco confirmamos nuestros puntos de interés charlando con un guía local, sonriente y amable. Nos comentó sobre los principales atractivos que agrupamos geográficamente a continuación:
+Desde el barco de ida confirmamos nuestros puntos de interés charlando con un guía local, sonriente y amable. Nos comentó sobre los principales atractivos que agrupamos geográficamente a continuación:
 
 ### 📍 Costa Noroeste & Oeste
 
 #### Crystal Bay
-* **Nuestra Puntuación:** 7/10 *(Nota: al estacionamiento le damos un 5/10 por el caos de vans)*
+* **Nuestra Puntuación:** 7/10 *
 * **Costo:** Entrada gratuita | Estacionamiento: 5.000 IDR.
 * **Mejor horario para ir:** Antes de las 9:00 AM para un baño tranquilo, o a partir de las 16:30 PM para disfrutar de una de las mejores puestas de sol de la isla.
-* **La experiencia:** Una bahía protegida de arena oscura y palmeras. Excelente para nadar y hacer snorkel cerca de las rocas. 
+* **La experiencia:** Una bahía protegida de arena oscura y palmeras. Excelente para nadar y hacer snorkel cerca de las rocas.
+Es una playa agradable. 
 
 #### Broken Beach (Pasih Uug) y Angel's Billabong
 * **Nuestra Puntuación:** 8/10 *(Nota: a la masificación le damos un 5/10)*
 * **Costo:** Entrada combinada: 10.000 IDR | Estacionamiento: 10.000 IDR.
 * **Mejor horario para ir:** 7:30 AM a 8:30 AM.
-* **La experiencia:** Un puente de roca natural sobre un arco marino imponente y una piscina natural de roca volcánica. Muy fotogénico pero con poca sombra y se vuelve intransitable de gente a partir de las 10:00 AM.
+* **La experiencia:** Un puente de roca natural sobre un arco marino y una piscina natural de roca volcánica. Muy fotogénico pero con poca sombra y se llena a partir de las 10:00 AM ya que es el primer punto de las excursiones. 
 
 #### Kelingking Beach (El famoso T-Rex)
 * **Nuestra Puntuación:** 9/10
-* **Costo:** Entrada: 10.000 IDR | Estacionamiento: 5.000 - 10.000 IDR.
+* **Costo:** Entrada: 10.000 IDR (incluye estacionamiento)
 * **Mejor horario para ir:** Al amanecer (7:00 AM) o después de las 16:00 PM.
-* **La experiencia:** La postal icónica de la isla. La vista superior desde el acantilado impacta a cualquiera. El descenso a pie a la playa es técnico, súper exigente por el calor y lleva unos 45 minutos de caminata entre escalones empinados e irregulares.
-
+* **La experiencia:** La postal icónica de la isla. La vista superior desde el acantilado es hermosa. El descenso hacia la playa es por una escalera empinada de rocas, exigente y lleva unos 45 minutos de caminata. No recomendamos hacerlo durante las horas de calor, pero vale totalmente la pena, la playa de abajo aunque no apta para baño es increible, en la tarde hay zonas de sombra debajo de una especie de cueva de roca. 
 ---
 
 ### 📍 Costa Sur & Sudoeste
 
 #### Tembeling Beach y Piscina Natural
-* **Nuestra Puntuación:** 8.5/10
+* **Nuestra Puntuación:** 8/10
 * **Costo:** Entrada gratuita | Estacionamiento: 5.000 IDR (Opcional servicio de moto local para bajar el cañón: 50.000 IDR).
 * **Mejor horario para ir:** Entre las 9:00 AM y las 12:00 PM.
 * **La experiencia:** Escondido en medio de un cañón selvático, cuenta con piscinas naturales de agua dulce cristalina frente al mar y una playa salvaje. 
