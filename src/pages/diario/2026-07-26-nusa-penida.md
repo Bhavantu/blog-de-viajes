@@ -121,16 +121,16 @@ Es una playa agradable.
 * **Nuestra Puntuación:** 9/10
 * **Costo:** Entrada: 10.000 IDR (incluye estacionamiento)
 * **Mejor horario para ir:** Al amanecer (7:00 AM) o después de las 16:00 PM.
-* **La experiencia:** La postal icónica de la isla. La vista superior desde el acantilado es hermosa. El descenso hacia la playa es por una escalera empinada de rocas, exigente y lleva unos 45 minutos de caminata. No recomendamos hacerlo durante las horas de calor, pero vale totalmente la pena, la playa de abajo aunque no apta para baño es increible, en la tarde hay zonas de sombra debajo de una especie de cueva de roca. 
+* **La experiencia:** La postal icónica de la isla. La vista superior desde el acantilado es hermosa. El descenso hacia la playa es por una escalera empinada de rocas, la bajada es exigente y lleva unos 45 minutos de caminata al sol y por una bajada bastante rústica. No recomendamos hacerlo durante las horas de calor, pero vale totalmente la pena, la playa de abajo aunque no apta para baño es increíble, en la tarde hay zonas de sombra debajo de una especie de cueva de roca. 
 ---
 
 ### 📍 Costa Sur & Sudoeste
 
-#### Tembeling Beach y Piscina Natural
+#### Tembeling Beach and forest 
 * **Nuestra Puntuación:** 8/10
-* **Costo:** Entrada gratuita | Estacionamiento: 5.000 IDR (Opcional servicio de moto local para bajar el cañón: 50.000 IDR).
-* **Mejor horario para ir:** Entre las 9:00 AM y las 12:00 PM.
-* **La experiencia:** Escondido en medio de un cañón selvático, cuenta con piscinas naturales de agua dulce cristalina frente al mar y una playa salvaje. 
+* **Costo:** 10.000 IDR
+* **Mejor horario para ir:** cualquiera, no es tan frecuentado y tiene algo de sombra. 
+* **La experiencia:** Lugar escondido en medio de un cañón selvático, cuenta con piscinas de roca con agua dulce y cristalina frente a una playa salvaje (no apta para baño). El camino de ingreso es empinado y está en mal estado.
 
 ---
 
@@ -138,27 +138,44 @@ Es una playa agradable.
 
 #### Diamond Beach y Atuh Beach
 * **Nuestra Puntuación:** 10/10
-* **Costo:** Entrada combinada: 25.000 IDR | Estacionamiento: 10.000 IDR.
-* **Mejor horario para ir:** De 6:30 AM a 9:00 AM o a partir de las 15:30 PM.
-* **La experiencia:** Dos de las mejores playas de Indonesia, una al lado de la otra. Diamond Beach destaca por sus acantilados de piedra blanca y agua súper turquesa (peligroso para nadar); Atuh Beach ofrece aguas más calmas y *warungs* tranquilos para descansar sobre la arena.
+* **Costo:** Entrada combinada que varía según la zona de ingreso. Desde atuh beach 25.000 IDR 
+Desde Diamond beach 45.000 IDR (aprox) 
+* **Mejor horario para ir:** De 7:00 AM a 11 AM o a partir de las 15:30 PM.
+* **La experiencia:** Dos de las mejores playas de Indonesia, una al lado de la otra. Diamond Beach destaca por sus acantilados de piedra blanca y agua súper turquesa (no apto para bañarse); Atuh Beach es nuestra playa favorita de la isla, ofrece aguas más calmas y *warungs* tranquilos para descansar sobre la arena. 
+Dato:La visita incluye muchos escalones: para bajar a la playa de diamond, para ingresar a atuh beach (no son tantos) y para pasar de una zona a la otra (empinados y casi sin barandas) 
 
 #### Casa del Árbol (Rumah Pohon) & Mirador Thousand Islands
 * **Nuestra Puntuación:** 7.5/10
 * **Costo:** Entrada al área: 10.000 IDR | Cobro extra por subirte a sacar la foto en la casa del árbol: 75.000 IDR.
-* **Mejor horario para ir:** 6:30 AM (Amanecer).
-* **La experiencia:** Panorámica espectacular del océano y los islotes. Se forman filas larguísimas (a veces de una hora) solo para la foto comercial en la cabaña.
+* **Mejor horario para ir:** temprano por la mañana.
+* **La experiencia:** Vistas panorámica espectacular del océano y los islotes. Se forman filas muy laras para la foto comercial en la cabaña. El acceso a pie es por escaleras empinadas.
 
 #### Teletubbies Hills (Bukit Teletubbies)
 * **Nuestra Puntuación:** 7/10
-* **Costo:** Entrada: 10.000 IDR | Estacionamiento: 5.000 IDR.
+* **Costo:** Entrada: 10.000 IDR
 * **Mejor horario para ir:** Temprano por la mañana o al atardecer (mejor ir post época de lluvias para verlas bien verdes).
-* **La experiencia:** Colinas redondeadas en el interior de la isla que recuerdan a paisajes de cuento. Ideal para una parada breve en ruta.
+* **La experiencia:** Colinas redondeadas en el interior de la isla que recuerdan a paisajes de la famosa serie de los teletubies. Ideal para una parada breve en ruta.
 
 #### Templo de la Cueva (Pura Goa Giri Putri)
 * **Nuestra Puntuación:** 6/10
 * **Costo:** Donación/Entrada: 25.000 IDR | Alquiler de Sarong: 10.000 IDR.
-* **Mejor horario para ir:** De 9:00 AM a 14:00 PM.
-* **La experiencia:** Templo sacro ubicado dentro de una inmensa caverna subterránea. Se ingresa arrastrándose por una rendija muy estrecha en la roca que simboliza el renacimiento desde el vientre de la Madre Tierra. Es un lugar de mucha energía espiritual (y hogar de una especie de cangrejo endémico ciego). Requiere vestir *sarong* de forma respetuosa.
+* **Mejor horario para ir:** Temprano tipo 9:00 AM o después de las  4 PM noe s tan turístico pero la humedad y el calor se sienten en la hora pico.
+* **La experiencia:** Uno de los templos más sagrados y activos de la isla. Se ingresa agachado por una rendija muy estrecha en la roca que simboliza el renacimiento desde el vientre de la Madre Tierra. Es un lugar de mucha energía espiritual (y hogar de una especie de cangrejo endémico ciego en peligro de exinsión) tiene varios altares inclusive uno en relación al budismo. Requiere vestir *sarong* y cubrirse los hombros. Nos encontramos con varias ceremonias en las que un grupo de personas locales hacían su tirual de rezo y luego eran bendecidos por el sacerdote. 
+
+Snorquel: 
+Nusa penida tiene varios puntos de snorkel los principales son: Crystal bay, Diamond beach, Manta bay, Manta Point, dos puntos m+as que no recuerdo. De todos estos solo el primero es viable de acceder desde la playa. Para todos los demás hay que hacer una excursión, nosotros elejimos esta y fue un exito. 
+
+El princial atractivo es la posbildiad de nadar con mantas inofensivas de hasta 4 metros de tamaño. En los otros puntos es posible ver tortugas, peces y arrecifes de coral. 
+
+Donde Ver mantas: 
+﻿¿Es mejor manta Point o Manta Bay?
+Las experiencias son completamente diferentes y depedne de lo que busques. 
+Manta point: posibilidades de ver mantas 80% durante todo el año. Es el lugar en el que las mantas... 
+A tener en cuenta: el agua, el barco. Podes reservar acá
+Manta bay: Posibilidades de ver mantas (definir según epoca del año en porcentajes). Es una bahia muy profunda, que tiene olas pero no tanto movimiento como manta point. Nosotros tuvimos la suerte de verlas y fue un verdaderamente impresionante. 
+
+A saber: todas las excursiones incluyen chaleco salvavida (opcional) y equipo de snorkel. Salen entre las 9 y las 10 en lanchas con un grupo considerable. 
+Si son más de x es una opción hacer el recorrido en una lancha privada en donde podes charlar lso puntos de interés. 
 
 ---
 
@@ -166,9 +183,9 @@ Es una playa agradable.
 
 Si buscás la postal perfecta de Kelingking Beach o Diamond Beach, la vas a encontrar. Pero la realidad detrás de la foto de Instagram incluye filas largas para sacarse fotos en los spots, esperas (pues ya no es una sola foto, es una sesión completa de poses) y carreteras estrechas trancadas por el tránsito de vans.
 
-Sin embargo, bien temprano en la mañana y después de las 16:00 PM, el clima cambia radicalmente y la atmósfera pasa a ser de paz, disfrute y conexión real, muy lejos del show de las redes.
+Sin embargo, bien temprano en la mañana y después de las 16:00 PM, el clima cambia radicalmente y la atmósfera pasa a ser de paz, disfrute.
 
-¿Vale la pena visitar Nusa Penida en Bali? Nuestra respuesta es un **sí rotundo**, pero con una condición: **hay que saber cuándo recorrerla y tener ganas de disfrutarla lento**. Hacer la visita por un día es una opción, pero sabiendo que va a ser una excursión rápida para sacarse fotos (o ver brevemente) cada uno de los puntos. Para evitar todo esto y contarte nuestra experiencia real recorriendo la isla, escribimos este post.
+¿Vale la pena visitar Nusa Penida en Bali? Nuestra respuesta es un **sí rotundo**, pero evaluando cuando recorrerla si querés disfrutarla en calma**. Hacer la visita por un día es una opción, pero sabiendo que va a ser una excursión rápida para sacarse fotos (o ver brevemente) cada uno de los puntos. 
 
 ---
 
@@ -179,18 +196,18 @@ Para mantener una mirada honesta y transparente, resumimos lo mejor y lo más co
 | ❤️ Lo que nos GUSTÓ | ⚠️ Lo que NO nos gustó |
 | --- | --- |
 | **Escala natural imponente:** Las playas prometidas y los puntos turísticos son realmente espectaculares, superan las fotos. | **Estado de las carreteras:** Vías sumamente estrechas, rotas y peligrosas si no tenés experiencia en moto. |
-| **Paz y experiencia local en la Costa Este:** Conocimos gente que vive según las tradiciones de Bali, asistimos a ceremonias y compartimos el día a día en el pueblo. | **Masificación en horas pico (10h a 15h):** Aglomeraciones y filas larguísimas en los miradores principales. |
-| **Snorkel y vida marina:** El *must* de la isla. Nadar con mantarrayas gigantes en Manta Point o corales en Crystal Bay. | **Gestión de residuos:** Acumulación de plásticos en algunas zonas costeras producida por las corrientes marinas. |
+| **Paz y experiencia local en la Costa Este:** Conocimos gente que vive según las tradiciones de Bali, asistimos a ceremonias (desde afuera) y compartimos el día a día charlando con la gente del pueblo. | **Masificación en horas pico (10h a 15h):** Aglomeraciones y filas larguísimas en los miradores principales. |
+| **Snorkel y vida marina:** El *must* de la isla. Nadar con mantarrayas gigantes o hacer snorkel con corales y peces en Crystal Bay. | **Gestión de residuos:** Acumulación de plásticos en algunas zonas costeras producida por las corrientes marinas. |
 
 ---
 
 ## Estrategia para recorrer Nusa Penida sin multitud
 
-Para disfrutar de **Nusa Penida sin masas**, aplicamos tres reglas simples:
+creemos que es viable disfrutar de **Nusa Penida sin masas** siguiendo estos 3 consejos:
 
 1. **La regla de los horarios estratégicos:** Visitar Kelingking Beach o Diamond Beach antes de las 8:30 AM o después de las 16:00 PM.
 2. **Explorar rincones menos concurridos:** Incluir en la ruta lugares como Tuyen Beach, Suwehan Beach o la bajada de Peguyangan Waterfall.
-3. **Moverse a contramano de los tours:** Si las vans turísticas van al oeste a la mañana, vos andá al este, y viceversa. Si te animás a la moto, en nuestra nota detallada te contamos [Slow Travel en Nusa Penida: Nuestra experiencia en moto desde la Costa Este](https://blogcito.com/diario/2026-07-28-nusa-penida-en-moto-costa-este/).
+3. **Moverse a contramano de los tours:** Si las vans turísticas van al oeste a la mañana, vos andá al este, y viceversa. Si te animás a la moto, estamos escribiendo ela rticulo sobre nuestra épica experiencia. 
 
 ---
 
@@ -215,13 +232,13 @@ A continuación desglosamos los costos promedios actualizados en Rupias indonesi
 
 ### ¿Cuántos días se necesitan para ver Nusa Penida?
 Recomendamos dedicar un **mínimo de 3 días / 2 noches** para recorrer lo principal (a un ritmo rápido). Sin embargo, lo ideal para recorrer la isla sin prisa y disfrutar de ambas costas es quedarse **5 días / 4 noches**.
-* *Consejo para nómadas digitales:* Quedarse 8 días combinando mañanas de trabajo con tardes de exploración fue un éxito total para nosotros.
+* *Consejo para nómadas digitales:* Quedarse 8 días combinando mañanas de trabajo con tardes de exploración es un éxito.
 
 ### ¿Se puede nadar en las playas de Nusa Penida?
-En la mayoría de las playas de acantilados (como Kelingking o Broken Beach) las corrientes son sumamente fuertes y **no se permite ni se recomienda nadar**. Para bañarse de forma segura y tranquila, la mejor opción es Crystal Bay o Atuh Beach (revisando siempre el estado de la marea).
+En la mayoría de las playas de acantilados (como Kelingking o Broken Beach) las corrientes son sumamente fuertes y **no se permite ni se recomienda nadar**. Para bañarse de forma segura y tranquila, la mejor opción es Crystal Bay o Atuh Beach.
 
 ### ¿Es peligroso manejar scooter en Nusa Penida?
-Sí, las carreteras en el interior de la isla son estrechas, tienen baches pronunciados y curvas cerradas sin guardarraíl. Si no tenés experiencia sólida en moto, te recomendamos contratar coche con chofer.
+Sí, las carreteras en el interior de la isla son estrechas, tienen baches pronunciados y curvas cerradas sin guardarraíl. Si no tenés experiencia sólida en moto, te recomendamos contratar coche con chofer.Aún así es viable de hacerse para choeres con experiencia y con mucho cuidado.
 
 ---
 
