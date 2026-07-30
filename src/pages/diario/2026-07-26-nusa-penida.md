@@ -132,6 +132,37 @@ Desde el barco de ida confirmamos nuestros puntos de interés charlando con un g
 * **Mejor horario para ir:** Al amanecer (7:00 AM) o después de las 16:00 PM.
 * **La experiencia:** La postal icónica de la isla. La vista superior desde el acantilado es hermosa. El descenso hacia la playa es por una escalera empinada de rocas, la bajada es exigente y lleva unos 45 minutos de caminata al sol y por una bajada bastante rústica. No recomendamos hacerlo durante las horas de calor, pero vale totalmente la pena, la playa de abajo aunque no apta para baño es increíble, en la tarde hay zonas de sombra debajo de una especie de cueva de roca. 
 
+  ### Snorkel en Nusa Penida: Nadar con Mantarrayas
+
+  Nusa Penida tiene varios puntos de snorkel increíbles. Los principales son: **Crystal Bay, Manta Bay, Manta Point**, y otros dos muy conocidos que completan el circuito, como **Gamat Bay** y **Wall Point**. De todos estos, **solo a Crystal Bay es viable acceder directamente desde la playa**. Para llegar a los demás hay que hacer una excursión en barco; nosotros elegimos \[esta excursión / agregar link] y fue un éxito total.
+
+  El principal atractivo de la isla es la posibilidad de nadar con mantarrayas gigantes (e inofensivas) de hasta 4 metros de envergadura. En los otros puntos del recorrido, también es posible ver tortugas, peces tropicales y arrecifes de coral llenos de vida.
+
+  #### ¿Dónde ver mantas: Manta Point o Manta Bay?
+
+  Las experiencias son completamente diferentes y depende mucho de lo que busques (y de cómo te lleves con el mar).
+
+  * **Manta Point:**
+
+    * **Posibilidades de ver mantas:** 80% a 90% durante casi todo el año.
+    * **La experiencia:** Es una "estación de limpieza", el lugar exacto en mar abierto al que las mantas acuden para que los peces pequeños las limpien de parásitos. 
+    * **A tener en cuenta:** El mar acá suele estar bastante movido y el agua es más fría. El viaje en barco es un poco más largo y marea a quienes son sensibles. [Podés reservar tu lugar para esta opción acá.](https://www.getyourguide.com/es-es/nusa-penida-l89276/isla-de-nusa-penida-snorkel-en-manta-point-y-tour-por-la-costa-oeste-t816548?date_from=2026-08-20)
+  * **Manta Bay:**
+
+    * **Posibilidades de ver mantas:** Alrededor de un 60% a 70% en temporada seca (principalmente Julio y Agosto) en temporada de lluvias el procentaje es menor. 
+    * **La experiencia:** Es una bahía profunda rodeada de acantilados. Tiene olas, pero no tiene tanto movimiento extremo como Manta Point. Nosotros tuvimos la suerte de verlas acá y fue algo verdaderamente impresionante. Te dejamos el link con la empresa que lo hicimos. 
+
+      [Podes reservar tu experiencia de snorkel en 3 puntos de la isla acá](https://www.getyourguide.com/es-es/nusa-penida-l89276/nusa-penida-excursion-de-esnorquel-en-manta-bay-y-manta-point-t1393333/?ranking_uuid=f9ba3ef1-6f5e-4621-b41a-37677930ae94&q=nusa+penida+snorkel)
+
+  #### 💡 Datos clave para tu excursión de snorkel
+
+  * **Qué incluye:** Prácticamente todas las excursiones incluyen el equipo de snorkel (máscara y tubo) y chaleco salvavidas (su uso es opcional, pero recomendado si hay corriente).
+  * **Horarios:** Suelen salir entre las 9:00 AM y las 10:00 AM en lanchas compartidas con un grupo considerable de personas.
+  * **Zonas:** algunas zonas pueden variar durante el mismo día debido a las condiciones climáticas de los puntos, (la seguridad es lo primero). Pero te enteras cuando llegas.
+  * **Dato para grupos:** Si viajan en un grupo de **4 o más personas**, es una excelente opción alquilar una lancha privada. El costo se divide, y tienen la libertad de dialogar sobre los puntos de interés, manejar sus propios tiempos y esquivar a los grupos grandes.
+
+
+
 - - -
 
 ### 📍 Costa Sur & Sudoeste
@@ -177,30 +208,7 @@ Desde el barco de ida confirmamos nuestros puntos de interés charlando con un g
 * **Mejor horario para ir:** Temprano, alrededor 9:00 AM, o después de las 16:00 PM. No es un lugar tan masificado por el turismo, pero la humedad y el calor dentro de la cueva se hacen sentir en el horario pico del mediodía.
 * **La experiencia:** Es uno de los templos más sagrados y activos de la isla. Tiene escaleras en su entrada y el ingreso al templo es agachándose por una rendija estrecha en la roca, lo que simboliza el renacimiento desde el vientre de la Madre Tierra. Es un lugar de mucha energía espiritual (y hogar de una especie de cangrejo endémico ciego en peligro de extinción). Cuenta con varios altares en su interior, inclusive uno dedicado al budismo. Requiere vestir *sarong* y cubrirse los hombros obligatoriamente. Durante nuestra visita nos encontramos con varias ceremonias en las que grupos de personas locales hacían su ritual de rezo y luego eran bendecidos por el sacerdote.
 
-### 🤿 Snorkel en Nusa Penida: Nadar con Mantarrayas
 
-Nusa Penida tiene varios puntos de snorkel increíbles. Los principales son: **Crystal Bay, Manta Bay, Manta Point**, y otros dos muy conocidos que completan el circuito, como **Gamat Bay** y **Wall Point**. De todos estos, **solo a Crystal Bay es viable acceder directamente desde la playa**. Para llegar a los demás hay que hacer una excursión en barco; nosotros elegimos [esta excursión / agregar link] y fue un éxito total.
-
-El principal atractivo de la isla es la posibilidad de nadar con mantarrayas gigantes (e inofensivas) de hasta 4 metros de envergadura. En los otros puntos del recorrido, también es posible ver tortugas, peces tropicales y arrecifes de coral llenos de vida.
-
-#### ¿Dónde ver mantas: Manta Point o Manta Bay?
-
-Las experiencias son completamente diferentes y depende mucho de lo que busques (y de cómo te lleves con el mar).
-
-* **Manta Point:**
-  * **Posibilidades de ver mantas:** 80% a 90% durante casi todo el año.
-  * **La experiencia:** Es una "estación de limpieza", el lugar exacto en mar abierto al que las mantas acuden para que los peces pequeños las limpien de parásitos. 
-  * **A tener en cuenta:** El mar acá suele estar bastante movido y el agua es más fría. El viaje en barco es un poco más largo y marea a quienes son sensibles. Podés reservar tu lugar para esta opción [acá / agregar link de afiliado].
-
-* **Manta Bay:**
-  * **Posibilidades de ver mantas:** Alrededor de un 60% a 70% en temporada seca (de mayo a octubre), bajando un poco las chances en época de lluvias.
-  * **La experiencia:** Es una bahía profunda rodeada de acantilados. Tiene olas, pero no tiene tanto movimiento extremo como Manta Point. Nosotros tuvimos la suerte de verlas acá y fue algo verdaderamente impresionante.
-
-#### 💡 Datos clave para tu excursión de snorkel
-
-* **Qué incluye:** Prácticamente todas las excursiones incluyen el equipo de snorkel (máscara y tubo) y chaleco salvavidas (su uso es opcional, pero recomendado si hay corriente).
-* **Horarios:** Suelen salir entre las 9:00 AM y las 10:00 AM en lanchas compartidas con un grupo considerable de personas.
-* **Dato para grupos:** Si viajan en un grupo de **4 o más personas**, es una excelente opción alquilar una lancha privada. El costo se divide, y tienen la libertad de dialogar sobre los puntos de interés, manejar sus propios tiempos y esquivar a los grupos grandes.
 
 - - -
 
