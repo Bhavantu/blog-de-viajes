@@ -203,7 +203,9 @@ Existen 9 actividades principales que hacer en Nusa Penida que agrupamos geográ
 * **Mejor horario para ir:** Después de las 16:00 PM.
 * **La experiencia:** La postal icónica de la isla. La vista superior desde el acantilado es hermosa. El descenso hacia la playa es por una escalera empinada de rocas, la bajada es exigente y lleva unos 30 minutos de caminata al sol y por una bajada bastante rústica. No recomendamos hacerlo durante las horas de calor, pero vale totalmente la pena. La playa de abajo aunque no apta para baño, es increíble; en la tarde hay zonas de sombra debajo de una especie de cueva de roca.
 
-  <div class="post-img-box img-completo img-centro"><img src="/img/diario/nusa-penida-kelingking-beach-guía-completa-nusa-penida-2026.jpeg" alt="Imagen de bitácora"><span class="img-caption">Kelingking Beach, Nusa Pénida, en Bali, Indonesia </span></div>
+  <div class="post-img-box img-mediano img-centro"><img src="/img/diario/kelingking-beach22.webp" alt="Imagen de bitácora"><span class="img-caption">Kelingking Beach, Nusa Pénida, en Bali, Indonesia </span></div>
+
+  <div class="post-img-box img-completo img-centro"><img src="/img/diario/kelingking-beach3.webp" alt="Imagen de bitácora"><span class="img-caption">Kelingking Beach, descenso a la playa Nusa Pénida, en Bali, Indonesia </span></div>
 
 - - -
 
