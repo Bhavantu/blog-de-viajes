@@ -117,9 +117,9 @@ La excursión de un día es una opción rápida y fácil para darle un vistazo a
 * **Por qué NO recomendamos la excursión de 1 día:** Las lanchas rápidas desembarcan masivamente entre las 9:30 AM y las 10:30 AM. Durante ese rango horario y hasta las 15:30 PM, los puntos icónicos se colapsan, los miradores se llenan con gente haciendo sesiones de fotos y las estrechas calles se atascan por el tráfico para ir de un punto a otro, con esperas de hasta 1 hora según nos contaron.
 * **Por qué elegimos quedarnos a dormir en la isla:** Poder recorrer a nuestro ritmo, visitando las atracciones principales a contra horario de los tours (a primera hora de la mañana o a última hora de la tarde), disfrutando del atardecer y la paz de la isla cuando cae el sol (principalmente en la costa oeste). Además de experimentar la Isla, Sus tradiciones y sus pueblos en la costa este. Recomendamos para todos aquellos que se interesen por la cultura y las tradiciones locales.
 
-  <div class="post-img-box img-pequeño img-izquierda"><img src="/img/diario/ceremonia.jpeg" alt="Imagen de bitácora"><span class="img-caption">Ceremonia en el pueblo de la costa este, pasamos a conocer y nos quedamos charlando con los organizadores de seguridad</span></div>
+  <div class="post-img-box img-pequeño img-centro"><img src="/img/diario/ceremonia.jpeg" alt="Imagen de bitácora"><span class="img-caption">Ceremonia en el pueblo de la costa este, pasamos a conocer y nos quedamos charlando con los organizadores de seguridad</span></div>
 
-  <div class="post-img-box img-mediano img-derecha"><img src="/img/diario/nusa-penida-village2.webp" alt="Imagen de bitácora"><span class="img-caption">Villa en la costa este de Nusa Penida, paseo al atardecer charlando con personas locales </span></div>
+  <div class="post-img-box img-mediano img-centro"><img src="/img/diario/nusa-penida-village2.webp" alt="Imagen de bitácora"><span class="img-caption">Villa en la costa este de Nusa Penida, paseo al atardecer charlando con personas locales </span></div>
 
 - - -
 
@@ -153,9 +153,9 @@ Elegir la ubicación del hospedaje cambia por completo la experiencia de viaje. 
   * [Kabeh Jati Garden](https://www.booking.com/hotel/id/kabeh-jati-garden-villa-amp-restaurant.html): Planeamos 3 días y nos quedamos 12, el lugar es lindo y con piscina, la familia que lo dirige es un amor y el desayuno es completo y delicioso.
   * [Seven Dreams](https://www.booking.com/hotel/id/seven-dreams-a-pramana-experience.html): Otra excelente opción para quienes buscan unas vacaciones relajantes con vista al mar, un buen restaurante y spa de masajes en un mismo lugar.
 
-<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/seven-dreams-nusa-penida-bali.jpg" alt="Imagen de bitácora"><span class="img-caption">Seven dreams, Costa este de Nusa Penida, Bali, Indonesia</span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/seven-dreams-nusa-penida-bali.jpg" alt="Imagen de bitácora"><span class="img-caption">Seven dreams, Costa este de Nusa Penida, Bali, Indonesia</span></div>
 
-<div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/nusa-penida-hotel-guitar.webp" alt="Imagen de bitácora"><span class="img-caption">Kabeh Jati Garden, hotel Nusa Penida</span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/nusa-penida-hotel-guitar.webp" alt="Imagen de bitácora"><span class="img-caption">Kabeh Jati Garden, hotel Nusa Penida</span></div>
 
 ### 3. Costa Oeste: La zona turística (Crystal Bay / Kelingking)
 
