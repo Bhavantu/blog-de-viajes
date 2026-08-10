@@ -17,7 +17,7 @@ Nusa Pénida es una hermosa Isla de playas increibles y acantilados dramáticos,
 * **Dónde alojarse, recomendamos:**
 
   * [La Marrocco Villas](https://www.booking.com/hotel/id/la-marrocco-villas.html): Simulando un cuento de hadas, este palacio estilo Marrocco con piscina y vista al mar ofrece confort total, un espacio amplio con cocina y living, piscina privada y un pequeño jardín (solo apto para adultos).
-  * [Suda Cottage](https://www.booking.com/hotel/id/suda-cottage-kabupaten-klungkung2.html?aid=306396&label=nusa-penida-Y8o%2AyIaPGdEIrZy2MmZDswS465787676529%253Apl%253Ata%253Ap1%253Ap2%253Aac%253Aap%253Aneg%253Afi%253Atikwd-354807164113%253Alp9260154%253Ali%253Adec%253Adm&sid=90611b33264c18071339590e9ab71fc9&checkin=2026-09-21&checkout=2026-09-23&dist=0&group_adults=2&group_children=0&hapos=1&hpos=1&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&soh=1&sohad=1&sr_order=popularity&srepoch=1786246822&srpvid=7ab619cd26a30417&type=total&ucfs=1&#no_availability_msg): Una opción con vistas al mar, un cuarto cómodo, se llega mediante un pasillo interno y se encuentra a distancia caminable de restaurantes y cafés bonitos como Secret Penida.
+  * [Suda Cottage](https://www.booking.com/hotel/id/suda-cottage-kabupaten-klungkung2.html?aid=306396&label=nusa-penida-Y8o%2AyIaPGdEIrZy2MmZDswS465787676529%253Apl%253Ata%253Ap1%253Ap2%253Aac%253Aap%253Aneg%253Afi%253Atikwd-354807164113%253Alp9260154%253Ali%253Adec%253Adm&sid=90611b33264c18071339590e9ab71fc9&checkin=2026-09-21&checkout=2026-09-23&dist=0&group_adults=2&group_children=0&hapos=1&hpos=1&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&soh=1&sohad=1&sr_order=popularity&srepoch=1786246822&srpvid=7ab619cd26a30417&type=total&ucfs=1&#no_availability_msg): Una opción con vistas al mar, un cuarto cómodo, se llega mediante un pasillo interno y se encuentra a poca distancia caminando de restaurantes y cafés bonitos como "Secret Penida".
 
 <div class="post-img-box img-mediano img-centro"><img src="/img/diario/la-marrocco-villas-.jpg" alt="Imagen de bitácora"><span class="img-caption">La Marrocco Villas</span></div>
 
@@ -27,9 +27,9 @@ Nusa Pénida es una hermosa Isla de playas increibles y acantilados dramáticos,
 
 * **Lugares turísticos cercanos:** Diamond Beach / Atuh Beach.
 * **A favor:** Es nuestra favorita por la paz absoluta, paisajes de acantilados, amaneceres increíbles con vista al mar.
-* **Por qué nos encantó hacer base acá:** Dormir en la costa este de Nusa Penida nos permitió disfrutar de la isla en silencio y conectar con la cultura de Bali en un pueblo tradicional. En este lado de la isla el ritmo generalmente es lento, y podés pasear por las callecitas conociendo gente local y caminando por la costa al atardecer.
-* **En contra:** Menor oferta de restaurantes nocturnos y distancias más largas para ver el atardecer en el oeste o trasladarse a los puntos turísticos de la costa oeste.
-* **Ideal para:** Viajeros de *slow travel*, parejas, nómadas digitales y quienes priorizan la tranquilidad.
+* **Por qué nos encantó hacer base acá:** Dormir en la costa este de Nusa Penida nos permitió disfrutar de la isla en silencio y conectar con la cultura de Bali en un pueblo tradicional. En este lado de la isla el ritmo generalmente es lento, y podés pasear por las callecitas conociendo gente local y caminando por la costa en la tarde.
+* **En contra:** Menor oferta de restaurantes nocturnos y distancias más largas para ver el atardecer o trasladarse a los puntos turísticos en la costa oeste.
+* **Ideal para:** Viajeros amantes de los viajes lentos, parejas, nómadas digitales y quienes priorizan la tranquilidad.
 * **Dónde quedarse en la costa este, recomendamos:**
 
   * [Kabeh Jati Garden](https://www.booking.com/hotel/id/kabeh-jati-garden-villa-amp-restaurant.html): Planeamos 3 días y nos quedamos 12, el lugar es lindo y con piscina, la familia que lo dirige es un amor y el desayuno es completo y delicioso.
@@ -57,7 +57,7 @@ Nusa Pénida es una hermosa Isla de playas increibles y acantilados dramáticos,
 
 Si optás por quedarte en Nusa Penida podrás visitar a tu propio ritmo estas playas y puntos de interés que además de dejarte hermosas fotos son muy disfrutables, a continuación nuestros favoritos.
 
-1. ### Kelingking Beach (La famosa playa T-Rex)
+### 1 Kelingking Beach (La famosa playa T-Rex)
 
 * **Nuestra Puntuación:** 9/10
 * **Costo:** Entrada: 10.000 IDR (incluye estacionamiento)
@@ -66,7 +66,7 @@ Si optás por quedarte en Nusa Penida podrás visitar a tu propio ritmo estas pl
 
   <div class="post-img-box img-mediano img-centro"><img src="/img/diario/kelingking-beach23.webp" alt="Imagen de bitácora"><span class="img-caption">Kelingking Beach, Nusa Pénida, en Bali, Indonesia </span></div>
 
-2. ### Diamond Beach y Atuh Beach
+## 2 Diamond Beach y Atuh Beach
 
 * **Nuestra Puntuación:** 10/10
 * **Costo:** Entrada combinada que varía según la zona de ingreso: desde Atuh Beach 25.000 IDR; desde Diamond Beach 45.000 IDR (aprox).
@@ -76,7 +76,7 @@ Si optás por quedarte en Nusa Penida podrás visitar a tu propio ritmo estas pl
 
   <div class="post-img-box img-mediano img-centro"><img src="/img/diario/diamond-beach-nusa-penida-bali-indonesia-.jpeg" alt="Imagen de bitácora"><span class="img-caption">Diamond Beach, Nusa Penida, Bali Indonesia</span></div>
 
-3. ### Nadar con Mantarayas gigantes inofensivas
+## 3 Nadar con Mantarayas gigantes inofensivas
 
 Una de las experiencias más inolvidables de la Isla es la posibilidad de nadar con mantarrayas gigantes (e inofensivas) de hasta 4 metros de largo. Existen dos lugares accesibles unicamente en barco en donde se puede realizar esta actividad: Manta Bay y Manta Point la diferencia principalmente radica en que:
 
@@ -102,6 +102,6 @@ Manta Point es Es una "estación de limpieza", el lugar en mar abierto al que la
   * **Mejor horario para ir:** Antes de las 9:00 AM para un baño tranquilo, o a partir de las 16:30 PM para disfrutar de una de las mejores puestas de sol de la isla.
   * **La experiencia:** Una bahía protegida de arena oscura y palmeras. Excelente para nadar y hacer snorkel en aguas tranquilas.
 
-Si querés leer información más detallada sobre que hacer, costos y tips para evitar las multitudes te sugerimos visitar nuestra [Guia ](https://blogcito.com/diario/2026-08-09-gu%C3%ADa-de-nusa-penida-2026-c%C3%B3mo-visitarla-sin-masas-zonas-d%C3%B3nde-dormir-y-presupuesto-real/)completa [para visitar Nusa Penida 2026](https://blogcito.com/diario/2026-08-09-gu%C3%ADa-de-nusa-penida-2026-c%C3%B3mo-visitarla-sin-masas-zonas-d%C3%B3nde-dormir-y-presupuesto-real/)
+Estos son algunos de los 9 puntos principales para ver en Nusa Pénida. Si querés leer información más detallada sobre que hacer, costos y tips para evitar las multitudes te sugerimos visitar nuestra [Guia completa ](https://blogcito.com/diario/2026-08-09-gu%C3%ADa-de-nusa-penida-2026-c%C3%B3mo-visitarla-sin-masas-zonas-d%C3%B3nde-dormir-y-presupuesto-real/)[para visitar Nusa Penida 2026](https://blogcito.com/diario/2026-08-09-gu%C3%ADa-de-nusa-penida-2026-c%C3%B3mo-visitarla-sin-masas-zonas-d%C3%B3nde-dormir-y-presupuesto-real/)
 
 Si te gusta la idea de hacer snorkel en playas tranquilas te recomendamos leer [Amed, Bali: Guía real de slow travel](https://blogcito.com/diario/2026-07-18-amed-bali-gu%C3%ADa-real-de-slow-travel/)
