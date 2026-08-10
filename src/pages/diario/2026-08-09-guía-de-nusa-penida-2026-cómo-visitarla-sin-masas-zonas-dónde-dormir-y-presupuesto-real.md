@@ -7,7 +7,7 @@ tag: guia de viaje
 pais: Indonesia
 description: "Viajá a Nusa Penida en 2026 a tu ritmo: cómo evitar multitudes,
   mejores playas, snorkel con mantas, costos reales y alojamientos."
-main_image: /img/diario/nusa-penida-kelingking-beach-guía-completa-nusa-penida-2026.jpeg
+main_image: /img/diario/nusa-penida-kelingking-beach-guía-completa-nusa-penida-2026.webp
 ---
 Nusa Penida es una isla de acantilados dramáticos, aguas turquesas y una escala natural impresionante que promete y realmente cumple con las expectativas. Sin embargo, en los últimos años se convirtió también en uno de los puntos más saturados de Bali debido a las excursiones relámpago de un día. En esta **guía de Nusa Penida 2026**, te compartimos nuestra experiencia real recorriendo la isla a ritmo lento (como nos gusta en este blog), consejos para disfrutar y evitar las multitudes.
 
