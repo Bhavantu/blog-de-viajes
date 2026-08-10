@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/BlogPostLayout.astro
-title: "Que ver en Nusa Penida: Guia completa 2026 Donde quedarse y mejores
+title: "Que ver en Nusa Penida: Guia completa 2026. Donde quedarse y mejores
   consejos para recorrerla sin multitudes"
 date: 2026-08-09T11:31:00.000+08:00
 tag: guia de viaje
