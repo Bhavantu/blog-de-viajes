@@ -118,6 +118,8 @@ La excursión de un día es una opción rápida y fácil para darle un vistazo a
 
   <div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/ceremonia.jpeg" alt="Imagen de bitácora"><span class="img-caption">Ceremonia en el pueblo de la costa este, pasamos a conocer y nos quedamos charlando con los organizadores de seguridad</span></div>
 
+  <div class="post-img-box img-completo img-centro"><img src="/img/diario/nusa-penida-village2.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+
 - - -
 
 ## Dónde quedarse en Nusa Penida: Análisis por Zonas
