@@ -74,7 +74,7 @@ Si optás por quedarte en Nusa Penida podrás visitar a tu propio ritmo estas pl
 
   <div class="post-img-box img-mediano img-centro"><img src="/img/diario/diamond-beach-nusa-penida-bali-indonesia-.jpeg" alt="Imagen de bitácora"><span class="img-caption">Diamond Beach, Nusa Penida, Bali Indonesia</span></div>
 
-3. ### Nadar con Mantarayas gigantes inofensivas 
+3. ### Nadar con Mantarayas gigantes inofensivas
 
 Una de las experiencias más inolvidables de la Isla es la posibilidad de nadar con mantarrayas gigantes (e inofensivas) de hasta 4 metros de largo. Existen dos lugares accesibles unicamente en barco en donde se puede realizar esta actividad: Manta Bay y Manta Point la diferencia principalmente radica en que:
 
@@ -84,14 +84,7 @@ Nusa Penida tiene varios puntos de snorkel. Los principales son: **Crystal Bay, 
 
 Manta Point es Es una "estación de limpieza", el lugar en mar abierto al que las mantas acuden para que los peces pequeños las limpien de parásitos. **Posibilidades de ver mantas: 80% a 90%** durante casi todo el año. A tener en cuenta: Es una experiencia en mar abierto, suele estar bastante movido y el agua es más fría. El viaje en barco es un poco más largo y con mucho movimiento, pero la experiencia es increíble. [Podés reservar tu lugar para esta opción acá.](https://www.getyourguide.com/es-es/nusa-penida-l89276/isla-de-nusa-penida-snorkel-en-manta-point-y-tour-por-la-costa-oeste-t816548?date_from=2026-08-20)
 
-#### Crystal Bay
-
-* **Nuestra Puntuación:** 7/10
-* **Costo:** Entrada gratuita | Estacionamiento: 5.000 IDR.
-* **Mejor horario para ir:** Antes de las 9:00 AM para un baño tranquilo, o a partir de las 16:30 PM para disfrutar de una de las mejores puestas de sol de la isla.
-* **La experiencia:** Una bahía protegida de arena oscura y palmeras. Excelente para nadar y hacer snorkel en aguas tranquilas.
-
-#### Broken Beach (Pasih Uug) y Angel's Billabong
+#### 4. Broken Beach (Pasih Uug) y Angel's Billabong
 
 * **Nuestra Puntuación:** 8/10 *(Nota: a la masificación le damos un 5/10)*
 * **Costo:** Entrada combinada: 10.000 IDR | Estacionamiento: 10.000 IDR.
@@ -100,4 +93,14 @@ Manta Point es Es una "estación de limpieza", el lugar en mar abierto al que la
 
   <div class="post-img-box img-mediano img-centro"><img src="/img/diario/broken-beach-en-indonesia-nusa-penida.jpeg" alt="Imagen de bitácora"><span class="img-caption">Broken Beach Nusa Pénida, en Bali, Indonesia </span></div>
 
-  Si querés leer más información detallada sobre que hacer, costos y tips para evitar
+  ### 5. Crystal Bay
+
+  * **Nuestra Puntuación:** 7/10
+  * **Costo:** Entrada gratuita | Estacionamiento: 5.000 IDR.
+  * **Mejor horario para ir:** Antes de las 9:00 AM para un baño tranquilo, o a partir de las 16:30 PM para disfrutar de una de las mejores puestas de sol de la isla.
+  * **La experiencia:** Una bahía protegida de arena oscura y palmeras. Excelente para nadar y hacer snorkel en aguas tranquilas.
+
+  Si querés leer información más detallada sobre que hacer, costos y tips para evitar las multitudes te sugerimos visitar nuestra [Guia ](https://blogcito.com/diario/2026-08-09-gu%C3%ADa-de-nusa-penida-2026-c%C3%B3mo-visitarla-sin-masas-zonas-d%C3%B3nde-dormir-y-presupuesto-real/)completa [para visitar Nusa Penida 2026](https://blogcito.com/diario/2026-08-09-gu%C3%ADa-de-nusa-penida-2026-c%C3%B3mo-visitarla-sin-masas-zonas-d%C3%B3nde-dormir-y-presupuesto-real/)
+
+Si te gusta la idea de hacer snorkel en playas tranquilas te recomendamos leer https://blogcito.com/diario/2026-07-18-amed-bali-gu%C3%ADa-real-de-slow-travel/
+https://blogcito.com/diario/2026-07-18-amed-bali-gu%C3%ADa-real-de-slow-travel/
