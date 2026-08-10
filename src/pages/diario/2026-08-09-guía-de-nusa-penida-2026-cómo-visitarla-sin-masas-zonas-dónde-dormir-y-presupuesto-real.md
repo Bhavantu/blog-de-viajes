@@ -160,11 +160,15 @@ Elegir la ubicación del hospedaje cambia por completo la experiencia de viaje. 
   * [Crystal Bay Bungalows](https://www.booking.com/hotel/id/crystal-bay-pool-view-bungalow.html): Este hotel destaca por su cercanía a la playa Crystal Bay (playa apta para baño y snorkel). Es una opción accesible con una construcción tradicional, piscina y un entorno verde arbolado.
   * [Mimpi Villas - Boutique](https://www.booking.com/hotel/id/mimpi-villa-private-luxury-villas-in-penida.html): Para quienes buscan confort y cercanía a la playa, un lugar que se acerca bastante al paraíso.
 
+    <div class="post-img-box img-mediano img-centro"><img src="/img/diario/cristal-bay-bungalows.jpg" alt="Imagen de bitácora"><span class="img-caption">Crystal Bay Bungalows, Nusa Penida Bali </span></div>
+
 - - -
 
-## Qué ver en Nusa Penida: Análisis por Costas
+## Qué ver en Nusa Penida
 
-Desde el barco de ida confirmamos nuestros puntos de interés charlando con un guía local, sonriente y amable. Nos comentó sobre los principales atractivos que agrupamos geográficamente a continuación:
+#### Análisis por costa
+
+Existen 9 actividades principales que hacer en Nusa Penida que agrupamos geográficamente a continuación, cada uno es bastante épico y los confirmamos desde el barco de ida charlando con un guía local, sonriente y amable. 
 
 ### 📍 Costa Noroeste & Oeste
 
