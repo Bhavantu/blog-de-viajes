@@ -167,9 +167,9 @@ Elegir la ubicación del hospedaje cambia por completo la experiencia de viaje. 
   * [Crystal Bay Bungalows](https://www.booking.com/hotel/id/crystal-bay-pool-view-bungalow.html): Este hotel destaca por su cercanía a la playa Crystal Bay (playa apta para baño y snorkel). Es una opción accesible con una construcción tradicional, piscina y un entorno verde arbolado.
   * [Mimpi Villas - Boutique](https://www.booking.com/hotel/id/mimpi-villa-private-luxury-villas-in-penida.html): Para quienes buscan confort y cercanía a la playa, un lugar que se acerca bastante al paraíso.
 
-    <div class="post-img-box img-mediano img-centro"><img src="/img/diario/cristal-bay-bungalows.jpg" alt="Imagen de bitácora"><span class="img-caption">Crystal Bay Bungalows, Nusa Penida Bali </span></div>
+    <div class="post-img-box img-mediano img-derecha"><img src="/img/diario/cristal-bay-bungalows.jpg" alt="Imagen de bitácora"><span class="img-caption">Crystal Bay Bungalows, Nusa Penida Bali </span></div>
 
-    <div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+    <div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/mimipivillas.jpg" alt="Imagen de bitácora"><span class="img-caption">Mimpi Villas - Boutique Alojamiento en Nusa Pénida, costa Oeste </span></div>
 
 - - -
 
