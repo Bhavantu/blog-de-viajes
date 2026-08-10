@@ -194,7 +194,7 @@ Existen 9 actividades principales que hacer en Nusa Penida que agrupamos geográ
 
   <div class="post-img-box img-mediano img-centro"><img src="/img/diario/broken-beach-en-indonesia-nusa-penida.jpeg" alt="Imagen de bitácora"><span class="img-caption">Broken Beach Nusa Pénida, en Bali, Indonesia </span></div>
 
-#### Kelingking Beach (El famoso T-Rex)
+#### Kelingking Beach (La famosa playa T-Rex)
 
 * **Nuestra Puntuación:** 9/10
 * **Costo:** Entrada: 10.000 IDR (incluye estacionamiento)
