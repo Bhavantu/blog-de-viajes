@@ -114,7 +114,9 @@ El transporte en Nusa Penida es un tema central. **Como mencionamos, las aplicac
 La excursión de un día es una opción rápida y fácil para darle un vistazo a los principales puntos turísticos de la isla (los detallamos abajo). Pero tiene algunos peros:
 
 * **Por qué NO recomendamos la excursión de 1 día:** Las lanchas rápidas desembarcan masivamente entre las 9:30 AM y las 10:30 AM. Durante ese rango horario y hasta las 15:30 PM, los puntos icónicos se colapsan, los miradores se llenan con gente haciendo sesiones de fotos y las estrechas calles se atascan por el tráfico para ir de un punto a otro, con esperas de hasta 1 hora según nos contaron.
-* **Por qué elegimos quedarnos a dormir en la isla:** Poder recorrer a nuestro ritmo, visitando las atracciones principales a contra horario de los tours (a primera hora de la mañana o a última hora de la tarde), disfrutando del atardecer y la paz de la isla cuando cae el sol (principalmente en la costa oeste).
+* **Por qué elegimos quedarnos a dormir en la isla:** Poder recorrer a nuestro ritmo, visitando las atracciones principales a contra horario de los tours (a primera hora de la mañana o a última hora de la tarde), disfrutando del atardecer y la paz de la isla cuando cae el sol (principalmente en la costa oeste). Además de experimentar la Isla, Sus tradiciones y sus pueblos en la costa este. Recomendamos para todos aquellos que se interesen por la cultura y las tradiciones locales.
+
+  <div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/ceremonia.jpeg" alt="Imagen de bitácora"><span class="img-caption">Ceremonia en el pueblo de la costa este, pasamos a conocer y nos quedamos charlando con los organizadores de seguridad</span></div>
 
 - - -
 
