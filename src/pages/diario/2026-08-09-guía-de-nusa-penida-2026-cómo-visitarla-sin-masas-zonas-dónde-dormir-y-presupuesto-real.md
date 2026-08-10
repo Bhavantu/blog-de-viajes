@@ -162,6 +162,8 @@ Elegir la ubicación del hospedaje cambia por completo la experiencia de viaje. 
 
     <div class="post-img-box img-mediano img-centro"><img src="/img/diario/cristal-bay-bungalows.jpg" alt="Imagen de bitácora"><span class="img-caption">Crystal Bay Bungalows, Nusa Penida Bali </span></div>
 
+    <div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+
 - - -
 
 ## Qué ver en Nusa Penida
