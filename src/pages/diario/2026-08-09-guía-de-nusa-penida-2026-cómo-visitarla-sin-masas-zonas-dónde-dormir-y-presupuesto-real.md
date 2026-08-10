@@ -117,7 +117,7 @@ La excursión de un día es una opción rápida y fácil para darle un vistazo a
 * **Por qué NO recomendamos la excursión de 1 día:** Las lanchas rápidas desembarcan masivamente entre las 9:30 AM y las 10:30 AM. Durante ese rango horario y hasta las 15:30 PM, los puntos icónicos se colapsan, los miradores se llenan con gente haciendo sesiones de fotos y las estrechas calles se atascan por el tráfico para ir de un punto a otro, con esperas de hasta 1 hora según nos contaron.
 * **Por qué elegimos quedarnos a dormir en la isla:** Poder recorrer a nuestro ritmo, visitando las atracciones principales a contra horario de los tours (a primera hora de la mañana o a última hora de la tarde), disfrutando del atardecer y la paz de la isla cuando cae el sol (principalmente en la costa oeste). Además de experimentar la Isla, Sus tradiciones y sus pueblos en la costa este. Recomendamos para todos aquellos que se interesen por la cultura y las tradiciones locales.
 
-  <div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/ceremonia.jpeg" alt="Imagen de bitácora"><span class="img-caption">Ceremonia en el pueblo de la costa este, pasamos a conocer y nos quedamos charlando con los organizadores de seguridad</span></div>
+  <div class="post-img-box img-pequeño img-izquierda"><img src="/img/diario/ceremonia.jpeg" alt="Imagen de bitácora"><span class="img-caption">Ceremonia en el pueblo de la costa este, pasamos a conocer y nos quedamos charlando con los organizadores de seguridad</span></div>
 
   <div class="post-img-box img-mediano img-derecha"><img src="/img/diario/nusa-penida-village2.webp" alt="Imagen de bitácora"><span class="img-caption">Villa en la costa este de Nusa Penida, paseo al atardecer charlando con personas locales </span></div>
 
@@ -137,7 +137,7 @@ Elegir la ubicación del hospedaje cambia por completo la experiencia de viaje. 
   * [La Marrocco Villas](https://www.booking.com/hotel/id/la-marrocco-villas.html): Simulando un cuento de hadas, este palacio estilo Marrocco con piscina y vista al mar ofrece confort total, un espacio amplio con cocina y living, piscina privada y un pequeño jardín (solo apto para adultos).
   * [Suda Cottage](https://www.booking.com/hotel/id/suda-cottage-kabupaten-klungkung2.html?aid=306396&label=nusa-penida-Y8o%2AyIaPGdEIrZy2MmZDswS465787676529%253Apl%253Ata%253Ap1%253Ap2%253Aac%253Aap%253Aneg%253Afi%253Atikwd-354807164113%253Alp9260154%253Ali%253Adec%253Adm&sid=90611b33264c18071339590e9ab71fc9&checkin=2026-09-21&checkout=2026-09-23&dist=0&group_adults=2&group_children=0&hapos=1&hpos=1&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&soh=1&sohad=1&sr_order=popularity&srepoch=1786246822&srpvid=7ab619cd26a30417&type=total&ucfs=1&#no_availability_msg): Una opción con vistas al mar, un cuarto cómodo, se llega mediante un pasillo interno y se encuentra a distancia caminable de restaurantes y cafés bonitos como Secret Penida.
 
-    <div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/la-marrocco-villas-.jpg" alt="Imagen de bitácora"><span class="img-caption">La Marrocco Villas</span></div>
+<div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/la-marrocco-villas-.jpg" alt="Imagen de bitácora"><span class="img-caption">La Marrocco Villas</span></div>
 
 <div class="post-img-box img-mediano img-derecha"><img src="/img/diario/suda-cottagge-nusa-penida-.jpg" alt="Imagen de bitácora"><span class="img-caption">Suda Cottage, Nusa Penida Bali, Indonesia </span></div>
 
@@ -153,7 +153,7 @@ Elegir la ubicación del hospedaje cambia por completo la experiencia de viaje. 
   * [Kabeh Jati Garden](https://www.booking.com/hotel/id/kabeh-jati-garden-villa-amp-restaurant.html): Planeamos 3 días y nos quedamos 12, el lugar es lindo y con piscina, la familia que lo dirige es un amor y el desayuno es completo y delicioso.
   * [Seven Dreams](https://www.booking.com/hotel/id/seven-dreams-a-pramana-experience.html): Otra excelente opción para quienes buscan unas vacaciones relajantes con vista al mar, un buen restaurante y spa de masajes en un mismo lugar.
 
-    <div class="post-img-box img-mediano img-derecha"><img src="/img/diario/seven-dreams-nusa-penida-bali.jpg" alt="Imagen de bitácora"><span class="img-caption">Seven dreams, Costa este de Nusa Penida, Bali, Indonesia</span></div>
+<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/seven-dreams-nusa-penida-bali.jpg" alt="Imagen de bitácora"><span class="img-caption">Seven dreams, Costa este de Nusa Penida, Bali, Indonesia</span></div>
 
 <div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/nusa-penida-hotel-guitar.webp" alt="Imagen de bitácora"><span class="img-caption">Kabeh Jati Garden, hotel Nusa Penida</span></div>
 
@@ -167,9 +167,9 @@ Elegir la ubicación del hospedaje cambia por completo la experiencia de viaje. 
   * [Crystal Bay Bungalows](https://www.booking.com/hotel/id/crystal-bay-pool-view-bungalow.html): Este hotel destaca por su cercanía a la playa Crystal Bay (playa apta para baño y snorkel). Es una opción accesible con una construcción tradicional, piscina y un entorno verde arbolado.
   * [Mimpi Villas - Boutique](https://www.booking.com/hotel/id/mimpi-villa-private-luxury-villas-in-penida.html): Para quienes buscan confort y cercanía a la playa, un lugar que se acerca bastante al paraíso.
 
-    <div class="post-img-box img-mediano img-derecha"><img src="/img/diario/cristal-bay-bungalows.jpg" alt="Imagen de bitácora"><span class="img-caption">Crystal Bay Bungalows, Nusa Penida Bali </span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/cristal-bay-bungalows.jpg" alt="Imagen de bitácora"><span class="img-caption">Crystal Bay Bungalows, Nusa Penida Bali </span></div>
 
-    <div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/mimipivillas.jpg" alt="Imagen de bitácora"><span class="img-caption">Mimpi Villas - Boutique Alojamiento en Nusa Pénida, costa Oeste </span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/mimipivillas.jpg" alt="Imagen de bitácora"><span class="img-caption">Mimpi Villas - Boutique Alojamiento en Nusa Pénida, costa Oeste </span></div>
 
 - - -
 
