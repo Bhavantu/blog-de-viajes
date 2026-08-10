@@ -71,7 +71,7 @@ Aunque hay decenas de opciones, acá te dejamos las tres que más nos recomendar
 2. **[Tibumana waterfall](https://www.getyourguide.com/es-es/ubud-l32246/ubud-cascadas-y-templo-con-terraza-de-arroz-en-tour-en-grupo-reducido-t484232/?ranking_uuid=13d6c0db-8eca-42aa-a5ca-99810cda8039&q=tibumana+waterfall&date_from=2026-07-08&date_to=2026-07-08):** Es una pequeña cascada rodeada de una selva densa y con una caída de agua recta y perfecta que forma una pileta natural ideal para nadar y sacar fotos increíbles. La entrada cuenta con escalones y un pequeño templo a la entrada. Aunque no la recorrimos, fue una cascada que nos quedó pendiente de las recomendaciones locales. Las entradas cuestan 15.000 IDR, lo que equivale aproximadamente a 0,84 USD o 0,74 euros.
 3. **[Ulu Petanu waterfall:](https://www.getyourguide.com/es-es/ubud-l32246/tour-por-ubud-con-guia-opcional-en-ingles-espanol-e-italiano-t895337/?ranking_uuid=22ec2f2f-5cf6-40d7-9f4d-6a2f07016c88&q=Cascada+Ulu+Petanu&date_from=2026-07-08&date_to=2026-07-08)** Una gema escondida a 40 minutos de Ubud central. Es una zona selvática con unas piscinas orientadas a ceremonias religiosas en la entrada; hay que bajar 90 escalones, pero es un lugar bastante tranquilo con estacionamiento gratuito. Cuenta con una cascada principal en la que es posible bañarse, otra pequeña y más retirada en la que algunos locales van a hacer pequeñas ceremonias diarias de limpieza y una cueva histórica llamada Tampaksiring de aproximadamente 200 metros llanos; la historia cuenta que fue excavada a mano como parte del sistema de riego de los arrozales en la antigüedad. El ingreso a esta cueva tiene un costo significativo de 10.000 IDR, y el ingreso a la cascada 30.000 IDR. El costo total de ambas entradas es alrededor de 2.24 USD o 1.9 euros. 
 
-<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/clase-de-cocina-balinesa-en-granja-orgánica.jpeg" alt="Taller-de-cocina-granja-ecológica">Taller de cocina vegetariana en granja ecológica Ubud </span></div>
+<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/clase-de-cocina-balinesa-en-granja-orgánica.webp" alt="Taller-de-cocina-granja-ecológica">Taller de cocina vegetariana en granja ecológica Ubud </span></div>
 
 ## 3. Taller de cocina balinesa en una granja ecológica: Nuestra experiencia estrella en Ubud
 
@@ -167,7 +167,7 @@ La famosa "Selfie con el mono": la famosa foto donde parece que el mono sostiene
 
 ## 8. Palacio de Ubud (Puri Saren Agung)
 
-<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/palacio-real-ubud-bali.jpeg" alt="Imagen de bitácora"><span class="img-caption">Palacio real Ubud durante el dia</span></div>
+<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/palacio-real-ubud-bali.webp" alt="Imagen de bitácora"><span class="img-caption">Palacio real Ubud durante el dia</span></div>
 
 Situado en la esquina de Jalan Raya Ubud y Jalan Monkey Forest, frente al mercado de arte tradicional, el Palacio de Ubud es el epicentro geográfico e histórico de la ciudad. Construido durante el reinado de Ida Tjokorda Putu Kandel (años 1800-1823), todavía sirve como residencia oficial para la familia real de Ubud, por lo que solo se puede recorrer su patio exterior público y sus intrincados portales tallados en piedra y decorados con hojas de oro.
 

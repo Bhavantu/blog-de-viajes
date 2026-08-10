@@ -80,7 +80,7 @@ Here is the translation:
 
 **[Ulu Petanu waterfall:](https://www.getyourguide.com/en-us/ubud-l32246/tour-by-ubud-with-optional-english-spanish-and-italian-guide-t895337/?ranking_uuid=22ec2f2f-5cf6-40d7-9f4d-6a2f07016c88&q=Cascada+Ulu+Petanu&date_from=2026-07-08&date_to=2026-07-08)** A hidden gem 40 minutes from central Ubud. It's a jungle area with pools oriented towards religious ceremonies at the entrance; you have to go down 90 stairs, but it's a relatively peaceful place with free parking. It features a main waterfall where you can swim, another smaller and more remote one where locals hold daily cleansing ceremonies, and an historic cave called Tampaksiring approximately 200 meters long; the story goes that it was excavated by hand as part of the ancient rice field irrigation system. The entrance to this cave has a significant cost of 10,000 IDR, and the waterfall entrance costs 30,000 IDR. The total cost of both entrances is around $2.24 or €1.9.
 
-<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/clase-de-cocina-balinesa-en-granja-orgánica.jpeg" alt="Taller-de-cocina-granja-ecológica">Taller de cocina vegetariana en granja ecológica Ubud </span></div>
+<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/clase-de-cocina-balinesa-en-granja-orgánica.webp" alt="Taller-de-cocina-granja-ecológica">Taller de cocina vegetariana en granja ecológica Ubud </span></div>
 
 ## 3. Balinese Cooking Class at an Eco-Farm in Ubud: Our Star Experience
 
@@ -180,7 +180,7 @@ The famous "Selfie with the monkey": the famous photo where it looks like the mo
 
 ## 8. Ubud Palace (Puri Saren Agung)
 
-<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/palacio-real-ubud-bali.jpeg" alt="Imagen de bitácora"><span class="img-caption">Palacio real Ubud durante el dia</span></div>
+<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/palacio-real-ubud-bali.webp" alt="Imagen de bitácora"><span class="img-caption">Palacio real Ubud durante el dia</span></div>
 
 Located at the corner of Jalan Raya Ubud and Jalan Monkey Forest, facing the traditional art market, the Ubud Palace is the geographical and historical epicenter of the city. Built during the reign of Ida Tjokorda Putu Kandel (1800-1823), it still serves as an official residence for the royal family of Ubud, so only its public exterior patio and intricately carved stone gates decorated with golden leaves can be explored.
 
