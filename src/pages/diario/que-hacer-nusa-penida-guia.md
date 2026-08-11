@@ -1,13 +1,14 @@
 ---
 layout: ../../layouts/BlogPostLayout.astro
-title: "Guía de Nusa Penida 2026: Cómo recorrer la isla sin multitudes (qué ver,
-  costos y alojamientos)"
+title: "Que ver en Nusa Penida: Guia completa 2026. Donde quedarse y mejores
+  consejos para recorrerla sin multitudes"
 date: 2026-08-09T11:31:00.000+08:00
 tag: guia de viaje
 pais: Indonesia
-description: "Viajá a Nusa Penida en 2026 a tu ritmo: cómo evitar multitudes,
-  mejores playas, snorkel con mantas, costos reales y alojamientos."
-main_image: /img/diario/nusa-penida-kelingking-beach-guía-completa-nusa-penida-2026.webp
+description: "Viajá a Nusa Penida en 2026 a tu ritmo: que hacer, mejores playas,
+  snorkel con mantas, tips para evitar multitudes, costos reales y
+  alojamientos."
+main_image: /img/diario/kelingking-beach23.webp
 ---
 Nusa Penida es una isla de acantilados dramáticos, aguas turquesas y una escala natural impresionante que promete y realmente cumple con las expectativas. Sin embargo, en los últimos años se convirtió también en uno de los puntos más saturados de Bali debido a las excursiones relámpago de un día. En esta **guía de Nusa Penida 2026**, te compartimos nuestra experiencia real recorriendo la isla a ritmo lento (como nos gusta en este blog), consejos para disfrutar y evitar las multitudes.
 
@@ -114,11 +115,15 @@ El transporte en Nusa Penida es un tema central. **Como mencionamos, las aplicac
 La excursión de un día es una opción rápida y fácil para darle un vistazo a los principales puntos turísticos de la isla (los detallamos abajo). Pero tiene algunos peros:
 
 * **Por qué NO recomendamos la excursión de 1 día:** Las lanchas rápidas desembarcan masivamente entre las 9:30 AM y las 10:30 AM. Durante ese rango horario y hasta las 15:30 PM, los puntos icónicos se colapsan, los miradores se llenan con gente haciendo sesiones de fotos y las estrechas calles se atascan por el tráfico para ir de un punto a otro, con esperas de hasta 1 hora según nos contaron.
-* **Por qué elegimos quedarnos a dormir en la isla:** Poder recorrer a nuestro ritmo, visitando las atracciones principales a contra horario de los tours (a primera hora de la mañana o a última hora de la tarde), disfrutando del atardecer y la paz de la isla cuando cae el sol (principalmente en la costa oeste).
+* **Por qué elegimos quedarnos a dormir en la isla:** Poder recorrer a nuestro ritmo, visitando las atracciones principales a contra horario de los tours (a primera hora de la mañana o a última hora de la tarde), disfrutando del atardecer y la paz de la isla cuando cae el sol (principalmente en la costa oeste). Además de experimentar la Isla, Sus tradiciones y sus pueblos en la costa este. Recomendamos para todos aquellos que se interesen por la cultura y las tradiciones locales.
+
+  <div class="post-img-box img-pequeño img-centro"><img src="/img/diario/ceremonia.jpeg" alt="Imagen de bitácora"><span class="img-caption">Ceremonia en el pueblo de la costa este, pasamos a conocer y nos quedamos charlando con los organizadores de seguridad</span></div>
+
+  <div class="post-img-box img-mediano img-centro"><img src="/img/diario/nusa-penida-village2.webp" alt="Imagen de bitácora"><span class="img-caption">Villa en la costa este de Nusa Penida, paseo al atardecer charlando con personas locales </span></div>
 
 - - -
 
-## Dónde Alojarse en Nusa Penida: Análisis por Zonas
+## Dónde quedarse en Nusa Penida: Análisis por Zonas
 
 Elegir la ubicación del hospedaje cambia por completo la experiencia de viaje. A continuación desglosamos las mejores zonas para alojarse en Nusa Penida según lo que buscás:
 
@@ -132,6 +137,10 @@ Elegir la ubicación del hospedaje cambia por completo la experiencia de viaje. 
   * [La Marrocco Villas](https://www.booking.com/hotel/id/la-marrocco-villas.html): Simulando un cuento de hadas, este palacio estilo Marrocco con piscina y vista al mar ofrece confort total, un espacio amplio con cocina y living, piscina privada y un pequeño jardín (solo apto para adultos).
   * [Suda Cottage](https://www.booking.com/hotel/id/suda-cottage-kabupaten-klungkung2.html?aid=306396&label=nusa-penida-Y8o%2AyIaPGdEIrZy2MmZDswS465787676529%253Apl%253Ata%253Ap1%253Ap2%253Aac%253Aap%253Aneg%253Afi%253Atikwd-354807164113%253Alp9260154%253Ali%253Adec%253Adm&sid=90611b33264c18071339590e9ab71fc9&checkin=2026-09-21&checkout=2026-09-23&dist=0&group_adults=2&group_children=0&hapos=1&hpos=1&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&soh=1&sohad=1&sr_order=popularity&srepoch=1786246822&srpvid=7ab619cd26a30417&type=total&ucfs=1&#no_availability_msg): Una opción con vistas al mar, un cuarto cómodo, se llega mediante un pasillo interno y se encuentra a distancia caminable de restaurantes y cafés bonitos como Secret Penida.
 
+<div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/la-marrocco-villas-.jpg" alt="Imagen de bitácora"><span class="img-caption">La Marrocco Villas</span></div>
+
+<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/suda-cottagge-nusa-penida-.jpg" alt="Imagen de bitácora"><span class="img-caption">Suda Cottage, Nusa Penida Bali, Indonesia </span></div>
+
 ### 2. Costa Este (paz y tranquilidad local)
 
 * **Lugares turísticos cercanos:** Diamond Beach / Atuh Beach.
@@ -144,6 +153,10 @@ Elegir la ubicación del hospedaje cambia por completo la experiencia de viaje. 
   * [Kabeh Jati Garden](https://www.booking.com/hotel/id/kabeh-jati-garden-villa-amp-restaurant.html): Planeamos 3 días y nos quedamos 12, el lugar es lindo y con piscina, la familia que lo dirige es un amor y el desayuno es completo y delicioso.
   * [Seven Dreams](https://www.booking.com/hotel/id/seven-dreams-a-pramana-experience.html): Otra excelente opción para quienes buscan unas vacaciones relajantes con vista al mar, un buen restaurante y spa de masajes en un mismo lugar.
 
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/seven-dreams-nusa-penida-bali.jpg" alt="Imagen de bitácora"><span class="img-caption">Seven dreams, Costa este de Nusa Penida, Bali, Indonesia</span></div>
+
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/nusa-penida-hotel-guitar.webp" alt="Imagen de bitácora"><span class="img-caption">Kabeh Jati Garden, hotel Nusa Penida</span></div>
+
 ### 3. Costa Oeste: La zona turística (Crystal Bay / Kelingking)
 
 * **A favor:** Cercanía a los mejores puntos para ver el atardecer (Crystal Bay, Amok Sunset) y acceso rápido a los acantilados más famosos. Amplia y variada oferta de estadías y de restaurantes.
@@ -154,11 +167,17 @@ Elegir la ubicación del hospedaje cambia por completo la experiencia de viaje. 
   * [Crystal Bay Bungalows](https://www.booking.com/hotel/id/crystal-bay-pool-view-bungalow.html): Este hotel destaca por su cercanía a la playa Crystal Bay (playa apta para baño y snorkel). Es una opción accesible con una construcción tradicional, piscina y un entorno verde arbolado.
   * [Mimpi Villas - Boutique](https://www.booking.com/hotel/id/mimpi-villa-private-luxury-villas-in-penida.html): Para quienes buscan confort y cercanía a la playa, un lugar que se acerca bastante al paraíso.
 
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/cristal-bay-bungalows.jpg" alt="Imagen de bitácora"><span class="img-caption">Crystal Bay Bungalows, Nusa Penida Bali </span></div>
+
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/mimipivillas.jpg" alt="Imagen de bitácora"><span class="img-caption">Mimpi Villas - Boutique Alojamiento en Nusa Pénida, costa Oeste </span></div>
+
 - - -
 
-## Qué ver en Nusa Penida: Análisis por Costas
+## Qué ver en Nusa Penida
 
-Desde el barco de ida confirmamos nuestros puntos de interés charlando con un guía local, sonriente y amable. Nos comentó sobre los principales atractivos que agrupamos geográficamente a continuación:
+#### Análisis por costa
+
+Existen 9 actividades principales que hacer en Nusa Penida que agrupamos geográficamente a continuación, cada uno es bastante épico y los confirmamos desde el barco de ida charlando con un guía local, sonriente y amable. 
 
 ### 📍 Costa Noroeste & Oeste
 
@@ -176,12 +195,18 @@ Desde el barco de ida confirmamos nuestros puntos de interés charlando con un g
 * **Mejor horario para ir:** 7:30 AM a 8:30 AM.
 * **La experiencia:** Un puente de roca natural sobre un arco marino y una piscina natural de roca volcánica. Muy fotogénico pero con poca sombra y se llena a partir de las 10:00 AM ya que es el primer punto de las excursiones. No hay entrada al agua.
 
-#### Kelingking Beach (El famoso T-Rex)
+  <div class="post-img-box img-mediano img-centro"><img src="/img/diario/broken-beach-en-indonesia-nusa-penida.jpeg" alt="Imagen de bitácora"><span class="img-caption">Broken Beach Nusa Pénida, en Bali, Indonesia </span></div>
+
+#### Kelingking Beach (La famosa playa T-Rex)
 
 * **Nuestra Puntuación:** 9/10
 * **Costo:** Entrada: 10.000 IDR (incluye estacionamiento)
 * **Mejor horario para ir:** Después de las 16:00 PM.
 * **La experiencia:** La postal icónica de la isla. La vista superior desde el acantilado es hermosa. El descenso hacia la playa es por una escalera empinada de rocas, la bajada es exigente y lleva unos 30 minutos de caminata al sol y por una bajada bastante rústica. No recomendamos hacerlo durante las horas de calor, pero vale totalmente la pena. La playa de abajo aunque no apta para baño, es increíble; en la tarde hay zonas de sombra debajo de una especie de cueva de roca.
+
+  <div class="post-img-box img-mediano img-centro"><img src="/img/diario/kelingking-beach22.webp" alt="Imagen de bitácora"><span class="img-caption">Kelingking Beach, Nusa Pénida, en Bali, Indonesia </span></div>
+
+  <div class="post-img-box img-completo img-centro"><img src="/img/diario/kelingking-beach3.webp" alt="Imagen de bitácora"><span class="img-caption">Kelingking Beach, descenso a la playa Nusa Pénida, en Bali, Indonesia </span></div>
 
 - - -
 
@@ -234,6 +259,8 @@ Las experiencias son completamente diferentes y depende mucho de lo que busques 
 * **Mejor horario para ir:** De 7:00 AM a 11:00 AM o a partir de las 15:30 PM.
 * **La experiencia:** Dos de las mejores playas de Indonesia, una al lado de la otra. Diamond Beach destaca por sus acantilados de piedra blanca y agua súper turquesa (no apto para bañarse); Atuh Beach es nuestra playa favorita de la isla, ofrece aguas más calmas y *warungs* tranquilos para descansar sobre la arena.\
   *Dato:* La visita incluye muchos escalones: para bajar a la playa de Diamond, para ingresar a Atuh Beach (no son tantos) y para pasar de una zona a la otra (empinados y casi sin barandas).
+
+  <div class="post-img-box img-mediano img-centro"><img src="/img/diario/diamond-beach-nusa-penida-bali-indonesia-.jpeg" alt="Imagen de bitácora"><span class="img-caption">Diamond Beach, Nusa Penida, Bali Indonesia</span></div>
 
 #### Casa del Árbol (Rumah Pohon) & Mirador Thousand Islands
 
@@ -296,13 +323,13 @@ A continuación desglosamos los costos promedios actualizados en Rupias indonesi
 
 | Concepto / Rubro                                                                                                                                        | Costo IDR (Rupias)    | Costo aprox. USD   | Costo aprox. EUR  | Observaciones / Consejos                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ------------------ | ----------------- | ------------------------------------------------------------------- |
-| **[Fast Boat desde Sanur](https://12go.asia)**                                                                                                          | 300.000 - 400.000 IDR | $19 - $25 USD      | $17 - $23 EUR     | Ida y vuelta reservando online o en puerto con equipaje incluido    |
-| **Tasa de entrada a la isla**                                                                                                                           | 25.000 IDR            | $1.60 USD          | $1.50 EUR         | Se paga al desembarcar en el puerto de la isla (guárdalo)           |
+| **[Fast Boat desde Sanur](https://12go.asia)**                                                                                                          | 300.000 - 400.000 IDR | $19 - $25 USD      | $17 - $23 EUR     | Reserva online o en puerto con equipaje incluido. Costo por viaje   |
+| **Tasa de entrada a la isla**                                                                                                                           | 25.000 IDR            | $1.60 USD          | $1.50 EUR         | Se paga al desembarcar en el puerto de la isla                      |
 | **Alquiler de scooter por día**                                                                                                                         | 75.000 - 100.000 IDR  | $5 - $6.50 USD     | $4.50 - $6 EUR    | Incluye dos cascos (revisar frenos siempre antes de salir)          |
 | **[Coche con conductor por día (8h)](https://www.getyourguide.com/nusa-penida-l89276/nusa-penida-alquiler-de-coches-privados-con-conductor-t395604/?)** | 500.000 - 650.000 IDR | $32 - $42 USD      | $29 - $38 EUR     | Incluye gasolina y conductor local privado                          |
 | **[Alojamiento en Costa Este / Norte](https://www.booking.com)**                                                                                        | 250.000 - 450.000 IDR | $16 - $28 USD      | $15 - $26 EUR     | Precio por noche (Habitación privada doble o bungalow con desayuno) |
-| **[Alojamiento en Costa Oeste](https://www.booking.com)**                                                                                               | 400.000 - 800.000 IDR | $25 - $50 USD      | $23 - $46 EUR     | Los alojamientos con vistas al atardecer suelen ser más premium     |
-| **Comida en Warung Local**                                                                                                                              | 30.000 - 60.000 IDR   | $1.90 - $3.80 USD  | $1.70 - $3.50 EUR | Nasi Goreng, Mie Goreng, Cap Cay + bebida local                     |
+| **[Alojamiento en Costa Oeste](https://www.booking.com)**                                                                                               | 400.000 - 800.000 IDR | $25 - $50 USD      | $23 - $46 EUR     | Alojamientos con vistas al atardecer.                               |
+| **Comida en Warung Local**                                                                                                                              | 30.000 - 60.000 IDR   | $1.90 - $3.80 USD  | $1.70 - $3.50 EUR | Nasi Goreng, Mie Goreng, Cap Cay , jugos naturales                  |
 | **Comida en Restaurante / Café Internacional**                                                                                                          | 100.000 - 180.000 IDR | $6.50 - $11.50 USD | $6 - $10.50 EUR   | Platos occidentales, pizzas, smoothie bowls o café de especialidad  |
 
 - - -
