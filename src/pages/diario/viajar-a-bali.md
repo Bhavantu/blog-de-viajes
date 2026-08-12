@@ -45,6 +45,8 @@ Es una de las zonas más hermosas y turísticas por excelencia. Ubicada hacia el
 
 * Hoteles para quedarse en Uluwatu
 
+Uluwatu Cottages
+
 
 * **[Ubud (Centro)](https://blogcito.com/diario/2026-06-29-guia-de-ubud-cultura-gemas-ocultas-y-costos-2026/):** 
 
