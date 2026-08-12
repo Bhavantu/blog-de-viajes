@@ -118,4 +118,10 @@ Una vez instalados, el tema de moverse tiene su propia mística. Para tramos lar
 
 Tips para disfrutar tu viaje a bali sin estrés: 
 
-1. El ritmo relajado es la norma: los horarios son flexibles, las formas son diferentes, hay que abrirse a disfrutar la experiencia
+1. El ritmo relajado es la norma: los horarios son flexibles, las formas son diferentes, hay que abrirse a disfrutar la experiencia. 
+
+2. Salir con tiempo de sobra: tanto para ir al aeropuerto como si tenes un tour o compromiso, el tránsto es mucho e impredecible. Ya sea por los atascos, el barong o una ceremonía es frecuente quedar detenido en el tráfico y que el traslado demora más de lo esperado, para evitar estrés lo mejor es salir con tiempoextra como norma. 
+
+3. La amabilidad es total y las ofertas para comprar también, simplemente sabe esto antes de ir, agradece amablemente y seguí si no querés comprar porque es algo que pasa gran parte del tiempo (ya que el turismo es la principal fuente de ingresos de la isla). 
+
+4.
