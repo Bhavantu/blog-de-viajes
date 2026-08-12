@@ -33,10 +33,25 @@ Para quienes estén planeando los primeros pasos en la Isla de los dioses acá d
 
 Mientras organizábamos la ruta, fuimos entendiendo que Bali tiene diferentes ritmos según dónde decidas instalarte. Si estas preguntandote cuál es el mejor lugar para quedarse en Bali, la respuesta es: depende de tus gustos e intereses. Pero acá te dejamos un resumen para que te ubiques y elijas con claridad. 
 
-* **Uluwatu (Extremo Sur):** Es una de las zonas más hermosas y turísticas por excelencia. Ubicada hacia el Sur en la península de Bukit, esta zona despliega unos acantilados impresionantes con vistas al atardecer,  playas de arena blanca y olas para surfers de todos los niveles. Aunque la variedad de alojamientos es amplia, en esta zona se encuentran más hoteles boutique que en relación a otras zonas. Acá te dejamos sugerencias según nuestra experiencia.
+* **Uluwatu (Extremo Sur):** 
+
+Zona: 
+
+Es una de las zonas más hermosas y turísticas por excelencia. Ubicada hacia el Sur en la península de Bukit, esta zona despliega unos acantilados impresionantes con vistas al atardecer,  playas de arena blanca y olas para surfers de todos los niveles. Aunque la variedad de alojamientos es amplia, en esta zona se encuentran más hoteles boutique que en relación a otras zonas. Si estas pensando donde quedarte en uluwatu acá te dejamos sugerencias según nuestra experiencia.
+
 * Hoteles para quedarse en Uluwatu
-* **[Ubud (Centro)](https://blogcito.com/diario/2026-06-29-guia-de-ubud-cultura-gemas-ocultas-y-costos-2026/):** Ideal para quienes quiere conectar con la cultura balinesa, hacer yoga en un entorno verde, rodeado selva, terrazas de arroz, templos y una vibra relajada. La oferta de actividades turísticas es muy amplia y aunque el centro es bastante multitudinario hacia el norte hay muchos rincones por conocer. Si quéres saber más [Guia de Ubud: cultura, gemas ocultas y costos 2026](https://blogcito.com/diario/2026-06-29-guia-de-ubud-cultura-gemas-ocultas-y-costos-2026/)
-* **Kuta y Seminyak (Sur/Oeste):** Están muy cerca del aeropuerto (donde pasamos nuestras primeras horas). Es la zona más turística, comercial y ruidosa. Excelente opción si querés aprender a surfear (las olas son amables para principiantes y el fondo es de arena), también hay variedad de bares con música para la noche (muchos de ellos en la playa). El alojamiento es bastante accesible y la variedad infinita. Si sos nómada digital, existe un café 24 horas cerca de Denpasar perfecto para trabajar por las noches.
+
+
+* **[Ubud (Centro)](https://blogcito.com/diario/2026-06-29-guia-de-ubud-cultura-gemas-ocultas-y-costos-2026/):** Ideal para quienes quiere conectar con la cultura balinesa, hacer yoga en un entorno verde, rodeado selva, terrazas de arroz, templos y una vibra relajada. La oferta de actividades turísticas es muy amplia y aunque el centro es bastante multitudinario hacia el norte hay zonas más tranquilas y alejadas para quedarse y muchos rincones por conocer. Si quéres saber más [Guia de Ubud: cultura, gemas ocultas y costos 2026](https://blogcito.com/diario/2026-06-29-guia-de-ubud-cultura-gemas-ocultas-y-costos-2026/)
+
+  Donde quedarse en Ubud: 
+
+
+* **Kuta y Seminyak (Sur/Oeste):** Están muy cerca del aeropuerto (donde pasamos nuestras primeras horas). Es la zona más turística, comercial y ruidosa. Excelente opción si querés aprender a surfear (las olas son amables para principiantes y el fondo es de arena), también hay variedad de bares con música para la noche (muchos de ellos en la playa) o estilo sport bar con cerveza y pantallas deportivas. El alojamiento es bastante accesible y la variedad infinita. 
+
+  Tips para digital nomad: existe un café 24 horas cerca de Denpasar perfecto para trabajar por las noches.
+
+
 * **Amed (Este):** Para quienes buscamos escapar del bullicio turístico, este es el rincón. Es un pueblito pesquero mucho más tranquilo y auténtico, famoso por sus playas de arena negra volcánica y por tener uno de los mejores puntos para hacer snorkel y buceo de toda la isla.
 
 ## Llegar a Bali y el desafío del aeropuerto: Un consejo desde la experiencia
