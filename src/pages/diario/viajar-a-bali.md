@@ -47,7 +47,6 @@ Es una de las zonas más hermosas y turísticas por excelencia. Ubicada hacia el
 
 Uluwatu Cottages
 
-
 * **[Ubud (Centro)](https://blogcito.com/diario/2026-06-29-guia-de-ubud-cultura-gemas-ocultas-y-costos-2026/):** 
 
 Zona: 
@@ -60,18 +59,11 @@ Ideal para quienes quiere conectar con la cultura balinesa, hacer yoga en un ent
 
 Donde quedarse en Ubud: 
 
-
-
 * **Kuta y Seminyak (Sur/Oeste):** 
 
   Están muy cerca del aeropuerto (donde pasamos nuestras primeras horas). Es la zona más turística, comercial y ruidosa. Excelente opción si querés aprender a surfear (las olas son amables para principiantes y el fondo es de arena), también hay variedad de bares con música para la noche (muchos de ellos en la playa) o estilo sport bar con cerveza y pantallas deportivas. El alojamiento es bastante accesible y la variedad infinita. 
 * Tips para digital nomad: existe un café 24 horas cerca de Denpasar perfecto para trabajar por las noches.
-
-
 * Sidemen 
-
-
-
 * **Amed (Este):** Uno de neustros putnos favoritos de la isla; para quienes buscamos escapar del bullicio turístico, este es el rincón. Es un pueblito pesquero en pleno desarrollo pero que conserva su esencia, es tranquilo y auténtico, famoso por sus playas de arena negra volcánica y por tener uno de los mejores puntos para hacer  buceo y snorkel entrando desde la playa. Si te interesa saber más te invitamos a leer nuestro artículo Que hacer en Amed, Bali: Guía real de slow travel.
 
   Dónde quedarse en amed: 
@@ -121,9 +113,5 @@ Una vez instalados, el tema de moverse tiene su propia mística. Para tramos lar
 Tips para disfrutar tu viaje a bali sin estrés: 
 
 1. El ritmo relajado es la norma: los horarios son flexibles, las formas son diferentes, hay que abrirse a disfrutar la experiencia. 
-
 2. Salir con tiempo de sobra: tanto para ir al aeropuerto como si tenes un tour o compromiso, el tránsto es mucho e impredecible. Ya sea por los atascos, el barong o una ceremonía es frecuente quedar detenido en el tráfico y que el traslado demora más de lo esperado, para evitar estrés lo mejor es salir con tiempoextra como norma. 
-
-3. La amabilidad es total y las ofertas para comprar también, simplemente sabe esto antes de ir, agradece amablemente y seguí si no querés comprar porque es algo que pasa gran parte del tiempo (ya que el turismo es la principal fuente de ingresos de la isla). 
-
-4.
+3. La amabilidad es total y las ofertas para comprar también, simplemente sabe esto antes de ir, agradece amablemente y seguí si no querés comprar porque es algo que pasa gran parte del tiempo (ya que el turismo es la principal fuente de ingresos de la isla).
