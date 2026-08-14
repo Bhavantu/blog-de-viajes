@@ -8,7 +8,6 @@ description: >-
   One of New Zealand's unmissable national parks: Nature, Maori culture, and
   adventure from Canterbury to the West Coast
 main_image: /img/diario/dsc_0335.webp
-archivo_original: 2026-05-11-parque-nacional-arthur-pass.md
 ---
 A December afternoon, a month after arriving in New Zealand, sipping mates and chatting with Lucy, a Kiwi friend, at the feet of Mount Maunganui, we decided to ask her, prior to our adventure south, which place in New Zealand she thought we couldn't miss. The response was resounding: "Arthur's Pass", a trekking route with alpine forest and dry tundra landscapes. From that moment on, we decided we had to add it to our itinerary without fail, and although it took its time, we discovered it was only two hours from Christchurch. A fantastic route featuring a spectacular DOC campsite, a space suitable for campervans with a 360° view of the mountain.
 

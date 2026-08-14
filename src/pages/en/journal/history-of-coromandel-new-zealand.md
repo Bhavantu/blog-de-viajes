@@ -9,7 +9,6 @@ description: >-
   Beyond beaches, history and secrets of this peninsula, from the Maori legacy
   to the gold rush fever and up to present-day conservation.
 main_image: /img/diario/whatsapp-image-2026-06-28-at-00.01.52.webp
-archivo_original: 2026-05-29-resumen-historico-de-coromandel.md
 ---
 The Coromandel Peninsula is undoubtedly a very beautiful place, but it's not just notable for its current beauty, rather for having been the stage of profound cultural and industrial transformations in New Zealand.
 

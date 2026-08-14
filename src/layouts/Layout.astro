@@ -1,13 +1,15 @@
 ---
 import '../styles/global.css';
 import Header from '../components/Header.astro';
+import PostsRecomendados from '../components/PostsRecomendados.astro';
 import { ui } from '../i18n/ui.js';
 import { getRelativeLocaleUrl } from 'astro:i18n';
 
 interface Props {
     title: string;
     description?: string;
-    isTransparentHeader?: boolean; /* <-- 1. ¡Acá autorizamos la variable para borrar la línea roja! */
+    isTransparentHeader?: boolean;
+    frontmatter?: any;
 }
 
 const posts = import.meta.glob('../pages/diario/*.md', { eager: true });
@@ -18,8 +20,10 @@ const searchData = Object.values(posts).map((post: any) => ({
     url: post.url
 }));
 
-/* 2. Acá recibimos la variable y le damos "false" por defecto */
-const { title, description, isTransparentHeader = false } = Astro.props;
+const { title, description, isTransparentHeader = false, frontmatter } = Astro.props;
+
+// Intentamos obtener el país desde el frontmatter del artículo
+const paisToUse = frontmatter?.pais;
 
 const metaDescription = description || "BLOGCITO - Bitácora de viaje, información útil y vida local alrededor del mundo.";
 
@@ -92,6 +96,13 @@ const t = ui[currentLang as keyof typeof ui];
         <Header isTransparent={isTransparentHeader} />
 
         <slot />
+
+        <!-- Inyectamos los recomendados solo si existe un país -->
+        {paisToUse && (
+            <div style="max-width: 1000px; margin: 0 auto; padding: 0 2rem 4rem 2rem; width: 100%;">
+                <PostsRecomendados currentUrl={Astro.url.pathname} currentPais={paisToUse} lang={currentLang} />
+            </div>
+        )}
 
 
      <style is:global>

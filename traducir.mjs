@@ -104,7 +104,7 @@ async function procesarArticulos() {
             ...frontmatter,
             title: tituloTraducido,
             description: descTraducida,
-            layout: '../../../layouts/BlogPostLayout.astro',
+            layout: '../../layouts/BlogPostLayout.astro',
             archivo_original: archivo
         };
 

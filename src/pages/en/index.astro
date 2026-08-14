@@ -1,7 +1,9 @@
 ---
 import Layout from '../../layouts/Layout.astro';
+import { ui } from '../../i18n/ui.js';
 
 const currentLang = Astro.currentLocale || 'en';
+const t = ui[currentLang as keyof typeof ui] || ui['en'];
 
 // Leemos las entradas que estarán en la carpeta de inglés
 const posts = import.meta.glob('./journal/*.md', { eager: true });
@@ -57,46 +59,51 @@ if (featuredPosts.length < 3) {
             </div>
 
             <div id="grilla-portada-segura">
-                {featuredPosts.map((post: any) => (
-                    <article class="tarjeta-portada reveal visible">
-                        
-                        {post.frontmatter.main_image && (
-                            <img 
-                                src={post.frontmatter.main_image} 
-                                alt={`Cover for ${post.frontmatter.title}`} 
-                                class="img-portada"
-                            />
-                        )}
+                {featuredPosts.map((post: any) => {
+                    const tagKey = `tag.${post.frontmatter.tag?.toLowerCase()}`;
+                    const translatedTag = t[tagKey as keyof typeof t] || post.frontmatter.tag;
 
-                        <div class="meta-portada">
-                            {post.frontmatter.tag && (
-                                <span class="journal-tag" data-tag={post.frontmatter.tag.toLowerCase()}>
-                                    {post.frontmatter.tag}
-                                </span>
+                    return (
+                        <article class="tarjeta-portada reveal visible">
+                            
+                            {post.frontmatter.main_image && (
+                                <img 
+                                    src={post.frontmatter.main_image} 
+                                    alt={`Cover for ${post.frontmatter.title}`} 
+                                    class="img-portada"
+                                />
                             )}
-                            <span class="journal-date">
-                                {new Date(post.frontmatter.date).toLocaleDateString('en-US', { day: '2-digit', month: 'long', year: 'numeric' }).toUpperCase()}
-                            </span>
-                        </div>
-                        
-                        <h3 class="titulo-portada">
-                            <a href={post.url} class="hover-verde">
-                                {post.frontmatter.title}
-                            </a>
-                        </h3>
-                        
-                        <p class="desc-portada">
-                            {post.frontmatter.description || "New entry in our travel journal..."}
-                        </p>
 
-                        <div class="btn-leer-mas-portada">
-                            <a href={post.url} class="hover-verde">
-                                Read more &rarr;
-                            </a>
-                        </div>
-                        
-                    </article>
-                ))}
+                            <div class="meta-portada">
+                                {post.frontmatter.tag && (
+                                    <span class="journal-tag" data-tag={post.frontmatter.tag.toLowerCase()}>
+                                        {translatedTag}
+                                    </span>
+                                )}
+                                <span class="journal-date">
+                                    {new Date(post.frontmatter.date).toLocaleDateString('en-US', { day: '2-digit', month: 'long', year: 'numeric' }).toUpperCase()}
+                                </span>
+                            </div>
+                            
+                            <h3 class="titulo-portada">
+                                <a href={post.url} class="hover-verde">
+                                    {post.frontmatter.title}
+                                </a>
+                            </h3>
+                            
+                            <p class="desc-portada">
+                                {post.frontmatter.description || "New entry in our travel journal..."}
+                            </p>
+
+                            <div class="btn-leer-mas-portada">
+                                <a href={post.url} class="hover-verde">
+                                    Read more &rarr;
+                                </a>
+                            </div>
+                            
+                        </article>
+                    );
+                })}
             </div>
 
             <div style="text-align: center; margin-top: 4rem;">
@@ -132,31 +139,81 @@ if (featuredPosts.length < 3) {
                 <p class="section-subtitle">Different ways to support our work and keep Blogcito growing</p>
             </div>
 
-            <div class="support-grid">
+            <!-- BLOQUE 1: RECURSOS DE VIAJE (AFILIADOS) -->
+            <h3 class="subsection-title">Travel Resources</h3>
+            <div class="affiliates-grid">
                 
-                <!-- Card 1: Ko-fi -->
+                <!-- Booking.com -->
                 <div class="support-card">
-                    <div class="support-icon">☕</div>
-                    <h3>Buy us a coffee</h3>
-                    <p>We keep our blog ad-free and clean. If our guides helped you plan your trip, you can support us with a virtual coffee.</p>
-                    <a href="https://ko-fi.com/blogcito" target="_blank" class="support-btn btn-kofi">
-                        Support on Ko-fi
-                    </a>
-                </div>
-
-                <!-- Card 2: Resources -->
-                <div class="support-card">
-                    <div class="support-icon">🏠</div>
+                    <div class="support-icon-container">
+                        <img 
+                            src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Booking.com_Icon_2022.svg" 
+                            alt="Booking.com Logo" 
+                            style="height: 42px; width: auto; max-width: 100%; object-fit: contain;"
+                        />
+                    </div>
                     <h3>Book your stays</h3>
-                    <p style="margin-bottom: 1.5rem; font-size: 0.95rem; color: #555;">Book your accommodation here to support the blog and keep us going.</p>
+                    <p>Book your accommodation here to support the blog and keep our guides freely accessible.</p>
                     <a href="https://www.booking.com/" target="_blank" rel="noopener noreferrer" class="support-btn btn-recursos">
                         Book on Booking.com
                     </a>
                 </div>
 
-                <!-- Card 3: Media Kit -->
+                <!-- Airalo eSIM -->
                 <div class="support-card">
-                    <div class="support-icon">💻</div>
+                    <div class="support-icon-container">
+                        <img 
+                            src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Airalo_logo.svg/1280px-Airalo_logo.svg.png" 
+                            alt="Airalo Logo" 
+                            style="height: 32px; width: auto; max-width: 100%; object-fit: contain;"
+                        />
+                    </div>
+                    <h3>Travel Connectivity</h3>
+                    <p>Stay connected anywhere in the world with an Airalo eSIM and forget about unexpected roaming fees.</p>
+                    <a href="https://airalo.tpx.lu/8J5sLaD4" target="_blank" rel="noopener noreferrer" class="support-btn btn-airalo">
+                        Get Airalo eSIM
+                    </a>
+                </div>
+
+                <!-- GetYourGuide -->
+                <div class="support-card">
+                    <div class="support-icon-container">
+                        <img 
+                            src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/GetYourGuide_logo.svg/1280px-GetYourGuide_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20250423234221" 
+                            alt="GetYourGuide Logo" 
+                            style="height: 32px; width: auto; max-width: 100%; object-fit: contain;"
+                        />
+                    </div>
+                    <h3>Tours & Activities</h3>
+                    <p>Book local tours, day trips, and skip-the-line tickets through GetYourGuide to support our journeys.</p>
+                    <a href="https://www.getyourguide.com/" target="_blank" rel="noopener noreferrer" class="support-btn btn-gyg">
+                        Explore Tours
+                    </a>
+                </div>
+
+            </div>
+
+            <!-- BLOQUE 2: APOYO DIRECTO (KO-FI & MEDIA KIT) -->
+            <h3 class="subsection-title">Direct Support & Collaborations</h3>
+            <div class="direct-grid">
+                
+                <!-- Ko-fi -->
+                <div class="support-card">
+                    <div class="support-icon-container">
+                        <span class="support-emoji">☕</span>
+                    </div>
+                    <h3>Buy us a coffee</h3>
+                    <p>We keep our blog ad-free and clean. If our guides helped you plan your trip, you can support us with a virtual coffee.</p>
+                    <a href="https://ko-fi.com/blogcito" target="_blank" rel="noopener noreferrer" class="support-btn btn-kofi">
+                        Support on Ko-fi
+                    </a>
+                </div>
+
+                <!-- Media Kit -->
+                <div class="support-card">
+                    <div class="support-icon-container">
+                        <span class="support-emoji">💻</span>
+                    </div>
                     <h3>Work with us</h3>
                     <p>Check out our Media Kit, blog analytics, and how we can collaborate to give visibility to your brand or project.</p>
                     <a href="/en/colab" class="support-btn btn-colab">
@@ -169,6 +226,7 @@ if (featuredPosts.length < 3) {
         
     </main>
 </Layout>
+
 <style is:global>
     /* ============================================================
         ESTILOS GENERALES Y CONTENEDOR
@@ -183,7 +241,7 @@ if (featuredPosts.length < 3) {
 
     .section-header {
         text-align: center;
-        margin-bottom: 3.5rem;
+        margin-bottom: 2rem;
         border-bottom: 1px solid #eee;
         padding-bottom: 1.5rem;
     }
@@ -461,11 +519,32 @@ if (featuredPosts.length < 3) {
         border-top: 1px solid #eee;
     }
 
-    .support-grid {
+    /* SUBTÍTULOS DE LAS SECCIONES */
+    .subsection-title {
+        text-align: center;
+        font-family: var(--font-display);
+        font-size: 1.6rem;
+        margin-top: 3.5rem;
+        margin-bottom: 2rem;
+        color: var(--text-color, #333);
+        font-weight: normal;
+    }
+
+    /* GRILLA 1: AFILIADOS (3 COLUMNAS) */
+    .affiliates-grid {
         display: grid;
         grid-template-columns: repeat(3, 1fr);
-        gap: 2rem;
-        margin-top: 3rem;
+        gap: 2.5rem;
+        margin-bottom: 2rem;
+    }
+
+    /* GRILLA 2: APOYO DIRECTO (2 COLUMNAS MÁS ANCHAS) */
+    .direct-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 2.5rem;
+        max-width: 900px;
+        margin: 0 auto;
     }
 
     .support-card {
@@ -477,6 +556,7 @@ if (featuredPosts.length < 3) {
         border: 1px solid #f0f0f0;
         display: flex;
         flex-direction: column;
+        align-items: center;
         transition: transform 0.3s ease, box-shadow 0.3s ease;
     }
 
@@ -485,30 +565,40 @@ if (featuredPosts.length < 3) {
         box-shadow: 0 10px 25px rgba(0,0,0,0.06);
     }
 
-    .support-icon {
+    .support-icon-container {
+        height: 45px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 1.2rem;
+        width: 100%;
+    }
+
+    .support-emoji {
         font-size: 2.5rem;
-        margin-bottom: 1rem;
+        line-height: 1;
     }
 
     .support-card h3 {
         font-family: var(--font-display);
-        font-size: 1.5rem;
+        font-size: 1.35rem;
         margin-bottom: 1rem;
         color: var(--text-color, #333);
         font-weight: normal;
     }
 
     .support-card p {
-        font-size: 0.95rem;
+        font-size: 0.92rem;
         color: #666;
         line-height: 1.6;
         margin-bottom: 2rem;
         flex-grow: 1; 
     }
 
+    /* BOTONES */
     .support-btn {
         display: inline-block;
-        padding: 12px 24px;
+        padding: 12px 20px;
         border-radius: 8px;
         text-decoration: none;
         font-weight: 600;
@@ -517,6 +607,7 @@ if (featuredPosts.length < 3) {
         letter-spacing: 0.05em;
         transition: all 0.3s ease;
         width: 100%;
+        box-sizing: border-box;
     }
 
     .btn-kofi {
@@ -528,10 +619,33 @@ if (featuredPosts.length < 3) {
 
     .btn-recursos {
         background-color: transparent;
-        color: #006d77;
-        border: 1px solid #006d77;
+        color: #003580;
+        border: 1px solid #003580;
     }
-    .btn-recursos:hover { background-color: #006d77; color: #ffffff; }
+    .btn-recursos:hover { 
+        background-color: #003580; 
+        color: #ffffff; 
+    }
+
+    .btn-airalo {
+        background-color: transparent;
+        color: #ff5e00;
+        border: 1px solid #ff5e00;
+    }
+    .btn-airalo:hover { 
+        background-color: #ff5e00; 
+        color: #ffffff; 
+    }
+
+    .btn-gyg {
+        background-color: transparent;
+        color: #ff5533;
+        border: 1px solid #ff5533;
+    }
+    .btn-gyg:hover {
+        background-color: #ff5533;
+        color: #ffffff;
+    }
 
     .btn-colab {
         background-color: #006d77;
@@ -543,11 +657,9 @@ if (featuredPosts.length < 3) {
     /* ============================================================
        RESPONSIVE DESIGN (MÓVILES)
        ============================================================ */
-    @media (max-width: 850px) {
-        .support-grid {
-            grid-template-columns: 1fr;
-            gap: 2rem;
-            padding: 0 1rem;
+    @media (max-width: 950px) {
+        .affiliates-grid {
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
         }
     }
 
@@ -570,6 +682,14 @@ if (featuredPosts.length < 3) {
 
         .about-section {
             padding: 2.5rem 1.5rem;
+        }
+    }
+
+    @media (max-width: 700px) {
+        .affiliates-grid,
+        .direct-grid {
+            grid-template-columns: 1fr;
+            padding: 0 1rem;
         }
     }
 </style>

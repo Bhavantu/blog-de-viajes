@@ -13,8 +13,6 @@ description: >-
   I discovered the essence of Bali: a vibrant journey through its traditions,
   temples, spirituality, and community life.
 main_image: /img/diario/dsc_0628.webp
-archivo_original: >-
-  2026-06-23-el-alma-de-bali-rituales-la-familia-y-el-secreto-de-la-felicidad-balinesa.md
 ---
 # How is culture in Bali? Journey to the essence of God's Island
 

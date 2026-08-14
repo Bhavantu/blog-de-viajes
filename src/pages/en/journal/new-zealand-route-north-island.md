@@ -6,7 +6,6 @@ tag: bitacora
 pais: Nueva Zelanda
 description: "A brief summary ordering the experience and expanding on different destinations of the North Island."
 main_image: /img/diario/img_5481.webp
-archivo_original: 2026-05-25-capitulo-1-llegada-a-nueva-zelanda.md
 ---
 
 ## The dream is on its way

@@ -19,6 +19,18 @@ export const ui = {
     'paginacion.anterior': '← Anterior',
     'paginacion.siguiente': 'Siguiente →',
 
+    // Tags / Categorías
+    'tag.guia de viaje': 'Guía de Viaje',
+    'tag.guía de viaje': 'Guía de Viaje',
+    'tag.contexto y cultura': 'Contexto y Cultura',
+    'tag.vida local': 'Vida Local',
+    'tag.bitacora': 'Bitácora',
+    'tag.bitácora': 'Bitácora',
+    'tag.fotografia': 'Fotografía',
+    'tag.fotografía': 'Fotografía',
+    'tag.punto de fuga': 'Punto de Fuga',
+    'tag.data': 'Data',
+
     // Buscador
     'search.placeholder': 'Buscar palabras clave, destinos...',
     'search.short': 'Escribí al menos 2 letras para buscar...',
@@ -51,6 +63,18 @@ export const ui = {
     'post.indice': 'In this article',
     'paginacion.anterior': '← Previous',
     'paginacion.siguiente': 'Next →',
+
+    // Tags / Categories
+    'tag.guia de viaje': 'Travel Guide',
+    'tag.guía de viaje': 'Travel Guide',
+    'tag.contexto y cultura': 'Culture & Context',
+    'tag.vida local': 'Local Life',
+    'tag.bitacora': 'Travel Journal',
+    'tag.bitácora': 'Travel Journal',
+    'tag.fotografia': 'Photography',
+    'tag.fotografía': 'Photography',
+    'tag.punto de fuga': 'Vanishing Point',
+    'tag.data': 'Data & Tips',
 
     // Search
     'search.placeholder': 'Search keywords, destinations...',

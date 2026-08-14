@@ -11,7 +11,6 @@ description: >-
   success. I'll tell you what it's like to live there: weekly cost of living in
   2022, work, and safety.
 main_image: /img/diario/chrischurch.webp
-archivo_original: 2026-05-30-vivir-con-working-holiday-visa-en-la-ciudad-de-christchurch.md
 ---
 Here is the translation:
 

@@ -1,9 +1,11 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import Hero from '../components/Hero.astro'; 
+import { ui } from '../i18n/ui.js';
 
 const currentLang = Astro.currentLocale || 'es';
+const t = ui[currentLang as keyof typeof ui] || ui['es'];
 
+// Leemos las entradas de la carpeta en español
 const posts = import.meta.glob('./diario/*.md', { eager: true });
 const allPosts = Object.values(posts);
 
@@ -24,178 +26,198 @@ if (featuredPosts.length < 3) {
 }
 ---
 
-<Layout title="Inicio - BLOGCITO" 
-description="Bitácora de viaje, información útil y vida local alrededor del mundo. Acompañanos a descubrir nuevos destinos a través de nuestras crónicas y guías."
-isTransparentHeader={true}>
+<Layout 
+  title="Inicio - BLOGCITO" 
+  description="Diario de viaje, guías prácticas y vida local alrededor del mundo. Acompañanos a descubrir nuevos destinos a través de nuestras crónicas y viajes lentos."
+  isTransparentHeader={true}
+>
 
-    <!-- HERO PERSONALIZADO PARA EL INICIO -->
+    <!-- HERO SECTION -->
     <section class="hero-inicio" style="background-image: url('/img/diario/UBUD3.webp');">
         <div class="hero-overlay"></div>
         
         <div class="hero-contenido-interno relative z-10">
-            <h1 class="hero-title">Conociendo otros mundos a ritmo lento</h1>
+            <h1 class="hero-title">Descubriendo nuevos mundos a paso lento</h1>
             <p class="hero-subtitle">
-                Diario de viajes, slow travel & nomadismo digital.
+                Guías honestas y presupuestos transparentes para viajar con respeto cultural, trabajar en ruta y habitar nuevos territorios a tu propio ritmo.
             </p>
             <div class="hero-actions">
-                <a href="/diario" class="btn-primary">Explorar Destinos</a>
-                <a href="#quienes-somos" class="btn-secondary">Conocer la historia</a>
+                <a href="#guias" class="btn-primary">Explorar Guías</a>
+                <a href="#quienes-somos" class="btn-secondary">Nuestra Historia</a>
             </div>
         </div>
     </section>
 
-    <!-- CONTENIDO PRINCIPAL -->
+    <!-- MAIN CONTENT -->
     <main class="container mx-auto px-4 pt-16">
         
-        <!-- NUEVA SECCIÓN: DESTINOS 
-        <section id="destinos" class="section-container">
-            <div class="section-header">
-                <h2 class="section-title">¿Qué estás planificando?</h2>
-                <p class="section-subtitle">Acceso directo a las carpetas y rutas principales del blog</p>
-            </div>
-
-            <div class="categories-grid">
-                <a href="/diario" class="category-card hover-verde">
-                    <div>
-                        <div class="card-icon">🌴</div>
-                        <h3>Guías de Bali</h3>
-                        <p>Slow travel, esnórquel en Amed, la verdad sobre la cultura en Ubud y presupuestos reales para nomadas digitales.</p>
-                    </div>
-                    <span class="card-link">Ver guías de Bali &rarr;</span>
-                </a>
-
-                <a href="/diario" class="category-card hover-verde">
-                    <div>
-                        <div class="card-icon">💻</div>
-                        <h3>Nomadismo Digital & Guías</h3>
-                        <p>Costo de vida, alquileres, trabajo remoto, presupuesto honesto y consejos de adaptación en distintos destinos.</p>
-                    </div>
-                    <span class="card-link">Ver guías nómadas &rarr;</span>
-                </a>
-
-                <a href="/diario" class="category-card hover-verde">
-                    <div>
-                        <div class="card-icon">📜</div>
-                        <h3>Cultura y Reflexiones</h3>
-                        <p>Ensayos sobre vida en comunidad, tradiciones locales, resiliencia y el valor del encuentro en el camino.</p>
-                    </div>
-                    <span class="card-link">Leer crónicas &rarr;</span>
-                </a>
-            </div>
-        </section>-->
-
-        <!-- SECCIÓN: GRILLA DINÁMICA DE POSTS -->
+        <!-- SECTION: FEATURED POSTS -->
         <section id="guias" class="section-container">
             <div class="section-header">
                 <h2 class="section-title">Por dónde empezar</h2>
-                <p class="section-subtitle">Nuestras guías más leídas y detalladas para organizar tu ruta</p>
+                <p class="section-subtitle">Nuestras guías más leídas y detalladas para ayudarte a planificar tu viaje</p>
             </div>
 
             <div id="grilla-portada-segura">
-                {featuredPosts.map((post: any) => (
-                    <article class="tarjeta-portada reveal visible">
-                        
-                        {post.frontmatter.main_image && (
-                            <img 
-                                src={post.frontmatter.main_image} 
-                                alt={`Portada de ${post.frontmatter.title}`} 
-                                class="img-portada"
-                            />
-                        )}
+                {featuredPosts.map((post: any) => {
+                    const tagKey = `tag.${post.frontmatter.tag?.toLowerCase()}`;
+                    const translatedTag = t[tagKey as keyof typeof t] || post.frontmatter.tag;
 
-                        <div class="meta-portada">
-                            {post.frontmatter.tag && (
-                                <span class="journal-tag" data-tag={post.frontmatter.tag.toLowerCase()}>
-                                    {post.frontmatter.tag}
-                                </span>
+                    return (
+                        <article class="tarjeta-portada reveal visible">
+                            
+                            {post.frontmatter.main_image && (
+                                <img 
+                                    src={post.frontmatter.main_image} 
+                                    alt={`Portada de ${post.frontmatter.title}`} 
+                                    class="img-portada"
+                                />
                             )}
-                            <span class="journal-date">
-                                {new Date(post.frontmatter.date).toLocaleDateString(currentLang === 'es' ? 'es-ES' : 'en-US', { day: '2-digit', month: 'long', year: 'numeric' }).toUpperCase()}
-                            </span>
-                        </div>
-                        
-                        <h3 class="titulo-portada">
-                            <a href={post.url} class="hover-verde">
-                                {post.frontmatter.title}
-                            </a>
-                        </h3>
-                        
-                        <p class="desc-portada">
-                            {post.frontmatter.description || "Nueva entrada en nuestro diario de viaje..."}
-                        </p>
 
-                        <div class="btn-leer-mas-portada">
-                            <a href={post.url} class="hover-verde">
-                                Leer más &rarr;
-                            </a>
-                        </div>
-                        
-                    </article>
-                ))}
+                            <div class="meta-portada">
+                                {post.frontmatter.tag && (
+                                    <span class="journal-tag" data-tag={post.frontmatter.tag.toLowerCase()}>
+                                        {translatedTag}
+                                    </span>
+                                )}
+                                <span class="journal-date">
+                                    {new Date(post.frontmatter.date).toLocaleDateString('es-ES', { day: '2-digit', month: 'long', year: 'numeric' }).toUpperCase()}
+                                </span>
+                            </div>
+                            
+                            <h3 class="titulo-portada">
+                                <a href={post.url} class="hover-verde">
+                                    {post.frontmatter.title}
+                                </a>
+                            </h3>
+                            
+                            <p class="desc-portada">
+                                {post.frontmatter.description || "Nueva entrada en nuestro diario de viaje..."}
+                            </p>
+
+                            <div class="btn-leer-mas-portada">
+                                <a href={post.url} class="hover-verde">
+                                    Leer más &rarr;
+                                </a>
+                            </div>
+                            
+                        </article>
+                    );
+                })}
             </div>
 
             <div style="text-align: center; margin-top: 4rem;">
                 <a href="/diario" class="btn-ver-mas-global">
-                    Ver más
+                    Ver todas las entradas
                 </a>
             </div>
         </section>
 
-        <!-- SECCIÓN: QUIÉNES SOMOS -->
+        <!-- SECTION: ABOUT US -->
         <section id="quienes-somos" class="about-section">
             <div class="about-container">
                 <div class="about-image-box">
                     <img src="/img/nosotros.webp" alt="Creadores de Blogcito viajando" class="about-avatar" onerror="this.src='https://placehold.co/400x400/006d77/ffffff?text=Blogcito'">
-                    <span class="about-badge">Viajeros & Creadores Nómadas</span>
+                    <span class="about-badge">Viajeros y Creadores</span>
                 </div>
                 <div class="about-content">
                     <h2 class="section-title">Detrás de Blogcito</h2>
                     <p style="margin-bottom: 1.5rem; line-height: 1.8; color: #555;">
-                        Viajamos lento, habitamos los lugares y escribimos guías reales para que planifiques tu viaje con presupuesto honesto y respeto cultural. Más que coleccionar atracciones, nos interesa conectar con la gente, los territorios y sus costumbres, aprendiendo a partir de esa convivencia.
+                        Viajamos lento, nos sumergimos en las comunidades locales y escribimos guías honestas para que puedas planear tu viaje con un presupuesto realista y respeto cultural. Más que coleccionar atracciones, nos importa conectar con las personas, los territorios y las tradiciones.
                     </p>
                     <p style="line-height: 1.8; color: #555;">
-                        Creamos este espacio para responder las preguntas que todos nos hacemos antes de salir: cuánto cuesta realmente vivir en un lugar, cómo adaptarnos a la cultura local y cómo equilibrar el trabajo remoto con un viaje consciente. Sin contenido patrocinado engañoso: solo datos prácticos sobre alquileres, costos reales, estilo de vida nómada y crónicas desde el camino para darte herramientas claras que te ayuden a armar tu propio viaje, a tu ritmo.
+                        Creamos este espacio para responder las preguntas reales que todos nos hacemos antes de partir: cuánto cuesta realmente vivir en un lugar, cómo adaptarse a las culturas locales y cómo equilibrar el trabajo remoto con el viaje consciente. Sin publicidades engañosas, solo datos prácticos sobre alquileres, costo de vida y nomadismo digital.
                     </p>
                 </div>
             </div>
         </section>
 
-        <!-- SECCIÓN: COMUNIDAD Y RECURSOS (GRID UNIFICADO) -->
+        <!-- SECTION: SUPPORT & RESOURCES -->
         <section class="support-section">
             <div class="section-header">
-                <h2 class="section-title">Sé parte del proyecto</h2>
-                <p class="section-subtitle">Distintas formas de apoyar nuestro trabajo y hacer crecer Blogcito</p>
+                <h2 class="section-title">Apoyá nuestro proyecto</h2>
+                <p class="section-subtitle">Diferentes formas de apoyar nuestro trabajo y hacer que Blogcito siga creciendo</p>
             </div>
 
-            <div class="support-grid">
+            <!-- BLOQUE 1: RECURSOS DE VIAJE (AFILIADOS) -->
+            <h3 class="subsection-title">Recursos de viaje</h3>
+            <div class="affiliates-grid">
                 
-                <!-- Tarjeta 1: Ko-fi -->
+                <!-- Booking.com -->
                 <div class="support-card">
-                    <div class="support-icon">☕</div>
-                    <h3>Invitamos un café</h3>
-                    <p>Mantenemos el blog libre de anuncios molestos. Si nuestras guías te ayudaron, podés apoyarnos con un café virtual.</p>
-                    <a href="https://ko-fi.com/blogcito" target="_blank" class="support-btn btn-kofi">
-                        Apoyar en Ko-fi
-                    </a>
-                </div>
-                
-                <!-- Tarjeta 2: Referidos / Afiliados -->
-                <div class="support-card">
-                    <div class="support-icon">🏠</div>
-                    <h3>Reserva tus alojamientos</h3>
-                    <p style="margin-bottom: 1.5rem; font-size: 0.95rem; color: #555;">Hacé tus reservas acá para apoyar al blog y ayudarnos a seguir viajando.</p>
+                    <div class="support-icon-container">
+                        <img 
+                            src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Booking.com_Icon_2022.svg" 
+                            alt="Logo Booking.com" 
+                            style="height: 42px; width: auto; max-width: 100%; object-fit: contain;"
+                        />
+                    </div>
+                    <h3>Reservá alojamiento</h3>
+                    <p>Reservá tus alojamientos por acá para apoyar al blog y que nuestras guías sigan siendo de acceso gratuito.</p>
                     <a href="https://www.booking.com/" target="_blank" rel="noopener noreferrer" class="support-btn btn-recursos">
                         Reservar en Booking.com
                     </a>
                 </div>
 
-                <!-- Tarjeta 3: Media Kit -->
+                <!-- Airalo eSIM -->
                 <div class="support-card">
-                    <div class="support-icon">💻</div>
-                    <h3>Trabajemos juntos</h3>
-                    <p>Conocé nuestro Media Kit, las métricas del blog y cómo podemos colaborar para darle visibilidad a tu marca o proyecto.</p>
+                    <div class="support-icon-container">
+                        <img 
+                            src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Airalo_logo.svg/1280px-Airalo_logo.svg.png" 
+                            alt="Logo Airalo" 
+                            style="height: 32px; width: auto; max-width: 100%; object-fit: contain;"
+                        />
+                    </div>
+                    <h3>Internet en tu viaje</h3>
+                    <p>Mantenete conectado en cualquier país con una eSIM de Airalo y olvidate de los costosos cargos de roaming.</p>
+                    <a href="https://airalo.tpx.lu/8J5sLaD4" target="_blank" rel="noopener noreferrer" class="support-btn btn-airalo">
+                        Conseguir eSIM Airalo
+                    </a>
+                </div>
+
+                <!-- GetYourGuide -->
+                <div class="support-card">
+                    <div class="support-icon-container">
+                        <img 
+                            src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/GetYourGuide_logo.svg/1280px-GetYourGuide_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20250423234221" 
+                            alt="Logo GetYourGuide" 
+                            style="height: 32px; width: auto; max-width: 100%; object-fit: contain;"
+                        />
+                    </div>
+                    <h3>Tours y Actividades</h3>
+                    <p>Reservá tours locales, excursiones y entradas sin filas a través de GetYourGuide para apoyar nuestros viajes.</p>
+                    <a href="https://www.getyourguide.com/" target="_blank" rel="noopener noreferrer" class="support-btn btn-gyg">
+                        Explorar Tours
+                    </a>
+                </div>
+
+            </div>
+
+            <!-- BLOQUE 2: APOYO DIRECTO (KO-FI & MEDIA KIT) -->
+            <h3 class="subsection-title">Apoyo Directo y Colaboraciones</h3>
+            <div class="direct-grid">
+                
+                <!-- Ko-fi -->
+                <div class="support-card">
+                    <div class="support-icon-container">
+                        <span class="support-emoji">☕</span>
+                    </div>
+                    <h3>Invitanos un café</h3>
+                    <p>Mantenemos nuestro blog sin publicidad y limpio. Si nuestras guías te ayudaron a planear tu viaje, podés apoyarnos con un café virtual.</p>
+                    <a href="https://ko-fi.com/blogcito" target="_blank" rel="noopener noreferrer" class="support-btn btn-kofi">
+                        Apoyar en Ko-fi
+                    </a>
+                </div>
+
+                <!-- Media Kit -->
+                <div class="support-card">
+                    <div class="support-icon-container">
+                        <span class="support-emoji">💻</span>
+                    </div>
+                    <h3>Trabajá con nosotros</h3>
+                    <p>Revisá nuestro Media Kit, métricas del blog, y cómo podemos colaborar para darle visibilidad a tu marca o proyecto.</p>
                     <a href="/colab" class="support-btn btn-colab">
-                        Ver opciones
+                        Opciones de colaboración
                     </a>
                 </div>
 
@@ -206,7 +228,6 @@ isTransparentHeader={true}>
 </Layout>
 
 <style is:global>
-
     /* ============================================================
         ESTILOS GENERALES Y CONTENEDOR
        ============================================================ */
@@ -220,7 +241,7 @@ isTransparentHeader={true}>
 
     .section-header {
         text-align: center;
-        margin-bottom: 3.5rem;
+        margin-bottom: 2rem;
         border-bottom: 1px solid #eee;
         padding-bottom: 1.5rem;
     }
@@ -254,7 +275,7 @@ isTransparentHeader={true}>
         background-repeat: no-repeat;
         text-align: center;
         padding: 2rem;
-        margin-top: -120px; /* Sube la imagen para que pase por debajo del header transparente */
+        margin-top: -120px; 
         padding-top: 120px; 
     }
 
@@ -264,7 +285,7 @@ isTransparentHeader={true}>
         left: 0;
         width: 100%;
         height: 100%;
-        background: rgba(0, 0, 0, 0.45); /* Oscurece la foto para resaltar el texto */
+        background: rgba(0, 0, 0, 0.45); 
         z-index: 1;
     }
 
@@ -339,15 +360,15 @@ isTransparentHeader={true}>
     @media (max-width: 768px) {
         .hero-inicio {
             min-height: 100vh !important;
-            margin-top: 0 !important; /* MAGIA: Anula el margen negativo que tiraba todo al techo */
-            padding: 130px 1.5rem 3rem 1.5rem !important; /* Espacio real desde el tope de la pantalla */
-            align-items: flex-start !important; /* Obliga al texto a respetar el padding superior */
+            margin-top: 0 !important; 
+            padding: 130px 1.5rem 3rem 1.5rem !important; 
+            align-items: flex-start !important; 
             margin-bottom: 2rem !important;
         }
 
         .hero-contenido-interno {
             width: 100% !important;
-            margin-top: 2rem !important; /* Un respiro extra exclusivo para separar del logo */
+            margin-top: 2rem !important; 
         }
         
         .hero-badge {
@@ -373,59 +394,6 @@ isTransparentHeader={true}>
         .btn-primary, .btn-secondary {
             width: 100%;
         }
-    }
-
-    /* ============================================================
-       ESTILOS DE DESTINOS
-       ============================================================ */
-    .categories-grid {
-        display: grid;
-        grid-template-columns: repeat(3, 1fr);
-        gap: 2rem;
-    }
-
-    .category-card {
-        background-color: #ffffff;
-        padding: 2.5rem 2rem;
-        display: flex;
-        flex-direction: column;
-        justify-content: space-between;
-        box-shadow: 0 4px 10px rgba(0,0,0,0.03);
-        text-decoration: none;
-        color: inherit;
-        transition: transform 0.3s ease, box-shadow 0.3s ease;
-        height: 100%;
-    }
-
-    .category-card:hover {
-        transform: translateY(-5px);
-        box-shadow: 0 10px 20px rgba(0,0,0,0.06);
-    }
-
-    .card-icon {
-        font-size: 2.5rem;
-        margin-bottom: 1rem;
-    }
-
-    .category-card h3 {
-        font-family: var(--font-display);
-        font-size: 1.4rem;
-        margin-bottom: 1rem;
-        color: var(--text-color);
-    }
-
-    .category-card p {
-        font-size: 0.95rem;
-        color: #555;
-        line-height: 1.6;
-        margin-bottom: 2rem;
-    }
-
-    .card-link {
-        font-size: 0.85rem;
-        text-transform: uppercase;
-        letter-spacing: 0.05em;
-        font-weight: bold;
     }
 
     /* ============================================================
@@ -543,36 +511,160 @@ isTransparentHeader={true}>
         border-radius: 20px;
     }
 
-    .community-banner {
-        background-color: #faf8f5;
-        padding: 5rem 2rem;
-        text-align: center;
+    /* ============================================================
+       ESTILOS DE LA GRILLA DE APOYO Y RECURSOS
+       ============================================================ */
+    .support-section {
+        padding: 4rem 0 6rem 0;
         border-top: 1px solid #eee;
-        border-bottom: 1px solid #eee;
+    }
+
+    /* SUBTÍTULOS DE LAS SECCIONES */
+    .subsection-title {
+        text-align: center;
+        font-family: var(--font-display);
+        font-size: 1.6rem;
+        margin-top: 3.5rem;
+        margin-bottom: 2rem;
+        color: var(--text-color, #333);
+        font-weight: normal;
+    }
+
+    /* GRILLA 1: AFILIADOS (3 COLUMNAS) */
+    .affiliates-grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 2.5rem;
         margin-bottom: 2rem;
     }
 
-    .btn-kofi {
-        display: inline-block;
-        background-color: #323842;
-        color: #ffffff;
-        padding: 14px 28px;
-        border-radius: 8px;
-        font-weight: bold;
-        text-decoration: none;
-        transition: opacity 0.3s ease;
+    /* GRILLA 2: APOYO DIRECTO (2 COLUMNAS MÁS ANCHAS) */
+    .direct-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 2.5rem;
+        max-width: 900px;
+        margin: 0 auto;
     }
 
-    .btn-kofi:hover {
-        opacity: 0.8;
+    .support-card {
+        background-color: #ffffff;
+        padding: 2.5rem 2rem;
+        border-radius: 12px;
+        text-align: center;
+        box-shadow: 0 4px 15px rgba(0,0,0,0.03);
+        border: 1px solid #f0f0f0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
     }
+
+    .support-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 10px 25px rgba(0,0,0,0.06);
+    }
+
+    .support-icon-container {
+        height: 45px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 1.2rem;
+        width: 100%;
+    }
+
+    .support-emoji {
+        font-size: 2.5rem;
+        line-height: 1;
+    }
+
+    .support-card h3 {
+        font-family: var(--font-display);
+        font-size: 1.35rem;
+        margin-bottom: 1rem;
+        color: var(--text-color, #333);
+        font-weight: normal;
+    }
+
+    .support-card p {
+        font-size: 0.92rem;
+        color: #666;
+        line-height: 1.6;
+        margin-bottom: 2rem;
+        flex-grow: 1; 
+    }
+
+    /* BOTONES */
+    .support-btn {
+        display: inline-block;
+        padding: 12px 20px;
+        border-radius: 8px;
+        text-decoration: none;
+        font-weight: 600;
+        font-size: 0.85rem;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        transition: all 0.3s ease;
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    .btn-kofi {
+        background-color: #323842;
+        color: #ffffff;
+        border: 1px solid #323842;
+    }
+    .btn-kofi:hover { background-color: #1a1e24; color: #ffffff; }
+
+    .btn-recursos {
+        background-color: transparent;
+        color: #003580;
+        border: 1px solid #003580;
+    }
+    .btn-recursos:hover { 
+        background-color: #003580; 
+        color: #ffffff; 
+    }
+
+    .btn-airalo {
+        background-color: transparent;
+        color: #ff5e00;
+        border: 1px solid #ff5e00;
+    }
+    .btn-airalo:hover { 
+        background-color: #ff5e00; 
+        color: #ffffff; 
+    }
+
+    .btn-gyg {
+        background-color: transparent;
+        color: #ff5533;
+        border: 1px solid #ff5533;
+    }
+    .btn-gyg:hover {
+        background-color: #ff5533;
+        color: #ffffff;
+    }
+
+    .btn-colab {
+        background-color: #006d77;
+        color: #ffffff;
+        border: 1px solid #006d77;
+    }
+    .btn-colab:hover { background-color: #005a62; border-color: #005a62; color: #ffffff;}
 
     /* ============================================================
        RESPONSIVE DESIGN (MÓVILES)
        ============================================================ */
+    @media (max-width: 950px) {
+        .affiliates-grid {
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        }
+    }
+
     @media (max-width: 800px) {
-        #grilla-portada-segura,
-        .categories-grid {
+        #grilla-portada-segura {
             grid-template-columns: 1fr !important;
             gap: 3rem !important;
         }
@@ -591,112 +683,13 @@ isTransparentHeader={true}>
         .about-section {
             padding: 2.5rem 1.5rem;
         }
-
-        .banner-trabajo {
-            background-color: #f4f1ea;
-            padding: 4rem 2rem;
-            text-align: center;
-            border-radius: 12px;
-            margin: 4rem auto 7rem auto;
-            max-width: 900px;
-            border: 1px solid #e6e2da;
-        }}
-
-        /* ============================================================
-       ESTILOS DE LA GRILLA DE APOYO Y RECURSOS
-       ============================================================ */
-    .support-section {
-        padding: 4rem 0 6rem 0;
-        border-top: 1px solid #eee; /* Una línea sutil para separarlo del contenido anterior */
     }
 
-    .support-grid {
-        display: grid;
-        grid-template-columns: repeat(3, 1fr);
-        gap: 2rem;
-        margin-top: 3rem;
-    }
-
-    .support-card {
-        background-color: #ffffff;
-        padding: 2.5rem 2rem;
-        border-radius: 12px;
-        text-align: center;
-        box-shadow: 0 4px 15px rgba(0,0,0,0.03);
-        border: 1px solid #f0f0f0;
-        display: flex;
-        flex-direction: column;
-        transition: transform 0.3s ease, box-shadow 0.3s ease;
-    }
-
-    .support-card:hover {
-        transform: translateY(-5px);
-        box-shadow: 0 10px 25px rgba(0,0,0,0.06);
-    }
-
-    .support-icon {
-        font-size: 2.5rem;
-        margin-bottom: 1rem;
-    }
-
-    .support-card h3 {
-        font-family: var(--font-display);
-        font-size: 1.5rem;
-        margin-bottom: 1rem;
-        color: var(--text-color, #333);
-        font-weight: normal;
-    }
-
-    .support-card p {
-        font-size: 0.95rem;
-        color: #666;
-        line-height: 1.6;
-        margin-bottom: 2rem;
-        flex-grow: 1; /* Esto hace que el botón siempre quede pegado abajo sin importar cuánto texto haya */
-    }
-
-    .support-btn {
-        display: inline-block;
-        padding: 12px 24px;
-        border-radius: 8px;
-        text-decoration: none;
-        font-weight: 600;
-        font-size: 0.85rem;
-        text-transform: uppercase;
-        letter-spacing: 0.05em;
-        transition: all 0.3s ease;
-        width: 100%;
-    }
-
-    /* Colores personalizados para cada botón */
-    .btn-kofi {
-        background-color: #323842;
-        color: #ffffff;
-        border: 1px solid #323842;
-    }
-    .btn-kofi:hover { background-color: #1a1e24; color: #ffffff; }
-
-    .btn-recursos {
-        background-color: transparent;
-        color: #006d77;
-        border: 1px solid #006d77;
-    }
-    .btn-recursos:hover { background-color: #006d77; color: #ffffff; }
-
-    .btn-colab {
-        background-color: #006d77;
-        color: #ffffff;
-        border: 1px solid #006d77;
-    }
-    .btn-colab:hover { background-color: #005a62; border-color: #005a62; color: #ffffff;}
-
-    /* Adaptación para pantallas chicas */
-    @media (max-width: 850px) {
-        .support-grid {
+    @media (max-width: 700px) {
+        .affiliates-grid,
+        .direct-grid {
             grid-template-columns: 1fr;
-            gap: 2rem;
             padding: 0 1rem;
         }
     }
-    
 </style>

@@ -1,11 +1,11 @@
 ---
 import type { Page, GetStaticPathsOptions } from 'astro'; 
-// Ajustamos las rutas sumando un nivel más de profundidad (../../../)
 import Layout from '../../../layouts/Layout.astro';
 import Hero from '../../../components/Hero.astro';
+import { ui } from '../../../i18n/ui.js';
 
 export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
-  // Va a leer los archivos .md que pongas dentro de src/pages/en/journal/
+  // Lee los archivos .md dentro de src/pages/en/journal/
   const posts = import.meta.glob('./*.md', { eager: true });
   const allPosts = Object.values(posts);
   
@@ -23,6 +23,10 @@ interface Props {
 }
 
 const { page } = Astro.props;
+
+// Idioma y diccionario
+const currentLang = Astro.currentLocale || 'en';
+const t = ui[currentLang as keyof typeof ui] || ui['en'];
 ---
 
 <Layout 
@@ -42,49 +46,53 @@ const { page } = Astro.props;
     
     <!-- GRILLA -->
     <div id="grilla-portada-segura">
-        {page.data.map((post: any) => (
-            <article class="tarjeta-portada reveal visible">
-                
-                {post.frontmatter.main_image && (
-                    <a href={post.url}>
-                        <img 
-                            src={post.frontmatter.main_image} 
-                            alt={`Cover for ${post.frontmatter.title}`} 
-                            class="img-portada"
-                        />
-                    </a>
-                )}
+        {page.data.map((post: any) => {
+            const tagKey = `tag.${post.frontmatter.tag?.toLowerCase()}`;
+            const translatedTag = t[tagKey as keyof typeof t] || post.frontmatter.tag;
 
-                <div class="meta-portada">
-                    {post.frontmatter.tag && (
-                        <span class="journal-tag" data-tag={post.frontmatter.tag.toLowerCase()}>
-                            {post.frontmatter.tag}
-                        </span>
-                    )}
-                    <span class="journal-date">
-                        {/* Cambiamos el formato de fecha a en-US */}
-                        {new Date(post.frontmatter.date).toLocaleDateString('en-US', { day: '2-digit', month: 'long', year: 'numeric' }).toUpperCase()}
-                    </span>
-                </div>
-                
-                <h3 class="titulo-portada">
-                    <a href={post.url} class="hover-verde">
-                        {post.frontmatter.title}
-                    </a>
-                </h3>
-                
-                <p class="desc-portada">
-                    {post.frontmatter.description || "New entry in our travel journal..."}
-                </p>
+            return (
+              <article class="tarjeta-portada reveal visible">
+                  
+                  {post.frontmatter.main_image && (
+                      <a href={post.url}>
+                          <img 
+                              src={post.frontmatter.main_image} 
+                              alt={`Cover for ${post.frontmatter.title}`} 
+                              class="img-portada"
+                          />
+                      </a>
+                  )}
 
-                <div class="btn-leer-mas-portada">
-                    <a href={post.url} class="hover-verde">
-                        Read more &rarr;
-                    </a>
-                </div>
-                
-            </article>
-        ))}
+                  <div class="meta-portada">
+                      {post.frontmatter.tag && (
+                          <span class="journal-tag" data-tag={post.frontmatter.tag.toLowerCase()}>
+                              {translatedTag}
+                          </span>
+                      )}
+                      <span class="journal-date">
+                          {new Date(post.frontmatter.date).toLocaleDateString('en-US', { day: '2-digit', month: 'long', year: 'numeric' }).toUpperCase()}
+                      </span>
+                  </div>
+                  
+                  <h3 class="titulo-portada">
+                      <a href={post.url} class="hover-verde">
+                          {post.frontmatter.title}
+                      </a>
+                  </h3>
+                  
+                  <p class="desc-portada">
+                      {post.frontmatter.description || "New entry in our travel journal..."}
+                  </p>
+
+                  <div class="btn-leer-mas-portada">
+                      <a href={post.url} class="hover-verde">
+                          {t['btn.read_more'] || 'Read more'} &rarr;
+                      </a>
+                  </div>
+                  
+              </article>
+            );
+        })}
     </div>
 
     <!-- PAGINACIÓN TRADUCIDA -->

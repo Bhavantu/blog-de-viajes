@@ -1,5 +1,6 @@
 ---
 import Layout from './Layout.astro';
+import PostsRecomendados from '../components/PostsRecomendados.astro';
 import { getRelativeLocaleUrl } from 'astro:i18n';
 import { ui } from '../i18n/ui.js';
 
@@ -8,20 +9,24 @@ const indices = headings ? headings.filter((h: any) => h.depth === 2 || h.depth 
 
 // Atrapamos el idioma y cargamos las traducciones
 const currentLang = Astro.currentLocale || 'es';
-const t = ui[currentLang as keyof typeof ui];
+const t = ui[currentLang as keyof typeof ui] || ui['es'];
 
 // Definimos la carpeta de destino según el idioma
 const carpetaDiario = currentLang === 'en' ? 'journal' : 'diario';
+
+// Tag traducido para mostrar
+const tagKey = `tag.${frontmatter?.tag?.toLowerCase()}`;
+const translatedTag = t[tagKey as keyof typeof t] || frontmatter?.tag;
 ---
 
-<Layout title={frontmatter.title} description={frontmatter.description}>
+<Layout title={frontmatter.title} description={frontmatter.description} frontmatter={frontmatter}>
     <main class="container">
         <article class="article-view" style="display: block;">
             <a href={getRelativeLocaleUrl(currentLang, carpetaDiario)} class="back-btn hover-verde">← {t['post.volver']}</a>            
             <header class="article-header reveal visible">
                 {frontmatter.tag && (
                     <span class="journal-tag" data-tag={frontmatter.tag.toLowerCase()}>
-                        {frontmatter.tag}
+                        {translatedTag}
                     </span>
                 )}
                 <span class="journal-date">
@@ -41,7 +46,7 @@ const carpetaDiario = currentLang === 'en' ? 'journal' : 'diario';
                 <!-- ÍNDICE DE CONTENIDOS -->
                 {indices.length > 0 && (
                     <div class="indice-contenidos">
-                        <p class="indice-titulo">En este artículo</p>
+                        <p class="indice-titulo">{t['post.indice']}</p>
                         <ul class="indice-lista">
                             {indices.map((heading: any) => (
                                 <li class={`indice-item nivel-${heading.depth}`}>
@@ -70,8 +75,61 @@ const carpetaDiario = currentLang === 'en' ? 'journal' : 'diario';
                         ></iframe>
                     </div>
                 )}
+            </div> <!-- FIN TEXT-COLUMN -->
+
+            <!-- BANNERS DE AFILIADOS AL FINAL DEL POST -->
+            <div class="banners-afiliados">
+                <h3 class="afiliados-titulo">
+                    {currentLang === 'en' ? 'Support our project & travel smarter' : 'Apoyá nuestro proyecto y viajá mejor'}
+                </h3>
+                <div class="afiliados-grid">
+                    
+                    <!-- Tarjeta Booking -->
+                    <div class="afiliado-card">
+                        <div class="afiliado-icon-box">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Booking.com_Icon_2022.svg" alt="Booking.com Logo" class="afiliado-logo" />
+                        </div>
+                        <h4>{currentLang === 'en' ? 'Book your stays' : 'Reservá tu alojamiento'}</h4>
+                        <p>{currentLang === 'en' ? 'Book through our link to support the blog at no extra cost to you.' : 'Reservá a través de nuestro link y ayudanos a mantener el blog sin costo extra para vos.'}</p>
+                        <a href="https://www.booking.com/" target="_blank" rel="noopener noreferrer" class="btn-afiliado btn-booking-post">
+                            {currentLang === 'en' ? 'Search accommodation' : 'Buscar alojamiento'}
+                        </a>
+                    </div>
+
+                    <!-- Tarjeta Airalo -->
+                    <div class="afiliado-card">
+                        <div class="afiliado-icon-box">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Airalo_logo.svg/1280px-Airalo_logo.svg.png" alt="Airalo Logo" class="afiliado-logo" />
+                        </div>
+                        <h4>{currentLang === 'en' ? 'Internet on your trip' : 'Internet en tu viaje'}</h4>
+                        <p>{currentLang === 'en' ? 'Stay connected anywhere with an Airalo eSIM. Easy to install and no roaming charges.' : 'Mantenete conectado en cualquier país con una eSIM de Airalo sin cargos de roaming.'}</p>
+                        <a href="https://airalo.tpx.lu/8J5sLaD4" target="_blank" rel="noopener noreferrer" class="btn-afiliado btn-airalo-post">
+                            {currentLang === 'en' ? 'Get Airalo eSIM' : 'Conseguir eSIM'}
+                        </a>
+                    </div>
+
+                    <!-- Tarjeta GetYourGuide -->
+                    <div class="afiliado-card">
+                        <div class="afiliado-icon-box">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/GetYourGuide_logo.svg/1280px-GetYourGuide_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20250423234221" alt="GetYourGuide Logo" class="afiliado-logo" />
+                        </div>
+                        <h4>{currentLang === 'en' ? 'Tours & Activities' : 'Tours y Actividades'}</h4>
+                        <p>{currentLang === 'en' ? 'Book skip-the-line tickets and local tours through GetYourGuide.' : 'Reservá tours y entradas sin filas con GetYourGuide para apoyar nuestros viajes.'}</p>
+                        <a href="https://www.getyourguide.com/" target="_blank" rel="noopener noreferrer" class="btn-afiliado btn-gyg-post">
+                            {currentLang === 'en' ? 'Explore Tours' : 'Explorar Tours'}
+                        </a>
+                    </div>
+
+                </div>
             </div>
+            
         </article>
+
+        <!-- POSTS RECOMENDADOS INMEDIATAMENTE DESPUÉS DEL ARTÍCULO -->
+        <div class="relacionados-wrapper">
+            <PostsRecomendados pais={frontmatter.pais} />
+        </div>
+
     </main>
 
     <!-- Script de Stay22 para links de afiliados -->
@@ -94,72 +152,64 @@ const carpetaDiario = currentLang === 'en' ? 'journal' : 'diario';
 <style>
 
 /* ============================================================
-     GALERÍA EDITORIAL AUTOMÁTICA (Transforma listas de imágenes)
+     GALERÍA EDITORIAL AUTOMÁTICA
      ============================================================ */
   
-  /* Detectamos si una lista común (ul) contiene imágenes adentro */
   .article-view ul:has(img) {
       display: flex !important;
       gap: 1.5rem !important;
-      list-style: none !important; /* Borramos los puntitos de la lista */
-      padding: 0 !important;       /* Quitamos el margen izquierdo nativo */
+      list-style: none !important;
+      padding: 0 !important;
       margin: 2.5rem 0 !important;
       width: 100% !important;
   }
-
-  /* Hacemos que cada elemento de la lista se reparta el espacio por igual */
   .article-view ul:has(img) li {
       flex: 1 !important;
       margin: 0 !important;
       padding: 0 !important;
   }
-
-  /* Estilo estricto para las imágenes de la galería */
   .article-view ul:has(img) img {
       width: 100% !important;
-      height: 380px !important; /* Altura fija simétrica */
-      object-fit: cover !important; /* Evita deformaciones */
-      border-radius: 0 !important;  /* Estilo recto revista */
+      height: 380px !important;
+      object-fit: cover !important;
+      border-radius: 0 !important;
       display: block !important;
       margin: 0 !important;
   }
 
-  /* MODO CELULAR: Se rompe la fila y vuelven a ponerse en vertical */
   @media (max-width: 650px) {
       .article-view ul:has(img) {
           flex-direction: column !important;
           gap: 1rem !important;
       }
       .article-view ul:has(img) img {
-          height: auto !important; /* En celu recuperan su proporción natural */
-      }
-  }
-    /* ============================================================
-     EFECTO "HOJA DE PAPEL" PARA EL ARTÍCULO
-     ============================================================ */
-  .article-view {
-      background-color: #ffffff; /* Fondo blanco puro */
-      padding: 4rem 5rem; /* Espaciado interno generoso para que respire */
-      max-width: 950px; /* Ancho máximo de la hoja blanca */
-      margin: 0 auto; /* Centramos la hoja en la pantalla */
-      box-shadow: 0 10px 30px rgba(0,0,0,0.03); /* Sombra elegante para que "flote" sobre el arena */
-      border-radius: 0; /* Bordes rectos para mantener el estilo editorial */
-  }
-
-  /* Ajuste de espaciado en la cabecera del artículo */
-  .article-header {
-      margin-bottom: 4rem;
-  }
-
-  /* Adaptación de la hoja blanca para celulares */
-  @media (max-width: 768px) {
-      .article-view {
-          padding: 2.5rem 1.5rem;
+          height: auto !important;
       }
   }
 
   /* ============================================================
-     ESTILOS PARA LOS TÍTULOS DEL MARKDOWN (H2, H3, H4)
+     EFECTO "HOJA DE PAPEL"
+     ============================================================ */
+  .article-view {
+      background-color: #ffffff;
+      padding: 4rem 5rem 0.5rem 5rem; /* Ajustado el padding inferior casi al límite */
+      margin-bottom: 0;
+      max-width: 950px;
+      margin: 0 auto;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.03);
+      border-radius: 0;
+  }
+  .article-header {
+      margin-bottom: 4rem;
+  }
+  @media (max-width: 768px) {
+      .article-view {
+          padding: 2.5rem 1.5rem 1rem 1.5rem;
+      }
+  }
+
+  /* ============================================================
+     TÍTULOS (TEXT-COLUMN)
      ============================================================ */
   .text-column :global(h2) {
     font-family: var(--font-display);
@@ -170,7 +220,6 @@ const carpetaDiario = currentLang === 'en' ? 'journal' : 'diario';
     margin-bottom: 1.2rem;
     line-height: 1.3;
   }
-
   .text-column :global(h3) {
     font-family: var(--font-main);
     font-size: 1.4rem;
@@ -180,7 +229,6 @@ const carpetaDiario = currentLang === 'en' ? 'journal' : 'diario';
     margin-bottom: 1rem;
     line-height: 1.4;
   }
-
   .text-column :global(h4) {
     font-size: 1.15rem;
     font-weight: 700;
@@ -188,26 +236,33 @@ const carpetaDiario = currentLang === 'en' ? 'journal' : 'diario';
     margin-top: 2rem;
     margin-bottom: 0.8rem;
   }
-  
   .text-column :global(p) {
     margin-bottom: 1.5rem;
   }  
 
-  .text-column :global(a:not(.hover-verde):not(.indice-item a)) {
-    color: #333 !important;
-    text-decoration: underline !important; 
-    text-decoration-color: #ccc !important;
-    text-underline-offset: 4px; 
-    font-weight: 700 !important; 
-    transition: all 0.3s ease;
-  }
-
-  .text-column :global(a:not(.hover-verde):not(.indice-item a):hover) {
+  /* ============================================================
+     ENLACES DENTRO DEL TEXTO DEL ARTÍCULO (EFECTO RESALTADOR)
+     ============================================================ */
+  .text-column :global(a:not(.hover-verde):not(.indice-item a):not(.btn-afiliado)) {
     color: #006d77 !important; 
-    text-decoration-color: #006d77 !important; 
+    text-decoration: none !important; 
+    font-weight: 800 !important; 
+    background: linear-gradient(to top, rgba(0, 109, 119, 0.25) 0%, rgba(0, 109, 119, 0.25) 35%, transparent 35%) !important;
+    padding: 0 4px;
+    margin: 0 -2px;
+    border-radius: 2px;
+    transition: all 0.2s ease-in-out !important;
+  }
+  
+  .text-column :global(a:not(.hover-verde):not(.indice-item a):not(.btn-afiliado):hover) {
+    color: #003a3f !important; 
+    background: linear-gradient(to top, rgba(0, 109, 119, 0.35) 0%, rgba(0, 109, 119, 0.35) 100%, transparent 100%) !important;
+    border-radius: 4px;
   }
 
-  /* 2. ESTILOS DEL ÍNDICE DE CONTENIDOS */
+  /* ============================================================
+     ÍNDICE DE CONTENIDOS
+     ============================================================ */
   .indice-contenidos {
       background-color: var(--bg-color, #f4f1ea);
       border: 1px solid #e5e5e5;
@@ -217,29 +272,24 @@ const carpetaDiario = currentLang === 'en' ? 'journal' : 'diario';
       max-width: 100%;
       box-shadow: 0 4px 6px rgba(0,0,0,0.02);
   }
-  
   .indice-titulo {
       font-family: var(--font-display);
       font-size: 1.2rem;
       margin: 0 0 1rem 0 !important;
       color: var(--text-color, #333);
-      border-bottom: 2px solid #006d77; /* Línea esmeralda abajo del título */
+      border-bottom: 2px solid #006d77;
       display: inline-block;
       padding-bottom: 0.3rem;
       font-weight: normal;
   }
-
   .indice-lista {
       list-style: none !important;
       padding: 0 !important;
       margin: 0 !important;
   }
-
   .indice-item { margin-bottom: 0.7rem; line-height: 1.4; }
   .indice-item.nivel-3 { padding-left: 1.5rem; font-size: 0.95rem; position: relative; }
   .indice-item.nivel-3::before { content: "•"; position: absolute; left: 0.5rem; color: #006d77; }
-  
-  /* Enlaces específicos del índice */
   .indice-item a { 
       text-decoration: none !important; 
       color: #555 !important; 
@@ -248,29 +298,24 @@ const carpetaDiario = currentLang === 'en' ? 'journal' : 'diario';
   }
   .indice-item a:hover { color: #006d77 !important; }
 
-/* ============================================================
-     REGLAS PARA CONTENEDORES DE IMÁGENES DEL CMS
+  /* ============================================================
+     CONTENEDORES DE IMÁGENES DEL CMS
      ============================================================ */
-  
-  /* ESCRITORIO (Pantallas mayores a 768px): Aplica el ceñido de texto */
   @media (min-width: 769px) {
       .text-column :global(.img-derecha) {
           float: right !important;
           margin: 0.5rem 0 1.5rem 2rem !important;
           clear: none !important;
       }
-
       .text-column :global(.img-izquierda) {
           float: left !important;
           margin: 0.5rem 2rem 1.5rem 0 !important;
           clear: none !important;
       }
-
       .text-column :global(.img-pequeño) {
           width: 350px !important;
           max-width: 50% !important;
       }
-
       .text-column :global(.img-derecha img),
       .text-column :global(.img-izquierda img) {
           width: 100% !important;
@@ -278,22 +323,20 @@ const carpetaDiario = currentLang === 'en' ? 'journal' : 'diario';
       }
   }
 
-  /* CELULARES (Pantallas de 768px o menos): Sin ceñir y desplegado de borde a borde */
   @media (max-width: 768px) {
       .text-column :global(.post-img-box),
       .text-column :global(.img-derecha),
       .text-column :global(.img-izquierda),
       .text-column :global(.img-pequeño) {
           float: none !important;
-          width: calc(100% + 3rem) !important; /* Expande la imagen anulando los márgenes internos */
+          width: calc(100% + 3rem) !important;
           max-width: calc(100% + 3rem) !important;
-          margin-left: -1.5rem !important; /* Empuja la imagen hacia la izquierda hasta el borde */
-          margin-right: -1.5rem !important; /* Empuja la imagen hacia la derecha hasta el borde */
+          margin-left: -1.5rem !important;
+          margin-right: -1.5rem !important;
           margin-top: 2rem !important;
           margin-bottom: 2rem !important;
           display: block !important;
       }
-
       .text-column :global(.post-img-box img),
       .text-column :global(.img-derecha img),
       .text-column :global(.img-izquierda img) {
@@ -302,9 +345,16 @@ const carpetaDiario = currentLang === 'en' ? 'journal' : 'diario';
           margin: 0 auto !important;
           border-radius: 0 !important;
       }
+      
+      .article-view .post-banner {
+          width: calc(100% + 3rem) !important;
+          max-width: calc(100% + 3rem) !important;
+          margin-left: -1.5rem !important;
+          margin-right: -1.5rem !important;
+      }
+      .article-view .post-banner img { border-radius: 0 !important; }
   }
 
-  /* Limpiar los flotantes al final para no romper el layout */
   .text-column::after {
       content: "";
       display: table;
@@ -312,19 +362,135 @@ const carpetaDiario = currentLang === 'en' ? 'journal' : 'diario';
   }
 
   /* ============================================================
-     IMAGEN DE PORTADA DE BORDE A BORDE EN CELULARES
+     BANNERS DE AFILIADOS AL FINAL DEL POST
      ============================================================ */
-  @media (max-width: 768px) {
-      .article-view .post-banner {
-          width: calc(100% + 3rem) !important;
-          max-width: calc(100% + 3rem) !important;
-          margin-left: -1.5rem !important;
-          margin-right: -1.5rem !important;
-      }
-      
-      .article-view .post-banner img {
-          border-radius: 0 !important; /* Le sacamos las puntas redondeadas para que encaje perfecto en los bordes de la pantalla */
-      }
+  .banners-afiliados {
+      margin-top: 3rem;
+      padding-top: 3rem;
+      border-top: 1px solid #eee;
+      padding-bottom: 0; 
+  }
+  .afiliados-titulo {
+      text-align: center;
+      font-family: var(--font-display);
+      font-size: 1.6rem;
+      margin-bottom: 2rem;
+      color: var(--text-color, #333);
+  }
+  
+  .afiliados-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 1.5rem; 
+  }
+  
+  .afiliado-card {
+      background-color: #ffffff;
+      padding: 1.5rem 1.2rem; 
+      border-radius: 10px;
+      text-align: center;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.03);
+      border: 1px solid #f5f5f5;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  .afiliado-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 20px rgba(0,0,0,0.05);
+  }
+  .afiliado-icon-box {
+      height: 35px; 
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 1rem;
+  }
+  .afiliado-logo {
+      max-height: 100%;
+      width: auto;
+      object-fit: contain;
+  }
+  .afiliado-card h4 {
+      font-family: var(--font-display);
+      font-size: 1.15rem; 
+      margin-bottom: 0.8rem;
+      font-weight: normal;
+  }
+  .afiliado-card p {
+      font-size: 0.85rem; 
+      color: #666;
+      line-height: 1.4;
+      margin-bottom: 1.5rem;
+      flex-grow: 1;
+  }
+  
+  .btn-afiliado {
+      display: inline-block;
+      padding: 10px 14px; 
+      border-radius: 6px;
+      text-decoration: none !important;
+      font-weight: 700 !important;
+      font-size: 0.75rem; 
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      transition: all 0.3s ease;
+      width: 100%;
+      border: 2px solid !important;
+      box-sizing: border-box;
+      text-align: center;
+  }
+  
+  .btn-booking-post { 
+      color: #003580; 
+      border-color: #003580 !important; 
+      background-color: transparent; 
+  }
+  .btn-booking-post:hover { 
+      background-color: #003580 !important; 
+      color: #ffffff !important; 
+  }
+  
+  .btn-airalo-post { 
+      color: #ff5e00; 
+      border-color: #ff5e00 !important; 
+      background-color: transparent; 
+  }
+  .btn-airalo-post:hover { 
+      background-color: #ff5e00 !important; 
+      color: #ffffff !important; 
   }
 
+  .btn-gyg-post { 
+      color: #ff5533; 
+      border-color: #ff5533 !important; 
+      background-color: transparent; 
+  }
+  .btn-gyg-post:hover { 
+      background-color: #ff5533 !important; 
+      color: #ffffff !important; 
+  }
+
+  /* Responsividad */
+  @media (max-width: 850px) {
+      .afiliados-grid { grid-template-columns: repeat(3, 1fr); gap: 1rem; }
+      .afiliado-card { padding: 1.2rem 1rem; }
+  }
+  @media (max-width: 700px) {
+      .afiliados-grid { grid-template-columns: 1fr; gap: 1.5rem; }
+  }
+
+  /* ============================================================
+     CONTROL DE DISTANCIA DE POSTS RECOMENDADOS (AL PIE)
+     ============================================================ */
+  .relacionados-wrapper {
+      margin-top: -2rem; /* Margen negativo para chupar la sección hacia arriba */
+  }
+  
+  .relacionados-wrapper :global(section),
+  .relacionados-wrapper :global(div:first-child) {
+      margin-top: 0 !important; 
+      padding-top: 0 !important;
+  }
 </style>

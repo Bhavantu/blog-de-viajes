@@ -7,7 +7,6 @@ tag: guia de viaje
 pais: Nueva Zelanda
 description: "New Zealand Road Trip: West Coast of South Island. Route 6, camper van itinerary, State Highway 60, what to see in Abel Tasman."
 main_image: /img/diario/2.webp
-archivo_original: 2026-07-05-el-itinerario-definitivo-de-12-días-por-la-costa-oeste-de-nueva-zelanda-ruta-6-golden-bay-por-la-sh60.md
 ---
 
 **Day 1: Picton**

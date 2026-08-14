@@ -6,7 +6,6 @@ tag: guia de viaje
 pais: Indonesia
 description: "Traveling to Bali in 2026 is pure magic. Here's our guide with visa requirements, transportation suggestions, data, and the best areas to stay based on our experience."
 main_image: /img/diario/img_9383.webp
-archivo_original: 2026-06-18-bali-bby-1.md
 ---
 After 48 hours of thrilling struggles with those technical issues that are just part and parcel of traveling, we finally arrived at one of my dream destinations: Bali, Indonesia. This island, famous for its charm and unique spiritual culture, had been calling to me for a while and my soul was inviting me to follow that desire.
 
