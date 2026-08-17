@@ -9,9 +9,9 @@ description: Viajar a Bali en 2026 es pura magia. A continuación nuestra guía
   zonas para quedarse basandonos en nuestra experiencia.
 main_image: /img/diario/img_9383.webp
 ---
-Después de 48 horas delirantes lidiando con esas fallas técnicas que son parte inevitable de estar viajando, por fin llegamos a uno de mis lugares soñados: Bali, Indonesia. Esta isla, famosa por su encanto y su cultura espiritual tan particular, me llamaba hace tiempo y mi alma me invitaba a seguir ese deseo.
+Después de 48 horas delirantes lidiando con esas fallas técnicas que son parte inevitable de estar viajando por fin llegamos a uno de mis lugares soñados: Bali, Indonesia. Esta isla, famosa por su encanto y su cultura espiritual tan particular, me llamaba hace tiempo y mi alma me invitaba a seguir ese deseo.
 
-Añorando el verano eterno, llegamos a mediados de junio (temporada seca) justo un poco antes de que empezara la temporada alta, y nos encontramos con esta isla encantadora, llena de gente con una energía hermosa que te recibe siempre con una sonrisa. En las primeras 12 horas de sol ya habíamos conversado con cuatro personas distintas que charlan por el simple placer de intercambiar historias. Muchos provienen de diferentes partes de Indonesia y nos cuentan que decidieron venir acá para practicar idiomas y satisfacer la curiosidad de conocer otras culturas mientras comparten la suya. Así fue como conocimos a Roi apenas saliendo del aeropuerto con quien conversamos largo y entre risas nos dio una cálida bienvenida a este rincón del mundo. 
+Añorando el verano eterno, llegamos a mediados de junio (durante la temporada seca) justo un poco antes de que empezara la temporada alta, y nos encontramos con esta isla encantadora, llena de gente con una energía hermosa que te recibe siempre con una sonrisa. En las primeras 12 horas de sol ya habíamos conversado con cuatro personas distintas que charlan por el simple placer de intercambiar historias. Muchos provienen de diferentes partes de Indonesia y nos cuentan que decidieron venir acá para practicar idiomas y satisfacer la curiosidad de conocer otras culturas mientras comparten la suya. Así fue como conocimos a Roi apenas saliendo del aeropuerto con quien conversamos largo y entre risas nos dio una cálida bienvenida a este rincón del mundo. 
 
 ## Qué necesitas saber antes de viajar a Bali, Indonesia
 
