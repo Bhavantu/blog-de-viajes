@@ -4,6 +4,8 @@ title: ¿Vale la pena viajar a Bali en 2026? Lo que más nos gusto y lo que no
 date: 2026-08-22T19:07:00.000+08:00
 tag: guia de viaje
 pais: Indonesia
+description: ¿Vale la pena Bali en 2026? Te contamos lo mejor de la cultura,
+  playas, snorkel y la cara B de la masificación.
 ---
 <h1>¿Vale la pena viajar a Bali en 2026? Lo que nadie te cuenta sobre la Isla de los Dioses</h1>
 
