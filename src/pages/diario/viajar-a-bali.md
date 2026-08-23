@@ -24,10 +24,8 @@ Para quienes estén planeando los primeros pasos en la Isla de los dioses, acá 
 * **Moneda:** Rupia Indonesia (IDR). Llevar algo de efectivo para los primeros gastos es fundamental. La cantidad de ceros se vuelve bastante compleja para quienes no brillamos en matemáticas, por tanto una buena referencia rápida para este 2026 es calcular que **1 USD equivale a unas 17.800 rupias**, y **1 EURO son unas ... rupias**. Un billete de 100.000 (el de mayor denominación y color rojo), hay que pensar que es un poco menos de 6 USD. Esto ayuda muchísimo a calcular los gastos del día a día sin volverse locos.
 * Temporadas para viajar a bali: La mejor época para viajar es durante la temporada seca a mediados de junio.
 
-Temporada seca (mayo a octubre): Es la época con días soleados, menor humedad y mar calmo. Es la mejor ventana para hacer snorkel, buceo o trekkings en los volcanes con buena visibilidad.Pico de la temporada (Julio - Agosto)
-
-Temporada de lluvias / Monzón (noviembre a abril): El clima es caluroso y muy húmedo. Suele llover en chubascos intensos pero breves (casi siempre por la tarde o noche), lo que no impide viajar, aunque hay que considerar que el mar puede estar revuelto y hay menor presencia de turismo.
-
+  * Temporada seca (mayo a octubre): Es la época con días soleados, menor humedad y mar calmo. Es la mejor ventana para hacer snorkel, buceo o trekkings en los volcanes con buena visibilidad.Pico de la temporada (Julio - Agosto)
+  * Temporada de lluvias / Monzón (noviembre a abril): El clima es caluroso y muy húmedo. Suele llover en chubascos intensos pero breves (casi siempre por la tarde o noche), lo que no impide viajar, aunque hay que considerar que el mar puede estar revuelto y hay menor presencia de turismo.
 * **Cultura: La religión es mayormente hinduismo balinés**, al igual que el idioma son locales. Aunque también se entiende Bahasa Indonesia, la lengua oficial que unifica toda indonesia, para conocer más sobre la cultura local te recomendamos leer el artículo: [El alma de Bali: Rituales, la familia y el secreto de la felicidad balinesa](https://blogcito.com/diario/2026-06-23-el-alma-de-bali-rituales-la-familia-y-el-secreto-de-la-felicidad-balinesa/)
 
 ## Dónde quedarse en Bali
@@ -37,8 +35,6 @@ Mientras organizábamos la ruta, fuimos entendiendo que Bali tiene diferentes ri
 * **Uluwatu (Extremo Sur):** 
 
 Es una de las zonas más hermosas y turísticas por excelencia. Ubicada hacia el Sur en la península de Bukit, esta zona despliega unos acantilados impresionantes con vistas al atardecer, playas de arena blanca y olas para surfers de todos los niveles. Aunque la variedad de alojamientos es amplia, en esta zona se encuentran más hoteles boutique que en relación a otras zonas. Si estás pensando dónde quedarte en uluwatu acá te dejamos sugerencias según nuestra experiencia.
-
-
 
 * **[Ubud (Centro)](https://blogcito.com/diario/2026-06-29-guia-de-ubud-cultura-gemas-ocultas-y-costos-2026/):** 
 
