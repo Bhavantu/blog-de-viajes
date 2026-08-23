@@ -111,7 +111,7 @@ La temporada seca va de mayo a octubre, siendo los meses ideales para hacer trek
 
 ### ¿Es necesario alquilar un scooter para moverse?
 
-Lo recomendamos si te gusta moverte con libertad, pero solo si tenés experiencia manejando moto. En realidad es más seguro contratar choferes privados por el día o usar aplicaciones de transporte como Grab o Gojek, que son accesibles y no corrés riesgos. 
+Lo recomendamos si te gusta moverte con libertad, pero solo si tenés experiencia manejando moto. En realidad es más seguro contratar choferes privados por el día o usar aplicaciones de transporte como Grab o Gojek, que son accesibles y reducis mucho el riesgo. 
 
 ## Artículos relacionados para planificar tu viaje:
 
