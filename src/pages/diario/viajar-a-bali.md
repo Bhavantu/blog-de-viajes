@@ -24,10 +24,8 @@ Para quienes estén planeando los primeros pasos en la Isla de los dioses, acá 
 * **Moneda:** Rupia Indonesia (IDR). Llevar algo de efectivo para los primeros gastos es fundamental. La cantidad de ceros se vuelve bastante compleja para quienes no brillamos en matemáticas, por tanto una buena referencia rápida para este 2026 es calcular que **1 USD equivale a unas 17.800 rupias**, y **1 EURO son unas ... rupias**. Un billete de 100.000 (el de mayor denominación y color rojo), hay que pensar que es un poco menos de 6 USD. Esto ayuda muchísimo a calcular los gastos del día a día sin volverse locos.
 * Temporadas para viajar a bali: La mejor época para viajar es durante la temporada seca a mediados de junio.
 
-Temporada seca (mayo a octubre): Es la época con días soleados, menor humedad y mar calmo. Es la mejor ventana para hacer snorkel, buceo o trekkings en los volcanes con buena visibilidad.Pico de la temporada (Julio - Agosto)
-
-Temporada de lluvias / Monzón (noviembre a abril): El clima es caluroso y muy húmedo. Suele llover en chubascos intensos pero breves (casi siempre por la tarde o noche), lo que no impide viajar, aunque hay que considerar que el mar puede estar revuelto y hay menor presencia de turismo.
-
+  * Temporada seca (mayo a octubre): Es la época con días soleados, menor humedad y mar calmo. Es la mejor ventana para hacer snorkel, buceo o trekkings en los volcanes con buena visibilidad.Pico de la temporada (Julio - Agosto)
+  * Temporada de lluvias / Monzón (noviembre a abril): El clima es caluroso y muy húmedo. Suele llover en chubascos intensos pero breves (casi siempre por la tarde o noche), lo que no impide viajar, aunque hay que considerar que el mar puede estar revuelto y hay menor presencia de turismo.
 * **Cultura: La religión es mayormente hinduismo balinés**, al igual que el idioma son locales. Aunque también se entiende Bahasa Indonesia, la lengua oficial que unifica toda indonesia, para conocer más sobre la cultura local te recomendamos leer el artículo: [El alma de Bali: Rituales, la familia y el secreto de la felicidad balinesa](https://blogcito.com/diario/2026-06-23-el-alma-de-bali-rituales-la-familia-y-el-secreto-de-la-felicidad-balinesa/)
 
 ## Dónde quedarse en Bali
@@ -37,8 +35,6 @@ Mientras organizábamos la ruta, fuimos entendiendo que Bali tiene diferentes ri
 * **Uluwatu (Extremo Sur):** 
 
 Es una de las zonas más hermosas y turísticas por excelencia. Ubicada hacia el Sur en la península de Bukit, esta zona despliega unos acantilados impresionantes con vistas al atardecer, playas de arena blanca y olas para surfers de todos los niveles. Aunque la variedad de alojamientos es amplia, en esta zona se encuentran más hoteles boutique que en relación a otras zonas. Si estás pensando dónde quedarte en uluwatu acá te dejamos sugerencias según nuestra experiencia.
-
-
 
 * **[Ubud (Centro)](https://blogcito.com/diario/2026-06-29-guia-de-ubud-cultura-gemas-ocultas-y-costos-2026/):** 
 
@@ -62,11 +58,23 @@ Al llegar al aeropuerto hay conexión wi-fi, pero la zona para esperar el Grab e
 
 Otro punto clave para los primeros días es la comida. La isla está llena de *Warungs*, que son los pequeños restaurantes locales manejados por familias. Acá se pueden probar platos locales y deliciosos como el *Nasi Goreng* (arroz frito) o el *Mie Goreng* (fideos fritos) con verduras por un precio muy accesible. Sentarte a comer en un warung no solo es amigable para el bolsillo, sino que es la mejor forma de conectar con la cultura real de Bali. Hay muchos blogs que hablan sobre la famosa indigestión, incluso algunos que recomiendan comer solo en restaurantes occidentales. En nuestra experiencia informándonos mediante comentarios y puntuaciones de Google Maps no tuvimos ningún problema; eso sí, a saber que casi siempre hay que agregar el IVA que es alrededor del 10%.
 
-Las opciones de comida internacional son muchas y los precios varían entre ... plato local en IDR, USD y euros y ... plato internacional. 
+### 3. La Comida
 
-Algunos de los platos más conocidos son: 
+Tanto la comida local (que fue la que principalmente probamos) como la propuesta gastronómica internacional es infinita. En todos los lugares son amables. Hay opciones vegetarianas, variedad de carnes y mariscos, para todos los gustos y presupuestos.
+También hay muchas cafeterías que más que un café son una experiencia, como Akasa Cafe.
+#### Presupuesto promedio de comida (2026):
 
-Lista con los platos locales aclarando los vegetarianos y no vegetarianos 
+Las opciones de comida internacional son muchas y los precios varían entre 70.000 IDR y 200.000 IDR ($4.50 a $12.90 USD / €4.10 a €11.90 EUR) por plato. El plato local varía entre 30.000 IDR y 70.000 IDR ($1.90 a $4.50 USD / €1.80 a €4.10 EUR).
+
+Algunos de los platos más conocidos son:
+
+* **Nasi Goreng:** Arroz frito salteado con verduras, salsa de soja dulce (kecap manis) y huevo frito arriba. *(Opción vegetariana disponible pidiéndolo sin carne ni salsa de pescado/ostra; habitualmente incluye pollo o mariscos si no se especifica).*
+* **Mie Goreng:** Fideos fritos salteados con vegetales, especias locales y huevo. *(Opción vegetariana pidiéndolo solo con verduras y tofu).*
+* **Gado Gado:** Ensalada tibia de vegetales al vapor, brotes de soja, papa hervida, tofu, tempeh y huevo duro, cubierta con una salsa cremosa de maní. *(100% Vegetariano).*
+* **Nasi Campur:** Plato combinado que lleva una porción de arroz blanco acompañado de pequeñas raciones de carnes, verduras, tempeh, huevo y sambal (salsa picante). *(No vegetariano en su versión clásica, aunque muchos warungs ofrecen la versión "Nasi Campur Vegetarian" a base de tempeh, tofu y verduras).*
+* **Sate (Satay) Ayam:** Brochetas de pollo marinadas, asadas a la parrilla de carbón y servidas con salsa de maní. *(Opción vegetariana con tofu y tempeh).*
+* **Babi Guling:** Cerdo entero asado a fuego lento con especias tradicionales, muy típico y sagrado en las celebraciones balinesas. *(No vegetariano).*
+* **Cap Cay:** Salteado de verduras variadas en caldo ligero, servido solo o acompañado de arroz. *(Opción vegetariana fácil de pedir).*
 
 <div class="post-img-box img-pequeño img-izquierda"><img src="/img/diario/img_9796.webp" alt="Imagen de bitácora"><span class="img-caption">Mie goreng con tempeh y crackers (fried noddles) comida típica de bali (vegetariano))</span></div>
 
