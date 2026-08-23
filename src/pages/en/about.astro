@@ -1,0 +1,307 @@
+---
+import Layout from '../../layouts/Layout.astro';
+---
+
+<Layout title="BLOGCITO - About Us"
+  description="Who is behind BLOGCITO? Discover our story, what drives us to travel the world, our travel philosophy, and how we experience local life."
+>
+    <main class="container-nosotros">
+        
+        <header class="nosotros-header">
+            <span class="nosotros-badge">Our Philosophy</span>
+            <h1>We are Blogcito</h1>
+            <h2 class="subtitle">
+                A team seeking to travel slowly and mindfully, to discover cultures, philosophies, histories, and religions; ultimately, to understand other ways of seeing the world.
+            </h2>
+            <p class="intro-text">
+                We share our experience, delve into cultural research, and create travel guides for those who, like us, choose to walk the world with a mindful gaze and an open heart, while keeping their feet on the ground.
+            </p>
+        </header>
+
+        <section class="navegacion-section">
+            <h3 class="section-title">How to navigate this blog?</h3>
+            <p class="section-desc">To help you find exactly what you're looking for, we've organized our journal into four clear paths:</p>
+            
+            <div class="rutas-grid">
+                <div class="ruta-card">
+                    <h4>Context & Culture</h4>
+                    <p>Social, religious, and historical analysis of the territories. We reflect on experiences to allow ourselves to be transformed by different worldviews.</p>
+                </div>
+                <div class="ruta-card">
+                    <h4>Travel Guides</h4>
+                    <p>Concrete solutions. Step-by-step guides, real budgets, and procedures based entirely on our own experience.</p>
+                </div>
+                <div class="ruta-card">
+                    <h4>Vanishing Point</h4>
+                    <p>Chronicles, photography, narrative, and music. The space where we pour out our most personal reflections and the art of slow travel.</p>
+                </div>
+                <div class="ruta-card">
+                    <h4>Local Life</h4>
+                    <p>Practical tips for day-to-day life. How to truly live, shop, rent, and inhabit a city as a foreigner.</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="equipo-section">
+            <h3 class="section-title">The team</h3>
+
+            <div class="miembro-grid">
+                <div class="miembro-img-wrapper">
+                    <img src="/img/lore.webp" alt="Lorena" class="miembro-img" onerror="this.src='https://placehold.co/400x500/006d77/ffffff?text=Lore'" />
+                </div>
+                <div class="miembro-texto">
+                    <span class="miembro-rol">Writing & Travel Philosophy</span>
+                    <h4>Lore</h4>
+                    <p>Lover of travel and cultural exchange, curious about worldviews and the different ways to connect with them. Writing is part of who I am, so we created this space to share our adventure.</p>
+                    <p>I feel that traveling is, above all, an exercise in presence. Walking through a different space, observing its rhythm, letting the scents and sounds tell you a new story, fully embodying it. The hardest—and yet most beautiful—thing is to feel like a tourist in our own home.</p>
+                    <p>Dear reader, this is not just a story; it is an invitation to find yourself along the journey. Because a new day dawns, and that is no small thing.</p>
+                </div>
+            </div>
+
+            <div class="miembro-grid reverso">
+                <div class="miembro-img-wrapper">
+                    <img src="/img/santi.webp" alt="Santiago" class="miembro-img" onerror="this.src='https://placehold.co/400x500/006d77/ffffff?text=Santi'" />
+                </div>
+                <div class="miembro-texto">
+                    <span class="miembro-rol">Photography & Web Development</span>
+                    <h4>Santi</h4>
+                    <p>I am responsible for capturing landscapes with the camera and writing the code that makes this blog work. I take care of photography and web development, building the entire digital structure so our chronicles, guides, and maps have the perfect space to be shared.</p>
+                    <p>Slow travel also means stopping to observe the details. I really enjoy documenting that reality through the lens and ensuring everything flows flawlessly behind the screen for our readers.</p>
+                </div>
+            </div>
+        </section>
+
+        <div class="cta-final">
+            <p>Ready to start the journey?</p>
+            <div class="cta-links">
+                <a href="/en/journal" class="btn-primary">Explore chronicles</a>
+                <a href="/en/journal" class="btn-secondary">View practical guides</a>
+            </div>
+        </div>
+
+    </main>
+</Layout>
+
+<style is:global>
+    .container-nosotros {
+        max-width: 900px;
+        margin: 0 auto;
+        padding: 4rem 1.5rem;
+        color: var(--text-color, #333);
+    }
+
+    /* HEADER EDITORIAL */
+    .nosotros-header {
+        text-align: center;
+        max-width: 750px;
+        margin: 0 auto 5rem auto;
+    }
+
+    .nosotros-badge {
+        display: inline-block;
+        background-color: #f4f1ea;
+        color: #006d77;
+        padding: 6px 16px;
+        font-size: 0.75rem;
+        text-transform: uppercase;
+        letter-spacing: 0.15em;
+        font-weight: 600;
+        border-radius: 4px;
+        margin-bottom: 1.5rem;
+    }
+
+    .nosotros-header h1 {
+        font-family: var(--font-display);
+        font-size: 3.5rem;
+        font-weight: normal;
+        margin-bottom: 1.5rem;
+        line-height: 1.1;
+    }
+
+    .subtitle {
+        font-size: 1.35rem;
+        font-weight: normal;
+        color: #444;
+        margin-bottom: 2rem;
+        line-height: 1.6;
+        font-family: var(--font-display);
+        font-style: italic;
+    }
+
+    .intro-text {
+        font-size: 1.1rem;
+        color: #666;
+        line-height: 1.8;
+    }
+
+    /* TÍTULOS DE SECCIÓN */
+    .section-title {
+        font-family: var(--font-display);
+        font-size: 2.2rem;
+        text-align: center;
+        margin-bottom: 0.5rem;
+        font-weight: normal;
+    }
+
+    .section-desc {
+        text-align: center;
+        color: #666;
+        margin-bottom: 3rem;
+        font-size: 1.05rem;
+    }
+
+    /* GRID DE NAVEGACIÓN */
+    .navegacion-section {
+        margin-bottom: 6rem;
+        padding-top: 4rem;
+        border-top: 1px solid #eee;
+    }
+
+    .rutas-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 2rem;
+    }
+
+    .ruta-card {
+        background-color: #ffffff;
+        padding: 2.5rem;
+        border-radius: 12px;
+        box-shadow: 0 4px 15px rgba(0,0,0,0.03);
+        border: 1px solid #f0f0f0;
+        transition: transform 0.3s ease;
+    }
+
+    .ruta-card:hover {
+        transform: translateY(-5px);
+    }
+
+    .ruta-card h4 {
+        font-family: var(--font-display);
+        font-size: 1.3rem;
+        color: #006d77;
+        margin-bottom: 1rem;
+        font-weight: normal;
+    }
+
+    .ruta-card p {
+        font-size: 0.95rem;
+        line-height: 1.6;
+        color: #555;
+        margin: 0;
+    }
+
+    /* GRID DEL EQUIPO (Reemplaza los viejos floats) */
+    .equipo-section {
+        margin-bottom: 5rem;
+    }
+
+    .miembro-grid {
+        display: grid;
+        grid-template-columns: 1fr 1.2fr;
+        gap: 3.5rem;
+        align-items: center;
+        margin-top: 4rem;
+    }
+
+    .miembro-grid.reverso {
+        grid-template-columns: 1.2fr 1fr;
+    }
+
+    .miembro-grid.reverso .miembro-img-wrapper {
+        order: 2;
+    }
+    
+    .miembro-grid.reverso .miembro-texto {
+        order: 1;
+    }
+
+    .miembro-img {
+        width: 100%;
+        height: 500px;
+        object-fit: cover;
+        border-radius: 12px;
+        box-shadow: 0 8px 20px rgba(0,0,0,0.06);
+    }
+
+    .miembro-rol {
+        font-size: 0.75rem;
+        text-transform: uppercase;
+        letter-spacing: 0.1em;
+        color: #888;
+        display: block;
+        margin-bottom: 0.5rem;
+        font-weight: 600;
+    }
+
+    .miembro-texto h4 {
+        font-family: var(--font-display);
+        font-size: 2.2rem;
+        margin-bottom: 1.5rem;
+        font-weight: normal;
+        color: #333;
+    }
+
+    .miembro-texto p {
+        font-size: 1.05rem;
+        line-height: 1.8;
+        color: #555;
+        margin-bottom: 1.5rem;
+    }
+
+    /* CALL TO ACTION FINAL */
+    .cta-final {
+        text-align: center;
+        background-color: #faf8f5;
+        padding: 4rem 2rem;
+        border-radius: 12px;
+        border: 1px solid #eee;
+    }
+
+    .cta-final p {
+        font-family: var(--font-display);
+        font-size: 1.8rem;
+        margin-bottom: 2rem;
+        color: #333;
+    }
+
+    .cta-links {
+        display: flex;
+        justify-content: center;
+        gap: 1.5rem;
+    }
+
+    /* RESPONSIVE */
+    @media (max-width: 768px) {
+        .nosotros-header h1 {
+            font-size: 2.8rem;
+        }
+
+        .rutas-grid {
+            grid-template-columns: 1fr;
+            gap: 1.5rem;
+        }
+
+        .miembro-grid,
+        .miembro-grid.reverso {
+            grid-template-columns: 1fr;
+            gap: 2rem;
+        }
+
+        .miembro-grid.reverso .miembro-img-wrapper {
+            order: 1;
+        }
+        
+        .miembro-grid.reverso .miembro-texto {
+            order: 2;
+        }
+
+        .miembro-img {
+            height: 400px;
+        }
+
+        .cta-links {
+            flex-direction: column;
+        }
+    }
+</style>

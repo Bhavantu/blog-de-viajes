@@ -1,0 +1,265 @@
+---
+import Layout from '../../layouts/Layout.astro';
+---
+
+<Layout title="Work with us - BLOGCITO" description="Check out our Media Kit, our metrics, and how we can collaborate to give visibility to your brand or project.">
+    <main class="container-work">
+        
+        <!-- TARJETA PRINCIPAL HEADER -->
+        <div class="work-card">
+            
+            <div class="work-grid-header">
+                <div class="work-info">
+                    <span class="work-badge">Collaborations & Media Kit</span>
+                    <h1 class="work-title">Let's work together</h1>
+                    
+                    <p class="work-lead">
+                        We create authentic content, travel guides based on real experiences, and strategies focused on connecting with a mindful and active travel audience.
+                    </p>
+                    
+                    <p class="work-subtext">
+                        We help brands, accommodations, and tourism projects gain sustained visibility over time through SEO articles, honest reviews, and travel photography.
+                    </p>
+                </div>
+
+                <div class="work-photo-wrapper">
+                    <img 
+                        src="/img/nosotros.webp" 
+                        alt="Blogcito creators" 
+                        class="work-photo" 
+                        onerror="this.src='https://placehold.co/500x500/006d77/ffffff?text=Blogcito'"
+                    />
+                </div>
+            </div>
+
+            <!-- SECCIÓN TIPO MEDIA KIT / SERVICIOS -->
+            <div class="work-services-grid">
+                
+                <div class="service-card">
+                    <div class="service-icon">📝</div>
+                    <h3>Articles & SEO</h3>
+                    <p>Long-term organic positioning for accommodations, tours, and destinations in search engines.</p>
+                </div>
+
+                <div class="service-card">
+                    <div class="service-icon">📸</div>
+                    <h3>Content & Photography</h3>
+                    <p>Visual reviews and detailed stories focused on the real experience of the nomad and slow traveler.</p>
+                </div>
+
+                <div class="service-card">
+                    <div class="service-icon">📊</div>
+                    <h3>Qualified Audience</h3>
+                    <p>Readers interested in independent travel, real costs, and life on the road.</p>
+                </div>
+
+            </div>
+
+            <!-- BLOQUE DE CONTACTO / CTA -->
+            <div class="work-cta-box">
+                <div>
+                    <h2 class="cta-title">Do you have a proposal or want to see our Media Kit?</h2>
+                    <p class="cta-desc">Write directly to our contact email and we will send you updated metrics and collaboration rates.</p>
+                </div>
+                
+                <div class="cta-action">
+                    <a href="mailto:lorenagonzalez.contenidodigital@gmail.com" class="btn-email">
+                        Send email &rarr;
+                    </a>
+                    <span class="email-address">lorenagonzalez.contenidodigital@gmail.com</span>
+                </div>
+            </div>
+
+        </div>
+
+    </main>
+</Layout>
+
+<!-- ACÁ ESTÁ LA CLAVE: is:global fuerza a que Astro lea el diseño -->
+<style is:global>
+    .container-work {
+        max-width: 1050px;
+        margin: 0 auto;
+        padding: 3rem 1.5rem 6rem 1.5rem;
+    }
+
+    .work-card {
+        background-color: #ffffff;
+        padding: 4rem;
+        border-radius: 12px;
+        box-shadow: 0 4px 20px rgba(0,0,0,0.03);
+        border: 1px solid #eaeaea;
+    }
+
+    /* GRID SUPERIOR HEADER */
+    .work-grid-header {
+        display: grid;
+        grid-template-columns: 1.3fr 1fr;
+        gap: 3.5rem;
+        align-items: start;
+        padding-bottom: 3.5rem;
+        border-bottom: 1px solid #f0f0f0;
+    }
+
+    .work-badge {
+        display: inline-block;
+        background-color: #f4f1ea;
+        color: #006d77;
+        padding: 6px 14px;
+        font-size: 0.75rem;
+        text-transform: uppercase;
+        letter-spacing: 0.1em;
+        font-weight: 600;
+        border-radius: 4px;
+        margin-bottom: 1.2rem;
+    }
+
+    .work-title {
+        font-family: var(--font-display);
+        font-size: 3rem;
+        font-weight: normal;
+        color: var(--text-color, #333);
+        margin-bottom: 1.5rem;
+        line-height: 1.1;
+    }
+
+    .work-lead {
+        font-size: 1.15rem;
+        line-height: 1.6;
+        color: #333;
+        font-weight: 500;
+        margin-bottom: 1.2rem;
+    }
+
+    .work-subtext {
+        font-size: 1rem;
+        line-height: 1.7;
+        color: #666;
+    }
+
+    .work-photo-wrapper {
+        width: 100%;
+    }
+
+    .work-photo {
+        width: 100%;
+        height: 360px;
+        object-fit: cover;
+        border-radius: 8px;
+        box-shadow: 0 6px 15px rgba(0,0,0,0.05);
+    }
+
+    /* GRID SERVICIOS / MEDIA KIT */
+    .work-services-grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 2rem;
+        padding: 3.5rem 0;
+        border-bottom: 1px solid #f0f0f0;
+    }
+
+    .service-card {
+        background-color: #faf8f5;
+        padding: 1.8rem;
+        border-radius: 8px;
+        border: 1px solid #f0ece1;
+    }
+
+    .service-icon {
+        font-size: 1.8rem;
+        margin-bottom: 0.8rem;
+    }
+
+    .service-card h3 {
+        font-family: var(--font-display);
+        font-size: 1.2rem;
+        margin-bottom: 0.6rem;
+        color: #333;
+    }
+
+    .service-card p {
+        font-size: 0.9rem;
+        color: #666;
+        line-height: 1.5;
+    }
+
+    /* CTA / CONTACTO INFERIOR */
+    .work-cta-box {
+        display: grid;
+        grid-template-columns: 1.4fr 1fr;
+        gap: 2rem;
+        align-items: center;
+        padding-top: 3.5rem;
+    }
+
+    .cta-title {
+        font-family: var(--font-display);
+        font-size: 1.6rem;
+        font-weight: normal;
+        color: #333;
+        margin-bottom: 0.5rem;
+    }
+
+    .cta-desc {
+        font-size: 0.95rem;
+        color: #666;
+        line-height: 1.5;
+    }
+
+    .cta-action {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        gap: 0.6rem;
+    }
+
+    .btn-email {
+        display: inline-block;
+        background-color: #006d77;
+        color: #ffffff;
+        padding: 12px 28px;
+        border-radius: 6px;
+        text-decoration: none;
+        font-weight: 600;
+        font-size: 0.9rem;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        transition: background 0.3s ease;
+    }
+
+    .btn-email:hover {
+        background-color: #005a62;
+    }
+
+    .email-address {
+        font-size: 0.8rem;
+        color: #888;
+    }
+
+    /* RESPONSIVE */
+    @media (max-width: 850px) {
+        .work-card {
+            padding: 2rem 1.5rem;
+        }
+
+        .work-grid-header {
+            grid-template-columns: 1fr;
+            gap: 2rem;
+        }
+
+        .work-services-grid {
+            grid-template-columns: 1fr;
+            gap: 1.5rem;
+        }
+
+        .work-cta-box {
+            grid-template-columns: 1fr;
+            gap: 1.5rem;
+            text-align: center;
+        }
+
+        .cta-action {
+            align-items: center;
+        }
+    }
+</style>

@@ -1,0 +1,164 @@
+---
+import Layout from '../../layouts/Layout.astro';
+---
+
+<Layout title="Contact - BLOGCITO" description="Do you have any questions about a destination, a proposal, or just want to say hi? Write to us directly. We love hearing from you!">
+    <main class="container-contacto">
+        
+        <div class="contacto-card">
+            <span class="contacto-badge">Contact</span>
+            <h1 class="contacto-title">Let's talk</h1>
+            
+            <p class="contacto-text">
+                Travel is nourished by encounters, and even though we are currently on the other side of the screen, we love reading your messages. If you have any questions about our itineraries, need advice to organize your own route, or simply want to stop by and say hello, our inbox is always open.
+            </p>
+
+            <div class="contacto-action">
+                <p style="margin-bottom: 1.2rem; font-weight: 500; color: #333;">Write to us directly at our email:</p>
+                <a href="mailto:lorenagonzalez.contenidodigital@gmail.com" class="btn-primary">
+                    Send a message &rarr;
+                </a>
+            </div>
+
+            <hr class="contacto-divider" />
+
+            <div class="contacto-marcas">
+                <h3 class="marcas-title">Are you a brand or accommodation?</h3>
+                <p class="marcas-text">
+                    If you represent a tourism project, brand, or agency and are interested in proposing a commercial collaboration, we invite you to check out our metrics and work formats.
+                </p>
+                <a href="/en/colab" class="link-marcas">
+                    View collaborations page &rarr;
+                </a>
+            </div>
+        </div>
+
+    </main>
+</Layout>
+
+<style is:global>
+    .container-contacto {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 4rem 1.5rem 8rem 1.5rem;
+    }
+
+    .contacto-card {
+        background-color: #ffffff;
+        padding: 4rem;
+        border-radius: 12px;
+        text-align: center;
+        box-shadow: 0 4px 20px rgba(0,0,0,0.03);
+        border: 1px solid #eaeaea;
+    }
+
+    .contacto-badge {
+        display: inline-block;
+        background-color: #f4f1ea;
+        color: #006d77;
+        padding: 6px 14px;
+        font-size: 0.75rem;
+        text-transform: uppercase;
+        letter-spacing: 0.1em;
+        font-weight: 600;
+        border-radius: 4px;
+        margin-bottom: 1.5rem;
+    }
+
+    .contacto-title {
+        font-family: var(--font-display);
+        font-size: 3rem;
+        font-weight: normal;
+        color: var(--text-color, #333);
+        margin-bottom: 1.5rem;
+    }
+
+    .contacto-text {
+        font-size: 1.1rem;
+        line-height: 1.7;
+        color: #555;
+        margin-bottom: 3rem;
+        max-width: 600px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .contacto-action {
+        background-color: #faf8f5;
+        padding: 2.5rem;
+        border-radius: 8px;
+        border: 1px solid #f0ece1;
+        margin-bottom: 3rem;
+    }
+
+    .btn-primary {
+        display: inline-block;
+        background-color: #006d77;
+        color: #ffffff;
+        padding: 14px 32px;
+        border-radius: 8px;
+        text-decoration: none;
+        font-weight: bold;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        font-size: 0.9rem;
+        transition: all 0.3s ease;
+        border: 1px solid #006d77;
+    }
+
+    .btn-primary:hover {
+        background-color: #005a62;
+        transform: translateY(-2px);
+        color: #ffffff;
+    }
+
+    .contacto-divider {
+        border: 0;
+        height: 1px;
+        background-color: #eee;
+        margin: 0 0 3rem 0;
+    }
+
+    .contacto-marcas {
+        text-align: center;
+        max-width: 550px;
+        margin: 0 auto;
+    }
+
+    .marcas-title {
+        font-family: var(--font-display);
+        font-size: 1.4rem;
+        color: #333;
+        margin-bottom: 0.8rem;
+    }
+
+    .marcas-text {
+        font-size: 0.95rem;
+        color: #666;
+        line-height: 1.6;
+        margin-bottom: 1.2rem;
+    }
+
+    .link-marcas {
+        color: #006d77;
+        font-weight: 600;
+        font-size: 0.95rem;
+        text-decoration: none;
+        transition: opacity 0.3s ease;
+    }
+
+    .link-marcas:hover {
+        opacity: 0.8;
+        text-decoration: underline;
+    }
+
+    @media (max-width: 768px) {
+        .contacto-card {
+            padding: 2.5rem 1.5rem;
+        }
+
+        .contacto-title {
+            font-size: 2.2rem;
+        }
+    }
+</style>
