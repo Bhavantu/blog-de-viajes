@@ -1,12 +1,12 @@
 ---
 layout: ../../layouts/BlogPostLayout.astro
-title: "Viajar a Bali en 2026: Requisitos, transporte y zonas para quedarse"
-date: 2026-06-19T00:01:00.000+08:00
+title: "Guía de viaje a Bali 2026: Consejos, zonas, transporte y gastronomía"
+date: 2026-08-23T17:47:00.000+08:00
 tag: guia de viaje
 pais: Indonesia
-description: Viajar a Bali en 2026 es pura magia. A continuación nuestra guía
-  con los requisitos de visa, sugerencias de transporte, datos y las mejores
-  zonas para quedarse basandonos en nuestra experiencia.
+description: ¿Planeando tu primer viaje a Bali? Descubre requisitos de entrada,
+  mejores zonas para alojarte, cómo moverte y recomendaciones en esta guía
+  completa.
 main_image: /img/diario/img_9383.webp
 ---
 Después de 48 horas de escalas delirantes y lidiar con fallas técnicas que son parte inevitable de estar viajando, por fin llegamos a uno de mis lugares soñados: Bali, Indonesia. Esta isla, famosa por su encanto y su cultura espiritual tan particular, me llamaba hace tiempo y mi alma me invitaba a seguir ese deseo.
