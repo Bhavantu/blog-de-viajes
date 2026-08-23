@@ -58,11 +58,27 @@ Al llegar al aeropuerto hay conexión wi-fi, pero la zona para esperar el Grab e
 
 Otro punto clave para los primeros días es la comida. La isla está llena de *Warungs*, que son los pequeños restaurantes locales manejados por familias. Acá se pueden probar platos locales y deliciosos como el *Nasi Goreng* (arroz frito) o el *Mie Goreng* (fideos fritos) con verduras por un precio muy accesible. Sentarte a comer en un warung no solo es amigable para el bolsillo, sino que es la mejor forma de conectar con la cultura real de Bali. Hay muchos blogs que hablan sobre la famosa indigestión, incluso algunos que recomiendan comer solo en restaurantes occidentales. En nuestra experiencia informándonos mediante comentarios y puntuaciones de Google Maps no tuvimos ningún problema; eso sí, a saber que casi siempre hay que agregar el IVA que es alrededor del 10%.
 
-Las opciones de comida internacional son muchas y los precios varían entre ... plato local en IDR, USD y euros y ... plato internacional. 
+### 3. La Comida
 
-Algunos de los platos más conocidos son: 
+Tanto la comida local (que fue la que principalmente probamos) como la propuesta gastronómica internacional es infinita. En todos los lugares son amables. Hay opciones vegetarianas, variedad de carnes y mariscos, para todos los gustos y presupuestos.
+También hay muchas cafeterías que más que un café son una experiencia, como Akasa Cafe.
 
-Lista con los platos locales aclarando los vegetarianos y no vegetarianos 
+Las opciones de comida internacional son muchas y los precios varían entre 70.000 IDR y 200.000 IDR ($4.50 a $12.90 USD / €4.10 a €11.90 EUR) por plato. El plato local varía entre 30.000 IDR y 70.000 IDR ($1.90 a $4.50 USD / €1.80 a €4.10 EUR).
+
+Algunos de los platos más conocidos son:
+
+* **Nasi Goreng:** Arroz frito salteado con verduras, salsa de soja dulce (kecap manis) y huevo frito arriba. *(Opción vegetariana disponible pidiéndolo sin carne ni salsa de pescado/ostra; habitualmente incluye pollo o mariscos si no se especifica).*
+* **Mie Goreng:** Fideos fritos salteados con vegetales, especias locales y huevo. *(Opción vegetariana pidiéndolo solo con verduras y tofu).*
+* **Gado Gado:** Ensalada tibia de vegetales al vapor, brotes de soja, papa hervida, tofu, tempeh y huevo duro, cubierta con una salsa cremosa de maní. *(100% Vegetariano).*
+* **Nasi Campur:** Plato combinado que lleva una porción de arroz blanco acompañado de pequeñas raciones de carnes, verduras, tempeh, huevo y sambal (salsa picante). *(No vegetariano en su versión clásica, aunque muchos warungs ofrecen la versión "Nasi Campur Vegetarian" a base de tempeh, tofu y verduras).*
+* **Sate (Satay) Ayam:** Brochetas de pollo marinadas, asadas a la parrilla de carbón y servidas con salsa de maní. *(Opción vegetariana con tofu y tempeh).*
+* **Babi Guling:** Cerdo entero asado a fuego lento con especias tradicionales, muy típico y sagrado en las celebraciones balinesas. *(No vegetariano).*
+* **Cap Cay:** Salteado de verduras variadas en caldo ligero, servido solo o acompañado de arroz. *(Opción vegetariana fácil de pedir).*
+
+#### Presupuesto promedio de comida (2026):
+
+* **Warung local:** 25.000 a 50.000 IDR ($1.60 a $3.20 USD / €1.50 a €3.00 EUR) por plato.
+* **Restaurante internacional o café de especialidad:** 70.000 a 150.000 IDR ($4.50 a $9.70 USD / €4.10 a €8.90 EUR) por plato.
 
 <div class="post-img-box img-pequeño img-izquierda"><img src="/img/diario/img_9796.webp" alt="Imagen de bitácora"><span class="img-caption">Mie goreng con tempeh y crackers (fried noddles) comida típica de bali (vegetariano))</span></div>
 
