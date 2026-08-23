@@ -7,7 +7,7 @@ pais: Indonesia
 description: ¿Vale la pena Bali en 2026? te contamos lo que nos gustó y lo que
   no tanto en nuestras dos visitas en 2026
 ---
-Bali era uno de mis destinos soñados y tuve la suerte de visitarlo dos veces en 2026. Es un destino turístico cargado de expectativas y prejuicios si estás planificando tu viaje, así que acá te dejamos nuestra experiencia, lo que nos encantó y lo que no tanto, para que decidas con información si vale la pena o no visitar Bali. 
+Bali era uno de mis destinos soñados y tuve la suerte de visitarlo dos veces en 2026. Es un destino turístico cargado de expectativas y prejuicios si estás planificando tu viaje, acá te dejamos nuestra experiencia, lo que nos encantó y lo que no tanto, para que decidas con información si vale la pena o no visitar Bali. 
 
 ## Lo que nos encantó de Bali
 
