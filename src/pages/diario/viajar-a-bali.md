@@ -62,6 +62,7 @@ Otro punto clave para los primeros días es la comida. La isla está llena de *W
 
 Tanto la comida local (que fue la que principalmente probamos) como la propuesta gastronómica internacional es infinita. En todos los lugares son amables. Hay opciones vegetarianas, variedad de carnes y mariscos, para todos los gustos y presupuestos.
 También hay muchas cafeterías que más que un café son una experiencia, como Akasa Cafe.
+#### Presupuesto promedio de comida (2026):
 
 Las opciones de comida internacional son muchas y los precios varían entre 70.000 IDR y 200.000 IDR ($4.50 a $12.90 USD / €4.10 a €11.90 EUR) por plato. El plato local varía entre 30.000 IDR y 70.000 IDR ($1.90 a $4.50 USD / €1.80 a €4.10 EUR).
 
@@ -74,11 +75,6 @@ Algunos de los platos más conocidos son:
 * **Sate (Satay) Ayam:** Brochetas de pollo marinadas, asadas a la parrilla de carbón y servidas con salsa de maní. *(Opción vegetariana con tofu y tempeh).*
 * **Babi Guling:** Cerdo entero asado a fuego lento con especias tradicionales, muy típico y sagrado en las celebraciones balinesas. *(No vegetariano).*
 * **Cap Cay:** Salteado de verduras variadas en caldo ligero, servido solo o acompañado de arroz. *(Opción vegetariana fácil de pedir).*
-
-#### Presupuesto promedio de comida (2026):
-
-* **Warung local:** 25.000 a 50.000 IDR ($1.60 a $3.20 USD / €1.50 a €3.00 EUR) por plato.
-* **Restaurante internacional o café de especialidad:** 70.000 a 150.000 IDR ($4.50 a $9.70 USD / €4.10 a €8.90 EUR) por plato.
 
 <div class="post-img-box img-pequeño img-izquierda"><img src="/img/diario/img_9796.webp" alt="Imagen de bitácora"><span class="img-caption">Mie goreng con tempeh y crackers (fried noddles) comida típica de bali (vegetariano))</span></div>
 
