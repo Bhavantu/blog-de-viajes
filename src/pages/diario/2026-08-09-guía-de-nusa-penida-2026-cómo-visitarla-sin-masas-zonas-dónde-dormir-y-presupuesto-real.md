@@ -1,7 +1,7 @@
 ---
 title: ¿Vale la pena viajar a Bali en 2026? Lo que más nos gusto y lo que no
   tanto de Bali Indoensia
-date: 2026-08-22T19:07:00.000+08:00
+date: 2026-08-23T17:32:00.000+08:00
 tag: guia de viaje
 pais: Indonesia
 description: ¿Vale la pena Bali en 2026? te contamos lo que nos gustó y lo que
@@ -60,6 +60,8 @@ Aunque no pudimos realizarlo en esta oportunidad, estos trekkings exigentes pero
 #### Cascadas
 
 Literalmente hay cascadas por toda la selva, principalmente en el centro de Bali (cerca de Ubud). Perdimos la cuenta de las cascadas que nos recomendaron los locales, principalmente hacia el norte de Ubud. Lo cual se agradece, porque es una zona sin playa y el agua de las cascadas es cristalina. Algunas de las más destacadas son Nungnung, Leke Leke y Sekumpul.
+
+
 
 ### 3. La Comida
 
