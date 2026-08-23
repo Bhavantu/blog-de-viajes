@@ -52,8 +52,8 @@ Existen diferentes lugares para hacer snorkel, algunos dentro de la isla y otros
 
 Aunque no pudimos realizarlo en esta oportunidad, estos trekkings exigentes pero prometedores brindan una experiencia de vistas panorámicas únicas:
 
-* **Volcán Batur:** Trekking nocturno para ver el amanecer sobre el cráter. Encontrás las distintas opciones para contratar excursiones en nuestro post de [qué hacer en Amed: guía real de slow travel y presupuesto](https://blogcito.com/diario/que-hacer-amed-que-ver-guia-presupuesto/).
-* Ascenso al [**Monte Agung:** ](https://www.getyourguide.com/bali-l347/bali-monte-batur-sunrise-trek-con-entrada-t401391/?partner_id=ZM6TN20&psrc=partner_api&currency=VND&cmp=v4.cmt5lczwy12ab01p22ymgh669_blogcito&partner_visitor_id=blogcito)La montaña sagrada y el punto más alto de Bali.  Podés chequear cómo hacer el ascenso con guía local en nuestra [guía práctica de Amed](https://blogcito.com/diario/que-hacer-amed-que-ver-guia-presupuesto/).
+* **[Volcán Batur:](https://www.getyourguide.com/bali-l347/bali-monte-batur-sunrise-trek-con-entrada-t401391/?partner_id=ZM6TN20&psrc=partner_api&currency=VND&cmp=v4.cmt5lczwy12ab01p22ymgh669_blogcito&partner_visitor_id=blogcito)** Trekking nocturno para ver el amanecer sobre el cráter. Encontrás las distintas opciones para contratar excursiones en nuestro post de [qué hacer en Amed: guía real de slow travel y presupuesto](https://blogcito.com/diario/que-hacer-amed-que-ver-guia-presupuesto/).
+* Ascenso al [**Monte Agung:** ](https://www.getyourguide.com/karangasem-l190139/ruta-al-amanecer-por-el-monte-agung-con-cafe-y-miel-en-una-casa-local-t1211975/?partner_id=ZM6TN20&psrc=partner_api&currency=VND&cmp=v4.cmt5ld47112ae01p2f81d68rk_blogcito&partner_visitor_id=blogcito)La montaña sagrada y el punto más alto de Bali.  Podés chequear cómo hacer el ascenso con guía local en nuestra [guía práctica de Amed](https://blogcito.com/diario/que-hacer-amed-que-ver-guia-presupuesto/).
 
 #### Cascadas
 
@@ -75,7 +75,7 @@ También hay muchas cafeterías que más que un café son una experiencia, como 
 
 Tanto para quienes buscan fiesta como para un viaje familiar, Bali es un destino que permite el disfrute de todos.
 
-* **Viajes en familia:** Existen muchas actividades que perfectamente se pueden hacer con niños, como el Sacred Monkey Forest, el snorkel (con chalecos salvavidas), visitar las playas o lugares con piscinas y juegos como el parque acuático Waterbom Bali en Kuta o las piscinas de Cretya Ubud.
+* **Viajes en familia:** Existen muchas actividades que perfectamente se pueden hacer con niños, como el [Sacred Monkey Forest](https://es.trip.com/travel-guide/attraction/bali/sacred-monkey-forest-sanctuary-80319?poitype=3&locale=es-es&curr=eur&allianceid=14893&sid=316394044&ppcid=ckid-41811202359_adid-811497939240_akid-kwd-303843193134_adgid-200668903081&utm_source=google&utm_medium=cpc&utm_campaign=23898460452&gad_source=1&gad_campaignid=23898460452&gbraid=0AAAAABn2eFKZGIMLbyMqRtxKU-Qcd5P40&gclid=CjwKCAjwu53SBhAhEiwAJzSLNoEMl1qpxXr8hj3ODpiHlh_Cd9QkI_o_dZzeHB_hXC6O4zXlF488_RoCyhMQAvD_BwE), el snorkel (con chalecos salvavidas), visitar las playas o lugares con piscinas y juegos como el parque acuático [Waterbom Bali](https://www.tripadvisor.com/Attraction_Review-g297697-d386919-Reviews-Waterbom_Bali-Kuta_Kuta_District_Badung_Regency_Bali.html) en Kuta.
 * **Slow Travel:** Nosotros nos autopercibimos en esta categoría y disfrutamos este viaje conociendo destinos no tan masificados y explorando el lado B (como Amed, Sidemen o Munduk).
 * **Fiesta y Beach Clubs:** Si lo que te gusta es la fiesta, está lleno de clubes de playa con música y tragos como Savaya en Uluwatu. Además podés quedarte en la zona de Canggu (el destino favorito de los amantes de la fiesta) o Kuta para una experiencia de bares y clubes nocturnos.
 
