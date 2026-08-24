@@ -4,10 +4,10 @@ import Layout from '../../layouts/Layout.astro';
 import Hero from '../../components/Hero.astro';
 
 export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
-  const posts = import.meta.glob('./*.md', { eager: true });
-  const allPosts = Object.values(posts);
+    const posts = Object.values(import.meta.glob('./*.md', { eager: true }));  
+    const allPosts = Object.values(posts);
   
-  const sortedPosts = allPosts.sort((a: any, b: any) => {
+    const sortedPosts = allPosts.sort((a: any, b: any) => {
       const dateA = new Date(a.frontmatter?.date || 0).valueOf();
       const dateB = new Date(b.frontmatter?.date || 0).valueOf();
       return dateB - dateA;

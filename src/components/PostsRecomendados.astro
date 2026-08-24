@@ -4,13 +4,21 @@ import { ui } from '../i18n/ui.js';
 
 const { currentUrl, currentPais, lang = "es" } = Astro.props;
 
+// Rutas originales: busca los archivos sueltos como vos querías
 const postsEs = Object.values(import.meta.glob('../pages/diario/*.md', { eager: true }));
 const postsEn = Object.values(import.meta.glob('../pages/en/journal/*.md', { eager: true }));
 
 const allPosts = lang === "es" ? postsEs : postsEn;
 
+// Filtro anti-duplicados: soluciona el problema de los posts repetidos
+const cleanUrl = (url: string) => url?.replace(/\/$/, '') || '';
+const currentUrlCleaned = cleanUrl(currentUrl);
+
 const recomendados = allPosts
-  .filter((post: any) => post.frontmatter.pais === currentPais && post.url !== currentUrl)
+  .filter((post: any) => {
+      const postUrlCleaned = cleanUrl(post.url);
+      return post.frontmatter.pais === currentPais && postUrlCleaned !== currentUrlCleaned;
+  })
   .slice(0, 3);
 
 const t = ui[lang as keyof typeof ui] || ui['es'];
@@ -43,15 +51,16 @@ const t = ui[lang as keyof typeof ui] || ui['es'];
 
 <style>
   .recomendados-section {
-    margin-top: 0 !important; /* Forzamos a que no haya margen arriba */
-    padding-top: 0 !important; /* Forzamos a que no haya padding arriba */
+    margin-top: 0 !important;
+    padding-top: 0 !important;
   }
   
   .recomendados-section h3 {
     margin-bottom: 1.5rem;
     font-size: 1.5rem;
-    font-family: var(--font-display); /* Para que coincida con tus otros títulos */
+    font-family: var(--font-display);
     color: var(--text-color, #333);
+    margin-top: 0 !important;
   }
   
   .recomendados-grid {
@@ -66,7 +75,7 @@ const t = ui[lang as keyof typeof ui] || ui['es'];
     border-radius: 8px;
     overflow: hidden;
     transition: transform 0.2s ease;
-    background: #ffffff; /* Pasado a blanco puro para que resalte igual que el post */
+    background: #ffffff;
     border: 1px solid #e5e5e5;
   }
   
