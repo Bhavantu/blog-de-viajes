@@ -6,6 +6,7 @@ tag: guia de viaje
 pais: Indonesia
 description: ¿Vale la pena Bali en 2026? te contamos lo que nos gustó y lo que
   no tanto en nuestras dos visitas en 2026
+main_image: /img/diario/kelingking-beach1.webp
 ---
 Bali era uno de mis destinos soñados y tuve la suerte de visitarlo dos veces en 2026. Es un destino turístico cargado de expectativas y prejuicios si estás planificando tu viaje, acá te dejamos nuestra experiencia, lo que nos encantó y lo que no tanto, para que decidas con información si vale la pena o no visitar Bali. 
 
@@ -15,7 +16,7 @@ Bali era uno de mis destinos soñados y tuve la suerte de visitarlo dos veces en
 
 Bali es una isla que forma parte de Indonesia pero tiene tradiciones únicas. Su religión es el hinduismo balinés, la cual toma cosas del hinduismo de India, como sus dioses, pero las entrelaza con el animismo local (culto a los ancestros) y el budismo mahayana. Es conocida como la Isla de los Dioses o la Isla de los mil templos, y eso está directamente relacionado con su conexión espiritual profunda: los rituales forman parte de su día a día y son el tejido que atraviesa la comunidad balinesa; es muy diferente a las formas de vivir que conocemos. Acercarse a esta cultura quedándonos en guest houses, asistiendo a ceremonias, danzas y templos fue uno de los motivos por los que elegiría Bali nuevamente. Además, la gente es muy amable y sonriente.
 
-<div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/nusa-penida-alley.webp" alt="Imagen de bitácora"><span class="img-caption">Villa en Bal</span></div>
 
 #### Experiencias culturales recomendadas:
 
@@ -36,6 +37,8 @@ La naturaleza selvática, las cascadas, las playas de la isla y hasta el fondo m
 Uluwatu fue el lugar con las mejores playas que visitamos como Thomas Beach, Padang Padang o Melasti beach (nuestra favorita). 
 
 **Virgin Beach (Bias Tugel):** Una playa muy particular con agua turquesa que nos encantó visitar luego de un paseo cultural por el palacio de agua Taman Ujung y el templo de agua Tirta Gangga. Nos movimos hacia allí desde Amed, donde nos quedamos gran parte de nuestra estadía.
+
+
 
 #### Snorkel y Buceo
 
@@ -60,8 +63,6 @@ Aunque no pudimos realizarlo en esta oportunidad, estos trekkings exigentes pero
 #### Cascadas
 
 Literalmente hay cascadas por toda la selva, principalmente en el centro de Bali (cerca de Ubud). Perdimos la cuenta de las cascadas que nos recomendaron los locales, principalmente hacia el norte de Ubud. Lo cual se agradece, porque es una zona sin playa y el agua de las cascadas es cristalina. Algunas de las más destacadas son Nungnung, Leke Leke y Sekumpul.
-
-
 
 ### 3. La Comida
 
