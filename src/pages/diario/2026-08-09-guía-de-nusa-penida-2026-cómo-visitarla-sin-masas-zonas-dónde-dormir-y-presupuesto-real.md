@@ -28,6 +28,8 @@ Bali es una isla que forma parte de Indonesia pero tiene tradiciones únicas. Su
 
 📖 **Para profundizar en el contexto cultural:** Si te interesa saber más sobre la cosmovisión, los templos y la historia te recomendamos leer nuestro artículo dedicado en la categoría Contexto y Cultura: [El Alma de Bali: cultura, tradiciones y secretos sobre la Isla de los Dioses](https://blogcito.com/diario/el-alma-de-bali-cultura-tradiciones-y-la-secretos-sobre-la-isla/)
 
+<div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+
 ### 2. La Naturaleza
 
 La naturaleza selvática, las cascadas, las playas de la isla y hasta el fondo marino son impresionantes. Y aunque es verdad que actualmente está bastante masificado, aún quedan rincones naturales que vale la pena conocer.
@@ -38,7 +40,7 @@ Uluwatu fue el lugar con las mejores playas que visitamos como Thomas Beach, Pad
 
 **Virgin Beach (Bias Tugel):** Una playa muy particular con agua turquesa que nos encantó visitar luego de un paseo cultural por el palacio de agua Taman Ujung y el templo de agua Tirta Gangga. Nos movimos hacia allí desde Amed, donde nos quedamos gran parte de nuestra estadía.
 
-
+<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/virgin-beach.webp" alt="Imagen de bitácora"><span class="img-caption">Virgin beach cerca de Amed</span></div>
 
 #### Snorkel y Buceo
 
