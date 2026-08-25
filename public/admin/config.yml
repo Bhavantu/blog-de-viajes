@@ -9,11 +9,6 @@ locale: "es"
 media_folder: "public/img/diario"
 public_folder: "/img/diario"
 
-media_library:
-  name: default
-  config:
-    multiple: true
-
 collections:
   - name: "diario"
     label: "Diario"
