@@ -15,7 +15,7 @@ Hay muchos mitos, prejuicios y expectativas sobre Bali, pero lo cierto es una co
 
 <div style="background-color: #eef6fb; border-left: 5px solid #0284c7; padding: 16px; margin: 20px 0; border-radius: 4px;">
 
-### ⚡ Bali en resumen: Lo imprescindible para tu primer viaje
+### Bali en resumen: Lo imprescindible para tu primer viaje
 
 * 🗓️ **¿Cuánto tiempo quedarse?** Recomendamos mínimo 10 días para visitar 2 zonas, o 15 días o más para recorrer diferentes puntos de la isla. 
   Para la experiencia de slow travel o nómada digital, hay actividades para más de 1 mes.
@@ -24,7 +24,7 @@ Hay muchos mitos, prejuicios y expectativas sobre Bali, pero lo cierto es una co
 * 🏖️ **Mejor época:** De mayo a octubre (temporada seca).
 * 💵 **Moneda:** Rupia indonesia (IDR). Conviene llevar tarjeta para cajeros y **efectivo siempre para gastos diarios.**
 
-
+  <div/>
 
 - - -
 
