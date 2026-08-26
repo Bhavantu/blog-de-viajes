@@ -98,14 +98,14 @@ Cada región de Bali tiene un ritmo y una atmósfera completamente distinta. Cu�
 
 ## Guía rápida: ¿Qué zona elegir según tu estilo de viaje?
 
-| Zona            | Planes principales                                 | Vibra del lugar                      |
-| --------------- | -------------------------------------------------- | ------------------------------------ |
-| **Uluwatu**     | Surf, playas de arena clara y acantilados          | Cafeterías, surf y ambiente relajado |
-| **Ubud**        | Yoga, templos, cultura, selva y arrozales          | Cultural, verde y concurrido         |
-| **Sidemen**     | Paisaje rural, naturaleza y vistas al volcán Agung | Tranquilo, tradicional y calmo       |
-| **Amed**        | Snorkel, buceo y ritmo tranquilo pesquero          | Playero, sencillo y tradicional      |
-| **Nusa Penida** | Acantilados dramáticos, miradores y mantarrayas    | Aventura, paisajes imponentes e isla |
-|                 | <td colspan="2"></td>                              |                                      |
+| Zona                                                                                                                 | Planes principales                                 | Vibra del lugar                      |
+| -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ------------------------------------ |
+| **Uluwatu**                                                                                                          | Surf, playas de arena clara y acantilados          | Cafeterías, surf y ambiente relajado |
+| **[Ubud](https://deploy-preview-95--yendoblog.netlify.app/diario/que-hacer-ubud-bali-que-ver-zonas-consejos-guia/)** | Yoga, templos, cultura, selva y arrozales          | Cultural, verde y concurrido         |
+| **Sidemen**                                                                                                          | Paisaje rural, naturaleza y vistas al volcán Agung | Tranquilo, tradicional y calmo       |
+| **[Amed](https://deploy-preview-95--yendoblog.netlify.app/diario/que-hacer-amed-que-ver-guia-presupuesto/)**         | Snorkel, buceo y ritmo tranquilo pesquero          | Playero, sencillo y tradicional      |
+| **[Nusa Penida](https://deploy-preview-95--yendoblog.netlify.app/diario/que-ver-en-nusa-penida-guia/)**              | Acantilados dramáticos, miradores y mantarrayas    | Aventura, paisajes imponentes e isla |
+|                                                                                                                      | <td colspan="2"></td>                              |                                      |
 
 - - -
 
