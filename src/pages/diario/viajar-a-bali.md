@@ -141,6 +141,8 @@ Cada región de Bali tiene un ritmo y una atmósfera completamente distinta. Cu�
 
 ### Ubud (Centro)
 
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/UBUD5.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+
 * 📍 **Ubicación:** Centro geográfico y cultural de Bali.
 * ⏱️ **Distancia del aeropuerto:** 1 hora y 15 minutos a 2 horas.
 * 🏛️ **Puntos de interés:** Sacred Monkey Forest Sanctuary, arrozales de Tegallalang, templo Pura Tirta Empul, Palacio de Ubud y sendero Campuhan Ridge Walk.
