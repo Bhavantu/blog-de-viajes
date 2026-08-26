@@ -28,7 +28,7 @@ Guía rápida sobre las zonas de Bali, mapa.
 
 Ampliamos la información por zona abajo.
 
-<div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/bali-mapa-por-zonas-.jpeg" alt="Imagen de bitácora"><span class="img-caption">Mapa representativo de Bali, usar como referencia, chequear en el mapa real es necesario para identificar las distancias correctamente</span></div>
 
 - - -
 
