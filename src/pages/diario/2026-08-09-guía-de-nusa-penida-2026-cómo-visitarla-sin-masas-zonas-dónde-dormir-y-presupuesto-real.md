@@ -28,7 +28,7 @@ Bali es una isla que forma parte de Indonesia pero tiene tradiciones únicas. Su
 
 📖 **Para profundizar en el contexto cultural:** Si te interesa saber más sobre la cosmovisión, los templos y la historia te recomendamos leer nuestro artículo dedicado en la categoría Contexto y Cultura: [El Alma de Bali: cultura, tradiciones y secretos sobre la Isla de los Dioses](https://blogcito.com/diario/el-alma-de-bali-cultura-tradiciones-y-la-secretos-sobre-la-isla/)
 
-<div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/qué-hacer-en-bali-cultural-.jpeg" alt="Imagen de bitácora"><span class="img-caption">Actividades culturales, en Bali</span></div>
 
 ### 2. La Naturaleza
 
