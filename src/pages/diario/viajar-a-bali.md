@@ -311,8 +311,6 @@ Nusa Penida es una isla ubicada al sudeste de Bali, famosa por sus acantilados i
 * 📝 **Descripción:** Un espacio que simula un cuento de hadas. Este palacio de estilo marroquí ofrece confort total con piscina privada, living, cocina equipada, terraza amplia y un pequeño jardín ideal para descansar.
 * 💰 **Precio estimado:** 130 a 220 USD / 120 a 200 EUR (~2.300.000 - 3.900.000 IDR) por noche.
 
-  <div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
-
 - - -
 
 ## Glosario básico balinés
