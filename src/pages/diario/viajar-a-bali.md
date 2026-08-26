@@ -7,103 +7,327 @@ pais: Indonesia
 description: ¿Planeando tu primer viaje a Bali? Descubre requisitos de entrada,
   mejores zonas para alojarte, cómo moverte y recomendaciones en esta guía
   completa.
-main_image: /img/diario/img_9383.webp
+main_image: /img/diario/nusa-penida-village-temple.webp
 ---
-Después de 48 horas de escalas delirantes y lidiar con fallas técnicas que son parte inevitable de estar viajando, por fin llegamos a uno de mis lugares soñados: Bali, Indonesia. Esta isla, famosa por su encanto y su cultura espiritual tan particular, me llamaba hace tiempo y mi alma me invitaba a seguir ese deseo.
+# Guía de Bali 2026: Zonas, Consejos y Datos Prácticos
 
-Añorando el verano eterno, llegamos a mediados de junio (durante la temporada seca) justo un poco antes de que empezara la temporada alta, y nos encontramos con esta isla encantadora, llena de gente con una energía hermosa que te recibe siempre con una sonrisa. En las primeras 12 horas de sol ya habíamos conversado con cuatro personas distintas que charlan por el simple placer de intercambiar historias. Muchos provienen de diferentes partes de Indonesia y nos cuentan que decidieron venir acá para practicar idiomas y satisfacer la curiosidad de conocer otras culturas mientras comparten la suya. Así fue como conocimos a Roi apenas saliendo del aeropuerto, con quien conversamos largo y entre risas nos dio una cálida bienvenida a este rincón del mundo. 
+Hay muchos mitos, prejuicios y expectativas sobre Bali, pero lo cierto es una cosa: La Isla de los Dioses tiene realmente algo mágico. Entre su gente amable, la espiritualidad activa y su naturaleza exuberante, es un destino que vale la pena conocer. Si estás organizando tu viaje, ya sean unas vacaciones soñadas, una escapada, una aventura mochilera o una temporada de nómada digital, en esta guía reunimos todo lo que nos hubiera gustado saber antes de ir a Bali, la logística real y los datos prácticos actualizados para 2026. La idea es simple: que planifiques a tu ritmo, sin perderte en el intento, para eso creamos esta guía con la información clave y una descripción de las principales zonas a conocer, cómo son y dónde quedarse en Bali.
 
-## Qué necesitas saber antes de viajar a Bali, Indonesia
+<div style="background-color: #eef6fb; border-left: 5px solid #0284c7; padding: 16px; margin: 20px 0; border-radius: 4px;">
 
-Para quienes estén planeando los primeros pasos en la Isla de los dioses, acá dejo algunos apuntes que investigamos y nos sirvieron a la hora de trazar nuestro recorrido:
+### Bali en resumen: Lo imprescindible para tu primer viaje
 
-* **Aeropuerto de llegada:** Aeropuerto Internacional Ngurah Rai (Denpasar).
-* **Requisitos básicos:** Pasaporte con al menos 6 meses de vigencia. Es importante chequear si el país de origen requiere tramitar la Visa On Arrival (VOA) al ingresar. Las entradas en el aeropuerto son diferentes. En nuestro caso tuvimos que tramitarla previamente y nos entregaron un enlace QR. La gestión fue muy simple: escanear el pasaporte, presentar el QR y revisar las valijas. 
+* 🗓️ **¿Cuánto tiempo quedarse?** Mínimo 7 días para visitar 2 zonas, o 15 días o más para recorrer diferentes puntos de la isla. Para la experiencia de slow travel o nómada digital, hay actividades para más de 1 mes.
+* 🚗 **¿Cómo moverse?** Grab (para tramos cortos o moto), chofer privado para traslados largos entre pueblos o alquiler de moto para conductores experimentados en Asia.
+* 🏖️ **Mejor época:** De mayo a octubre (temporada seca).
+* 💵 **Moneda:** Rupia indonesia (IDR). Conviene llevar tarjeta para cajeros y efectivo siempre para gastos diarios.
 
-  Creo que fue la aduana más amable que he visto hasta la fecha. El costo actual de la VOA es de 500.000 IDR (aproximadamente 32 USD). Podés chequear los requisitos oficiales en la [página de migraciones de Indonesia](https://evisa.imigrasi.go.id/).
-* **Moneda:** Rupia Indonesia (IDR). Llevar algo de efectivo para los primeros gastos es fundamental. La cantidad de ceros se vuelve bastante compleja para quienes no brillamos en matemáticas, por tanto una buena referencia rápida para este 2026 es calcular que **1 USD equivale a unas 17.800 rupias**, y **1 EURO son unas ... rupias**. Un billete de 100.000 (el de mayor denominación y color rojo), hay que pensar que es un poco menos de 6 USD. Esto ayuda muchísimo a calcular los gastos del día a día sin volverse locos.
-* Temporadas para viajar a bali: La mejor época para viajar es durante la temporada seca a mediados de junio.
+</div>
 
-  * Temporada seca (mayo a octubre): Es la época con días soleados, menor humedad y mar calmo. Es la mejor ventana para hacer snorkel, buceo o trekkings en los volcanes con buena visibilidad.Pico de la temporada (Julio - Agosto)
-  * Temporada de lluvias / Monzón (noviembre a abril): El clima es caluroso y muy húmedo. Suele llover en chubascos intensos pero breves (casi siempre por la tarde o noche), lo que no impide viajar, aunque hay que considerar que el mar puede estar revuelto y hay menor presencia de turismo.
-* **Cultura: La religión es mayormente hinduismo balinés**, al igual que el idioma son locales. Aunque también se entiende Bahasa Indonesia, la lengua oficial que unifica toda indonesia, para conocer más sobre la cultura local te recomendamos leer el artículo: [El alma de Bali: Rituales, la familia y el secreto de la felicidad balinesa](https://blogcito.com/diario/2026-06-23-el-alma-de-bali-rituales-la-familia-y-el-secreto-de-la-felicidad-balinesa/)
+Guía rápida sobre las zonas de Bali, mapa.
 
-## Dónde quedarse en Bali
+Ampliamos la información por zona abajo.
 
-Mientras organizábamos la ruta, fuimos entendiendo que Bali tiene diferentes ritmos según dónde decidas instalarte. Si estás preguntándote cuál es el mejor lugar para quedarse en Bali, la respuesta es: depende de tus gustos e intereses. Pero acá te dejamos un resumen para que te ubiques y elijas qué zonas visitar con información. 
+<div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
-* **Uluwatu (Extremo Sur):** 
+- - -
 
-Es una de las zonas más hermosas y turísticas por excelencia. Ubicada hacia el Sur en la península de Bukit, esta zona despliega unos acantilados impresionantes con vistas al atardecer, playas de arena blanca y olas para surfers de todos los niveles. Aunque la variedad de alojamientos es amplia, en esta zona se encuentran más hoteles boutique que en relación a otras zonas. Si estás pensando dónde quedarte en uluwatu acá te dejamos sugerencias según nuestra experiencia.
+## Qué necesitás saber antes de viajar a Bali, Indonesia
 
-* **[Ubud (Centro)](https://blogcito.com/diario/2026-06-29-guia-de-ubud-cultura-gemas-ocultas-y-costos-2026/):** 
+Para quienes estén planeando sus primeros pasos en la isla, acá resumimos la logística:
 
-Ideal para quienes quieren conectar con la cultura balinesa, hacer yoga en un entorno verde, rodeado de selva, terrazas de arroz, templos y una vibra relajada. La oferta de actividades turísticas es muy amplia y aunque el centro es bastante multitudinario, hacia el norte hay zonas más tranquilas y alejadas para quedarse y muchos rincones por conocer. Si querés saber más: [Guia de Ubud: cultura, gemas ocultas y costos 2026](https://blogcito.com/diario/2026-06-29-guia-de-ubud-cultura-gemas-ocultas-y-costos-2026/)
+* ✈️ **Aeropuerto de llegada:** Aeropuerto Internacional Ngurah Rai (Denpasar - DPS).
+* 🛂 **Requisitos de viaje:** 
+* **Pasaporte** con al menos 6 meses de vigencia. 
+* **Visa**: Chequeá si tu país requiere tramitar la Visa On Arrival (VOA) al ingresar. Para evitar filas largas, nosotros completamos el trámite de la e-VOA por internet antes de volar y nos otorgaron un código QR. En el aeropuerto el trámite fue fluido: escanear pasaporte, mostrar el QR y retirar equipaje. El costo de la VOA es de **500.000 IDR** (unos 32 USD / 29 EUR). Requisitos oficiales en la[ página de migraciones de Indonesia](https://indonesia-arrival.com/register/apply?gad_source=1&gad_campaignid=24052266141&gbraid=0AAAABBUdEIlmTGZ8HBovgruZW8mM1fpU2&gclid=Cj0KCQjw16_UBhCqARIsAIdOaXwPakPFep4yHAwa3JjGuvQAqgUUc9PJRipQg-Wy3D0FcE6gXthxwicaAi_iEALw_wcB).
+* 💰 **Moneda y Cambio (Referencia 2026):** Rupia Indonesia (IDR). Conviene tener efectivo para los primeros gastos, no aceptan monedas extranjeras.
 
-Dónde quedarse en Ubud: 
+  Referencia: Al principio marea manejar tantos ceros, así que podés calcular que **1 USD equivale a unas 17.800 IDR**, y **1 EUR ronda las 19.300 IDR**. El billete de mayor denominación (100.000 IDR, de color rojo) equivale a poco menos de 6 USD (o 5,20 EUR).
+* 🗓️ **Temporadas para viajar:**
 
-* **Kuta y Seminyak (Sur/Oeste):** 
+  * ☀️ **Temporada seca (mayo a octubre):** La época más recomendada. Días soleados, menor humedad y pocas lluvias, lo que facilita andar en moto y disfrutar la playa.
+  * 🌧️ **Temporada de lluvias (noviembre a abril):** Los precios bajan y hay menos turismo, pero los chubascos tropicales son frecuentes.
+* 🛕 **Cultura local:** 
 
-  Están muy cerca del aeropuerto (donde pasamos nuestras primeras horas). Es la zona más turística, comercial y ruidosa. Excelente opción si querés aprender a surfear (las olas son amables para principiantes y el fondo es de arena), también hay variedad de bares con música para la noche (muchos de ellos en la playa) o estilo sport bar con cerveza y pantallas deportivas. El alojamiento es bastante accesible y la variedad infinita. 
-* Tips para digital nomad: existe un café 24 horas cerca de Denpasar perfecto para trabajar por las noches. 
-* **Amed (Este):** Uno de nuestros puntos favoritos de la isla; para quienes buscamos escapar del bullicio turístico, este es el rincón. Es un pueblito pesquero en pleno desarrollo pero que conserva su esencia, es tranquilo y auténtico, famoso por sus playas de arena negra volcánica y por tener uno de los mejores puntos para hacer buceo y snorkel entrando desde la playa. Si te interesa saber más te invitamos a leer nuestro artículo Que hacer en Amed, Bali: Guía real de slow travel.
+  La religión mayoritaria en la isla es el hinduismo balinés. El idioma local es el balinés, la lengua oficial del país es el Bahasa Indonesia, y el inglés se habla ampliamente en zonas turísticas. Para profundizar en sus costumbres y la vida cotidiana, podés leer nuestro artículo dedicado: [El alma de Bali: Rituales, la familia y el secreto de la felicidad balinesa](https://blogcito.com/diario/el-alma-de-bali/).
 
-## Llegar a Bali y el desafío del aeropuerto: Un consejo desde la experiencia
+- - -
 
-El primer choque cultural (y de energía) se da apenas salir con las valijas. Al llegar al aeropuerto los taxistas te rodean, el ruido es bastante y los llamados infinitos; por tanto, la sugerencia es descargar la aplicación Grab previamente. Al igual que Uber, sabrás el precio exacto a pagar, y se debe abonar en efectivo con la moneda local, la rupia indonesia. Otra opción para favorecer lo local es un traslado con alguno de los taxistas que se encuentran ahí, podés salir directamente desde el aeropuerto sin complicaciones (eso sí, te sugerimos que negocies el precio del traslado previamente). 
+## Llegar a Bali y el traslado desde el aeropuerto
 
-Al llegar al aeropuerto hay conexión wi-fi, pero la zona para esperar el Grab es afuera, por tanto no hay conexión. Es por esto que nosotros previamente compramos una eSIM de Airalo, la cual elegimos porque es la eSIM con la mejor relación calidad-precio. Al aterrizar la activás con un QR de forma muy sencilla (te llega una guía al mail de cómo hacerlo paso a paso). Te dejamos nuestro código de descuento ... 
+Al salir de la terminal la oferta de taxistas es constante y abrumadora. Para evitar negociaciones intensas al lelgar, la alternativa más práctica es descargar la aplicación **Grab** antes de volar. Funciona de manera similar a Uber, pero hay que pagar en efectivo en rupias. Si preferís contratar un chofer, podés contactarte con tu hotel acordando la tarifa y horario antes de viajar.
 
-## Gastronomía y el agua: nunca "Bali Belly"
+⚠️ Aviso: Dentro del aeropuerto hay conexión Wi-Fi gratuita, pero en el sector exterior en donde pueden esperar los grab no hay señal. Nosotros compramos previa llegada una **[eSIM de Airalo](https://airalo.pxf.io/DWa66G)**, que se activa automáticamente al aterrizar. Podés conocer sus paquetes [acá.](https://airalo.pxf.io/DWa66G)
 
-Otro punto clave para los primeros días es la comida. La isla está llena de *Warungs*, que son los pequeños restaurantes locales manejados por familias. Acá se pueden probar platos locales y deliciosos como el *Nasi Goreng* (arroz frito) o el *Mie Goreng* (fideos fritos) con verduras por un precio muy accesible. Sentarte a comer en un warung no solo es amigable para el bolsillo, sino que es la mejor forma de conectar con la cultura real de Bali. Hay muchos blogs que hablan sobre la famosa indigestión, incluso algunos que recomiendan comer solo en restaurantes occidentales. En nuestra experiencia informándonos mediante comentarios y puntuaciones de Google Maps no tuvimos ningún problema; eso sí, a saber que casi siempre hay que agregar el IVA que es alrededor del 10%.
+- - -
 
-### 3. La Comida
+## Moverse por la isla: Choferes, motos y transporte
 
-Tanto la comida local (que fue la que principalmente probamos) como la propuesta gastronómica internacional es infinita. En todos los lugares son amables. Hay opciones vegetarianas, variedad de carnes y mariscos, para todos los gustos y presupuestos.
-También hay muchas cafeterías que más que un café son una experiencia, como Akasa Cafe.
-#### Presupuesto promedio de comida (2026):
+Para tramos largos con valijas (como ir de Kuta a Ubud o a Amed), la opción más cómoda es contratar un chofer privado, coordianr el horario y costo  o solicitar un vehículo por Grab. Para dejar una referencia un trayecto promedio en auto entre Kuta y Ubud ronda las **400.000 IDR** (aprox. 23 a 25 USD / 21 a 23 EUR).
 
-Las opciones de comida internacional son muchas y los precios varían entre 70.000 IDR y 200.000 IDR ($4.50 a $12.90 USD / €4.10 a €11.90 EUR) por plato. El plato local varía entre 30.000 IDR y 70.000 IDR ($1.90 a $4.50 USD / €1.80 a €4.10 EUR).
+Nosotros hicimos varios trayectos con Anderson, un chofer con excelente predisposición. Si querés su cotnacto no dudes en escribirnos.
 
-Algunos de los platos más conocidos son:
+### Opciones para distancias cortas:
 
-* **Nasi Goreng:** Arroz frito salteado con verduras, salsa de soja dulce (kecap manis) y huevo frito arriba. *(Opción vegetariana disponible pidiéndolo sin carne ni salsa de pescado/ostra; habitualmente incluye pollo o mariscos si no se especifica).*
-* **Mie Goreng:** Fideos fritos salteados con vegetales, especias locales y huevo. *(Opción vegetariana pidiéndolo solo con verduras y tofu).*
-* **Gado Gado:** Ensalada tibia de vegetales al vapor, brotes de soja, papa hervida, tofu, tempeh y huevo duro, cubierta con una salsa cremosa de maní. *(100% Vegetariano).*
-* **Nasi Campur:** Plato combinado que lleva una porción de arroz blanco acompañado de pequeñas raciones de carnes, verduras, tempeh, huevo y sambal (salsa picante). *(No vegetariano en su versión clásica, aunque muchos warungs ofrecen la versión "Nasi Campur Vegetarian" a base de tempeh, tofu y verduras).*
-* **Sate (Satay) Ayam:** Brochetas de pollo marinadas, asadas a la parrilla de carbón y servidas con salsa de maní. *(Opción vegetariana con tofu y tempeh).*
-* **Babi Guling:** Cerdo entero asado a fuego lento con especias tradicionales, muy típico y sagrado en las celebraciones balinesas. *(No vegetariano).*
-* **Cap Cay:** Salteado de verduras variadas en caldo ligero, servido solo o acompañado de arroz. *(Opción vegetariana fácil de pedir).*
+* 🛵 **Grab Moto/ Moto:** Cómodo y rápido. La moto es práctica y muy económica si viajás solo y querés esquivar embotellamientos.
+* 🚗 **Autos compartidos:** En comunidades de viajeros o espacios como Nomad Table es habitual coordinar traslados grupales para dividir gastos.
+* 🛵 **Alquiler de scooter:** Brinda total libertad para recorrer calles secundarias y playas. Sin embargo, el tránsito es denso, se conduce por la izquierda y muchas calles no están en sus mejores condiciones. Recomendamos alquilar únicamente si tenés experiencia previa, usá siempre casco y llevá tu licencia internacional.
 
-<div class="post-img-box img-pequeño img-izquierda"><img src="/img/diario/img_9796.webp" alt="Imagen de bitácora"><span class="img-caption">Mie goreng con tempeh y crackers (fried noddles) comida típica de bali (vegetariano))</span></div>
+  🏥 **Seguro de viaje:** Es indispensable viajar con un seguro médico con cobertura internacional ante imprevistos de salud o accidentes viales. 
 
-**Aviso importante: En relación al agua**. El agua de Bali no es potable, bajo ningún concepto hay que tomar agua de la canilla (grifo). El sistema de agua no es potable y te puede dar el famoso "Bali Belly" (la intoxicación del viajero que te deja en cama varios días). La recomendación es usar agua embotellada hasta para lavarse los dientes. La buena noticia es que el hielo en los restaurantes turísticos y cafés suele ser seguro porque está regulado por el gobierno y se hace con agua purificada, pero siempre se puede preguntar.
+- - -
 
-## Moverse por la isla: Choferes, motos y el tránsito balinés
+## Comida y agua: Salud y presupuestos
 
-Una vez instalados, el tema de moverse tiene su propia mística. Para tramos largos o cuando vas con las valijas (como nuestro viaje de Kuta a Ubud), la mejor opción son los choferes locales o usar la app de Grab. Los choferes privados te esperan, te ayudan a cargar amablemente el equipaje y quienes hablan inglés te van contando historias e intercambiando sobre la cultura en el camino. Eso sí, regla de oro: siempre, pero siempre, aclarar y negociar el precio previamente. Nosotros siempre comparamos con Grab, pero a saber, se rige por demanda (un tramo promedio en auto entre Kuta y Ubud ronda las 400.000 rupias, unos 25 USD). Nosotros lo hicimos con nuestro nuevo amigo Anderson, un chofer de Yakarta sonriente y amable que nos acompañó durante nuestro viaje, si te gustaría coordinar con él podés comunicarte por ....
+Para alimentarte en el día a día, los **Warungs** (pequeños locales familiares) son la mejor opción. Sirven gastronomía indonesia tradicional, sabrosa y muy económica:
 
-### Para moverse en el día a día existen varias opciones:
+* 🍲 **Nasi Goreng:** Arroz frito salteado con vegetales, huevo y especias (se puede pedir versión vegetariana).
+* 🍜 **Mie Goreng:** Fideos salteados con verduras y tempeh o tofu (opción vegetariana).
+* 🥗 **Gado-Gado:** Ensalada de verduras al vapor, huevo duro, tofu y tempeh con salsa de maní (100% vegetariano).
+* 🍢 **Sate (Satay):** Brochetas de pollo, cerdo o pescado a la parrilla con salsa de maní.
 
-* **Grab Moto:** Ventaja: choferes locales y experimentados. Desventaja: si sos de impresionarte como yo, es una aventura bastante rápida pero extrema.
-* **Conductores locales, Aplicación Grab o Taxi Auto:** Muchas veces mediante apps como Nomad Table salen traslados compartidos, lo cual le da mucho sentido y es económico. De todos modos, los traslados privados no suelen ser inaccesibles y contás con la seguridad del auto con aire acondicionado.
-* **Alquiler de moto:** Es muy común en la isla alquilar una scooter para recorrer. A decir verdad, me impactó la sensación de sentir la brisa balinesa, y la libertad de recorrer diferentes zonas, playas, arrozales. Pero es necesario aclarar que el tránsito es de locos y no todas las calles están en buen estado. Mi consejo es que, si no sos un chofer experimentado, te tomes el tiempo de evaluar si realmente querés vivir esta experiencia con el riesgo que eso implica. Las motos salen de todos lados, las reglas son más "sugerencias" y la bocina se usa para avisar "voy a pasar" y no para pelear. Si te animás a alquilar, hacelo solo si tenés experiencia previa y llevá siempre el casco puesto por seguridad (literal te salva la vida) y también para evitar multas.
-* **Seguro de viaje:** Es fundamental contar con un seguro que ojalá no tengas que usar. 
+Comer en un warung cuesta entre **25.000 y 45.000 IDR** (1,50 a 2,80 USD / 1,30 a 2,40 EUR) por plato. En restaurantes orientados al turismo los precios van de **80.000 a 150.000 IDR** (5 a 9,50 USD / 4,30 a 8,20 EUR). A tener en cuenta la mayoría de los restaurantes turísticos suman entre un 10% y un 15% adicional por impuestos y servicio (Tax & Service).
 
-## Diccionario balinés para el viajero
+⚠️ **Aviso sobre el agua:** El agua de la red pública en Bali **no es potable**. No se recomienda su uso ni para beber ni para lavarse los dientes; siempre agua embotellada o filtrada. En restaurantes y cafeterías turísticas, el hielo proviene de plantas purificadas bajo normativa oficial y es seguro.
 
-**Siempre nos parece respetuoso tratar de aprender algunas palabras, por lo menos lo básico en el idioma local del país, así que a continuación dejamos algunas referencias de palabras y conceptos claves a conocer. Si te interesa profundizar más en la cultura podés leer** [El alma de Bali: Rituales, la familia y el secreto de la felicidad balinesa](https://blogcito.com/diario/2026-06-23-el-alma-de-bali-rituales-la-familia-y-el-secreto-de-la-felicidad-balinesa/)
+- - -
 
-* **Om Swastiastu (Hola):** El saludo espiritual balinés tradicional, acompañado de una leve inclinación con las manos juntas frente al pecho en forma de oración.
-* **Matur Suksma (Gracias):** La forma respetuosa de agradecer en idioma balinés (podés usar el más informal *Suksma* para el trato diario en la calle).
-* **Barong:** El protector de la aldea que trae bendiciones. Usualmente, los niños de cada aldea salen a la calle con instrumentos y un disfraz que representa a este personaje. 
+## Dónde quedarse en Bali: Zonas y alojamientos recomendados
 
-  Es posible observar el desfile, sacar fotos y aportar algunas moneditas de colaboración. Si te cruzás con uno de ellos en la calle, vas a tener que esperar que terminen o desviarte por otra calle. No se van a mover: es su ritual, su cultura y es necesario respetarla. Mi recomendación por experiencia propia es que te detengas a disfrutar de lo que está pasando.
-* **Sarong:** La vestimenta tradicional de tela que es obligatoria para entrar a los templos. Se coloca alrededor de la cintura a modo de falda o pollera, tanto para hombres como para mujeres.
+Cada región de Bali tiene un ritmo y una atmósfera completamente distinta. Cuál conviene elegir depende del tipo de experiencia que estés buscando.
 
-Tips para disfrutar tu viaje a bali sin estrés: 
+## Guía rápida: ¿Qué zona elegir según tu estilo de viaje?
 
-1. El ritmo relajado es la norma: los horarios son flexibles, las formas son diferentes, hay que abrirse a disfrutar la experiencia. 
-2. Salir con tiempo de sobra: tanto para ir al aeropuerto como si tenés un tour o compromiso, el tránsito es mucho e impredecible. Ya sea por los atascos, el barong o una ceremonia, es frecuente quedar detenido en el tráfico y que el traslado demore más de lo esperado; para evitar estrés lo mejor es salir con tiempo extra como norma. 
-3. La amabilidad es total y las ofertas para comprar también; simplemente sabé esto antes de ir, agradecé amablemente y seguí si no querés comprar porque es algo que pasa gran parte del tiempo (ya que el turismo es la principal fuente de ingresos de la isla).
+| Zona            | Planes principales                                 | Vibra del lugar                      |
+| --------------- | -------------------------------------------------- | ------------------------------------ |
+| **Uluwatu**     | Surf, playas de arena clara y acantilados          | Cafeterías, surf y ambiente relajado |
+| **Ubud**        | Yoga, templos, cultura, selva y arrozales          | Cultural, verde y concurrido         |
+| **Sidemen**     | Paisaje rural, naturaleza y vistas al volcán Agung | Tranquilo, tradicional y calmo       |
+| **Amed**        | Snorkel, buceo y ritmo tranquilo pesquero          | Playero, sencillo y tradicional      |
+| **Nusa Penida** | Acantilados dramáticos, miradores y mantarrayas    | Aventura, paisajes imponentes e isla |
+|                 | <td colspan="2"></td>                              |                                      |
+
+- - -
+
+### Uluwatu (Extremo Sur)
+
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/uluwatu.jpeg" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+
+* 📍 **Ubicación:** Península de Bukit (Sur de la isla).
+* ⏱️ **Distancia del aeropuerto:** 40 a 60 minutos en auto (según el tránsito).
+* 🏛️ **Puntos de interés:** Templo Pura Luhur Uluwatu (danza Kecak al atardecer), playas como Balangan, Padang Padang, Bingin, Thomas Beach, Melasti y miradores sobre acantilados.
+* 📝 **Descripción:** Es una de las zonas costeras más hermosas. Despliega acantilados impresionantes con vistas al atardecer y playas ideales para el surf. Hacer base en Balangan o Pecatu te permite moverte fácil por la península esquivando el tráfico más pesado.
+
+#### Dónde quedarse en Uluwatu
+
+##### [Made 02 Balangan Homestay & Warung Made](https://www.booking.com/hotel/id/made-02-balangan.html?aid=2440493)
+
+* 📍 **Ubicación:** Balangan, a 5 minutos en scooter de la playa.
+* 🌿 **Entorno:** Rodeado de warungs locales, con pileta y restaurante en la propiedad.
+* 📝 **Descripción:** Homestay familiar, tranquilo y muy práctico para mochileros.
+* 💰 **Precio estimado:** 18 a 28 USD / 16 a 25 EUR (~320.000 - 500.000 IDR) por noche.
+
+##### [Medori Putih Homestay](https://www.booking.com/hotel/id/medori-putih-homestay.html?aid=2440493)
+
+* 📍 **Ubicación:** Pecatu central, a 10-15 minutos en scooter de Padang Padang y Bingin.
+* 🌿 **Entorno:** Cerca de la franja comercial de restaurantes y cafeterías.
+* 📝 **Descripción:** Opción muy cómoda con jardín, pileta y habitaciones impecables.
+* 💰 **Precio estimado:** 30 a 45 USD / 27 a 41 EUR (~530.000 - 800.000 IDR) por noche.
+
+##### [Surga Bali Homestay](https://www.booking.com/hotel/id/surga-bali-village.html?aid=2440493)
+
+* 📍 **Ubicación:** Barrio residencial en Pecatu, a 10 minutos del templo de Uluwatu.
+* 🌿 **Entorno:** Retirado del ruido de las avenidas principales.
+* 📝 **Descripción:** Bungalows amplios con pileta y ambiente ideal para descansar.
+* 💰 **Precio estimado:** 45 a 65 USD / 41 a 59 EUR (~800.000 - 1.150.000 IDR) por noche.
+
+- - -
+
+### Ubud (Centro)
+
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/ubud5.webp" alt="Imagen de bitácora"><span class="img-caption">Ubud Terrazas de arroz</span></div>
+
+* 📍 **Ubicación:** Centro geográfico y cultural de Bali.
+* ⏱️ **Distancia del aeropuerto:** 1 hora y 15 minutos a 2 horas.
+* 🏛️ **Puntos de interés:** Sacred Monkey Forest Sanctuary, arrozales de Tegallalang, templo Pura Tirta Empul, Palacio de Ubud y sendero Campuhan Ridge Walk.
+* 📝 **Descripción:** El corazón cultural de la isla, rodeado de selva y campos de arroz. Dividimos las opciones en Ubud Central (cerca de todo a pie, pero con mayor movimiento) y Ubud Norte / Alrededores (entorno calmo en la naturaleza).
+* 👉 **Profundizá en nuestra guía detallada:** [Guía de Ubud: cultura, gemas ocultas y costos 2026](https://blogcito.com/diario/guia-de-ubud/).
+
+#### Opciones en Ubud Central (Cerca de todo)
+
+##### [Manwarsa Guest House / Warsa Homestay](https://www.booking.com/hotel/id/manwarsa-guest-house.html?aid=2440493)
+
+* 📍 **Ubicación:** En pleno centro, a minutos del Palacio de Ubud y del mercado.
+* 📝 **Descripción:** Homestay tradicional atendido por una familia balinesa.
+* 💰 **Precio estimado:** 15 a 25 USD / 14 a 23 EUR (~260.000 - 440.000 IDR) por noche.
+
+##### [Semujan Bungalow Ubud](https://www.booking.com/hotel/id/semujan-bungalows.html?aid=2440493)
+
+* 📍 **Ubicación:** A pasos de Monkey Forest Road en un pasaje silencioso.
+* 📝 **Descripción:** Bungalows con estilo balinés, pileta y jardín tropical.
+* 💰 **Precio estimado:** 35 a 55 USD / 32 a 50 EUR (~620.000 - 980.000 IDR) por noche.
+
+##### [Alamdini Resort Ubud](https://www.booking.com/hotel/id/alamdini-resort-ubud.html?aid=2440493)
+
+* 📍 **Ubicación:** Centro urbano, con vistas interiores a un cañón verde.
+* 📝 **Descripción:** Resort elegante con suites amplias y pileta rodeada de vegetación.
+* 💰 **Precio estimado:** 70 a 110 USD / 64 a 100 EUR (~1.250.000 - 1.950.000 IDR) por noche.
+
+#### Opciones en Ubud Norte y Alrededores (Tranquilidad y Naturaleza)
+
+##### [Ubud Jungle House](https://www.booking.com/hotel/id/ubud-jungle-house.html?aid=2440493)
+
+* 📍 **Ubicación:** A 10-15 minutos al norte del centro, inmerso en la selva.
+* 📝 **Descripción:** Alojamiento familiar con vistas al cañón tropical, aire acondicionado y gran desayuno.
+* 💰 **Precio estimado:** 14 a 22 USD / 13 a 20 EUR (~250.000 - 390.000 IDR) por noche.
+
+##### [Canting Bali Suite](https://www.booking.com/hotel/id/canting-bali-suite.html?aid=2440493)
+
+* 📍 **Ubicación:** Barrio de Laplapan (Petulu), a 10 minutos del centro.
+* 📝 **Descripción:** Habitaciones amplias con terraza privada, pileta y vistas despejadas a la naturaleza.
+* 💰 **Precio estimado:** 35 a 55 USD / 32 a 50 EUR (~620.000 - 980.000 IDR) por noche.
+
+##### [Subu Utamas Ubud](https://www.booking.com/hotel/id/subu-utamas-ubud.html?aid=2440493)
+
+* 📍 **Ubicación:** Al norte de Ubud, retirado de las avenidas principales.
+* 📝 **Descripción:** Villas y suites de alta calidad con pileta y atención personalizada.
+* 💰 **Precio estimado:** 85 a 140 USD / 78 a 128 EUR (~1.500.000 - 2.500.000 IDR) por noche.
+
+- - -
+
+### Sidemen (Este)
+
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/sidemen-.jpeg" alt="Imagen de bitácora"><span class="img-caption">Sidemen, zona verde de valles y calma</span></div>
+
+* 📍 **Ubicación:** Región oriental de Bali (Karangasem).
+* ⏱️ **Distancia del aeropuerto:** 1 hora y 45 minutos a 2 horas y 15 minutos.
+* 🏛️ **Puntos de interés:** Vistas al Volcán Agung, caminatas entre arrozales en terraza y talleres de tejido o platería.
+* 📝 **Descripción:** Es una zona encantadora y muy tranquila, ideal para conectar con la vibra del Bali rural de montañas y valles. Muchos alojamientos combinan la estética tradicional con el estilo ecolodge.
+
+#### Dónde quedarse en Sidemen
+
+##### [Milla's Homestay](https://www.booking.com/hotel/id/millas-homestay.html?aid=2440493)
+
+* 📍 **Ubicación:** Valle de Sidemen, cerca de senderos rurales.
+* 📝 **Descripción:** Hospedaje sencillo, acogedor y limpio atendido por una familia balinesa.
+* 💰 **Precio estimado:** 15 a 25 USD / 14 a 23 EUR (~260.000 - 440.000 IDR) por noche.
+
+##### [Sidemen River Point](https://www.booking.com/hotel/id/sidemen-river-point.html?aid=2440493)
+
+* 📍 **Ubicación:** A orillas del río en el valle.
+* 📝 **Descripción:** Cabañas confortables construidas con materiales naturales y terraza sobre el agua.
+* 💰 **Precio estimado:** 40 a 70 USD / 37 a 64 EUR (~710.000 - 1.240.000 IDR) por noche.
+
+##### Alojamiento Confort: [Villa Damai Rohani](https://www.booking.com/hotel/id/villa-damai-rohani.html?aid=2440493)
+
+* 📝 **Descripción:** Villa con arquitectura balinesa, acabados elegantes y pileta privada.
+* 💰 **Precio estimado:** 110 a 190 USD / 100 a 175 EUR (~1.950.000 - 3.380.000 IDR) por noche.
+
+##### Experiencia única en Bambú: [Hideout Bali by Ini Vie Hospitality](https://www.booking.com/hotel/id/hideout-bali-by-ini-vie-hospitality.html?aid=2440493)
+
+* 📝 **Descripción:** Emblemáticas casas de bambú con diseño ecológico e inmersión total en la naturaleza.
+* 💰 **Precio estimado:** 150 a 280 USD / 138 a 257 EUR (~2.670.000 - 4.980.000 IDR) por noche.
+
+- - -
+
+### Amed (Este)
+
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/amed.jpeg" alt="Imagen de bitácora"><span class="img-caption">Costa de Amed</span></div>
+
+* 📍 **Ubicación:** Costa nordeste.
+* ⏱️ **Distancia del aeropuerto:** 2 horas y 30 minutos a 3 horas.
+* 🏛️ **Puntos de interés:** Snorkel en Jemeluk Bay, buceo y miradores al volcán Agung.
+* 📝 **Descripción:** Un tranquilo pueblo pesquero famoso por sus playas de arena negra volcánica y por permitir hacer snorkel de gran calidad saliendo directamente desde la orilla.
+* 👉 **Explorá nuestra guía completa:** [Qué hacer en Amed, Bali: Guía real de slow travel](https://blogcito.com/diario/que-hacer-en-amed-bali-guia-real-de-slow-travel/).
+
+## Dónde quedarse en Amed
+
+##### [Bali Yogi Amed](https://www.booking.com/hotel/id/bali-yogi-amed1.html?aid=2440493)
+
+* 📍 **Ubicación:** En el centro de Amed, a minutos caminando de la playa.
+* 📝 **Descripción:** Cabañas de estilo balinés tradicional con pileta y excelente desayuno.
+* 💰 **Precio estimado:** 18 a 28 USD / 16 a 25 EUR (~320.000 - 500.000 IDR) por noche.
+
+##### [Amed Beach Resort](https://www.booking.com/hotel/id/amed-beach-resort.html?aid=2440493)
+
+* 📍 **Ubicación:** Sobre la playa en la bahía de Amed.
+* 📝 **Descripción:** Hotel tradicional con pileta frente al mar y centro de buceo propio.
+* 💰 **Precio estimado:** 35 a 60 USD / 32 a 55 EUR (~620.000 - 1.050.000 IDR) por noche.
+
+##### [Surya Amed Beach Resort](https://www.booking.com/hotel/id/surya-amed-beach.html?aid=2440493)
+
+* 📍 **Ubicación:** En la orilla costera de Amed.
+* 📝 **Descripción:** Bungalows amplios con piletas al aire libre y vistas despejadas al océano y al volcán Agung.
+* 💰 **Precio estimado:** 70 a 120 USD / 64 a 110 EUR (~1.250.000 - 2.100.000 IDR) por noche.
+
+- - -
+
+### Nusa Penida (Isla al Sudeste)
+
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/kelingking-beach23.webp" alt="Imagen de bitácora"><span class="img-caption">Kelingkling Beach en Nusa Penida</span></div>
+
+* 📍 **Ubicación:** Isla vecina al sudeste de Bali (Regencia de Klungkung).
+* ⏱️ **Cómo llegar:** 30 a 45 minutos en lancha rápida (fast boat) desde el puerto de Sanur.
+* 🏛️ **Puntos de interés:** Kelingking Beach, Crystal Bay, Broken Beach y snorkel con mantarrayas en Manta Point.
+* 📝 **Descripción:** Una isla de paisajes imponentes y acantilados dramáticos. Dado que requiere tomar un ferry y tiene particularidades de movilidad propias, reunimos las mejores zonas para dormir e itinerarios recomendados en nuestro artículo específico: [Dónde quedarse y qué hacer en Nusa Penida](https://blogcito.com/diario/donde-quedarse-nusa-penida-que-hacer-en-nusa-penida/#3-costa-oeste-la-zona-tur%C3%ADstica-crystal-bay--kelingking).
+
+Donde quedarse en Nusa Pénida 
+Va a depender de lo que quieras hacer, algunas opciones son: 
+
+### Nusa Penida (Isla Adyacente)
+
+Nusa Penida es una isla ubicada al sudeste de Bali, famosa por sus acantilados imponentes, playas de aguas turquesas y miradores icónicos como Kelingking Beach y Crystal Bay. Dado que llegar implica cruzar en lancha rápida desde Sanur y la dinámica de transporte interno es diferente a la de Bali, te dejamos nuestras recomendaciones seleccionadas según cada nivel de presupuesto para hacer base en la costa oeste.
+
+👉 **Leé la guía completa:** [Dónde quedarse en Nusa Penida y qué hacer: Costa Oeste y puntos clave](https://blogcito.com/diario/donde-quedarse-nusa-penida-que-hacer-en-nusa-penida/#3-costa-oeste-la-zona-tur%C3%ADstica-crystal-bay--kelingking).
+
+#### 🎒 Presupuesto Mochilero / Bajo
+
+##### [Kabeh Jati Garden Villa & Restaurant](https://www.booking.com/hotel/id/kabeh-jati-garden-villa-amp-restaurant.html?aid=2440493)
+
+* 📍 **Ubicación:** Costa este de Nusa Penida.
+* 🌿 **Entorno:** Rodeado de jardín verde, ambiente tranquilo y cálida atención familiar.
+* 📝 **Descripción:** De esos lugares donde planeás quedarte 3 días y te terminás quedando 12. Es un espacio hermoso con pileta, atendido por una familia local entrañable y con un desayuno completo y delicioso para arrancar la jornada.Eso sí, la costa este es la más tranquila y local pero se encuentra a 30 minutos en auto de la zona de restaurantes y cristal bay. 
+* 💰 **Precio estimado:** 18 a 30 USD / 16 a 27 EUR (~320.000 - 530.000 IDR) por noche.
+
+- - -
+
+#### 🌿 Presupuesto Intermedio / Medio
+
+##### [Crystal Bay Pool View Bungalow](https://www.booking.com/hotel/id/crystal-bay-pool-view-bungalow.html?aid=2440493)
+
+* 📍 **Ubicación:** Costa oeste, a pocos minutos de Crystal Bay.
+* 🌿 **Entorno:** Entorno arbolado y tranquilo, ideal para quienes buscan estar al lado de una playa apta para baño y snorkel.
+* 📝 **Descripción:** Una opción muy accesible de construcción tradicional balinesa. Cuenta con pileta al aire libre, jardín y una ubicación estratégica para disfrutar del mar sin complicaciones.
+* 💰 **Precio estimado:** 35 a 60 USD / 32 a 55 EUR (~620.000 - 1.050.000 IDR) por noche.
+
+- - -
+
+#### 🏡 Mayor Confort / Alto
+
+##### [La Marrocco Villas](https://www.booking.com/hotel/id/la-marrocco-villas.html?aid=2440493)
+
+* 📍 **Ubicación:** Costa oeste de Nusa Penida (área de Sakti / vista panorámica al océano).
+* 🌿 **Entorno:** Vistas abiertas al mar y privacidad absoluta (propiedad solo apta para adultos).
+* 📝 **Descripción:** Un espacio que simula un cuento de hadas. Este palacio de estilo marroquí ofrece confort total con piscina privada, living, cocina equipada, terraza amplia y un pequeño jardín ideal para descansar.
+* 💰 **Precio estimado:** 130 a 220 USD / 120 a 200 EUR (~2.300.000 - 3.900.000 IDR) por noche.
+
+  <div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+
+- - -
+
+## Glosario básico balinés
+
+Usar algunas palabras locales es un gesto de cortesía muy apreciado por los residentes:
+
+* 🙏 **Om Swastiastu:** Saludo tradicional ("Hola"). Se pronuncia acompañando el gesto de juntar las palmas al pecho.
+* **Matur Suksma:** "Muchas gracias" en balinés (en la calle se usa la forma corta *Suksma*).
+* 🎭 **Barong:** Figura mitológica que representa la protección. Es habitual presenciar procesiones en las aldeas. Cuando hay una ceremonia en la calle el tránsito se detiene; solo queda esperar con paciencia y disfrutar el momento.
+* 🧣 **Sarong:** Tela tradicional necesaria para cubrirse las piernas al ingresar a cualquier templo sagrado.
+
+- - -
+
+## Consejos para organizar los días
+
+* ⏱️ **Considerá tiempos flexibles:** El ritmo de la isla es relajado, las actividades y traslados suelen demorar más de lo estimado.
+* 🚗 **Salí con margen de tiempo:** El tránsito puede detenerse por obras, ceremonias locales o congestión, especialmente camino al aeropuerto.
+* 😊 **Mantené un trato amable:** En las zonas turísticas vas a recibir ofertas constantes de excursiones o compras. Un *"No, thank you"* (*Suksma*) con una sonrisa es suficiente para continuar tu camino.
