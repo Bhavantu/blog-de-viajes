@@ -144,7 +144,7 @@ Al comienzo, la danza narra un fragmento de la epopeya hindú del *Ramayana*: la
 
 Ubicado al final de la transitada Monkey Forest Road, este bosque sagrado es una reserva ecológica y espiritual gestionada por la comunidad local de Padangtegal. 
 
-![]()
+<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/UBUD30.webp" alt="Imagen de bitácora"><span class="img-caption">Mono con sus crías bebés en el bosque de los monos de Ubud Bali</span></div>
 
 Este santuario se rige por el concepto de *Tri Hita Karana* (la armonía entre los humanos, la naturaleza y Dios), resguardando tres templos sagrados activos del siglo XIV los cuales se pueden ver desde afuera pero no entrar. Es un recorrido plano, fácil de caminar, una interesante experiencia local habilitada para todas las edades. Además el camino tiene bastantes árboles por lo cual el calor no es terrible, volviéndolo una experiencia más disfrutable.
 
