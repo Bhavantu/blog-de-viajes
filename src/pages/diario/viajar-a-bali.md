@@ -92,15 +92,16 @@ Comer en un warung cuesta entre **25.000 y 45.000 IDR** (1,50 a 2,80 USD / 1,30 
 
 Cada región de Bali tiene un ritmo y una atmósfera completamente distinta. Cuál conviene elegir depende del tipo de experiencia que estés buscando.
 
-### Guía rápida: ¿Qué zona elegir según tu estilo de viaje?
+## Guía rápida: ¿Qué zona elegir según tu estilo de viaje?
 
-| Zona            | Ideal para...                                      | Vibe del lugar                       |
+| Zona            | Planes principales                                 | Vibra del lugar                      |
 | --------------- | -------------------------------------------------- | ------------------------------------ |
 | **Uluwatu**     | Surf, playas de arena clara y acantilados          | Cafeterías, surf y ambiente relajado |
 | **Ubud**        | Yoga, templos, cultura, selva y arrozales          | Cultural, verde y concurrido         |
 | **Sidemen**     | Paisaje rural, naturaleza y vistas al volcán Agung | Tranquilo, tradicional y calmo       |
 | **Amed**        | Snorkel, buceo y ritmo tranquilo pesquero          | Playero, sencillo y tradicional      |
 | **Nusa Penida** | Acantilados dramáticos, miradores y mantarrayas    | Aventura, paisajes imponentes e isla |
+|                 | <td colspan="2"></td>                              |                                      |
 
 - - -
 
@@ -227,7 +228,7 @@ Cada región de Bali tiene un ritmo y una atmósfera completamente distinta. Cu�
 * 📝 **Descripción:** Un tranquilo pueblo pesquero famoso por sus playas de arena negra volcánica y por permitir hacer snorkel de gran calidad saliendo directamente desde la orilla.
 * 👉 **Explorá nuestra guía completa:** [Qué hacer en Amed, Bali: Guía real de slow travel](https://blogcito.com/diario/que-hacer-en-amed-bali-guia-real-de-slow-travel/).
 
-#### Dónde quedarse en Amed
+## Dónde quedarse en Amed
 
 ##### [Bali Yogi Amed](https://www.booking.com/hotel/id/bali-yogi-amed1.html?aid=2440493)
 
@@ -255,6 +256,9 @@ Cada región de Bali tiene un ritmo y una atmósfera completamente distinta. Cu�
 * ⏱️ **Cómo llegar:** 30 a 45 minutos en lancha rápida (fast boat) desde el puerto de Sanur.
 * 🏛️ **Puntos de interés:** Kelingking Beach, Crystal Bay, Broken Beach y snorkel con mantarrayas en Manta Point.
 * 📝 **Descripción:** Una isla de paisajes imponentes y acantilados dramáticos. Dado que requiere tomar un ferry y tiene particularidades de movilidad propias, reunimos las mejores zonas para dormir e itinerarios recomendados en nuestro artículo específico: [Dónde quedarse y qué hacer en Nusa Penida](https://blogcito.com/diario/donde-quedarse-nusa-penida-que-hacer-en-nusa-penida/#3-costa-oeste-la-zona-tur%C3%ADstica-crystal-bay--kelingking).
+
+Donde quedarse en Nusa Pénida 
+Va a depender de lo que quieras hacer, algunas opciones son: 
 
 - - -
 
