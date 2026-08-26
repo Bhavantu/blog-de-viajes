@@ -311,6 +311,6 @@ Usar algunas palabras locales es un gesto de cortesía muy apreciado por los res
 
 ## Consejos para organizar los días
 
-* ⏱️ **Considerá tiempos flexibles:** Las actividades y traslados suelen demorar más de lo estimado.
+* ⏱️ **Considerá tiempos flexibles:** El ritmo de la isla es relajado, las actividades y traslados suelen demorar más de lo estimado.
 * 🚗 **Salí con margen de tiempo:** El tránsito puede detenerse por obras, ceremonias locales o congestión, especialmente camino al aeropuerto.
 * 😊 **Mantené un trato amable:** En las zonas turísticas vas a recibir ofertas constantes de excursiones o compras. Un *"No, thank you"* (*Suksma*) con una sonrisa es suficiente para continuar tu camino.
