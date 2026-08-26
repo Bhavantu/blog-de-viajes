@@ -28,7 +28,7 @@ Guía rápida sobre las zonas de Bali, mapa.
 
 Ampliamos la información por zona abajo.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/que-hacer-en-bali-mapa-interactivo-.jpeg" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+<div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 - - -
 
@@ -145,7 +145,7 @@ Cada región de Bali tiene un ritmo y una atmósfera completamente distinta. Cu�
 
 ### Ubud (Centro)
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/UBUD5.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/ubud5.webp" alt="Imagen de bitácora"><span class="img-caption">Ubud Terrazas de arroz</span></div>
 
 * 📍 **Ubicación:** Centro geográfico y cultural de Bali.
 * ⏱️ **Distancia del aeropuerto:** 1 hora y 15 minutos a 2 horas.
@@ -197,6 +197,8 @@ Cada región de Bali tiene un ritmo y una atmósfera completamente distinta. Cu�
 
 ### Sidemen (Este)
 
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/sidemen-.jpeg" alt="Imagen de bitácora"><span class="img-caption">Sidemen, zona verde de valles y calma</span></div>
+
 * 📍 **Ubicación:** Región oriental de Bali (Karangasem).
 * ⏱️ **Distancia del aeropuerto:** 1 hora y 45 minutos a 2 horas y 15 minutos.
 * 🏛️ **Puntos de interés:** Vistas al Volcán Agung, caminatas entre arrozales en terraza y talleres de tejido o platería.
@@ -230,6 +232,8 @@ Cada región de Bali tiene un ritmo y una atmósfera completamente distinta. Cu�
 
 ### Amed (Este)
 
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/amed.jpeg" alt="Imagen de bitácora"><span class="img-caption">Costa de Amed</span></div>
+
 * 📍 **Ubicación:** Costa nordeste.
 * ⏱️ **Distancia del aeropuerto:** 2 horas y 30 minutos a 3 horas.
 * 🏛️ **Puntos de interés:** Snorkel en Jemeluk Bay, buceo y miradores al volcán Agung.
@@ -259,6 +263,8 @@ Cada región de Bali tiene un ritmo y una atmósfera completamente distinta. Cu�
 - - -
 
 ### Nusa Penida (Isla al Sudeste)
+
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/kelingking-beach23.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 * 📍 **Ubicación:** Isla vecina al sudeste de Bali (Regencia de Klungkung).
 * ⏱️ **Cómo llegar:** 30 a 45 minutos en lancha rápida (fast boat) desde el puerto de Sanur.
