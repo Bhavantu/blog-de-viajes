@@ -144,7 +144,7 @@ Al comienzo, la danza narra un fragmento de la epopeya hindú del *Ramayana*: la
 
 Ubicado al final de la transitada Monkey Forest Road, este bosque sagrado es una reserva ecológica y espiritual gestionada por la comunidad local de Padangtegal. 
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/UBUD30.webp" alt="Monos en el Bosque sagrado de los monos, macacos bebes en el Monkey forest"></span> class="img-caption">Sacred Monkey Forest Sanctuary</span></div>
+<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/UBUD30.webp" alt="Imagen de bitácora"><span class="img-caption">Mono con sus crías bebés en el bosque de los monos de Ubud Bali</span></div>
 
 Este santuario se rige por el concepto de *Tri Hita Karana* (la armonía entre los humanos, la naturaleza y Dios), resguardando tres templos sagrados activos del siglo XIV los cuales se pueden ver desde afuera pero no entrar. Es un recorrido plano, fácil de caminar, una interesante experiencia local habilitada para todas las edades. Además el camino tiene bastantes árboles por lo cual el calor no es terrible, volviéndolo una experiencia más disfrutable.
 
@@ -178,7 +178,47 @@ Situado en la esquina de Jalan Raya Ubud y Jalan Monkey Forest, frente al mercad
 
 ## **Donde quedarse en Ubud**
 
-Probamos varias opciones, pero creo que tengo una recomendación sólida para quienes quieran disfrutar la tradicional calma de los arrozales, conocer la ciudad y estar cerca de las diferentes zonas por visitar. Si bien quedarse en el centro es una opción fácil ya que podés ir a diferentes restaurantes y espectáculos caminando, hay que decir que es una zona muy turística y muy habitada. Si eligiera de nuevo, seguramente iría por la segunda zona en la que nos quedamos: en las afueras, un poco hacia el noreste, antes de Tegalalang y a solo 10 minutos de Ubud central. Los alrededores cuentan con áreas muy tranquilas y hermosas; la otra ventaja es que al salir no perderás tiempo trancado en el tráfico dentro de la ciudad (es un gran dato a tener en cuenta). A continuación podrás ver el mapa con diferentes opciones cerca de la zona de referencia.
+Probamos varias opciones, pero creo que tengo una recomendación sólida para quienes quieran disfrutar la tradicional calma de los arrozales, conocer la ciudad y estar cerca de las diferentes zonas por visitar. Si bien quedarse en el centro es una opción fácil ya que podés ir a diferentes restaurantes y espectáculos caminando, hay que decir que es una zona muy turística y muy habitada. Si eligiera de nuevo, seguramente iría por la segunda zona en la que nos quedamos: en las afueras, un poco hacia el noreste, antes de Tegalalang y a solo 10 minutos de Ubud central. Los alrededores cuentan con áreas muy tranquilas y hermosas; la otra ventaja es que al salir no perderás tiempo trancado en el tráfico dentro de la ciudad (es un gran dato a tener en cuenta). Pero necesitarás moverte en vehiculo para casi cualquier actividad, dejamos ambas opciones divididas por zona y presupuesto a continuación.
+
+#### Opciones en Ubud Central (Cerca de todo)
+
+##### [Manwarsa Guest House / Warsa Homestay](https://www.booking.com/hotel/id/manwarsa-guest-house.html?aid=2440493)
+
+* 📍 **Ubicación:** En pleno centro, a minutos del Palacio de Ubud y del mercado.
+* 📝 **Descripción:** Homestay tradicional atendido por una familia balinesa.
+* 💰 **Precio estimado:** 15 a 25 USD / 14 a 23 EUR (~260.000 - 440.000 IDR) por noche.
+
+##### [Semujan Bungalow Ubud](https://www.booking.com/hotel/id/semujan-bungalows.html?aid=2440493)
+
+* 📍 **Ubicación:** A pasos de Monkey Forest Road en un pasaje silencioso.
+* 📝 **Descripción:** Bungalows con estilo balinés, pileta y jardín tropical.
+* 💰 **Precio estimado:** 35 a 55 USD / 32 a 50 EUR (~620.000 - 980.000 IDR) por noche.
+
+##### [Alamdini Resort Ubud](https://www.booking.com/hotel/id/alamdini-resort-ubud.html?aid=2440493)
+
+* 📍 **Ubicación:** Centro urbano, con vistas interiores a un cañón verde.
+* 📝 **Descripción:** Resort elegante con suites amplias y pileta rodeada de vegetación.
+* 💰 **Precio estimado:** 70 a 110 USD / 64 a 100 EUR (~1.250.000 - 1.950.000 IDR) por noche.
+
+#### Opciones en Ubud Norte y Alrededores (Tranquilidad y Naturaleza)
+
+##### [Ubud Jungle House](https://www.booking.com/hotel/id/ubud-jungle-house.html?aid=2440493)
+
+* 📍 **Ubicación:** A 10-15 minutos al norte del centro, inmerso en la selva.
+* 📝 **Descripción:** Alojamiento familiar con vistas al cañón tropical, aire acondicionado y gran desayuno.
+* 💰 **Precio estimado:** 14 a 22 USD / 13 a 20 EUR (~250.000 - 390.000 IDR) por noche.
+
+##### [Canting Bali Suite](https://www.booking.com/hotel/id/canting-bali-suite.html?aid=2440493)
+
+* 📍 **Ubicación:** Barrio de Laplapan (Petulu), a 10 minutos del centro.
+* 📝 **Descripción:** Habitaciones amplias con terraza privada, pileta y vistas despejadas a la naturaleza.
+* 💰 **Precio estimado:** 35 a 55 USD / 32 a 50 EUR (~620.000 - 980.000 IDR) por noche.
+
+##### [Subu Utamas Ubud](https://www.booking.com/hotel/id/subu-utamas-ubud.html?aid=2440493)
+
+* 📍 **Ubicación:** Al norte de Ubud, retirado de las avenidas principales.
+* 📝 **Descripción:** Villas y suites de alta calidad con pileta y atención personalizada.
+* 💰 **Precio estimado:** 85 a 140 USD / 78 a 128 EUR (~1.500.000 - 2.500.000 IDR) por noche.
 
 <div class="stay22-inline-map" style="margin: 2rem 0; border-radius: 12px; overflow: hidden;">
   <iframe id="stay22-widget" width="100%" height="428" src="https://stay22.com/embed/6a4496f5198cff107e57ca30" frameborder="0"></iframe>
@@ -209,9 +249,7 @@ Nota del blog: Los precios en IDR corresponden a las tarifas oficiales en taquil
 | Entrada Palacio de Ubud (Puri Saren Agung)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Gratis            | 0.00          | 0.00         | Acceso libre al patio principal durante el día (8:00 AM - 5:00 PM).    |
 | Referencia de conversión de moneda                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 100.000           | 5.57          | 4.87         | Datos actualizados Julio 2026 (sujeto a cambios).                      |
 
-
-
-## Preguntas frecuentes 
+## Preguntas frecuentes
 
 * #### ¿Cuál es la mejor época para visitar Ubud?
 
