@@ -264,7 +264,7 @@ Cada región de Bali tiene un ritmo y una atmósfera completamente distinta. Cu�
 
 ### Nusa Penida (Isla al Sudeste)
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/kelingking-beach23.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/kelingking-beach23.webp" alt="Imagen de bitácora"><span class="img-caption">Kelingkling Beach en Nusa Penida</span></div>
 
 * 📍 **Ubicación:** Isla vecina al sudeste de Bali (Regencia de Klungkung).
 * ⏱️ **Cómo llegar:** 30 a 45 minutos en lancha rápida (fast boat) desde el puerto de Sanur.
