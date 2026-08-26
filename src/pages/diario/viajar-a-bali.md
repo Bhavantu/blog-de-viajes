@@ -7,7 +7,7 @@ pais: Indonesia
 description: ¿Planeando tu primer viaje a Bali? Descubre requisitos de entrada,
   mejores zonas para alojarte, cómo moverte y recomendaciones en esta guía
   completa.
-main_image: /img/diario/img_9383.webp
+main_image: /img/diario/nusa-penida-temple.webp
 ---
 # Guía de Bali 2026: Zonas, Consejos y Datos Prácticos
 
@@ -24,7 +24,7 @@ Hay muchos mitos, prejuicios y expectativas sobre Bali, pero lo cierto es una co
 * 🏖️ **Mejor época:** De mayo a octubre (temporada seca).
 * 💵 **Moneda:** Rupia indonesia (IDR). Conviene llevar tarjeta para cajeros y **efectivo siempre para gastos diarios.**
 
-</div>
+
 
 - - -
 
@@ -106,6 +106,8 @@ Cada región de Bali tiene un ritmo y una atmósfera completamente distinta. Cu�
 - - -
 
 ### Uluwatu (Extremo Sur)
+
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/uluwatu.jpeg" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 * 📍 **Ubicación:** Península de Bukit (Sur de la isla).
 * ⏱️ **Distancia del aeropuerto:** 40 a 60 minutos en auto (según el tránsito).
@@ -259,6 +261,7 @@ Cada región de Bali tiene un ritmo y una atmósfera completamente distinta. Cu�
 
 Donde quedarse en Nusa Pénida 
 Va a depender de lo que quieras hacer, algunas opciones son: 
+
 ### Nusa Penida (Isla Adyacente)
 
 Nusa Penida es una isla ubicada al sudeste de Bali, famosa por sus acantilados imponentes, playas de aguas turquesas y miradores icónicos como Kelingking Beach y Crystal Bay. Dado que llegar implica cruzar en lancha rápida desde Sanur y la dinámica de transporte interno es diferente a la de Bali, te dejamos nuestras recomendaciones seleccionadas según cada nivel de presupuesto para hacer base en la costa oeste.
@@ -274,7 +277,7 @@ Nusa Penida es una isla ubicada al sudeste de Bali, famosa por sus acantilados i
 * 📝 **Descripción:** De esos lugares donde planeás quedarte 3 días y te terminás quedando 12. Es un espacio hermoso con pileta, atendido por una familia local entrañable y con un desayuno completo y delicioso para arrancar la jornada.Eso sí, la costa este es la más tranquila y local pero se encuentra a 30 minutos en auto de la zona de restaurantes y cristal bay. 
 * 💰 **Precio estimado:** 18 a 30 USD / 16 a 27 EUR (~320.000 - 530.000 IDR) por noche.
 
----
+- - -
 
 #### 🌿 Presupuesto Intermedio / Medio
 
@@ -285,7 +288,7 @@ Nusa Penida es una isla ubicada al sudeste de Bali, famosa por sus acantilados i
 * 📝 **Descripción:** Una opción muy accesible de construcción tradicional balinesa. Cuenta con pileta al aire libre, jardín y una ubicación estratégica para disfrutar del mar sin complicaciones.
 * 💰 **Precio estimado:** 35 a 60 USD / 32 a 55 EUR (~620.000 - 1.050.000 IDR) por noche.
 
----
+- - -
 
 #### 🏡 Mayor Confort / Alto
 
