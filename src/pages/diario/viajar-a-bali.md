@@ -28,7 +28,7 @@ Guía rápida sobre las zonas de Bali, mapa.
 
 Ampliamos la información por zona abajo.
 
-<div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/bali-mapa-por-zonas-.jpeg" alt="Imagen de bitácora"><span class="img-caption">Mapa representativo de Bali, usar como referencia, chequear en el mapa real es necesario para identificar las distancias correctamente</span></div>
 
 - - -
 
@@ -98,14 +98,14 @@ Cada región de Bali tiene un ritmo y una atmósfera completamente distinta. Cu�
 
 ## Guía rápida: ¿Qué zona elegir según tu estilo de viaje?
 
-| Zona            | Planes principales                                 | Vibra del lugar                      |
-| --------------- | -------------------------------------------------- | ------------------------------------ |
-| **Uluwatu**     | Surf, playas de arena clara y acantilados          | Cafeterías, surf y ambiente relajado |
-| **Ubud**        | Yoga, templos, cultura, selva y arrozales          | Cultural, verde y concurrido         |
-| **Sidemen**     | Paisaje rural, naturaleza y vistas al volcán Agung | Tranquilo, tradicional y calmo       |
-| **Amed**        | Snorkel, buceo y ritmo tranquilo pesquero          | Playero, sencillo y tradicional      |
-| **Nusa Penida** | Acantilados dramáticos, miradores y mantarrayas    | Aventura, paisajes imponentes e isla |
-|                 | <td colspan="2"></td>                              |                                      |
+| Zona                                                                                                                 | Planes principales                                 | Vibra del lugar                      |
+| -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ------------------------------------ |
+| **Uluwatu**                                                                                                          | Surf, playas de arena clara y acantilados          | Cafeterías, surf y ambiente relajado |
+| **[Ubud](https://deploy-preview-95--yendoblog.netlify.app/diario/que-hacer-ubud-bali-que-ver-zonas-consejos-guia/)** | Yoga, templos, cultura, selva y arrozales          | Cultural, verde y concurrido         |
+| **Sidemen**                                                                                                          | Paisaje rural, naturaleza y vistas al volcán Agung | Tranquilo, tradicional y calmo       |
+| **[Amed](https://deploy-preview-95--yendoblog.netlify.app/diario/que-hacer-amed-que-ver-guia-presupuesto/)**         | Snorkel, buceo y ritmo tranquilo pesquero          | Playero, sencillo y tradicional      |
+| **[Nusa Penida](https://deploy-preview-95--yendoblog.netlify.app/diario/que-ver-en-nusa-penida-guia/)**              | Acantilados dramáticos, miradores y mantarrayas    | Aventura, paisajes imponentes e isla |
+|                                                                                                                      | <td colspan="2"></td>                              |                                      |
 
 - - -
 
@@ -310,8 +310,6 @@ Nusa Penida es una isla ubicada al sudeste de Bali, famosa por sus acantilados i
 * 🌿 **Entorno:** Vistas abiertas al mar y privacidad absoluta (propiedad solo apta para adultos).
 * 📝 **Descripción:** Un espacio que simula un cuento de hadas. Este palacio de estilo marroquí ofrece confort total con piscina privada, living, cocina equipada, terraza amplia y un pequeño jardín ideal para descansar.
 * 💰 **Precio estimado:** 130 a 220 USD / 120 a 200 EUR (~2.300.000 - 3.900.000 IDR) por noche.
-
-  <div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 - - -
 
