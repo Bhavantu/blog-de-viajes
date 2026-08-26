@@ -1,7 +1,7 @@
 ---
 title: ¿Vale la pena viajar a Bali en 2026? Lo que más nos gusto y lo que no
   tanto de Bali Indoensia
-date: 2026-08-23T17:32:00.000+08:00
+date: 2026-08-26T15:16:00.000+08:00
 tag: guia de viaje
 pais: Indonesia
 description: ¿Vale la pena Bali en 2026? te contamos lo que nos gustó y lo que
@@ -28,19 +28,19 @@ Bali es una isla que forma parte de Indonesia pero tiene tradiciones únicas. Su
 
 📖 **Para profundizar en el contexto cultural:** Si te interesa saber más sobre la cosmovisión, los templos y la historia te recomendamos leer nuestro artículo dedicado en la categoría Contexto y Cultura: [El Alma de Bali: cultura, tradiciones y secretos sobre la Isla de los Dioses](https://blogcito.com/diario/el-alma-de-bali-cultura-tradiciones-y-la-secretos-sobre-la-isla/)
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/qué-hacer-en-bali-cultural-.jpeg" alt="Imagen de bitácora"><span class="img-caption">Actividades culturales, en Bali</span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/qué-hacer-en-bali-cultural-.jpeg" alt="Imagen de bitácora"><span class="img-caption">Actividades culturales, en Bali</span></div>
 
 ### 2. La Naturaleza
 
 La naturaleza selvática, las cascadas, las playas de la isla y hasta el fondo marino son impresionantes. Y aunque es verdad que actualmente está bastante masificado, aún quedan rincones naturales que vale la pena conocer.
+<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/virgin-beach.webp" alt="Imagen de bitácora"><span class="img-caption">Virgin beach cerca de Amed</span></div> 
+
 
 #### Las mejores playas
 
-Uluwatu fue el lugar con las mejores playas que visitamos como Thomas Beach, Padang Padang o Melasti beach (nuestra favorita). 
+Uluwatu fue el lugar con las mejores playas que visitamos como Thomas Beach, Padang Padang o Melasti beach (nuestra favorita).
 
 **Virgin Beach (Bias Tugel):** Una playa muy particular con agua turquesa que nos encantó visitar luego de un paseo cultural por el palacio de agua Taman Ujung y el templo de agua Tirta Gangga. Nos movimos hacia allí desde Amed, donde nos quedamos gran parte de nuestra estadía.
-
-<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/virgin-beach.webp" alt="Imagen de bitácora"><span class="img-caption">Virgin beach cerca de Amed</span></div>
 
 #### Snorkel y Buceo
 
