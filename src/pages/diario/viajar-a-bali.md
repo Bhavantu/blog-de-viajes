@@ -259,6 +259,42 @@ Cada región de Bali tiene un ritmo y una atmósfera completamente distinta. Cu�
 
 Donde quedarse en Nusa Pénida 
 Va a depender de lo que quieras hacer, algunas opciones son: 
+### Nusa Penida (Isla Adyacente)
+
+Nusa Penida es una isla ubicada al sudeste de Bali, famosa por sus acantilados imponentes, playas de aguas turquesas y miradores icónicos como Kelingking Beach y Crystal Bay. Dado que llegar implica cruzar en lancha rápida desde Sanur y la dinámica de transporte interno es diferente a la de Bali, te dejamos nuestras recomendaciones seleccionadas según cada nivel de presupuesto para hacer base en la costa oeste.
+
+👉 **Leé la guía completa:** [Dónde quedarse en Nusa Penida y qué hacer: Costa Oeste y puntos clave](https://blogcito.com/diario/donde-quedarse-nusa-penida-que-hacer-en-nusa-penida/#3-costa-oeste-la-zona-tur%C3%ADstica-crystal-bay--kelingking).
+
+#### 🎒 Presupuesto Mochilero / Bajo
+
+##### [Kabeh Jati Garden Villa & Restaurant](https://www.booking.com/hotel/id/kabeh-jati-garden-villa-amp-restaurant.html?aid=2440493)
+
+* 📍 **Ubicación:** Costa este de Nusa Penida.
+* 🌿 **Entorno:** Rodeado de jardín verde, ambiente tranquilo y cálida atención familiar.
+* 📝 **Descripción:** De esos lugares donde planeás quedarte 3 días y te terminás quedando 12. Es un espacio hermoso con pileta, atendido por una familia local entrañable y con un desayuno completo y delicioso para arrancar la jornada.Eso sí, la costa este es la más tranquila y local pero se encuentra a 30 minutos en auto de la zona de restaurantes y cristal bay. 
+* 💰 **Precio estimado:** 18 a 30 USD / 16 a 27 EUR (~320.000 - 530.000 IDR) por noche.
+
+---
+
+#### 🌿 Presupuesto Intermedio / Medio
+
+##### [Crystal Bay Pool View Bungalow](https://www.booking.com/hotel/id/crystal-bay-pool-view-bungalow.html?aid=2440493)
+
+* 📍 **Ubicación:** Costa oeste, a pocos minutos de Crystal Bay.
+* 🌿 **Entorno:** Entorno arbolado y tranquilo, ideal para quienes buscan estar al lado de una playa apta para baño y snorkel.
+* 📝 **Descripción:** Una opción muy accesible de construcción tradicional balinesa. Cuenta con pileta al aire libre, jardín y una ubicación estratégica para disfrutar del mar sin complicaciones.
+* 💰 **Precio estimado:** 35 a 60 USD / 32 a 55 EUR (~620.000 - 1.050.000 IDR) por noche.
+
+---
+
+#### 🏡 Mayor Confort / Alto
+
+##### [La Marrocco Villas](https://www.booking.com/hotel/id/la-marrocco-villas.html?aid=2440493)
+
+* 📍 **Ubicación:** Costa oeste de Nusa Penida (área de Sakti / vista panorámica al océano).
+* 🌿 **Entorno:** Vistas abiertas al mar y privacidad absoluta (propiedad solo apta para adultos).
+* 📝 **Descripción:** Un espacio que simula un cuento de hadas. Este palacio de estilo marroquí ofrece confort total con piscina privada, living, cocina equipada, terraza amplia y un pequeño jardín ideal para descansar.
+* 💰 **Precio estimado:** 130 a 220 USD / 120 a 200 EUR (~2.300.000 - 3.900.000 IDR) por noche.
 
 - - -
 
