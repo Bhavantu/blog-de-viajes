@@ -17,14 +17,18 @@ Hay muchos mitos, prejuicios y expectativas sobre Bali, pero lo cierto es una co
 
 ### Bali en resumen: Lo imprescindible para tu primer viaje
 
-* 🗓️ **¿Cuánto tiempo quedarse?** Recomendamos mínimo 10 días para visitar 2 zonas, o 15 días o más para recorrer diferentes puntos de la isla. 
-  Para la experiencia de slow travel o nómada digital, hay actividades para más de 1 mes.
-* 🚗 **¿Cómo moverse?** Grab o moto* para tramos cortos, chófer privado para traslados largos entre pueblos. 
-  (Aclaración, la moto es recomendada solo para conductores experimentados) 
+* 🗓️ **¿Cuánto tiempo quedarse?** Mínimo 7 días para visitar 2 zonas, o 15 días o más para recorrer diferentes puntos de la isla. Para la experiencia de slow travel o nómada digital, hay actividades para más de 1 mes.
+* 🚗 **¿Cómo moverse?** Grab (para tramos cortos o moto), chofer privado para traslados largos entre pueblos o alquiler de moto para conductores experimentados en Asia.
 * 🏖️ **Mejor época:** De mayo a octubre (temporada seca).
-* 💵 **Moneda:** Rupia indonesia (IDR). Conviene llevar tarjeta para cajeros y **efectivo siempre para gastos diarios.**
+* 💵 **Moneda:** Rupia indonesia (IDR). Conviene llevar tarjeta para cajeros y efectivo siempre para gastos diarios.
 
-  <div/>
+</div>
+
+Guía rápida sobre las zonas de Bali, mapa.
+
+Ampliamos la información por zona abajo.
+
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/que-hacer-en-bali-mapa-interactivo-.jpeg" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 - - -
 
@@ -33,7 +37,7 @@ Hay muchos mitos, prejuicios y expectativas sobre Bali, pero lo cierto es una co
 Para quienes estén planeando sus primeros pasos en la isla, acá resumimos la logística:
 
 * ✈️ **Aeropuerto de llegada:** Aeropuerto Internacional Ngurah Rai (Denpasar - DPS).
-* 🛂 **Requisitos básicos y Visa:** 
+* 🛂 **Requisitos de viaje:** 
 * **Pasaporte** con al menos 6 meses de vigencia. 
 * **Visa**: Chequeá si tu país requiere tramitar la Visa On Arrival (VOA) al ingresar. Para evitar filas largas, nosotros completamos el trámite de la e-VOA por internet antes de volar y nos otorgaron un código QR. En el aeropuerto el trámite fue fluido: escanear pasaporte, mostrar el QR y retirar equipaje. El costo de la VOA es de **500.000 IDR** (unos 32 USD / 29 EUR). Requisitos oficiales en la[ página de migraciones de Indonesia](https://indonesia-arrival.com/register/apply?gad_source=1&gad_campaignid=24052266141&gbraid=0AAAABBUdEIlmTGZ8HBovgruZW8mM1fpU2&gclid=Cj0KCQjw16_UBhCqARIsAIdOaXwPakPFep4yHAwa3JjGuvQAqgUUc9PJRipQg-Wy3D0FcE6gXthxwicaAi_iEALw_wcB).
 * 💰 **Moneda y Cambio (Referencia 2026):** Rupia Indonesia (IDR). Conviene tener efectivo para los primeros gastos, no aceptan monedas extranjeras.
@@ -301,6 +305,8 @@ Nusa Penida es una isla ubicada al sudeste de Bali, famosa por sus acantilados i
 * 📝 **Descripción:** Un espacio que simula un cuento de hadas. Este palacio de estilo marroquí ofrece confort total con piscina privada, living, cocina equipada, terraza amplia y un pequeño jardín ideal para descansar.
 * 💰 **Precio estimado:** 130 a 220 USD / 120 a 200 EUR (~2.300.000 - 3.900.000 IDR) por noche.
 
+  <div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+
 - - -
 
 ## Glosario básico balinés
@@ -308,7 +314,7 @@ Nusa Penida es una isla ubicada al sudeste de Bali, famosa por sus acantilados i
 Usar algunas palabras locales es un gesto de cortesía muy apreciado por los residentes:
 
 * 🙏 **Om Swastiastu:** Saludo tradicional ("Hola"). Se pronuncia acompañando el gesto de juntar las palmas al pecho.
-* 🤝 **Matur Suksma:** "Muchas gracias" en balinés (en la calle se usa la forma corta *Suksma*).
+* **Matur Suksma:** "Muchas gracias" en balinés (en la calle se usa la forma corta *Suksma*).
 * 🎭 **Barong:** Figura mitológica que representa la protección. Es habitual presenciar procesiones en las aldeas. Cuando hay una ceremonia en la calle el tránsito se detiene; solo queda esperar con paciencia y disfrutar el momento.
 * 🧣 **Sarong:** Tela tradicional necesaria para cubrirse las piernas al ingresar a cualquier templo sagrado.
 
