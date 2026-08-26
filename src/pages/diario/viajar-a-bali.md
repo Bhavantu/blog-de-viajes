@@ -39,7 +39,7 @@ Para quienes estén planeando sus primeros pasos en la isla, acá resumimos la l
 * ✈️ **Aeropuerto de llegada:** Aeropuerto Internacional Ngurah Rai (Denpasar - DPS).
 * 🛂 **Requisitos de viaje:** 
 * **Pasaporte** con al menos 6 meses de vigencia. 
-* **Visa**: Chequeá si tu país requiere tramitar la Visa On Arrival (VOA) al ingresar. Para evitar filas largas, nosotros completamos el trámite de la e-VOA por internet antes de volar y nos otorgaron un código QR. En el aeropuerto el trámite fue fluido: escanear pasaporte, mostrar el QR y retirar equipaje. El costo de la VOA es de **500.000 IDR** (unos 32 USD / 29 EUR). Requisitos oficiales en la[ página de migraciones de Indonesia](https://indonesia-arrival.com/register/apply?gad_source=1&gad_campaignid=24052266141&gbraid=0AAAABBUdEIlmTGZ8HBovgruZW8mM1fpU2&gclid=Cj0KCQjw16_UBhCqARIsAIdOaXwPakPFep4yHAwa3JjGuvQAqgUUc9PJRipQg-Wy3D0FcE6gXthxwicaAi_iEALw_wcB).
+* **Visa**: Chequeá si tu país requiere tramitar la Visa On Arrival (VOA) al ingresar. Para evitar filas largas, nosotros completamos el trámite de la e-VOA por internet antes de volar y nos otorgaron un código QR. En el aeropuerto el trámite fue fluido: escanear pasaporte, mostrar el QR y retirar equipaje. El costo de la VOA es de **500.000 IDR** (unos 32 USD / 29 EUR). Requisitos oficiales en la [página de migraciones de Indonesia](https://indonesia-arrival.com/register/apply?gad_source=1&gad_campaignid=24052266141&gbraid=0AAAABBUdEIlmTGZ8HBovgruZW8mM1fpU2&gclid=Cj0KCQjw16_UBhCqARIsAIdOaXwPakPFep4yHAwa3JjGuvQAqgUUc9PJRipQg-Wy3D0FcE6gXthxwicaAi_iEALw_wcB).
 * 💰 **Moneda y Cambio (Referencia 2026):** Rupia Indonesia (IDR). Conviene tener efectivo para los primeros gastos, no aceptan monedas extranjeras.
 
   Referencia: Al principio marea manejar tantos ceros, así que podés calcular que **1 USD equivale a unas 17.800 IDR**, y **1 EUR ronda las 19.300 IDR**. El billete de mayor denominación (100.000 IDR, de color rojo) equivale a poco menos de 6 USD (o 5,20 EUR).
@@ -55,21 +55,21 @@ Para quienes estén planeando sus primeros pasos en la isla, acá resumimos la l
 
 ## Llegar a Bali y el traslado desde el aeropuerto
 
-Al salir de la terminal la oferta de taxistas es constante y abrumadora. Para evitar negociaciones intensas al lelgar, la alternativa más práctica es descargar la aplicación **Grab** antes de volar. Funciona de manera similar a Uber, pero hay que pagar en efectivo en rupias. Si preferís contratar un chofer, podés contactarte con tu hotel acordando la tarifa y horario antes de viajar.
+Al salir de la terminal la oferta de taxistas es constante y abrumadora. Para evitar negociaciones intensas al llegar, la alternativa más práctica es descargar la aplicación **Grab** antes de volar. Funciona de manera similar a Uber, pero hay que pagar en efectivo en rupias. Si preferís contratar un chofer, podés contactarte con tu hotel acordando la tarifa y horario antes de viajar.
 
-⚠️ Aviso: Dentro del aeropuerto hay conexión Wi-Fi gratuita, pero en el sector exterior en donde pueden esperar los grab no hay señal. Nosotros compramos previa llegada una **[eSIM de Airalo](https://airalo.pxf.io/DWa66G)**, que se activa automáticamente al aterrizar. Podés conocer sus paquetes [acá.](https://airalo.pxf.io/DWa66G)
+⚠️ Aviso: Dentro del aeropuerto hay conexión Wi-Fi gratuita, pero en el sector exterior en donde pueden esperar los Grab no hay señal. Nosotros compramos previa llegada una **[eSIM de Airalo](https://airalo.pxf.io/DWa66G)**, que se activa automáticamente al aterrizar. Podés conocer sus paquetes [acá.](https://airalo.pxf.io/DWa66G)
 
 - - -
 
 ## Moverse por la isla: Choferes, motos y transporte
 
-Para tramos largos con valijas (como ir de Kuta a Ubud o a Amed), la opción más cómoda es contratar un chofer privado, coordianr el horario y costo  o solicitar un vehículo por Grab. Para dejar una referencia un trayecto promedio en auto entre Kuta y Ubud ronda las **400.000 IDR** (aprox. 23 a 25 USD / 21 a 23 EUR).
+Para tramos largos con valijas (como ir de Kuta a Ubud o a Amed), la opción más cómoda es contratar un chofer privado, coordinar el horario y costo o solicitar un vehículo por Grab. Para dejar una referencia, un trayecto promedio en auto entre Kuta y Ubud ronda las **400.000 IDR** (aprox. 23 a 25 USD / 21 a 23 EUR).
 
-Nosotros hicimos varios trayectos con Anderson, un chofer con excelente predisposición. Si querés su cotnacto no dudes en escribirnos.
+Nosotros hicimos varios trayectos con Anderson, un chofer con excelente predisposición. Si querés su contacto no dudes en escribirnos.
 
 ### Opciones para distancias cortas:
 
-* 🛵 **Grab Moto/ Moto:** Cómodo y rápido. La moto es práctica y muy económica si viajás solo y querés esquivar embotellamientos.
+* 🛵 **Grab Moto / Moto:** Cómodo y rápido. La moto es práctica y muy económica si viajás solo y querés esquivar embotellamientos.
 * 🚗 **Autos compartidos:** En comunidades de viajeros o espacios como Nomad Table es habitual coordinar traslados grupales para dividir gastos.
 * 🛵 **Alquiler de scooter:** Brinda total libertad para recorrer calles secundarias y playas. Sin embargo, el tránsito es denso, se conduce por la izquierda y muchas calles no están en sus mejores condiciones. Recomendamos alquilar únicamente si tenés experiencia previa, usá siempre casco y llevá tu licencia internacional.
 
@@ -86,7 +86,7 @@ Para alimentarte en el día a día, los **Warungs** (pequeños locales familiare
 * 🥗 **Gado-Gado:** Ensalada de verduras al vapor, huevo duro, tofu y tempeh con salsa de maní (100% vegetariano).
 * 🍢 **Sate (Satay):** Brochetas de pollo, cerdo o pescado a la parrilla con salsa de maní.
 
-Comer en un warung cuesta entre **25.000 y 45.000 IDR** (1,50 a 2,80 USD / 1,30 a 2,40 EUR) por plato. En restaurantes orientados al turismo los precios van de **80.000 a 150.000 IDR** (5 a 9,50 USD / 4,30 a 8,20 EUR). A tener en cuenta la mayoría de los restaurantes turísticos suman entre un 10% y un 15% adicional por impuestos y servicio (Tax & Service).
+Comer en un warung cuesta entre **25.000 y 45.000 IDR** (1,50 a 2,80 USD / 1,30 a 2,40 EUR) por plato. En restaurantes orientados al turismo los precios van de **80.000 a 150.000 IDR** (5 a 9,50 USD / 4,30 a 8,20 EUR). A tener en cuenta: la mayoría de los restaurantes turísticos suman entre un 10% y un 15% adicional por impuestos y servicio (Tax & Service).
 
 ⚠️ **Aviso sobre el agua:** El agua de la red pública en Bali **no es potable**. No se recomienda su uso ni para beber ni para lavarse los dientes; siempre agua embotellada o filtrada. En restaurantes y cafeterías turísticas, el hielo proviene de plantas purificadas bajo normativa oficial y es seguro.
 
@@ -264,14 +264,14 @@ Cada región de Bali tiene un ritmo y una atmósfera completamente distinta. Cu�
 
 ### Nusa Penida (Isla al Sudeste)
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/kelingking-beach23.webp" alt="Imagen de bitácora"><span class="img-caption">Kelingkling Beach en Nusa Penida</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/kelingking-beach23.webp" alt="Imagen de bitácora"><span class="img-caption">Kelingking Beach en Nusa Penida</span></div>
 
 * 📍 **Ubicación:** Isla vecina al sudeste de Bali (Regencia de Klungkung).
 * ⏱️ **Cómo llegar:** 30 a 45 minutos en lancha rápida (fast boat) desde el puerto de Sanur.
 * 🏛️ **Puntos de interés:** Kelingking Beach, Crystal Bay, Broken Beach y snorkel con mantarrayas en Manta Point.
 * 📝 **Descripción:** Una isla de paisajes imponentes y acantilados dramáticos. Dado que requiere tomar un ferry y tiene particularidades de movilidad propias, reunimos las mejores zonas para dormir e itinerarios recomendados en nuestro artículo específico: [Dónde quedarse y qué hacer en Nusa Penida](https://blogcito.com/diario/donde-quedarse-nusa-penida-que-hacer-en-nusa-penida/#3-costa-oeste-la-zona-tur%C3%ADstica-crystal-bay--kelingking).
 
-Donde quedarse en Nusa Pénida 
+Dónde quedarse en Nusa Penida 
 Va a depender de lo que quieras hacer, algunas opciones son: 
 
 ### Nusa Penida (Isla Adyacente)
@@ -286,7 +286,7 @@ Nusa Penida es una isla ubicada al sudeste de Bali, famosa por sus acantilados i
 
 * 📍 **Ubicación:** Costa este de Nusa Penida.
 * 🌿 **Entorno:** Rodeado de jardín verde, ambiente tranquilo y cálida atención familiar.
-* 📝 **Descripción:** De esos lugares donde planeás quedarte 3 días y te terminás quedando 12. Es un espacio hermoso con pileta, atendido por una familia local entrañable y con un desayuno completo y delicioso para arrancar la jornada.Eso sí, la costa este es la más tranquila y local pero se encuentra a 30 minutos en auto de la zona de restaurantes y cristal bay. 
+* 📝 **Descripción:** De esos lugares donde planeás quedarte 3 días y te terminás quedando 12. Es un espacio hermoso con pileta, atendido por una familia local entrañable y con un desayuno completo y delicioso para arrancar la jornada. Eso sí, la costa este es la más tranquila y local pero se encuentra a 30 minutos en auto de la zona de restaurantes y Crystal Bay. 
 * 💰 **Precio estimado:** 18 a 30 USD / 16 a 27 EUR (~320.000 - 530.000 IDR) por noche.
 
 - - -
