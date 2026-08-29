@@ -575,8 +575,8 @@ const t = ui[currentLang as keyof typeof ui];
             {t['footer.afiliados']}
             </p>
             <div style="margin-top: 10px; font-size: 0.9em;">
-                <a href={getRelativeLocaleUrl(currentLang, 'politica-de-privacidad')} style="margin-right: 15px;">{t['footer.privacidad']}</a>
-                <a href={getRelativeLocaleUrl(currentLang, 'contacto')}>{t['footer.contacto']}</a>
+                <a href={t['route.privacidad']} style="margin-right: 15px;">{t['footer.privacidad']}</a>
+                <a href={t['route.contacto']}>{t['footer.contacto']}</a>            
             </div>
         </footer>
 
