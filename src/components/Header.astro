@@ -14,50 +14,37 @@ if (cleanPath === '') cleanPath = '/';
 let urlEs = cleanPath; 
 let urlEn = '/en' + (cleanPath === '/' ? '' : cleanPath);
 
-// Mapeo manual de tus archivos traducidos
+// Mapeo manual para que el botón de ES | EN sepa a dónde ir
 if (cleanPath === '/nosotros' || rawPath.startsWith('/en/about')) {
-    urlEs = '/nosotros';
-    urlEn = '/en/about';
+    urlEs = t['route.nosotros'];
+    urlEn = ui['en']['route.nosotros'];
 } else if (cleanPath === '/diario' || rawPath.startsWith('/en/journal')) {
-    urlEs = '/diario';
-    urlEn = '/en/journal';
+    urlEs = t['route.diario'];
+    urlEn = ui['en']['route.diario'];
 } else if (cleanPath === '/contacto' || rawPath.startsWith('/en/contact')) {
-    urlEs = '/contacto';
-    urlEn = '/en/contact';
+    urlEs = t['route.contacto'];
+    urlEn = ui['en']['route.contacto'];
 } else if (cleanPath.startsWith('/diario/')) {
     const slug = cleanPath.split('/').pop();
     urlEs = `/diario/${slug}`;
     urlEn = `/en/diario/${slug}`; 
 }
-
-// Diccionario estricto para los botones de navegación
-const menuLinks = {
-    es: {
-        inicio: '/',
-        diario: '/diario',
-        nosotros: '/nosotros'
-    },
-    en: {
-        inicio: '/en',
-        diario: '/en/journal',
-        nosotros: '/en/about'
-    }
-};
 ---
 
 <div class={isTransparent ? "header-wrapper transparente" : "header-wrapper solido"}>
     <div id="mobile-menu-overlay" class="menu-overlay"></div>
     
     <header class="site-header">
-        <!-- El logo apunta a la raíz correspondiente -->
-        <h1><a href={menuLinks[currentLang].inicio}>BLOGCITO</a></h1>
+        <!-- El logo apunta a la raíz correspondiente usando ui.js -->
+        <h1><a href={t['route.inicio']}>BLOGCITO</a></h1>
         
         <button id="mobile-menu-btn" class="menu-toggle">☰</button>        
         <nav id="main-nav">
             <ul class="nav-links">
-                <li><a href={menuLinks[currentLang].inicio}>{t['nav.inicio']}</a></li>
-                <li><a href={menuLinks[currentLang].diario}>{t['nav.diario']}</a></li>
-                <li><a href={menuLinks[currentLang].nosotros}>{t['nav.nosotros']}</a></li>
+                <!-- Enlaces conectados directamente al diccionario -->
+                <li><a href={t['route.inicio']}>{t['nav.inicio']}</a></li>
+                <li><a href={t['route.diario']}>{t['nav.diario']}</a></li>
+                <li><a href={t['route.nosotros']}>{t['nav.nosotros']}</a></li>
                 
                 <li class="btn-buscar">
                     <a href="#" title="Buscar" style="display: flex; align-items: center; padding-top: 2px;">
@@ -87,7 +74,7 @@ const menuLinks = {
 
 <style>
     /* =========================================
-       ESTILOS BASE (Tus estilos originales)
+       ESTILOS BASE
        ========================================= */
     .header-wrapper {
         width: 100%;
@@ -120,7 +107,6 @@ const menuLinks = {
         color: #fde68a !important; 
     }
 
-    /* Ocultamos la sombra por defecto en compu */
     .menu-overlay { display: none; }
 
     /* =========================================
@@ -129,7 +115,7 @@ const menuLinks = {
     @media (max-width: 768px) {
         .menu-toggle {
             position: relative;
-            z-index: 1001; /* Botón por encima de todo */
+            z-index: 1001;
         }
 
         .menu-overlay {
@@ -157,15 +143,14 @@ const menuLinks = {
             box-shadow: -5px 0 15px rgba(0,0,0,0.2); 
             z-index: 1000; 
             padding: 6rem 1.5rem 2rem; 
-            transform: translateX(100%); /* Escondido a la derecha */
+            transform: translateX(100%);
             transition: transform 0.3s ease-in-out;
         }
         
         #main-nav.menu-open { 
-            transform: translateX(0); /* Entra a la pantalla */
+            transform: translateX(0);
         }
         
-        /* Centramos los links */
         #main-nav ul.nav-links { 
             display: flex;
             flex-direction: column; 
@@ -175,7 +160,6 @@ const menuLinks = {
             margin: 0;
         }
 
-        /* Forzamos colores oscuros para leer bien sobre el fondo claro del menú */
         .header-wrapper.transparente #main-nav a,
         .header-wrapper.transparente #main-nav .btn-buscar svg,
         #main-nav a,
@@ -185,7 +169,6 @@ const menuLinks = {
             font-size: 1.1rem;
         }
         
-        /* Cuando el menú se abre, la "X" tiene que ser negra */
         .menu-toggle.menu-abierto {
             color: #333 !important;
             text-shadow: none !important;
