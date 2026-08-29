@@ -43,6 +43,14 @@ export const ui = {
     'footer.afiliados': 'Algunos de los enlaces en este sitio son links de afiliados. Si realizás una reserva o compra a través de ellos, podemos recibir una pequeña comisión sin ningún costo adicional para vos. Esto nos ayuda a mantener el blog activo y libre de anuncios invasivos.',
     'cookies.text': 'Usamos cookies para mejorar tu experiencia en nuestro diario de viaje y analizar el tráfico. Al continuar navegando, aceptás nuestro uso de cookies.',
     'cookies.btn': 'Aceptar y cerrar',
+
+    // --- RUTAS DE LAS PÁGINAS ---
+    'route.inicio': '/',
+    'route.diario': '/diario',
+    'route.nosotros': '/nosotros',
+    'route.contacto': '/contacto',
+    'route.colab': '/colab',
+    'route.privacidad': '/politica-de-privacidad',
   },
   en: {
     // Navigation
@@ -88,5 +96,13 @@ export const ui = {
     'footer.afiliados': 'Some of the links on this site are affiliate links. If you make a booking or purchase through them, we may receive a small commission at no extra cost to you. This helps us keep the blog running and free of invasive ads.',
     'cookies.text': 'We use cookies to improve your experience on our travel journal and analyze traffic. By continuing to browse, you accept our use of cookies.',
     'cookies.btn': 'Accept and close',
+
+    // --- PAGE ROUTES ---
+    'route.inicio': '/en/',
+    'route.diario': '/en/journal',
+    'route.nosotros': '/en/about',
+    'route.contacto': '/en/contact',
+    'route.colab': '/en/colab',
+    'route.privacidad': '/en/privacy-policy',
   }
 };
