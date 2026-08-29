@@ -15,19 +15,25 @@ let urlEs = cleanPath;
 let urlEn = '/en' + (cleanPath === '/' ? '' : cleanPath);
 
 // Mapeo manual para que el botón de ES | EN sepa a dónde ir
-if (cleanPath === '/nosotros' || rawPath.startsWith('/en/about')) {
+if (cleanPath === '/nosotros' || cleanPath === '/about') {
     urlEs = t['route.nosotros'];
     urlEn = ui['en']['route.nosotros'];
-} else if (cleanPath === '/diario' || rawPath.startsWith('/en/journal')) {
+} else if (cleanPath === '/diario' || cleanPath === '/journal') {
     urlEs = t['route.diario'];
     urlEn = ui['en']['route.diario'];
-} else if (cleanPath === '/contacto' || rawPath.startsWith('/en/contact')) {
+} else if (cleanPath === '/contacto' || cleanPath === '/contact') {
     urlEs = t['route.contacto'];
     urlEn = ui['en']['route.contacto'];
 } else if (cleanPath.startsWith('/diario/')) {
-    const slug = cleanPath.split('/').pop();
-    urlEs = `/diario/${slug}`;
-    urlEn = `/en/diario/${slug}`; 
+    // Si viene de la paginación en español (ej: /diario/2)
+    const suffix = cleanPath.replace('/diario/', '');
+    urlEs = `/diario/${suffix}`;
+    urlEn = `/en/journal/${suffix}`; 
+} else if (cleanPath.startsWith('/journal/')) {
+    // Si viene de la paginación en inglés (ej: /en/journal/2)
+    const suffix = cleanPath.replace('/journal/', '');
+    urlEs = `/diario/${suffix}`;
+    urlEn = `/en/journal/${suffix}`; 
 }
 ---
 
