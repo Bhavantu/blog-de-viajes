@@ -8,8 +8,6 @@ description: ¿Pensando en vivir en Vietnam? Te mostramos el costo de vivir en D
   Nang real para 2 nómadas digitales, cómo buscar departamento mensual y
   consejos para instalarte según nuestra experiencia en 2026.
 ---
-# Vivir en Da Nang como nómadas digitales: Guía real de costo de vida y primeros pasos
-
 Vietnam es uno de los destinos actualmente más recomendados para nómadas digitales. Es realmente enorme, varía sus climas y temporadas dentro del país. Nuestro primer viaje fue durante agosto-septiembre, es por eso que decidimos venir a la ciudad central de Da Nang.
 
 Como base para vivir tiene todo lo que uno puede necesitar: una ciudad vibrante y moderna cerca de la costa, pero que no se siente como una gran ciudad con ritmo frenético. Es un buen equilibrio: la playa Mỹ Khê es hermosa, hay muchos lugares de interés cultural cerca, la comida vietnamita es única y tiene la infraestructura de cafés con buen internet para trabajar. En este post te contamos nuestra experiencia y todo lo que necesitas saber para valorar si también se adapta a vos.
