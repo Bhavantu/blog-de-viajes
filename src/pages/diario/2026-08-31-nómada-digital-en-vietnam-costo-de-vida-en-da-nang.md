@@ -55,15 +55,15 @@ Esto es exactamente lo que hicimos y funcionó muy bien:
 
 * **Paso 1 (Reconocimiento):** Alquilamos los primeros 3 o 4 días en un hospedaje temporal para conocer la zona caminando. En la mañana íbamos a la playa y el resto del día lo usamos para nuestro objetivo: conocer algunas zonas y salir a comer cerca.
 * **Paso 2 (La búsqueda):** Nos unimos a varios grupos de Facebook ("Da Nang Digital Nomads", "Da Nang Apartments for Rent") y comentamos publicaciones que ofrecían departamentos de dueño directo, y publicamos exactamente lo que buscábamos en inglés. En menos de 2 horas nos llovían respuestas y propuestas de personas que se dedican a alquilar y tenían muchos apartamentos. Caminando por la zona encontramos carteles de departamentos en alquiler. Nos acercamos a la recepción y también preguntamos; algunos nos los mostraron en el momento y con otros nos escribimos por WhatsApp.
-* **Paso 3:**
+* **Paso 3 (el contacto)**
 
   * **Opción A (Contactar con un agente):** Telegram es el rey. Encontramos dos buenos agentes que nos pasaron opciones según nuestro presupuesto y nos añadieron a un grupo de Telegram con cientos de departamentos. En esos grupos añaden ubicación aproximada, costo, cantidad de cuartos, pros y contras, tiempo mínimo de alquiler y todo lo que se necesita saber.
   * **Opción B (Contactar con un dueño directo):** Generalmente demoran más en contestar, pero al no haber comisión de intermediarios encontramos buenas opciones por precios un poco más económicos.
 * **Paso 4 (Clasificar):** Vimos todos los departamentos disponibles y nos mantuvimos actualizados durante estos días. ¿Qué hacíamos? Sacamos captura de todas las opciones que nos interesaban y se las enviamos al contacto; nos daban los detalles y coordinamos la visita con el agente.
 
-  **Datos clave:**
-* La visita es 100% necesaria antes de alquilar, ya que muchos departamentos tienen fotos desactualizadas.
-* No te quedes con el primero que veas (a menos que sea espectacular). Nosotros esperamos más de lo planeado y al 4.º día encontramos un departamento a estrenar a 6 cuadras de la playa por unos **USD 380 por mes** que nos encantó.
+  **Datos importantes:**
+* **La visita es 100% necesaria antes de alquilar**, ya que muchos departamentos tienen fotos desactualizadas.
+* **No te quedes con el primero que veas** (a menos que sea espectacular). Nosotros esperamos más de lo planeado y al 4.º día encontramos un departamento a estrenar a 6 cuadras de la playa por unos USD 380 por mes que nos encantó.
 * **La conectividad es clave:** El internet es fundamental para ir de un departamento a otro durante las visitas, disfrutar de la playa, comunicarte con los vendedores e incluso traducir el menú en restaurantes locales. Y no lo digo solo porque el programa de referidos ayuda a sostener el blog, sino también porque nos pasó de desencontrarnos con el vendedor (envían ubicación aproximada) y fue una auténtica catástrofe, completamente innecesaria.
 
 [Haciendo clic acá podés ver los costos de la eSIM de Airalo para Vietnam y nos ayudás a seguir escribiendo este blog.](https://airalo.tpx.lu/8J5sLaD4?trs=543244&journey_id=hQDHE4wKI6C0e9jzSOJIG&trace_id=Zze69c17847a274d7a86df7ea-743383&promo_kind=tp_short_with_tooltip_widget&page_url=https%3A%2F%2Fblogcito.com%2Fdiario%2Fque-hacer-ubud-bali-que-ver-zonas-consejos-guia%2F&product_type=tp_manual&install_type=partner&is_tooltip=true&tooltip_subtype=main_page&promo_subkind=tooltip_desktop_general)
@@ -109,15 +109,15 @@ Este presupuesto está basado en nuestra experiencia a partir del cálculo de 1 
 
 El presupuesto engloba lo básico, habría que sumarle cosas como entradas a atracciones turísticas, masajes y/o compras. Como siempre, dependerá de tu estilo de vida. En este presupuesto real y cómodo para dos, cocinamos, salimos a comer 2 veces por semana (en general a restaurantes locales) y vivimos en el departamento que nos gustó por **USD 637.96 por mes**.
 
-| Concepto | VND (Dong) | USD | EUR |
-| :--- | :--- | :--- | :--- |
-| Alquiler mensual (incluye gastos comunes y limpieza) | 9.950.000 | 381.26 | 348.80 |
-| Electricidad | 750.000 | 28.77 | 26.33 |
-| Supermercado y mercado local | 3.571.931 | 76.74 | 70.25 |
-| Salir a comer | 1.042.899 | 42.19 | 38.62 |
-| Café y jugos | 521.450 | 20.00 | 18.31 |
-| Alquiler de moto | 1.850.000 | 71.00 | 65.00 |
-| **Total** | **17.686.280** | **619.96** | **567.31** |
+| Concepto                                             | VND (Dong)     | USD        | EUR        |
+| ---------------------------------------------------- | -------------- | ---------- | ---------- |
+| Alquiler mensual (incluye gastos comunes y limpieza) | 9.950.000      | 381.26     | 348.80     |
+| Electricidad                                         | 750.000        | 28.77      | 26.33      |
+| Supermercado y mercado local                         | 3.571.931      | 76.74      | 70.25      |
+| Salir a comer                                        | 1.042.899      | 42.19      | 38.62      |
+| Café y jugos                                         | 521.450        | 20.00      | 18.31      |
+| Alquiler de moto                                     | 1.850.000      | 71.00      | 65.00      |
+| **Total**                                            | **17.686.280** | **619.96** | **567.31** |
 
 ## Salir a comer y cafés
 
