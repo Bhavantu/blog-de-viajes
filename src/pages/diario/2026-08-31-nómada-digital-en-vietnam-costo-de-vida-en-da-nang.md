@@ -7,10 +7,11 @@ pais: Vietnam
 description: ¿Pensando en vivir en Vietnam? Te mostramos el costo de vivir en Da
   Nang real para 2 nómadas digitales, cómo buscar departamento mensual y
   consejos para instalarte según nuestra experiencia en 2026.
+main_image: /img/diario/playa-my-khe-beach-.jpeg
 ---
-Vietnam es uno de los destinos actualmente más recomendados para nómadas digitales. Es realmente enorme, varía sus climas y temporadas dentro del país. Nuestro primer viaje fue durante agosto-septiembre, es por eso que decidimos venir a la ciudad central de Da Nang.
+Vietnam es uno de los destinos actualmente más recomendados para nómadas digitales. Es realmente enorme, variando sus climas y temporadas dentro del país. Nuestro primer viaje fue durante agosto-septiembre y decidimos venir a la ciudad central de Da Nang.
 
-Como base para vivir tiene todo lo que uno puede necesitar: una ciudad vibrante y moderna cerca de la costa, pero que no se siente como una gran ciudad con ritmo frenético. Es un buen equilibrio: la playa Mỹ Khê es hermosa, hay muchos lugares de interés cultural cerca, la comida vietnamita es única y tiene la infraestructura de cafés con buen internet para trabajar. En este post te contamos nuestra experiencia y todo lo que necesitas saber para valorar si también se adapta a vos.
+Como base para vivir tiene todo lo que uno puede necesitar: una ciudad vibrante y moderna cerca de la costa, pero que no se siente como una gran ciudad con ritmo frenético. Es un buen equilibrio: la playa Mỹ Khê es hermosa, hay muchos lugares de interés cultural cerca, la comida vietnamita es única y tiene la infraestructura de cafés con buen Internet para trabajar. En este post te contamos nuestra experiencia y todo lo que necesitas saber sobre como es vivir en Vietnam, para valorar si también se adapta a vos.
 
 ## Cuándo ir: Clima y temporadas en Da Nang
 
@@ -19,7 +20,7 @@ El clima en el centro de Vietnam varía según sus zonas, así que hay que tener
 * **Temporada seca (Enero a Agosto):** Es la mejor época para hacer base. Los días son soleados, el mar está tranquilo para nadar y la temperatura ronda los 28 °C a 35 °C (junio y julio suelen ser los meses más calurosos), llegamos en agosto y vaya que lo fue.
 * **Temporada de lluvias y tifones (Septiembre a Diciembre):** Las lluvias son intensas, aumentan las probabilidades de tormentas tropicales/tifones en la costa y el mar se vuelve agitado.
 
-## Visas antes de subirte al avión
+## Visa de entrada
 
 * **E-Visa:** Se tramita 100% online en la web oficial del gobierno de Vietnam. El trámite es bastante sencillo y demora entre 5 a 7 días hábiles. Existen dos opciones:
 
