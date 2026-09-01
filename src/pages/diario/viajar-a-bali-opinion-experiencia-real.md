@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/BlogPostLayout.astro
 title: ¿Vale la pena viajar a Bali en 2026? Lo que más nos gusto y lo que no
   tanto de Bali Indoensia
 date: 2026-08-26T15:16:00.000+08:00
