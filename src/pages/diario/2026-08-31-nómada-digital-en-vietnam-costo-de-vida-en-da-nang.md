@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/BlogPostLayout.astro
-title: "Nómada digital en Vietnam: Costo de vida en Da Nang"
+title: ¿Cómo es vivir como nómada digital en Vietnam? y costo de vida en Da Nang
 date: 2026-08-31T17:52:00.000+08:00
 tag: vida local
 pais: Vietnam
@@ -27,26 +27,28 @@ El clima en el centro de Vietnam varía según sus zonas, así que hay que tener
   * **Entrada simple por 90 días:** Con esta visa podés quedarte dentro del territorio en un periodo continuo de 90 días. *El costo:* **USD 25 por persona**.
   * **Múltiples entradas por 90 días:** Con esta visa podés salir y volver a entrar a Vietnam durante 90 días en múltiples ocasiones. *El costo:* **USD 50 por persona**.
 
-## Dónde quedarse en Da Nang y cómo buscar departamento
+## Dónde quedarse en Da Nang y cómo buscar apartamento
+
+Da nang es una zona de 1.2 millones de habitantes de los cuales el 98% son locales. La zona se divide en 8 distritos pero la mayor oferta de apartamentos para alquilar a corto y mediano plazo se encuentra en las siguientes áreas.
 
 ### Las zonas principales:
 
 * **An Thuong / Mỹ An (El barrio nómada y costero):** Se encuentra a pasos de la playa Mỹ Khê, está lleno de cafés para trabajar, coworkings, bares y ambiente internacional.
 
-  * *Para los primeros días en la playa te recomendamos:*
+  **Para los primeros días mientras buscas casas te recomendamos:**
 
-    * **Opción económica:** [Trissy House A4](https://www.booking.com/hotel/vn/trissy-house-a4.html) (limpio, sencillo y a pasos del mar).
-    * **Relación precio-calidad:** [Celestine Homestay](https://www.booking.com/hotel/vn/celestine-homestay.html) (muy cómodo para trabajar los primeros días).
-    * **Opción confort / departamento equipado:** [Lucky Apartment and Cafe](https://www.booking.com/hotel/vn/lucky-apartment-and-cafe-ngu-hanh-son.html) (ideal si buscás cocina propia desde el día 1).
+  * **Opción económica:** [Trissy House A4](https://www.booking.com/hotel/vn/trissy-house-a4.html) (limpio, sencillo y a pasos del mar).
+  * **Relación precio-calidad:** [Celestine Homestay](https://www.booking.com/hotel/vn/celestine-homestay.html) (muy cómodo para trabajar los primeros días).
+  * **Opción confort / departamento equipado:** [Lucky Apartment and Cafe](https://www.booking.com/hotel/vn/lucky-apartment-and-cafe-ngu-hanh-son.html) (ideal si buscás cocina propia desde el día 1).
 * **Hải Châu (El centro local junto al río Hàn):** Zona urbana, tranquila y más auténtica. Ideal para encontrar departamentos más amplios a menor precio y disfrutar de la caminata por la ribera.
 
   * *Hospedajes recomendados en el centro:*
 
     * **Opción económica:** [Da Nang Petro Hotel](https://www.booking.com/hotel/vn/da-nang-petro.html) (excelente ubicación para recorrer la zona urbana).
     * **Relación precio-calidad:** [The Riverside Nest & Apartment](https://www.booking.com/hotel/vn/the-riverside-nest-amp-apartment.html) (vistas al río y zona muy tranquila).
-    * **Opción confort / recomendada:** [Rest & Apartment](https://www.booking.com/hotel/vn/rest-amp-apartment.html) *(sugerimos reservar la habitación con ventana por unos **USD 82 en total** para tener buena luz natural).*
+    * **Opción confort / recomendada:** [Rest & Apartment](https://www.booking.com/hotel/vn/rest-amp-apartment.html) *(sugerimos la segunda opción con ventana)*
 
-Nosotros optamos por An Thuong básicamente por la cercanía a la playa, las ventajas fueron el amanecer en Mỹ Khê Beach, las caminatas por la arena y el vóley de playa. Nos quedamos cerca del mercado local, en una zona que está al límite entre lo turístico y los puestos locales: muy recomendado. Eso sí, durante el mes de agosto el flujo de gente fue intenso.
+Nosotros optamos por quedarnos en An Thuong básicamente por la cercanía a la playa. Entre las ventajas destacamos el amanecer en Mỹ Khê Beach, las caminatas por la arena al atardecer y el vóley de playa. Encontramos un apartamento nuevo a estrenar cerca del mercado local, en una zona que está al límite entre lo turístico y los puestos locales: muy recomendado. Eso sí, durante el mes de agosto el flujo de gente fue intenso.
 
 ### El desafío: cómo encontrar departamento en menos de una semana
 
