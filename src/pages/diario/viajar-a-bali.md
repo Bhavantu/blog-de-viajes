@@ -103,7 +103,7 @@ Cada región de Bali tiene un ritmo y una atmósfera completamente distinta. Cu�
 
 ### Uluwatu (Extremo Sur)
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/uluwatu.jpeg" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/uluwatu.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 * 📍 **Ubicación:** Península de Bukit (Sur de la isla).
 * ⏱️ **Distancia del aeropuerto:** 40 a 60 minutos en auto (según el tránsito).
@@ -189,7 +189,7 @@ Cada región de Bali tiene un ritmo y una atmósfera completamente distinta. Cu�
 
 ### Sidemen (Este)
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/sidemen-.jpeg" alt="Imagen de bitácora"><span class="img-caption">Sidemen, zona verde de valles y calma</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/sidemen-.webp" alt="Imagen de bitácora"><span class="img-caption">Sidemen, zona verde de valles y calma</span></div>
 
 * 📍 **Ubicación:** Región oriental de Bali (Karangasem).
 * ⏱️ **Distancia del aeropuerto:** 1 hora y 45 minutos a 2 horas y 15 minutos.
@@ -224,7 +224,7 @@ Cada región de Bali tiene un ritmo y una atmósfera completamente distinta. Cu�
 
 ### Amed (Este)
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/amed.jpeg" alt="Imagen de bitácora"><span class="img-caption">Costa de Amed</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/amed.webp" alt="Imagen de bitácora"><span class="img-caption">Costa de Amed</span></div>
 
 * 📍 **Ubicación:** Costa nordeste.
 * ⏱️ **Distancia del aeropuerto:** 2 horas y 30 minutos a 3 horas.

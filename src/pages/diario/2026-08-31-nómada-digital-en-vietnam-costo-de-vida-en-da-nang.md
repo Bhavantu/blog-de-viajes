@@ -7,7 +7,7 @@ pais: Vietnam
 description: ¿Pensando en vivir en Vietnam? Te mostramos el costo de vivir en Da
   Nang real para 2 nómadas digitales, cómo buscar departamento mensual y
   consejos para instalarte según nuestra experiencia en 2026.
-main_image: /img/diario/playa-my-khe-beach-.jpeg
+main_image: /img/diario/playa-my-khe-beach-.webp
 ---
 Vietnam es uno de los destinos actualmente más recomendados para nómadas digitales. Es realmente enorme, variando sus climas y temporadas dentro del país. Nuestro primer viaje fue durante agosto-septiembre y decidimos venir a la ciudad central de Da Nang.
 
@@ -33,7 +33,7 @@ Da nang es una zona de 1.2 millones de habitantes de los cuales el 98% son local
 
 ### Las zonas principales:
 
-<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/playa-my-khe-beach-2.jpeg" alt="Imagen de bitácora"><span class="img-caption">My khe beach, barrio Mỹ An</span></div>
+<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/playa-my-khe-beach-2.webp" alt="Imagen de bitácora"><span class="img-caption">My khe beach, barrio Mỹ An</span></div>
 
 * **An Thuong / Mỹ An (El barrio nómada y costero):** Se encuentra a pasos de la playa Mỹ Khê, está lleno de cafés para trabajar, coworkings, bares y ambiente internacional.
 
@@ -127,7 +127,7 @@ El presupuesto engloba lo básico, habría que sumarle cosas como entradas a atr
 
 ## Salir a comer y cafés
 
-<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/plato-tradicional-de-vietnam-pho-nam-vegetariano.jpeg" alt="Imagen de bitácora"><span class="img-caption">Plato tradicional de Vietnam pho-nam (opción vegetariana)</span></div>
+<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/plato-tradicional-de-vietnam-pho-nam-vegetariano.webp" alt="Imagen de bitácora"><span class="img-caption">Plato tradicional de Vietnam pho-nam (opción vegetariana)</span></div>
 
 Da Nang tiene una oferta gastronómica gigante que se adapta a todos los gustos e intereses. Desde comida local tradicional a locales veganos, mercados callejeros, bares occidentales, comida de india, korea, japón, china, pizzerias italianas, lo que quieras.
 
