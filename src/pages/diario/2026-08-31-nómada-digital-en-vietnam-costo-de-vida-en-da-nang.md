@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPostLayout.astro
 title: ¿Cómo es vivir como nómada digital en Vietnam? y costo de vida en Da Nang
-date: 2026-08-31T17:52:00.000+08:00
+date: 2026-09-02T17:25:00.000+08:00
 tag: vida local
 pais: Vietnam
 description: ¿Pensando en vivir en Vietnam? Te mostramos el costo de vivir en Da
@@ -43,6 +43,8 @@ Da nang es una zona de 1.2 millones de habitantes de los cuales el 98% son local
   * **Relación precio-calidad:** [Celestine Homestay](https://www.booking.com/hotel/vn/celestine-homestay.html) (muy cómodo para trabajar los primeros días).
   * **Opción confort / departamento equipado:** [Lucky Apartment and Cafe](https://www.booking.com/hotel/vn/lucky-apartment-and-cafe-ngu-hanh-son.html) (ideal si buscás cocina propia desde el día 1).
 * **Hải Châu (El centro local junto al río Hàn):** Es una zona urbana, tranquila y más auténtica. Ideal para encontrar departamentos más amplios a menor precio y disfrutar de la caminata por la ribera.
+
+  <div class="post-img-box img-mediano img-centro"><img src="/img/diario/puente-del-dragon-lanzando-fuego-vietnam-da-nang.jpeg" alt="Imagen de bitácora"><span class="img-caption">Puente del dragón lanzando fuego, Da Nang</span></div>
 
 ### Hospedajes recomendados en el centro:
 
