@@ -7,7 +7,7 @@ pais: Vietnam
 description: ¿Pensando en vivir en Vietnam? Te mostramos el costo de vivir en Da
   Nang real para 2 nómadas digitales, cómo buscar departamento mensual y
   consejos para instalarte según nuestra experiencia en 2026.
-main_image: /img/diario/playa-my-khe-beach-.jpeg
+main_image: /img/diario/playa-my-khe-beach-.webp
 ---
 Vietnam es uno de los destinos actualmente más recomendados para nómadas digitales. Es realmente enorme, variando sus climas y temporadas dentro del país. Nuestro primer viaje fue durante agosto-septiembre y decidimos venir a la ciudad central de Da Nang.
 
@@ -33,7 +33,7 @@ Da nang es una zona de 1.2 millones de habitantes de los cuales el 98% son local
 
 ### Las zonas principales:
 
-<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/playa-my-khe-beach-2.jpeg" alt="Imagen de bitácora"><span class="img-caption">My khe beach, barrio Mỹ An</span></div>
+<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/playa-my-khe-beach-2.webp" alt="Imagen de bitácora"><span class="img-caption">My khe beach, barrio Mỹ An</span></div>
 
 * **An Thuong / Mỹ An (El barrio nómada y costero):** Se encuentra cerca de la playa Mỹ Khê, está lleno de cafés para trabajar, coworkings, bares y ambiente internacional.
 
@@ -44,7 +44,7 @@ Da nang es una zona de 1.2 millones de habitantes de los cuales el 98% son local
   * **Opción confort / departamento equipado:** [Lucky Apartment and Cafe](https://www.booking.com/hotel/vn/lucky-apartment-and-cafe-ngu-hanh-son.html) (ideal si buscás cocina propia desde el día 1).
 * **Hải Châu (El centro local junto al río Hàn):** Es una zona urbana, tranquila y más auténtica. Ideal para encontrar departamentos más amplios a menor precio y disfrutar de la caminata por la ribera.
 
-  <div class="post-img-box img-mediano img-centro"><img src="/img/diario/puente-del-dragon-lanzando-fuego-vietnam-da-nang.jpeg" alt="Imagen de bitácora"><span class="img-caption">Puente del dragón lanzando fuego, Da Nang</span></div>
+  <div class="post-img-box img-mediano img-centro"><img src="/img/diario/puente-del-dragon-lanzando-fuego-vietnam-da-nang.webp" alt="Imagen de bitácora"><span class="img-caption">Puente del dragón lanzando fuego, Da Nang</span></div>
 
 ### Hospedajes recomendados en el centro:
 
@@ -128,7 +128,7 @@ El presupuesto engloba lo básico, habría que sumarle cosas como entradas a atr
 
 ## Salir a comer y cafés
 
-Da Nang tiene una oferta gastronómica gigante que se adapta a todos <div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/plato-tradicional-de-vietnam-pho-nam-vegetariano.jpeg" alt="Imagen de bitácora"><span class="img-caption">Plato tradicional de Vietnam pho-nam (opción vegetariana)</span></div>los gustos e intereses. Desde comida local tradicional a locales veganos, mercados callejeros, bares occidentales, comida de india, korea, japón, china, pizzerias italianas, lo que quieras.
+Da Nang tiene una oferta gastronómica gigante que se adapta a todos <div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/plato-tradicional-de-vietnam-pho-nam-vegetariano.webp" alt="Imagen de bitácora"><span class="img-caption">Plato tradicional de Vietnam pho-nam (opción vegetariana)</span></div>los gustos e intereses. Desde comida local tradicional a locales veganos, mercados callejeros, bares occidentales, comida de india, korea, japón, china, pizzerias italianas, lo que quieras.
 
 ### ¿Cuanto sale salir a comer en Vientam?
 
