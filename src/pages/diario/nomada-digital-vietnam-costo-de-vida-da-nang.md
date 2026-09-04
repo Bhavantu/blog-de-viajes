@@ -33,7 +33,7 @@ Da nang es una zona de 1.2 millones de habitantes de los cuales el 98% son local
 
 ### Las zonas principales:
 
-<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/playa-my-khe-beach-2.webp" alt="Imagen de bitácora"><span class="img-caption">My khe beach, barrio Mỹ An</span></div>
+<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/playa-my-khe-beach-2.jpeg" alt="Imagen de bitácora"><span class="img-caption">My khe beach, barrio Mỹ An</span></div>
 
 * **An Thuong / Mỹ An (El barrio nómada y costero):** Se encuentra a pasos de la playa Mỹ Khê, está lleno de cafés para trabajar, coworkings, bares y ambiente internacional.
 
@@ -42,8 +42,9 @@ Da nang es una zona de 1.2 millones de habitantes de los cuales el 98% son local
   * **Opción económica:** [Trissy House A4](https://www.booking.com/hotel/vn/trissy-house-a4.html) (limpio, sencillo y a pasos del mar).
   * **Relación precio-calidad:** [Celestine Homestay](https://www.booking.com/hotel/vn/celestine-homestay.html) (muy cómodo para trabajar los primeros días).
   * **Opción confort / departamento equipado:** [Lucky Apartment and Cafe](https://www.booking.com/hotel/vn/lucky-apartment-and-cafe-ngu-hanh-son.html) (ideal si buscás cocina propia desde el día 1).
+* **Hải Châu (El centro local junto al río Hàn):** Zona urbana, tranquila y más auténtica. Ideal para encontrar departamentos más amplios a menor precio y disfrutar de la caminata por la ribera.
 
-\* \*\*Hải Châu (El centro local junto al río Hàn):\** Zona urbana, tranquila y más auténtica. Ideal para encontrar departamentos más amplios a menor precio y disfrutar de la caminata por la ribera.
+  <div class="post-img-box img-completo img-centro"><img src="/img/diario/puente-del-dragon-lanzando-fuego-vietnam-da-nang.webp" alt="Imagen de bitácora"><span class="img-caption">Puente del dragón lanzando fuego </span></div>
 
 ### Hospedajes recomendados en el centro:
 
