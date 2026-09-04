@@ -116,15 +116,21 @@ Este presupuesto está basado en nuestra experiencia a partir del cálculo de 1 
 
 El presupuesto engloba lo básico, habría que sumarle cosas como entradas a atracciones turísticas, masajes y/o compras. Como siempre, dependerá de tu estilo de vida. En este presupuesto real y cómodo para dos, cocinamos, salimos a comer 2 veces por semana (en general a restaurantes locales) y vivimos en el departamento que nos gustó por **USD 637.96 por mes**.
 
-| Concepto                                             | VND (Dong)     | USD        | EUR        |
-| ---------------------------------------------------- | -------------- | ---------- | ---------- |
-| Alquiler mensual (incluye gastos comunes y limpieza) | 9.950.000      | 381.26     | 348.80     |
-| Electricidad                                         | 750.000        | 28.77      | 26.33      |
-| Supermercado y mercado local                         | 3.571.931      | 76.74      | 70.25      |
-| Salir a comer                                        | 1.042.899      | 42.19      | 38.62      |
-| Café y jugos                                         | 521.450        | 20.00      | 18.31      |
-| Alquiler de moto                                     | 1.850.000      | 71.00      | 65.00      |
-| **Total**                                            | **17.686.280** | **619.96** | **567.31** |
+# Presupuesto de Gastos en Vietnam (Actualizado)
+
+| Concepto | VND (Dong) | USD | EUR |
+| :--- | :--- | :--- | :--- |
+| Alquiler mensual (incluye gastos comunes y limpieza) | 9.950.000 | 381,66 | 349,37 |
+| Electricidad | 750.000 | 28,77 | 26,33 |
+| Supermercado y mercado local | 3.971.931 | 152,36 | 139,46 |
+| Salir a comer | 1.042.899 | 40,00 | 36,62 |
+| Café y jugos | 521.450 | 20,00 | 18,31 |
+| Alquiler de moto | 1.850.000 | 70,96 | 64,96 |
+| **Total** | **18.086.280** | **693,75** | **635,05** |
+
+### **Referencias de Conversión**
+  * **1 USD** = 26.070 VND
+  * **1 EUR** = 28.480 VND
 
 ## Salir a comer y cafés
 
