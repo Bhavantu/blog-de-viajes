@@ -74,12 +74,12 @@ Nosotros hicimos varios trayectos con Anderson, un chofer con excelente predispo
 
 ## Comida y agua: Salud y presupuestos
 
-Para comer en el día a día, los **Warungs** (locales familiares) son la mejor opción. Sirven platos tradicionales de Indonesia. sabrosa y muy económica:
+Para comer en el día a día, los **Warungs** (locales familiares) son la mejor opción. Sirven platos tradicionales de Indonesia, nosotros siempre nos fijamos en las referencias de Google y no tuvimos problema. La comida es sabrosa y muy económica, algunas de las opciones típicas que más nos gustaron fueron las siguientes: 
 
-* 🍲 **Nasi Goreng:** Arroz frito salteado con vegetales, huevo y especias (se puede pedir versión vegetariana).
-* 🍜 **Mie Goreng:** Fideos salteados con verduras y tempeh o tofu (opción vegetariana).
+* 🍲 **Nasi Goreng:** Arroz frito salteado con vegetales, pollo, huevo y especias (se puede pedir versión vegetariana).
+* 🍜 **Mie Goreng:** Fideos salteados con verduras, huevo y pollo o tofu.
 * 🥗 **Gado-Gado:** Ensalada de verduras al vapor, huevo duro, tofu y tempeh con salsa de maní.
-* 🍢 **Sate (Satay):** Brochetas de pollo, cerdo o pescado a la parrilla con salsa de maní.
+* 🍢 **Sate (Satay):** Brochetas de pollo, cerdo o pescado a la parrilla con salsa de maní. Opción vegana con tofu o tempeh.
 
 Comer en un warung cuesta entre **25.000 y 45.000 IDR** (1,50 a 2,80 USD / 1,30 a 2,40 EUR) por plato. En restaurantes orientados al turismo los precios van de **80.000 a 150.000 IDR** (5 a 9,50 USD / 4,30 a 8,20 EUR). A tener en cuenta: la mayoría de los restaurantes turísticos suman entre un 10% y un 15% adicional por impuestos y servicio (Tax & Service).
 
@@ -89,7 +89,7 @@ Comer en un warung cuesta entre **25.000 y 45.000 IDR** (1,50 a 2,80 USD / 1,30 
 
 ## Dónde quedarse en Bali: Zonas y alojamientos recomendados
 
-Cada región de Bali tiene un ritmo y una atmósfera completamente distinta. Cuál conviene elegir depende del tipo de experiencia que estés buscando.
+Uno de los puntos fundamentales para disfrutar el viaje es decidir a donde ir y lo cierto es que cada región de Bali tiene un ritmo y una atmósfera  distinta. ¿Cuál conviene elegir? depende del tipo de experiencia que estés buscando.
 
 ## Guía rápida: ¿Qué zona elegir según tu estilo de viaje?
 
@@ -106,12 +106,13 @@ Cada región de Bali tiene un ritmo y una atmósfera completamente distinta. Cu�
 
 ### Uluwatu (Extremo Sur)
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/uluwatu.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+Es una de las zonas costeras más hermosas. Despliega acantilados impresionantes con vistas al atardecer y playas ideales para el surf. Es una zona "clasica o infaltable" por tanto la infraestructura para el turismo está muy desarrollada (cafeterías, restaurantes, hoteles de lujo) además muchos tours planean su salida desde acá hacia diferentes puntos de la isla. Hacer base en Balangan o Pecatu te permite moverte fácil por la península.
+
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/uluwatu.webp" alt="Imagen de bitácora"><span class="img-caption">Uluwatu, Peninsula de Bukit</span></div>
 
 * 📍 **Ubicación:** Península de Bukit (Sur de la isla).
 * ⏱️ **Distancia del aeropuerto:** 40 a 60 minutos en auto (según el tránsito).
 * 🏛️ **Puntos de interés:** Templo Pura Luhur Uluwatu (danza Kecak al atardecer), playas como Balangan, Padang Padang, Bingin, Thomas Beach, Melasti y miradores sobre acantilados.
-* 📝 **Descripción:** Es una de las zonas costeras más hermosas. Despliega acantilados impresionantes con vistas al atardecer y playas ideales para el surf. Hacer base en Balangan o Pecatu te permite moverte fácil por la península esquivando el tráfico más pesado.
 
 #### Dónde quedarse en Uluwatu
 
