@@ -319,7 +319,7 @@ Usar algunas palabras locales es un gesto de cortesía y respeto apreciado por l
 * 🙏 **Om Swastiastu:** Saludo tradicional ("Hola"). Se pronuncia acompañando el gesto de juntar las palmas al pecho.
 * **Matur Suksma:** "Muchas gracias" en balinés (en la calle se usa la forma corta *Suksma se pronuncia SUKSAMA*).
 * **Barong:** Figura mitológica que representa la protección, los jóvenes de cada barrio se disfrazan y salen tocando sus instrumentos para ofrecer bendiciones, usualmente se les dan billetes pequeños a modo de ofrenda significativa. Cuando hay una ceremonia en la calle el tránsito se detiene; solo queda esperar con paciencia y disfrutar el momento.
-* **Sarong:** Tela tradicional necesaria para cubrirse las piernas al ingresar a cualquier templo sagrado.
+* **Sarong:** Tela tradicional necesaria para cubrirse las piernas al ingresar a cualquier templo sagrado. 
 
 - - -
 
