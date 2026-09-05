@@ -3,7 +3,10 @@ import { ui } from '../i18n/ui.js';
 
 const currentLang = (Astro.currentLocale || 'es') as 'es' | 'en';
 const t = ui[currentLang];
-const { isTransparent = false } = Astro.props;
+const { isTransparent = false, frontmatter } = Astro.props;
+
+// Leemos los posts en inglés forzando el tipo a any[] para evitar el error de TypeScript
+const englishPosts = Object.values(import.meta.glob('../pages/en/journal/*.md', { eager: true })) as any[];
 
 // Limpieza de ruta para evitar errores con index.html o barras sobrantes
 let rawPath = Astro.url.pathname;
@@ -14,65 +17,83 @@ if (cleanPath === '') cleanPath = '/';
 let urlEs = cleanPath; 
 let urlEn = '/en' + (cleanPath === '/' ? '' : cleanPath);
 
-// Mapeo manual para que el botón de ES | EN sepa a dónde ir
+// Mapeo estricto forzando el diccionario correspondiente a cada idioma
 if (cleanPath === '/nosotros' || cleanPath === '/about') {
-    urlEs = t['route.nosotros'];
+    urlEs = ui['es']['route.nosotros'];
     urlEn = ui['en']['route.nosotros'];
 } else if (cleanPath === '/diario' || cleanPath === '/journal') {
-    urlEs = t['route.diario'];
+    urlEs = ui['es']['route.diario'];
     urlEn = ui['en']['route.diario'];
 } else if (cleanPath === '/contacto' || cleanPath === '/contact') {
-    urlEs = t['route.contacto'];
+    urlEs = ui['es']['route.contacto'];
     urlEn = ui['en']['route.contacto'];
+} else if (cleanPath === '/colab') {
+    urlEs = ui['es']['route.colab'];
+    urlEn = ui['en']['route.colab'];
+} else if (cleanPath === '/politica-de-privacidad' || cleanPath === '/privacy-policy') {
+    urlEs = ui['es']['route.privacidad'];
+    urlEn = ui['en']['route.privacidad'];
 } else if (cleanPath.startsWith('/diario/')) {
-    // Si viene de la paginación en español (ej: /diario/2)
+    // Estamos en un post en español, buscamos su equivalente en inglés
     const suffix = cleanPath.replace('/diario/', '');
     urlEs = `/diario/${suffix}`;
-    urlEn = `/en/journal/${suffix}`; 
+    
+    const enPost = englishPosts.find((p) => p.frontmatter?.archivo_original === `${suffix}.md`);
+    urlEn = enPost?.url || '/en/journal';
+    
 } else if (cleanPath.startsWith('/journal/')) {
-    // Si viene de la paginación en inglés (ej: /en/journal/2)
-    const suffix = cleanPath.replace('/journal/', '');
-    urlEs = `/diario/${suffix}`;
-    urlEn = `/en/journal/${suffix}`; 
+    // Estamos en un post en inglés, usamos el archivo_original para volver al español
+    if (frontmatter && frontmatter.archivo_original) {
+        const esSlug = frontmatter.archivo_original.replace('.md', '');
+        urlEs = `/diario/${esSlug}`;
+    } else {
+        urlEs = '/diario';
+    }
+    urlEn = rawPath;
 }
+
+// Detectamos si estamos dentro de un post individual (solo los posts tienen frontmatter)
+const isPost = !!frontmatter;
 ---
 
 <div class={isTransparent ? "header-wrapper transparente" : "header-wrapper solido"}>
     <div id="mobile-menu-overlay" class="menu-overlay"></div>
     
     <header class="site-header">
-        <!-- El logo apunta a la raíz correspondiente usando ui.js -->
-        <h1><a href={t['route.inicio']}>BLOGCITO</a></h1>
+        <div class="logo-container">
+            <a href={t['route.inicio']} class="logo-text">BLOGCITO</a>
+        </div>
         
-        <button id="mobile-menu-btn" class="menu-toggle">☰</button>        
+        <button id="mobile-menu-btn" class="menu-toggle" aria-label="Menu">
+            <span class="hamburger-line"></span>
+            <span class="hamburger-line"></span>
+        </button>        
+        
         <nav id="main-nav">
             <ul class="nav-links">
-                <!-- Enlaces conectados directamente al diccionario -->
                 <li><a href={t['route.inicio']}>{t['nav.inicio']}</a></li>
                 <li><a href={t['route.diario']}>{t['nav.diario']}</a></li>
                 <li><a href={t['route.nosotros']}>{t['nav.nosotros']}</a></li>
                 
-                <li class="btn-buscar">
-                    <a href="#" title="Buscar" style="display: flex; align-items: center; padding-top: 2px;">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                            <circle cx="11" cy="11" r="8"></circle>
-                            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
-                        </svg>
-                    </a>
-                </li>
+                {/* Ocultamos el buscador y el selector de idiomas si estamos en un post */}
+                {!isPost && (
+                    <>
+                        <li class="btn-buscar">
+                            <a href="#" title="Buscar" class="search-icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <circle cx="11" cy="11" r="8"></circle>
+                                    <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                                </svg>
+                            </a>
+                        </li>
 
-                <!-- Selector de Idiomas con las variables limpias -->
-                <li class="lang-switcher" style="display: flex; align-items: center; gap: 8px; margin-left: 12px; font-family: monospace; font-size: 0.85rem;">
-                    <a 
-                        href={urlEs} 
-                        style={currentLang === 'es' ? 'font-weight: bold; color: #f97316;' : 'color: #a8a29e;'}
-                    >ES</a>
-                    <span style="color: #57534e;">|</span>
-                    <a 
-                        href={urlEn} 
-                        style={currentLang === 'en' ? 'font-weight: bold; color: #f97316;' : 'color: #a8a29e;'}
-                    >EN</a>
-                </li>
+                        <li class="lang-switcher">
+                            <a href={urlEs} class={currentLang === 'es' ? 'active-lang' : ''}>ES</a>
+                            <span class="lang-separator">/</span>
+                            <a href={urlEn} class={currentLang === 'en' ? 'active-lang' : ''}>EN</a>
+                        </li>
+                    </>
+                )}
             </ul>
         </nav>
     </header>
@@ -80,12 +101,12 @@ if (cleanPath === '/nosotros' || cleanPath === '/about') {
 
 <style>
     /* =========================================
-       ESTILOS BASE
+       HEADER EDITORIAL PREMIUM
        ========================================= */
     .header-wrapper {
         width: 100%;
-        z-index: 50;
-        transition: all 0.3s ease;
+        z-index: 100;
+        transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
     }
     
     .header-wrapper.transparente {
@@ -93,49 +114,161 @@ if (cleanPath === '/nosotros' || cleanPath === '/about') {
         top: 0;
         left: 0;
         background: transparent;
+        border-bottom: none;
     }
 
     .header-wrapper.solido {
-        position: relative;
-        background: var(--bg-color, #fcfcfc);
-        border-bottom: 1px solid #eee;
+        position: sticky;
+        top: 0;
+        background: rgba(244, 241, 234, 0.85); /* Crema con opacidad */
+        backdrop-filter: blur(12px);
+        -webkit-backdrop-filter: blur(12px);
+        border-bottom: 1px solid rgba(0,0,0,0.05);
     }
 
-    .header-wrapper.transparente .site-header h1 a,
-    .header-wrapper.transparente .menu-toggle,
-    .header-wrapper.transparente nav a,
-    .header-wrapper.transparente .btn-buscar svg {
+    .site-header { 
+        padding: 1.5rem 2.5rem; 
+        display: flex; 
+        justify-content: space-between; 
+        align-items: center; 
+        max-width: 1400px; 
+        margin: 0 auto; 
+        width: 100%; 
+    }
+
+    .logo-text { 
+        font-family: var(--font-display, 'Georgia', serif); 
+        font-size: 1.8rem; 
+        letter-spacing: 0.15em; 
+        text-transform: uppercase; 
+        font-weight: normal; 
+        color: var(--text-color, #333);
+        text-decoration: none;
+        transition: color 0.3s ease;
+    }
+
+    /* Logo Transparente: Blanco puro y sombra densa */
+    .header-wrapper.transparente .logo-text {
         color: #ffffff !important;
-        text-shadow: 0 2px 4px rgba(0,0,0,0.5);
+        text-shadow: 0 2px 6px rgba(0,0,0,0.9), 0 4px 16px rgba(0,0,0,0.6);
+    }
+    
+    nav ul.nav-links { 
+        list-style: none; 
+        display: flex; 
+        align-items: center;
+        gap: 2.5rem; 
+        margin: 0; 
+        padding: 0; 
     }
 
-    .header-wrapper.transparente nav a:hover {
-        color: #fde68a !important; 
+    nav a { 
+        font-family: var(--font-main, sans-serif);
+        font-size: 0.85rem; 
+        color: var(--text-color, #333); 
+        text-transform: uppercase; 
+        letter-spacing: 0.15em; 
+        font-weight: 600; 
+        text-decoration: none;
+        transition: opacity 0.3s ease, color 0.3s ease;
+    }
+
+    nav a:hover { opacity: 0.7; }
+
+    /* Enlaces Transparentes: Blanco puro y sombra densa */
+    .header-wrapper.transparente nav a,
+    .header-wrapper.transparente .search-icon svg {
+        color: #ffffff !important;
+        text-shadow: 0 2px 6px rgba(0,0,0,0.9), 0 4px 16px rgba(0,0,0,0.6);
+    }
+
+    .search-icon {
+        display: flex; 
+        align-items: center;
+    }
+
+    .lang-switcher {
+        display: flex; 
+        align-items: center; 
+        gap: 8px; 
+        font-family: var(--font-main, sans-serif); 
+        font-size: 0.8rem; 
+        letter-spacing: 0.1em;
+    }
+
+    .lang-switcher a { color: #888; transition: color 0.3s ease; font-weight: 500; }
+    .lang-switcher a.active-lang { color: var(--text-color, #333); font-weight: bold; }
+    .lang-separator { color: #ccc; font-weight: 300; }
+
+    /* Selector de idiomas Transparente */
+    .header-wrapper.transparente .lang-switcher a { 
+        color: rgba(255,255,255,0.85) !important; 
+        text-shadow: 0 2px 6px rgba(0,0,0,0.9), 0 4px 16px rgba(0,0,0,0.6);
+    }
+    .header-wrapper.transparente .lang-switcher a.active-lang { 
+        color: #ffffff !important; 
+    }
+    .header-wrapper.transparente .lang-separator { 
+        color: rgba(255,255,255,0.6) !important; 
+    }
+
+    /* Menú Hamburguesa Minimalista */
+    .menu-toggle { 
+        display: none; 
+        background: none; 
+        border: none; 
+        cursor: pointer; 
+        width: 30px;
+        height: 20px;
+        position: relative;
+        z-index: 1001;
+    }
+
+    .hamburger-line {
+        display: block;
+        width: 100%;
+        height: 2px;
+        background-color: var(--text-color, #333);
+        position: absolute;
+        transition: all 0.3s ease;
+    }
+
+    .header-wrapper.transparente .hamburger-line {
+        background-color: #ffffff !important;
+        box-shadow: 0 1px 4px rgba(0,0,0,0.8);
+    }
+
+    .hamburger-line:first-child { top: 4px; }
+    .hamburger-line:last-child { bottom: 4px; }
+
+    .menu-toggle.menu-abierto .hamburger-line:first-child {
+        transform: translateY(5px) rotate(45deg);
+        background-color: var(--text-color, #333) !important;
+        box-shadow: none;
+    }
+    .menu-toggle.menu-abierto .hamburger-line:last-child {
+        transform: translateY(-5px) rotate(-45deg);
+        background-color: var(--text-color, #333) !important;
+        box-shadow: none;
     }
 
     .menu-overlay { display: none; }
 
-    /* =========================================
-       ESTILOS DEL DRAWER (CELULARES)
-       ========================================= */
     @media (max-width: 768px) {
-        .menu-toggle {
-            position: relative;
-            z-index: 1001;
-        }
-
+        .site-header { padding: 1.2rem 1.5rem; }
+        .menu-toggle { display: block; }
+        
         .menu-overlay {
             display: block;
             position: fixed;
             top: 0; left: 0; width: 100vw; height: 100vh;
-            background: rgba(0,0,0,0.6);
+            background: rgba(0,0,0,0.4);
+            backdrop-filter: blur(4px);
             z-index: 990;
             opacity: 0; pointer-events: none;
-            transition: opacity 0.3s ease;
+            transition: opacity 0.4s ease;
         }
-        .menu-overlay.menu-open {
-            opacity: 1; pointer-events: auto;
-        }
+        .menu-overlay.menu-open { opacity: 1; pointer-events: auto; }
 
         #main-nav { 
             display: flex; 
@@ -143,41 +276,31 @@ if (cleanPath === '/nosotros' || cleanPath === '/about') {
             position: fixed; 
             top: 0; 
             right: 0; 
-            width: 260px; 
+            width: 80vw; 
+            max-width: 320px;
             height: 100vh; 
-            background-color: var(--bg-color, #f4f1ea); 
-            box-shadow: -5px 0 15px rgba(0,0,0,0.2); 
+            background-color: #f4f1ea; 
+            box-shadow: -10px 0 30px rgba(0,0,0,0.1); 
             z-index: 1000; 
-            padding: 6rem 1.5rem 2rem; 
+            padding: 6rem 2rem 2rem; 
             transform: translateX(100%);
-            transition: transform 0.3s ease-in-out;
+            transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1);
         }
         
-        #main-nav.menu-open { 
-            transform: translateX(0);
-        }
+        #main-nav.menu-open { transform: translateX(0); }
         
-        #main-nav ul.nav-links { 
-            display: flex;
+        nav ul.nav-links { 
             flex-direction: column; 
-            gap: 2.5rem; 
-            align-items: center;
-            padding: 0;
-            margin: 0;
+            gap: 2rem; 
+            align-items: flex-start; 
         }
 
-        .header-wrapper.transparente #main-nav a,
-        .header-wrapper.transparente #main-nav .btn-buscar svg,
-        #main-nav a,
-        #main-nav .btn-buscar svg {
-            color: #333 !important;
-            text-shadow: none !important;
-            font-size: 1.1rem;
-        }
+        nav a { font-size: 1.2rem; color: #333 !important; text-shadow: none !important; }
+        .search-icon svg { color: #333 !important; width: 24px; height: 24px; }
         
-        .menu-toggle.menu-abierto {
-            color: #333 !important;
-            text-shadow: none !important;
-        }
+        .lang-switcher { margin-top: 2rem; font-size: 1rem; }
+        .lang-switcher a { color: #888 !important; text-shadow: none !important; }
+        .lang-switcher a.active-lang { color: #333 !important; }
+        .lang-separator { color: #ccc !important; text-shadow: none !important; }
     }
 </style>

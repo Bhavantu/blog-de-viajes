@@ -32,12 +32,16 @@ if (featuredPosts.length < 3) {
   isTransparentHeader={true}
 >
 
-    <!-- HERO SECTION -->
-    <section class="hero-inicio" style="background-image: url('/img/diario/UBUD3.webp');">
-        <div class="hero-overlay"></div>
+   <!-- IMMERSIVE HERO EDITORIAL -->
+    <section class="hero-immersive-home">
+        <div class="hero-bg">
+            <img src="/img/diario/UBUD3.webp" alt="Viaje a Bali" />
+            <div class="hero-scrim"></div>
+        </div>
         
-        <div class="hero-contenido-interno relative z-10">
-            <h1 class="hero-title">Descubriendo nuevos mundos a paso lento</h1>
+        <div class="hero-content">
+            <!-- Eliminamos el badge para un look más limpio -->
+            <h1 class="hero-title">Descubriendo<br/>nuevos mundos<br/>a paso lento.</h1>
             <p class="hero-subtitle">
                 Guías honestas y presupuestos transparentes para viajar con respeto cultural, trabajar en ruta y habitar nuevos territorios a tu propio ritmo.
             </p>
@@ -261,62 +265,98 @@ if (featuredPosts.length < 3) {
     }
 
     /* ============================================================
-       ESTILOS DEL HERO PRINCIPAL
+       ESTILOS DEL HERO PRINCIPAL (IMMERSIVE EDITORIAL)
        ============================================================ */
-    .hero-inicio {
+    .hero-immersive-home {
         position: relative;
         width: 100%;
-        min-height: 100vh;
+        min-height: 100svh;
         display: flex;
-        align-items: center;
-        justify-content: center;
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
-        text-align: center;
-        padding: 2rem;
+        align-items: center; 
+        /* AUMENTAMOS EL PADDING TOP (de 8rem a 14rem) para separar del nav */
+        padding: 14rem 2rem 4rem 2rem;
+        overflow: hidden;
         margin-top: -120px; 
-        padding-top: 120px; 
     }
 
-    .hero-overlay {
+    .hero-content {
+        position: relative;
+        z-index: 10;
+        width: 100%;
+        max-width: 1100px;
+        margin: 0 auto;
+        color: #ffffff;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start; 
+    }
+    
+    /* Puedes borrar la clase .hero-badge {} ya que la eliminamos del HTML */
+
+    .hero-bg {
         position: absolute;
-        top: 0;
-        left: 0;
+        inset: 0;
+        z-index: 0;
+        background-color: #111;
+    }
+
+    .hero-bg img {
         width: 100%;
         height: 100%;
-        background: rgba(0, 0, 0, 0.45); 
-        z-index: 1;
+        object-fit: cover;
+        transform: scale(1.05);
+        animation: slowZoomHome 25s ease-out forwards;
+        will-change: transform;
     }
 
-    .hero-contenido-interno {
-        position: relative;
-        z-index: 2;
-        max-width: 800px;
-        color: #ffffff;
+    .hero-scrim {
+        position: absolute;
+        inset: 0;
+        /* Gradiente complejo: Oscuro arriba para el Nav, oscuro a la izquierda para el texto */
+        background: linear-gradient(to right, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.3) 50%, rgba(0,0,0,0.1) 100%),
+                    linear-gradient(to bottom, rgba(0,0,0,0.6) 0%, transparent 20%, rgba(0,0,0,0.4) 100%);
     }
 
-    .hero-inicio .hero-title {
-        font-family: var(--font-display);
-        font-size: 3.5rem;
-        line-height: 1.1;
+    
+
+    .hero-immersive-home .hero-title {
+        font-family: var(--font-display, 'Georgia', serif);
+        /* Reducido el tamaño máximo de 5.5rem a 4.5rem */
+        font-size: clamp(2.5rem, 5vw + 1rem, 4.5rem);
+        line-height: 1.05;
         margin-bottom: 1.5rem;
         font-weight: normal;
-        text-shadow: 0 2px 10px rgba(0,0,0,0.4);
+        color: #ffffff;
+        letter-spacing: -0.02em;
+        text-wrap: balance;
+        /* Sombra más densa para legibilidad */
+        text-shadow: 0 2px 4px rgba(0,0,0,0.8), 0 4px 16px rgba(0,0,0,0.5);
+        opacity: 0;
+        transform: translateY(20px);
+        animation: fadeUpHome 0.8s cubic-bezier(0.16, 1, 0.3, 1) 0.15s forwards;
     }
-
-    .hero-inicio .hero-subtitle {
-        font-size: 1.15rem;
+    
+    .hero-immersive-home .hero-subtitle {
+        font-family: var(--font-main, 'Helvetica Neue', sans-serif);
+        font-size: clamp(1.05rem, 2vw, 1.2rem);
         line-height: 1.6;
-        margin-bottom: 3rem;
-        text-shadow: 0 1px 5px rgba(0,0,0,0.6);
-        color: #f4f1ea;
+        margin-bottom: 2.5rem;
+        color: #e5e7eb;
+        max-width: 50ch;
+        text-wrap: pretty;
+        /* Sombra más densa para legibilidad */
+        text-shadow: 0 2px 4px rgba(0,0,0,0.8), 0 4px 12px rgba(0,0,0,0.5);
+        opacity: 0;
+        transform: translateY(20px);
+        animation: fadeUpHome 0.8s cubic-bezier(0.16, 1, 0.3, 1) 0.3s forwards;
     }
 
     .hero-actions {
         display: flex;
-        gap: 1.5rem;
-        justify-content: center;
+        gap: 1rem;
+        opacity: 0;
+        transform: translateY(20px);
+        animation: fadeUpHome 0.8s cubic-bezier(0.16, 1, 0.3, 1) 0.45s forwards;
     }
 
     .btn-primary {
@@ -339,7 +379,9 @@ if (featuredPosts.length < 3) {
     }
 
     .btn-secondary {
-        background-color: transparent;
+        background-color: rgba(255, 255, 255, 0.1);
+        backdrop-filter: blur(8px);
+        -webkit-backdrop-filter: blur(8px);
         color: #ffffff;
         padding: 14px 32px;
         border-radius: 8px;
@@ -348,51 +390,54 @@ if (featuredPosts.length < 3) {
         text-transform: uppercase;
         letter-spacing: 0.05em;
         font-size: 0.9rem;
-        border: 1px solid #ffffff;
+        border: 1px solid rgba(255, 255, 255, 0.4);
         transition: all 0.3s ease;
     }
 
     .btn-secondary:hover {
-        background-color: #ffffff;
-        color: #333333;
+        background-color: rgba(255, 255, 255, 0.25);
+        border-color: #ffffff;
+        transform: translateY(-2px);
+    }
+
+    @keyframes fadeUpHome {
+        to { opacity: 1; transform: translateY(0); }
+    }
+
+    @keyframes slowZoomHome {
+        from { transform: scale(1); }
+        to { transform: scale(1.1); }
     }
 
     @media (max-width: 768px) {
-        .hero-inicio {
-            min-height: 100vh !important;
-            margin-top: 0 !important; 
-            padding: 130px 1.5rem 3rem 1.5rem !important; 
-            align-items: flex-start !important; 
-            margin-bottom: 2rem !important;
+        .hero-immersive-home {
+            align-items: center;
+            text-align: center;
+            padding: 8rem 1.5rem 4rem 1.5rem;
         }
-
-        .hero-contenido-interno {
-            width: 100% !important;
-            margin-top: 2rem !important; 
+        .hero-content {
+            align-items: center;
         }
-        
         .hero-badge {
-            font-size: 0.7rem !important;
-            margin-bottom: 1.5rem !important;
+            justify-content: center;
         }
-
-        .hero-inicio .hero-title {
-            font-size: 2.2rem !important;
-            margin-bottom: 1rem !important;
+        .hero-badge::before {
+            display: none;
         }
-
-        .hero-inicio .hero-subtitle {
-            font-size: 1.05rem !important;
-            margin-bottom: 2rem !important;
+        .hero-immersive-home .hero-subtitle {
+            margin-left: auto;
+            margin-right: auto;
         }
-
         .hero-actions {
             flex-direction: column;
-            gap: 1rem;
+            width: 100%;
         }
-        
         .btn-primary, .btn-secondary {
             width: 100%;
+        }
+        .hero-scrim {
+            /* En móvil oscurecemos más parejo para asegurar lectura centrada */
+            background: linear-gradient(to bottom, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.4) 50%, rgba(0,0,0,0.7) 100%);
         }
     }
 

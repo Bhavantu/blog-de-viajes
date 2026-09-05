@@ -70,7 +70,7 @@ Nuestro objetivo era realmente hacer una base y ordenar nuestras tareas, trabajo
   **Datos importantes:**
 * **La visita es 100% necesaria antes de alquilar**, ya que muchos departamentos tienen fotos desactualizadas.
 * **No te quedes con el primero que veas** (a menos que sea espectacular). Nosotros esperamos más de lo planeado y al 4.º día encontramos un departamento a estrenar a 6 cuadras de la playa por unos USD 380 por mes que nos encantó.
-* **La conectividad es clave:** El Internet es fundamental para ir de un apartamento a otro durante las visitas, disfrutar de la playa, comunicarte con los vendedores e incluso traducir el menú en restaurantes locales. Y no lo digo solo porque el programa de referidos ayuda a sostener el blog, sino también porque nos pasó de desencontrarnos con el vendedor (envían ubicación aproximada) y fue una auténtica catástrofe, completamente innecesaria.
+* **La conectividad es clave:** El Internet es fundamental para ir de un apartamento a otro durante las visitas, disfrutar de la playa, comunicarte con los vendedores e incluso traducir el menú en restaurantes locales. Y no lo digo solo porque el programa de referidos ayuda a sostener el blog, sino también porque nos desencontramos con el vendedor (envían ubicación aproximada) y fue una auténtica catástrofe, completamente innecesaria.
 
 [Haciendo clic acá podés ver los costos de la eSIM de Airalo para Vietnam y nos ayudás a seguir escribiendo este blog.](https://airalo.tpx.lu/8J5sLaD4?trs=543244&journey_id=hQDHE4wKI6C0e9jzSOJIG&trace_id=Zze69c17847a274d7a86df7ea-743383&promo_kind=tp_short_with_tooltip_widget&page_url=https%3A%2F%2Fblogcito.com%2Fdiario%2Fque-hacer-ubud-bali-que-ver-zonas-consejos-guia%2F&product_type=tp_manual&install_type=partner&is_tooltip=true&tooltip_subtype=main_page&promo_subkind=tooltip_desktop_general)
 
@@ -101,7 +101,7 @@ Aunque el costo no varía tanto, hay muchas opciones y en realidad es más sobre
 * **El tráfico en Vietnam:** Se caracteriza por su volumen de motos: requiere estar muy atento, saber manejar y ser paciente. Es por eso que otra buena opción es:
 * **Apps de traslado (Grab / Gojek):** Es una opción segura y sin riesgos para moverse a puntos de interés en moto o en auto. Como los restaurantes y mercados locales están a distancias caminables dentro de los barrios, en realidad el gasto es mínimo. También funcionan para pedir comida a domicilio.
 
-## Tienen un costo deManejo del dinero: ¿Efectivo o tarjeta?
+## Manejo del dinero: ¿Efectivo o tarjeta?
 
 En Vietnam el efectivo es el rey.
 

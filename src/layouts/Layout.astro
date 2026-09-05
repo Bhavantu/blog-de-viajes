@@ -93,8 +93,7 @@ const t = ui[currentLang as keyof typeof ui];
 
     </head>
     <body>
-        <Header isTransparent={isTransparentHeader} />
-
+        <Header isTransparent={isTransparentHeader} frontmatter={frontmatter} />
         <slot />
 
         <!-- Inyectamos los recomendados solo si existe un país -->

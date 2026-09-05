@@ -3,35 +3,127 @@ const {
   title = "", 
   subtitle = "", 
   description = "", 
-  bgImage = "" 
+  bgImage = "",
+  loading = "eager",
+  fetchpriority = "high"
 } = Astro.props;
 ---
 
-<div 
-  class="relative w-full h-[60vh] md:h-[75vh] flex items-center justify-center bg-cover bg-center"
-  style={`background-image: linear-gradient(rgba(0, 0, 0, 0.20), rgba(0, 0, 0, 0.4)), url('${bgImage}');`}
->
-  <!-- Cambiamos px-4 por px-8 en móvil, pero mantenemos px-4 en pantallas grandes (md:px-4) -->
-  <div class="text-center text-white px-8 md:px-4 max-w-3xl z-10 flex flex-col items-center">
-    
-    {subtitle && (
-      <span class="text-xs md:text-sm tracking-[0.3em] uppercase font-semibold text-gray-200 block mb-3">
-        {subtitle}
-      </span>
-    )}
-    
-    <!-- Usamos set:html para que Astro procese el salto de línea correctamente -->
-    <h1 
-      class="text-4xl md:text-6xl font-bold tracking-tight mb-4 font-serif text-white leading-tight"
-      set:html={title}
-    >
-    </h1>
-    
-    {description && (
-      <p class="text-base md:text-lg text-gray-100 max-w-xl mx-auto font-light leading-relaxed">
-        {description}
-      </p>
-    )}
-
+<section class="hero-cinematic">
+  <div class="hero-bg">
+    <img 
+      src={bgImage} 
+      alt={title.replace(/<[^>]*>?/gm, '')} 
+      loading={loading} 
+      fetchpriority={fetchpriority} 
+    />
+    <div class="hero-scrim"></div>
   </div>
-</div>
+  
+  <div class="hero-content">
+    {subtitle && <span class="hero-subtitle">{subtitle}</span>}
+    <h1 class="hero-title" set:html={title}></h1>
+    {description && <p class="hero-description">{description}</p>}
+  </div>
+</section>
+
+<style>
+  .hero-cinematic {
+    position: relative;
+    width: 100%;
+    /* Altura igualada a la página de inicio */
+    height: 100svh; 
+    min-height: 500px;
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    text-align: center;
+    padding: 8rem 2rem 4rem;
+    overflow: hidden;
+    margin-bottom: 4rem;
+    margin-top: -120px; 
+  }
+
+  .hero-bg {
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+    background-color: #111;
+  }
+
+  .hero-bg img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transform: scale(1.05);
+    animation: slowZoom 20s ease-out forwards;
+  }
+
+  .hero-scrim {
+    position: absolute;
+    inset: 0;
+    /* Gradiente más oscuro para asegurar contraste en el Nav y el texto central */
+    background: linear-gradient(to bottom, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0.1) 50%, rgba(0,0,0,0.6) 100%);
+  }
+
+  .hero-content {
+    position: relative;
+    z-index: 10;
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .hero-subtitle {
+    font-family: var(--font-main, 'Helvetica Neue', sans-serif);
+    font-size: 0.85rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    margin-bottom: 1.5rem;
+    color: #e6fffa;
+    font-weight: 600;
+    text-shadow: 0 2px 4px rgba(0,0,0,0.8), 0 4px 12px rgba(0,0,0,0.5);
+    opacity: 0;
+    transform: translateY(20px);
+    animation: fadeUp 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  }
+
+  .hero-title {
+    font-family: var(--font-display, 'Georgia', serif);
+    font-size: clamp(2.5rem, 5vw + 1rem, 4.5rem);
+    font-weight: normal;
+    line-height: 1.1;
+    letter-spacing: -0.02em;
+    margin-bottom: 1.5rem;
+    text-wrap: balance;
+    text-shadow: 0 2px 4px rgba(0,0,0,0.8), 0 4px 16px rgba(0,0,0,0.5);
+    opacity: 0;
+    transform: translateY(20px);
+    animation: fadeUp 0.8s cubic-bezier(0.16, 1, 0.3, 1) 0.15s forwards;
+  }
+
+  .hero-description {
+    font-family: var(--font-main, 'Helvetica Neue', sans-serif);
+    font-size: clamp(1rem, 1.5vw, 1.15rem);
+    line-height: 1.6;
+    max-width: 600px;
+    color: #e5e7eb;
+    text-shadow: 0 2px 4px rgba(0,0,0,0.8), 0 4px 12px rgba(0,0,0,0.5);
+    opacity: 0;
+    transform: translateY(20px);
+    animation: fadeUp 0.8s cubic-bezier(0.16, 1, 0.3, 1) 0.3s forwards;
+  }
+
+  @keyframes slowZoom {
+    from { transform: scale(1); }
+    to { transform: scale(1.1); }
+  }
+
+  @keyframes fadeUp {
+    to { opacity: 1; transform: translateY(0); }
+  }
+</style>
