@@ -33,7 +33,7 @@ Da nang es una zona de 1.2 millones de habitantes de los cuales el 98% son local
 
 ### Las zonas principales:
 
-<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/playa-my-khe-beach-2.webp" alt="Imagen de bitácora"><span class="img-caption">My khe beach, barrio Mỹ An</span></div>
+<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/playa-my-khe-beach-2.jpeg" alt="Imagen de bitácora"><span class="img-caption">My khe beach, barrio Mỹ An</span></div>
 
 * **An Thuong / Mỹ An (El barrio nómada y costero):** Se encuentra a pasos de la playa Mỹ Khê, está lleno de cafés para trabajar, coworkings, bares y ambiente internacional.
 
@@ -42,8 +42,9 @@ Da nang es una zona de 1.2 millones de habitantes de los cuales el 98% son local
   * **Opción económica:** [Trissy House A4](https://www.booking.com/hotel/vn/trissy-house-a4.html) (limpio, sencillo y a pasos del mar).
   * **Relación precio-calidad:** [Celestine Homestay](https://www.booking.com/hotel/vn/celestine-homestay.html) (muy cómodo para trabajar los primeros días).
   * **Opción confort / departamento equipado:** [Lucky Apartment and Cafe](https://www.booking.com/hotel/vn/lucky-apartment-and-cafe-ngu-hanh-son.html) (ideal si buscás cocina propia desde el día 1).
+* **Hải Châu (El centro local junto al río Hàn):** Zona urbana, tranquila y más auténtica. Ideal para encontrar departamentos más amplios a menor precio y disfrutar de la caminata por la ribera.
 
-\* \*\*Hải Châu (El centro local junto al río Hàn):\** Zona urbana, tranquila y más auténtica. Ideal para encontrar departamentos más amplios a menor precio y disfrutar de la caminata por la ribera.
+  <div class="post-img-box img-completo img-centro"><img src="/img/diario/puente-del-dragon-lanzando-fuego-vietnam-da-nang.webp" alt="Imagen de bitácora"><span class="img-caption">Puente del dragón lanzando fuego </span></div>
 
 ### Hospedajes recomendados en el centro:
 
@@ -115,15 +116,21 @@ Este presupuesto está basado en nuestra experiencia a partir del cálculo de 1 
 
 El presupuesto engloba lo básico, habría que sumarle cosas como entradas a atracciones turísticas, masajes y/o compras. Como siempre, dependerá de tu estilo de vida. En este presupuesto real y cómodo para dos, cocinamos, salimos a comer 2 veces por semana (en general a restaurantes locales) y vivimos en el departamento que nos gustó por **USD 637.96 por mes**.
 
-| Concepto                                             | VND (Dong)     | USD        | EUR        |
-| ---------------------------------------------------- | -------------- | ---------- | ---------- |
-| Alquiler mensual (incluye gastos comunes y limpieza) | 9.950.000      | 381.26     | 348.80     |
-| Electricidad                                         | 750.000        | 28.77      | 26.33      |
-| Supermercado y mercado local                         | 3.571.931      | 76.74      | 70.25      |
-| Salir a comer                                        | 1.042.899      | 42.19      | 38.62      |
-| Café y jugos                                         | 521.450        | 20.00      | 18.31      |
-| Alquiler de moto                                     | 1.850.000      | 71.00      | 65.00      |
-| **Total**                                            | **17.686.280** | **619.96** | **567.31** |
+# Presupuesto de Gastos en Vietnam (Actualizado)
+
+| Concepto | VND (Dong) | USD | EUR |
+| :--- | :--- | :--- | :--- |
+| Alquiler mensual (incluye gastos comunes y limpieza) | 9.950.000 | 381,66 | 349,37 |
+| Electricidad | 750.000 | 28,77 | 26,33 |
+| Supermercado y mercado local | 3.971.931 | 152,36 | 139,46 |
+| Salir a comer | 1.042.899 | 40,00 | 36,62 |
+| Café y jugos | 521.450 | 20,00 | 18,31 |
+| Alquiler de moto | 1.850.000 | 70,96 | 64,96 |
+| **Total** | **18.086.280** | **693,75** | **635,05** |
+
+### **Referencias de Conversión**
+  * **1 USD** = 26.070 VND
+  * **1 EUR** = 28.480 VND
 
 ## Salir a comer y cafés
 
