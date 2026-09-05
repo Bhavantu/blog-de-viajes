@@ -33,7 +33,7 @@ Da nang es una zona de 1.2 millones de habitantes de los cuales el 98% son local
 
 ### Las zonas principales:
 
-<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/playa-my-khe-beach-2.jpeg" alt="Imagen de bitácora"><span class="img-caption">My khe beach, barrio Mỹ An</span></div>
+<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/playa-my-khe-beach-2.webp" alt="Imagen de bitácora"><span class="img-caption">My khe beach, barrio Mỹ An</span></div>
 
 * **An Thuong / Mỹ An (El barrio nómada y costero):** Se encuentra a pasos de la playa Mỹ Khê, está lleno de cafés para trabajar, coworkings, bares y ambiente internacional.
 

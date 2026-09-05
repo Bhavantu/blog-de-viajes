@@ -31,6 +31,27 @@ const isGaleria = Astro.url.pathname.includes('/galeria');
 
 const currentLang = Astro.currentLocale || 'es';
 
+// ==========================================
+// NUEVO: LÓGICA SEO INTERNACIONAL (CANONICAL Y HREFLANG)
+// ==========================================
+const sitioBase = 'https://blogcito.com';
+
+// Normalizamos el path para no tener barra final y evitar bucles
+let safePath = Astro.url.pathname;
+if (safePath.endsWith('/') && safePath.length > 1) {
+    safePath = safePath.slice(0, -1);
+}
+
+// El path actual exacto (para que Google sepa que esta es la versión oficial de esta URL)
+const urlCanonical = `${sitioBase}${safePath === '/' ? '' : safePath}`;
+
+// Construimos la base limpia para vincular el español y el inglés
+const cleanPath = safePath.startsWith('/en') ? safePath.replace(/^\/en/, '') : safePath;
+
+const urlAlternativaEs = `${sitioBase}${cleanPath === '' ? '/' : cleanPath}`;
+const urlAlternativaEn = `${sitioBase}/en${cleanPath === '' ? '' : cleanPath}`;
+// ==========================================
+
 // Inyectamos el diccionario
 const t = ui[currentLang as keyof typeof ui];
 ---
@@ -55,6 +76,12 @@ const t = ui[currentLang as keyof typeof ui];
         <meta property="og:title" content={title} />
         <meta property="og:description" content={metaDescription} />
         <meta property="og:type" content="website" />
+
+        <!-- Etiquetas SEO Internacional (Canonical y Hreflang) -->
+        <link rel="canonical" href={urlCanonical} />
+        <link rel="alternate" hreflang="es" href={urlAlternativaEs} />
+        <link rel="alternate" hreflang="en" href={urlAlternativaEn} />
+        <link rel="alternate" hreflang="x-default" href={urlAlternativaEs} />
 
         <meta name="google-adsense-account" content="ca-pub-3901046224634106">
        
