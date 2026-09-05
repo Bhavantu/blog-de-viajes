@@ -307,11 +307,10 @@ Dónde quedarse en Nusa Pénida
 
 ##### [La Marrocco Villas](https://www.booking.com/hotel/id/la-marrocco-villas.html?aid=2440493)
 
-* 📍 **Ubicación:** Costa oeste de Nusa Penida (área de Sakti / vista panorámica al océano).
-* 🌿 **Entorno:** Vistas abiertas al mar y privacidad absoluta (propiedad solo apta para adultos).
-* 📝 **Descripción:** Un espacio que simula un cuento de hadas. Este palacio de estilo marroquí ofrece confort total con piscina privada, living, cocina equipada, terraza amplia y un pequeño jardín ideal para descansar.
+* 📍 **Ubicación:** Costa norte de Nusa Penida (área de Ped, directo sobre la playa).
+* 🌿 **Entorno:** Frente al mar con arrecife para snorkel y privacidad absoluta (propiedad solo para adultos).
+* 📝 **Descripción:** Parece sacado de un cuento de las mil y una noches. Su marcada arquitectura árabe y marroquí, con arcos y cúpulas de terracota frente al mar, crea una atmósfera única. Ofrece confort total con piscina privada, cocina equipada, terraza amplia y salida directa a la playa para hacer snorkel entre corales.
 * 💰 **Precio estimado:** 130 a 220 USD / 120 a 200 EUR (~2.300.000 - 3.900.000 IDR) por noche.
-
 - - -
 
 ## Glosario básico balinés
