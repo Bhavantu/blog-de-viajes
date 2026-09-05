@@ -25,7 +25,7 @@ Para la experiencia de slow travel o nómada digital, hay actividades para más 
 
 💵 **Moneda:** Rupia indonesia (IDR). El efectivo es el rey para gastos diarios. </div>
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/mapa-turistico-de-bali-que-ver-.jpeg" alt="Imagen de bitácora"><span class="img-caption">Mapa turístico de Bali por zonas</span></div>
+<div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 ## Qué necesitás saber antes de viajar a Bali, Indonesia
 
