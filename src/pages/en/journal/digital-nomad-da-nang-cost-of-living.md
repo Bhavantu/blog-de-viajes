@@ -1,10 +1,10 @@
 ---
-layout: ../../layouts/BlogPostLayout.astro
-title: What It's Like Living as a Digital Nomad in Vietnam: Da Nang Cost of Living Breakdown
+layout: ../../../layouts/BlogPostLayout.astro
+title: "What It's Like Living as a Digital Nomad in Vietnam: Da Nang Cost of Living Breakdown"
 date: 2026-08-31T17:52:00.000+08:00
 tag: vida local
 pais: Vietnam
-description: Thinking about moving to Vietnam? Here is our realistic cost of living breakdown in Da Nang for two digital nomads, how to find monthly apartment rentals, and essential tips for settling in.
+description: "Thinking about moving to Vietnam? Here is our realistic cost of living breakdown in Da Nang for two digital nomads, how to find monthly apartment rentals, and essential tips for settling in."
 main_image: /img/diario/playa-my-khe-beach-.webp
 ---
 Vietnam is rapidly emerging as one of the world’s premier hubs for remote workers. It is a vast country with drastically different microclimates and weather patterns across regions. For our initial stay between August and September, we chose to set up our base in the central coastal city of Da Nang.
