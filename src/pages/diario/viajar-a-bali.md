@@ -13,33 +13,36 @@ main_image: /img/diario/nusa-penida-village-temple.webp
 
 Hay muchos mitos, prejuicios y expectativas sobre Bali, pero lo cierto es una cosa: La Isla de los Dioses tiene realmente algo mágico. Entre su gente amable, la espiritualidad activa y su naturaleza exuberante, es un destino que vale la pena conocer. Si estás organizando tu viaje, ya sean unas vacaciones soñadas, una escapada, una aventura mochilera o una temporada de nómada digital, en esta guía reunimos todo lo que nos hubiera gustado saber antes de ir a Bali, la logística real y los datos prácticos actualizados para 2026. La idea es simple: que planifiques a tu ritmo, sin perderte en el intento, para eso creamos esta guía con la información clave y una descripción de las principales zonas a conocer, cómo son y dónde quedarse en Bali.
 
-<div style="background-color: #eef6fb; border-left: 5px solid #0284c7; padding: 16px; margin: 20px 0; border-radius: 4px;">
+<div style="background-color: #eef6fb; border-left: 5px solid #0284c7; padding: 16px; margin: 20px 0; border-radius: 4px;"> Bali en resumen: Lo imprescindible para tu primer viaje
 
-### Bali en resumen: Lo imprescindible para tu primer viaje
+🗓️ **¿Cuánto tiempo quedarse?** Mínimo 7 días, recomendamos 15 días para recorrer diferentes puntos de la isla. 
 
-* 🗓️ **¿Cuánto tiempo quedarse?** Mínimo 7 días para visitar 2 zonas, o 15 días o más para recorrer diferentes puntos de la isla. Para la experiencia de slow travel o nómada digital, hay actividades para más de 1 mes.
-* 🚗 **¿Cómo moverse?** Grab (para tramos cortos o moto), chofer privado para traslados largos entre pueblos o alquiler de moto para conductores experimentados en Asia.
-* 🏖️ **Mejor época:** De mayo a octubre (temporada seca).
-* 💵 **Moneda:** Rupia indonesia (IDR). Conviene llevar tarjeta para cajeros y efectivo siempre para gastos diarios.
+Para la experiencia de slow travel o nómada digital, hay actividades para más de 1 mes.
 
-</div>
+🚗 **¿Cómo moverse?** Grab, chofer privado o alquiler de moto (para conductores experimentados en Asia).
+
+🏖️ **Mejor época:** De mayo a octubre (temporada seca).
+
+💵 **Moneda:** Rupia indonesia (IDR). El efectivo es el rey para gastos diarios. </div>
 
 ## Qué necesitás saber antes de viajar a Bali, Indonesia
 
 Para quienes estén planeando sus primeros pasos en la isla, acá resumimos la logística:
 
-* ✈️ **Aeropuerto de llegada:** Aeropuerto Internacional Ngurah Rai (Denpasar - DPS).
-* 🛂 **Requisitos de viaje:** 
-* **Pasaporte** con al menos 6 meses de vigencia. 
-* **Visa**: Chequeá si tu país requiere tramitar la Visa On Arrival (VOA) al ingresar. Para evitar filas largas, nosotros completamos el trámite de la e-VOA por internet antes de volar y nos otorgaron un código QR. En el aeropuerto el trámite fue fluido: escanear pasaporte, mostrar el QR y retirar equipaje. El costo de la VOA es de **500.000 IDR** (unos 32 USD / 29 EUR). Requisitos oficiales en la [página de migraciones de Indonesia](https://indonesia-arrival.com/register/apply?gad_source=1&gad_campaignid=24052266141&gbraid=0AAAABBUdEIlmTGZ8HBovgruZW8mM1fpU2&gclid=Cj0KCQjw16_UBhCqARIsAIdOaXwPakPFep4yHAwa3JjGuvQAqgUUc9PJRipQg-Wy3D0FcE6gXthxwicaAi_iEALw_wcB).
-* 💰 **Moneda y Cambio (Referencia 2026):** Rupia Indonesia (IDR). Conviene tener efectivo para los primeros gastos, no aceptan monedas extranjeras.
+* **Aeropuerto de llegada:** Aeropuerto Internacional Ngurah Rai (Denpasar - DPS).
+* **Requisitos de viaje:** 
+
+  **1. Pasaporte** con al menos 6 meses de vigencia. 
+
+  **2. Visa**: Chequeá si tu país requiere tramitar la Visa On Arrival (VOA) al ingresar. Para evitar filas largas, nosotros completamos el trámite de la e-VOA por internet antes de volar y nos otorgaron un código QR. En el aeropuerto el trámite fue fluido: escanear pasaporte, mostrar el QR y retirar equipaje. El costo de la VOA es de **500.000 IDR** (unos 32 USD / 29 EUR). Requisitos oficiales en la [página de migraciones de Indonesia](https://indonesia-arrival.com/register/apply?gad_source=1&gad_campaignid=24052266141&gbraid=0AAAABBUdEIlmTGZ8HBovgruZW8mM1fpU2&gclid=Cj0KCQjw16_UBhCqARIsAIdOaXwPakPFep4yHAwa3JjGuvQAqgUUc9PJRipQg-Wy3D0FcE6gXthxwicaAi_iEALw_wcB).
+* **Moneda y Cambio (Referencia 2026):** Rupia Indonesia (IDR). Conviene tener efectivo para los primeros gastos, no aceptan monedas extranjeras.
 
   Referencia: Al principio marea manejar tantos ceros, así que podés calcular que **1 USD equivale a unas 17.800 IDR**, y **1 EUR ronda las 19.300 IDR**. El billete de mayor denominación (100.000 IDR, de color rojo) equivale a poco menos de 6 USD (o 5,20 EUR).
-* 🗓️ **Temporadas para viajar:**
+* **Temporadas para viajar:**
 
   * ☀️ **Temporada seca (mayo a octubre):** La época más recomendada. Días soleados, menor humedad y pocas lluvias, lo que facilita andar en moto y disfrutar la playa.
   * 🌧️ **Temporada de lluvias (noviembre a abril):** Los precios bajan y hay menos turismo, pero los chubascos tropicales son frecuentes.
-* 🛕 **Cultura local:** 
+* **Cultura local:** 
 
   La religión mayoritaria en la isla es el hinduismo balinés. El idioma local es el balinés, la lengua oficial del país es el Bahasa Indonesia, y el inglés se habla ampliamente en zonas turísticas. Para profundizar en sus costumbres y la vida cotidiana, podés leer nuestro artículo dedicado: [El alma de Bali: Rituales, la familia y el secreto de la felicidad balinesa](https://blogcito.com/diario/el-alma-de-bali/).
 
@@ -71,11 +74,11 @@ Nosotros hicimos varios trayectos con Anderson, un chofer con excelente predispo
 
 ## Comida y agua: Salud y presupuestos
 
-Para alimentarte en el día a día, los **Warungs** (pequeños locales familiares) son la mejor opción. Sirven gastronomía indonesia tradicional, sabrosa y muy económica:
+Para comer en el día a día, los **Warungs** (locales familiares) son la mejor opción. Sirven platos tradicionales de Indonesia. sabrosa y muy económica:
 
 * 🍲 **Nasi Goreng:** Arroz frito salteado con vegetales, huevo y especias (se puede pedir versión vegetariana).
 * 🍜 **Mie Goreng:** Fideos salteados con verduras y tempeh o tofu (opción vegetariana).
-* 🥗 **Gado-Gado:** Ensalada de verduras al vapor, huevo duro, tofu y tempeh con salsa de maní (100% vegetariano).
+* 🥗 **Gado-Gado:** Ensalada de verduras al vapor, huevo duro, tofu y tempeh con salsa de maní.
 * 🍢 **Sate (Satay):** Brochetas de pollo, cerdo o pescado a la parrilla con salsa de maní.
 
 Comer en un warung cuesta entre **25.000 y 45.000 IDR** (1,50 a 2,80 USD / 1,30 a 2,40 EUR) por plato. En restaurantes orientados al turismo los precios van de **80.000 a 150.000 IDR** (5 a 9,50 USD / 4,30 a 8,20 EUR). A tener en cuenta: la mayoría de los restaurantes turísticos suman entre un 10% y un 15% adicional por impuestos y servicio (Tax & Service).
