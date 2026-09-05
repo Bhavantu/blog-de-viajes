@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPostLayout.astro
 title: "Guía de viaje a Bali 2026: Consejos, zonas, transporte y gastronomía"
-date: 2026-08-23T17:47:00.000+08:00
+date: 2026-09-05T14:53:00.000+08:00
 tag: guia de viaje
 pais: Indonesia
 description: ¿Planeando tu primer viaje a Bali? Descubre requisitos de entrada,
@@ -24,6 +24,8 @@ Para la experiencia de slow travel o nómada digital, hay actividades para más 
 🏖️ **Mejor época:** De mayo a octubre (temporada seca).
 
 💵 **Moneda:** Rupia indonesia (IDR). El efectivo es el rey para gastos diarios. </div>
+
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/que-hacer-en-bali-mapa-interactivo-.webp" alt="Imagen de bitácora"><span class="img-caption">Mapa turístico de Bali por zonas</span></div>
 
 ## Qué necesitás saber antes de viajar a Bali, Indonesia
 
@@ -145,7 +147,7 @@ Es el corazón cultural de la isla, rodeado de selva y campos de arroz. Caminar 
 
 Dividimos las opciones de alojamiento en dos puntos Ubud Central (cerca de todo a pie, pero con mayor movimiento) y Ubud Norte / Alrededores (entorno calmo en la naturaleza). 
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/ubud5.webp" alt="Imagen de bitácora"><span class="img-caption">Ubud Terrazas de arroz</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/ubud5.webp" alt="Imagen de bitácora"><span class="img-caption">Ubud Terrazas de arroz</span></div>
 
 * 📍 **Ubicación:** Centro geográfico y cultural de Bali.
 * ⏱️ **Distancia del aeropuerto:** 1 hora y 15 minutos a 2 horas.
@@ -317,7 +319,7 @@ Dónde quedarse en Nusa Pénida
 Usar algunas palabras locales es un gesto de cortesía y respeto apreciado por los residentes:
 
 * 🙏 **Om Swastiastu:** Saludo tradicional ("Hola"). Se pronuncia acompañando el gesto de juntar las palmas al pecho.
-* **Matur Suksma:** "Muchas gracias" en balinés (en la calle se usa la forma corta *Suksma se pronuncia SUKSAMA*).
+* **Matur Suksma:** "Muchas gracias" en balinés (en la día a día se usa la forma corta *Suksma)*.
 * **Barong:** Figura mitológica que representa la protección, los jóvenes de cada barrio se disfrazan y salen tocando sus instrumentos para ofrecer bendiciones, usualmente se les dan billetes pequeños a modo de ofrenda significativa. Cuando hay una ceremonia en la calle el tránsito se detiene; solo queda esperar con paciencia y disfrutar el momento.
 * **Sarong:** Tela tradicional necesaria para cubrirse las piernas al ingresar a cualquier templo sagrado. 
 
