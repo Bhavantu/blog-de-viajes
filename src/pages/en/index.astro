@@ -32,12 +32,15 @@ if (featuredPosts.length < 3) {
   isTransparentHeader={true}
 >
 
-    <!-- HERO SECTION IN ENGLISH -->
-    <section class="hero-inicio" style="background-image: url('/img/diario/UBUD3.webp');">
-        <div class="hero-overlay"></div>
+    <!-- IMMERSIVE HERO EDITORIAL (ENGLISH) -->
+    <section class="hero-immersive-home">
+        <div class="hero-bg">
+            <img src="/img/diario/UBUD3.webp" alt="Travel to Bali" />
+            <div class="hero-scrim"></div>
+        </div>
         
-        <div class="hero-contenido-interno relative z-10">
-            <h1 class="hero-title">Discovering new worlds at a slow pace</h1>
+        <div class="hero-content">
+            <h1 class="hero-title">Discovering<br/>new worlds<br/>at a slow pace.</h1>
             <p class="hero-subtitle">
                 Honest guides and transparent budgets to travel with cultural respect, work on the road, and inhabit new territories at your own rhythm.
             </p>
@@ -163,7 +166,7 @@ if (featuredPosts.length < 3) {
                 <div class="support-card">
                     <div class="support-icon-container">
                         <img 
-                            src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Airalo_logo.svg/1280px-Airalo_logo.svg.webp" 
+                            src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Airalo_logo.svg/1280px-Airalo_logo.svg.png" 
                             alt="Airalo Logo" 
                             style="height: 32px; width: auto; max-width: 100%; object-fit: contain;"
                         />
@@ -179,7 +182,7 @@ if (featuredPosts.length < 3) {
                 <div class="support-card">
                     <div class="support-icon-container">
                         <img 
-                            src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/GetYourGuide_logo.svg/1280px-GetYourGuide_logo.svg.webp?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20250423234221" 
+                            src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/GetYourGuide_logo.svg/1280px-GetYourGuide_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20250423234221" 
                             alt="GetYourGuide Logo" 
                             style="height: 32px; width: auto; max-width: 100%; object-fit: contain;"
                         />
@@ -261,62 +264,89 @@ if (featuredPosts.length < 3) {
     }
 
     /* ============================================================
-       ESTILOS DEL HERO PRINCIPAL
+       ESTILOS DEL HERO PRINCIPAL (IMMERSIVE EDITORIAL)
        ============================================================ */
-    .hero-inicio {
+    .hero-immersive-home {
         position: relative;
         width: 100%;
-        min-height: 100vh;
+        min-height: 100svh;
         display: flex;
-        align-items: center;
-        justify-content: center;
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
-        text-align: center;
-        padding: 2rem;
+        align-items: center; 
+        padding: 14rem 2rem 4rem 2rem;
+        overflow: hidden;
         margin-top: -120px; 
-        padding-top: 120px; 
     }
 
-    .hero-overlay {
+    .hero-bg {
         position: absolute;
-        top: 0;
-        left: 0;
+        inset: 0;
+        z-index: 0;
+        background-color: #111;
+    }
+
+    .hero-bg img {
         width: 100%;
         height: 100%;
-        background: rgba(0, 0, 0, 0.45); 
-        z-index: 1;
+        object-fit: cover;
+        transform: scale(1.05);
+        animation: slowZoomHome 25s ease-out forwards;
+        will-change: transform;
     }
 
-    .hero-contenido-interno {
+    .hero-scrim {
+        position: absolute;
+        inset: 0;
+        /* Gradiente sutil para que la foto brille, la sombra de los textos hace el resto */
+        background: linear-gradient(to bottom, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0.1) 50%, rgba(0,0,0,0.3) 100%);
+    }
+
+    .hero-content {
         position: relative;
-        z-index: 2;
-        max-width: 800px;
+        z-index: 10;
+        width: 100%;
+        max-width: 1100px;
+        margin: 0 auto;
         color: #ffffff;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start; 
     }
 
-    .hero-inicio .hero-title {
-        font-family: var(--font-display);
-        font-size: 3.5rem;
-        line-height: 1.1;
+    .hero-immersive-home .hero-title {
+        font-family: var(--font-display, 'Georgia', serif);
+        font-size: clamp(2.5rem, 5vw + 1rem, 4.5rem);
+        line-height: 1.05;
         margin-bottom: 1.5rem;
         font-weight: normal;
-        text-shadow: 0 2px 10px rgba(0,0,0,0.4);
+        color: #ffffff;
+        letter-spacing: -0.02em;
+        text-wrap: balance;
+        text-shadow: 0 2px 4px rgba(0,0,0,0.8), 0 4px 16px rgba(0,0,0,0.5);
+        opacity: 0;
+        transform: translateY(20px);
+        animation: fadeUpHome 0.8s cubic-bezier(0.16, 1, 0.3, 1) 0.15s forwards;
     }
 
-    .hero-inicio .hero-subtitle {
-        font-size: 1.15rem;
+    .hero-immersive-home .hero-subtitle {
+        font-family: var(--font-main, 'Helvetica Neue', sans-serif);
+        font-size: clamp(1.05rem, 2vw, 1.2rem);
         line-height: 1.6;
-        margin-bottom: 3rem;
-        text-shadow: 0 1px 5px rgba(0,0,0,0.6);
-        color: #f4f1ea;
+        margin-bottom: 2.5rem;
+        color: #e5e7eb;
+        max-width: 50ch;
+        text-wrap: pretty;
+        text-shadow: 0 2px 4px rgba(0,0,0,0.8), 0 4px 12px rgba(0,0,0,0.5);
+        opacity: 0;
+        transform: translateY(20px);
+        animation: fadeUpHome 0.8s cubic-bezier(0.16, 1, 0.3, 1) 0.3s forwards;
     }
 
     .hero-actions {
         display: flex;
         gap: 1.5rem;
-        justify-content: center;
+        opacity: 0;
+        transform: translateY(20px);
+        animation: fadeUpHome 0.8s cubic-bezier(0.16, 1, 0.3, 1) 0.45s forwards;
     }
 
     .btn-primary {
@@ -339,7 +369,9 @@ if (featuredPosts.length < 3) {
     }
 
     .btn-secondary {
-        background-color: transparent;
+        background-color: rgba(255, 255, 255, 0.1);
+        backdrop-filter: blur(8px);
+        -webkit-backdrop-filter: blur(8px);
         color: #ffffff;
         padding: 14px 32px;
         border-radius: 8px;
@@ -348,56 +380,52 @@ if (featuredPosts.length < 3) {
         text-transform: uppercase;
         letter-spacing: 0.05em;
         font-size: 0.9rem;
-        border: 1px solid #ffffff;
+        border: 1px solid rgba(255, 255, 255, 0.4);
         transition: all 0.3s ease;
     }
 
     .btn-secondary:hover {
-        background-color: #ffffff;
-        color: #333333;
+        background-color: rgba(255, 255, 255, 0.25);
+        border-color: #ffffff;
+        transform: translateY(-2px);
+    }
+
+    @keyframes fadeUpHome {
+        to { opacity: 1; transform: translateY(0); }
+    }
+
+    @keyframes slowZoomHome {
+        from { transform: scale(1); }
+        to { transform: scale(1.1); }
     }
 
     @media (max-width: 768px) {
-        .hero-inicio {
-            min-height: 100vh !important;
-            margin-top: 0 !important; 
-            padding: 130px 1.5rem 3rem 1.5rem !important; 
-            align-items: flex-start !important; 
-            margin-bottom: 2rem !important;
+        .hero-immersive-home {
+            align-items: center;
+            text-align: center;
+            padding: 8rem 1.5rem 4rem 1.5rem;
         }
-
-        .hero-contenido-interno {
-            width: 100% !important;
-            margin-top: 2rem !important; 
+        .hero-content {
+            align-items: center;
         }
-        
-        .hero-badge {
-            font-size: 0.7rem !important;
-            margin-bottom: 1.5rem !important;
+        .hero-immersive-home .hero-subtitle {
+            margin-left: auto;
+            margin-right: auto;
         }
-
-        .hero-inicio .hero-title {
-            font-size: 2.2rem !important;
-            margin-bottom: 1rem !important;
-        }
-
-        .hero-inicio .hero-subtitle {
-            font-size: 1.05rem !important;
-            margin-bottom: 2rem !important;
-        }
-
         .hero-actions {
             flex-direction: column;
-            gap: 1rem;
+            width: 100%;
         }
-        
         .btn-primary, .btn-secondary {
             width: 100%;
+        }
+        .hero-scrim {
+            background: linear-gradient(to bottom, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0.2) 50%, rgba(0,0,0,0.5) 100%);
         }
     }
 
     /* ============================================================
-       ESTILOS EXCLUSIVOS DE LA PORTADA
+       ESTILOS EXCLUSIVOS DE LA PORTADA (GRILLA)
        ============================================================ */
     #grilla-portada-segura {
         display: grid !important;
@@ -519,7 +547,6 @@ if (featuredPosts.length < 3) {
         border-top: 1px solid #eee;
     }
 
-    /* SUBTÍTULOS DE LAS SECCIONES */
     .subsection-title {
         text-align: center;
         font-family: var(--font-display);
@@ -530,7 +557,6 @@ if (featuredPosts.length < 3) {
         font-weight: normal;
     }
 
-    /* GRILLA 1: AFILIADOS (3 COLUMNAS) */
     .affiliates-grid {
         display: grid;
         grid-template-columns: repeat(3, 1fr);
@@ -538,7 +564,6 @@ if (featuredPosts.length < 3) {
         margin-bottom: 2rem;
     }
 
-    /* GRILLA 2: APOYO DIRECTO (2 COLUMNAS MÁS ANCHAS) */
     .direct-grid {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
@@ -595,7 +620,6 @@ if (featuredPosts.length < 3) {
         flex-grow: 1; 
     }
 
-    /* BOTONES */
     .support-btn {
         display: inline-block;
         padding: 12px 20px;
@@ -610,86 +634,33 @@ if (featuredPosts.length < 3) {
         box-sizing: border-box;
     }
 
-    .btn-kofi {
-        background-color: #323842;
-        color: #ffffff;
-        border: 1px solid #323842;
-    }
+    .btn-kofi { background-color: #323842; color: #ffffff; border: 1px solid #323842; }
     .btn-kofi:hover { background-color: #1a1e24; color: #ffffff; }
 
-    .btn-recursos {
-        background-color: transparent;
-        color: #003580;
-        border: 1px solid #003580;
-    }
-    .btn-recursos:hover { 
-        background-color: #003580; 
-        color: #ffffff; 
-    }
+    .btn-recursos { background-color: transparent; color: #003580; border: 1px solid #003580; }
+    .btn-recursos:hover { background-color: #003580; color: #ffffff; }
 
-    .btn-airalo {
-        background-color: transparent;
-        color: #ff5e00;
-        border: 1px solid #ff5e00;
-    }
-    .btn-airalo:hover { 
-        background-color: #ff5e00; 
-        color: #ffffff; 
-    }
+    .btn-airalo { background-color: transparent; color: #ff5e00; border: 1px solid #ff5e00; }
+    .btn-airalo:hover { background-color: #ff5e00; color: #ffffff; }
 
-    .btn-gyg {
-        background-color: transparent;
-        color: #ff5533;
-        border: 1px solid #ff5533;
-    }
-    .btn-gyg:hover {
-        background-color: #ff5533;
-        color: #ffffff;
-    }
+    .btn-gyg { background-color: transparent; color: #ff5533; border: 1px solid #ff5533; }
+    .btn-gyg:hover { background-color: #ff5533; color: #ffffff; }
 
-    .btn-colab {
-        background-color: #006d77;
-        color: #ffffff;
-        border: 1px solid #006d77;
-    }
+    .btn-colab { background-color: #006d77; color: #ffffff; border: 1px solid #006d77; }
     .btn-colab:hover { background-color: #005a62; border-color: #005a62; color: #ffffff;}
 
-    /* ============================================================
-       RESPONSIVE DESIGN (MÓVILES)
-       ============================================================ */
     @media (max-width: 950px) {
-        .affiliates-grid {
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-        }
+        .affiliates-grid { grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); }
     }
 
     @media (max-width: 800px) {
-        #grilla-portada-segura {
-            grid-template-columns: 1fr !important;
-            gap: 3rem !important;
-        }
-        
-        .img-portada {
-            height: auto !important;
-            max-height: 350px !important;
-        }
-
-        .about-container {
-            grid-template-columns: 1fr;
-            gap: 3rem;
-            text-align: center;
-        }
-
-        .about-section {
-            padding: 2.5rem 1.5rem;
-        }
+        #grilla-portada-segura { grid-template-columns: 1fr !important; gap: 3rem !important; }
+        .img-portada { height: auto !important; max-height: 350px !important; }
+        .about-container { grid-template-columns: 1fr; gap: 3rem; text-align: center; }
+        .about-section { padding: 2.5rem 1.5rem; }
     }
 
     @media (max-width: 700px) {
-        .affiliates-grid,
-        .direct-grid {
-            grid-template-columns: 1fr;
-            padding: 0 1rem;
-        }
+        .affiliates-grid, .direct-grid { grid-template-columns: 1fr; padding: 0 1rem; }
     }
 </style>
