@@ -5,10 +5,8 @@ import { ui } from '../../i18n/ui.js';
 const currentLang = 'en';
 const t = ui[currentLang];
 
-// Cargamos la base de datos de posts en inglés
 const posts = import.meta.glob('./journal/*.md', { eager: true });
 const allPosts = Object.values(posts).map((post: any) => {
-    // Traducimos el tag usando nuestro diccionario ui.js
     const rawTag = post.frontmatter.tag || '';
     const tagKey = `tag.${rawTag.toLowerCase()}`;
     const translatedTag = t[tagKey as keyof typeof t] || rawTag;
@@ -19,8 +17,8 @@ const allPosts = Object.values(posts).map((post: any) => {
         content: typeof post.rawContent === 'function' ? post.rawContent().toLowerCase() : '',
         url: post.url,
         image: post.frontmatter.main_image || '',
-        tag: translatedTag, // Etiqueta traducida para mostrar al usuario
-        rawTag: rawTag.toLowerCase(), // Etiqueta cruda para el CSS (colores)
+        tag: translatedTag,
+        rawTag: rawTag.toLowerCase(),
         date: post.frontmatter.date || ''
     };
 });
@@ -34,7 +32,6 @@ const allPosts = Object.values(posts).map((post: any) => {
             <p id="search-query-display" style="color: #666; font-size: 1.1rem;">Searching...</p>
         </div>
 
-        <!-- Usamos tu grilla original exacta -->
         <div id="grilla-portada-segura"></div>
     </main>
 
@@ -64,7 +61,6 @@ const allPosts = Object.values(posts).map((post: any) => {
                 return;
             }
 
-            // Inyectamos el HTML exacto de tus tarjetas originales
             grid.innerHTML = filtered.map(post => {
                 const dateObj = new Date(post.date);
                 const formattedDate = dateObj.toLocaleDateString('en-US', { day: '2-digit', month: 'long', year: 'numeric' }).toUpperCase();
@@ -94,69 +90,17 @@ const allPosts = Object.values(posts).map((post: any) => {
 </Layout>
 
 <style is:global>
-    /* ============================================================
-       ESTILOS EXCLUSIVOS DE LA PORTADA (Copiados de tu index original)
-       ============================================================ */
-    #grilla-portada-segura {
-        display: grid !important;
-        grid-template-columns: repeat(3, 1fr) !important;
-        gap: 2.5rem !important;
-        width: 100% !important;
-        align-items: stretch !important;
-    }
-
-    .tarjeta-portada {
-        display: flex !important;
-        flex-direction: column !important;
-        height: 100% !important;
-        min-width: 0 !important; 
-        margin: 0 !important;
-        padding: 0 !important; 
-        border: none !important;
-        max-width: 100% !important;
-        background-color: #ffffff !important;
-        border-radius: 0 !important; 
-        box-shadow: 0 4px 10px rgba(0,0,0,0.03) !important; 
-    }
-
-    .img-portada {
-        width: 100% !important;
-        height: 220px !important;
-        object-fit: cover !important;
-        display: block !important;
-        border-radius: 0 !important; 
-        margin-bottom: 1.5rem !important;
-        transition: transform 0.4s ease !important;
-    }
-    
+    /* ESTILOS ORIGINALES DE LA GRILLA */
+    #grilla-portada-segura { display: grid !important; grid-template-columns: repeat(3, 1fr) !important; gap: 2.5rem !important; width: 100% !important; align-items: stretch !important; }
+    .tarjeta-portada { display: flex !important; flex-direction: column !important; height: 100% !important; min-width: 0 !important; margin: 0 !important; padding: 0 !important; border: none !important; max-width: 100% !important; background-color: #ffffff !important; border-radius: 0 !important; box-shadow: 0 4px 10px rgba(0,0,0,0.03) !important; }
+    .img-portada { width: 100% !important; height: 220px !important; object-fit: cover !important; display: block !important; border-radius: 0 !important; margin-bottom: 1.5rem !important; transition: transform 0.4s ease !important; }
     .img-portada:hover { transform: scale(1.02) !important; }
-
-    .meta-portada,
-    .titulo-portada,
-    .desc-portada,
-    .btn-leer-mas-portada {
-        padding-left: 1.5rem !important;
-        padding-right: 1.5rem !important;
-    }
-
+    .meta-portada, .titulo-portada, .desc-portada, .btn-leer-mas-portada { padding-left: 1.5rem !important; padding-right: 1.5rem !important; }
     .meta-portada { display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 0.5rem; }
-    
     .titulo-portada { margin: 0.5rem 0; line-height: 1.3; font-family: var(--font-display); font-size: 1.5rem; }
     .titulo-portada a { text-decoration: none; color: var(--text-color, #333); transition: color 0.3s ease; }
-    
     .desc-portada { flex-grow: 1; margin-bottom: 1.5rem; line-height: 1.6; font-size: 0.95rem; color: #555; }
-    
     .btn-leer-mas-portada { margin-top: auto; padding-bottom: 2rem !important; }
     .btn-leer-mas-portada a { display: inline-block; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--text-color, #333); text-decoration: none; font-weight: 500; transition: color 0.3s ease; }
-
-    @media (max-width: 800px) {
-        #grilla-portada-segura {
-            grid-template-columns: 1fr !important;
-            gap: 3rem !important;
-        }
-        .img-portada {
-            height: auto !important;
-            max-height: 350px !important;
-        }
-    }
+    @media (max-width: 800px) { #grilla-portada-segura { grid-template-columns: 1fr !important; gap: 3rem !important; } .img-portada { height: auto !important; max-height: 350px !important; } }
 </style>
