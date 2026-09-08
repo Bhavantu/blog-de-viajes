@@ -5,19 +5,15 @@ const currentLang = (Astro.currentLocale || 'es') as 'es' | 'en';
 const t = ui[currentLang];
 const { isTransparent = false, frontmatter } = Astro.props;
 
-// Leemos los posts en inglés forzando el tipo a any[] para evitar el error de TypeScript
 const englishPosts = Object.values(import.meta.glob('../pages/en/journal/*.md', { eager: true })) as any[];
 
-// Limpieza de ruta para evitar errores con index.html o barras sobrantes
 let rawPath = Astro.url.pathname;
 let cleanPath = rawPath.replace(/^\/en/, '').replace(/\/index\.html$/, '').replace(/\/$/, '');
 if (cleanPath === '') cleanPath = '/';
 
-// Armado inteligente de URLs para el selector ES | EN
 let urlEs = cleanPath; 
 let urlEn = '/en' + (cleanPath === '/' ? '' : cleanPath);
 
-// Mapeo estricto forzando el diccionario correspondiente a cada idioma
 if (cleanPath === '/nosotros' || cleanPath === '/about') {
     urlEs = ui['es']['route.nosotros'];
     urlEn = ui['en']['route.nosotros'];
@@ -34,15 +30,11 @@ if (cleanPath === '/nosotros' || cleanPath === '/about') {
     urlEs = ui['es']['route.privacidad'];
     urlEn = ui['en']['route.privacidad'];
 } else if (cleanPath.startsWith('/diario/')) {
-    // Estamos en un post en español, buscamos su equivalente en inglés
     const suffix = cleanPath.replace('/diario/', '');
     urlEs = `/diario/${suffix}`;
-    
     const enPost = englishPosts.find((p) => p.frontmatter?.archivo_original === `${suffix}.md`);
     urlEn = enPost?.url || '/en/journal';
-    
 } else if (cleanPath.startsWith('/journal/')) {
-    // Estamos en un post en inglés, usamos el archivo_original para volver al español
     if (frontmatter && frontmatter.archivo_original) {
         const esSlug = frontmatter.archivo_original.replace('.md', '');
         urlEs = `/diario/${esSlug}`;
@@ -52,7 +44,7 @@ if (cleanPath === '/nosotros' || cleanPath === '/about') {
     urlEn = rawPath;
 }
 
-// Detectamos si estamos dentro de un post individual (solo los posts tienen frontmatter)
+// Detectamos si estamos dentro de un post
 const isPost = !!frontmatter;
 ---
 
@@ -100,12 +92,9 @@ const isPost = !!frontmatter;
 </div>
 
 <style>
-    /* =========================================
-       HEADER EDITORIAL PREMIUM
-       ========================================= */
     .header-wrapper {
         width: 100%;
-        z-index: 100;
+        z-index: 10000;
         transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
     }
     
@@ -120,7 +109,7 @@ const isPost = !!frontmatter;
     .header-wrapper.solido {
         position: sticky;
         top: 0;
-        background: rgba(244, 241, 234, 0.85); /* Crema con opacidad */
+        background: rgba(244, 241, 234, 0.85);
         backdrop-filter: blur(12px);
         -webkit-backdrop-filter: blur(12px);
         border-bottom: 1px solid rgba(0,0,0,0.05);
@@ -147,7 +136,6 @@ const isPost = !!frontmatter;
         transition: color 0.3s ease;
     }
 
-    /* Logo Transparente: Blanco puro y sombra densa */
     .header-wrapper.transparente .logo-text {
         color: #ffffff !important;
         text-shadow: 0 2px 6px rgba(0,0,0,0.9), 0 4px 16px rgba(0,0,0,0.6);
@@ -175,7 +163,6 @@ const isPost = !!frontmatter;
 
     nav a:hover { opacity: 0.7; }
 
-    /* Enlaces Transparentes: Blanco puro y sombra densa */
     .header-wrapper.transparente nav a,
     .header-wrapper.transparente .search-icon svg {
         color: #ffffff !important;
@@ -200,7 +187,6 @@ const isPost = !!frontmatter;
     .lang-switcher a.active-lang { color: var(--text-color, #333); font-weight: bold; }
     .lang-separator { color: #ccc; font-weight: 300; }
 
-    /* Selector de idiomas Transparente */
     .header-wrapper.transparente .lang-switcher a { 
         color: rgba(255,255,255,0.85) !important; 
         text-shadow: 0 2px 6px rgba(0,0,0,0.9), 0 4px 16px rgba(0,0,0,0.6);
@@ -212,7 +198,6 @@ const isPost = !!frontmatter;
         color: rgba(255,255,255,0.6) !important; 
     }
 
-    /* Menú Hamburguesa Minimalista */
     .menu-toggle { 
         display: none; 
         background: none; 
@@ -221,7 +206,7 @@ const isPost = !!frontmatter;
         width: 30px;
         height: 20px;
         position: relative;
-        z-index: 1001;
+        z-index: 10001;
     }
 
     .hamburger-line {
@@ -262,9 +247,9 @@ const isPost = !!frontmatter;
             display: block;
             position: fixed;
             top: 0; left: 0; width: 100vw; height: 100vh;
-            background: rgba(0,0,0,0.4);
-            backdrop-filter: blur(4px);
-            z-index: 990;
+            background: rgba(0,0,0,0.6);
+            backdrop-filter: blur(3px);
+            z-index: 9990;
             opacity: 0; pointer-events: none;
             transition: opacity 0.4s ease;
         }
@@ -276,12 +261,12 @@ const isPost = !!frontmatter;
             position: fixed; 
             top: 0; 
             right: 0; 
-            width: 80vw; 
+            width: 75vw; 
             max-width: 320px;
             height: 100vh; 
             background-color: #f4f1ea; 
             box-shadow: -10px 0 30px rgba(0,0,0,0.1); 
-            z-index: 1000; 
+            z-index: 9999; 
             padding: 6rem 2rem 2rem; 
             transform: translateX(100%);
             transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1);
@@ -295,12 +280,37 @@ const isPost = !!frontmatter;
             align-items: flex-start; 
         }
 
-        nav a { font-size: 1.2rem; color: #333 !important; text-shadow: none !important; }
-        .search-icon svg { color: #333 !important; width: 24px; height: 24px; }
+/* Usamos #main-nav para tener mayor prioridad que el header transparente */
+        #main-nav a { font-size: 1.2rem; color: #333 !important; text-shadow: none !important; }
+        #main-nav .search-icon svg { color: #333 !important; width: 24px; height: 24px; }
         
-        .lang-switcher { margin-top: 2rem; font-size: 1rem; }
-        .lang-switcher a { color: #888 !important; text-shadow: none !important; }
-        .lang-switcher a.active-lang { color: #333 !important; }
-        .lang-separator { color: #ccc !important; text-shadow: none !important; }
-    }
+        #main-nav .lang-switcher { margin-top: 1.5rem; font-size: 1rem; }
+        #main-nav .lang-switcher a { color: #888 !important; text-shadow: none !important; }
+        #main-nav .lang-switcher a.active-lang { color: #333 !important; font-weight: bold; }
+        #main-nav .lang-separator { color: #ccc !important; text-shadow: none !important; }    }
 </style>
+
+<!-- ESTE SCRIPT ES EL QUE HACE QUE EL MENÚ FUNCIONE SIN ROMPER LA PANTALLA -->
+<script is:inline>
+    document.addEventListener('DOMContentLoaded', () => {
+        const btn = document.getElementById('mobile-menu-btn');
+        const nav = document.getElementById('main-nav');
+        const overlay = document.getElementById('mobile-menu-overlay');
+
+        function toggleMenu() {
+            btn?.classList.toggle('menu-abierto');
+            nav?.classList.toggle('menu-open');
+            overlay?.classList.toggle('menu-open');
+            
+            // Evita que la persona haga scroll en el artículo mientras el menú está abierto
+            if(nav?.classList.contains('menu-open')) {
+                document.body.style.overflow = 'hidden';
+            } else {
+                document.body.style.overflow = '';
+            }
+        }
+
+        btn?.addEventListener('click', toggleMenu);
+        overlay?.addEventListener('click', toggleMenu);
+    });
+</script>
