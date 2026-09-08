@@ -25,7 +25,7 @@ Para la experiencia de slow travel o nómada digital, hay actividades para más 
 
 💵 **Moneda:** Rupia indonesia (IDR). El efectivo es el rey para gastos diarios. </div>
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/que-hacer-en-bali-mapa-interactivo-.webp" alt="Imagen de bitácora"><span class="img-caption">Mapa turístico de Bali por zonas</span></div>
+<div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 ## Qué necesitás saber antes de viajar a Bali, Indonesia
 
@@ -311,6 +311,7 @@ Dónde quedarse en Nusa Pénida
 * 🌿 **Entorno:** Frente al mar con arrecife para snorkel y privacidad absoluta (propiedad solo para adultos).
 * 📝 **Descripción:** Parece sacado de un cuento de las mil y una noches. Su marcada arquitectura árabe y marroquí, con arcos y cúpulas de terracota frente al mar, crea una atmósfera única. Ofrece confort total con piscina privada, cocina equipada, terraza amplia y salida directa a la playa para hacer snorkel entre corales.
 * 💰 **Precio estimado:** 130 a 220 USD / 120 a 200 EUR (~2.300.000 - 3.900.000 IDR) por noche.
+
 - - -
 
 ## Glosario básico balinés
