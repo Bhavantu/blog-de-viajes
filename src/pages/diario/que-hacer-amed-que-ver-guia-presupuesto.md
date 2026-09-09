@@ -1,7 +1,7 @@
 ---
 destacado: true
 layout: ../../layouts/BlogPostLayout.astro
-title: "Que hacer en Amed, Bali: Guía real de slow travel y presupuesto 2026"
+title: "Qué Hacer en Amed (Bali): Snorkel Libre, costos reales y playas sin masificar"
 date: 2026-07-21T13:43:00.000+08:00
 tag: guia de viaje
 pais: Indonesia
