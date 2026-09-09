@@ -5,6 +5,10 @@ import tailwindcss from '@tailwindcss/vite';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://blogcito.com',
+  trailingSlash: 'ignore', // <-- CAMBIAMOS "always" POR "ignore"
+  build: {
+    format: 'directory', // Mantenemos el formato de directorio para Netlify
+  },
   integrations: [sitemap()],
   vite: {
     plugins: [tailwindcss()],
@@ -13,7 +17,7 @@ export default defineConfig({
     defaultLocale: 'es',
     locales: ['es', 'en'],
     routing: {
-      prefixDefaultLocale: false // Mantiene blogcito.com para ES y blogcito.com/en/ para EN
+      prefixDefaultLocale: false 
     }
   }
 });

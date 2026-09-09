@@ -126,4 +126,34 @@ const {
   @keyframes fadeUp {
     to { opacity: 1; transform: translateY(0); }
   }
+
+  /* ============================================================
+     RESPONSIVE PARA CELULARES
+     ============================================================ */
+  @media (max-width: 768px) {
+    .hero-cinematic {
+      align-items: center; /* Volvemos al centrado vertical perfecto */
+      padding: 0 1rem; /* Quitamos el padding top forzado */
+    }
+    
+    .hero-content {
+      margin-top: 5rem; /* Empujamos sutilmente el centro hacia abajo para esquivar el logo */
+    }
+
+    .hero-subtitle {
+      font-size: 1rem; 
+      margin-bottom: 1rem;
+    }
+
+    .hero-title {
+      font-size: 3.2rem; 
+      margin-bottom: 1.5rem;
+    }
+
+    .hero-description {
+      font-size: 1.15rem; 
+      padding: 0 1rem; 
+    }
+  }
+
 </style>

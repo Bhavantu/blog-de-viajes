@@ -41,7 +41,7 @@ if (featuredPosts.length < 3) {
         
         <div class="hero-content">
             <!-- Eliminamos el badge para un look más limpio -->
-            <h1 class="hero-title">Descubriendo<br/>nuevos mundos<br/>a paso lento.</h1>
+            <h1 class="hero-title">Conociendo<br/>otros mundos<br/>a paso lento.</h1>
             <p class="hero-subtitle">
                 Guías honestas y presupuestos transparentes para viajar con respeto cultural, trabajar en ruta y habitar nuevos territorios a tu propio ritmo.
             </p>
@@ -411,32 +411,32 @@ if (featuredPosts.length < 3) {
 
     @media (max-width: 768px) {
         .hero-immersive-home {
-            align-items: center;
+            align-items: center; /* Volvemos al centrado vertical natural de Flexbox */
             text-align: center;
-            padding: 8rem 1.5rem 4rem 1.5rem;
+            padding: 0 1.5rem; /* Quitamos el padding top forzado */
+            min-height: 100svh;
         }
+        
         .hero-content {
             align-items: center;
+            margin-top: 5rem; /* Separamos sutilmente el centro hacia abajo para esquivar el logo */
         }
-        .hero-badge {
-            justify-content: center;
-        }
-        .hero-badge::before {
-            display: none;
-        }
+        
         .hero-immersive-home .hero-subtitle {
             margin-left: auto;
             margin-right: auto;
         }
+        
         .hero-actions {
             flex-direction: column;
             width: 100%;
         }
+        
         .btn-primary, .btn-secondary {
             width: 100%;
         }
+        
         .hero-scrim {
-            /* En móvil oscurecemos más parejo para asegurar lectura centrada */
             background: linear-gradient(to bottom, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.4) 50%, rgba(0,0,0,0.7) 100%);
         }
     }
