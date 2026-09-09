@@ -218,8 +218,6 @@ A continuación te dejamos dos tablas con los costos de estadías, entradas y to
 | [Tour privado desde Ubud o Kuta con entradas y traslado](https://www.getyourguide.com/es-es/karangasem-l190139/bali-tour-privado-con-todo-incluido-por-los-puntos-destacados-del-este-de-bali-t1205121?ranking_uuid=2f0097e3-d8c4-4c7a-b66e-c3f6d1bdba45&date_from=2026-07-25) | 1.956.912        | 109   | 95.92 | Opción destacada porque tiene contenido histórico cultural y además conoces un pueblo indígena bali aga y su tradición de tejido |
 | Referencia de conversión de moneda                                                                                                                                                                                                                                             | 100.000          | 5.57  | 4.87  |                                                                                                                                  |
 
-
-
 ## Presupuesto para quedarse en Amed
 
 | Referencia                                                                                        | Costo IDR                                                                                         | Costo USD   | Costo EUR   | Observaciones                                                                     |
@@ -244,3 +242,7 @@ Calculadora personalizada
         Ir a la Calculadora Gratis
     </a>
 </div>
+
+ Si querés saber más sobre la fascinante cultura balinesa descubre [El alma de Bali: tradiciones y secretos.](https://blogcito.com/diario/bali-rituales-cultura-tradiciones-secretos/) 
+  Para conectar con la esencia local, descubre [El alma de Bali: tradiciones y secretos.](https://blogcito.com/diario/bali-rituales-cultura-tradiciones-secretos/)\
+  Si querés ver algunos de los paisajes más fascinantes, planificá tu viaje a la isla vecina: [Qué ver y dónde alojarse en Nusa Penida.  ](https://blogcito.com/diario/que-ver-en-nusa-penida-guia/)
