@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPostLayout.astro
 title: "El Triángulo Sagrado que protege a la ciudad Da Nang: Leyenda, historia
   y visita a las 3 Pagodas Linh Ung"
-date: 2026-09-08T15:35:00.000+08:00
+date: 2026-09-09T21:35:00.000+08:00
 tag: contexto y cultura
 pais: Vietnam
 description: " Investigamos la leyenda del Triángulo Sagrado que protege de los
@@ -18,6 +18,8 @@ La creencia local cuenta que estas tres pagodas no son un mero atractivo turíst
 
 En chino-vietnamita, Linh Ứng se traduce como "respuestas milagrosas a las oraciones". En esta guía exploramos las raíces espirituales, la historia, los datos y la mística detrás de cada santuario.
 
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/marble-mountains-statue-2.webp" alt="Imagen de bitácora"><span class="img-caption">Estatua </span></div>
+
 ## La Leyenda del Triángulo Protector: ¿Por qué hay 3 Pagodas Linh Ung?
 
 La presencia de las tres pagodas no respondió a un plan urbanístico preconcebido desde un inicio, sino a un proceso histórico de casi dos siglos donde la necesidad de fe, la geografía y los desastres naturales fueron tejiendo una red de protección espiritual.
@@ -28,15 +30,19 @@ Da Nang ha sido históricamente una de las zonas costeras más expuestas a los t
 | --------------------- | ------------------ | -------- | -------------------------------------- |
 | **Linh Ung Non Nuoc** | Montañas de Mármol | Tierra   | La más antigua (1825), origen imperial |
 | **Linh Ung Ba Na**    | Ba Na Hills        | Montaña  | A 1.500 msnm, rodeada de nubes         |
-| **Linh Ung Bai But**  | Península Son Tra  | Mar      |                                        |
+| **Linh Ung Bai But**  | Península Son Tra  | Mar      | Lady Buddha (67 metros)                |
 
 ## 1. El origen imperial en el siglo XIX (Tierra / Sur)
 
 La primera pagoda, Linh Ung Non Nuoc, fue fundada en 1825 por el rey Minh Mang en las Montañas de Mármol, Thuy Son. En ese periodo de expansión marítima, el monarca buscaba consagrar la tierra y pedir protección para el reino. Tras su edificación, la zona vivió décadas de bonanza pesquera, sembrando la primera semilla del mito de Linh Ung.
 
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/marble-mountains-buda-statue-cave-2.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+
 ## 2. El equilibrio en las alturas (Montaña / Oeste)
 
 A principios del siglo XXI, como parte de la transformación de Da Nang y el resurgimiento del culto budista, se levantó la segunda pagoda, Linh Ung Ba Na, a casi 1.500 metros sobre el nivel del mar. Según los principios del Phong Thủy, ubicar un templo en el pico más alto de las montañas Annamitas permitía anclar la energía protectora de la montaña y equilibrar las fuerzas entre la tierra y el cielo.
+
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/ba-na-hills-buda-front.jpg" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 ## 3. El escudo frente al océano (Mar / Este)
 
@@ -44,7 +50,9 @@ El último vértice es el más reciente y simbólico. La leyenda cuenta que una 
 
 En la década de 2000, impulsada por la comunidad y liderada por el monje Thich Thien Nguyen, comenzó la construcción de Linh Ung Bai But, coronada en 2010 por la colosal estatua de Lady Buddha (Quan Am) de 67 metros de altura, orientada deliberadamente hacia la bahía para velar por los marineros y pacificar las aguas.
 
-## ¿Qué hay de cierto en la leyenda de los tifones?
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/lady-buda-pagoda-en-peninsula-son-tra.jpeg" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+
+## ¿Qué dicen los datos acerca de los tifones?
 
 A nivel meteorológico, los registros oficiales muestran un patrón real. Tras la inauguración de la estatua de Lady Buddha en 2010, varios tifones devastadores que venían en ruta directa hacia Da Nang, como Megi en 2010 o el histórico Haiyan en 2013, cambiaron drásticamente de trayectoria a última hora o perdieron gran parte de su fuerza justo antes de tocar tierra.
 
@@ -75,6 +83,8 @@ Es la más antigua e históricamente significativa del triángulo. Fundada en 18
 * **Cómo llegar:** A 15 minutos al sur de Da Nang, camino a Hoi An.
 * **Consejo:** Lleva calzado cerrado o sandalias sujetas, ya que las escaleras de mármol son resbaladizas.
 
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/montañas-de-marmol-panoramica.jpeg" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+
 ### 3. Linh Ung Bà Nà (Ba Na Hills) – El Santuario entre las Nubes
 
 Situada a 1.500 metros sobre el nivel del mar, su gran atractivo visual es la estatua de Buda Sakyamuni sentado sobre una flor de loto de 27 metros. Debido al clima de montaña, es muy común que las nubes rodeen la estatua, creando la ilusión de que el templo flota en el cielo. La pagoda es un refugio de serenidad frente al contraste del complejo temático de Ba Na Hills.
@@ -85,7 +95,9 @@ Situada a 1.500 metros sobre el nivel del mar, su gran atractivo visual es la es
 * **Cómo llegar:** Sistema de teleférico de Ba Na Hills.
 * **Mejor hora:** 08:00 AM a 10:00 AM para evitar aglomeraciones.
 
-## Cómo Organizar tu Ruta: Una Pagoda por Día
+  <div class="post-img-box img-completo img-centro"><img src="/img/diario/ba-na-hills-hands.JPG" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+
+## Cómo organizar la visita itinerario:
 
 La mejor manera de disfrutar del Triángulo Sagrado es dedicar al menos 3 días a Da Nang y visitar una pagoda por jornada.
 
@@ -93,7 +105,7 @@ La mejor manera de disfrutar del Triángulo Sagrado es dedicar al menos 3 días 
 * **Día 2:** Mañana en las cuevas de mármol y Linh Ung Non Nuoc. Tarde en la ciudad antigua de Hoi An.
 * **Día 3:** Excursión a Ba Na Hills para visitar la pagoda entre las nubes y el famoso Golden Bridge.
 
-## Consejos de Etiqueta y Respeto
+## Consejos de etiqueta y respeto
 
 Aunque son atracciones turísticas, recuerda que son lugares de culto activo.
 
@@ -101,4 +113,10 @@ Aunque son atracciones turísticas, recuerda que son lugares de culto activo.
 * **Calzado:** Retira el calzado y los sombreros al ingresar a los salones principales.
 * **Fotografía:** Sé consciente en los espacios de meditación; mantén el silencio y evita interrumpir a quienes rezan.
 
-🎒 ¿Pensando en establecerte una temporada en Da Nang? Si vas a trabajar remoto, no te pierdas nuestro artículo sobre el **Costo de vida en Da Nang para nómadas digitales**. Y si apenas estás diseñando tu viaje, mantente atento a nuestra próxima Guía Completa de Da Nang en 3, 5 y 7 días.
+🎒 ¿Pensando en establecerte una temporada en Da Nang? Si vas a trabajar remoto, no te pierdas nuestro artículo sobre [¿Cómo es vivir como nómada digital en Vietnam? y costo de vida en Da Nang.](https://blogcito.com/diario/nomada-digital-vietnam-costo-de-vida-da-nang/) Y si apenas estás diseñando tu viaje, mantente atento a nuestra próxima Guía Completa de Da Nang.
+
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/marble-mountains-dragon-sculpted-wall.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/marble-mountains-temple-statue-cave-praying.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/lady-buda.jpeg" alt="Imagen de bitácora"><span class="img-caption"></span></div>
