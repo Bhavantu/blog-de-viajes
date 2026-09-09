@@ -5,9 +5,8 @@ title: "Qué Hacer en Amed (Bali): Snorkel Libre, costos reales y playas sin mas
 date: 2026-07-21T13:43:00.000+08:00
 tag: guia de viaje
 pais: Indonesia
-description: "¿Viajás a Bali? Descubrí Amed, el refugio de playa y snorkel libre
-  bajo el volcán Agung. Presupuesto, mapas y consejos reales para disfrutar sin
-  estafas. "
+description: "Descubrí Amed, el refugio de playa y snorkel libre bajo el volcán
+  Agung. Presupuesto, mapas y consejos reales para disfrutar sin estafas. "
 main_image: /img/diario/mount-agung.webp
 ---
 **¿Estás planeando tu viaje a la costa este de Bali?** En esta guía real te cuento todo lo **que hacer en Amed por libre**: desde cómo hacer snorkel en sus mejores bahías de arena negra, hasta precios actualizados de templos, mapas y consejos honestos de supervivencia para slow travelers. Ahora, sin más preámbulos, comenzamos con el viaje. 
