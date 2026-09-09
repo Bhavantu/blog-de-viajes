@@ -243,6 +243,7 @@ Calculadora personalizada
     </a>
 </div>
 
- Si querés saber más sobre la fascinante cultura balinesa descubre [El alma de Bali: tradiciones y secretos.](https://blogcito.com/diario/bali-rituales-cultura-tradiciones-secretos/) 
-  Para conectar con la esencia local, descubre [El alma de Bali: tradiciones y secretos.](https://blogcito.com/diario/bali-rituales-cultura-tradiciones-secretos/)\
-  Si querés ver algunos de los paisajes más fascinantes, planificá tu viaje a la isla vecina: [Qué ver y dónde alojarse en Nusa Penida.  ](https://blogcito.com/diario/que-ver-en-nusa-penida-guia/)
+ Si querés saber más sobre la fascinante cultura y espiritualidad Balinesa descubre [El alma de Bali: tradiciones y secretos.](https://blogcito.com/diario/bali-rituales-cultura-tradiciones-secretos/) 
+
+También te recomendamos visitar [Ubud el corazón cultural de Bali. ](https://blogcito.com/diario/que-hacer-ubud-bali-que-ver-zonas-consejos-guia/)\
+ Si querés ver algunos de los paisajes más fascinantes, planificá tu viaje a la isla vecina: [Qué ver y dónde alojarse en Nusa Penida.  ](https://blogcito.com/diario/que-ver-en-nusa-penida-guia/)
