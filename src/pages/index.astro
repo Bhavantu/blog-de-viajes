@@ -411,31 +411,38 @@ if (featuredPosts.length < 3) {
 
     @media (max-width: 768px) {
         .hero-immersive-home {
-            align-items: center; /* Volvemos al centrado vertical natural de Flexbox */
-            text-align: center;
-            padding: 0 1.5rem; /* Quitamos el padding top forzado */
+            margin-top: 0 !important; /* Anula los -120px que subían el texto contra el logo */
             min-height: 100svh;
+            padding: 5.5rem 1.5rem 2.5rem 1.5rem; /* Deja respirar el logo y centra el resto */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
         }
-        
         .hero-content {
             align-items: center;
-            margin-top: 5rem; /* Separamos sutilmente el centro hacia abajo para esquivar el logo */
+            margin-top: 0;
         }
-        
+        .hero-immersive-home .hero-title {
+            font-size: clamp(2rem, 8vw, 2.5rem); /* Tamaño balanceado para no saturar la pantalla */
+            line-height: 1.15;
+            margin-bottom: 1rem;
+        }
         .hero-immersive-home .hero-subtitle {
+            font-size: 0.95rem;
+            margin-bottom: 1.8rem;
             margin-left: auto;
             margin-right: auto;
         }
-        
         .hero-actions {
             flex-direction: column;
             width: 100%;
+            gap: 0.8rem;
         }
-        
         .btn-primary, .btn-secondary {
             width: 100%;
+            padding: 13px 20px;
         }
-        
         .hero-scrim {
             background: linear-gradient(to bottom, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.4) 50%, rgba(0,0,0,0.7) 100%);
         }
