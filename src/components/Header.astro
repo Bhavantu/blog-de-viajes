@@ -44,7 +44,6 @@ if (cleanPath === '/nosotros' || cleanPath === '/about') {
     urlEn = rawPath;
 }
 
-// Detectamos si estamos dentro de un post
 const isPost = !!frontmatter;
 ---
 
@@ -67,11 +66,10 @@ const isPost = !!frontmatter;
                 <li><a href={t['route.diario']}>{t['nav.diario']}</a></li>
                 <li><a href={t['route.nosotros']}>{t['nav.nosotros']}</a></li>
                 
-                {/* Ocultamos el buscador y el selector de idiomas si estamos en un post */}
                 {!isPost && (
                     <>
                         <li class="btn-buscar">
-                            <a href="#" title="Buscar" class="search-icon">
+                            <a href="#" id="search-trigger" title="Buscar" class="search-icon">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                                     <circle cx="11" cy="11" r="8"></circle>
                                     <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
@@ -91,226 +89,498 @@ const isPost = !!frontmatter;
     </header>
 </div>
 
-<style>
-    .header-wrapper {
-        width: 100%;
-        z-index: 10000;
-        transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
-    }
-    
-    .header-wrapper.transparente {
-        position: absolute;
-        top: 0;
-        left: 0;
-        background: transparent;
-        border-bottom: none;
-    }
+<!-- ======================================================= -->
+<!-- MODAL DE BÚSQUEDA OCULTO -->
+<!-- ======================================================= -->
+<div id="search-modal" class="search-modal">
+    <div class="search-modal-content" id="search-modal-content">
+        <div class="search-header">
+            <svg class="search-input-icon" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <circle cx="11" cy="11" r="8"></circle>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+            </svg>
+            <input type="text" id="search-input" placeholder={currentLang === 'en' ? 'Search destinations, guides...' : 'Buscar destinos, guías...'} autocomplete="off" />
+            <button id="close-search" class="close-search-btn" aria-label="Cerrar búsqueda">&times;</button>
+        </div>
+        <!-- Envoltorio para la animación fluida -->
+        <div class="search-results-wrapper">
+            <ul id="search-results-list" class="search-results-list"></ul>
+        </div>
+    </div>
+</div>
 
-    .header-wrapper.solido {
-        position: sticky;
-        top: 0;
-        background: rgba(244, 241, 234, 0.85);
-        backdrop-filter: blur(12px);
-        -webkit-backdrop-filter: blur(12px);
-        border-bottom: 1px solid rgba(0,0,0,0.05);
-    }
-
-    .site-header { 
-        padding: 1.5rem 2.5rem; 
-        display: flex; 
-        justify-content: space-between; 
-        align-items: center; 
-        max-width: 1400px; 
-        margin: 0 auto; 
-        width: 100%; 
-    }
-
-    .logo-text { 
-        font-family: var(--font-display, 'Georgia', serif); 
-        font-size: 1.8rem; 
-        letter-spacing: 0.15em; 
-        text-transform: uppercase; 
-        font-weight: normal; 
-        color: var(--text-color, #333);
-        text-decoration: none;
-        transition: color 0.3s ease;
-    }
-
-    .header-wrapper.transparente .logo-text {
-        color: #ffffff !important;
-        text-shadow: 0 2px 6px rgba(0,0,0,0.9), 0 4px 16px rgba(0,0,0,0.6);
-    }
-    
-    nav ul.nav-links { 
-        list-style: none; 
-        display: flex; 
-        align-items: center;
-        gap: 2.5rem; 
-        margin: 0; 
-        padding: 0; 
-    }
-
-    nav a { 
-        font-family: var(--font-main, sans-serif);
-        font-size: 0.85rem; 
-        color: var(--text-color, #333); 
-        text-transform: uppercase; 
-        letter-spacing: 0.15em; 
-        font-weight: 600; 
-        text-decoration: none;
-        transition: opacity 0.3s ease, color 0.3s ease;
-    }
-
+<style is:global>
+    /* ======================================================= */
+    /* ESTILOS BASE DEL HEADER                                 */
+    /* ======================================================= */
+    .header-wrapper { width: 100%; z-index: 10000; transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1); }
+    .header-wrapper.transparente { position: absolute; top: 0; left: 0; background: transparent; border-bottom: none; }
+    .header-wrapper.solido { position: sticky; top: 0; background: rgba(244, 241, 234, 0.85); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); border-bottom: 1px solid rgba(0,0,0,0.05); }
+    .site-header { padding: 1.5rem 2.5rem; display: flex; justify-content: space-between; align-items: center; max-width: 1400px; margin: 0 auto; width: 100%; }
+    .logo-text { font-family: var(--font-display, 'Georgia', serif); font-size: 1.8rem; letter-spacing: 0.15em; text-transform: uppercase; font-weight: normal; color: var(--text-color, #333); text-decoration: none; transition: color 0.3s ease; }
+    .header-wrapper.transparente .logo-text { color: #ffffff !important; text-shadow: 0 2px 6px rgba(0,0,0,0.9), 0 4px 16px rgba(0,0,0,0.6); }
+    nav ul.nav-links { list-style: none; display: flex; align-items: center; gap: 2.5rem; margin: 0; padding: 0; }
+    nav a { font-family: var(--font-main, sans-serif); font-size: 0.85rem; color: var(--text-color, #333); text-transform: uppercase; letter-spacing: 0.15em; font-weight: 600; text-decoration: none; transition: opacity 0.3s ease, color 0.3s ease; }
     nav a:hover { opacity: 0.7; }
-
-    .header-wrapper.transparente nav a,
-    .header-wrapper.transparente .search-icon svg {
-        color: #ffffff !important;
-        text-shadow: 0 2px 6px rgba(0,0,0,0.9), 0 4px 16px rgba(0,0,0,0.6);
-    }
-
-    .search-icon {
-        display: flex; 
-        align-items: center;
-    }
-
-    .lang-switcher {
-        display: flex; 
-        align-items: center; 
-        gap: 8px; 
-        font-family: var(--font-main, sans-serif); 
-        font-size: 0.8rem; 
-        letter-spacing: 0.1em;
-    }
-
+    .header-wrapper.transparente nav a, .header-wrapper.transparente .search-icon svg { color: #ffffff !important; text-shadow: 0 2px 6px rgba(0,0,0,0.9), 0 4px 16px rgba(0,0,0,0.6); }
+    .search-icon { display: flex; align-items: center; }
+    .lang-switcher { display: flex; align-items: center; gap: 8px; font-family: var(--font-main, sans-serif); font-size: 0.8rem; letter-spacing: 0.1em; }
     .lang-switcher a { color: #888; transition: color 0.3s ease; font-weight: 500; }
     .lang-switcher a.active-lang { color: var(--text-color, #333); font-weight: bold; }
     .lang-separator { color: #ccc; font-weight: 300; }
-
-    .header-wrapper.transparente .lang-switcher a { 
-        color: rgba(255,255,255,0.85) !important; 
-        text-shadow: 0 2px 6px rgba(0,0,0,0.9), 0 4px 16px rgba(0,0,0,0.6);
-    }
-    .header-wrapper.transparente .lang-switcher a.active-lang { 
-        color: #ffffff !important; 
-    }
-    .header-wrapper.transparente .lang-separator { 
-        color: rgba(255,255,255,0.6) !important; 
-    }
-
-    .menu-toggle { 
-        display: none; 
-        background: none; 
-        border: none; 
-        cursor: pointer; 
-        width: 30px;
-        height: 20px;
-        position: relative;
-        z-index: 10001;
-    }
-
-    .hamburger-line {
-        display: block;
-        width: 100%;
-        height: 2px;
-        background-color: var(--text-color, #333);
-        position: absolute;
-        transition: all 0.3s ease;
-    }
-
-    .header-wrapper.transparente .hamburger-line {
-        background-color: #ffffff !important;
-        box-shadow: 0 1px 4px rgba(0,0,0,0.8);
-    }
-
+    .header-wrapper.transparente .lang-switcher a { color: rgba(255,255,255,0.85) !important; text-shadow: 0 2px 6px rgba(0,0,0,0.9), 0 4px 16px rgba(0,0,0,0.6); }
+    .header-wrapper.transparente .lang-switcher a.active-lang { color: #ffffff !important; }
+    .header-wrapper.transparente .lang-separator { color: rgba(255,255,255,0.6) !important; }
+    .menu-toggle { display: none; background: none; border: none; cursor: pointer; width: 30px; height: 20px; position: relative; z-index: 10001; }
+    .hamburger-line { display: block; width: 100%; height: 2px; background-color: var(--text-color, #333); position: absolute; transition: all 0.3s ease; }
+    .header-wrapper.transparente .hamburger-line { background-color: #ffffff !important; box-shadow: 0 1px 4px rgba(0,0,0,0.8); }
     .hamburger-line:first-child { top: 4px; }
     .hamburger-line:last-child { bottom: 4px; }
-
-    .menu-toggle.menu-abierto .hamburger-line:first-child {
-        transform: translateY(5px) rotate(45deg);
-        background-color: var(--text-color, #333) !important;
-        box-shadow: none;
-    }
-    .menu-toggle.menu-abierto .hamburger-line:last-child {
-        transform: translateY(-5px) rotate(-45deg);
-        background-color: var(--text-color, #333) !important;
-        box-shadow: none;
-    }
-
+    .menu-toggle.menu-abierto .hamburger-line:first-child { transform: translateY(5px) rotate(45deg); background-color: var(--text-color, #333) !important; box-shadow: none; }
+    .menu-toggle.menu-abierto .hamburger-line:last-child { transform: translateY(-5px) rotate(-45deg); background-color: var(--text-color, #333) !important; box-shadow: none; }
     .menu-overlay { display: none; }
 
+    /* ======================================================= */
+    /* ESTILOS DEL MODAL DE BÚSQUEDA REDISEÑADO                */
+    /* ======================================================= */
+    .search-modal {
+        display: flex;
+        position: fixed;
+        top: 0; left: 0; width: 100vw; height: 100vh;
+        background: rgba(0, 0, 0, 0.4);
+        backdrop-filter: blur(8px);
+        -webkit-backdrop-filter: blur(8px);
+        z-index: 11000;
+        opacity: 0;
+        pointer-events: none;
+        transition: opacity 0.3s ease;
+        align-items: flex-start;
+        justify-content: center;
+        padding-top: 12vh;
+    }
+    
+    .search-modal.active { 
+        opacity: 1; 
+        pointer-events: auto; 
+    }
+    
+    .search-modal-content {
+        width: 90%;
+        max-width: 650px;
+        background: #ffffff;
+        border-radius: 12px;
+        box-shadow: 0 20px 40px rgba(0,0,0,0.2);
+        overflow: hidden;
+        transform: translateY(-20px);
+        transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+        display: flex;
+        flex-direction: column;
+        max-height: 70vh;
+    }
+
+    .search-modal.active .search-modal-content {
+        transform: translateY(0);
+    }
+
+    .search-header {
+        display: flex;
+        align-items: center;
+        padding: 1.2rem 1.5rem;
+        /* Inicialmente transparente */
+        border-bottom: 1px solid transparent;
+        background: #ffffff;
+        transition: border-color 0.3s ease;
+    }
+    
+    /* Agregamos el borde solo cuando hay resultados */
+    .search-modal-content.has-results .search-header {
+        border-bottom: 1px solid #eaeaea;
+    }
+
+    .search-input-icon {
+        color: #888;
+        margin-right: 12px;
+    }
+
+    #search-input {
+        flex-grow: 1;
+        border: none;
+        background: transparent;
+        font-family: var(--font-main, sans-serif);
+        font-size: 1.3rem;
+        color: #333;
+        outline: none;
+        box-shadow: none !important;
+    }
+    #search-input::placeholder { color: #a1a1aa; font-weight: 400; }
+
+    .close-search-btn {
+        background: #f4f4f5;
+        border: none;
+        font-size: 1.2rem;
+        width: 32px;
+        height: 32px;
+        border-radius: 6px;
+        cursor: pointer;
+        color: #666;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition: background 0.2s ease;
+    }
+    .close-search-btn:hover { background: #e4e4e7; color: #111; }
+
+    /* ======================================================= */
+    /* ANIMACIÓN Y ESTRUCTURA DE RESULTADOS                    */
+    /* ======================================================= */
+    
+    /* El truco de grid para animar height: auto */
+    .search-results-wrapper {
+        display: grid;
+        grid-template-rows: 0fr;
+        transition: grid-template-rows 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+        width: 100%;
+    }
+    
+    .search-modal-content.has-results .search-results-wrapper {
+        grid-template-rows: 1fr;
+    }
+
+    .search-results-list {
+        min-height: 0; /* Propiedad mágica para que funcione la animación grid */
+        list-style: none !important;
+        padding: 0 !important;
+        margin: 0 !important;
+        overflow-y: auto !important;
+        overflow-x: hidden !important; 
+        -webkit-overflow-scrolling: touch;
+        width: 100% !important;
+    }
+
+    .search-result-item {
+        display: block !important;
+        padding: 0.8rem 1.5rem !important;
+        border-bottom: 1px solid #f4f4f5 !important;
+        transition: background 0.15s ease !important;
+        margin: 0 !important;
+        width: 100% !important;
+        box-sizing: border-box !important; 
+    }
+    
+    .search-result-item:hover {
+        background: #f9fafb !important;
+    }
+    
+    .search-result-item:last-child {
+        border-bottom: none !important;
+    }
+
+    .search-result-link {
+        display: flex !important;
+        flex-direction: row !important;
+        align-items: center !important;
+        gap: 1.2rem !important;
+        text-decoration: none !important;
+        color: inherit !important;
+        width: 100% !important;
+        background: none !important;
+        box-sizing: border-box !important;
+        padding: 0 !important;
+        margin: 0 !important;
+    }
+
+    .search-result-img {
+        width: 65px !important;
+        height: 65px !important;
+        min-width: 65px !important;
+        max-width: 65px !important;
+        object-fit: cover !important;
+        border-radius: 6px !important;
+        flex-shrink: 0 !important;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.08) !important;
+        margin: 0 !important;
+        display: block !important;
+    }
+
+    .search-result-text {
+        display: flex !important;
+        flex-direction: column !important;
+        justify-content: center !important;
+        overflow: hidden !important;
+        flex: 1 1 auto !important; 
+        min-width: 0 !important; 
+    }
+
+    .search-result-title {
+        font-family: var(--font-main, sans-serif) !important;
+        font-size: 1.05rem !important;
+        color: #1f2937 !important;
+        font-weight: 600 !important;
+        margin: 0 0 4px 0 !important;
+        line-height: 1.3 !important;
+        white-space: nowrap !important;
+        overflow: hidden !important;
+        text-overflow: ellipsis !important;
+        width: 100% !important;
+    }
+
+    .search-result-meta {
+        font-family: var(--font-main, sans-serif) !important;
+        font-size: 0.75rem !important;
+        color: #6b7280 !important;
+        text-transform: uppercase !important;
+        letter-spacing: 0.05em !important;
+        margin: 0 !important;
+        white-space: nowrap !important;
+        overflow: hidden !important;
+        text-overflow: ellipsis !important;
+    }
+
+    /* ======================================================= */
+    /* AJUSTES RESPONSIVE DEL MODAL Y MENU (Celulares)         */
+    /* ======================================================= */
     @media (max-width: 768px) {
         .site-header { padding: 1.2rem 1.5rem; }
         .menu-toggle { display: block; }
         
         .menu-overlay {
-            display: block;
-            position: fixed;
-            top: 0; left: 0; width: 100vw; height: 100vh;
-            background: rgba(0,0,0,0.6);
-            backdrop-filter: blur(3px);
-            z-index: 9990;
-            opacity: 0; pointer-events: none;
-            transition: opacity 0.4s ease;
+            display: block; position: fixed; top: 0; left: 0; width: 100vw; height: 100vh;
+            background: rgba(0,0,0,0.6); backdrop-filter: blur(3px); z-index: 9990;
+            opacity: 0; pointer-events: none; transition: opacity 0.4s ease;
         }
         .menu-overlay.menu-open { opacity: 1; pointer-events: auto; }
 
         #main-nav { 
-            display: flex; 
-            flex-direction: column;
-            position: fixed; 
-            top: 0; 
-            right: 0; 
-            width: 75vw; 
-            max-width: 320px;
-            height: 100vh; 
-            background-color: #f4f1ea; 
-            box-shadow: -10px 0 30px rgba(0,0,0,0.1); 
-            z-index: 9999; 
-            padding: 6rem 2rem 2rem; 
-            transform: translateX(100%);
+            display: flex; flex-direction: column; position: fixed; top: 0; right: 0; 
+            width: 75vw; max-width: 320px; height: 100vh; background-color: #f4f1ea; 
+            box-shadow: -10px 0 30px rgba(0,0,0,0.1); z-index: 9999; 
+            padding: 6rem 2rem 2rem; transform: translateX(100%);
             transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1);
         }
         
         #main-nav.menu-open { transform: translateX(0); }
         
-        nav ul.nav-links { 
-            flex-direction: column; 
-            gap: 2rem; 
-            align-items: flex-start; 
-        }
-
-/* Usamos #main-nav para tener mayor prioridad que el header transparente */
+        nav ul.nav-links { flex-direction: column; gap: 2rem; align-items: flex-start; }
         #main-nav a { font-size: 1.2rem; color: #333 !important; text-shadow: none !important; }
         #main-nav .search-icon svg { color: #333 !important; width: 24px; height: 24px; }
         
         #main-nav .lang-switcher { margin-top: 1.5rem; font-size: 1rem; }
         #main-nav .lang-switcher a { color: #888 !important; text-shadow: none !important; }
         #main-nav .lang-switcher a.active-lang { color: #333 !important; font-weight: bold; }
-        #main-nav .lang-separator { color: #ccc !important; text-shadow: none !important; }    }
+        #main-nav .lang-separator { color: #ccc !important; text-shadow: none !important; }
+
+        /* Ajustes específicos del modal de búsqueda para móvil */
+        .search-modal { 
+            padding-top: 0 !important; 
+            align-items: center !important; 
+        }
+        
+        .search-modal-content { 
+            width: 95% !important; 
+            max-height: 85vh !important; 
+        }
+        
+        #search-input { 
+            font-size: 1.15rem !important; 
+        }
+        
+        .search-header { 
+            padding: 1rem !important; 
+        }
+        
+        .search-result-item { 
+            padding: 0.8rem 1rem !important; 
+        }
+        
+        .search-result-link {
+            gap: 1rem !important; 
+        }
+        
+        .search-result-img {
+            width: 55px !important;
+            height: 55px !important;
+            min-width: 55px !important;
+            max-width: 55px !important;
+        }
+        
+        .search-result-title {
+            font-size: 0.95rem !important; 
+        }
+    }
 </style>
 
-<!-- ESTE SCRIPT ES EL QUE HACE QUE EL MENÚ FUNCIONE SIN ROMPER LA PANTALLA -->
-<script is:inline>
+<!-- SCRIPT GENERAL PARA MENÚ Y BÚSQUEDA -->
+<script>
+    // Función para normalizar texto (Quitar tildes y diacríticos)
+    const removeAccents = (str: string) => {
+        return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+    };
+
     document.addEventListener('DOMContentLoaded', () => {
-        const btn = document.getElementById('mobile-menu-btn');
-        const nav = document.getElementById('main-nav');
+        // --- 1. LÓGICA DEL MENÚ HAMBURGUESA ---
+        const btnMenu = document.getElementById('mobile-menu-btn');
+        const navMenu = document.getElementById('main-nav');
         const overlay = document.getElementById('mobile-menu-overlay');
 
+        function closeMenu() {
+            btnMenu?.classList.remove('menu-abierto');
+            navMenu?.classList.remove('menu-open');
+            overlay?.classList.remove('menu-open');
+            document.body.style.overflow = '';
+        }
+
         function toggleMenu() {
-            btn?.classList.toggle('menu-abierto');
-            nav?.classList.toggle('menu-open');
+            btnMenu?.classList.toggle('menu-abierto');
+            navMenu?.classList.toggle('menu-open');
             overlay?.classList.toggle('menu-open');
-            
-            // Evita que la persona haga scroll en el artículo mientras el menú está abierto
-            if(nav?.classList.contains('menu-open')) {
+            if(navMenu?.classList.contains('menu-open')) {
                 document.body.style.overflow = 'hidden';
             } else {
                 document.body.style.overflow = '';
             }
         }
 
-        btn?.addEventListener('click', toggleMenu);
-        overlay?.addEventListener('click', toggleMenu);
+        btnMenu?.addEventListener('click', toggleMenu);
+        overlay?.addEventListener('click', closeMenu);
+
+        // --- 2. LÓGICA DEL BUSCADOR ---
+        const searchTrigger = document.getElementById('search-trigger');
+        const searchModal = document.getElementById('search-modal');
+        const searchModalContent = document.getElementById('search-modal-content');
+        const closeSearchBtn = document.getElementById('close-search');
+        const searchInput = document.querySelector<HTMLInputElement>('#search-input');
+        const searchResultsList = document.getElementById('search-results-list');
+        const langCode = document.documentElement.lang || 'es'; 
+
+        // Abrir Modal de Búsqueda
+        searchTrigger?.addEventListener('click', (e) => {
+            e.preventDefault();
+            
+            // Cerramos el menú hamburguesa antes de abrir el buscador en móvil
+            if(navMenu?.classList.contains('menu-open')) {
+                closeMenu();
+            }
+            
+            searchModal?.classList.add('active');
+            
+            setTimeout(() => {
+                if (searchInput) searchInput.focus();
+            }, 100);
+            
+            document.body.style.overflow = 'hidden'; 
+        });
+
+        // Cerrar Modal de Búsqueda y resetear estados
+        function closeSearchModal() {
+            searchModal?.classList.remove('active');
+            if (searchInput) searchInput.value = '';
+            if (searchResultsList) searchResultsList.innerHTML = '';
+            searchModalContent?.classList.remove('has-results'); // Quitamos la clase para colapsar y borrar línea
+            document.body.style.overflow = '';
+        }
+
+        closeSearchBtn?.addEventListener('click', closeSearchModal);
+        
+        searchModal?.addEventListener('click', (e) => {
+            if (e.target === searchModal) {
+                closeSearchModal();
+            }
+        });
+
+        document.addEventListener('keydown', (e: KeyboardEvent) => {
+            if (e.key === 'Escape' && searchModal?.classList.contains('active')) {
+                closeSearchModal();
+            }
+        });
+
+        // --- 3. BÚSQUEDA EN VIVO Y CARGA DE POSTS ---
+        if (searchInput && searchResultsList) {
+            
+            let postsData: Record<string, any> = {};
+            
+            try {
+                if(langCode === 'en') {
+                    postsData = import.meta.glob('../pages/en/journal/*.md', { eager: true });
+                } else {
+                    postsData = import.meta.glob('../pages/diario/*.md', { eager: true });
+                }
+            } catch (error) {
+                console.error("Error al cargar posts", error);
+            }
+
+            const posts = Object.values(postsData);
+
+            // Mapeamos y pre-procesamos las strings para búsqueda optimizada (sin tildes)
+            const searchData = posts.map((post: any) => {
+                const p = post || {};
+                const fm = p.frontmatter || {};
+                const title = fm.title || '';
+                const content = typeof p.rawContent === 'function' ? p.rawContent().toLowerCase() : '';
+                
+                return {
+                    title: title,
+                    url: p.url || '',
+                    image: fm.main_image || '',
+                    tag: fm.tag || 'Diario',
+                    // Generamos un string "limpio" con el título y contenido para comparar
+                    searchString: removeAccents((title + " " + content).toLowerCase())
+                };
+            });
+
+            // Mientras teclea
+            searchInput.addEventListener('input', () => {
+                // Obtenemos el valor original y su versión sin tildes
+                const rawQuery = searchInput.value.toLowerCase().trim();
+                const query = removeAccents(rawQuery);
+                
+                searchResultsList.innerHTML = ''; 
+
+                // Cambiamos a >= 2 para que empiece a buscar a partir de 2 letras
+                if (query.length >= 2) {
+                    const filtered = searchData.filter((post: any) => 
+                        post.searchString.includes(query)
+                    ).slice(0, 5); 
+
+                    if (filtered.length > 0) {
+                        filtered.forEach((post: any) => {
+                            const li = document.createElement('li');
+                            li.className = 'search-result-item';
+                            
+                            li.innerHTML = `
+                                <a href="${post.url}" class="search-result-link">
+                                    ${post.image ? `<img src="${post.image}" class="search-result-img" alt="" />` : ''}
+                                    <div class="search-result-text">
+                                        <h4 class="search-result-title">${post.title}</h4>
+                                        <span class="search-result-meta">${post.tag}</span>
+                                    </div>
+                                </a>
+                            `;
+                            li.addEventListener('click', () => closeSearchModal());
+                            searchResultsList.appendChild(li);
+                        });
+                    } else {
+                        searchResultsList.innerHTML = `<li class="search-result-item" style="padding: 1.5rem; text-align: center; color: #666;">${langCode === 'en' ? 'No results found' : 'No se encontraron resultados'}</li>`;
+                    }
+                    
+                    // Añadimos la clase para desplegar el contenedor suavemente y mostrar la línea
+                    searchModalContent?.classList.add('has-results');
+                } else {
+                    // Si hay menos de 2 letras, contraemos y borramos la línea
+                    searchModalContent?.classList.remove('has-results');
+                }
+            });
+
+            // Al apretar ENTER 
+            searchInput.addEventListener('keydown', (e: KeyboardEvent) => {
+                if (e.key === 'Enter') {
+                    e.preventDefault(); 
+                    const query = searchInput.value.trim();
+                    if (query) {
+                        const searchUrl = langCode === 'en' ? `/en/search?q=${encodeURIComponent(query)}` : `/search?q=${encodeURIComponent(query)}`;
+                        window.location.href = searchUrl;
+                    }
+                }
+            });
+        }
     });
 </script>
