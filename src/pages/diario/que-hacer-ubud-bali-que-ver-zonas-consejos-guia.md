@@ -19,11 +19,20 @@ Desde el comienzo nos pareció que acá había un aura diferente: sí, es turís
 
 Si te interesa profundizar en la cultura podés leer [el alma de Bali, sus rituales y la cultura balinesa](https://blogcito.com/diario/2026-06-23-el-alma-de-bali-rituales-la-familia-y-el-secreto-de-la-felicidad-balinesa/)
 
+**En esta guía vas a encontrar:**
+
+1. [¿Qué hacer en Ubud? (Las 8 actividades principales)](#que-hacer-en-ubud)
+2. [Dónde alojarse en Ubud (Centro vs. Norte)](#donde-quedarse-en-ubud)
+3. [Tabla de precios y costos actualizados 2026](#tabla-de-costos)
+4. [Preguntas Frecuentes (Clima, seguridad y transporte)](#preguntas-frecuentes)
+
 ## Datos sobre Ubud
 
 Ubud, que está ubicado entre las montañas centrales de Bali, es una zona que combina lo turístico y lo local a la perfección. El centro está lleno de restaurantes y experiencias orientadas al turismo, pero también se encuentran muchos *warungs* (pequeños negocios familiares) y *guest houses* (casas con habitaciones gestionadas por la población local, siempre dispuesta a compartir sus prácticas y su cultura).
 
 Las actividades en Ubud son casi infinitas, y los conductores dispuestos a mostrarte un recorrido por los diferentes puntos también. La verdad es que [contratar un conductor de confianza y pasar por varios puntos en un día con un guía local es una gran opción, sobre todo si tenés un tiempo reducido de viaje.](https://www.booking.com/attractions/id/prlacetrgqo0-ubud-explorer-private-day-tour.es.html?aid=2439984&label=product-attractions-KUOw4lVyFHxONkKhk1ijJQS754810308874%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-1967745930671%3Alp9072522%3Ali%3Adec%3Adm%3Acid22520705213%3Aagid178703962946&source=searchresults-product-card&ufi=-2701757&date=2026-07-08&timeslot=ATS-PRlaCEtrgQo0-202607080700-nullnull&ticket_type=OF6FMaTt5Smw)
+
+- - -
 
 ## ¿Qué hacer en Ubud?
 
@@ -60,6 +69,8 @@ Esta es la que está más hacia al norte y es muchísimo menos turística. Es, d
 
 [Tour por las terrazas + ritual de purificación y traslados](https://www.getyourguide.com/es-es/jatiluwih-l88105/bali-tour-por-las-terrazas-arroceras-de-jatiluwih-y-purificacion-del-agua-t1327978/?ranking_uuid=7a0f57c5-f655-4f07-ba90-7c8c509de41d&q=Terraza+de+arroz+de+Jatiluwih&date_from=2026-07-08&date_to=2026-07-08)
 
+- - -
+
 ## 2. Cascadas: El refugio para el calor de Ubud
 
 <div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/cascada-ulu-petanu-ubud.webp" alt="Imagen de bitácora"><span class="img-caption">Ulu Petanu waterfall  - Ubud Bali</span></div>
@@ -72,13 +83,19 @@ Aunque hay decenas de opciones, acá te dejamos las tres que más nos recomendar
 2. **[Tibumana waterfall](https://www.getyourguide.com/es-es/ubud-l32246/ubud-cascadas-y-templo-con-terraza-de-arroz-en-tour-en-grupo-reducido-t484232/?ranking_uuid=13d6c0db-8eca-42aa-a5ca-99810cda8039&q=tibumana+waterfall&date_from=2026-07-08&date_to=2026-07-08):** Es una pequeña cascada rodeada de una selva densa y con una caída de agua recta y perfecta que forma una pileta natural ideal para nadar y sacar fotos increíbles. La entrada cuenta con escalones y un pequeño templo a la entrada. Aunque no la recorrimos, fue una cascada que nos quedó pendiente de las recomendaciones locales. Las entradas cuestan 15.000 IDR, lo que equivale aproximadamente a 0,84 USD o 0,74 euros.
 3. **[Ulu Petanu waterfall:](https://www.getyourguide.com/es-es/ubud-l32246/tour-por-ubud-con-guia-opcional-en-ingles-espanol-e-italiano-t895337/?ranking_uuid=22ec2f2f-5cf6-40d7-9f4d-6a2f07016c88&q=Cascada+Ulu+Petanu&date_from=2026-07-08&date_to=2026-07-08)** Una gema escondida a 40 minutos de Ubud central. Es una zona selvática con unas piscinas orientadas a ceremonias religiosas en la entrada; hay que bajar 90 escalones, pero es un lugar bastante tranquilo con estacionamiento gratuito. Cuenta con una cascada principal en la que es posible bañarse, otra pequeña y más retirada en la que algunos locales van a hacer pequeñas ceremonias diarias de limpieza y una cueva histórica llamada Tampaksiring de aproximadamente 200 metros llanos; la historia cuenta que fue excavada a mano como parte del sistema de riego de los arrozales en la antigüedad. El ingreso a esta cueva tiene un costo significativo de 10.000 IDR, y el ingreso a la cascada 30.000 IDR. El costo total de ambas entradas es alrededor de 2,24 USD o 1,9 euros. 
 
-<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/clase-de-cocina-balinesa-en-granja-orgánica.webp" alt="Taller-de-cocina-granja-ecológica">Taller de cocina vegetariana en granja ecológica Ubud </span></div>
+- - -
 
 ## 3. Taller de cocina balinesa en una granja ecológica: Nuestra experiencia estrella en Ubud
 
+
+
+<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/clase-de-cocina-balinesa-en-granja-orgánica.webp" alt="Imagen de bitácora"><span class="img-caption">Taller de cocina vegetariana en granja ecológica </span></div>
+
 Sin duda, una de las experiencias que más disfrutamos durante nuestro viaje por Bali fue hacer un taller de cocina balinesa vegetariana en una granja ecológica. La actividad fue perfecta de principio a fin: nos recogieron directamente en el centro de Ubud para trasladarnos hacia las montañas del norte. Al llegar, la exuberante vegetación y el equipo nos dieron la bienvenida con un auténtico *"Welcome to the jungle"*.
 
-Nos acompañó una chica local súper amable a lo largo de toda la clase. Elegimos la opción de la tarde y tuvimos la suerte de ser los únicos del grupo en esa sesión, lo que convirtió el taller en una cena romántica privada dentro de una construcción tradicional balinesa. Durante la actividad, cosechamos vegetales del huerto, aprendimos a preparar y degustamos 6 platos vegetarianos de la gastronomía balinesa (pueden ser con carne) que ciertamente dejaron la vara culinaria muy alta. Además, en la mañana incluye una visita al mercado local. Es una actividad muy auténtica y divertida fuera de las rutas masivas de Ubud, que recomendamos al 100%. Podés reservar con antelación [acá: Clase de cocina Balinesa en una granja ecológica](https://www.google.com/search?q=https://www.getyourguide.com/bali-l347/clase-de-cocina-balinesa-en-una-granja-ecologica-t101019/%3Fpartner_id%3DTU_ID_DE_AFILIADO).
+Nos acompañó una chica local súper amable a lo largo de toda la clase. Elegimos la opción de la tarde y tuvimos la suerte de ser los únicos del grupo en esa sesión, lo que convirtió el taller en una cena romántica privada dentro de una construcción tradicional balinesa. Durante la actividad, cosechamos vegetales del huerto, aprendimos a preparar y degustamos 6 platos vegetarianos de la gastronomía balinesa (pueden ser con carne) que ciertamente dejaron la vara culinaria muy alta. Además, en la mañana incluye una visita al mercado local. Es una actividad muy auténtica y divertida fuera de las rutas masivas de Ubud, que recomendamos al 100%. Podés reservar con antelación [Podés reservar con antelación acá.](https://www.getyourguide.com/es-es/bali-l347/clase-de-cocina-balinesa-en-una-granja-ecologica-t101019/)
+
+- - -
 
 ## 4. La experiencia del café y el polémico Kopi Luwak: el café más caro del mundo
 
@@ -91,6 +108,8 @@ Muchas de estas plantaciones tienen la famosa experiencia del café "más caro d
 **El dilema ético de los luwaks:** La cuestión en términos del cuidado y las condiciones de vida de estos animales sigue siendo un gran misterio para mí. Aunque digan que los granos son de origen silvestre, la alta demanda turística generó que en muchas plantaciones mantengan a los luwaks en jaulas muy estrechas para forzarlos a comer únicamente café. Creo que un posible camino ético, si decidís probarlo, es investigar bien el lugar y evitar fomentar los sitios donde veas animales en cautiverio con fines de exhibición.
 
 Aún así, existen lugares como "Lokasari Agrowisata" que ofrecen una interesante [experiencia cultural, artesanal y ética en sus campos de plantación de café, producción orgánica de té de hierbas y miel.](https://www.getyourguide.com/sidemen-village-l92066/lokasari-tour-por-una-plantacion-de-cafe-te-de-hierbas-y-miel-pura-t1040405?ranking_uuid=36029e36-77dd-4afa-b226-b241f7e7449b&q=Tours+sobre+caf%C3%A9,+Bali&date_from=2026-07-10) *([Este tour no ofrece traslado)](https://www.getyourguide.com/sidemen-village-l92066/lokasari-tour-por-una-plantacion-de-cafe-te-de-hierbas-y-miel-pura-t1040405?ranking_uuid=36029e36-77dd-4afa-b226-b241f7e7449b&q=Tours+sobre+caf%C3%A9,+Bali&date_from=2026-07-10)*
+
+- - -
 
 ## 5. Templos: Reglas de respeto y el Ritual de Purificación
 
@@ -123,6 +142,8 @@ Para hacer este ritual de forma respetuosa y correcta, es necesario contar con u
 
 Una opción que nos parece razonable después de nuestra experiencia, para evitar romper con la mística del momento, es contratar previamente [un tour que tenga todo incluido.](https://www.getyourguide.com/es-es/bali-l347/bali-visita-al-templo-gunung-kawi-con-ritual-de-purificacion-t1141894/?ranking_uuid=12e8c29b-2205-4eb2-ad7e-128b215afda8&q=ritual+de+purificacion&date_from=2026-07-08&date_to=2026-07-08) Nos parece interesante [este tour que incluye el ritual, las entradas, los costos añadidos y además podés conocer las terrazas de Jatiluwih (las menos turísticas).](https://www.getyourguide.com/es-es/jatiluwih-l88105/bali-tour-por-las-terrazas-arroceras-de-jatiluwih-y-purificacion-del-agua-t1327978/?ranking_uuid=7a0f57c5-f655-4f07-ba90-7c8c509de41d&q=Terraza+de+arroz+de+Jatiluwih&date_from=2026-07-08&date_to=2026-07-08)
 
+- - -
+
 ## 6. Danza tradicional: El poder del Kecak y la elegancia del Legong
 
 La "Danza del Fuego" (*Kecak*) es impactante por su ritmo frenético, pero las danzas de las mujeres (*Legong*) poseen una elegancia y un control de los movimientos corporales. Originalmente, estas danzas se presentaban en las cortes reales frente a la nobleza para relatar mitos fundacionales. 
@@ -140,6 +161,8 @@ Lo curioso en esta obra es que no utiliza ningún instrumento musical de fondo. 
 Al comienzo, la danza narra un fragmento de la epopeya hindú del *Ramayana*: la historia de amor del príncipe Rama y la princesa Sita, el rapto de esta última a manos del malvado demonio de múltiples cabezas, Ravana, y la posterior batalla mística donde interviene el valiente ejército de monos liderado por el dios simio Hanuman. Al finalizar (durante los últimos 10 o 15 minutos de la función), transcurre la danza del fuego, donde un bailarín en pleno estado de trance místico pisa y dispersa las brasas de coco encendidas con sus propios pies descalzos.
 
 [Entradas para el espectáculo Danza del Fuego](https://www.getyourguide.com/ubud-l32246/bali-entradas-para-el-espectaculo-de-danzas-kecak-y-del-fuego-de-ubud-t761650/?ranking_uuid=52efd32b-3783-48d5-a45f-37353c5a7dcf&q=volcan+bali&date_from=2026-07-08&date_to=2026-07-08)
+
+- - -
 
 ## 7. Sacred Monkey Forest Sanctuary: El hogar sagrado de los macacos
 
@@ -166,6 +189,8 @@ La famosa "Selfie con el mono": la famosa foto donde parece que el mono sostiene
 
 [Reservá un guía en español, italiano o inglés para varios de los puntos seleccionados con traslados, entradas y almuerzo incluido haciendo click acá](https://www.getyourguide.com/es-es/ubud-l32246/tour-por-ubud-con-guia-opcional-en-ingles-espanol-e-italiano-t895337?ranking_uuid=7604d510-5b5f-40f0-9755-6444cd1b50c4&date_from=2026-07-08)
 
+- - -
+
 ## 8. Palacio de Ubud (Puri Saren Agung)
 
 <div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/palacio-real-ubud-bali.webp" alt="Imagen de bitácora"><span class="img-caption">Palacio real Ubud durante el dia</span></div>
@@ -176,6 +201,7 @@ Situado en la esquina de Jalan Raya Ubud y Jalan Monkey Forest, frente al mercad
 * **Espectáculos nocturnos:** Todas las noches, a partir de las 7:00 PM, el patio principal se transforma en un escenario iluminado por antorchas para dar lugar a la danza tradicional balinesa de las mujeres *Legong*.
 
 *Nota de la editora: Estimado lector/lectora, recuerden que los precios y regulaciones en Bali fluctúan según la temporada y las actualizaciones de las administraciones locales de cada regencia. Se recomienda llevar siempre efectivo en rupias indonesias (IDR), ya que en muchos templos y cascadas no se aceptan tarjetas de crédito.* 
+- - -
 
 ## **Donde quedarse en Ubud**
 
@@ -224,6 +250,8 @@ Probamos varias opciones, pero creo que tengo una recomendación sólida para qu
 <div class="stay22-inline-map" style="margin: 2rem 0; border-radius: 12px; overflow: hidden;">
   <iframe id="stay22-widget" width="100%" height="428" src="https://stay22.com/embed/6a4496f5198cff107e57ca30" frameborder="0"></iframe>
 </div>
+
+- - -
 
 ## Tabla de costos de actividades, entradas y tours en Ubud
 
