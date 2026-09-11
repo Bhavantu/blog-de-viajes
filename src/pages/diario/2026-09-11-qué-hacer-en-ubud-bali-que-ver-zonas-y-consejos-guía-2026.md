@@ -1,6 +1,7 @@
 ---
 layout: ../../layouts/BlogPostLayout.astro
-title: "Qué hacer en Ubud, Bali: que ver, zonas y consejos. Guía 2026"
+title: "Guía corta sin fotos Qué hacer en Ubud, Bali: que ver, zonas y consejos.
+  Guía 2026"
 date: 2026-09-11T19:06:00.000+08:00
 tag: guia de viaje
 pais: Indonesia
