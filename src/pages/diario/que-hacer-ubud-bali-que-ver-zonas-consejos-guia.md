@@ -18,7 +18,7 @@ Desde que llegamos a Ubud, cada parte de su aura comenzó a deleitarnos: desde s
 
 Desde el comienzo nos pareció que acá había un aura diferente: sí, es turística, pero también más tranquila. Hay mucha gente auténticamente local y amable que te mira a los ojos y se detiene en la calle para preguntarte: *¿cómo estás?* Así fue como Ubud nos enseñó sobre la cultura balinesa y se convirtió en nuestra base por un período de 10 días. 
 
-Si querés profundizar en la cultura podés leer [El alma de Bali: Rituales, la familia y el secreto de la felicidad balinesa](https://blogcito.com/diario/2026-06-23-el-alma-de-bali-rituales-la-familia-y-el-secreto-de-la-felicidad-balinesa/)
+Si te interesa profundizar en la cultura podés leer [el alma de Bali, sus rituales y la cultura balinesa](https://blogcito.com/diario/2026-06-23-el-alma-de-bali-rituales-la-familia-y-el-secreto-de-la-felicidad-balinesa/)
 
 * ## Datos sobre Ubud:
 
@@ -271,14 +271,14 @@ Desde ya ¡gracias por leer y buenos viajes!
 
 ## Podría interesarte también:
 
-Si buscas combinar la naturaleza de Ubud con playas tranquilas y esnórquel, te recomendamos leer:
+Todo lo que encesitas saber para planificar tu viaje a bali:
+
+* [Viajar a Bali en 2026: Requisitos, transporte y zonas para quedarse](https://blogcito.com/diario/2026-06-18-bali-bby-1/)
+
+Si buscas combinar la naturaleza de Ubud con playas de esnórquel y buceo, te recomendamos leer:
 
 * [Qué hacer en Amed, Bali: Guía real de slow travel y presupuesto 2026](https://blogcito.com/diario/2026-07-18-amed-bali-gu%C3%ADa-real-de-slow-travel/)
 
-Si querés conocer sobre la cultura Balinesa:
+Nusa Pénida la isla vecina de Bali con paisajes imperdibles:
 
-* [El alma de Bali: Rituales, la familia y el secreto de la felicidad balinesa](https://blogcito.com/diario/2026-06-23-el-alma-de-bali-rituales-la-familia-y-el-secreto-de-la-felicidad-balinesa/)
-
-Si querés planificar tu viaje a bali:
-
-* [Viajar a Bali en 2026: Requisitos, transporte y zonas para quedarse](https://blogcito.com/diario/2026-06-18-bali-bby-1/)
+* [Nusa Penida: Guía completa, como visitarla sin aglomeraciones ](https://blogcito.com/en/journal/what-to-see-nusa-penida/)
