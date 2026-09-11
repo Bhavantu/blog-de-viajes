@@ -18,7 +18,7 @@ Desde que llegamos a Ubud, cada parte de su aura comenzó a deleitarnos: desde s
 
 Desde el comienzo nos pareció que acá había un aura diferente: sí, es turística, pero también más tranquila. Hay mucha gente auténticamente local y amable que te mira a los ojos y se detiene en la calle para preguntarte: *¿cómo estás?* Así fue como Ubud nos enseñó sobre la cultura balinesa y se convirtió en nuestra base por un período de 10 días. 
 
-Si querés profundizar en la cultura podés leer [El alma de Bali: Rituales, la familia y el secreto de la felicidad balinesa](https://blogcito.com/diario/2026-06-23-el-alma-de-bali-rituales-la-familia-y-el-secreto-de-la-felicidad-balinesa/)
+Si te interesa profundizar en la cultura podés leer [el alma de Bali, sus rituales y la cultura balinesa](https://blogcito.com/diario/2026-06-23-el-alma-de-bali-rituales-la-familia-y-el-secreto-de-la-felicidad-balinesa/)
 
 * ## Datos sobre Ubud:
 
@@ -77,7 +77,7 @@ Aunque hay decenas de opciones, acá te dejamos las tres que más nos recomendar
 
 Sin duda, una de las experiencias que más disfrutamos durante nuestro viaje por Bali fue hacer un taller de cocina balinesa vegetariana en una granja ecológica. La actividad fue perfecta de principio a fin: nos recogieron directamente en el centro de Ubud para trasladarnos hacia las montañas del norte. Al llegar, la exuberante vegetación y el equipo nos dieron la bienvenida con un auténtico *"Welcome to the jungle"*.
 
-Nos acompañó una chica local súper amable a lo largo de toda la clase. Elegimos la opción de la tarde y tuvimos la suerte de ser los únicos del grupo en esa sesión, lo que convirtió el taller en una cena romántica privada dentro de una construcción tradicional balinesa. Durante la actividad, cosechamos vegetales del huerto, aprendimos a preparar y degustamos 6 platos vegetarianos de la gastronomía balinesa (pueden ser con carne) que ciertamente dejaron la vara culinaria muy alta. Además, en la mañana incluye una visita al mercado local. Es una actividad muy auténtica y divertida fuera de las rutas masivas de Ubud, que recomendamos al 100%. Podés reservar con antelación [acá: Clase de cocina Balinesa en una granja ecológica](https://www.google.com/search?q=https://www.getyourguide.com/bali-l347/clase-de-cocina-balinesa-en-una-granja-ecologica-t101019/%3Fpartner_id%3DTU_ID_DE_AFILIADO).
+Nos acompañó una chica local súper amable a lo largo de toda la clase. Elegimos la opción de la tarde y tuvimos la suerte de ser los únicos del grupo en esa sesión, lo que convirtió el taller en una cena romántica privada dentro de una construcción tradicional balinesa. Durante la actividad, cosechamos vegetales del huerto, aprendimos a preparar y degustamos 6 platos vegetarianos de la gastronomía balinesa (pueden ser con carne) que ciertamente dejaron la vara culinaria muy alta. Además, en la mañana incluye una visita al mercado local. Es una actividad muy auténtica y divertida fuera de las rutas masivas de Ubud, que recomendamos al 100%. [Podés reservar con antelación acá.](https://www.getyourguide.com/es-es/bali-l347/clase-de-cocina-balinesa-en-una-granja-ecologica-t101019/)
 
 ## 4. La experiencia del café y el polémico Kopi Luwak: el café más caro del mundo
 
@@ -271,14 +271,14 @@ Desde ya ¡gracias por leer y buenos viajes!
 
 ## Podría interesarte también:
 
-Si buscas combinar la naturaleza de Ubud con playas tranquilas y esnórquel, te recomendamos leer:
+Todo lo que encesitas saber para planificar tu viaje a bali:
+
+* [Viajar a Bali en 2026: Requisitos, transporte y zonas para quedarse](https://blogcito.com/diario/2026-06-18-bali-bby-1/)
+
+Si buscas combinar la naturaleza de Ubud con playas de esnórquel y buceo, te recomendamos leer:
 
 * [Qué hacer en Amed, Bali: Guía real de slow travel y presupuesto 2026](https://blogcito.com/diario/2026-07-18-amed-bali-gu%C3%ADa-real-de-slow-travel/)
 
-Si querés conocer sobre la cultura Balinesa:
+Nusa Pénida la isla vecina de Bali con paisajes imperdibles:
 
-* [El alma de Bali: Rituales, la familia y el secreto de la felicidad balinesa](https://blogcito.com/diario/2026-06-23-el-alma-de-bali-rituales-la-familia-y-el-secreto-de-la-felicidad-balinesa/)
-
-Si querés planificar tu viaje a bali:
-
-* [Viajar a Bali en 2026: Requisitos, transporte y zonas para quedarse](https://blogcito.com/diario/2026-06-18-bali-bby-1/)
+* [Nusa Penida: Guía completa, como visitarla sin aglomeraciones ](https://blogcito.com/en/journal/what-to-see-nusa-penida/)
