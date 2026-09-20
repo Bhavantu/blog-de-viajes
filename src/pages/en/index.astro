@@ -2,12 +2,14 @@
 import Layout from '../../layouts/Layout.astro';
 import ScrollExpandHero from '../../components/ui/ScrollExpandHero.astro';
 import { ui } from '../../i18n/ui.js';
+import { destinationsData as destinations, categoriesData as categories } from '../../data/taxonomies.js';
 
-const currentLang = Astro.currentLocale || 'en';
-const t = ui[currentLang as keyof typeof ui] || ui['en'];
+// Forzamos el idioma a inglés para esta ruta
+const currentLang = 'en';
+const t = ui['en'];
 
-// Leemos las entradas de la carpeta en inglés
-const posts = import.meta.glob('./journal/*.md', { eager: true });
+// Leemos las entradas de la carpeta en inglés (journal)
+const posts = import.meta.glob('../en/journal/*.md', { eager: true });
 const allPosts = Object.values(posts);
 
 const sortedPosts = allPosts.sort((a: any, b: any) => {
@@ -25,104 +27,27 @@ if (featuredPosts.length < 6) {
 } else {
     featuredPosts = featuredPosts.slice(0, 6);
 }
-
-// ==========================================
-// DATOS DEL CARRUSEL DE DESTINOS (ENGLISH)
-// ==========================================
-const destinations = [
-  {
-    title: 'Indonesia',
-    subtitle: 'Southeast Asia',
-    description: 'Ancient temples, lush jungles, and a vibrant culture. Discover how to explore the islands at a slow pace, avoiding tourist traps and on a local budget.',
-    accent: 'oklch(0.55 0.12 150)', 
-    imageUrl: '/img/kelingking-beach14.webp',
-    link: '/en/destinations/indonesia'
-  },
-  {
-    title: 'Vietnam',
-    subtitle: 'Southeast Asia',
-    description: 'From the Sapa mountains to the Mekong Delta. An honest guide to navigating its beautiful chaos, unmatched street food, and karst landscapes.',
-    accent: 'oklch(0.60 0.15 45)', 
-    imageUrl: '/img/vietnam.webp',
-    link: '/en/destinations/vietnam'
-  },
-  {
-    title: 'New Zealand',
-    subtitle: 'Oceania',
-    description: 'Endless roads, imposing fjords, and van life. Everything you need to know about the Working Holiday, buying a vehicle, and nomadic travel.',
-    accent: 'oklch(0.55 0.08 220)', 
-    imageUrl: '/img/nueva-zelanda.webp',
-    link: '/en/destinations/new-zealand'
-  },
-  {
-    title: 'China',
-    subtitle: 'Central Asia',
-    description: 'From the Great Wall to the temples of Xi’an. A guide to exploring China with budget tips, transportation advice, and cultural insights, avoiding tourist traps.',
-    accent: 'oklch(0.65 0.15 10)', 
-    imageUrl: '/img/China.webp',
-    link: '/en/destinations/china'
-  },
-  {
-    title: 'Thailand',
-    subtitle: 'Southeast Asia',
-    description: 'The digital nomad paradise. From the temples of Chiang Mai to the hidden beaches of the south. Everything about visas, cost of living, and street food.',
-    accent: 'oklch(0.70 0.15 50)', 
-    imageUrl: '/img/Tailandia.webp',
-    link: '/en/destinations/thailand'
-  }
-];
-
-// ==========================================
-// DATOS DE CATEGORÍAS (ENGLISH)
-// ==========================================
-const categories = [
-    {
-        title: 'Vanishing Point',
-        desc: 'Personal narrative, photography, poetic chronicles, reflections, and original music.',
-        img: '/img/punto-de-fuga.webp',
-        link: '/en/categories/vanishing-point'
-    },
-    {
-        title: 'Travel Guide',
-        desc: 'Concrete information on destinations, transport, stays, budgets, restaurants, essential apps, visas, and safety tips.',
-        img: '/img/dsc_0911.webp',
-        link: '/en/categories/travel-guide'
-    },
-    {
-        title: 'Local Life',
-        desc: 'Articles about the real experience of living day-to-day in a specific city (rentals, restaurants, activities, and practices).',
-        img: '/img/vietnam.webp',
-        link: '/en/categories/local-life'
-    },
-    {
-        title: 'Culture & Context',
-        desc: 'Historical, cultural, and social analysis of the destinations visited. Understanding local culture respectfully based on conversations and reading.',
-        img: '/img/contexto-y-cultura.webp',
-        link: '/en/categories/culture-and-context'
-    }
-];
 ---
 
 <Layout 
   title="Home - BLOGCITO" 
-  description="Travel journal, practical guides, and local life around the world. Join us as we discover new destinations through our stories and slow travel guides."
+  description="Travel journal, practical guides, and local life around the world. Join us to discover new destinations through our chronicles and slow travel."
   isTransparentHeader={true}
 >
-
-    <!-- 1. NUEVO HERO: SCROLL MEDIA EXPANSION (ENGLISH) -->
+    <!-- 1. NUEVO HERO: SCROLL MEDIA EXPANSION -->
     <ScrollExpandHero 
         bgImageSrc="/img/diario/hero2.webp"
         mediaSrc="/img/diario/hero3.webp"
     >
-        <!-- Título sin text-shadow -->
+        <!-- Título -->
         <h1 style="font-family: var(--font-display, 'Georgia', serif); font-size: clamp(2.5rem, 5vw, 4rem); line-height: 1.1; color: #ffffff; margin-bottom: 1.2rem; font-weight: 400; letter-spacing: -0.01em; text-wrap: balance;">
-            Discovering new worlds<br/>
+            Discovering other worlds<br/>
             <span style="font-style: italic; color: rgba(255,255,255,0.9);">at a slow pace.</span>
         </h1>
         
-        <!-- Párrafo sin text-shadow, sin background radial y sin padding -->
+        <!-- Párrafo -->
         <p style="font-family: var(--font-main, sans-serif); font-size: 1.05rem; color: rgba(255,255,255,0.95); max-width: 550px; margin-bottom: 2.5rem; line-height: 1.6; font-weight: 400; letter-spacing: 0.02em;">
-            Honest guides and transparent budgets to travel with cultural respect, work on the road, and inhabit new territories at your own rhythm.
+            Chronicles, culture, and honest travel guides.
         </p>
         
         <div style="display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center;">
@@ -151,13 +76,13 @@ const categories = [
                                             <span class="car-num-line"></span>
                                             <span class="car-num-text">{String(index + 1).padStart(2, '0')} / {String(destinations.length).padStart(2, '0')}</span>
                                         </div>
-                                        <h3 class="car-title">{dest.title}</h3>
-                                        <p class="car-subtitle" style={`color: ${dest.accent} !important;`}>{dest.subtitle}</p>
-                                        <p class="car-desc">{dest.description}</p>
+                                        <h3 class="car-title">{dest.title_en}</h3>
+                                        <p class="car-subtitle" style={`color: ${dest.accent} !important;`}>{dest.subtitle_en}</p>
+                                        <p class="car-desc">{dest.description_en}</p>
                                         
                                         <div class="car-action">
-                                            <a href={dest.link} class="bc-link" style={`--c-accent: ${dest.accent};`}>
-                                                View {dest.title} guides &rarr;
+                                            <a href={`/en/destinations/${dest.id}`} class="bc-link" style={`--c-accent: ${dest.accent};`}>
+                                                View {dest.title_en} guides &rarr;
                                             </a>
                                         </div>
                                     </div>
@@ -165,7 +90,7 @@ const categories = [
                                 
                                 <div class="car-image-container">
                                     <div class="car-image-frame">
-                                        <img src={dest.imageUrl} alt={dest.title} class="car-image" />
+                                        <img src={dest.imageUrl} alt={dest.title_en} class="car-image" />
                                         <div class="car-image-overlay" style={`background: linear-gradient(135deg, ${dest.accent} 0%, transparent 50%) !important; opacity: 0.15 !important;`}></div>
                                     </div>
                                     <div class="car-frame-corner car-frame-corner-tl" style={`border-color: ${dest.accent} !important;`}></div>
@@ -187,11 +112,11 @@ const categories = [
 
                         <div class="car-progress-bar">
                             {destinations.map((dest, index) => (
-                                <button class="car-progress-item" data-index={index} aria-label={`Go to ${dest.title}`}>
+                                <button class="car-progress-item" data-index={index} aria-label={`Go to ${dest.title_en}`}>
                                     <div class="car-progress-track">
                                         <div class="car-progress-fill" style={`background-color: ${dest.accent} !important;`}></div>
                                     </div>
-                                    <span class="car-progress-label">{dest.title}</span>
+                                    <span class="car-progress-label">{dest.title_en}</span>
                                 </button>
                             ))}
                         </div>
@@ -209,7 +134,7 @@ const categories = [
                         <p class="bc-subtitle-main">A selection of our best chronicles and guides.</p>
                     </div>
                     <div class="bc-header-right">
-                        <a href="/en/journal" class="bc-link">View all posts &rarr;</a>
+                        <a href="/en/journal" class="bc-link">View all entries &rarr;</a>
                     </div>
                 </div>
 
@@ -220,7 +145,7 @@ const categories = [
                         const imgSrc = post.frontmatter.main_image || 'https://images.unsplash.com/photo-1528181304800-259b08848526?q=80&w=1000&auto=format&fit=crop';
                         
                         const dateObj = new Date(post.frontmatter.date);
-                        const formattedDate = !isNaN(dateObj.getTime()) ? dateObj.toLocaleDateString(currentLang, { year: 'numeric', month: 'long', day: 'numeric' }) : '';
+                        const formattedDate = !isNaN(dateObj.getTime()) ? dateObj.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }) : '';
 
                         return (
                             <a href={post.url} class="bc-featured-card">
@@ -253,19 +178,18 @@ const categories = [
         <section id="categorias" class="bc-section-block bc-bg-light">
             <div class="bc-section-inner">
                 <div class="bc-header-centered">
-                    <h2 class="bc-title-main">Explore by Categories</h2>
-                    <p class="bc-subtitle-main">Find the content you need according to your travel style.</p>
+                    <h2 class="bc-title-main">Explore by Category</h2>
+                    <p class="bc-subtitle-main">Find the content you need based on your travel style.</p>
                 </div>
 
                 <div class="bc-hover-menu-container">
                     <div class="bc-hover-menu-list">
                         {categories.map((cat, index) => (
-                            <a href={cat.link} class="bc-hover-item" data-index={index}>
+                            <a href={`/en/categories/${cat.id}`} class="bc-hover-item" data-index={index}>
                                 <span class="bc-hm-number">0{index + 1}</span>
-                                <h3 class="bc-hm-title">{cat.title}</h3>
-                                <p class="bc-hm-desc">{cat.desc}</p>
-                                <!-- NUEVO: Flecha minimalista visible solo en móviles -->
-                                <span class="bc-hm-mobile-link" aria-label="Explorar categoría">
+                                <h3 class="bc-hm-title">{cat.title_en}</h3>
+                                <p class="bc-hm-desc">{cat.desc_en}</p>
+                                <span class="bc-hm-mobile-link" aria-label="Explore category">
                                     <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                         <line x1="5" y1="12" x2="19" y2="12"></line>
                                         <polyline points="12 5 19 12 12 19"></polyline>
@@ -276,7 +200,7 @@ const categories = [
                     </div>
                     <div class="bc-hover-visual">
                         {categories.map((cat, index) => (
-                            <img src={cat.img} alt={cat.title} class={`bc-hm-img ${index === 0 ? 'active' : ''}`} data-index={index} />
+                            <img src={cat.img} alt={cat.title_en} class={`bc-hm-img ${index === 0 ? 'active' : ''}`} data-index={index} />
                         ))}
                     </div>
                 </div>
@@ -292,7 +216,7 @@ const categories = [
                     <div class="bc-scrapbook-left">
                         <div class="bc-polaroid main">
                             <div class="bc-tape"></div>
-                            <img src="/img/nosotros.webp" alt="Blogcito creators traveling" onerror="this.src='https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?q=80&w=1000&auto=format&fit=crop'" />
+                            <img src="/img/nosotros.webp" alt="Creators of Blogcito traveling" onerror="this.src='https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?q=80&w=1000&auto=format&fit=crop'" />
                         </div>
                     </div>
                     
@@ -304,7 +228,7 @@ const categories = [
                                 We travel slowly, immerse ourselves in local communities, and write honest guides so you can plan your trip with a realistic budget and cultural respect. More than collecting attractions, we care about connecting with people, territories, and traditions.
                             </p>
                             <p class="bc-scrapbook-desc" style="text-align: left !important;">
-                                We created this space to answer the real questions we all ask before setting off: how much it actually costs to live in a place, how to adapt to local cultures, and how to balance remote work with conscious travel. No deceptive sponsored content—just practical insights.
+                                We created this space to answer the real questions we all have before leaving: how much it actually costs to live somewhere, how to adapt to local cultures, and how to balance remote work with mindful travel. No misleading ads, just practical facts.
                             </p>
                             <div class="bc-signature" style="text-align: left !important;">Lore & Santi</div>
                         </div>
@@ -335,7 +259,7 @@ const categories = [
             
             <div class="bc-finale-content">
                 <h2 class="bc-finale-title">Let's continue the journey together</h2>
-                <p class="bc-finale-desc">We keep this space free of invasive ads. If our guides helped you plan your adventure, there are two ways you can support us:</p>
+                <p class="bc-finale-desc">We keep this space free of invasive advertising. If our guides helped you plan your adventure, there are two ways you can support us:</p>
                 
                 <div class="bc-finale-links">
                     <a href="https://ko-fi.com/blogcito" target="_blank" rel="noopener noreferrer" class="bc-finale-link">
@@ -359,12 +283,12 @@ const categories = [
        SISTEMA WARM EDITORIAL & TEXTURA DE RUIDO
        ============================================================ */
     :root {
-        --c-brand: oklch(0.40 0.10 200);      
+        --c-brand: #00565d;      
         --c-brand-hover: oklch(0.30 0.10 200);
         --c-text-main: oklch(0.25 0.02 250);  
         --c-text-muted: oklch(0.55 0.02 250); 
-        --c-bg-warm: oklch(98.106% 0.0106 76.456);     
-        --c-border: oklch(89.98% 0.0097 72.47);      
+        --c-bg-warm: oklch(0.98 0.01 75);     
+        --c-border: oklch(0.90 0.01 75);      
     }
 
     body::after {
@@ -396,13 +320,13 @@ const categories = [
     }
     .bc-btn-outline:hover { background-color: var(--c-bg-warm) !important; border-color: var(--c-text-main) !important; transform: translateY(-2px) !important; color: var(--c-text-main) !important; }
 
-    /* Estilo forzado para el botón outline dentro del Hero oscuro (Efecto Glassmorphism) */
+    /* Estilo forzado para el botón outline dentro del Hero oscuro */
     .hero-outline-btn {
         color: #ffffff !important;
         border-color: rgba(255, 255, 255, 0.5) !important;
-        background-color: rgba(0, 0, 0, 0.2) !important; /* Fondo negro muy sutil */
-        backdrop-filter: blur(8px) !important; /* Efecto de vidrio esmerilado */
-        -webkit-backdrop-filter: blur(8px) !important; /* Soporte para Safari */
+        background-color: rgba(0, 0, 0, 0.2) !important; 
+        backdrop-filter: blur(8px) !important; 
+        -webkit-backdrop-filter: blur(8px) !important; 
     }
     .hero-outline-btn:hover {
         background-color: #ffffff !important;
@@ -423,14 +347,14 @@ const categories = [
     .bc-link:hover { background-size: 100% 2px !important; color: var(--c-accent, var(--c-brand)) !important; }
 
     /* ============================================================
-       ESTRUCTURA FULL-BLEED (De lado a lado)
+       ESTRUCTURA FULL-BLEED
        ============================================================ */
     .bc-main-wrapper { display: block !important; width: 100% !important; margin: 0 !important; padding: 0 !important; box-sizing: border-box !important; }
     .bc-section-block { display: block !important; width: 100% !important; padding: 7rem 2rem !important; box-sizing: border-box !important; margin-bottom: 0 !important; }
     .bc-section-inner { max-width: 1200px !important; margin: 0 auto !important; width: 100% !important; }
 
     .bc-bg-light { background-color: var(--c-bg-warm) !important; }
-    .bc-bg-muted { background-color: oklch(0.95 0.01 75) !important; }
+    .bc-bg-muted { background-color: oklch(95.107% 0.01068 76.459) !important; }
     .bc-border-top { border-top: 1px solid var(--c-border) !important; }
 
     @media (max-width: 768px) {
@@ -533,6 +457,7 @@ const categories = [
         .car-slide { 
             display: flex !important;
             flex-direction: column !important;
+            gap: 1rem !important;
             position: absolute !important;
             inset: 0 !important;
             opacity: 0;
@@ -544,7 +469,6 @@ const categories = [
             position: relative !important; 
         }
 
-        /* 1. IMAGEN ARRIBA (Altura fija) */
         .car-image-container { 
             order: 1 !important;
             width: 100% !important;
@@ -555,49 +479,61 @@ const categories = [
         .car-slide.is-active .car-image-frame { transform: none !important; }
         .car-frame-corner { display: block !important; }
         .car-image-overlay { 
-            background: linear-gradient(to bottom, rgba(0,0,0,0.3) 0%, rgba(0,0,0,0.85) 100%) !important; 
+            background:
+                radial-gradient(ellipse 220px 130px at top right, rgba(0,0,0,0.35) 0%, transparent 70%),
+                radial-gradient(ellipse 320px 200px at bottom left, rgba(0,0,0,0.45) 0%, transparent 75%) !important;
             opacity: 1 !important; 
             mix-blend-mode: normal !important;
         }
 
-        /* 2. NEUTRALIZAR CONTENEDORES PARA LIBERAR LA POSICIÓN ABSOLUTA */
         .car-content { 
             order: 2 !important;
             width: 100% !important;
-            padding: 0 !important;
+            padding: 0 !important; 
+            margin: 0 !important;
             position: static !important;
+            display: block !important;
+            height: auto !important;
         }
         .car-content-inner {
             position: static !important;
-            transform: none !important;
+            transform: none !important; 
+            display: block !important;
+            height: auto !important;
+            padding: 0 !important;
+            margin: 0 !important;
         }
         .car-slide.is-active .car-content-inner {
             transform: none !important;
+            padding: 0 !important;
+            margin: 0 !important;
         }
 
-        /* 3. TEXTOS SOBRE LA IMAGEN (Alineados a la izquierda) */
         .car-counter { 
             position: absolute !important;
             top: 1.5rem !important;
-            left: 1.5rem !important; /* Ajustado al margen izquierdo */
-            width: auto !important; /* Ancho automático para no forzar centro */
-            justify-content: flex-start !important; /* Alinea el flexbox a la izquierda */
+            right: 1.5rem !important;
+            left: auto !important;
+            width: auto !important; 
+            justify-content: flex-end !important;
             z-index: 10 !important;
-            margin: 0 !important; 
+            margin: 0 !important;
+            background: rgba(0, 0, 0, 0.063) !important;
+            padding: 0.2rem 0.5rem !important;
+            border-radius: 6px !important;
         }
         .car-num-line { background-color: rgba(255,255,255,0.7) !important; }
-        .car-num-text { color: #ffffff !important; text-shadow: 0 2px 4px rgba(0,0,0,0.8) !important;}
+        .car-num-text { color: #ffffff !important; text-shadow: 0 1px 3px rgba(0,0,0,0.5) !important; }
 
         .car-title { 
             position: absolute !important;
-            bottom: 40px !important; /* Anclado desde abajo para que respire con el subtitulo */
-            left: 1.5rem !important; /* Margen izquierdo estricto */
-            top: auto !important; /* Reseteamos el top del código anterior */
+            top: 250px !important;
+            left: 1.5rem !important;
             width: auto !important;
-            text-align: left !important; /* A la izquierda */
+            text-align: left !important;
             font-size: clamp(2.2rem, 8vw, 2.5rem) !important; 
             color: #ffffff !important; 
-            text-shadow: 0 2px 10px rgba(0,0,0,0.8) !important;
+            text-shadow: 0 1px 4px rgba(0, 0, 0, 0.063) !important;
             z-index: 10 !important;
             margin: 0 !important;
             line-height: 1 !important;
@@ -605,35 +541,33 @@ const categories = [
         
         .car-subtitle { 
             position: absolute !important;
-            bottom: 15px !important; /* Pegado abajo del titulo */
-            left: 1.5rem !important; /* Margen izquierdo estricto */
-            top: auto !important;
+            top: 305px !important;
+            left: 1.5rem !important;
             width: auto !important;
-            text-align: left !important; /* A la izquierda */
+            text-align: left !important;
             font-size: 0.95rem !important;
-            text-shadow: 0 2px 6px rgba(0,0,0,0.9) !important;
+            text-shadow: 0 1px 4px rgba(0, 0, 0, 0.699) !important;
             z-index: 10 !important;
             margin: 0 !important;
         }
 
-        /* 4. PÁRRAFO Y BOTÓN (Alineados a la izquierda, menos margen superior) */
         .car-desc { 
-            margin: 1.5rem 0 1.5rem 0 !important; /* Menos espacio arriba (antes era 1.5rem auto, ahora pegado a izq) */
-            text-align: left !important; /* A la izquierda */
+            margin: 1rem 0 1.5rem 0 !important; 
+            text-align: left !important; 
             font-size: 1.05rem !important; 
             color: var(--c-text-muted) !important; 
-            padding: 0 0.5rem !important; /* Padding lateral muy sutil para que alinee visualmente con el texto interior de la imagen */
+            padding: 0 0.5rem !important;
             display: block !important;
         }
 
         .car-action {
             display: flex !important;
-            justify-content: flex-start !important; /* Botón a la izquierda */
+            justify-content: flex-start !important; 
+            margin-top: 0 !important; 
             margin-bottom: 2rem !important;
             padding: 0 0.5rem !important;
         }
 
-        /* 5. CONTROLES DE CARRUSEL */
         .car-controls { 
             position: relative !important;
             width: 100% !important; 
@@ -778,45 +712,13 @@ const categories = [
         transform: scale(1) !important;
     }
 
-    /* Mostramos y damos estilo al enlace en móviles */
-        .bc-hm-mobile-link {
-            display: inline-flex !important;
-            align-items: center !important;
-            font-family: var(--font-main, sans-serif) !important;
-            font-size: 0.85rem !important;
-            font-weight: 700 !important;
-            text-transform: uppercase !important;
-            letter-spacing: 0.05em !important;
-            color: var(--c-brand) !important;
-            
-            /* Damos un margen superior amplio para separarlo del párrafo */
-            margin-top: 1.5rem !important;
-            
-            /* Lo tiramos hacia la derecha usando margin-left auto */
-            margin-left: auto !important;
-            
-            /* Agregamos una pequeña línea debajo al hacer hover para darle más interactividad */
-            border-bottom: 1px solid transparent !important;
-            transition: border-color 0.3s ease, opacity 0.3s ease !important;
-        }
-        
-        .bc-hover-item {
-            /* Aseguramos que el contenedor sea flex para que el margin-left: auto funcione */
-            display: flex !important;
-            flex-direction: column !important;
-        }
-
-        .bc-hover-item:hover .bc-hm-mobile-link {
-            opacity: 0.8 !important;
-            border-color: var(--c-brand) !important;
-        }
+    .bc-hm-mobile-link { display: none !important; }
 
     @media (max-width: 950px) {
         .bc-hover-menu-container { grid-template-columns: 1fr !important; gap: 2rem !important; }
         .bc-hover-visual { display: none !important; } 
         .bc-hover-item:hover { padding-left: 0 !important; }
         
-        /* Mostramos y damos estilo a la flecha en móviles */
         .bc-hm-mobile-link {
             display: inline-flex !important;
             align-items: center !important;
@@ -841,19 +743,19 @@ const categories = [
             background-color: var(--c-brand) !important;
             color: #ffffff !important;
             border-color: var(--c-brand) !important;
-            transform: translateX(5px) !important; /* Pequeño empuje a la derecha al tocar */
+            transform: translateX(5px) !important;
         }
     }
 
     /* ============================================================
-       SCRAPBOOK EDITORIAL (Detrás de Blogcito - 3 Columnas)
+       SCRAPBOOK EDITORIAL
        ============================================================ */
     #quienes-somos { position: relative !important; z-index: 20 !important; }
     #apoyo { position: relative !important; z-index: 10 !important; }
 
     .bc-scrapbook-grid {
         display: grid !important;
-        grid-template-columns: 1fr 1.5fr 1fr !important; /* 3 Columnas: Foto - Texto ancho - Fotos */
+        grid-template-columns: 1fr 1.5fr 1fr !important; 
         gap: 3rem !important;
         align-items: center !important;
     }
@@ -866,11 +768,7 @@ const categories = [
         width: 100% !important;
     }
 
-    .bc-scrapbook-text {
-        display: flex !important;
-        flex-direction: column !important;
-        justify-content: center !important;
-    }
+    .bc-scrapbook-text { display: flex !important; flex-direction: column !important; justify-content: center !important; }
 
     .bc-scrapbook-desc {
         font-family: var(--font-main, sans-serif) !important;
@@ -893,7 +791,7 @@ const categories = [
         background: #ffffff !important;
         padding: 12px 12px 45px 12px !important; 
         box-shadow: 0 15px 35px rgba(0,0,0,0.15) !important;
-        position: relative !important; /* Cambiado a relative para que fluyan en el grid */
+        position: relative !important; 
     }
 
     .bc-polaroid img {
@@ -919,7 +817,6 @@ const categories = [
     .bc-tape.alt { transform: translateX(-50%) rotate(3deg) !important; width: 80px !important; }
     .bc-tape.alt-2 { transform: translateX(-50%) rotate(-4deg) !important; width: 70px !important; }
 
-    /* FOTO IZQUIERDA */
     .bc-polaroid.main {
         width: 130% !important;
         aspect-ratio: 4/5 !important;
@@ -927,13 +824,12 @@ const categories = [
         z-index: 1 !important;
     }
 
-    /* FOTOS DERECHA */
     .bc-polaroid.detail-top {
         width: 85% !important;
         aspect-ratio: 1/1 !important;
         transform: rotate(6deg) translateY(-10px) !important;
         z-index: 2 !important;
-        margin-bottom: -30px !important; /* Superpone levemente la foto de abajo */
+        margin-bottom: -30px !important; 
         margin-left: 20px !important;
     }
 
@@ -945,23 +841,22 @@ const categories = [
         margin-right: 20px !important;
     }
 
-    /* RESPONSIVE MÓVIL */
     @media (max-width: 950px) {
         .bc-scrapbook-grid { grid-template-columns: 1fr !important; gap: 3rem !important; }
-        .bc-polaroid.main { width: 80% !important; margin: 0 auto !important; }
-        
-        /* En móvil ponemos las dos fotos pequeñas una al lado de la otra */
+        .bc-scrapbook-visuals { width: 100% !important; max-width: 500px !important; margin: 0 auto 4rem auto !important; }
+        .bc-polaroid.main { width: 80% !important; left: 45% !important; top: 0 !important; transform: translateX(-50%) rotate(-2deg) !important; margin: 0 !important; }
         .bc-scrapbook-right { flex-direction: row !important; gap: 1rem !important; justify-content: center !important; }
-        .bc-polaroid.detail-top, .bc-polaroid.detail-bottom { width: 45% !important; margin: 0 !important; }
+        .bc-polaroid.detail-top, .bc-polaroid.detail-bottom { width: 50% !important; margin: 0 !important; }
         .bc-polaroid.detail-top { transform: rotate(-3deg) !important; }
         .bc-polaroid.detail-bottom { transform: rotate(4deg) !important; }
     }
+    
     @media (max-width: 600px) {
-        .bc-polaroid.main { width: 95% !important; }
+        .bc-polaroid.main { width: 92% !important; }
     }
 
     /* ============================================================
-       GRAND FINALE (Apoyo Inmersivo)
+       GRAND FINALE
        ============================================================ */
     .bc-grand-finale {
         position: relative !important;
@@ -974,126 +869,25 @@ const categories = [
         overflow: hidden !important;
     }
 
-    .bc-finale-bg {
-        position: absolute !important;
-        inset: 0 !important;
-        z-index: 0 !important;
-        background: #111 !important;
-    }
+    .bc-finale-bg { position: absolute !important; inset: 0 !important; z-index: 0 !important; background: #111 !important; }
+    .bc-finale-bg img { width: 100% !important; height: 100% !important; object-fit: cover !important; display: block !important; opacity: 0.6 !important; }
+    .bc-finale-scrim { position: absolute !important; inset: 0 !important; background: linear-gradient(to top, #111111 0%, rgba(17,17,17,0.2) 100%) !important; }
 
-    .bc-finale-bg img {
-        width: 100% !important;
-        height: 100% !important;
-        object-fit: cover !important;
-        display: block !important;
-        opacity: 0.6 !important; 
-    }
+    footer { background-color: #111111 !important; color: rgba(255,255,255,0.6) !important; padding-top: 2rem !important; }
+    footer p { color: rgba(255,255,255,0.6) !important; }
+    footer a { color: rgba(255,255,255,0.8) !important; }
+    footer a:hover { color: #ffffff !important; }
 
-    .bc-finale-scrim {
-        position: absolute !important;
-        inset: 0 !important;
-        /* El gradiente termina en color sólido (#111111) abajo para fundirse con el footer */
-        background: linear-gradient(to top, #111111 0%, rgba(17,17,17,0.2) 100%) !important;
-    }
-
-
-    /* ============================================================
-       FUSIÓN DEL FOOTER (Solo en la página de inicio)
-       ============================================================ */
-    footer {
-        background-color: #111111 !important;
-        color: rgba(255,255,255,0.6) !important;
-        padding-top: 2rem !important; /* Lo acercamos un poco más a la sección de arriba */
-    }
-    
-    /* Forzamos el color del texto para sobreescribir los estilos en línea de Layout.astro */
-    footer p {
-        color: rgba(255,255,255,0.6) !important;
-    }
-    
-    footer a {
-        color: rgba(255,255,255,0.8) !important;
-    }
-    
-    footer a:hover {
-        color: #ffffff !important;
-    }
-
-    .bc-finale-content {
-        position: relative !important;
-        z-index: 10 !important;
-        width: 100% !important;
-        max-width: 800px !important;
-        text-align: center !important;
-    }
-
-    .bc-finale-title {
-        font-family: var(--font-display, 'Georgia', serif) !important;
-        font-size: clamp(3rem, 5vw, 4.5rem) !important;
-        color: #ffffff !important;
-        margin-bottom: 1rem !important;
-        font-weight: normal !important;
-        text-shadow: 0 4px 20px rgba(0,0,0,0.5) !important;
-    }
-
-    .bc-finale-desc {
-        font-family: var(--font-main, sans-serif) !important;
-        font-size: 1.15rem !important;
-        color: rgba(255,255,255,0.8) !important;
-        line-height: 1.6 !important;
-        margin-bottom: 3.5rem !important;
-        max-width: 600px !important;
-        margin-left: auto !important;
-        margin-right: auto !important;
-    }
-
-    .bc-finale-links {
-        display: flex !important;
-        flex-direction: row !important;
-        justify-content: center !important;
-        align-items: center !important;
-        gap: 3rem !important;
-    }
-
-    .bc-fl-divider {
-        width: 1px !important;
-        height: 50px !important;
-        background-color: rgba(255,255,255,0.3) !important;
-    }
-
-    .bc-finale-link {
-        display: flex !important;
-        flex-direction: column !important;
-        align-items: center !important;
-        text-decoration: none !important;
-        transition: transform 0.3s ease !important;
-    }
-
-    .bc-finale-link:hover {
-        transform: translateY(-3px) !important;
-    }
-
-    .bc-fl-title {
-        font-family: var(--font-display, 'Georgia', serif) !important;
-        font-size: 1.5rem !important;
-        color: #ffffff !important;
-        margin-bottom: 0.5rem !important;
-    }
-
-    .bc-fl-subtitle {
-        font-family: var(--font-main, sans-serif) !important;
-        font-size: 0.9rem !important;
-        text-transform: uppercase !important;
-        letter-spacing: 0.1em !important;
-        color: var(--c-bg-warm) !important;
-        font-weight: 700 !important;
-        border-bottom: 1px solid transparent !important;
-        transition: border-color 0.3s ease !important;
-    }
-
-    .bc-finale-link:hover .bc-fl-subtitle {
-        border-color: var(--c-bg-warm) !important;
-    }
+    .bc-finale-content { position: relative !important; z-index: 10 !important; width: 100% !important; max-width: 800px !important; text-align: center !important; }
+    .bc-finale-title { font-family: var(--font-display, 'Georgia', serif) !important; font-size: clamp(3rem, 5vw, 4.5rem) !important; color: #ffffff !important; margin-bottom: 1rem !important; font-weight: normal !important; text-shadow: 0 4px 20px rgba(0,0,0,0.5) !important; }
+    .bc-finale-desc { font-family: var(--font-main, sans-serif) !important; font-size: 1.15rem !important; color: rgba(255,255,255,0.8) !important; line-height: 1.6 !important; margin-bottom: 3.5rem !important; max-width: 600px !important; margin-left: auto !important; margin-right: auto !important; }
+    .bc-finale-links { display: flex !important; flex-direction: row !important; justify-content: center !important; align-items: center !important; gap: 3rem !important; }
+    .bc-fl-divider { width: 1px !important; height: 50px !important; background-color: rgba(255,255,255,0.3) !important; }
+    .bc-finale-link { display: flex !important; flex-direction: column !important; align-items: center !important; text-decoration: none !important; transition: transform 0.3s ease !important; }
+    .bc-finale-link:hover { transform: translateY(-3px) !important; }
+    .bc-fl-title { font-family: var(--font-display, 'Georgia', serif) !important; font-size: 1.5rem !important; color: #ffffff !important; margin-bottom: 0.5rem !important; }
+    .bc-fl-subtitle { font-family: var(--font-main, sans-serif) !important; font-size: 0.9rem !important; text-transform: uppercase !important; letter-spacing: 0.1em !important; color: var(--c-bg-warm) !important; font-weight: 700 !important; border-bottom: 1px solid transparent !important; transition: border-color 0.3s ease !important; }
+    .bc-finale-link:hover .bc-fl-subtitle { border-color: var(--c-bg-warm) !important; }
 
     @media (max-width: 768px) {
         .bc-finale-title { font-size: 2.2rem !important; }
@@ -1107,7 +901,6 @@ const categories = [
      ============================================================ -->
 <script is:inline>
     document.addEventListener('DOMContentLoaded', () => {
-        /* --- 1. LÓGICA DEL CARRUSEL DE DESTINOS --- */
         class EditorialCarousel extends HTMLElement {
             connectedCallback() {
                 this.currentIndex = 0;
@@ -1211,7 +1004,6 @@ const categories = [
         }
         customElements.define('editorial-carousel', EditorialCarousel);
 
-        /* --- 2. LÓGICA DEL HOVER MENU DE CATEGORÍAS --- */
         const hoverItems = document.querySelectorAll('.bc-hover-item');
         const hoverImages = document.querySelectorAll('.bc-hm-img');
 
