@@ -118,19 +118,20 @@ El presupuesto engloba lo básico, habría que sumarle cosas como entradas a atr
 
 # Presupuesto de Gastos en Vietnam (Actualizado)
 
-| Concepto | VND (Dong) | USD | EUR |
-| :--- | :--- | :--- | :--- |
-| Alquiler mensual (incluye gastos comunes y limpieza) | 9.950.000 | 381,66 | 349,37 |
-| Electricidad | 750.000 | 28,77 | 26,33 |
-| Supermercado y mercado local | 3.971.931 | 152,36 | 139,46 |
-| Salir a comer | 1.042.899 | 40,00 | 36,62 |
-| Café y jugos | 521.450 | 20,00 | 18,31 |
-| Alquiler de moto | 1.850.000 | 70,96 | 64,96 |
-| **Total** | **18.086.280** | **693,75** | **635,05** |
+| Concepto                                             | VND (Dong)     | USD        | EUR        |
+| ---------------------------------------------------- | -------------- | ---------- | ---------- |
+| Alquiler mensual (incluye gastos comunes y limpieza) | 9.950.000      | 381,66     | 349,37     |
+| Electricidad                                         | 750.000        | 28,77      | 26,33      |
+| Supermercado y mercado local                         | 3.971.931      | 152,36     | 139,46     |
+| Salir a comer                                        | 1.042.899      | 40,00      | 36,62      |
+| Café y jugos                                         | 521.450        | 20,00      | 18,31      |
+| Alquiler de moto                                     | 1.850.000      | 70,96      | 64,96      |
+| **Total**                                            | **18.086.280** | **693,75** | **635,05** |
 
 ### **Referencias de Conversión**
-  * **1 USD** = 26.070 VND
-  * **1 EUR** = 28.480 VND
+
+* **1 USD** = 26.070 VND
+* **1 EUR** = 28.480 VND
 
 ## Salir a comer y cafés
 
@@ -158,7 +159,7 @@ Esperamos que te sirva, toda la información está basada en nuestras búsquedas
 
 <h2 style="margin-top: 0; color: #0369a1;">Guía rápida de recursos y enlaces directos para tu viaje</h2>
 
-<p>Para facilitarte la organización antes de volar, te dejamos la lista directa con los recursos esenciales que recomendamos en la guía:</p>
+<p>Para facilitarte la organización, te dejamos la lista directa con los hoteles e internet que recomendamos en la guía:</p>
 
 <ul>
   <li><strong>Conectividad móvil (Internet en todo Vietnam):</strong>
@@ -168,16 +169,20 @@ Esperamos que te sirva, toda la información está basada en nuestras búsquedas
   </li>
   <li style="margin-top: 10px;"><strong>Hospedajes iniciales en An Thuong / Mỹ An (Zona de playa y nómadas):</strong>
     <ul>
-      <li><strong>Opción económica:</strong> <a href="https://www.booking.com/hotel/vn/trissy-house-a4.html" target="_blank" rel="noopener">Trissy House A4</a> — Hospedaje limpio, sencillo y a pasos de Mỹ Khê Beach.</li>
-      <li><strong>Relación calidad/precio:</strong> <a href="https://www.booking.com/hotel/vn/celestine-homestay.html" target="_blank" rel="noopener">Celestine Homestay</a> — Espacioso, tranquilo y muy cómodo para trabajar los primeros días.</li>
-      <li><strong>Departamento equipado:</strong> <a href="https://www.booking.com/hotel/vn/lucky-apartment-and-cafe-ngu-hanh-son.html" target="_blank" rel="noopener">Lucky Apartment and Cafe</a> — Ideal si preferís contar con cocina propia desde la primera noche.</li>
-    </ul>
+      <li><strong>Opciónes económicas:</strong> <a href="https://www.booking.com/hotel/vn/trissy-house-a4.html" target="_blank" rel="noopener">Trissy House A4</a> — Hospedaje, sencillo a pasos de la zona turistica de Mỹ Khê Beach, tiene cocina.</li> 
+
+* [Phuc Thanh Luxury Hotel by THG: ](https://www.booking.com/hotel/vn/phuc-thanh-minh-danang.html?aid=2440493&label=gem131js-10CAso9AFCFnBodWMtdGhhbmgtbWluaC1kYW5hbmdIM1gDaPQBiAEBmAEzuAEZyAEM2AED6AEB-AEBiAIBqAIBuAL0wr_VBsACAdICJDNiNDdlYWFjLWIyYjYtNDUxZC1iNDhhLTczYTU2YWNmOWYyONgCAeACAQ&sid=7324201086ee77dba032cf854bff9851&all_sr_blocks=630374301_363360324_2_0_0_426501&checkin=2026-10-11&checkout=2026-10-12&dest_id=-3712125&dest_type=city&dist=0&group_adults=2&group_children=0&hapos=1&highlighted_blocks=630374301_363360324_2_0_0_426501&hpos=1&matching_block_id=630374301_363360324_2_0_0_426501&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=630374301_363360324_2_0_0_426501_34650000&srepoch=1789911422&srpvid=67e95fbb7f4d07c7&type=total&ucfs=1&)Hotel muy económico, un poco hacia el norte, cerca de la playa
+
+<li><strong>Relación calidad/precio:</strong> <a href="https://www.booking.com/hotel/vn/celestine-homestay.html" target="_blank" rel="noopener">Celestine Homestay</a> — Espacioso, tranquilo y muy cómodo para trabajar los primeros días.</li>
+  <li><strong>Departamento equipado:</strong> <a href="https://www.booking.com/hotel/vn/lucky-apartment-and-cafe-ngu-hanh-son.html" target="_blank" rel="noopener">Lucky Apartment and Cafe</a> — Estudio completo, ideal para estadías largas. </li>
+</ul>
+
   </li>
   <li style="margin-top: 10px;"><strong>Hospedajes iniciales en Hải Châu (Zona del centro local y río Hàn):</strong>
     <ul>
-      <li><strong>Opción económica:</strong> <a href="https://www.booking.com/hotel/vn/da-nang-petro.html" target="_blank" rel="noopener">Da Nang Petro Hotel</a> — Ubicación súper céntrica para recorrer la zona urbana y los mercados.</li>
+      <li><strong>Opción económica:</strong> <a href="https://www.booking.com/hotel/vn/da-nang-petro.html" target="_blank" rel="noopener">Da Nang Petro Hotel</a> — Ubicación muy céntrica para recorrer la zona urbana y los mercados.</li>
       <li><strong>Relación calidad/precio:</strong> <a href="https://www.booking.com/hotel/vn/the-riverside-nest-amp-apartment.html" target="_blank" rel="noopener">The Riverside Nest &amp; Apartment</a> — Entorno local, tranquilo y con hermosas vistas al río.</li>
-      <li><strong>Nuestra recomendación especial:</strong> <a href="https://www.booking.com/hotel/vn/rest-amp-apartment.html" target="_blank" rel="noopener">Rest &amp; Apartment</a> — Te sugerimos seleccionar la opción con ventana (alrededor de <strong>USD 82 en total</strong>) para contar con excelente iluminación natural mientras trabajás.</li>
+      <li><strong>Confort :</strong> <a href="https://www.booking.com/hotel/vn/rest-amp-apartment.html" target="_blank" rel="noopener">Rest &amp; Apartment</a> — Incluye piscina en el último piso, cancelación gratuita y varias opciones de cuartos con confort.
     </ul>
   </li>
 </ul>
