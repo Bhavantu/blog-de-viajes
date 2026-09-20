@@ -115,7 +115,7 @@ Aunque son atracciones turísticas, recuerda que son lugares de culto activo.
 
 🎒 ¿Pensando en establecerte una temporada en Da Nang? Si vas a trabajar remoto, no te pierdas nuestro artículo sobre [¿Cómo es vivir como nómada digital en Vietnam? y costo de vida en Da Nang.](https://blogcito.com/diario/nomada-digital-vietnam-costo-de-vida-da-nang/) Y si apenas estás diseñando tu viaje, mantente atento a nuestra próxima Guía Completa de Da Nang.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/marble-mountains-dragon-sculpted-wall.webp" alt="Imagen de bitácora"><span class="img-caption">Pared de los nueve dragones (Nine-Dragon Wall, Bình phong) Montañas de Marmol </span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/marble-mountains-dragon-sculpted-wall.webp" alt="Imagen de bitácora"><span class="img-caption"> un relieve de piedra tallado, ubicado en la zona de las Montañas de Marmol (Ngũ Hành Sơn)</span></div>
 
 <div class="post-img-box img-completo img-centro"><img src="/img/diario/marble-mountains-temple-statue-cave-praying.webp" alt="Imagen de bitácora"><span class="img-caption">Cuevas de mármol altares sagrados en Linh Ung Non Nuoc.</span></div>
 

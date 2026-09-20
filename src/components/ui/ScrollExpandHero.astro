@@ -1,0 +1,147 @@
+---
+interface Props {
+  bgImageSrc: string;
+  mediaSrc: string;
+}
+
+const { bgImageSrc, mediaSrc } = Astro.props;
+---
+
+<scroll-expand-hero class="block relative w-full bg-[#111] -mt-[120px] z-0" style="height: 300vh;">
+  <div class="sh-sticky-container absolute top-0 left-0 h-screen w-full overflow-hidden flex items-center justify-center z-10">
+      
+      <!-- Fondo (Nítido, sin blur ni opacidad extra) -->
+      <img 
+        class="sh-bg-img absolute inset-0 w-full h-full object-cover will-change-[opacity]" 
+        src={bgImageSrc} 
+        alt="Background" 
+      />
+      <!-- NUEVO: Gradiente superior para destacar el menú -->
+      <div 
+        class="absolute top-0 left-0 w-full h-[35vh] z-[5] pointer-events-none" 
+        style="background: linear-gradient(to bottom, rgba(0,0,0,0.65) 0%, rgba(0,0,0,0) 100%);"
+      ></div> 
+
+      <!-- Portal Central que se expande -->
+      <div class="sh-media-box absolute z-20 flex items-center justify-center overflow-hidden rounded-[24px] shadow-[0_30px_60px_rgba(0,0,0,0.8)] border border-white/10 will-change-[width,height,border-radius]" style="width: 300px; height: 400px;">
+          <img 
+            src={mediaSrc} 
+            alt="Media" 
+            class="absolute w-[100vw] h-[100vh] object-cover max-w-none" 
+          />
+          <!-- SCRIM ACTUALIZADO: Color sólido oscuro, sin gradientes -->
+          <div class="sh-media-scrim absolute inset-0 bg-[#0a0a0a] opacity-0 will-change-[opacity]"></div>
+      </div>
+
+      <!-- Contenido Final (Aparece DURANTE el scroll) -->
+      <div class="sh-final-content absolute inset-0 z-30 flex flex-col items-center justify-center opacity-0 pointer-events-none text-center p-8 will-change-[opacity]">
+          <slot />
+      </div>
+
+      <!-- Indicador de Scroll -->
+      <div class="sh-scroll-ind absolute bottom-8 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2 z-5 text-white/70 font-main text-xs uppercase tracking-[0.2em] transition-opacity duration-300">
+          <span>Scroll</span>
+          <div class="w-[1px] h-[40px] bg-white/30 relative overflow-hidden">
+              <div class="absolute top-0 left-0 w-full h-1/2 bg-white animate-[scrollLineAnim_1.5s_infinite_ease-in-out]"></div>
+          </div>
+      </div>
+
+  </div>
+</scroll-expand-hero>
+
+<style is:global>
+  @keyframes scrollLineAnim {
+      0% { transform: translateY(-100%); }
+      100% { transform: translateY(200%); }
+  }
+</style>
+
+<script>
+  class ScrollExpandHero extends HTMLElement {
+      connectedCallback() {
+          const container = this;
+          const stickyContainer = this.querySelector('.sh-sticky-container') as HTMLElement;
+          const bgImg = this.querySelector('.sh-bg-img') as HTMLElement;
+          const mediaBox = this.querySelector('.sh-media-box') as HTMLElement;
+          const mediaScrim = this.querySelector('.sh-media-scrim') as HTMLElement;
+          const finalContent = this.querySelector('.sh-final-content') as HTMLElement;
+          const scrollInd = this.querySelector('.sh-scroll-ind') as HTMLElement;
+          
+          let ticking = false;
+
+          const update = () => {
+              const rect = container.getBoundingClientRect();
+              const scrollY = -rect.top;
+              const maxScroll = rect.height - window.innerHeight;
+              
+              // Lógica Sticky Manual
+              if (scrollY >= 0 && scrollY <= maxScroll) {
+                  stickyContainer.style.position = 'fixed';
+                  stickyContainer.style.top = '0px';
+                  stickyContainer.style.bottom = 'auto';
+              } else if (scrollY > maxScroll) {
+                  stickyContainer.style.position = 'absolute';
+                  stickyContainer.style.top = 'auto';
+                  stickyContainer.style.bottom = '0px';
+              } else {
+                  stickyContainer.style.position = 'absolute';
+                  stickyContainer.style.top = '0px';
+                  stickyContainer.style.bottom = 'auto';
+              }
+
+              // Cálculo de progreso (0 a 1)
+              let progress = scrollY / maxScroll;
+              progress = Math.max(0, Math.min(1, progress));
+
+              const isMobile = window.innerWidth < 768;
+
+              // Fade out del fondo (ahora empieza desde opacidad 100%)
+              if(bgImg) bgImg.style.opacity = (1 - progress).toString();
+
+              // Expansión de la caja central
+              const startW = isMobile ? 250 : 350;
+              const startH = isMobile ? 350 : 450;
+              const endW = window.innerWidth;
+              const endH = window.innerHeight;
+              
+              const ease = progress < 0.5 ? 2 * progress * progress : 1 - Math.pow(-2 * progress + 2, 2) / 2;
+
+              if(mediaBox) {
+                  mediaBox.style.width = `${startW + (endW - startW) * ease}px`;
+                  mediaBox.style.height = `${startH + (endH - startH) * ease}px`;
+                  mediaBox.style.borderRadius = `${24 * (1 - ease)}px`;
+              }
+
+              // Fade in del contenido MIENTRAS se expande
+              let contentProgress = 0;
+              if (ease > 0.3) {
+                  contentProgress = (ease - 0.3) / 0.7; 
+              }
+
+              if(finalContent) {
+                  finalContent.style.opacity = contentProgress.toString();
+                  finalContent.style.pointerEvents = contentProgress > 0.8 ? 'auto' : 'none';
+              }
+              
+              // APLICAMOS LA OPACIDAD MÁXIMA DEL 41% (0.41) A LA CAPA OSCURA
+              if(mediaScrim) mediaScrim.style.opacity = (contentProgress * 0.41).toString();
+
+              // Ocultar indicador de scroll rápido
+              if(scrollInd) scrollInd.style.opacity = (1 - (progress * 4)).toString();
+              
+              ticking = false;
+          };
+
+          window.addEventListener('scroll', () => {
+              if (!ticking) {
+                  window.requestAnimationFrame(update);
+                  ticking = true;
+              }
+          }, { passive: true });
+          
+          window.addEventListener('resize', update);
+          update(); 
+      }
+  }
+  customElements.define('scroll-expand-hero', ScrollExpandHero);
+</script>

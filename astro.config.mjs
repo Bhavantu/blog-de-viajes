@@ -5,9 +5,9 @@ import tailwindcss from '@tailwindcss/vite';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://blogcito.com',
-  trailingSlash: 'ignore', // <-- CAMBIAMOS "always" POR "ignore"
+  trailingSlash: 'ignore', 
   build: {
-    format: 'directory', // Mantenemos el formato de directorio para Netlify
+    format: 'directory',
   },
   integrations: [sitemap()],
   vite: {

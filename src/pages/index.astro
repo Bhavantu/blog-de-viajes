@@ -1,6 +1,8 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import ScrollExpandHero from '../components/ui/ScrollExpandHero.astro';
 import { ui } from '../i18n/ui.js';
+import { destinationsData as destinations, categoriesData as categories } from '../data/taxonomies.js';
 
 const currentLang = Astro.currentLocale || 'es';
 const t = ui[currentLang as keyof typeof ui] || ui['es'];
@@ -15,14 +17,14 @@ const sortedPosts = allPosts.sort((a: any, b: any) => {
     return dateB - dateA;
 });
 
+// Buscamos posts para el Grid de Destacados (LÍMITE DE 6 POSTS)
 let featuredPosts = sortedPosts.filter((post: any) => post.frontmatter.destacado === true);
-
-if (featuredPosts.length < 3) {
-    const cantidadFaltante = 3 - featuredPosts.length;
+if (featuredPosts.length < 6) {
+    const cantidadFaltante = 6 - featuredPosts.length;
     const postsNoDestacados = sortedPosts.filter((post: any) => post.frontmatter.destacado !== true);
     featuredPosts = [...featuredPosts, ...postsNoDestacados.slice(0, cantidadFaltante)];
 } else {
-    featuredPosts = featuredPosts.slice(0, 3);
+    featuredPosts = featuredPosts.slice(0, 6);
 }
 ---
 
@@ -31,200 +33,246 @@ if (featuredPosts.length < 3) {
   description="Diario de viaje, guías prácticas y vida local alrededor del mundo. Acompañanos a descubrir nuevos destinos a través de nuestras crónicas y viajes lentos."
   isTransparentHeader={true}
 >
-
-   <!-- IMMERSIVE HERO EDITORIAL -->
-    <section class="hero-immersive-home">
-        <div class="hero-bg">
-            <img src="/img/diario/UBUD3.webp" alt="Viaje a Bali" />
-            <div class="hero-scrim"></div>
-        </div>
+    <!-- 1. NUEVO HERO: SCROLL MEDIA EXPANSION -->
+    <ScrollExpandHero 
+        bgImageSrc="/img/diario/hero2.JPG"
+        mediaSrc="/img/diario/hero3.JPG"
+    >
+        <!-- Título sin text-shadow -->
+        <h1 style="font-family: var(--font-display, 'Georgia', serif); font-size: clamp(2.5rem, 5vw, 4rem); line-height: 1.1; color: #ffffff; margin-bottom: 1.2rem; font-weight: 400; letter-spacing: -0.01em; text-wrap: balance;">
+            Conociendo otros mundos<br/>
+            <span style="font-style: italic; color: rgba(255,255,255,0.9);">a paso lento.</span>
+        </h1>
         
-        <div class="hero-content">
-            <!-- Eliminamos el badge para un look más limpio -->
-            <h1 class="hero-title">Conociendo<br/>otros mundos<br/>a paso lento.</h1>
-            <p class="hero-subtitle">
-                Guías honestas y presupuestos transparentes para viajar con respeto cultural, trabajar en ruta y habitar nuevos territorios a tu propio ritmo.
-            </p>
-            <div class="hero-actions">
-                <a href="#guias" class="btn-primary">Explorar Guías</a>
-                <a href="#quienes-somos" class="btn-secondary">Nuestra Historia</a>
-            </div>
+        <!-- Párrafo sin text-shadow, sin background radial y sin padding -->
+        <p style="font-family: var(--font-main, sans-serif); font-size: 1.05rem; color: rgba(255,255,255,0.95); max-width: 550px; margin-bottom: 2.5rem; line-height: 1.6; font-weight: 400; letter-spacing: 0.02em;">
+            Relatos, cultura y guías de viaje.
+        </p>
+        
+        <div style="display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center;">
+            <a href="#destinos" class="bc-btn-solid">Explorar Destinos</a>
+            <a href="#quienes-somos" class="bc-btn-outline hero-outline-btn">Nuestra Historia</a>
         </div>
-    </section>
+    </ScrollExpandHero>
 
     <!-- MAIN CONTENT -->
-    <main class="container mx-auto px-4 pt-16">
+    <main class="bc-main-wrapper">
         
-        <!-- SECTION: FEATURED POSTS -->
-        <section id="guias" class="section-container">
-            <div class="section-header">
-                <h2 class="section-title">Por dónde empezar</h2>
-                <p class="section-subtitle">Nuestras guías más leídas y detalladas para ayudarte a planificar tu viaje</p>
-            </div>
+        <!-- 2. SECCIÓN: CARRUSEL DE DESTINOS -->
+        <section id="destinos" class="bc-section-block bc-bg-light">
+            <div class="bc-section-inner">
+                <div class="bc-header-centered">
+                    <h2 class="bc-title-main">Explorar Destinos</h2>
+                </div>
 
-            <div id="grilla-portada-segura">
-                {featuredPosts.map((post: any) => {
-                    const tagKey = `tag.${post.frontmatter.tag?.toLowerCase()}`;
-                    const translatedTag = t[tagKey as keyof typeof t] || post.frontmatter.tag;
-
-                    return (
-                        <article class="tarjeta-portada reveal visible">
-                            
-                            {post.frontmatter.main_image && (
-                                <img 
-                                    src={post.frontmatter.main_image} 
-                                    alt={`Portada de ${post.frontmatter.title}`} 
-                                    class="img-portada"
-                                />
-                            )}
-
-                            <div class="meta-portada">
-                                {post.frontmatter.tag && (
-                                    <span class="journal-tag" data-tag={post.frontmatter.tag.toLowerCase()}>
-                                        {translatedTag}
-                                    </span>
-                                )}
-                                <span class="journal-date">
-                                    {new Date(post.frontmatter.date).toLocaleDateString('es-ES', { day: '2-digit', month: 'long', year: 'numeric' }).toUpperCase()}
-                                </span>
+                <editorial-carousel class="car-wrapper">
+                    <div class="car-inner">
+                        {destinations.map((dest, index) => (
+                            <div class="car-slide" data-index={index}>
+                                <div class="car-content">
+                                    <div class="car-content-inner">
+                                        <div class="car-counter">
+                                            <span class="car-num-line"></span>
+                                            <span class="car-num-text">{String(index + 1).padStart(2, '0')} / {String(destinations.length).padStart(2, '0')}</span>
+                                        </div>
+                                        <h3 class="car-title">{dest.title}</h3>
+                                        <p class="car-subtitle" style={`color: ${dest.accent} !important;`}>{dest.subtitle}</p>
+                                        <p class="car-desc">{dest.description}</p>
+                                        
+                                        <div class="car-action">
+                                            <a href={`/destinos/${dest.id}`} class="bc-link" style={`--c-accent: ${dest.accent};`}>
+                                                Ver guías de {dest.title} &rarr;
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <div class="car-image-container">
+                                    <div class="car-image-frame">
+                                        <img src={dest.imageUrl} alt={dest.title} class="car-image" />
+                                        <div class="car-image-overlay" style={`background: linear-gradient(135deg, ${dest.accent} 0%, transparent 50%) !important; opacity: 0.15 !important;`}></div>
+                                    </div>
+                                    <div class="car-frame-corner car-frame-corner-tl" style={`border-color: ${dest.accent} !important;`}></div>
+                                    <div class="car-frame-corner car-frame-corner-br" style={`border-color: ${dest.accent} !important;`}></div>
+                                </div>
                             </div>
-                            
-                            <h3 class="titulo-portada">
-                                <a href={post.url} class="hover-verde">
-                                    {post.frontmatter.title}
-                                </a>
-                            </h3>
-                            
-                            <p class="desc-portada">
-                                {post.frontmatter.description || "Nueva entrada en nuestro diario de viaje..."}
+                        ))}
+                    </div>
+
+                    <div class="car-controls">
+                        <div class="car-nav-arrows">
+                            <button class="car-arrow-btn car-prev" aria-label="Anterior">
+                                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
+                            </button>
+                            <button class="car-arrow-btn car-next" aria-label="Siguiente">
+                                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+                            </button>
+                        </div>
+
+                        <div class="car-progress-bar">
+                            {destinations.map((dest, index) => (
+                                <button class="car-progress-item" data-index={index} aria-label={`Ir a ${dest.title}`}>
+                                    <div class="car-progress-track">
+                                        <div class="car-progress-fill" style={`background-color: ${dest.accent} !important;`}></div>
+                                    </div>
+                                    <span class="car-progress-label">{dest.title}</span>
+                                </button>
+                            ))}
+                        </div>
+                    </div>
+                </editorial-carousel>
+            </div>
+        </section>
+
+        <!-- 3. SECCIÓN: ARTÍCULOS DESTACADOS -->
+        <section id="destacados" class="bc-section-block bc-bg-muted">
+            <div class="bc-section-inner">
+                <div class="bc-header-split">
+                    <div class="bc-header-left">
+                        <h2 class="bc-title-main">Artículos Destacados</h2>
+                        <p class="bc-subtitle-main">Selección de nuestras mejores crónicas y guías.</p>
+                    </div>
+                    <div class="bc-header-right">
+                        <a href="/diario" class="bc-link">Ver todas las entradas &rarr;</a>
+                    </div>
+                </div>
+
+                <div class="bc-featured-grid">
+                    {featuredPosts.map((post: any) => {
+                        const tagKey = `tag.${post.frontmatter.tag?.toLowerCase()}`;
+                        const translatedTag = t[tagKey as keyof typeof t] || post.frontmatter.tag;
+                        const imgSrc = post.frontmatter.main_image || 'https://images.unsplash.com/photo-1528181304800-259b08848526?q=80&w=1000&auto=format&fit=crop';
+                        
+                        const dateObj = new Date(post.frontmatter.date);
+                        const formattedDate = !isNaN(dateObj.getTime()) ? dateObj.toLocaleDateString(currentLang, { year: 'numeric', month: 'long', day: 'numeric' }) : '';
+
+                        return (
+                            <a href={post.url} class="bc-featured-card">
+                                <div class="bc-featured-img-wrap">
+                                    <img src={imgSrc} alt={post.frontmatter.title} class="bc-featured-img" />
+                                </div>
+                                <div class="bc-featured-content">
+                                    <div class="bc-featured-meta">
+                                        <div class="bc-featured-tags">
+                                            <span class="bc-tag">{translatedTag}</span>
+                                            {post.frontmatter.pais && (
+                                                <span class="bc-tag">{post.frontmatter.pais}</span>
+                                            )}
+                                        </div>
+                                        <span class="bc-date">{formattedDate}</span>
+                                    </div>
+                                    
+                                    <h3 class="bc-featured-title">{post.frontmatter.title}</h3>
+                                    <p class="bc-featured-excerpt">{post.frontmatter.description}</p>
+                                    <span class="bc-read-more">LEER MÁS &rarr;</span>
+                                </div>
+                            </a>
+                        );
+                    })}
+                </div>
+            </div>
+        </section>
+
+        <!-- 4. SECCIÓN: CATEGORÍAS (Hover Menu Editorial) -->
+        <section id="categorias" class="bc-section-block bc-bg-light">
+            <div class="bc-section-inner">
+                <div class="bc-header-centered">
+                    <h2 class="bc-title-main">Explora por Categorías</h2>
+                    <p class="bc-subtitle-main">Encuentra el contenido que necesitas según tu forma de viajar.</p>
+                </div>
+
+                <div class="bc-hover-menu-container">
+                    <div class="bc-hover-menu-list">
+                        {categories.map((cat, index) => (
+                            <a href={`/categorias/${cat.id}`} class="bc-hover-item" data-index={index}>
+                                <span class="bc-hm-number">0{index + 1}</span>
+                                <h3 class="bc-hm-title">{cat.title}</h3>
+                                <p class="bc-hm-desc">{cat.desc}</p>
+                                <!-- NUEVO: Flecha minimalista visible solo en móviles -->
+                            <span class="bc-hm-mobile-link" aria-label="Explorar categoría">
+                                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <line x1="5" y1="12" x2="19" y2="12"></line>
+                                    <polyline points="12 5 19 12 12 19"></polyline>
+                                </svg>
+                            </span>
+                            </a>
+                        ))}
+                    </div>
+                    <div class="bc-hover-visual">
+                        {categories.map((cat, index) => (
+                            <img src={cat.img} alt={cat.title} class={`bc-hm-img ${index === 0 ? 'active' : ''}`} data-index={index} />
+                        ))}
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- 5. SECCIÓN: ABOUT US (Scrapbook 3 Columnas) -->
+        <section id="quienes-somos" class="bc-section-block bc-bg-muted bc-border-top">
+            <div class="bc-section-inner">
+                <div class="bc-scrapbook-grid">
+                    
+                    <!-- Columna Izquierda: Foto Principal -->
+                    <div class="bc-scrapbook-left">
+                        <div class="bc-polaroid main">
+                            <div class="bc-tape"></div>
+                            <img src="/img/nosotros.webp" alt="Creadores de Blogcito viajando" onerror="this.src='https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?q=80&w=1000&auto=format&fit=crop'" />
+                        </div>
+                    </div>
+                    
+                    <!-- Columna Central: Texto -->
+                    <div class="bc-scrapbook-text" style="display: flex; flex-direction: column; align-items: center;">
+                        <!-- Un contenedor interno para alinear el texto a la izquierda, pero mantener el bloque en el centro -->
+                        <div style="max-width: 100%; text-align: left;">
+                            <h2 class="bc-title-main" style="text-align: left !important;">Detrás de Blogcito</h2>
+                            <p class="bc-scrapbook-desc" style="text-align: left !important;">
+                                Viajamos lento, nos sumergimos en las comunidades locales y escribimos guías honestas para que puedas planear tu viaje con un presupuesto realista y respeto cultural. Más que coleccionar atracciones, nos importa conectar con las personas, los territorios y las tradiciones.
                             </p>
+                            <p class="bc-scrapbook-desc" style="text-align: left !important;">
+                                Creamos este espacio para responder las preguntas reales que todos nos hacemos antes de partir: cuánto cuesta realmente vivir en un lugar, cómo adaptarse a las culturas locales y cómo equilibrar el trabajo remoto con el viaje consciente. Sin publicidades engañosas, solo datos prácticos.
+                            </p>
+                            <div class="bc-signature" style="text-align: left !important;">Lore & Santi</div>
+                        </div>
+                    </div>
 
-                            <div class="btn-leer-mas-portada">
-                                <a href={post.url} class="hover-verde">
-                                    Leer más &rarr;
-                                </a>
-                            </div>
-                            
-                        </article>
-                    );
-                })}
-            </div>
+                    <!-- Columna Derecha: Fotos Individuales -->
+                    <div class="bc-scrapbook-right">
+                        <div class="bc-polaroid detail-top">
+                            <div class="bc-tape alt"></div>
+                            <img src="/img/polaroid2.JPG" alt="Lore" onerror="this.src='https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?q=80&w=400&auto=format&fit=crop'" />
+                        </div>
+                        <div class="bc-polaroid detail-bottom">
+                            <div class="bc-tape alt-2"></div>
+                            <img src="/img/polaroid1.webp" alt="Santi" onerror="this.src='https://images.unsplash.com/photo-1528181304800-259b08848526?q=80&w=400&auto=format&fit=crop'" />
+                        </div>
+                    </div>
 
-            <div style="text-align: center; margin-top: 4rem;">
-                <a href="/diario" class="btn-ver-mas-global">
-                    Ver todas las entradas
-                </a>
-            </div>
-        </section>
-
-        <!-- SECTION: ABOUT US -->
-        <section id="quienes-somos" class="about-section">
-            <div class="about-container">
-                <div class="about-image-box">
-                    <img src="/img/nosotros.webp" alt="Creadores de Blogcito viajando" class="about-avatar" onerror="this.src='https://placehold.co/400x400/006d77/ffffff?text=Blogcito'">
-                    <span class="about-badge">Viajeros y Creadores</span>
-                </div>
-                <div class="about-content">
-                    <h2 class="section-title">Detrás de Blogcito</h2>
-                    <p style="margin-bottom: 1.5rem; line-height: 1.8; color: #555;">
-                        Viajamos lento, nos sumergimos en las comunidades locales y escribimos guías honestas para que puedas planear tu viaje con un presupuesto realista y respeto cultural. Más que coleccionar atracciones, nos importa conectar con las personas, los territorios y las tradiciones.
-                    </p>
-                    <p style="line-height: 1.8; color: #555;">
-                        Creamos este espacio para responder las preguntas reales que todos nos hacemos antes de partir: cuánto cuesta realmente vivir en un lugar, cómo adaptarse a las culturas locales y cómo equilibrar el trabajo remoto con el viaje consciente. Sin publicidades engañosas, solo datos prácticos sobre alquileres, costo de vida y nomadismo digital.
-                    </p>
                 </div>
             </div>
         </section>
 
-        <!-- SECTION: SUPPORT & RESOURCES -->
-        <section class="support-section">
-            <div class="section-header">
-                <h2 class="section-title">Apoyá nuestro proyecto</h2>
-                <p class="section-subtitle">Diferentes formas de apoyar nuestro trabajo y hacer que Blogcito siga creciendo</p>
+        <!-- 6. SECCIÓN: GRAND FINALE (Apoyo Cinematográfico) -->
+        <section id="apoyo" class="bc-section-block bc-grand-finale">
+            <div class="bc-finale-bg">
+                <img src="/img/UBUD8.webp" alt="Paisaje inspirador" onerror="this.src='https://images.unsplash.com/photo-1528181304800-259b08848526?q=80&w=2000&auto=format&fit=crop'" />
+                <div class="bc-finale-scrim"></div>
             </div>
-
-            <!-- BLOQUE 1: RECURSOS DE VIAJE (AFILIADOS) -->
-            <h3 class="subsection-title">Recursos de viaje</h3>
-            <div class="affiliates-grid">
+            
+            <div class="bc-finale-content">
+                <h2 class="bc-finale-title">Sigamos el viaje juntos</h2>
+                <p class="bc-finale-desc">Mantenemos este espacio libre de publicidad invasiva. Si nuestras guías te ayudaron a planear tu aventura, hay dos formas en las que podés apoyarnos:</p>
                 
-                <!-- Booking.com -->
-                <div class="support-card">
-                    <div class="support-icon-container">
-                        <img 
-                            src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Booking.com_Icon_2022.svg" 
-                            alt="Logo Booking.com" 
-                            style="height: 42px; width: auto; max-width: 100%; object-fit: contain;"
-                        />
-                    </div>
-                    <h3>Reservá alojamiento</h3>
-                    <p>Reservá tus alojamientos por acá para apoyar al blog y que nuestras guías sigan siendo de acceso gratuito.</p>
-                    <a href="https://www.booking.com/" target="_blank" rel="noopener noreferrer" class="support-btn btn-recursos">
-                        Reservar en Booking.com
+                <div class="bc-finale-links">
+                    <a href="https://ko-fi.com/blogcito" target="_blank" rel="noopener noreferrer" class="bc-finale-link">
+                        <span class="bc-fl-title">Para Viajeros</span>
+                        <span class="bc-fl-subtitle">Invitanos un café virtual &rarr;</span>
+                    </a>
+                    <div class="bc-fl-divider"></div>
+                    <a href="/colab" class="bc-finale-link">
+                        <span class="bc-fl-title">Para Marcas</span>
+                        <span class="bc-fl-subtitle">Ver Media Kit &rarr;</span>
                     </a>
                 </div>
-
-                <!-- Airalo eSIM -->
-                <div class="support-card">
-                    <div class="support-icon-container">
-                        <img 
-                            src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Airalo_logo.svg/1280px-Airalo_logo.svg.webp" 
-                            alt="Logo Airalo" 
-                            style="height: 32px; width: auto; max-width: 100%; object-fit: contain;"
-                        />
-                    </div>
-                    <h3>Internet en tu viaje</h3>
-                    <p>Mantenete conectado en cualquier país con una eSIM de Airalo y olvidate de los costosos cargos de roaming.</p>
-                    <a href="https://airalo.tpx.lu/8J5sLaD4" target="_blank" rel="noopener noreferrer" class="support-btn btn-airalo">
-                        Conseguir eSIM Airalo
-                    </a>
-                </div>
-
-                <!-- GetYourGuide -->
-                <div class="support-card">
-                    <div class="support-icon-container">
-                        <img 
-                            src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/GetYourGuide_logo.svg/1280px-GetYourGuide_logo.svg.webp?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20250423234221" 
-                            alt="Logo GetYourGuide" 
-                            style="height: 32px; width: auto; max-width: 100%; object-fit: contain;"
-                        />
-                    </div>
-                    <h3>Tours y Actividades</h3>
-                    <p>Reservá tours locales, excursiones y entradas sin filas a través de GetYourGuide para apoyar nuestros viajes.</p>
-                    <a href="https://www.getyourguide.com/" target="_blank" rel="noopener noreferrer" class="support-btn btn-gyg">
-                        Explorar Tours
-                    </a>
-                </div>
-
-            </div>
-
-            <!-- BLOQUE 2: APOYO DIRECTO (KO-FI & MEDIA KIT) -->
-            <h3 class="subsection-title">Apoyo Directo y Colaboraciones</h3>
-            <div class="direct-grid">
-                
-                <!-- Ko-fi -->
-                <div class="support-card">
-                    <div class="support-icon-container">
-                        <span class="support-emoji">☕</span>
-                    </div>
-                    <h3>Invitanos un café</h3>
-                    <p>Mantenemos nuestro blog sin publicidad y limpio. Si nuestras guías te ayudaron a planear tu viaje, podés apoyarnos con un café virtual.</p>
-                    <a href="https://ko-fi.com/blogcito" target="_blank" rel="noopener noreferrer" class="support-btn btn-kofi">
-                        Apoyar en Ko-fi
-                    </a>
-                </div>
-
-                <!-- Media Kit -->
-                <div class="support-card">
-                    <div class="support-icon-container">
-                        <span class="support-emoji">💻</span>
-                    </div>
-                    <h3>Trabajá con nosotros</h3>
-                    <p>Revisá nuestro Media Kit, métricas del blog, y cómo podemos colaborar para darle visibilidad a tu marca o proyecto.</p>
-                    <a href="/colab" class="support-btn btn-colab">
-                        Opciones de colaboración
-                    </a>
-                </div>
-
             </div>
         </section>
         
@@ -233,516 +281,884 @@ if (featuredPosts.length < 3) {
 
 <style is:global>
     /* ============================================================
-        ESTILOS GENERALES Y CONTENEDOR
+       SISTEMA WARM EDITORIAL & TEXTURA DE RUIDO
        ============================================================ */
-    main.container {
-        max-width: 1200px !important;
+    :root {
+        --c-brand: #00565d;      
+        --c-brand-hover: oklch(0.30 0.10 200);
+        --c-text-main: oklch(0.25 0.02 250);  
+        --c-text-muted: oklch(0.55 0.02 250); 
+        --c-bg-warm: oklch(0.98 0.01 75);     
+        --c-border: oklch(0.90 0.01 75);      
     }
 
-    .section-container {
-        margin-bottom: 7rem;
+    body::after {
+        content: ""; position: fixed; inset: 0; z-index: 9999; pointer-events: none;
+        background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+        opacity: 0.03; mix-blend-mode: multiply;
     }
 
-    .section-header {
-        text-align: center;
-        margin-bottom: 2rem;
-        border-bottom: 1px solid #eee;
-        padding-bottom: 1.5rem;
+    /* --- UI KIT: Botones y Enlaces --- */
+    .bc-btn-solid {
+        display: inline-flex !important; align-items: center !important; justify-content: center !important;
+        background-color: var(--c-brand) !important; color: #ffffff !important;
+        padding: 14px 32px !important; border-radius: 8px !important;
+        font-family: var(--font-main, sans-serif) !important; font-weight: 700 !important; font-size: 0.9rem !important;
+        text-transform: uppercase !important; letter-spacing: 0.08em !important; text-decoration: none !important;
+        transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1) !important;
+        border: 1px solid var(--c-brand) !important; box-sizing: border-box !important; text-align: center !important;
+    }
+    .bc-btn-solid:hover { background-color: var(--c-brand-hover) !important; transform: translateY(-2px) !important; box-shadow: 0 4px 12px rgba(0,0,0,0.1) !important; }
+
+    .bc-btn-outline {
+        display: inline-flex !important; align-items: center !important; justify-content: center !important;
+        background-color: transparent !important; color: var(--c-text-main) !important;
+        padding: 14px 32px !important; border-radius: 8px !important;
+        font-family: var(--font-main, sans-serif) !important; font-weight: 700 !important; font-size: 0.9rem !important;
+        text-transform: uppercase !important; letter-spacing: 0.08em !important; text-decoration: none !important;
+        transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1) !important;
+        border: 1px solid var(--c-text-muted) !important; box-sizing: border-box !important; text-align: center !important;
+    }
+    .bc-btn-outline:hover { background-color: var(--c-bg-warm) !important; border-color: var(--c-text-main) !important; transform: translateY(-2px) !important; color: var(--c-text-main) !important; }
+
+    /* Estilo forzado para el botón outline dentro del Hero oscuro (Efecto Glassmorphism) */
+    .hero-outline-btn {
+        color: #ffffff !important;
+        border-color: rgba(255, 255, 255, 0.5) !important;
+        background-color: rgba(0, 0, 0, 0.2) !important; /* Fondo negro muy sutil */
+        backdrop-filter: blur(8px) !important; /* Efecto de vidrio esmerilado */
+        -webkit-backdrop-filter: blur(8px) !important; /* Soporte para Safari */
+    }
+    .hero-outline-btn:hover {
+        background-color: #ffffff !important;
+        color: #111111 !important;
+        border-color: #ffffff !important;
     }
 
-    .section-title {
-        font-family: var(--font-display);
-        font-size: 2.2rem;
-        font-weight: normal;
-        color: var(--text-color, #333);
-        margin-bottom: 0.5rem;
+    .bc-link {
+        display: inline-flex !important; align-items: center !important; gap: 0.5rem !important;
+        font-family: var(--font-main, sans-serif) !important; font-size: 0.95rem !important; font-weight: 700 !important;
+        text-transform: uppercase !important; letter-spacing: 0.05em !important;
+        color: var(--c-text-main) !important; text-decoration: none !important;
+        background-image: linear-gradient(var(--c-accent, var(--c-brand)), var(--c-accent, var(--c-brand))) !important;
+        background-size: 0% 2px !important; background-repeat: no-repeat !important;
+        background-position: left bottom !important; padding-bottom: 4px !important;
+        transition: background-size 0.4s ease, color 0.3s ease !important; white-space: nowrap !important;
     }
-
-    .section-subtitle {
-        color: #777;
-        font-size: 1.05rem;
-        letter-spacing: 0.02em;
-    }
+    .bc-link:hover { background-size: 100% 2px !important; color: var(--c-accent, var(--c-brand)) !important; }
 
     /* ============================================================
-       ESTILOS DEL HERO PRINCIPAL (IMMERSIVE EDITORIAL)
+       ESTRUCTURA FULL-BLEED (De lado a lado)
        ============================================================ */
-    .hero-immersive-home {
-        position: relative;
-        width: 100%;
-        min-height: 100svh;
-        display: flex;
-        align-items: center; 
-        /* AUMENTAMOS EL PADDING TOP (de 8rem a 14rem) para separar del nav */
-        padding: 14rem 2rem 4rem 2rem;
-        overflow: hidden;
-        margin-top: -120px; 
-    }
+    .bc-main-wrapper { display: block !important; width: 100% !important; margin: 0 !important; padding: 0 !important; box-sizing: border-box !important; }
+    .bc-section-block { display: block !important; width: 100% !important; padding: 7rem 2rem !important; box-sizing: border-box !important; margin-bottom: 0 !important; }
+    .bc-section-inner { max-width: 1200px !important; margin: 0 auto !important; width: 100% !important; }
 
-    .hero-content {
-        position: relative;
-        z-index: 10;
-        width: 100%;
-        max-width: 1100px;
-        margin: 0 auto;
-        color: #ffffff;
-        display: flex;
-        flex-direction: column;
-        align-items: flex-start; 
-    }
-    
-    /* Puedes borrar la clase .hero-badge {} ya que la eliminamos del HTML */
-
-    .hero-bg {
-        position: absolute;
-        inset: 0;
-        z-index: 0;
-        background-color: #111;
-    }
-
-    .hero-bg img {
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-        transform: scale(1.05);
-        animation: slowZoomHome 25s ease-out forwards;
-        will-change: transform;
-    }
-
-    .hero-scrim {
-        position: absolute;
-        inset: 0;
-        /* Gradiente complejo: Oscuro arriba para el Nav, oscuro a la izquierda para el texto */
-        background: linear-gradient(to right, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.3) 50%, rgba(0,0,0,0.1) 100%),
-                    linear-gradient(to bottom, rgba(0,0,0,0.6) 0%, transparent 20%, rgba(0,0,0,0.4) 100%);
-    }
-
-    
-
-    .hero-immersive-home .hero-title {
-        font-family: var(--font-display, 'Georgia', serif);
-        /* Reducido el tamaño máximo de 5.5rem a 4.5rem */
-        font-size: clamp(2.5rem, 5vw + 1rem, 4.5rem);
-        line-height: 1.05;
-        margin-bottom: 1.5rem;
-        font-weight: normal;
-        color: #ffffff;
-        letter-spacing: -0.02em;
-        text-wrap: balance;
-        /* Sombra más densa para legibilidad */
-        text-shadow: 0 2px 4px rgba(0,0,0,0.8), 0 4px 16px rgba(0,0,0,0.5);
-        opacity: 0;
-        transform: translateY(20px);
-        animation: fadeUpHome 0.8s cubic-bezier(0.16, 1, 0.3, 1) 0.15s forwards;
-    }
-    
-    .hero-immersive-home .hero-subtitle {
-        font-family: var(--font-main, 'Helvetica Neue', sans-serif);
-        font-size: clamp(1.05rem, 2vw, 1.2rem);
-        line-height: 1.6;
-        margin-bottom: 2.5rem;
-        color: #e5e7eb;
-        max-width: 50ch;
-        text-wrap: pretty;
-        /* Sombra más densa para legibilidad */
-        text-shadow: 0 2px 4px rgba(0,0,0,0.8), 0 4px 12px rgba(0,0,0,0.5);
-        opacity: 0;
-        transform: translateY(20px);
-        animation: fadeUpHome 0.8s cubic-bezier(0.16, 1, 0.3, 1) 0.3s forwards;
-    }
-
-    .hero-actions {
-        display: flex;
-        gap: 1rem;
-        opacity: 0;
-        transform: translateY(20px);
-        animation: fadeUpHome 0.8s cubic-bezier(0.16, 1, 0.3, 1) 0.45s forwards;
-    }
-
-    .btn-primary {
-        background-color: #006d77;
-        color: #ffffff;
-        padding: 14px 32px;
-        border-radius: 8px;
-        text-decoration: none;
-        font-weight: bold;
-        text-transform: uppercase;
-        letter-spacing: 0.05em;
-        font-size: 0.9rem;
-        transition: all 0.3s ease;
-        border: 1px solid #006d77;
-    }
-
-    .btn-primary:hover {
-        background-color: #005a62;
-        transform: translateY(-2px);
-    }
-
-    .btn-secondary {
-        background-color: rgba(255, 255, 255, 0.1);
-        backdrop-filter: blur(8px);
-        -webkit-backdrop-filter: blur(8px);
-        color: #ffffff;
-        padding: 14px 32px;
-        border-radius: 8px;
-        text-decoration: none;
-        font-weight: bold;
-        text-transform: uppercase;
-        letter-spacing: 0.05em;
-        font-size: 0.9rem;
-        border: 1px solid rgba(255, 255, 255, 0.4);
-        transition: all 0.3s ease;
-    }
-
-    .btn-secondary:hover {
-        background-color: rgba(255, 255, 255, 0.25);
-        border-color: #ffffff;
-        transform: translateY(-2px);
-    }
-
-    @keyframes fadeUpHome {
-        to { opacity: 1; transform: translateY(0); }
-    }
-
-    @keyframes slowZoomHome {
-        from { transform: scale(1); }
-        to { transform: scale(1.1); }
-    }
+    .bc-bg-light { background-color: var(--c-bg-warm) !important; }
+    .bc-bg-muted { background-color: oklch(95.107% 0.01068 76.459) !important; }
+    .bc-border-top { border-top: 1px solid var(--c-border) !important; }
 
     @media (max-width: 768px) {
-        .hero-immersive-home {
-            margin-top: 0 !important;
-            min-height: 100svh;
-            padding: 5.5rem 1.5rem 2.5rem 1.5rem;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            text-align: center;
+        .bc-section-block { padding: 4rem 1.25rem !important; }
+    }
+
+    /* ============================================================
+       CABECERAS EDITORIALES
+       ============================================================ */
+    .bc-header-split {
+        display: flex !important; flex-direction: row !important; justify-content: space-between !important; align-items: flex-end !important;
+        width: 100% !important; margin-bottom: 2.5rem !important; border-bottom: 1px solid var(--c-border) !important;
+        padding-bottom: 1.5rem !important; box-sizing: border-box !important;
+    }
+    
+    .bc-header-centered {
+        display: flex !important; flex-direction: column !important; justify-content: center !important; align-items: center !important;
+        text-align: center !important; width: 100% !important; margin-bottom: 3rem !important;
+    }
+
+    .bc-header-left { display: flex !important; flex-direction: column !important; align-items: flex-start !important; text-align: left !important; }
+    .bc-header-right { display: flex !important; align-items: flex-end !important; padding-bottom: 0.2rem !important; }
+
+    .bc-title-main { font-family: var(--font-display, 'Georgia', serif) !important; font-size: clamp(2.2rem, 3.5vw, 3rem) !important; font-weight: normal !important; color: var(--c-text-main) !important; margin: 0 0 0.5rem 0 !important; line-height: 1.1 !important; }
+    .bc-subtitle-main { font-family: var(--font-main, sans-serif) !important; font-size: 1.1rem !important; color: var(--c-text-muted) !important; font-style: italic !important; margin: 0 !important; }
+
+    @media (max-width: 768px) {
+        .bc-header-split { flex-direction: column !important; align-items: flex-start !important; gap: 1.5rem !important; border-bottom: none !important; padding-bottom: 0 !important; }
+    }
+
+    /* ============================================================
+       CARRUSEL EDITORIAL
+       ============================================================ */
+    .car-wrapper { display: flex !important; flex-direction: column !important; width: 100% !important; position: relative !important; min-height: 550px !important; }
+    .car-inner { position: relative !important; width: 100% !important; min-height: 550px !important; display: flex !important; flex-grow: 1 !important; }
+    
+    .car-slide { 
+        position: absolute !important; inset: 0 !important; 
+        display: grid !important; grid-template-columns: 1fr 1fr !important; gap: 4rem !important;
+        align-items: center !important; 
+        opacity: 0; pointer-events: none !important; transition: opacity 0.8s ease !important; z-index: 1 !important; 
+    }
+    .car-slide.is-active { opacity: 1; pointer-events: auto !important; z-index: 2 !important; }
+
+    .car-content { display: flex !important; flex-direction: column !important; justify-content: center !important; padding-bottom: 5rem !important; z-index: 2 !important; }
+    .car-content-inner { transform: translateY(20px); opacity: 0; transition: all 0.8s cubic-bezier(0.16, 1, 0.3, 1) !important; }
+    .car-slide.is-active .car-content-inner { transform: translateY(0) !important; opacity: 1 !important; transition-delay: 0.2s !important; }
+
+    .car-counter { display: flex !important; align-items: center !important; gap: 1rem !important; margin-bottom: 2rem !important; }
+    .car-num-line { width: 40px !important; height: 1px !important; background-color: var(--c-text-muted) !important; }
+    .car-num-text { font-family: var(--font-main, sans-serif) !important; font-size: 0.9rem !important; font-weight: 600 !important; letter-spacing: 0.1em !important; color: var(--c-text-muted) !important; }
+
+    .car-title { font-family: var(--font-display, 'Georgia', serif) !important; font-size: clamp(2.5rem, 4vw, 3.5rem) !important; font-weight: normal !important; color: var(--c-text-main) !important; margin: 0 0 0.5rem 0 !important; line-height: 1.1 !important; }
+    .car-subtitle { font-family: var(--font-main, sans-serif) !important; font-size: 1rem !important; text-transform: uppercase !important; letter-spacing: 0.15em !important; font-weight: 700 !important; margin: 0 0 1.5rem 0 !important; }
+    .car-desc { font-family: var(--font-main, sans-serif) !important; font-size: 1.1rem !important; line-height: 1.6 !important; color: var(--c-text-muted) !important; margin: 0 0 2.5rem 0 !important; max-width: 90% !important; }
+
+    .car-image-container { position: relative !important; width: 100% !important; height: 500px !important; display: flex !important; align-items: center !important; justify-content: center !important; }
+    .car-image-frame { position: relative !important; width: 100% !important; height: 100% !important; border-radius: 16px !important; overflow: hidden !important; transform: scale(0.95); transition: transform 1.2s cubic-bezier(0.16, 1, 0.3, 1) !important; }
+    .car-slide.is-active .car-image-frame { transform: scale(1); }
+    .car-image { width: 100% !important; height: 100% !important; object-fit: cover !important; display: block !important; }
+    .car-image-overlay { position: absolute !important; inset: 0 !important; mix-blend-mode: multiply !important; }
+    
+    .car-frame-corner { position: absolute !important; width: 40px !important; height: 40px !important; border: 2px solid transparent !important; z-index: 10 !important; transition: all 0.8s ease !important; opacity: 0; }
+    .car-slide.is-active .car-frame-corner { opacity: 1; transition-delay: 0.5s !important; }
+    .car-frame-corner-tl { top: -1rem !important; left: -1rem !important; border-right: none !important; border-bottom: none !important; border-top-left-radius: 16px !important; }
+    .car-frame-corner-br { bottom: -1rem !important; right: -1rem !important; border-left: none !important; border-top: none !important; border-bottom-right-radius: 16px !important; }
+
+    .car-controls { 
+        position: absolute !important; bottom: 0 !important; left: 0 !important; 
+        width: calc(50% - 2rem) !important; 
+        display: flex !important; flex-direction: column !important; gap: 1.5rem !important; 
+        z-index: 10 !important; pointer-events: none !important; 
+    }
+    .car-nav-arrows { display: flex !important; gap: 1rem !important; pointer-events: auto !important; }
+    .car-arrow-btn { background: transparent !important; border: 1px solid var(--c-border) !important; border-radius: 50% !important; width: 48px !important; height: 48px !important; display: flex !important; align-items: center !important; justify-content: center !important; color: var(--c-text-main) !important; cursor: pointer !important; transition: all 0.3s ease !important; }
+    .car-arrow-btn:hover { background: var(--c-text-main) !important; color: var(--c-bg-warm) !important; transform: scale(1.05) !important; }
+
+    .car-progress-bar { 
+        display: flex !important; gap: 1rem !important; width: 100% !important; pointer-events: auto !important; 
+        overflow-x: auto !important; padding: 0 0 8px 0 !important; margin: 0 !important; scrollbar-width: none !important; 
+    }
+    .car-progress-bar::-webkit-scrollbar { display: none !important; }
+    
+    .car-progress-item { 
+        flex: 1 0 120px !important; max-width: 200px !important; 
+        background: transparent !important; border: none !important; padding: 0 !important; margin: 0 !important; cursor: pointer !important; 
+        display: flex !important; flex-direction: column !important; gap: 0.5rem !important; text-align: left !important; opacity: 0.5 !important; transition: opacity 0.3s ease !important; 
+    }
+    .car-progress-item:hover { opacity: 0.8 !important; }
+    .car-progress-item.is-active { opacity: 1 !important; }
+    
+    .car-progress-track { width: 100% !important; height: 2px !important; background: var(--c-border) !important; border-radius: 2px !important; overflow: hidden !important; margin: 0 !important; padding: 0 !important; }
+    .car-progress-fill { height: 100% !important; width: 0%; } 
+    .car-progress-label { font-family: var(--font-main, sans-serif) !important; font-size: 0.75rem !important; text-transform: uppercase !important; letter-spacing: 0.1em !important; font-weight: 700 !important; color: var(--c-text-main) !important; margin: 0 !important; padding: 0 !important;}
+
+    @media (max-width: 950px) {
+        .car-wrapper { min-height: auto !important; height: auto !important; }
+        .car-inner { min-height: auto !important; height: auto !important; display: flex !important; }
+
+        .car-slide { 
+            display: flex !important;
+            flex-direction: column !important;
+            gap: 1rem !important;
+            position: absolute !important;
+            inset: 0 !important;
+            opacity: 0;
+            transition: opacity 0.8s ease !important;
         }
-        .hero-content {
-            align-items: center;
-            margin-top: 0;
+        .car-slide.is-active { 
+            opacity: 1 !important; 
+            z-index: 5 !important; 
+            position: relative !important; 
         }
-        .hero-immersive-home .hero-title {
-            font-size: clamp(2.6rem, 9.5vw, 3.3rem);
-            line-height: 1.08;
-            margin-bottom: 1.2rem;
+
+        /* 1. IMAGEN ARRIBA (Altura fija) */
+        .car-image-container { 
+            order: 1 !important;
+            width: 100% !important;
+            height: 350px !important;
+            position: relative !important;
         }
-        .hero-immersive-home .hero-subtitle {
-            font-size: 1.08rem;
-            line-height: 1.5;
-            margin-bottom: 2rem;
-            margin-left: auto;
-            margin-right: auto;
+        .car-image-frame { border-radius: 16px !important; transform: none !important; }
+        .car-slide.is-active .car-image-frame { transform: none !important; }
+        .car-frame-corner { display: block !important; }
+        .car-image-overlay { 
+            background:
+                radial-gradient(ellipse 220px 130px at top right, rgba(0,0,0,0.35) 0%, transparent 70%),
+                radial-gradient(ellipse 320px 200px at bottom left, rgba(0,0,0,0.45) 0%, transparent 75%) !important;
+            opacity: 1 !important; 
+            mix-blend-mode: normal !important;
         }
-        .hero-actions {
-            flex-direction: column;
-            width: 100%;
-            gap: 0.8rem;
+
+        /* 2. NEUTRALIZAR CONTENEDORES PARA LIBERAR LA POSICIÓN ABSOLUTA */
+        .car-content { 
+            order: 2 !important;
+            width: 100% !important;
+            padding: 0 !important; /* Mata el padding-bottom de 5rem del escritorio */
+            margin: 0 !important;
+            position: static !important;
+            display: block !important;
+            height: auto !important;
         }
-        .btn-primary, .btn-secondary {
-            width: 100%;
-            padding: 13px 20px;
+        .car-content-inner {
+            position: static !important;
+            transform: none !important; /* Mata el translateY(20px) base */
+            display: block !important;
+            height: auto !important;
+            padding: 0 !important;
+            margin: 0 !important;
         }
-        .hero-scrim {
-            background: linear-gradient(to bottom, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.4) 50%, rgba(0,0,0,0.7) 100%);
+        .car-slide.is-active .car-content-inner {
+            transform: none !important;
+            padding: 0 !important;
+            margin: 0 !important;
+        }
+
+        .car-counter { 
+            position: absolute !important;
+            top: 1.5rem !important;
+            right: 1.5rem !important;
+            left: auto !important;
+            width: auto !important; 
+            justify-content: flex-end !important;
+            z-index: 10 !important;
+            margin: 0 !important;
+            background: rgba(0, 0, 0, 0.063) !important;
+            padding: 0.2rem 0.5rem !important;
+            border-radius: 6px !important;
+        }
+        .car-num-line { background-color: rgba(255,255,255,0.7) !important; }
+        .car-num-text { color: #ffffff !important; text-shadow: 0 1px 3px rgba(0,0,0,0.5) !important; }
+
+        .car-title { 
+            position: absolute !important;
+            top: 250px !important;
+            left: 1.5rem !important;
+            width: auto !important;
+            text-align: left !important;
+            font-size: clamp(2.2rem, 8vw, 2.5rem) !important; 
+            color: #ffffff !important; 
+            text-shadow: 0 1px 4px rgba(0, 0, 0, 0.063) !important;
+            z-index: 10 !important;
+            margin: 0 !important;
+            line-height: 1 !important;
+        }
+        
+        .car-subtitle { 
+            position: absolute !important;
+            top: 305px !important;
+            left: 1.5rem !important;
+            width: auto !important;
+            text-align: left !important;
+            font-size: 0.95rem !important;
+            text-shadow: 0 1px 4px rgba(0, 0, 0, 0.699) !important;
+            z-index: 10 !important;
+            margin: 0 !important;
+        }
+
+        /* 4. PÁRRAFO Y BOTÓN (Pegados a la foto) */
+        .car-desc { 
+            margin: 1rem 0 1.5rem 0 !important; /* 1rem es la única separación real con la foto */
+            text-align: left !important; 
+            font-size: 1.05rem !important; 
+            color: var(--c-text-muted) !important; 
+            padding: 0 0.5rem !important;
+            display: block !important;
+        }
+
+        .car-action {
+            display: flex !important;
+            justify-content: flex-start !important; 
+            margin-top: 0 !important; /* Quitamos márgenes superiores innecesarios */
+            margin-bottom: 2rem !important;
+            padding: 0 0.5rem !important;
+        }
+
+        /* 5. CONTROLES DE CARRUSEL */
+        .car-controls { 
+            position: relative !important;
+            width: 100% !important; 
+        }
+        .car-nav-arrows { display: none !important; }
+    }
+
+    /* ============================================================
+       GRID: ARTÍCULOS DESTACADOS
+       ============================================================ */
+    .bc-featured-grid { display: grid !important; grid-template-columns: repeat(3, 1fr) !important; gap: 2.5rem !important; width: 100% !important; }
+    
+    .bc-featured-card { 
+        background: #ffffff !important; border-radius: 16px !important; overflow: hidden !important; 
+        display: flex !important; flex-direction: column !important; text-decoration: none !important; 
+        color: inherit !important; transition: transform 0.3s ease, box-shadow 0.3s ease !important; 
+        border: 1px solid var(--c-border) !important;
+    }
+    .bc-featured-card:hover { transform: translateY(-5px) !important; box-shadow: 0 12px 24px rgba(0,0,0,0.05) !important; }
+    
+    .bc-featured-img-wrap { width: 100% !important; aspect-ratio: 16/10 !important; overflow: hidden !important; margin-bottom: 0 !important; border-radius: 0 !important; }
+    .bc-featured-img { width: 100% !important; height: 100% !important; object-fit: cover !important; transition: transform 0.5s ease !important; }
+    .bc-featured-card:hover .bc-featured-img { transform: scale(1.05) !important; }
+    
+    .bc-featured-content { padding: 2rem !important; display: flex !important; flex-direction: column !important; flex-grow: 1 !important; }
+    
+    .bc-featured-meta { display: flex !important; flex-direction: column !important; align-items: flex-start !important; gap: 0.5rem !important; margin-bottom: 1rem !important; }
+    .bc-featured-tags { display: flex !important; flex-wrap: wrap !important; gap: 0.5rem !important; }
+    
+    .bc-tag { 
+        font-family: var(--font-main, sans-serif) !important;
+        border: 1px solid var(--c-brand) !important; color: var(--c-brand) !important; 
+        padding: 0.2rem 0.6rem !important; border-radius: 50px !important; 
+        font-size: 0.7rem !important; text-transform: uppercase !important; 
+        letter-spacing: 0.05em !important; font-weight: 700 !important; 
+        margin: 0 !important;
+    }
+    
+    .bc-date { font-family: var(--font-main, sans-serif) !important; font-size: 0.75rem !important; color: var(--c-text-muted) !important; text-transform: uppercase !important; letter-spacing: 0.05em !important; margin: 0 !important; }
+    
+    .bc-featured-title { font-family: var(--font-display, 'Georgia', serif) !important; font-size: 1.5rem !important; line-height: 1.3 !important; color: var(--c-text-main) !important; margin: 0 0 1rem 0 !important; font-weight: normal !important; }
+    
+    .bc-featured-excerpt { 
+        font-family: var(--font-main, sans-serif) !important; 
+        font-size: 1rem !important; 
+        line-height: 1.6 !important; 
+        color: var(--c-text-muted) !important; 
+        margin: 0 0 1.5rem 0 !important; 
+        display: -webkit-box !important; 
+        -webkit-line-clamp: 3 !important; 
+        -webkit-box-orient: vertical !important; 
+        overflow: hidden !important; 
+    }
+    
+    .bc-read-more { font-family: var(--font-main, sans-serif) !important; font-size: 0.85rem !important; font-weight: 700 !important; text-transform: uppercase !important; letter-spacing: 0.05em !important; color: var(--c-text-main) !important; margin-top: auto !important; }
+
+    @media (max-width: 950px) { .bc-featured-grid { grid-template-columns: repeat(2, 1fr) !important; } }
+    @media (max-width: 768px) { .bc-featured-grid { grid-template-columns: 1fr !important; } }
+
+    /* ============================================================
+       HOVER MENU DE CATEGORÍAS
+       ============================================================ */
+    .bc-hover-menu-container {
+        display: grid !important;
+        grid-template-columns: 1fr 1fr !important;
+        gap: 4rem !important;
+        align-items: center !important;
+        margin-top: 3rem !important;
+    }
+
+    .bc-hover-menu-list {
+        display: flex !important;
+        flex-direction: column !important;
+        gap: 0 !important;
+    }
+
+    .bc-hover-item {
+        display: block !important;
+        padding: 2rem 0 !important;
+        border-bottom: 1px solid var(--c-border) !important;
+        text-decoration: none !important;
+        color: inherit !important;
+        transition: padding-left 0.3s ease !important;
+        position: relative !important;
+    }
+
+    .bc-hover-item:first-child { border-top: 1px solid var(--c-border) !important; }
+
+    .bc-hover-item:hover { padding-left: 1.5rem !important; }
+
+    .bc-hm-number {
+        font-family: var(--font-main, sans-serif) !important;
+        font-size: 0.85rem !important;
+        color: var(--c-brand) !important;
+        font-weight: 700 !important;
+        display: block !important;
+        margin-bottom: 0.5rem !important;
+    }
+
+    .bc-hm-title {
+        font-family: var(--font-display, 'Georgia', serif) !important;
+        font-size: 2.2rem !important;
+        color: var(--c-text-main) !important;
+        font-weight: normal !important;
+        margin: 0 0 0.5rem 0 !important;
+        transition: color 0.3s ease !important;
+    }
+
+    .bc-hover-item:hover .bc-hm-title { color: var(--c-brand) !important; }
+
+    .bc-hm-desc {
+        font-family: var(--font-main, sans-serif) !important;
+        font-size: 1rem !important;
+        color: var(--c-text-muted) !important;
+        line-height: 1.5 !important;
+        margin: 0 !important;
+        max-width: 90% !important;
+    }
+
+    .bc-hover-visual {
+        position: relative !important;
+        width: 100% !important;
+        aspect-ratio: 4/5 !important;
+        border-radius: 16px !important;
+        overflow: hidden !important;
+        box-shadow: 0 20px 40px rgba(0,0,0,0.08) !important;
+    }
+
+    .bc-hm-img {
+        position: absolute !important;
+        inset: 0 !important;
+        width: 100% !important;
+        height: 100% !important;
+        object-fit: cover !important;
+        opacity: 0 !important;
+        transition: opacity 0.5s ease, transform 0.8s ease !important;
+        transform: scale(1.05) !important;
+    }
+
+    .bc-hm-img.active {
+        opacity: 1 !important;
+        transform: scale(1) !important;
+    }
+
+    /* Ocultar la flecha en escritorio por defecto */
+    .bc-hm-mobile-link {
+        display: none !important; 
+    }
+
+    @media (max-width: 950px) {
+        .bc-hover-menu-container { grid-template-columns: 1fr !important; gap: 2rem !important; }
+        .bc-hover-visual { display: none !important; } 
+        .bc-hover-item:hover { padding-left: 0 !important; }
+        
+        /* Mostramos y damos estilo a la flecha en móviles */
+        .bc-hm-mobile-link {
+            display: inline-flex !important;
+            align-items: center !important;
+            justify-content: center !important;
+            width: 40px !important;
+            height: 40px !important;
+            color: var(--c-brand) !important;
+            margin-top: 1rem !important;
+            margin-left: auto !important;
+            border-radius: 50% !important;
+            background-color: transparent !important;
+            border: 1px solid var(--c-border) !important;
+            transition: all 0.3s ease !important;
+        }
+        
+        .bc-hover-item {
+            display: flex !important;
+            flex-direction: column !important;
+        }
+
+        .bc-hover-item:hover .bc-hm-mobile-link {
+            background-color: var(--c-brand) !important;
+            color: #ffffff !important;
+            border-color: var(--c-brand) !important;
+            transform: translateX(5px) !important; /* Pequeño empuje a la derecha al tocar */
         }
     }
 
     /* ============================================================
-       ESTILOS EXCLUSIVOS DE LA PORTADA
+       SCRAPBOOK EDITORIAL (Detrás de Blogcito - 3 Columnas)
        ============================================================ */
-    #grilla-portada-segura {
+    #quienes-somos { position: relative !important; z-index: 20 !important; }
+    #apoyo { position: relative !important; z-index: 10 !important; }
+
+    .bc-scrapbook-grid {
         display: grid !important;
-        grid-template-columns: repeat(3, 1fr) !important;
-        gap: 2.5rem !important;
-        width: 100% !important;
-        align-items: stretch !important;
+        grid-template-columns: 1fr 1.5fr 1fr !important; /* 3 Columnas: Foto - Texto ancho - Fotos */
+        gap: 3rem !important;
+        align-items: center !important;
     }
 
-    .tarjeta-portada {
+    .bc-scrapbook-left, .bc-scrapbook-right {
         display: flex !important;
         flex-direction: column !important;
-        height: 100% !important;
-        min-width: 0 !important; 
-        margin: 0 !important;
-        padding: 0 !important; 
-        border: none !important;
-        max-width: 100% !important;
-        background-color: #ffffff !important;
-        border-radius: 0 !important; 
-        box-shadow: 0 4px 10px rgba(0,0,0,0.03) !important; 
+        align-items: center !important;
+        justify-content: center !important;
+        width: 100% !important;
     }
 
-    .img-portada {
-        width: 100% !important;
-        height: 220px !important;
-        object-fit: cover !important;
-        display: block !important;
-        border-radius: 0 !important; 
+    .bc-scrapbook-text {
+        display: flex !important;
+        flex-direction: column !important;
+        justify-content: center !important;
+    }
+
+    .bc-scrapbook-desc {
+        font-family: var(--font-main, sans-serif) !important;
+        font-size: 1.1rem !important;
+        line-height: 1.8 !important;
+        color: var(--c-text-muted) !important;
         margin-bottom: 1.5rem !important;
     }
 
-    .meta-portada,
-    .titulo-portada,
-    .desc-portada,
-    .btn-leer-mas-portada {
-        padding-left: 1.5rem !important;
-        padding-right: 1.5rem !important;
+    .bc-signature {
+        font-family: 'Georgia', serif !important;
+        font-size: 2.2rem !important;
+        font-style: italic !important;
+        color: var(--c-brand) !important;
+        margin-top: 1.5rem !important;
+        transform: rotate(-2deg)
     }
 
-    .meta-portada { display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 0.5rem; }
-    
-    .titulo-portada { margin: 0.5rem 0; line-height: 1.3; font-family: var(--font-display); font-size: 1.5rem; }
-    .titulo-portada a { text-decoration: none; color: var(--text-color, #333); transition: color 0.3s ease; }
-    
-    .desc-portada { flex-grow: 1; margin-bottom: 1.5rem; line-height: 1.6; font-size: 0.95rem; color: #555; }
-    
-    .btn-leer-mas-portada { margin-top: auto; padding-bottom: 2rem !important; }
-    .btn-leer-mas-portada a { display: inline-block; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--text-color, #333); text-decoration: none; font-weight: 500; transition: color 0.3s ease; }
-
-    .btn-ver-mas-global {
-        display: inline-block; 
-        padding: 12px 24px; 
-        border: 1px solid var(--text-color, #333); 
-        border-radius: 8px; 
-        text-decoration: none; 
-        color: var(--text-color, #333); 
-        font-size: 0.95rem; 
-        text-transform: uppercase; 
-        letter-spacing: 1px;
-        transition: all 0.3s ease;
-    }
-    .btn-ver-mas-global:hover {
-        background-color: #006d77 !important; 
-        border-color: #006d77 !important;     
-        color: #ffffff !important;            
+    .bc-polaroid {
+        background: #ffffff !important;
+        padding: 12px 12px 45px 12px !important; 
+        box-shadow: 0 15px 35px rgba(0,0,0,0.15) !important;
+        position: relative !important; /* Cambiado a relative para que fluyan en el grid */
     }
 
-    /* ============================================================
-       ESTILOS DE QUIÉNES SOMOS Y COMUNIDAD
-       ============================================================ */
-    .about-section {
-        background-color: #ffffff;
-        padding: 4rem;
-        box-shadow: 0 4px 10px rgba(0,0,0,0.03);
-        margin-bottom: 7rem;
+    .bc-polaroid img {
+        width: 100% !important;
+        height: 100% !important;
+        object-fit: cover !important;
+        display: block !important;
     }
 
-    .about-container {
-        display: grid;
-        grid-template-columns: 1fr 2fr;
-        gap: 4rem;
-        align-items: center;
+    .bc-tape {
+        position: absolute !important;
+        width: 100px !important;
+        height: 25px !important;
+        background-color: rgba(255, 255, 255, 0.4) !important;
+        box-shadow: 0 1px 3px rgba(0,0,0,0.1) !important;
+        backdrop-filter: blur(2px) !important;
+        top: -10px !important;
+        left: 50% !important;
+        transform: translateX(-50%) rotate(-2deg) !important;
+        z-index: 10 !important;
     }
 
-    .about-image-box {
-        position: relative;
-        text-align: center;
+    .bc-tape.alt { transform: translateX(-50%) rotate(3deg) !important; width: 80px !important; }
+    .bc-tape.alt-2 { transform: translateX(-50%) rotate(-4deg) !important; width: 70px !important; }
+
+    /* FOTO IZQUIERDA */
+    .bc-polaroid.main {
+        width: 130% !important;
+        aspect-ratio: 4/5 !important;
+        transform: rotate(-3deg) translateX(-50px) translateY(-30px) !important;
+        z-index: 1 !important;
     }
 
-    .about-avatar {
-        width: 100%;
-        max-width: 300px;
-        height: auto;
-        border-radius: 8px;
-        object-fit: cover;
+    /* FOTOS DERECHA */
+    .bc-polaroid.detail-top {
+        width: 85% !important;
+        aspect-ratio: 1/1 !important;
+        transform: rotate(6deg) translateY(-10px) !important;
+        z-index: 2 !important;
+        margin-bottom: -30px !important; /* Superpone levemente la foto de abajo */
+        margin-left: 20px !important;
     }
 
-    .about-badge {
-        position: absolute;
-        bottom: -15px;
-        left: 50%;
-        transform: translateX(-50%);
-        background-color: #006d77;
-        color: white;
-        padding: 6px 16px;
-        font-size: 0.75rem;
-        text-transform: uppercase;
-        letter-spacing: 1px;
-        white-space: nowrap;
-        border-radius: 20px;
+    .bc-polaroid.detail-bottom {
+        width: 90% !important;
+        aspect-ratio: 1/1 !important;
+        transform: rotate(-4deg) translateY(10px) !important;
+        z-index: 1 !important;
+        margin-right: 20px !important;
     }
 
-    /* ============================================================
-       ESTILOS DE LA GRILLA DE APOYO Y RECURSOS
-       ============================================================ */
-    .support-section {
-        padding: 4rem 0 6rem 0;
-        border-top: 1px solid #eee;
-    }
-
-    /* SUBTÍTULOS DE LAS SECCIONES */
-    .subsection-title {
-        text-align: center;
-        font-family: var(--font-display);
-        font-size: 1.6rem;
-        margin-top: 3.5rem;
-        margin-bottom: 2rem;
-        color: var(--text-color, #333);
-        font-weight: normal;
-    }
-
-    /* GRILLA 1: AFILIADOS (3 COLUMNAS) */
-    .affiliates-grid {
-        display: grid;
-        grid-template-columns: repeat(3, 1fr);
-        gap: 2.5rem;
-        margin-bottom: 2rem;
-    }
-
-    /* GRILLA 2: APOYO DIRECTO (2 COLUMNAS MÁS ANCHAS) */
-    .direct-grid {
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        gap: 2.5rem;
-        max-width: 900px;
-        margin: 0 auto;
-    }
-
-    .support-card {
-        background-color: #ffffff;
-        padding: 2.5rem 2rem;
-        border-radius: 12px;
-        text-align: center;
-        box-shadow: 0 4px 15px rgba(0,0,0,0.03);
-        border: 1px solid #f0f0f0;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        transition: transform 0.3s ease, box-shadow 0.3s ease;
-    }
-
-    .support-card:hover {
-        transform: translateY(-5px);
-        box-shadow: 0 10px 25px rgba(0,0,0,0.06);
-    }
-
-    .support-icon-container {
-        height: 45px;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        margin-bottom: 1.2rem;
-        width: 100%;
-    }
-
-    .support-emoji {
-        font-size: 2.5rem;
-        line-height: 1;
-    }
-
-    .support-card h3 {
-        font-family: var(--font-display);
-        font-size: 1.35rem;
-        margin-bottom: 1rem;
-        color: var(--text-color, #333);
-        font-weight: normal;
-    }
-
-    .support-card p {
-        font-size: 0.92rem;
-        color: #666;
-        line-height: 1.6;
-        margin-bottom: 2rem;
-        flex-grow: 1; 
-    }
-
-    /* BOTONES */
-    .support-btn {
-        display: inline-block;
-        padding: 12px 20px;
-        border-radius: 8px;
-        text-decoration: none;
-        font-weight: 600;
-        font-size: 0.85rem;
-        text-transform: uppercase;
-        letter-spacing: 0.05em;
-        transition: all 0.3s ease;
-        width: 100%;
-        box-sizing: border-box;
-    }
-
-    .btn-kofi {
-        background-color: #323842;
-        color: #ffffff;
-        border: 1px solid #323842;
-    }
-    .btn-kofi:hover { background-color: #1a1e24; color: #ffffff; }
-
-    .btn-recursos {
-        background-color: transparent;
-        color: #003580;
-        border: 1px solid #003580;
-    }
-    .btn-recursos:hover { 
-        background-color: #003580; 
-        color: #ffffff; 
-    }
-
-    .btn-airalo {
-        background-color: transparent;
-        color: #ff5e00;
-        border: 1px solid #ff5e00;
-    }
-    .btn-airalo:hover { 
-        background-color: #ff5e00; 
-        color: #ffffff; 
-    }
-
-    .btn-gyg {
-        background-color: transparent;
-        color: #ff5533;
-        border: 1px solid #ff5533;
-    }
-    .btn-gyg:hover {
-        background-color: #ff5533;
-        color: #ffffff;
-    }
-
-    .btn-colab {
-        background-color: #006d77;
-        color: #ffffff;
-        border: 1px solid #006d77;
-    }
-    .btn-colab:hover { background-color: #005a62; border-color: #005a62; color: #ffffff;}
-
-    /* ============================================================
-       RESPONSIVE DESIGN (MÓVILES)
-       ============================================================ */
+    /* RESPONSIVE MÓVIL */
     @media (max-width: 950px) {
-        .affiliates-grid {
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-        }
-    }
-
-    @media (max-width: 800px) {
-        #grilla-portada-segura {
-            grid-template-columns: 1fr !important;
-            gap: 3rem !important;
+        .bc-scrapbook-grid { grid-template-columns: 1fr !important; gap: 3rem !important; }
+        
+        /* El contenedor visual toma todo el ancho centrado */
+        .bc-scrapbook-visuals { 
+            width: 100% !important; 
+            max-width: 500px !important; 
+            margin: 0 auto 4rem auto !important; 
         }
         
-        .img-portada {
-            height: auto !important;
-            max-height: 350px !important;
+        /* Centrado absoluto perfecto para la foto principal */
+        .bc-polaroid.main { 
+            width: 80% !important; 
+            left: 45% !important;
+            top: 0 !important;
+            transform: translateX(-50%) rotate(-2deg) !important; /* Centra y rota */
+            margin: 0 !important; /* Quitamos márgenes que rompan el centrado absoluto */
         }
-
-        .about-container {
-            grid-template-columns: 1fr;
-            gap: 3rem;
-            text-align: center;
-        }
-
-        .about-section {
-            padding: 2.5rem 1.5rem;
+        
+        /* En móvil ponemos las dos fotos pequeñas una al lado de la otra */
+        .bc-scrapbook-right { flex-direction: row !important; gap: 1rem !important; justify-content: center !important; }
+        .bc-polaroid.detail-top, .bc-polaroid.detail-bottom { width: 50% !important; margin: 0 !important; }
+        .bc-polaroid.detail-top { transform: rotate(-3deg) !important; }
+        .bc-polaroid.detail-bottom { transform: rotate(4deg) !important; }
+    }
+    
+    @media (max-width: 600px) {
+        .bc-polaroid.main { 
+            width: 92% !important; /* En celulares, la foto ocupa casi todo el ancho */
         }
     }
 
-    @media (max-width: 700px) {
-        .affiliates-grid,
-        .direct-grid {
-            grid-template-columns: 1fr;
-            padding: 0 1rem;
-        }
+    /* ============================================================
+       GRAND FINALE (Apoyo Inmersivo)
+       ============================================================ */
+    .bc-grand-finale {
+        position: relative !important;
+        width: 100% !important;
+        min-height: 80vh !important;
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        padding: 6rem 2rem !important;
+        overflow: hidden !important;
     }
+
+    .bc-finale-bg {
+        position: absolute !important;
+        inset: 0 !important;
+        z-index: 0 !important;
+        background: #111 !important;
+    }
+
+    .bc-finale-bg img {
+        width: 100% !important;
+        height: 100% !important;
+        object-fit: cover !important;
+        display: block !important;
+        opacity: 0.6 !important; 
+    }
+
+    .bc-finale-scrim {
+        position: absolute !important;
+        inset: 0 !important;
+        /* El gradiente termina en color sólido (#111111) abajo para fundirse con el footer */
+        background: linear-gradient(to top, #111111 0%, rgba(17,17,17,0.2) 100%) !important;
+    }
+
+
+    /* ============================================================
+       FUSIÓN DEL FOOTER (Solo en la página de inicio)
+       ============================================================ */
+    footer {
+        background-color: #111111 !important;
+        color: rgba(255,255,255,0.6) !important;
+        padding-top: 2rem !important; /* Lo acercamos un poco más a la sección de arriba */
+    }
+    
+    /* Forzamos el color del texto para sobreescribir los estilos en línea de Layout.astro */
+    footer p {
+        color: rgba(255,255,255,0.6) !important;
+    }
+    
+    footer a {
+        color: rgba(255,255,255,0.8) !important;
+    }
+    
+    footer a:hover {
+        color: #ffffff !important;
+    }
+
+    .bc-finale-content {
+        position: relative !important;
+        z-index: 10 !important;
+        width: 100% !important;
+        max-width: 800px !important;
+        text-align: center !important;
+    }
+
+    .bc-finale-title {
+        font-family: var(--font-display, 'Georgia', serif) !important;
+        font-size: clamp(3rem, 5vw, 4.5rem) !important;
+        color: #ffffff !important;
+        margin-bottom: 1rem !important;
+        font-weight: normal !important;
+        text-shadow: 0 4px 20px rgba(0,0,0,0.5) !important;
+    }
+
+    .bc-finale-desc {
+        font-family: var(--font-main, sans-serif) !important;
+        font-size: 1.15rem !important;
+        color: rgba(255,255,255,0.8) !important;
+        line-height: 1.6 !important;
+        margin-bottom: 3.5rem !important;
+        max-width: 600px !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
+
+    .bc-finale-links {
+        display: flex !important;
+        flex-direction: row !important;
+        justify-content: center !important;
+        align-items: center !important;
+        gap: 3rem !important;
+    }
+
+    .bc-fl-divider {
+        width: 1px !important;
+        height: 50px !important;
+        background-color: rgba(255,255,255,0.3) !important;
+    }
+
+    .bc-finale-link {
+        display: flex !important;
+        flex-direction: column !important;
+        align-items: center !important;
+        text-decoration: none !important;
+        transition: transform 0.3s ease !important;
+    }
+
+    .bc-finale-link:hover {
+        transform: translateY(-3px) !important;
+    }
+
+    .bc-fl-title {
+        font-family: var(--font-display, 'Georgia', serif) !important;
+        font-size: 1.5rem !important;
+        color: #ffffff !important;
+        margin-bottom: 0.5rem !important;
+    }
+
+    .bc-fl-subtitle {
+        font-family: var(--font-main, sans-serif) !important;
+        font-size: 0.9rem !important;
+        text-transform: uppercase !important;
+        letter-spacing: 0.1em !important;
+        color: var(--c-bg-warm) !important;
+        font-weight: 700 !important;
+        border-bottom: 1px solid transparent !important;
+        transition: border-color 0.3s ease !important;
+    }
+
+    .bc-finale-link:hover .bc-fl-subtitle {
+        border-color: var(--c-bg-warm) !important;
+    }
+
+    @media (max-width: 768px) {
+        .bc-finale-title { font-size: 2.2rem !important; }
+        .bc-finale-links { flex-direction: column !important; gap: 2rem !important; }
+        .bc-fl-divider { width: 50px !important; height: 1px !important; }
+    }
+
 </style>
+
+<!-- ============================================================
+     SCRIPTS (Vainilla JS)
+     ============================================================ -->
+<script is:inline>
+    document.addEventListener('DOMContentLoaded', () => {
+        /* --- 1. LÓGICA DEL CARRUSEL DE DESTINOS --- */
+        class EditorialCarousel extends HTMLElement {
+            connectedCallback() {
+                this.currentIndex = 0;
+                this.slides = this.querySelectorAll('.car-slide');
+                this.progressFills = this.querySelectorAll('.car-progress-fill');
+                this.progressBtns = this.querySelectorAll('.car-progress-item');
+                this.totalSlides = this.slides.length;
+                this.isTransitioning = false;
+                this.slideDuration = 5000; 
+                
+                this.nextBtn = this.querySelector('.car-next');
+                this.prevBtn = this.querySelector('.car-prev');
+                
+                this.nextBtn?.addEventListener('click', () => this.goToSlide(this.currentIndex + 1));
+                this.prevBtn?.addEventListener('click', () => this.goToSlide(this.currentIndex - 1));
+                
+                this.progressBtns.forEach((btn) => {
+                    btn.addEventListener('click', (e) => {
+                        const idx = parseInt(e.currentTarget.getAttribute('data-index'));
+                        this.goToSlide(idx);
+                    });
+                });
+
+                this.startAutoplay();
+                this.addEventListener('mouseenter', () => this.stopAutoplay());
+                this.addEventListener('mouseleave', () => this.startAutoplay());
+                
+                let touchStartX = 0;
+                this.addEventListener('touchstart', e => touchStartX = e.changedTouches[0].screenX, {passive: true});
+                this.addEventListener('touchend', e => {
+                    let touchEndX = e.changedTouches[0].screenX;
+                    if (touchStartX - touchEndX > 50) this.goToSlide(this.currentIndex + 1);
+                    if (touchStartX - touchEndX < -50) this.goToSlide(this.currentIndex - 1);
+                }, {passive: true});
+
+                this.updateDOM();
+            }
+
+            startAutoplay() {
+                this.stopAutoplay();
+                this.autoplayInterval = setInterval(() => {
+                    this.goToSlide(this.currentIndex + 1);
+                }, this.slideDuration);
+                this.updateDOM();
+            }
+
+            stopAutoplay() {
+                if(this.autoplayInterval) clearInterval(this.autoplayInterval);
+            }
+
+            goToSlide(index) {
+                if(this.isTransitioning) return;
+                this.isTransitioning = true;
+                
+                if (index >= this.totalSlides) index = 0;
+                if (index < 0) index = this.totalSlides - 1;
+
+                this.currentIndex = index;
+                this.updateDOM();
+                this.startAutoplay(); 
+                
+                const progressBar = this.querySelector('.car-progress-bar');
+                const activeBtn = this.progressBtns[this.currentIndex];
+                if(progressBar && activeBtn) {
+                    const scrollPos = activeBtn.offsetLeft - (progressBar.clientWidth / 2) + (activeBtn.clientWidth / 2);
+                    progressBar.scrollTo({ left: scrollPos, behavior: 'smooth' });
+                }
+                
+                setTimeout(() => { this.isTransitioning = false; }, 800);
+            }
+
+            updateDOM() {
+                this.slides.forEach((slide, idx) => {
+                    if (idx === this.currentIndex) slide.classList.add('is-active');
+                    else slide.classList.remove('is-active');
+                });
+
+                this.progressBtns.forEach((btn, idx) => {
+                    const fill = this.progressFills[idx];
+                    
+                    if (idx === this.currentIndex) {
+                        btn.classList.add('is-active');
+                        fill.style.setProperty('transition', 'none', 'important');
+                        fill.style.setProperty('width', '0%', 'important');
+                        
+                        setTimeout(() => {
+                            fill.style.setProperty('transition', `width ${this.slideDuration}ms linear`, 'important');
+                            fill.style.setProperty('width', '100%', 'important');
+                        }, 50);
+                    } else if (idx < this.currentIndex) {
+                        btn.classList.remove('is-active');
+                        fill.style.setProperty('transition', 'none', 'important');
+                        fill.style.setProperty('width', '100%', 'important');
+                    } else {
+                        btn.classList.remove('is-active');
+                        fill.style.setProperty('transition', 'none', 'important');
+                        fill.style.setProperty('width', '0%', 'important');
+                    }
+                });
+            }
+        }
+        customElements.define('editorial-carousel', EditorialCarousel);
+
+        /* --- 2. LÓGICA DEL HOVER MENU DE CATEGORÍAS --- */
+        const hoverItems = document.querySelectorAll('.bc-hover-item');
+        const hoverImages = document.querySelectorAll('.bc-hm-img');
+
+        if (hoverItems.length > 0 && hoverImages.length > 0) {
+            hoverItems.forEach(item => {
+                item.addEventListener('mouseenter', function() {
+                    const index = this.getAttribute('data-index');
+                    
+                    hoverImages.forEach(img => {
+                        if (img.getAttribute('data-index') === index) {
+                            img.classList.add('active');
+                        } else {
+                            img.classList.remove('active');
+                        }
+                    });
+                });
+            });
+        }
+    });
+</script>

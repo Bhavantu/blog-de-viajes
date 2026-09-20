@@ -1,52 +1,74 @@
 ---
 import Layout from './Layout.astro';
-import PostsRecomendados from '../components/PostsRecomendados.astro';
 import { getRelativeLocaleUrl } from 'astro:i18n';
 import { ui } from '../i18n/ui.js';
 
 const { frontmatter, headings } = Astro.props;
 const indices = headings ? headings.filter((h: any) => h.depth === 2 || h.depth === 3) : [];
 
-// Atrapamos el idioma y cargamos las traducciones
+// Idioma y rutas
 const currentLang = Astro.currentLocale || 'es';
 const t = ui[currentLang as keyof typeof ui] || ui['es'];
-
-// Definimos la carpeta de destino según el idioma
 const carpetaDiario = currentLang === 'en' ? 'journal' : 'diario';
 
-// Tag traducido para mostrar
+// Tag traducido
 const tagKey = `tag.${frontmatter?.tag?.toLowerCase()}`;
 const translatedTag = t[tagKey as keyof typeof t] || frontmatter?.tag;
+
+// Traemos todos los posts para armar la lista de los últimos 3 en el sidebar
+// IMPORTANTE: ambas rutas deben subir desde este archivo hasta llegar a src/pages/
+const postsGlob = currentLang === 'en' 
+    ? import.meta.glob('../pages/en/journal/*.md', { eager: true }) 
+    : import.meta.glob('../pages/diario/*.md', { eager: true });
+
+const allPosts = Object.values(postsGlob).sort((a: any, b: any) => {
+    return new Date(b.frontmatter?.date || 0).valueOf() - new Date(a.frontmatter?.date || 0).valueOf();
+});
+
+const latestPosts = allPosts.slice(0, 3);
 ---
 
-<Layout title={frontmatter.title} description={frontmatter.description} frontmatter={frontmatter}>
-    <main class="container">
-        <article class="article-view" style="display: block;">
-            <a href={getRelativeLocaleUrl(currentLang, carpetaDiario)} class="back-btn hover-verde">← {t['post.volver']}</a>            
-            <header class="article-header reveal visible">
+<Layout title={frontmatter.title} description={frontmatter.description} frontmatter={frontmatter} isTransparentHeader={true}>
+    
+    <!-- HERO DEL POST -->
+    <section class="post-hero-section">
+        <div class="post-hero-bg" style={`background-image: linear-gradient(0deg, rgba(10,10,10,0.41), rgba(10,10,10,0.41)), url('${frontmatter.main_image || 'https://images.unsplash.com/photo-1528181304800-259b08848526?q=80&w=2000&auto=format&fit=crop'}');`}>
+        </div>
+        
+        <div class="post-hero-content reveal visible">
+            <div class="post-hero-tags-container">
                 {frontmatter.tag && (
-                    <span class="journal-tag" data-tag={frontmatter.tag.toLowerCase()}>
+                    <span class="post-hero-tag" data-tag={frontmatter.tag.toLowerCase()}>
                         {translatedTag}
                     </span>
                 )}
-                <span class="journal-date">
+                {frontmatter.pais && (
+                    <span class="post-hero-tag">
+                        {frontmatter.pais}
+                    </span>
+                )}
+            </div>
+            
+            <h1 class="post-hero-title">{frontmatter.title}</h1>
+            
+            <span class="post-hero-date">
                 {new Date(frontmatter.date).toLocaleDateString(currentLang === 'es' ? 'es-ES' : 'en-US', { day: '2-digit', month: 'long', year: 'numeric' }).toUpperCase()}
-                </span>
-                <h1 class="article-title-main">{frontmatter.title}</h1>
-            </header>
+            </span>
+        </div>
+    </section>
 
-            {frontmatter.main_image && (
-                <div class="post-banner reveal visible">
-                    <img src={frontmatter.main_image} alt={frontmatter.title} />
-                </div>
-            )}
-
-            <div class="text-column reveal visible">
+    <!-- CONTENEDOR PRINCIPAL -->
+    <main class="post-main-container">
+        
+        <article class="article-view reveal visible">
+            
+            <!-- COLUMNA IZQUIERDA: TEXTO DEL ARTÍCULO -->
+            <div class="text-column">
+                <a href={getRelativeLocaleUrl(currentLang, carpetaDiario)} class="back-btn hover-verde">← {t['post.volver'] || 'VOLVER'}</a>            
                 
-                <!-- ÍNDICE DE CONTENIDOS -->
                 {indices.length > 0 && (
                     <div class="indice-contenidos">
-                        <p class="indice-titulo">{t['post.indice']}</p>
+                        <p class="indice-titulo">{t['post.indice'] || 'Índice de contenidos'}</p>
                         <ul class="indice-lista">
                             {indices.map((heading: any) => (
                                 <li class={`indice-item nivel-${heading.depth}`}>
@@ -59,12 +81,10 @@ const translatedTag = t[tagKey as keyof typeof t] || frontmatter?.tag;
                     </div>
                 )}
                 
-                <!-- TEXTO DEL ARTÍCULO -->
                 <slot />
                 
-                <!-- Inyector automático del Widget de Stay22 -->
                 {frontmatter.stay22_widget && (
-                    <div class="stay22-widget-container" style="margin-top: 3rem; margin-bottom: 2rem;">
+                    <div class="stay22-widget-container">
                         <iframe 
                             id="stay22-widget" 
                             width="100%" 
@@ -75,64 +95,89 @@ const translatedTag = t[tagKey as keyof typeof t] || frontmatter?.tag;
                         ></iframe>
                     </div>
                 )}
-            </div> <!-- FIN TEXT-COLUMN -->
 
-            <!-- BANNERS DE AFILIADOS AL FINAL DEL POST -->
-            <div class="banners-afiliados">
-                <h3 class="afiliados-titulo">
-                    {currentLang === 'en' ? 'Support our project & travel smarter' : 'Apoyá nuestro proyecto y viajá mejor'}
-                </h3>
-                <div class="afiliados-grid">
-                    
-                    <!-- Tarjeta Booking -->
-                    <div class="afiliado-card">
-                        <div class="afiliado-icon-box">
-                            <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Booking.com_Icon_2022.svg" alt="Booking.com Logo" class="afiliado-logo" />
+                <div class="banners-afiliados">
+                    <h3 class="afiliados-titulo">
+                        {currentLang === 'en' ? 'Support our project & travel smarter' : 'Apoyá nuestro proyecto y viajá mejor'}
+                    </h3>
+                    <div class="afiliados-list">
+                        <div class="afiliado-row">
+                            <div class="afiliado-icon-wrap">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Booking.com_Icon_2022.svg" alt="Booking.com Logo" class="afiliado-logo" />
+                            </div>
+                            <div class="afiliado-info">
+                                <h4>{currentLang === 'en' ? 'Book your stays' : 'Reservá tu alojamiento'}</h4>
+                                <p>{currentLang === 'en' ? 'Book through our link to support the blog at no extra cost.' : 'Reservá a través de nuestro link y ayudanos a mantener el blog sin costo extra para vos.'}</p>
+                            </div>
+                            <div class="afiliado-action">
+                                <a href="https://www.booking.com/" target="_blank" rel="noopener noreferrer" class="btn-afiliado btn-booking-post">
+                                    {currentLang === 'en' ? 'Search' : 'Buscar'}
+                                </a>
+                            </div>
                         </div>
-                        <h4>{currentLang === 'en' ? 'Book your stays' : 'Reservá tu alojamiento'}</h4>
-                        <p>{currentLang === 'en' ? 'Book through our link to support the blog at no extra cost to you.' : 'Reservá a través de nuestro link y ayudanos a mantener el blog sin costo extra para vos.'}</p>
-                        <a href="https://www.booking.com/" target="_blank" rel="noopener noreferrer" class="btn-afiliado btn-booking-post">
-                            {currentLang === 'en' ? 'Search accommodation' : 'Buscar alojamiento'}
-                        </a>
-                    </div>
 
-                    <!-- Tarjeta Airalo -->
-                    <div class="afiliado-card">
-                        <div class="afiliado-icon-box">
-                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Airalo_logo.svg/1280px-Airalo_logo.svg.webp" alt="Airalo Logo" class="afiliado-logo" />
+                        <div class="afiliado-row">
+                            <div class="afiliado-icon-wrap">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Airalo_logo.svg/1280px-Airalo_logo.svg.webp" alt="Airalo Logo" class="afiliado-logo" />
+                            </div>
+                            <div class="afiliado-info">
+                                <h4>{currentLang === 'en' ? 'Internet on your trip' : 'Internet en tu viaje'}</h4>
+                                <p>{currentLang === 'en' ? 'Stay connected anywhere with an Airalo eSIM. No roaming charges.' : 'Mantenete conectado en cualquier país con una eSIM de Airalo sin cargos de roaming.'}</p>
+                            </div>
+                            <div class="afiliado-action">
+                                <a href="https://airalo.tpx.lu/8J5sLaD4" target="_blank" rel="noopener noreferrer" class="btn-afiliado btn-airalo-post">
+                                    {currentLang === 'en' ? 'Get eSIM' : 'Conseguir eSIM'}
+                                </a>
+                            </div>
                         </div>
-                        <h4>{currentLang === 'en' ? 'Internet on your trip' : 'Internet en tu viaje'}</h4>
-                        <p>{currentLang === 'en' ? 'Stay connected anywhere with an Airalo eSIM. Easy to install and no roaming charges.' : 'Mantenete conectado en cualquier país con una eSIM de Airalo sin cargos de roaming.'}</p>
-                        <a href="https://airalo.tpx.lu/8J5sLaD4" target="_blank" rel="noopener noreferrer" class="btn-afiliado btn-airalo-post">
-                            {currentLang === 'en' ? 'Get Airalo eSIM' : 'Conseguir eSIM'}
-                        </a>
-                    </div>
 
-                    <!-- Tarjeta GetYourGuide -->
-                    <div class="afiliado-card">
-                        <div class="afiliado-icon-box">
-                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/GetYourGuide_logo.svg/1280px-GetYourGuide_logo.svg.webp?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20250423234221" alt="GetYourGuide Logo" class="afiliado-logo" />
+                        <div class="afiliado-row">
+                            <div class="afiliado-icon-wrap">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/GetYourGuide_logo.svg/1280px-GetYourGuide_logo.svg.webp?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20250423234221" alt="GetYourGuide Logo" class="afiliado-logo" />
+                            </div>
+                            <div class="afiliado-info">
+                                <h4>{currentLang === 'en' ? 'Tours & Activities' : 'Tours y Actividades'}</h4>
+                                <p>{currentLang === 'en' ? 'Book skip-the-line tickets and local tours to support our journeys.' : 'Reservá tours y entradas sin filas con GetYourGuide para apoyar nuestros viajes.'}</p>
+                            </div>
+                            <div class="afiliado-action">
+                                <a href="https://www.getyourguide.com/" target="_blank" rel="noopener noreferrer" class="btn-afiliado btn-gyg-post">
+                                    {currentLang === 'en' ? 'Explore' : 'Explorar'}
+                                </a>
+                            </div>
                         </div>
-                        <h4>{currentLang === 'en' ? 'Tours & Activities' : 'Tours y Actividades'}</h4>
-                        <p>{currentLang === 'en' ? 'Book skip-the-line tickets and local tours through GetYourGuide.' : 'Reservá tours y entradas sin filas con GetYourGuide para apoyar nuestros viajes.'}</p>
-                        <a href="https://www.getyourguide.com/" target="_blank" rel="noopener noreferrer" class="btn-afiliado btn-gyg-post">
-                            {currentLang === 'en' ? 'Explore Tours' : 'Explorar Tours'}
-                        </a>
                     </div>
-
                 </div>
-            </div>
-            
-        </article>
 
-        <!-- POSTS RECOMENDADOS INMEDIATAMENTE DESPUÉS DEL ARTÍCULO -->
-        <div class="relacionados-wrapper">
-            <PostsRecomendados pais={frontmatter.pais} />
-        </div>
+            </div>
+
+            <!-- COLUMNA DERECHA: SIDEBAR CON LOS ÚLTIMOS 3 ARTÍCULOS -->
+            <aside class="sidebar-column">
+                <div class="sidebar-widget">
+                    <h3 class="sidebar-title">
+                        {currentLang === 'en' ? 'Latest Posts' : 'Últimos Artículos'}
+                    </h3>
+                    <div class="sidebar-posts-list">
+                        {latestPosts.map((post: any) => (
+                            <a href={post.url} class="sidebar-post-item">
+                                <div class="sidebar-post-img-wrap">
+                                    <img src={post.frontmatter.main_image || 'https://images.unsplash.com/photo-1528181304800-259b08848526?q=80&w=500&auto=format&fit=crop'} alt={post.frontmatter.title} />
+                                </div>
+                                <div class="sidebar-post-info">
+                                    <span class="sidebar-post-date">
+                                        {new Date(post.frontmatter.date).toLocaleDateString(currentLang === 'es' ? 'es-ES' : 'en-US', { day: '2-digit', month: 'short', year: 'numeric' })}
+                                    </span>
+                                    <h4 class="sidebar-post-heading">{post.frontmatter.title}</h4>
+                                </div>
+                            </a>
+                        ))}
+                    </div>
+                </div>
+            </aside>
+
+        </article>
 
     </main>
 
-    <!-- Script de Stay22 para links de afiliados -->
     <script is:inline>
       (function (s, t, a, y, twenty, two) {
         s.Stay22 = s.Stay22 || {};
@@ -146,449 +191,386 @@ const translatedTag = t[tagKey as keyof typeof t] || frontmatter?.tag;
     </script>
 </Layout>
 
-<!-- ========================================== -->
-<!-- ESTILOS EXCLUSIVOS PARA EL POST Y EL ÍNDICE-->
-<!-- ========================================== -->
 <style>
-
   /* ============================================================
-     GALERÍA EDITORIAL AUTOMÁTICA
+     HERO DEL POST
      ============================================================ */
-  .article-view ul:has(img) {
-      display: flex !important;
-      gap: 1.5rem !important;
-      list-style: none !important;
-      padding: 0 !important;
-      margin: 2.5rem 0 !important;
-      width: 100% !important;
-  }
-  .article-view ul:has(img) li {
-      flex: 1 !important;
-      margin: 0 !important;
-      padding: 0 !important;
-  }
-  .article-view ul:has(img) img {
-      width: 100% !important;
-      height: 380px !important;
-      object-fit: cover !important;
-      border-radius: 0 !important;
-      display: block !important;
-      margin: 0 !important;
-  }
-
-  @media (max-width: 650px) {
-      .article-view ul:has(img) {
-          flex-direction: column !important;
-          gap: 1rem !important;
-      }
-      .article-view ul:has(img) img {
-          height: auto !important;
-      }
-  }
-
-  /* ============================================================
-     EFECTO "HOJA DE PAPEL" Y ENCABEZADO
-     ============================================================ */
-  .article-view {
-      background-color: #ffffff;
-      padding: 4rem 5rem 1rem 5rem;
-      max-width: 920px;
-      margin: 0 auto;
-      box-shadow: 0 10px 30px rgba(0,0,0,0.03);
-  }
-  
-  .article-header {
-      margin-bottom: 3.5rem;
-      text-align: center;
-  }
-
-  .journal-tag {
-      display: inline-block;
-      font-family: var(--font-main, sans-serif);
-      font-size: 0.75rem;
-      font-weight: 700;
-      letter-spacing: 0.15em;
-      text-transform: uppercase;
-      color: #006d77;
-      border: 1px solid rgba(0, 109, 119, 0.3);
-      padding: 4px 12px;
-      border-radius: 20px;
-      margin-bottom: 1.2rem;
-  }
-
-  .journal-date {
-      display: block;
-      font-family: var(--font-main, sans-serif);
-      font-size: 0.8rem;
-      color: #718096;
-      letter-spacing: 0.1em;
-      margin-bottom: 1.2rem;
-  }
-
-  .article-title-main {
-      font-family: var(--font-display, 'Georgia', serif);
-      font-size: 2.9rem;
-      line-height: 1.18;
-      color: var(--text-color, #1a202c);
-      margin: 0;
-      font-weight: normal;
-      text-wrap: balance;
-  }
-
-  .post-banner {
-      margin-bottom: 3rem;
-  }
-  .post-banner img {
-      width: 100%;
-      height: auto;
-      display: block;
-  }
-
-  /* ============================================================
-     CUERPO DEL TEXTO Y TIPOGRAFÍA EDITORIAL
-     ============================================================ */
-  .text-column :global(p) {
-      font-family: var(--font-main, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif);
-      font-size: 1.08rem; /* Tamaño legible y descansado similar a la referencia */
-      line-height: 1.78; /* Espaciado entre líneas óptimo para lectura larga */
-      color: #2d3748;
-      margin-bottom: 1.7rem;
-  }
-
-  .text-column :global(h2) {
-      font-family: var(--font-display, 'Georgia', serif);
-      font-size: 2.1rem;
-      font-weight: normal;
-      color: var(--text-color, #1a202c);
-      margin-top: 3.5rem;
-      margin-bottom: 1.2rem;
-      line-height: 1.28;
-  }
-
-  .text-column :global(h3) {
-      font-family: var(--font-main, sans-serif);
-      font-size: 1.4rem;
-      font-weight: 700;
-      color: #2d3748;
-      margin-top: 2.8rem;
-      margin-bottom: 1rem;
-      line-height: 1.35;
-  }
-
-  .text-column :global(h4) {
-      font-size: 1.15rem;
-      font-weight: 700;
-      color: #4a5568;
-      margin-top: 2rem;
-      margin-bottom: 0.8rem;
-  }
-
-  .text-column :global(ul:not(.indice-lista)),
-  .text-column :global(ol) {
-      margin-bottom: 1.8rem;
-      padding-left: 1.5rem;
-      color: #2d3748;
-      line-height: 1.75;
-      font-size: 1.05rem;
-  }
-
-  .text-column :global(li) {
-      margin-bottom: 0.5rem;
-  }
-
-  /* ============================================================
-     TABLAS ESTILIZADAS CON SCROLL RESPONSIVE
-     ============================================================ */
-  .text-column :global(table) {
-      width: 100%;
-      border-collapse: collapse;
-      margin: 2.5rem 0;
-      font-size: 0.95rem;
-      line-height: 1.5;
+  .post-hero-section {
+      position: relative; 
+      width: 100%; 
+      height: 85vh; 
+      min-height: 550px;
+      display: flex; 
+      align-items: center; 
+      justify-content: center; 
       text-align: left;
-      display: block;
-      overflow-x: auto;
-      -webkit-overflow-scrolling: touch;
-      border-radius: 8px;
-      border: 1px solid #e2e8f0;
+      padding: 7.5rem 0 4rem 0; 
+      margin-top: -120px; 
+      overflow: hidden;
   }
 
-  .text-column :global(thead) {
-      background-color: #f8fafc;
-      border-bottom: 2px solid #cbd5e1;
-  }
-
-  .text-column :global(th) {
-      padding: 0.9rem 1.2rem;
-      font-weight: 700;
-      color: #0f172a;
-      white-space: nowrap;
-  }
-
-  .text-column :global(tbody tr) {
-      border-bottom: 1px solid #f1f5f9;
-  }
-
-  .text-column :global(tbody tr:nth-child(even)) {
-      background-color: #fafaf9;
-  }
-
-  .text-column :global(td) {
-      padding: 0.9rem 1.2rem;
-      color: #334155;
-      vertical-align: top;
-  }
-
-  .text-column :global(td a) {
-      color: #006d77 !important;
-      font-weight: 600;
-  }
-
-  /* ============================================================
-     ENLACES RESALTADOS
-     ============================================================ */
-  .text-column :global(a:not(.hover-verde):not(.indice-item a):not(.btn-afiliado)) {
-      color: #006d77 !important; 
-      text-decoration: none !important; 
-      font-weight: 700 !important; 
-      background: linear-gradient(to top, rgba(0, 109, 119, 0.18) 0%, rgba(0, 109, 119, 0.18) 35%, transparent 35%) !important;
-      padding: 0 4px;
-      margin: 0 -2px;
-      border-radius: 2px;
-      transition: all 0.2s ease-in-out !important;
+  .post-hero-bg { position: absolute; inset: 0; z-index: 0; background-color: #111; background-size: cover; background-position: center; }
+  
+  .post-hero-content { 
+      position: relative; 
+      z-index: 10; 
+      width: 100%; 
+      max-width: 1400px; 
+      margin: 0 auto; 
+      display: flex; 
+      flex-direction: column; 
+      align-items: flex-start; 
+      padding: 0 2.5rem; 
   }
   
-  .text-column :global(a:not(.hover-verde):not(.indice-item a):not(.btn-afiliado):hover) {
-      color: #003a3f !important; 
-      background: linear-gradient(to top, rgba(0, 109, 119, 0.32) 0%, rgba(0, 109, 119, 0.32) 100%, transparent 100%) !important;
+  .post-hero-tags-container { display: flex; flex-wrap: wrap; gap: 0.8rem; margin-bottom: 1.2rem; }
+  .post-hero-tag {
+      font-family: var(--font-main, sans-serif); font-size: 0.75rem; font-weight: 700; letter-spacing: 0.15em; text-transform: uppercase;
+      color: #fff; border: 1px solid rgba(255, 255, 255, 0.3); background-color: rgba(0, 0, 0, 0.2); padding: 6px 16px; border-radius: 50px;
   }
+  .post-hero-title {
+      font-family: var(--font-display, 'Georgia', serif); font-size: clamp(2.2rem, 3.5vw, 2.8rem); 
+      line-height: 1.15; color: #fff; margin-bottom: 0.8rem; font-weight: normal; max-width: 650px; text-wrap: balance;
+  }
+  .post-hero-date { font-family: var(--font-main, sans-serif); font-size: 0.9rem; color: rgba(255,255,255,0.9); letter-spacing: 0.1em; text-transform: uppercase; }
 
   /* ============================================================
-     ÍNDICE DE CONTENIDOS
+     CONTENEDOR PRINCIPAL Y GRID DIVIDIDO
      ============================================================ */
-  .indice-contenidos {
-      background-color: var(--bg-color, #f8f6f0);
-      border: 1px solid #e7e5e0;
-      border-radius: 8px;
-      padding: 1.5rem 2rem;
-      margin: 2rem auto 3rem auto;
-      max-width: 100%;
+  :global(body) {
+      background-color: var(--bg-color, #f4f1ea) !important;
   }
-  .indice-titulo {
+
+  .post-main-container {
+      position: relative; 
+      z-index: 20; 
+      width: 100%;
+      max-width: 1400px;
+      margin: 0 auto; 
+      padding: 0 2.5rem; 
+      margin-bottom: 4rem;
+  }
+
+  .article-view {
+      background-color: transparent;
+      width: 100%;
+      padding: 0; 
+      display: grid;
+      grid-template-columns: 1fr 300px; 
+      gap: 4rem; 
+      align-items: start;
+  }
+
+  .text-column { 
+      grid-column: 1 / 2; 
+      min-width: 0;
+      max-width: none; 
+      margin: 0;
+      background-color: #ffffff; 
+      padding: 4rem 3rem 4rem 0; 
+      position: relative;
+  }
+
+  .text-column::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      right: 100%;
+      width: 50vw;
+      background-color: #ffffff;
+      z-index: -1;
+  }
+
+  .text-column > :global(*) {
+    max-width: min(720px, 100%);
+    margin-left: 0;
+    margin-right: 0;
+    } 
+
+  .text-column :global(hr) {
+      border: none;
+      border-top: 1px solid #e2e8f0;
+      margin: 2.5rem 0;
+  }
+
+  /* EL SIDEBAR */
+  .sidebar-column { 
+      grid-column: 2 / 3; 
+      position: sticky; 
+      top: 120px; 
+      padding: 4rem 0 4rem 0; 
+  }
+
+  .sidebar-widget {
+      background-color: transparent;
+      border: none;
+      padding: 0;
+  }
+  .sidebar-title {
       font-family: var(--font-display);
-      font-size: 1.2rem;
-      margin: 0 0 1rem 0 !important;
-      color: var(--text-color, #333);
+      font-size: 1.4rem;
+      margin-top: 0;
+      margin-bottom: 2rem;
+      color: #333;
       border-bottom: 2px solid #006d77;
       display: inline-block;
       padding-bottom: 0.3rem;
   }
-  .indice-lista {
-      list-style: none !important;
-      padding: 0 !important;
-      margin: 0 !important;
+  .sidebar-posts-list {
+      display: flex;
+      flex-direction: column;
+      gap: 2.5rem; 
   }
+  
+  .sidebar-post-item {
+      display: flex;
+      flex-direction: column; 
+      text-decoration: none;
+      background-color: #ffffff;
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.04);
+      border: 1px solid var(--c-border);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  .sidebar-post-item:hover { 
+      transform: translateY(-5px);
+      box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+  }
+  .sidebar-post-img-wrap {
+      width: 100%;
+      height: 180px; 
+      overflow: hidden;
+      flex-shrink: 0; 
+  }
+  .sidebar-post-img-wrap img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: transform 0.5s ease;
+  }
+  .sidebar-post-item:hover .sidebar-post-img-wrap img {
+      transform: scale(1.05);
+  }
+  .sidebar-post-info {
+      padding: 1.2rem 1.5rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+  }
+  .sidebar-post-date {
+      font-family: var(--font-main, sans-serif);
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--c-text-muted);
+  }
+  .sidebar-post-heading {
+      font-family: var(--font-display);
+      font-size: 1.15rem;
+      line-height: 1.3;
+      color: var(--c-text-main);
+      margin: 0;
+      font-weight: normal;
+  }
+
+  /* BOTÓN VOLVER */
+  .back-btn { 
+      display: inline-block; margin-bottom: 2.5rem; font-size: 0.8rem; text-transform: uppercase; 
+      color: var(--accent-color); cursor: pointer; padding: 10px 0; font-weight: bold; letter-spacing: 0.05em; text-decoration: none;
+  }
+  .back-btn:hover { border-bottom-color: var(--accent-color); }
+
+  /* TIPOGRAFÍA Y CONTENIDO INTERNO */
+  .text-column :global(p) { font-family: var(--font-main, sans-serif); font-size: 1.05rem; line-height: 1.78; color: #2d3748; margin-bottom: 1.7rem; }
+  .text-column :global(h2) { font-family: var(--font-display, 'Georgia', serif); font-size: 2rem; font-weight: normal; color: #1a202c; margin-top: 3.5rem; margin-bottom: 1.2rem; }
+  .text-column :global(h3) { font-family: var(--font-main, sans-serif); font-size: 1.35rem; font-weight: 700; color: #2d3748; margin-top: 2.8rem; margin-bottom: 1rem; }
+  .text-column :global(img) { width: 100%; height: auto !important; border-radius: 8px !important; margin-bottom: 1.5rem !important; display: block; }
+
+  /* GALERÍA: excepción intencional, ocupa todo el ancho de la columna (no los 720px) */
+  .article-view ul:has(img) { display: flex !important; gap: 1.5rem !important; list-style: none !important; padding: 0 !important; margin: 2.5rem 0 !important; max-width: 100% !important; }
+  .article-view ul:has(img) li { flex: 1 !important; margin: 0 !important; }
+  .article-view ul:has(img) img { width: 100% !important; height: 350px !important; object-fit: cover !important; max-width: 100% !important; }
+
+  .text-column :global(table) { width: 100%; border-collapse: collapse; margin: 2.5rem 0; font-size: 0.95rem; display: block; overflow-x: auto; border-radius: 8px; border: 1px solid #e2e8f0; }
+  .text-column :global(th), .text-column :global(td) { padding: 0.9rem 1.2rem; color: #334155; }
+  .text-column :global(thead) { background-color: #f8fafc; border-bottom: 2px solid #cbd5e1; }
+
+  .text-column :global(a:not(.hover-verde):not(.indice-item a):not(.btn-afiliado)) {
+      color: #006d77 !important; text-decoration: none !important; font-weight: 700 !important; 
+      background: linear-gradient(to top, rgba(0, 109, 119, 0.18) 0%, rgba(0, 109, 119, 0.18) 35%, transparent 35%) !important;
+      padding: 0 4px; border-radius: 2px;
+  }
+
+  /* ÍNDICE */
+  .indice-contenidos { background-color: var(--bg-color, #f8f6f0); border: 1px solid #e7e5e0; border-radius: 8px; padding: 1.5rem 2rem; margin: 0 0 3rem 0; }
+  .indice-titulo { font-family: var(--font-display); font-size: 1.2rem; margin: 0 0 1rem 0 !important; color: #333; border-bottom: 2px solid #006d77; display: inline-block; padding-bottom: 0.3rem; }
+  .indice-lista { list-style: none !important; padding: 0 !important; margin: 0 !important; }
   .indice-item { margin-bottom: 0.7rem; line-height: 1.4; }
   .indice-item.nivel-3 { padding-left: 1.5rem; font-size: 0.95rem; position: relative; }
-  .indice-item.nivel-3::before { content: "•"; position: absolute; left: 0.5rem; color: #006d77; }
-  .indice-item a { 
-      text-decoration: none !important; 
-      color: #555 !important; 
-  }
+  .indice-item a { text-decoration: none !important; color: #555 !important; }
   .indice-item a:hover { color: #006d77 !important; }
 
   /* ============================================================
-     IMÁGENES CMS EN DESKTOP
+     BANNERS DE AFILIADOS
      ============================================================ */
-  @media (min-width: 769px) {
-      .text-column :global(.img-derecha) {
-          float: right !important;
-          margin: 0.5rem 0 1.5rem 2rem !important;
-          clear: none !important;
-      }
-      .text-column :global(.img-izquierda) {
-          float: left !important;
-          margin: 0.5rem 2rem 1.5rem 0 !important;
-          clear: none !important;
-      }
-      .text-column :global(.img-pequeño) {
-          width: 350px !important;
-          max-width: 50% !important;
-      }
-      .text-column :global(.img-derecha img),
-      .text-column :global(.img-izquierda img) {
-          width: 100% !important;
-          margin: 0 !important;
-      }
+  .banners-afiliados { 
+      margin-top: 4rem; 
+      padding-top: 4rem; 
+      border-top: 1px solid #eee; 
+      width: 100%; 
   }
+  .afiliados-titulo { 
+      text-align: left; 
+      font-family: var(--font-display); 
+      font-size: 1.6rem; 
+      margin-bottom: 2rem; 
+      color: #333; 
+      font-weight: normal; 
+  }
+  .afiliados-list { 
+      display: flex; 
+      flex-direction: column; 
+      gap: 1.5rem; 
+      width: 100%; 
+  }
+  .afiliado-row {
+      background-color: #ffffff; 
+      border: 1px solid #e2e8f0; 
+      border-radius: 12px; 
+      padding: 1.2rem 1.5rem;
+      display: grid; 
+      grid-template-columns: 60px 1fr auto; 
+      gap: 1.5rem; 
+      align-items: center;
+      box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);
+  }
+  .afiliado-icon-wrap { height: 36px; display: flex; align-items: center; justify-content: center; }
+  .afiliado-logo { max-height: 100%; max-width: 100%; object-fit: contain; }
+  .afiliado-info h4 { font-family: var(--font-display); font-size: 1.1rem; margin: 0 0 0.3rem 0 !important; color: #333; font-weight: normal; }
+  .afiliado-info p { font-family: var(--font-main, sans-serif); font-size: 0.9rem !important; color: #666; margin: 0 !important; }
+  .btn-afiliado {
+      display: inline-flex !important; align-items: center !important; justify-content: center !important;
+      background-color: #2d3748 !important; color: #ffffff !important; border-radius: 8px !important;
+      font-weight: 700 !important; text-transform: uppercase !important; padding: 10px 20px !important; font-size: 0.75rem !important; min-width: 110px !important; text-decoration: none !important;
+  }
+  .btn-booking-post:hover { background-color: #003580 !important; }
+  .btn-airalo-post:hover { background-color: #ff5e00 !important; }
+  .btn-gyg-post:hover { background-color: #ff5533 !important; }
 
   /* ============================================================
-     AJUSTES RESPONSIVE EN MÓVILES (BASE: REFERENCIA EDITORIAL)
+     RESPONSIVE
      ============================================================ */
+  @media (max-width: 1024px) {
+      .post-main-container { padding: 0; }
+      .article-view { grid-template-columns: 1fr; padding: 0; background-color: #ffffff; }
+      .text-column { padding: 3rem 2rem; }
+      .sidebar-column { display: none; } 
+  }
+
   @media (max-width: 768px) {
-      .article-view {
-          padding: 2rem 1.25rem 1rem 1.25rem; /* Márgenes laterales cómodos */
+      .post-hero-section { 
+          height: auto !important; 
+          min-height: 85vh !important; 
+          align-items: center !important; 
+          padding: 4rem 15px 4rem 15px !important; 
+      }
+      .post-hero-content { margin-top: 4rem !important; padding: 0 !important; }
+      .post-hero-title { font-size: clamp(1.8rem, 7vw, 2.5rem) !important; max-width: 100% !important; }
+      
+      .post-main-container { padding: 0 !important; margin-top: 0 !important; }
+      .article-view { padding: 0; background-color: transparent; }
+      .text-column { padding: 2rem 15px 4rem 15px; background-color: #ffffff; }
+      
+      /* Solución al desborde de los afiliados */
+      .banners-afiliados {
+          width: 100% !important;
+          box-sizing: border-box !important;
+          overflow: hidden !important; 
+      }
+      .afiliados-list {
+          width: 100% !important;
+          box-sizing: border-box !important;
+          display: flex !important;
+          flex-direction: column !important;
+      }
+      .afiliado-row { 
+          /* CLAVE: Cambiar de Grid a Flex en columna para forzar que se adapte al ancho del móvil */
+          display: flex !important;
+          flex-direction: column !important;
+          align-items: center !important;
+          gap: 1rem !important; 
+          padding: 1.5rem !important; 
+          text-align: center !important; 
+          width: 100% !important;
+          box-sizing: border-box !important; 
+      }
+      .afiliado-info {
+          width: 100% !important;
+          box-sizing: border-box !important;
+      }
+      .afiliado-info h4, .afiliado-info p {
+          /* Evita que palabras muy largas rompan el contenedor */
+          word-wrap: break-word !important;
+          overflow-wrap: break-word !important;
+      }
+      .afiliado-action { 
+          justify-content: center !important; 
+          width: 100% !important; 
+          margin-top: 0.5rem !important;
+      }
+      .btn-afiliado { 
+          width: 100% !important; 
+          box-sizing: border-box !important;
+          padding: 12px 20px !important;
       }
 
-      .article-header {
-          margin-bottom: 2rem; /* Reduce el vacío gigante antes del banner */
-      }
-
-      .article-title-main {
-          font-size: clamp(1.85rem, 6.5vw, 2.3rem); /* Proporción balanceada */
-          line-height: 1.22;
-      }
-
-      .post-banner {
-          width: calc(100% + 2.5rem) !important;
-          max-width: calc(100% + 2.5rem) !important;
-          margin-left: -1.25rem !important;
-          margin-right: -1.25rem !important;
-          margin-bottom: 2rem;
-      }
-
-      .text-column :global(p) {
-          font-size: 1.05rem; /* ~16.8px, legible sin esfuerzo */
-          line-height: 1.72;
-          margin-bottom: 1.5rem;
-      }
-
-      .text-column :global(h2) {
-          font-size: 1.6rem;
-          line-height: 1.25;
-          margin-top: 2.6rem;
-          margin-bottom: 0.9rem;
-      }
-
-      .text-column :global(h3) {
-          font-size: 1.3rem;
-          line-height: 1.3;
-          margin-top: 2.2rem;
-          margin-bottom: 0.7rem;
-      }
-
+      .text-column :global(img),
       .text-column :global(.post-img-box),
       .text-column :global(.img-derecha),
       .text-column :global(.img-izquierda),
-      .text-column :global(.img-pequeño) {
+      .text-column :global(.img-pequeño),
+      .text-column :global(.img-mediano),
+      .text-column :global(.img-completo) {
           float: none !important;
-          width: calc(100% + 2.5rem) !important;
-          max-width: calc(100% + 2.5rem) !important;
-          margin-left: -1.25rem !important;
-          margin-right: -1.25rem !important;
-          margin-top: 1.8rem !important;
-          margin-bottom: 1.8rem !important;
+          position: relative !important;
+          width: 100vw !important;
+          max-width: 100vw !important;
+          left: 50% !important;
+          transform: translateX(-50%) !important;
+          margin-left: 0 !important;
+          margin-right: 0 !important;
+          margin-top: 2rem !important;
+          margin-bottom: 0.5rem !important;
           display: block !important;
+          border-radius: 0 !important;
       }
 
       .text-column :global(.post-img-box img),
       .text-column :global(.img-derecha img),
       .text-column :global(.img-izquierda img) {
-          width: 100% !important;
+          width: 100vw !important;
+          max-width: 100vw !important;
           height: auto !important;
+          margin: 0 !important;
           border-radius: 0 !important;
+          left: 0 !important;
+          transform: none !important;
       }
 
-      .indice-contenidos {
-          padding: 1.2rem 1.2rem;
-          margin: 1.5rem 0 2.2rem 0;
+      .text-column :global(.img-caption) {
+          display: block !important;
+          width: 100% !important;
+          padding: 0 15px !important; 
+          margin-top: 0.5rem !important;
+          margin-bottom: 2.5rem !important;
+          text-align: center !important;
       }
   }
 
-  .text-column::after {
-      content: "";
-      display: table;
-      clear: both;
-  }
-
-  /* ============================================================
-     BANNERS DE AFILIADOS Y PIE
-     ============================================================ */
-  .banners-afiliados {
-      margin-top: 3rem;
-      padding-top: 3rem;
-      border-top: 1px solid #eee;
-  }
-  .afiliados-titulo {
-      text-align: center;
-      font-family: var(--font-display);
-      font-size: 1.6rem;
-      margin-bottom: 2rem;
-      color: var(--text-color, #333);
-  }
-  .afiliados-grid {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 1.5rem; 
-  }
-  .afiliado-card {
-      background-color: #ffffff;
-      padding: 1.5rem 1.2rem; 
-      border-radius: 10px;
-      text-align: center;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.03);
-      border: 1px solid #f5f5f5;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-  }
-  .afiliado-icon-box {
-      height: 35px; 
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      margin-bottom: 1rem;
-  }
-  .afiliado-logo {
-      max-height: 100%;
-      width: auto;
-      object-fit: contain;
-  }
-  .afiliado-card h4 {
-      font-family: var(--font-display);
-      font-size: 1.15rem; 
-      margin-bottom: 0.8rem;
-  }
-  .afiliado-card p {
-      font-size: 0.85rem; 
-      color: #666;
-      line-height: 1.4;
-      margin-bottom: 1.5rem;
-      flex-grow: 1;
-  }
-  .btn-afiliado {
-      display: inline-block;
-      padding: 10px 14px; 
-      border-radius: 6px;
-      font-weight: 700 !important;
-      font-size: 0.75rem; 
-      text-transform: uppercase;
-      letter-spacing: 0.05em;
-      width: 100%;
-      border: 2px solid !important;
-      box-sizing: border-box;
-      text-align: center;
-  }
-  .btn-booking-post { color: #003580; border-color: #003580 !important; }
-  .btn-booking-post:hover { background-color: #003580 !important; color: #fff !important; }
-  .btn-airalo-post { color: #ff5e00; border-color: #ff5e00 !important; }
-  .btn-airalo-post:hover { background-color: #ff5e00 !important; color: #fff !important; }
-  .btn-gyg-post { color: #ff5533; border-color: #ff5533 !important; }
-  .btn-gyg-post:hover { background-color: #ff5533 !important; color: #fff !important; }
-
-  @media (max-width: 850px) {
-      .afiliados-grid { grid-template-columns: repeat(3, 1fr); gap: 1rem; }
-  }
-  @media (max-width: 700px) {
-      .afiliados-grid { grid-template-columns: 1fr; gap: 1.5rem; }
-  }
-
-  .relacionados-wrapper {
-      margin-top: -2rem;
-  }
-  .relacionados-wrapper :global(section),
-  .relacionados-wrapper :global(div:first-child) {
-      margin-top: 0 !important; 
-      padding-top: 0 !important;
-  }
+  .hover-verde { transition: color 0.3s ease !important; }
+  .hover-verde:hover { color: #006d77 !important; }
+  .reveal { opacity: 0; transform: translateY(20px); transition: all 0.8s ease-out; }
+  .reveal.visible { opacity: 1; transform: translateY(0); }
 </style>

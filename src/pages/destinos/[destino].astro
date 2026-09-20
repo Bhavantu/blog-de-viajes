@@ -1,0 +1,122 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Hero from '../../components/Hero.astro';
+import { ui } from '../../i18n/ui.js';
+import { destinationsData } from '../../data/taxonomies.js';
+
+export async function getStaticPaths() {
+  // Retornamos las rutas que Astro debe crear basándose en nuestro archivo de datos
+  return destinationsData.map((dest) => ({
+    params: { destino: dest.id },
+    props: { destData: dest },
+  }));
+}
+
+const { destData } = Astro.props;
+const currentLang = Astro.currentLocale || 'es';
+const t = ui[currentLang as keyof typeof ui] || ui['es'];
+
+// Traemos todos los posts
+const allPostsGlob = import.meta.glob('../diario/*.md', { eager: true });
+const allPosts = Object.values(allPostsGlob);
+
+// Filtramos los posts cuyo frontmatter "pais" coincida con el título del destino (ignorando mayúsculas)
+const filteredPosts = allPosts.filter((post: any) => {
+    const postPais = post.frontmatter.pais ? post.frontmatter.pais.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "") : '';
+    const currentPais = destData.title.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+    return postPais === currentPais;
+});
+
+// Ordenamos por fecha
+const sortedPosts = filteredPosts.sort((a: any, b: any) => {
+    return new Date(b.frontmatter.date).valueOf() - new Date(a.frontmatter.date).valueOf();
+});
+---
+
+<Layout 
+  title={`${destData.title} - Guías de Viaje | BLOGCITO`} 
+  description={destData.description}
+  isTransparentHeader={true}
+>
+    <!-- Reutilizamos tu Hero general -->
+    <Hero 
+        title={destData.title} 
+        description={destData.description} 
+        bgImage={destData.imageUrl} 
+    />
+
+    <main class="taxonomy-main-wrapper">
+        <div class="taxonomy-header">
+            <h2>Todas las entradas sobre {destData.title}</h2>
+            <p>Encontramos {sortedPosts.length} artículos publicados.</p>
+        </div>
+
+        <div class="bc-featured-grid">
+            {sortedPosts.length > 0 ? (
+                sortedPosts.map((post: any) => {
+                    const tagKey = `tag.${post.frontmatter.tag?.toLowerCase()}`;
+                    const translatedTag = t[tagKey as keyof typeof t] || post.frontmatter.tag;
+                    const imgSrc = post.frontmatter.main_image || 'https://images.unsplash.com/photo-1528181304800-259b08848526?q=80&w=1000&auto=format&fit=crop';
+                    
+                    const dateObj = new Date(post.frontmatter.date);
+                    const formattedDate = !isNaN(dateObj.getTime()) ? dateObj.toLocaleDateString(currentLang, { year: 'numeric', month: 'long', day: 'numeric' }) : '';
+
+                    return (
+                        <a href={post.url} class="bc-featured-card">
+                            <div class="bc-featured-img-wrap">
+                                <img src={imgSrc} alt={post.frontmatter.title} class="bc-featured-img" />
+                            </div>
+                            <div class="bc-featured-content">
+                                <div class="bc-featured-meta">
+                                    <div class="bc-featured-tags">
+                                        {post.frontmatter.tag && (
+                                            <span class="bc-tag">{post.frontmatter.tag}</span>
+                                        )}
+                                        {post.frontmatter.pais && (
+                                            <span class="bc-tag">{post.frontmatter.pais}</span>
+                                        )}
+                                    </div>
+                                    <span class="bc-date">{formattedDate}</span>
+                                </div>
+                                
+                                <h3 class="bc-featured-title">{post.frontmatter.title}</h3>
+                                <p class="bc-featured-excerpt">{post.frontmatter.description || "Nueva entrada en nuestro diario de viaje..."}</p>
+                                <span class="bc-read-more">LEER MÁS &rarr;</span>
+                            </div>
+                        </a>
+                    );
+                })
+            ) : (
+                <p class="no-posts-msg">Aún no hay crónicas publicadas para este destino.</p>
+            )}
+        </div>
+    </main>
+</Layout>
+
+<style is:global>
+    /* Cabecera de la página dinámica */
+    .taxonomy-main-wrapper { max-width: 1200px; margin: 0 auto; padding: 4rem 2rem 8rem 2rem; }
+    .taxonomy-header { text-align: center; margin-bottom: 4rem; }
+    .taxonomy-header h2 { font-family: var(--font-display, 'Georgia', serif); font-size: 2.5rem; color: var(--c-text-main); margin-bottom: 0.5rem; font-weight: normal; }
+    .taxonomy-header p { color: var(--c-text-muted); font-family: var(--font-main, sans-serif); }
+    .no-posts-msg { grid-column: 1 / -1; text-align: center; padding: 4rem; color: var(--c-text-muted); font-style: italic; }
+
+    /* Grilla y Tarjetas (Estilo Diario) */
+    .bc-featured-grid { display: grid !important; grid-template-columns: repeat(3, 1fr) !important; gap: 2.5rem !important; width: 100% !important; }
+    .bc-featured-card { background: #ffffff !important; border-radius: 16px !important; overflow: hidden !important; display: flex !important; flex-direction: column !important; text-decoration: none !important; color: inherit !important; transition: transform 0.3s ease, box-shadow 0.3s ease !important; border: 1px solid var(--c-border) !important; }
+    .bc-featured-card:hover { transform: translateY(-5px) !important; box-shadow: 0 12px 24px rgba(0,0,0,0.05) !important; }
+    .bc-featured-img-wrap { width: 100% !important; aspect-ratio: 16/10 !important; overflow: hidden !important; margin-bottom: 0 !important; border-radius: 0 !important; }
+    .bc-featured-img { width: 100% !important; height: 100% !important; object-fit: cover !important; transition: transform 0.5s ease !important; }
+    .bc-featured-card:hover .bc-featured-img { transform: scale(1.05) !important; }
+    .bc-featured-content { padding: 2rem !important; display: flex !important; flex-direction: column !important; flex-grow: 1 !important; }
+    .bc-featured-meta { display: flex !important; flex-direction: column !important; align-items: flex-start !important; gap: 0.8rem !important; margin-bottom: 1rem !important; }
+    .bc-featured-tags { display: flex !important; flex-wrap: wrap !important; gap: 0.5rem !important; justify-content: flex-start !important; }
+    .bc-tag { font-family: var(--font-main, sans-serif) !important; border: 1px solid #006d77 !important; color: #006d77 !important; padding: 0.2rem 0.8rem !important; border-radius: 50px !important; font-size: 0.7rem !important; text-transform: uppercase !important; letter-spacing: 0.05em !important; font-weight: 700 !important; margin: 0 !important; display: inline-block !important; }
+    .bc-date { font-family: var(--font-main, sans-serif) !important; font-size: 0.75rem !important; color: var(--c-text-muted) !important; text-transform: uppercase !important; letter-spacing: 0.05em !important; margin: 0 !important; }
+    .bc-featured-title { font-family: var(--font-display, 'Georgia', serif) !important; font-size: 1.5rem !important; line-height: 1.3 !important; color: var(--c-text-main) !important; margin: 0 0 1rem 0 !important; font-weight: normal !important; }
+    .bc-featured-excerpt { font-family: var(--font-main, sans-serif) !important; font-size: 1rem !important; line-height: 1.6 !important; color: var(--c-text-muted) !important; margin: 0 0 1.5rem 0 !important; display: -webkit-box !important; -webkit-line-clamp: 3 !important; -webkit-box-orient: vertical !important; overflow: hidden !important; flex-grow: 1 !important; }
+    .bc-read-more { font-family: var(--font-main, sans-serif) !important; font-size: 0.85rem !important; font-weight: 700 !important; text-transform: uppercase !important; letter-spacing: 0.05em !important; color: var(--c-text-main) !important; margin-top: auto !important; }
+
+    @media (max-width: 950px) { .bc-featured-grid { grid-template-columns: repeat(2, 1fr) !important; } }
+    @media (max-width: 768px) { .bc-featured-grid { grid-template-columns: 1fr !important; } }
+</style>

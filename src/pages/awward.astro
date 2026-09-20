@@ -1,13 +1,13 @@
 ---
-import Layout from '../../layouts/Layout.astro';
-import ScrollExpandHero from '../../components/ui/ScrollExpandHero.astro';
-import { ui } from '../../i18n/ui.js';
+import Layout from '../layouts/Layout.astro';
+import ScrollExpandHero from '../components/ui/ScrollExpandHero.astro';
+import { ui } from '../i18n/ui.js';
 
-const currentLang = Astro.currentLocale || 'en';
-const t = ui[currentLang as keyof typeof ui] || ui['en'];
+const currentLang = Astro.currentLocale || 'es';
+const t = ui[currentLang as keyof typeof ui] || ui['es'];
 
-// Leemos las entradas de la carpeta en inglés
-const posts = import.meta.glob('./journal/*.md', { eager: true });
+// Leemos las entradas de la carpeta en español
+const posts = import.meta.glob('./diario/*.md', { eager: true });
 const allPosts = Object.values(posts);
 
 const sortedPosts = allPosts.sort((a: any, b: any) => {
@@ -27,107 +27,102 @@ if (featuredPosts.length < 6) {
 }
 
 // ==========================================
-// DATOS DEL CARRUSEL DE DESTINOS (ENGLISH)
+// DATOS DEL CARRUSEL DE DESTINOS
 // ==========================================
 const destinations = [
   {
     title: 'Indonesia',
-    subtitle: 'Southeast Asia',
-    description: 'Ancient temples, lush jungles, and a vibrant culture. Discover how to explore the islands at a slow pace, avoiding tourist traps and on a local budget.',
+    subtitle: 'Sudeste Asiático',
+    description: 'Templos milenarios, selvas exuberantes y una cultura vibrante. Descubrí cómo recorrer las islas a paso lento, evitando las trampas turísticas y con presupuesto local.',
     accent: 'oklch(0.55 0.12 150)', 
-    imageUrl: '/img/kelingking-beach14.webp',
-    link: '/en/destinations/indonesia'
+    imageUrl: 'https://images.unsplash.com/photo-1537996194471-e657df975ab4?q=80&w=2000&auto=format&fit=crop',
+    link: '/destinos/indonesia'
   },
   {
     title: 'Vietnam',
-    subtitle: 'Southeast Asia',
-    description: 'From the Sapa mountains to the Mekong Delta. An honest guide to navigating its beautiful chaos, unmatched street food, and karst landscapes.',
+    subtitle: 'Sudeste Asiático',
+    description: 'De las montañas de Sapa al delta del Mekong. Una guía honesta para navegar su caos hermoso, su inigualable gastronomía callejera y sus paisajes kársticos.',
     accent: 'oklch(0.60 0.15 45)', 
-    imageUrl: '/img/vietnam.JPG',
-    link: '/en/destinations/vietnam'
+    imageUrl: 'https://images.unsplash.com/photo-1528181304800-259b08848526?q=80&w=2000&auto=format&fit=crop',
+    link: '/destinos/vietnam'
   },
   {
-    title: 'New Zealand',
-    subtitle: 'Oceania',
-    description: 'Endless roads, imposing fjords, and van life. Everything you need to know about the Working Holiday, buying a vehicle, and nomadic travel.',
+    title: 'Nueva Zelanda',
+    subtitle: 'Oceanía',
+    description: 'Rutas infinitas, fiordos imponentes y vida en furgoneta. Todo lo que necesitás saber sobre la Working Holiday, comprar un vehículo y el viaje nómada.',
     accent: 'oklch(0.55 0.08 220)', 
-    imageUrl: '/img/nueva-zelanda.JPG',
-    link: '/en/destinations/new-zealand'
+    imageUrl: 'https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?q=80&w=2000&auto=format&fit=crop',
+    link: '/destinos/nueva-zelanda'
   },
   {
     title: 'China',
-    subtitle: 'Central Asia',
-    description: 'From the Great Wall to the temples of Xi’an. A guide to exploring China with budget tips, transportation advice, and cultural insights, avoiding tourist traps.',
+    subtitle: 'Asia Central',
+    description: 'Desde la Gran Muralla hasta los templos de Xi’an. Una guía para recorrer China con presupuesto, transporte y consejos culturales, evitando las trampas turísticas.',
     accent: 'oklch(0.65 0.15 10)', 
-    imageUrl: '/img/China.JPG',
-    link: '/en/destinations/china'
+    imageUrl: 'https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?q=80&w=2000&auto=format&fit=crop',
+    link: '/destinos/china'
   },
   {
-    title: 'Thailand',
-    subtitle: 'Southeast Asia',
-    description: 'The digital nomad paradise. From the temples of Chiang Mai to the hidden beaches of the south. Everything about visas, cost of living, and street food.',
+    title: 'Tailandia',
+    subtitle: 'Sudeste Asiático',
+    description: 'El paraíso de los nómadas digitales. Desde los templos de Chiang Mai hasta las playas ocultas del sur. Todo sobre visados, costo de vida y comida callejera.',
     accent: 'oklch(0.70 0.15 50)', 
-    imageUrl: '/img/Tailandia.jpg',
-    link: '/en/destinations/thailand'
-  }
+    imageUrl: 'https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?q=80&w=2000&auto=format&fit=crop',
+    link: '/destinos/tailandia'
+  },
 ];
 
 // ==========================================
-// DATOS DE CATEGORÍAS (ENGLISH)
+// DATOS DE CATEGORÍAS (Pilares Estratégicos)
 // ==========================================
 const categories = [
     {
-        title: 'Vanishing Point',
-        desc: 'Personal narrative, photography, poetic chronicles, reflections, and original music.',
+        title: 'Punto de Fuga',
+        desc: 'Narrativa personal, fotografía, crónicas poéticas, reflexiones y música de autoría propia.',
         img: '/img/punto-de-fuga.JPG',
-        link: '/en/categories/vanishing-point'
+        link: '/categorias/punto-de-fuga'
     },
     {
-        title: 'Travel Guide',
-        desc: 'Concrete information on destinations, transport, stays, budgets, restaurants, essential apps, visas, and safety tips.',
+        title: 'Guía de Viaje',
+        desc: 'Información concreta sobre destinos, traslados, estadías, presupuestos, restaurantes, apps infaltables, visas (Working Holiday), y tips de seguridad.',
         img: '/img/dsc_0911.webp',
-        link: '/en/categories/travel-guide'
+        link: '/categorias/guía-de-viaje'
     },
     {
-        title: 'Local Life',
-        desc: 'Articles about the real experience of living day-to-day in a specific city (rentals, restaurants, activities, and practices).',
-        img: '/img/vietnam.jpg',
-        link: '/en/categories/local-life'
+        title: 'Vida Local',
+        desc: 'Artículos sobre la experiencia real de vivir el día a día en una ciudad en concreto (alquileres, restaurantes, actividades y prácticas).',
+        img: '/img/vida-local.JPG',
+        link: '/categorias/vida-local'
     },
     {
-        title: 'Culture & Context',
-        desc: 'Historical, cultural, and social analysis of the destinations visited. Understanding local culture respectfully based on conversations and reading.',
+        title: 'Contexto y Cultura',
+        desc: 'Análisis histórico, cultural y social de los destinos visitados. Comprender la cultura local de forma respetuosa basada en conversaciones y lectura.',
         img: '/img/contexto-y-cultura.webp',
-        link: '/en/categories/culture-and-context'
+        link: '/categorias/contexto-y-cultura'
     }
 ];
 ---
 
 <Layout 
-  title="Home - BLOGCITO" 
-  description="Travel journal, practical guides, and local life around the world. Join us as we discover new destinations through our stories and slow travel guides."
+  title="Inicio - BLOGCITO" 
+  description="Diario de viaje, guías prácticas y vida local alrededor del mundo. Acompañanos a descubrir nuevos destinos a través de nuestras crónicas y viajes lentos."
   isTransparentHeader={true}
 >
-
-    <!-- 1. NUEVO HERO: SCROLL MEDIA EXPANSION (ENGLISH) -->
+    <!-- 1. NUEVO HERO: SCROLL MEDIA EXPANSION -->
     <ScrollExpandHero 
         bgImageSrc="/img/diario/hero2.JPG"
         mediaSrc="/img/diario/hero3.JPG"
     >
-        <!-- Título sin text-shadow -->
-        <h1 style="font-family: var(--font-display, 'Georgia', serif); font-size: clamp(2.5rem, 5vw, 4rem); line-height: 1.1; color: #ffffff; margin-bottom: 1.2rem; font-weight: 400; letter-spacing: -0.01em; text-wrap: balance;">
-            Discovering new worlds<br/>
-            <span style="font-style: italic; color: rgba(255,255,255,0.9);">at a slow pace.</span>
+        <h1 style="font-family: var(--font-display, 'Georgia', serif); font-size: clamp(2.5rem, 5vw, 4rem); line-height: 1.1; color: #ffffff; margin-bottom: 1.2rem; font-weight: 400; letter-spacing: -0.01em; text-shadow: 0 2px 10px rgba(0,0,0,0.2); text-wrap: balance;">
+            Conociendo otros mundos<br/>
+            <span style="font-style: italic; color: rgba(255,255,255,0.9);">a paso lento.</span>
         </h1>
-        
-        <!-- Párrafo sin text-shadow, sin background radial y sin padding -->
-        <p style="font-family: var(--font-main, sans-serif); font-size: 1.05rem; color: rgba(255,255,255,0.95); max-width: 550px; margin-bottom: 2.5rem; line-height: 1.6; font-weight: 400; letter-spacing: 0.02em;">
-            Honest guides and transparent budgets to travel with cultural respect, work on the road, and inhabit new territories at your own rhythm.
+        <p style="font-family: var(--font-main, sans-serif); font-size: 1.05rem; color: rgba(255,255,255,0.95); max-width: 550px; margin-bottom: 2.5rem; line-height: 1.6; font-weight: 400; letter-spacing: 0.02em; text-shadow: 0 2px 8px rgba(0,0,0,0.8); background: radial-gradient(circle, rgba(0,0,0,0.3) 0%, transparent 70%); padding: 1rem; border-radius: 12px;">
+            Guías honestas y presupuestos transparentes para viajar con respeto cultural, trabajar en ruta y habitar nuevos territorios a tu propio ritmo.
         </p>
-        
         <div style="display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center;">
-            <a href="#destinos" class="bc-btn-solid">Explore Destinations</a>
-            <a href="#quienes-somos" class="bc-btn-outline hero-outline-btn">Our Story</a>
+            <a href="#destinos" class="bc-btn-solid">Explorar Destinos</a>
+            <a href="#quienes-somos" class="bc-btn-outline hero-outline-btn">Nuestra Historia</a>
         </div>
     </ScrollExpandHero>
 
@@ -138,7 +133,7 @@ const categories = [
         <section id="destinos" class="bc-section-block bc-bg-light">
             <div class="bc-section-inner">
                 <div class="bc-header-centered">
-                    <h2 class="bc-title-main">Explore Destinations</h2>
+                    <h2 class="bc-title-main">Explorar Destinos</h2>
                 </div>
 
                 <editorial-carousel class="car-wrapper">
@@ -157,7 +152,7 @@ const categories = [
                                         
                                         <div class="car-action">
                                             <a href={dest.link} class="bc-link" style={`--c-accent: ${dest.accent};`}>
-                                                View {dest.title} guides &rarr;
+                                                Ver guías de {dest.title} &rarr;
                                             </a>
                                         </div>
                                     </div>
@@ -177,17 +172,17 @@ const categories = [
 
                     <div class="car-controls">
                         <div class="car-nav-arrows">
-                            <button class="car-arrow-btn car-prev" aria-label="Previous">
+                            <button class="car-arrow-btn car-prev" aria-label="Anterior">
                                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
                             </button>
-                            <button class="car-arrow-btn car-next" aria-label="Next">
+                            <button class="car-arrow-btn car-next" aria-label="Siguiente">
                                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
                             </button>
                         </div>
 
                         <div class="car-progress-bar">
                             {destinations.map((dest, index) => (
-                                <button class="car-progress-item" data-index={index} aria-label={`Go to ${dest.title}`}>
+                                <button class="car-progress-item" data-index={index} aria-label={`Ir a ${dest.title}`}>
                                     <div class="car-progress-track">
                                         <div class="car-progress-fill" style={`background-color: ${dest.accent} !important;`}></div>
                                     </div>
@@ -205,11 +200,11 @@ const categories = [
             <div class="bc-section-inner">
                 <div class="bc-header-split">
                     <div class="bc-header-left">
-                        <h2 class="bc-title-main">Featured Articles</h2>
-                        <p class="bc-subtitle-main">A selection of our best chronicles and guides.</p>
+                        <h2 class="bc-title-main">Artículos Destacados</h2>
+                        <p class="bc-subtitle-main">Selección de nuestras mejores crónicas y guías.</p>
                     </div>
                     <div class="bc-header-right">
-                        <a href="/en/journal" class="bc-link">View all posts &rarr;</a>
+                        <a href="/diario" class="bc-link">Ver todas las entradas &rarr;</a>
                     </div>
                 </div>
 
@@ -240,7 +235,7 @@ const categories = [
                                     
                                     <h3 class="bc-featured-title">{post.frontmatter.title}</h3>
                                     <p class="bc-featured-excerpt">{post.frontmatter.description}</p>
-                                    <span class="bc-read-more">READ MORE &rarr;</span>
+                                    <span class="bc-read-more">LEER MÁS &rarr;</span>
                                 </div>
                             </a>
                         );
@@ -253,8 +248,8 @@ const categories = [
         <section id="categorias" class="bc-section-block bc-bg-light">
             <div class="bc-section-inner">
                 <div class="bc-header-centered">
-                    <h2 class="bc-title-main">Explore by Categories</h2>
-                    <p class="bc-subtitle-main">Find the content you need according to your travel style.</p>
+                    <h2 class="bc-title-main">Explora por Categorías</h2>
+                    <p class="bc-subtitle-main">Encuentra el contenido que necesitas según tu forma de viajar.</p>
                 </div>
 
                 <div class="bc-hover-menu-container">
@@ -264,13 +259,6 @@ const categories = [
                                 <span class="bc-hm-number">0{index + 1}</span>
                                 <h3 class="bc-hm-title">{cat.title}</h3>
                                 <p class="bc-hm-desc">{cat.desc}</p>
-                                <!-- NUEVO: Flecha minimalista visible solo en móviles -->
-                                <span class="bc-hm-mobile-link" aria-label="Explorar categoría">
-                                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                                        <line x1="5" y1="12" x2="19" y2="12"></line>
-                                        <polyline points="12 5 19 12 12 19"></polyline>
-                                    </svg>
-                                </span>
                             </a>
                         ))}
                     </div>
@@ -292,19 +280,20 @@ const categories = [
                     <div class="bc-scrapbook-left">
                         <div class="bc-polaroid main">
                             <div class="bc-tape"></div>
-                            <img src="/img/nosotros.webp" alt="Blogcito creators traveling" onerror="this.src='https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?q=80&w=1000&auto=format&fit=crop'" />
+                            <img src="/img/nosotros.webp" alt="Creadores de Blogcito viajando" onerror="this.src='https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?q=80&w=1000&auto=format&fit=crop'" />
                         </div>
                     </div>
                     
                     <!-- Columna Central: Texto -->
                     <div class="bc-scrapbook-text" style="display: flex; flex-direction: column; align-items: center;">
+                        <!-- Un contenedor interno para alinear el texto a la izquierda, pero mantener el bloque en el centro -->
                         <div style="max-width: 100%; text-align: left;">
-                            <h2 class="bc-title-main" style="text-align: left !important;">Behind Blogcito</h2>
+                            <h2 class="bc-title-main" style="text-align: left !important;">Detrás de Blogcito</h2>
                             <p class="bc-scrapbook-desc" style="text-align: left !important;">
-                                We travel slowly, immerse ourselves in local communities, and write honest guides so you can plan your trip with a realistic budget and cultural respect. More than collecting attractions, we care about connecting with people, territories, and traditions.
+                                Viajamos lento, nos sumergimos en las comunidades locales y escribimos guías honestas para que puedas planear tu viaje con un presupuesto realista y respeto cultural. Más que coleccionar atracciones, nos importa conectar con las personas, los territorios y las tradiciones.
                             </p>
                             <p class="bc-scrapbook-desc" style="text-align: left !important;">
-                                We created this space to answer the real questions we all ask before setting off: how much it actually costs to live in a place, how to adapt to local cultures, and how to balance remote work with conscious travel. No deceptive sponsored content—just practical insights.
+                                Creamos este espacio para responder las preguntas reales que todos nos hacemos antes de partir: cuánto cuesta realmente vivir en un lugar, cómo adaptarse a las culturas locales y cómo equilibrar el trabajo remoto con el viaje consciente. Sin publicidades engañosas, solo datos prácticos.
                             </p>
                             <div class="bc-signature" style="text-align: left !important;">Lore & Santi</div>
                         </div>
@@ -329,23 +318,23 @@ const categories = [
         <!-- 6. SECCIÓN: GRAND FINALE (Apoyo Cinematográfico) -->
         <section id="apoyo" class="bc-section-block bc-grand-finale">
             <div class="bc-finale-bg">
-                <img src="/img/UBUD8.webp" alt="Inspiring landscape" onerror="this.src='https://images.unsplash.com/photo-1528181304800-259b08848526?q=80&w=2000&auto=format&fit=crop'" />
+                <img src="/img/UBUD8.webp" alt="Paisaje inspirador" onerror="this.src='https://images.unsplash.com/photo-1528181304800-259b08848526?q=80&w=2000&auto=format&fit=crop'" />
                 <div class="bc-finale-scrim"></div>
             </div>
             
             <div class="bc-finale-content">
-                <h2 class="bc-finale-title">Let's continue the journey together</h2>
-                <p class="bc-finale-desc">We keep this space free of invasive ads. If our guides helped you plan your adventure, there are two ways you can support us:</p>
+                <h2 class="bc-finale-title">Sigamos el viaje juntos</h2>
+                <p class="bc-finale-desc">Mantenemos este espacio libre de publicidad invasiva. Si nuestras guías te ayudaron a planear tu aventura, hay dos formas en las que podés apoyarnos:</p>
                 
                 <div class="bc-finale-links">
                     <a href="https://ko-fi.com/blogcito" target="_blank" rel="noopener noreferrer" class="bc-finale-link">
-                        <span class="bc-fl-title">For Travelers</span>
-                        <span class="bc-fl-subtitle">Buy us a virtual coffee &rarr;</span>
+                        <span class="bc-fl-title">Para Viajeros</span>
+                        <span class="bc-fl-subtitle">Invitanos un café virtual &rarr;</span>
                     </a>
                     <div class="bc-fl-divider"></div>
-                    <a href="/en/colab" class="bc-finale-link">
-                        <span class="bc-fl-title">For Brands</span>
-                        <span class="bc-fl-subtitle">View Media Kit &rarr;</span>
+                    <a href="/colab" class="bc-finale-link">
+                        <span class="bc-fl-title">Para Marcas</span>
+                        <span class="bc-fl-subtitle">Ver Media Kit &rarr;</span>
                     </a>
                 </div>
             </div>
@@ -363,8 +352,8 @@ const categories = [
         --c-brand-hover: oklch(0.30 0.10 200);
         --c-text-main: oklch(0.25 0.02 250);  
         --c-text-muted: oklch(0.55 0.02 250); 
-        --c-bg-warm: oklch(98.106% 0.0106 76.456);     
-        --c-border: oklch(89.98% 0.0097 72.47);      
+        --c-bg-warm: oklch(0.98 0.01 75);     
+        --c-border: oklch(0.90 0.01 75);      
     }
 
     body::after {
@@ -527,118 +516,12 @@ const categories = [
     .car-progress-label { font-family: var(--font-main, sans-serif) !important; font-size: 0.75rem !important; text-transform: uppercase !important; letter-spacing: 0.1em !important; font-weight: 700 !important; color: var(--c-text-main) !important; margin: 0 !important; padding: 0 !important;}
 
     @media (max-width: 950px) {
-        .car-wrapper { min-height: auto !important; height: auto !important; }
-        .car-inner { min-height: auto !important; height: auto !important; display: flex !important; }
-
-        .car-slide { 
-            display: flex !important;
-            flex-direction: column !important;
-            position: absolute !important;
-            inset: 0 !important;
-            opacity: 0;
-            transition: opacity 0.8s ease !important;
-        }
-        .car-slide.is-active { 
-            opacity: 1 !important; 
-            z-index: 5 !important; 
-            position: relative !important; 
-        }
-
-        /* 1. IMAGEN ARRIBA (Altura fija) */
-        .car-image-container { 
-            order: 1 !important;
-            width: 100% !important;
-            height: 350px !important;
-            position: relative !important;
-        }
-        .car-image-frame { border-radius: 16px !important; transform: none !important; }
-        .car-slide.is-active .car-image-frame { transform: none !important; }
-        .car-frame-corner { display: block !important; }
-        .car-image-overlay { 
-            background: linear-gradient(to bottom, rgba(0,0,0,0.3) 0%, rgba(0,0,0,0.85) 100%) !important; 
-            opacity: 1 !important; 
-            mix-blend-mode: normal !important;
-        }
-
-        /* 2. NEUTRALIZAR CONTENEDORES PARA LIBERAR LA POSICIÓN ABSOLUTA */
-        .car-content { 
-            order: 2 !important;
-            width: 100% !important;
-            padding: 0 !important;
-            position: static !important;
-        }
-        .car-content-inner {
-            position: static !important;
-            transform: none !important;
-        }
-        .car-slide.is-active .car-content-inner {
-            transform: none !important;
-        }
-
-        /* 3. TEXTOS SOBRE LA IMAGEN (Alineados a la izquierda) */
-        .car-counter { 
-            position: absolute !important;
-            top: 1.5rem !important;
-            left: 1.5rem !important; /* Ajustado al margen izquierdo */
-            width: auto !important; /* Ancho automático para no forzar centro */
-            justify-content: flex-start !important; /* Alinea el flexbox a la izquierda */
-            z-index: 10 !important;
-            margin: 0 !important; 
-        }
-        .car-num-line { background-color: rgba(255,255,255,0.7) !important; }
-        .car-num-text { color: #ffffff !important; text-shadow: 0 2px 4px rgba(0,0,0,0.8) !important;}
-
-        .car-title { 
-            position: absolute !important;
-            bottom: 40px !important; /* Anclado desde abajo para que respire con el subtitulo */
-            left: 1.5rem !important; /* Margen izquierdo estricto */
-            top: auto !important; /* Reseteamos el top del código anterior */
-            width: auto !important;
-            text-align: left !important; /* A la izquierda */
-            font-size: clamp(2.2rem, 8vw, 2.5rem) !important; 
-            color: #ffffff !important; 
-            text-shadow: 0 2px 10px rgba(0,0,0,0.8) !important;
-            z-index: 10 !important;
-            margin: 0 !important;
-            line-height: 1 !important;
-        }
-        
-        .car-subtitle { 
-            position: absolute !important;
-            bottom: 15px !important; /* Pegado abajo del titulo */
-            left: 1.5rem !important; /* Margen izquierdo estricto */
-            top: auto !important;
-            width: auto !important;
-            text-align: left !important; /* A la izquierda */
-            font-size: 0.95rem !important;
-            text-shadow: 0 2px 6px rgba(0,0,0,0.9) !important;
-            z-index: 10 !important;
-            margin: 0 !important;
-        }
-
-        /* 4. PÁRRAFO Y BOTÓN (Alineados a la izquierda, menos margen superior) */
-        .car-desc { 
-            margin: 1.5rem 0 1.5rem 0 !important; /* Menos espacio arriba (antes era 1.5rem auto, ahora pegado a izq) */
-            text-align: left !important; /* A la izquierda */
-            font-size: 1.05rem !important; 
-            color: var(--c-text-muted) !important; 
-            padding: 0 0.5rem !important; /* Padding lateral muy sutil para que alinee visualmente con el texto interior de la imagen */
-            display: block !important;
-        }
-
-        .car-action {
-            display: flex !important;
-            justify-content: flex-start !important; /* Botón a la izquierda */
-            margin-bottom: 2rem !important;
-            padding: 0 0.5rem !important;
-        }
-
-        /* 5. CONTROLES DE CARRUSEL */
-        .car-controls { 
-            position: relative !important;
-            width: 100% !important; 
-        }
-        .car-nav-arrows { display: none !important; }
+        .car-inner { min-height: 850px !important; }
+        .car-slide { grid-template-columns: 1fr !important; align-items: flex-start !important; gap: 2rem !important; }
+        .car-content { padding-bottom: 0 !important; }
+        .car-image-container { height: 400px !important; }
+        .car-controls { width: 100% !important; position: relative !important; margin-top: 2rem !important; bottom: auto !important; }
+        .car-desc { max-width: 100% !important; }
     }
 
     /* ============================================================
@@ -778,71 +661,10 @@ const categories = [
         transform: scale(1) !important;
     }
 
-    /* Mostramos y damos estilo al enlace en móviles */
-        .bc-hm-mobile-link {
-            display: inline-flex !important;
-            align-items: center !important;
-            font-family: var(--font-main, sans-serif) !important;
-            font-size: 0.85rem !important;
-            font-weight: 700 !important;
-            text-transform: uppercase !important;
-            letter-spacing: 0.05em !important;
-            color: var(--c-brand) !important;
-            
-            /* Damos un margen superior amplio para separarlo del párrafo */
-            margin-top: 1.5rem !important;
-            
-            /* Lo tiramos hacia la derecha usando margin-left auto */
-            margin-left: auto !important;
-            
-            /* Agregamos una pequeña línea debajo al hacer hover para darle más interactividad */
-            border-bottom: 1px solid transparent !important;
-            transition: border-color 0.3s ease, opacity 0.3s ease !important;
-        }
-        
-        .bc-hover-item {
-            /* Aseguramos que el contenedor sea flex para que el margin-left: auto funcione */
-            display: flex !important;
-            flex-direction: column !important;
-        }
-
-        .bc-hover-item:hover .bc-hm-mobile-link {
-            opacity: 0.8 !important;
-            border-color: var(--c-brand) !important;
-        }
-
     @media (max-width: 950px) {
         .bc-hover-menu-container { grid-template-columns: 1fr !important; gap: 2rem !important; }
         .bc-hover-visual { display: none !important; } 
         .bc-hover-item:hover { padding-left: 0 !important; }
-        
-        /* Mostramos y damos estilo a la flecha en móviles */
-        .bc-hm-mobile-link {
-            display: inline-flex !important;
-            align-items: center !important;
-            justify-content: center !important;
-            width: 40px !important;
-            height: 40px !important;
-            color: var(--c-brand) !important;
-            margin-top: 1rem !important;
-            margin-left: auto !important;
-            border-radius: 50% !important;
-            background-color: transparent !important;
-            border: 1px solid var(--c-border) !important;
-            transition: all 0.3s ease !important;
-        }
-        
-        .bc-hover-item {
-            display: flex !important;
-            flex-direction: column !important;
-        }
-
-        .bc-hover-item:hover .bc-hm-mobile-link {
-            background-color: var(--c-brand) !important;
-            color: #ffffff !important;
-            border-color: var(--c-brand) !important;
-            transform: translateX(5px) !important; /* Pequeño empuje a la derecha al tocar */
-        }
     }
 
     /* ============================================================

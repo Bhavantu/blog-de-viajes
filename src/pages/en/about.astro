@@ -7,6 +7,7 @@ import Layout from '../../layouts/Layout.astro';
 >
     <main class="container-nosotros">
         
+        <!-- HEADER EDITORIAL -->
         <header class="nosotros-header">
             <span class="nosotros-badge">Our Philosophy</span>
             <h1>We are Blogcito</h1>
@@ -18,9 +19,12 @@ import Layout from '../../layouts/Layout.astro';
             </p>
         </header>
 
+        <!-- GRID DE NAVEGACIÓN -->
         <section class="navegacion-section">
-            <h3 class="section-title">How to navigate this blog?</h3>
-            <p class="section-desc">To help you find exactly what you're looking for, we've organized our journal into four clear paths:</p>
+            <div class="section-header-left">
+                <h3 class="section-title">How to navigate this blog?</h3>
+                <p class="section-desc">To help you find exactly what you're looking for, we've organized our journal into four clear paths:</p>
+            </div>
             
             <div class="rutas-grid">
                 <div class="ruta-card">
@@ -42,12 +46,19 @@ import Layout from '../../layouts/Layout.astro';
             </div>
         </section>
 
+        <!-- SECCIÓN EL EQUIPO (Estilo Scrapbook) -->
         <section class="equipo-section">
-            <h3 class="section-title">The team</h3>
+            <div class="section-header-left">
+                <h3 class="section-title">The team</h3>
+            </div>
 
+            <!-- LORENA -->
             <div class="miembro-grid">
-                <div class="miembro-img-wrapper">
-                    <img src="/img/lore.webp" alt="Lorena" class="miembro-img" onerror="this.src='https://placehold.co/400x500/006d77/ffffff?text=Lore'" />
+                <div class="miembro-visuals">
+                    <div class="bc-polaroid main-photo">
+                        <div class="bc-tape"></div>
+                        <img src="/img/lore.webp" alt="Lorena" onerror="this.src='https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?q=80&w=600&auto=format&fit=crop'" />
+                    </div>
                 </div>
                 <div class="miembro-texto">
                     <span class="miembro-rol">Writing & Travel Philosophy</span>
@@ -58,9 +69,13 @@ import Layout from '../../layouts/Layout.astro';
                 </div>
             </div>
 
+            <!-- SANTIAGO -->
             <div class="miembro-grid reverso">
-                <div class="miembro-img-wrapper">
-                    <img src="/img/santi.webp" alt="Santiago" class="miembro-img" onerror="this.src='https://placehold.co/400x500/006d77/ffffff?text=Santi'" />
+                <div class="miembro-visuals">
+                    <div class="bc-polaroid main-photo alt-rotation">
+                        <div class="bc-tape alt"></div>
+                        <img src="/img/santi.webp" alt="Santiago" onerror="this.src='https://images.unsplash.com/photo-1528181304800-259b08848526?q=80&w=600&auto=format&fit=crop'" />
+                    </div>
                 </div>
                 <div class="miembro-texto">
                     <span class="miembro-rol">Photography & Web Development</span>
@@ -71,6 +86,7 @@ import Layout from '../../layouts/Layout.astro';
             </div>
         </section>
 
+        <!-- CALL TO ACTION FINAL -->
         <div class="cta-final">
             <p>Ready to start the journey?</p>
             <div class="cta-links">
@@ -84,17 +100,17 @@ import Layout from '../../layouts/Layout.astro';
 
 <style is:global>
     .container-nosotros {
-        max-width: 900px;
+        max-width: 1000px;
         margin: 0 auto;
-        padding: 4rem 1.5rem;
+        padding: 4rem 1.5rem 8rem 1.5rem;
         color: var(--text-color, #333);
     }
 
     /* HEADER EDITORIAL */
     .nosotros-header {
-        text-align: center;
-        max-width: 750px;
-        margin: 0 auto 5rem auto;
+        text-align: left;
+        max-width: 800px;
+        margin: 0 0 6rem 0;
     }
 
     .nosotros-badge {
@@ -112,14 +128,15 @@ import Layout from '../../layouts/Layout.astro';
 
     .nosotros-header h1 {
         font-family: var(--font-display);
-        font-size: 3.5rem;
+        font-size: clamp(3rem, 6vw, 4.5rem);
         font-weight: normal;
         margin-bottom: 1.5rem;
         line-height: 1.1;
+        color: #111;
     }
 
     .subtitle {
-        font-size: 1.35rem;
+        font-size: clamp(1.2rem, 3vw, 1.45rem);
         font-weight: normal;
         color: #444;
         margin-bottom: 2rem;
@@ -130,29 +147,34 @@ import Layout from '../../layouts/Layout.astro';
 
     .intro-text {
         font-size: 1.1rem;
-        color: #666;
+        color: #555;
         line-height: 1.8;
+        max-width: 700px;
     }
 
-    /* TÍTULOS DE SECCIÓN */
+    /* TÍTULOS DE SECCIÓN ALINEADOS A LA IZQUIERDA */
+    .section-header-left {
+        text-align: left;
+        margin-bottom: 3rem;
+    }
+
     .section-title {
         font-family: var(--font-display);
         font-size: 2.2rem;
-        text-align: center;
         margin-bottom: 0.5rem;
         font-weight: normal;
+        color: #111;
     }
 
     .section-desc {
-        text-align: center;
         color: #666;
-        margin-bottom: 3rem;
         font-size: 1.05rem;
+        max-width: 600px;
     }
 
     /* GRID DE NAVEGACIÓN */
     .navegacion-section {
-        margin-bottom: 6rem;
+        margin-bottom: 8rem;
         padding-top: 4rem;
         border-top: 1px solid #eee;
     }
@@ -174,6 +196,7 @@ import Layout from '../../layouts/Layout.astro';
 
     .ruta-card:hover {
         transform: translateY(-5px);
+        box-shadow: 0 10px 25px rgba(0,0,0,0.06);
     }
 
     .ruta-card h4 {
@@ -191,24 +214,24 @@ import Layout from '../../layouts/Layout.astro';
         margin: 0;
     }
 
-    /* GRID DEL EQUIPO (Reemplaza los viejos floats) */
+    /* SECCIÓN EL EQUIPO (Estilo Scrapbook) */
     .equipo-section {
-        margin-bottom: 5rem;
+        margin-bottom: 6rem;
     }
 
     .miembro-grid {
         display: grid;
         grid-template-columns: 1fr 1.2fr;
-        gap: 3.5rem;
+        gap: 5rem;
         align-items: center;
-        margin-top: 4rem;
+        margin-bottom: 8rem;
     }
 
     .miembro-grid.reverso {
         grid-template-columns: 1.2fr 1fr;
     }
 
-    .miembro-grid.reverso .miembro-img-wrapper {
+    .miembro-grid.reverso .miembro-visuals {
         order: 2;
     }
     
@@ -216,30 +239,69 @@ import Layout from '../../layouts/Layout.astro';
         order: 1;
     }
 
-    .miembro-img {
+    /* ESTILOS DE POLAROID PARA LAS FOTOS */
+    .miembro-visuals {
+        position: relative;
         width: 100%;
-        height: 500px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .bc-polaroid {
+        background: #ffffff;
+        padding: 12px 12px 45px 12px; 
+        box-shadow: 0 15px 35px rgba(0,0,0,0.12);
+        position: relative;
+        width: 90%;
+        aspect-ratio: 4/5;
+    }
+
+    .bc-polaroid img {
+        width: 100%;
+        height: 100%;
         object-fit: cover;
-        border-radius: 12px;
-        box-shadow: 0 8px 20px rgba(0,0,0,0.06);
+        display: block;
+    }
+
+    .bc-tape {
+        position: absolute;
+        width: 100px;
+        height: 25px;
+        background-color: rgba(255, 255, 255, 0.5);
+        box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        backdrop-filter: blur(3px);
+        top: -10px;
+        left: 50%;
+        transform: translateX(-50%) rotate(-2deg);
+        z-index: 10;
+    }
+
+    .bc-tape.alt { transform: translateX(-50%) rotate(3deg); width: 80px; }
+
+    .main-photo { transform: rotate(-3deg); }
+    .main-photo.alt-rotation { transform: rotate(2deg); }
+
+    /* TEXTOS DEL EQUIPO */
+    .miembro-texto {
+        text-align: left;
     }
 
     .miembro-rol {
         font-size: 0.75rem;
         text-transform: uppercase;
-        letter-spacing: 0.1em;
-        color: #888;
+        letter-spacing: 0.15em;
+        color: #006d77;
         display: block;
-        margin-bottom: 0.5rem;
-        font-weight: 600;
+        margin-bottom: 0.8rem;
+        font-weight: 700;
     }
 
     .miembro-texto h4 {
         font-family: var(--font-display);
-        font-size: 2.2rem;
+        font-size: 2.5rem;
         margin-bottom: 1.5rem;
         font-weight: normal;
-        color: #333;
+        color: #111;
     }
 
     .miembro-texto p {
@@ -271,12 +333,47 @@ import Layout from '../../layouts/Layout.astro';
         gap: 1.5rem;
     }
 
-    /* RESPONSIVE */
-    @media (max-width: 768px) {
-        .nosotros-header h1 {
-            font-size: 2.8rem;
-        }
+    .btn-primary {
+        background-color: #006d77;
+        color: #ffffff;
+        padding: 14px 32px;
+        border-radius: 8px;
+        text-decoration: none;
+        font-weight: bold;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        font-size: 0.9rem;
+        transition: all 0.3s ease;
+        border: 1px solid #006d77;
+    }
 
+    .btn-primary:hover {
+        background-color: #005a62;
+        transform: translateY(-2px);
+    }
+
+    .btn-secondary {
+        background-color: transparent;
+        color: #333;
+        padding: 14px 32px;
+        border-radius: 8px;
+        text-decoration: none;
+        font-weight: bold;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        font-size: 0.9rem;
+        border: 1px solid #ccc;
+        transition: all 0.3s ease;
+    }
+
+    .btn-secondary:hover {
+        background-color: #f4f1ea;
+        border-color: #333;
+        transform: translateY(-2px);
+    }
+
+    /* RESPONSIVE */
+    @media (max-width: 850px) {
         .rutas-grid {
             grid-template-columns: 1fr;
             gap: 1.5rem;
@@ -285,10 +382,11 @@ import Layout from '../../layouts/Layout.astro';
         .miembro-grid,
         .miembro-grid.reverso {
             grid-template-columns: 1fr;
-            gap: 2rem;
+            gap: 3rem;
+            margin-bottom: 5rem;
         }
 
-        .miembro-grid.reverso .miembro-img-wrapper {
+        .miembro-grid.reverso .miembro-visuals {
             order: 1;
         }
         
@@ -296,8 +394,9 @@ import Layout from '../../layouts/Layout.astro';
             order: 2;
         }
 
-        .miembro-img {
-            height: 400px;
+        .bc-polaroid {
+            width: 80%;
+            max-width: 400px;
         }
 
         .cta-links {
