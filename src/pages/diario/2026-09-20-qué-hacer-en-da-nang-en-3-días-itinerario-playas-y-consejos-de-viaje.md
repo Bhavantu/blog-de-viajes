@@ -56,7 +56,7 @@ Lo ideal es comenzar la mañana temprano hacia la **Península de Son Tra**, la 
 
 ### Tarde: Playa My Khe y paseo por la zona de An Thuong
 
-Hospedarse en el barrio **An Thuong** facilita la salida caminando hacia la playa **My Khe Beach**, una de las playas urbanas más extensas de Asia.
+Hospedarse en el barrio **An Thuong** facilita el ir caminando facilmente a **My Khe Beach**, una de las playas urbanas más extensas de Asia.
 
 Es una hermosa playa de arena dorada y aguas cálidas rodeada de palmeras, resguardada por las montañas y la figura de Lady Buddha a lo lejos. En la playa se pueden alquilar tumbonas con sombrillas de paja, comprar cocos frescos o disfrutar de masajes frente al mar. A solo una cuadra se encuentra la zona turística, perfecta para almorzar (opciones locales e internacionales), disfrutar de jugos de frutas o recorrer tiendas locales.
 
