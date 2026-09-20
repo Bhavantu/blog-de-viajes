@@ -52,9 +52,7 @@ El clima de Da Nang es cálido durante todo el año, pero tiene dos estaciones b
 
 Lo ideal es comenzar la mañana temprano hacia la **Península de Son Tra**, la franja verde que abraza la bahía de Da Nang. Allí se encuentra la **Pagoda Linh Ung Bãi Bụt**, una pagoda activa atendida por la comunidad local y monjes residentes. La construcción destaca por sus detalles dorados y esculturas de dragones, además de ofrecer una vista panorámica privilegiada de toda la bahía. En este predio se erige la estatua de **Lady Buddha (Quan Am)**, de 67 metros de altura, orientada hacia la ciudad.
 
-> 💡 ¿Sabías que Lady Buddha es uno de los tres vértices del triángulo espiritual que resguarda la ciudad? Existe una leyenda local que enlaza la fe con los datos meteorológicos de los tifones en la costa.
->
-> Podés leer la historia completa en nuestra **El Triángulo Sagrado que protege a la ciudad Da Nang**
+> 💡 ¿Lady Buddha es uno de los tres vértices del triángulo espiritual que resguarda la ciudad? Existe una leyenda local que enlaza la fe con los datos meteorológicos de los tifones en la costa. Podés leer la historia completa en nuestro artículo **[El Triángulo Sagrado que protege a la ciudad Da Nang](https://blogcito.com/diario/triangulo-sagrado-da-nang-vietnam-pagodas-linh-ung/)**
 
 ### Tarde: Playa My Khe y paseo por la zona de An Thuong
 
