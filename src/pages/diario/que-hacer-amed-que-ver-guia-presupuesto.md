@@ -10,7 +10,11 @@ description: "¿Viajás a Bali? Descubrí Amed, el refugio de playa y snorkel li
   estafas. "
 main_image: /img/diario/mount-agung.webp
 ---
-**¿Estás planeando tu viaje a la costa este de Bali?** En esta guía real te cuento todo lo **que hacer en Amed por libre**: desde cómo hacer snorkel en sus mejores bahías de arena negra, hasta precios actualizados de templos, mapas y consejos honestos de supervivencia para slow travelers. Ahora, sin más preámbulos, comenzamos con el viaje. 
+**¿Estás planeando tu viaje a la costa este de Bali?** En esta guía real te cuento todo lo **que hacer en Amed por libre**: desde cómo hacer snorkel en sus mejores bahías de arena negra, hasta precios actualizados de templos, mapas y consejos honestos para slow travelers. 
+
+> Amed es uno de nuestros rincones favoritos de la isla. Si estás planificando tu viaje te recomendamos consultar nuestra [Guía Completa para viajar a Bali](https://blogcito.com/diario/viajar-a-bali/) con todo lo que necesitas saber para organizar tu itinerario, visa y transportes
+>
+> ## Introducción 
 
 Hace años tenía el sueño de viajar a Bali, en Indonesia. Quería el Bali de los sueños, ese con playas tranquilas, rituales en templos sagrados y una conexión real con la naturaleza.
 
@@ -219,8 +223,6 @@ A continuación te dejamos dos tablas con los costos de estadías, entradas y to
 | [Tour privado desde Ubud o Kuta con entradas y traslado](https://www.getyourguide.com/es-es/karangasem-l190139/bali-tour-privado-con-todo-incluido-por-los-puntos-destacados-del-este-de-bali-t1205121?ranking_uuid=2f0097e3-d8c4-4c7a-b66e-c3f6d1bdba45&date_from=2026-07-25) | 1.956.912        | 109   | 95.92 | Opción destacada porque tiene contenido histórico cultural y además conoces un pueblo indígena bali aga y su tradición de tejido |
 | Referencia de conversión de moneda                                                                                                                                                                                                                                             | 100.000          | 5.57  | 4.87  |                                                                                                                                  |
 
-
-
 ## Presupuesto para quedarse en Amed
 
 | Referencia | Costo IDR | Costo USD | Costo EUR | Observaciones |
@@ -245,3 +247,9 @@ Calculadora personalizada
         Ir a la Calculadora Gratis
     </a>
 </div>
+
+Artículos recomendados:
+
+*  Si querés saber más sobre la fascinante cultura y espiritualidad Balinesa descubre [El alma de Bali: tradiciones y secretos.](https://blogcito.com/diario/bali-rituales-cultura-tradiciones-secretos/) 
+* Si querés ver algunos de los paisajes más fascinantes, planificá tu viaje a la isla vecina: [Qué ver y dónde alojarse en Nusa Penida.  ](https://blogcito.com/diario/que-ver-en-nusa-penida-guia/)
+* También te recomendamos visitar [Ubud el corazón cultural de Bali. ](https://blogcito.com/diario/que-hacer-ubud-bali-que-ver-zonas-consejos-guia/)
