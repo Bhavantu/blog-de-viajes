@@ -42,7 +42,7 @@ La primera pagoda, Linh Ung Non Nuoc, fue fundada en 1825 por el rey Minh Mang e
 
 A principios del siglo XXI, como parte de la transformación de Da Nang y el resurgimiento del culto budista, se levantó la segunda pagoda, Linh Ung Ba Na, a casi 1.500 metros sobre el nivel del mar. Según los principios del Phong Thủy, ubicar un templo en el pico más alto de las montañas Annamitas permitía anclar la energía protectora de la montaña y equilibrar las fuerzas entre la tierra y el cielo.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/ba-na-hills-buda-front.jpg" alt="Imagen de bitácora"><span class="img-caption"> Buda gigante en Ba Na Hills, Linh Ung Bà Nà</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/ba-na-hills-buda-front.webp" alt="Imagen de bitácora"><span class="img-caption"> Buda gigante en Ba Na Hills, Linh Ung Bà Nà</span></div>
 
 ## 3. El escudo frente al océano (Mar / Este)
 
@@ -50,7 +50,7 @@ El último vértice es el más reciente y simbólico. La leyenda cuenta que una 
 
 En la década de 2000, impulsada por la comunidad y liderada por el monje Thich Thien Nguyen, comenzó la construcción de Linh Ung Bai But, coronada en 2010 por la colosal estatua de Lady Buddha (Quan Am) de 67 metros de altura, orientada deliberadamente hacia la bahía para velar por los marineros y pacificar las aguas.
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/lady-buda-pagoda-en-peninsula-son-tra.jpeg" alt="Imagen de bitácora"><span class="img-caption">Lady Buda, Quan Am Península de Son Tra </span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/lady-buda-pagoda-en-peninsula-son-tra.webp" alt="Imagen de bitácora"><span class="img-caption">Lady Buda, Quan Am Península de Son Tra </span></div>
 
 ## ¿Qué dicen los datos acerca de los tifones?
 
@@ -83,7 +83,7 @@ Es la más antigua e históricamente significativa del triángulo. Fundada en 18
 * **Cómo llegar:** A 15 minutos al sur de Da Nang, camino a Hoi An.
 * **Consejo:** Lleva calzado cerrado o sandalias sujetas, ya que las escaleras de mármol son resbaladizas.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/montañas-de-marmol-panoramica.jpeg" alt="Imagen de bitácora"><span class="img-caption">Montañas de Marmol en Da Nang, vista desde arriba</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/montañas-de-marmol-panoramica.webp" alt="Imagen de bitácora"><span class="img-caption">Montañas de Marmol en Da Nang, vista desde arriba</span></div>
 
 ### 3. Linh Ung Bà Nà (Ba Na Hills) – El Santuario entre las Nubes
 
@@ -95,7 +95,7 @@ Situada a 1.500 metros sobre el nivel del mar, su gran atractivo visual es la es
 * **Cómo llegar:** Sistema de teleférico de Ba Na Hills.
 * **Mejor hora:** 08:00 AM a 10:00 AM para evitar aglomeraciones.
 
-  <div class="post-img-box img-completo img-centro"><img src="/img/diario/ba-na-hills-hands.JPG" alt="Imagen de bitácora"><span class="img-caption">Golden Bridge en Ba Na Hills</span></div>
+  <div class="post-img-box img-completo img-centro"><img src="/img/diario/ba-na-hills-hands.webp" alt="Imagen de bitácora"><span class="img-caption">Golden Bridge en Ba Na Hills</span></div>
 
 ## Cómo organizar la visita itinerario:
 
@@ -119,4 +119,4 @@ Aunque son atracciones turísticas, recuerda que son lugares de culto activo.
 
 <div class="post-img-box img-completo img-centro"><img src="/img/diario/marble-mountains-temple-statue-cave-praying.webp" alt="Imagen de bitácora"><span class="img-caption">Cuevas de mármol altares sagrados en Linh Ung Non Nuoc.</span></div>
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/lady-buda.jpeg" alt="Imagen de bitácora"><span class="img-caption">Pagoda Linh Ung, Lady Buda en la península de Son Tra (Da Nang), salón Principal (Chính điện o Main Hall)</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/lady-buda.webp" alt="Imagen de bitácora"><span class="img-caption">Pagoda Linh Ung, Lady Buda en la península de Son Tra (Da Nang), salón Principal (Chính điện o Main Hall)</span></div>
