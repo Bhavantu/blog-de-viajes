@@ -7,9 +7,17 @@ pais: General
 ---
 La sensación de estar de viaje, desde mi perspectiva es una de las cosas más bellas de esta vida. 
 
-Caminar por un espacio, observar y dejarse llenar por las sensaciones, los aromas los colores. Observar el ritmo propio del espacio con mirada atenta, sentir los aromas, los sonidos, esencias de vida que arropan nuestro ser. Dejarse cobijar por un relajante sol tibio al son de una melodía de algún artista callejero o simplemente deleitarse por el sonido de las aves, del mar, sonidos nuevos. 
+Caminar por un espacio, observar y dejarse llenar por las sensaciones, los aromas los colores. Observar el ritmo propio del espacio con mirada atenta, sentir los aromas, los sonidos, esencias de vida que arropan nuestro ser. Dejarse cobijar por un relajante sol tibio al son de una melodía de algún artista callejero o simplemente deleitarse por el sonido de las aves, del mar, sonidos nuevos que nutren mi ser.
+
+Mirada lejana, curiosa que invita a crear a jugar... 
+
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/lahangan-sweet-door.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+
+
 
 La presencia de saberse observador y parte de un ecosistema en continuo movimiento; desde la admiración, la fascinación.
+
+
 
  “¡Sentirse turista!” decíamos con mi querida prima Lola reflexionando que es posible, bello y artístico sentirse turista en nuestro propio hogar. 
 
