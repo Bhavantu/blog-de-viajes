@@ -117,19 +117,6 @@ const canonicalURL = new URL(canonicalPath, siteUrl);
             </div>
         </footer>
 
-        <!-- Modal Buscador -->
-        <div id="search-modal" class="search-modal">
-            <div class="search-container">
-                <div class="search-header">
-                    <input type="text" id="search-input" placeholder={t['search.placeholder']} autocomplete="off" />
-                    <button id="close-search">✕</button>
-                </div>
-                <div id="search-results">
-                    <p style="color:#777; font-size:0.9rem;">{t['search.short']}</p>
-                </div>
-            </div>
-        </div>
-
         <!-- Banner Cookies -->
         <div id="cookie-banner" class="cookie-banner">
             <p>{t['cookies.text']}</p>
@@ -143,6 +130,10 @@ const canonicalURL = new URL(canonicalPath, siteUrl);
                 --accent-color: #888;
                 --font-main: 'Helvetica Neue', Helvetica, Arial, sans-serif;
                 --font-display: 'Georgia', serif;
+            }
+
+            html {
+                scroll-behavior: smooth;
             }
 
             * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -225,17 +216,6 @@ const canonicalURL = new URL(canonicalPath, siteUrl);
 
             footer { width: 100%; text-align: center; padding: 4rem 2rem; font-size: 0.8rem; color: var(--accent-color); margin-top: auto; clear: both; }
 
-            /* BUSCADOR */
-            .search-modal { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.6); z-index: 9999; justify-content: center; align-items: flex-start; padding-top: 15vh; backdrop-filter: blur(3px); }
-            .search-modal.active { display: flex; }
-            .search-container { background: #fff; width: 90%; max-width: 600px; border-radius: 12px; padding: 1.5rem; box-shadow: 0 10px 30px rgba(0,0,0,0.2); }
-            .search-header { display: flex; gap: 1rem; margin-bottom: 1rem; border-bottom: 2px solid #eee; padding-bottom: 1rem; align-items: center; }
-            #search-input { flex-grow: 1; padding: 10px; font-size: 1.2rem; border: none; outline: none; font-family: inherit; min-width: 0; width: 100%; }
-            #close-search { background: none; border: none; font-size: 1.5rem; cursor: pointer; color: #999; transition: color 0.3s; flex-shrink: 0; }
-            #search-results { max-height: 50vh; overflow-y: auto; }
-            .search-result-item { display: block; padding: 1rem 0; border-bottom: 1px solid #f5f5f5; text-decoration: none; }
-            .search-result-item h4 { margin: 0 0 0.4rem 0; color: #006d77; font-size: 1.1rem; }
-            .search-result-item p { margin: 0; font-size: 0.9rem; color: #666; line-height: 1.4; }
         </style>
 
         <style>

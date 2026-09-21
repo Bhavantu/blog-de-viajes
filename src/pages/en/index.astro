@@ -4,6 +4,14 @@ import ScrollExpandHero from '../../components/ui/ScrollExpandHero.astro';
 import { ui } from '../../i18n/ui.js';
 import { destinationsData as destinations, categoriesData as categories } from '../../data/taxonomies.js';
 
+// Diccionario de traducción de slugs (igual que en Header.astro)
+const categoryMapEsToEn: Record<string, string> = {
+    'punto-de-fuga': 'vanishing-point',
+    'guia-de-viaje': 'travel-guide',
+    'vida-local': 'local-life',
+    'contexto-y-cultura': 'culture-and-context'
+};
+
 // Forzamos el idioma a inglés para esta ruta
 const currentLang = 'en';
 const t = ui['en'];
@@ -185,7 +193,7 @@ if (featuredPosts.length < 6) {
                 <div class="bc-hover-menu-container">
                     <div class="bc-hover-menu-list">
                         {categories.map((cat, index) => (
-                            <a href={`/en/categories/${cat.id}`} class="bc-hover-item" data-index={index}>
+                            <a href={`/en/categories/${categoryMapEsToEn[cat.id] || cat.id}`} class="bc-hover-item" data-index={index}>
                                 <span class="bc-hm-number">0{index + 1}</span>
                                 <h3 class="bc-hm-title">{cat.title_en}</h3>
                                 <p class="bc-hm-desc">{cat.desc_en}</p>

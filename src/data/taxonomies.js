@@ -7,8 +7,8 @@ export const destinationsData = [
       title_en: 'Indonesia',
       subtitle: 'Sudeste Asiático',
       subtitle_en: 'Southeast Asia',
-      description: 'Templos milenarios, selvas exuberantes y una cultura vibrante. Descubrí cómo recorrer las islas a paso lento, evitando las trampas turísticas y con presupuesto local.',
-      description_en: 'Ancient temples, lush jungles, and a vibrant culture. Discover how to explore the islands at a slow pace, avoiding tourist traps and on a local budget.',
+      description: 'Un archipiélago de diversidad cultural, tradiciones espirituales y ritmos marcados por el entorno natural. Templos milenarios, selvas exuberantes, playas increíbles y una cultura vibrante. Descubrí cómo recorrer las islas a tu propio ritmo.',
+      description_en: 'An archipelago of cultural diversity, spiritual traditions, and rhythms shaped by the natural environment. Ancient temples, lush jungles, incredible beaches, and a vibrant culture. Discover how to explore the islands at your own pace.',
       accent: 'oklch(0.55 0.12 150)', 
       imageUrl: '/img/kelingking-beach14.webp'
     },
@@ -18,8 +18,8 @@ export const destinationsData = [
       title_en: 'Vietnam',
       subtitle: 'Sudeste Asiático',
       subtitle_en: 'Southeast Asia',
-      description: 'De las montañas de Sapa al delta del Mekong. Una guía honesta para navegar su caos hermoso, su inigualable gastronomía callejera y sus paisajes kársticos.',
-      description_en: 'From the mountains of Sapa to the Mekong Delta. An honest guide to navigating its beautiful chaos, unparalleled street food, and karst landscapes.',
+      description: 'Una nación marcada por su historia resiliente, el dinamismo constante de sus calles y la arraigada cultura del café. Ofrece una transición constante de paisajes, gastronomía tradicional y vida comunitaria. Conocemos sus regiones e investigamos sus particularidades.',
+      description_en: 'A nation marked by its resilient history, the constant dynamism of its streets, and its deeply rooted coffee culture. It offers an ever-changing blend of landscapes, traditional cuisine, and community life. We explore its regions and dig into what makes each one unique.',
       accent: 'oklch(0.60 0.15 45)', 
       imageUrl: '/img/vietnam.webp'
     },
@@ -29,8 +29,8 @@ export const destinationsData = [
       title_en: 'New Zealand',
       subtitle: 'Oceanía',
       subtitle_en: 'Oceania',
-      description: 'Rutas infinitas, fiordos imponentes y vida en furgoneta. Todo lo que necesitás saber sobre la Working Holiday, comprar un vehículo y el viaje nómada.',
-      description_en: 'Endless roads, towering fjords, and van life. Everything you need to know about the Working Holiday, buying a vehicle, and nomadic travel.',
+      description: 'Cadenas montañosas, valles, fiordos, bosques y senderos: un destino de naturaleza abundante en la calma del Pacífico Sur. Te compartimos nuestra experiencia recorriendo el país en campervan y el proceso de vivir la visa Working Holiday.',
+      description_en: 'Mountain ranges, valleys, fjords, forests, and trails: a destination of abundant nature in the calm of the South Pacific. We share our experience traveling the country by campervan and the process of living the Working Holiday visa.',
       accent: 'oklch(0.55 0.08 220)', 
       imageUrl: '/img/nueva-zelanda.webp'
     },
@@ -38,10 +38,10 @@ export const destinationsData = [
       id: 'china',
       title: 'China',
       title_en: 'China',
-      subtitle: 'Asia Central',
-      subtitle_en: 'East Asia', /* Ojo: China suele catalogarse como Asia Oriental, ajustalo si preferís mantener "Central" */
-      description: 'Desde la Gran Muralla hasta los templos de Xi’an. Una guía para recorrer China con presupuesto, transporte y consejos culturales, evitando las trampas turísticas.',
-      description_en: 'From the Great Wall to the temples of Xi’an. A guide to exploring China with budget, transport, and cultural tips, avoiding tourist traps.',
+      subtitle: 'Asia Oriental',
+      subtitle_en: 'East Asia',
+      description: 'La inmensidad geográfica de China se traduce en un mosaico de identidades regionales, sitios ancestrales y centros de vanguardia. Un recorrido por provincias con tradiciones únicas, gastronomías diversas y tesoros patrimoniales.',
+      description_en: 'China\'s geographic vastness translates into a mosaic of regional identities, ancestral sites, and cutting-edge hubs. A journey through provinces with unique traditions, diverse cuisines, and cultural treasures.',
       accent: 'oklch(0.65 0.15 10)', 
       imageUrl: '/img/China.webp'
     },
@@ -51,8 +51,8 @@ export const destinationsData = [
       title_en: 'Thailand',
       subtitle: 'Sudeste Asiático',
       subtitle_en: 'Southeast Asia',
-      description: 'El paraíso de los nómadas digitales. Desde los templos de Chiang Mai hasta las playas ocultas del sur. Todo sobre visados, costo de vida y comida callejera.',
-      description_en: 'The digital nomad paradise. From the temples of Chiang Mai to the hidden beaches of the south. Everything about visas, cost of living, and street food.',
+      description: 'Un punto de entrada al sudeste asiático reconocido por su rico patrimonio budista, su gastronomía de renombre mundial y la diversidad de su geografía. Entre templos ancestrales, la vida convulsa de sus ciudades y la calma de sus islas, este apartado reúne la información esencial para planificar recorridos autónomos y respetuosos.',
+      description_en: 'A gateway to Southeast Asia known for its rich Buddhist heritage, world-renowned cuisine, and diverse geography. Between ancient temples, the vibrant chaos of its cities, and the calm of its islands, this section gathers the essential information for planning independent, respectful trips.',
       accent: 'oklch(0.70 0.15 50)', 
       imageUrl: '/img/Tailandia.webp'
     },

@@ -104,5 +104,7 @@ export const ui = {
     'route.contacto': '/en/contact',
     'route.colab': '/en/colab',
     'route.privacidad': '/en/privacy-policy',
+    'route.destinos': '/en/destinations',
+    'route.categorias': '/en/categories',
   }
 };
