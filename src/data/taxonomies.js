@@ -34,6 +34,8 @@ export const destinationsData = [
       accent: 'oklch(0.55 0.08 220)', 
       imageUrl: '/img/nueva-zelanda.webp'
     },
+    /* OCULTO TEMPORALMENTE: todavía no hay contenido publicado para China.
+       Reactivar borrando este comentario cuando haya posts listos.
     {
       id: 'china',
       title: 'China',
@@ -45,6 +47,9 @@ export const destinationsData = [
       accent: 'oklch(0.65 0.15 10)', 
       imageUrl: '/img/China.webp'
     },
+    */
+    /* OCULTO TEMPORALMENTE: todavía no hay contenido publicado para Tailandia.
+       Reactivar borrando este comentario cuando haya posts listos.
     {
       id: 'tailandia',
       title: 'Tailandia',
@@ -56,6 +61,7 @@ export const destinationsData = [
       accent: 'oklch(0.70 0.15 50)', 
       imageUrl: '/img/Tailandia.webp'
     },
+    */
 ];
 
 export const categoriesData = [

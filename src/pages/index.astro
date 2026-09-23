@@ -76,7 +76,7 @@ if (featuredPosts.length < 6) {
                                             <span class="car-num-text">{String(index + 1).padStart(2, '0')} / {String(destinations.length).padStart(2, '0')}</span>
                                         </div>
                                         <h3 class="car-title">{dest.title}</h3>
-                                        <p class="car-subtitle" style={`color: ${dest.accent} !important;`}>{dest.subtitle}</p>
+                                        <p class="car-subtitle" style={`--c-accent: ${dest.accent};`}>{dest.subtitle}</p>
                                         <p class="car-desc">{dest.description}</p>
                                         
                                         <div class="car-action">
@@ -409,7 +409,15 @@ if (featuredPosts.length < 6) {
     .car-num-text { font-family: var(--font-main, sans-serif) !important; font-size: 0.9rem !important; font-weight: 600 !important; letter-spacing: 0.1em !important; color: var(--c-text-muted) !important; }
 
     .car-title { font-family: var(--font-display, 'Georgia', serif) !important; font-size: clamp(2.5rem, 4vw, 3.5rem) !important; font-weight: normal !important; color: var(--c-text-main) !important; margin: 0 0 0.5rem 0 !important; line-height: 1.1 !important; }
-    .car-subtitle { font-family: var(--font-main, sans-serif) !important; font-size: 1rem !important; text-transform: uppercase !important; letter-spacing: 0.15em !important; font-weight: 700 !important; margin: 0 0 1.5rem 0 !important; }
+    .car-subtitle { 
+    font-family: var(--font-main, sans-serif) !important; 
+    font-size: 1rem !important; 
+    text-transform: uppercase !important; 
+    letter-spacing: 0.15em !important; 
+    font-weight: 700 !important; 
+    margin: 0 0 1.5rem 0 !important; 
+    color: var(--c-accent, var(--c-brand)) !important;  /* NUEVO */
+    }
     .car-desc { font-family: var(--font-main, sans-serif) !important; font-size: 1.1rem !important; line-height: 1.6 !important; color: var(--c-text-muted) !important; margin: 0 0 2.5rem 0 !important; max-width: 90% !important; }
 
     .car-image-container { position: relative !important; width: 100% !important; height: 500px !important; display: flex !important; align-items: center !important; justify-content: center !important; }
@@ -536,7 +544,7 @@ if (featuredPosts.length < 6) {
             text-align: left !important;
             font-size: clamp(2.2rem, 8vw, 2.5rem) !important; 
             color: #ffffff !important; 
-            text-shadow: 0 1px 4px rgba(0, 0, 0, 0.063) !important;
+            text-shadow: 0 2px 10px rgba(0, 0, 0, 0.7) !important;  /* antes: 0.063 (casi invisible) */
             z-index: 10 !important;
             margin: 0 !important;
             line-height: 1 !important;
@@ -544,14 +552,32 @@ if (featuredPosts.length < 6) {
         
         .car-subtitle { 
             position: absolute !important;
-            top: 305px !important;
+            top: 300px !important;
             left: 1.5rem !important;
             width: auto !important;
+            display: inline-flex !important;
+            align-items: center !important;
+            gap: 0.6rem !important;
             text-align: left !important;
-            font-size: 0.95rem !important;
-            text-shadow: 0 1px 4px rgba(0, 0, 0, 0.699) !important;
+            font-size: 0.85rem !important;
+            font-weight: 700 !important;
+            letter-spacing: 0.15em !important;
+            line-height: 1 !important;  /* NUEVO — elimina el espacio extra que desalinea la barra */
+            color: #ffffff !important;
+            text-shadow: 0 1px 4px rgba(0, 0, 0, 0.7) !important;
             z-index: 10 !important;
             margin: 0 !important;
+        }
+
+        .car-subtitle::before {
+            content: "" !important;
+            display: inline-block !important;
+            width: 3px !important;
+            height: 14px !important;
+            background-color: var(--c-accent, #ffffff) !important;
+            flex-shrink: 0 !important;
+            position: relative !important;
+            top: -1px !important;
         }
 
         /* 4. PÁRRAFO Y BOTÓN (Pegados a la foto) */
@@ -1046,7 +1072,7 @@ if (featuredPosts.length < 6) {
                 this.progressBtns = this.querySelectorAll('.car-progress-item');
                 this.totalSlides = this.slides.length;
                 this.isTransitioning = false;
-                this.slideDuration = 5000; 
+                this.slideDuration = 15000; 
                 
                 this.nextBtn = this.querySelector('.car-next');
                 this.prevBtn = this.querySelector('.car-prev');
