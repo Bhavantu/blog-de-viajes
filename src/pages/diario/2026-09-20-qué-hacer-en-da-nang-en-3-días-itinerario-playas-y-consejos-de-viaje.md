@@ -58,7 +58,7 @@ Lo ideal es comenzar la mañana temprano hacia la **Península de Son Tra**, la 
 
 > 💡 ¿Lady Buddha es uno de los tres vértices del triángulo espiritual que resguarda la ciudad? Existe una leyenda local que enlaza la fe con los datos meteorológicos de los tifones en la costa. Podés leer la historia completa en nuestro artículo **[El Triángulo Sagrado que protege a la ciudad Da Nang](https://blogcito.com/diario/triangulo-sagrado-da-nang-vietnam-pagodas-linh-ung/)**
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/pagoda-peninsula-de-son-tra-da-nang-de-lady-buda-.jpeg" alt="Imagen de bitácora"><span class="img-caption">Pagoda budista, península de Son Trá</span></div>
+<div class="post-img-box img-pequeño img-centro"><img src="/img/diario/pagoda-peninsula-de-son-tra-da-nang-de-lady-buda-.jpeg" alt="Imagen de bitácora"><span class="img-caption">Pagoda budista, península de Son Trá</span></div>
 
 ### Tarde: Playa My Khe y paseo por la zona de An Thuong
 
