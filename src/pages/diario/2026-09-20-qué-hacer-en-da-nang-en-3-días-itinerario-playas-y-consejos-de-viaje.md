@@ -66,7 +66,7 @@ Es una hermosa playa de arena dorada y aguas cálidas rodeada de palmeras, resgu
 
 ### Noche: Mercado Nocturno de Son Tra y el Espectáculo del Dragon Bridge
 
-Al caer el sol, sugerimos dirigirse al **Dragon Bridge (Cau Rong)**. A pocos pasos del puente se instala el **Mercado Nocturno de Son Tra**, ideal para probar brochetas de mariscos locales, opciones vegetarianas y jugos frescos. La feria se recorre rápido y es estupenda para comprar souvenirs. Si bien recomendamos ir el fin de semana (de viernes a domingo) para ver el espectáculo del puente, la feria suele llenarse bastante más en esos días, especialmente durante la temporada alta de verano (de junio a agosto).
+Al caer el sol, sugerimos dirigirse al **Dragon Bridge (Cau Rong)**. A pocos pasos del puente se instala el **Mercado Nocturno de Son Tra**, ideal para probar brochetas de mariscos locales, opciones vegetarianas y jugos frescos. La feria se recorre rápido, hay souvenirs café, artesanías y ropa. Si bien recomendamos ir el fin de semana (de viernes a domingo) para ver el espectáculo del puente, la feria suele llenarse bastante más en esos días, especialmente durante la temporada alta de verano (de junio a agosto).
 
 * **El momento imperdible:** Si la visita coincide con un **sábado o domingo a las 21:00 hs**, el tráfico del puente se interrumpe para el famoso espectáculo donde la cabeza del dragón lanza bocanadas de fuego y agua. Lo ideal es llegar unos 20 minutos antes para conseguir un buen lugar a orillas del río Han. Incluso podés ubicarte debajo de la bocanada de agua para vivir la experiencia de cerca.
 
