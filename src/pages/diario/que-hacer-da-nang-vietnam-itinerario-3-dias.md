@@ -7,7 +7,7 @@ pais: Vietnam
 description: "Descubrí qué hacer en Da Nang con esta guía de 3 días: playas, Ba
   Na Hills, Lady Buddha y escapada a Hoi An. Puntos Icónicos, recomendaciones y
   más"
-main_image: /img/diario/pagoda-lady-buda-peninsula-son-trá.png
+main_image: /img/diario/pagoda-lady-buda-peninsula-son-trá.webp
 ---
 Da Nang se ubica en el centro de Vietnam: combina kilómetros de playa tropical, montañas de piedra caliza, historias místicas, cultura local y una infraestructura moderna. Su posición geográfica la convierte en el punto de partida perfecto para quienes quieran explorar otras zonas cercanas como Hoi An, Ba Na Hills y la antigua capital imperial de Hue.
 
@@ -58,7 +58,7 @@ Lo ideal es comenzar la mañana temprano hacia la **Península de Son Tra**, la 
 
 > 💡 ¿Lady Buddha es uno de los tres vértices del triángulo espiritual que resguarda la ciudad? Existe una leyenda local que enlaza la fe con los datos meteorológicos de los tifones en la costa. Podés leer la historia completa en nuestro artículo **[El Triángulo Sagrado que protege a la ciudad Da Nang](https://blogcito.com/diario/triangulo-sagrado-da-nang-vietnam-pagodas-linh-ung/)**
 
-<div class="post-img-box img-pequeño img-centro"><img src="/img/diario/pagoda-peninsula-de-son-tra-da-nang-de-lady-buda-.jpeg" alt="Imagen de bitácora"><span class="img-caption">Pagoda budista, península de Son Trá</span></div>
+<div class="post-img-box img-pequeño img-centro"><img src="/img/diario/pagoda-peninsula-de-son-tra-da-nang-de-lady-buda-.webp" alt="Imagen de bitácora"><span class="img-caption">Pagoda budista, península de Son Trá</span></div>
 
 ### Tarde: Playa My Khe y paseo por la zona de An Thuong
 
@@ -74,7 +74,7 @@ Al caer el sol, sugerimos dirigirse al **Dragon Bridge (Cau Rong)**. A pocos pas
 
 * **El momento imperdible:** Si la visita coincide con un **sábado o domingo a las 21:00 hs**, el tráfico del puente se interrumpe para el famoso espectáculo donde la cabeza del dragón lanza bocanadas de fuego y agua. Lo ideal es llegar unos 20 minutos antes para conseguir un buen lugar a orillas del río Han. Incluso podés ubicarte debajo de la bocanada de agua para vivir la experiencia de cerca.
 
-  <div class="post-img-box img-completo img-centro"><img src="/img/diario/puente-del-dragon-lanzando-fuego-vietnam-da-nang.jpeg" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+  <div class="post-img-box img-completo img-centro"><img src="/img/diario/puente-del-dragon-lanzando-fuego-vietnam-da-nang.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 ## Día 2: Montañas de marmol y la magia de Hoi An
 
@@ -98,7 +98,7 @@ Después de almorzar, se puede tomar un Grab o taxi hacia la histórica ciudad d
 
 > 💡 **Sugerencia extra en Hoi An:** Si disponés de tiempo adicional por la tarde, podés sumar una [**clase de cocina local** para aprender a preparar *Cao Lầu y otros platos típicos*](https://www.getyourguide.com/hoi-an-l831/hoi-an-clase-de-cocina-tradicional-y-comida-con-una-familia-local-t562488?ranking_uuid=244dfd89-1d5c-4d13-9bc6-9c50dd91e9b1&q=clase+de+cocina+en+hoi+an&date_from=2026-09-25&date_to=2026-09-25&adults=1&_pc=1,1) o visitar a los famosos **sastres artesanales** del centro histórico, reconocidos por confeccionar trajes y vestidos a medida en 24 horas.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/hoi-an.jpg" alt="Imagen de bitácora"><span class="img-caption">Hoi An en la noche iluminado por los farolitos, barcos en el Río Hoai</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/hoi-an.webp" alt="Imagen de bitácora"><span class="img-caption">Hoi An en la noche iluminado por los farolitos, barcos en el Río Hoai</span></div>
 
 ## Día 3: Ba Na Hills, mercados y noche en la ciudad
 
@@ -126,7 +126,7 @@ De regreso en el centro de Da Nang, se pueden recorrer los mercados locales para
 * **Mercado Con (Chợ Cồn):** Representa una experiencia 100% auténtica y menos turística. Su patio de comidas ofrece platos típicos como el ***Mì Quảng*** (fideos de arroz con caldo corto concentrado, maní y hierbas frescas) o el ***Bánh Xèo*** (crepas crujientes de harina de arroz y cúrcuma rellenas de brotes y vegetales) a precios locales.
 * **Tarde de Café:** A pocas cuadras de la zona comercial se encuentran hermosas cafeterías tradicionales donde sirven el clásico café con huevo vietnamita (también en versión cacao), acompañado de panificados frescos en un ambiente tranquilo y acogedor.
 
-  <div class="post-img-box img-mediano img-centro"><img src="/img/diario/café-con-huevo-egg-coffe.jpeg" alt="Imagen de bitácora"><span class="img-caption">Café con huevo y leche condensada, bebida típica de Vietnam, muy recomendada</span></div>
+  <div class="post-img-box img-mediano img-centro"><img src="/img/diario/café-con-huevo-egg-coffe.webp" alt="Imagen de bitácora"><span class="img-caption">Café con huevo y leche condensada, bebida típica de Vietnam, muy recomendada</span></div>
 
 ### Noche: Cena en beach club o noche urbana en Helio Night Market
 
