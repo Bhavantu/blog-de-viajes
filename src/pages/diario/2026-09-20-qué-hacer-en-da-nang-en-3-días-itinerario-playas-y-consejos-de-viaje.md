@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/BlogPostLayout.astro
-title: "Qué hacer en Da Nang en 3 días: Itinerario, playas y consejos de viaje"
+title: "Qué hacer en Da Nang en 3 días: Itinerario, playa y consejos de viaje"
 date: 2026-09-21T00:06:00.000+08:00
 tag: guia de viaje
 pais: Vietnam
@@ -54,7 +54,7 @@ Lo ideal es comenzar la mañana temprano hacia la **Península de Son Tra**, la 
 
 > 💡 ¿Lady Buddha es uno de los tres vértices del triángulo espiritual que resguarda la ciudad? Existe una leyenda local que enlaza la fe con los datos meteorológicos de los tifones en la costa. Podés leer la historia completa en nuestro artículo **[El Triángulo Sagrado que protege a la ciudad Da Nang](https://blogcito.com/diario/triangulo-sagrado-da-nang-vietnam-pagodas-linh-ung/)**
 
-<div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/pagoda-peninsula-de-son-tra-da-nang-de-lady-buda-.jpeg" alt="Imagen de bitácora"><span class="img-caption">Pagoda budista, península de Son Trá</span></div>
 
 ### Tarde: Playa My Khe y paseo por la zona de An Thuong
 
@@ -120,7 +120,7 @@ De regreso en el centro de Da Nang, se pueden recorrer los mercados locales para
 * **Mercado Con (Chợ Cồn):** Representa una experiencia 100% auténtica y menos turística. Su patio de comidas ofrece platos típicos como el ***Mì Quảng*** (fideos de arroz con caldo corto concentrado, maní y hierbas frescas) o el ***Bánh Xèo*** (crepas crujientes de harina de arroz y cúrcuma rellenas de brotes y vegetales) a precios populares.
 * **Tarde de Café:** A pocas cuadras de la zona comercial se encuentran hermosas cafeterías tradicionales donde sirven el clásico café con huevo vietnamita (también en versión cacao), acompañado de panificados frescos en un ambiente tranquilo y acogedor.
 
-  <div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+  <div class="post-img-box img-mediano img-centro"><img src="/img/diario/café-con-huevo-egg-coffe.jpeg" alt="Imagen de bitácora"><span class="img-caption">Café con huevo y leche condensada, bebida típica de vietnam, muy recomendada</span></div>
 
 ### Noche: Cena en beach club o noche urbana en helio night Market
 
