@@ -13,23 +13,92 @@ Da Nang se ubica en el centro de Vietnam: combina kilómetros de playa tropical,
 
 Esta guía está pensada para aprovechar al máximo un itinerario de **3 días en Da Nang**, considerando la logística de los desplazamientos, las actividades imperdibles y la conexión con la cultura local.
 
-<div style="background-color: #e0f2fe; border: 1px solid #bae6fd; border-radius: 8px; padding: 20px; margin: 25px 0; color: #0c4a6e;">
+<div style="background: linear-gradient(180deg, #fdfcf9 0%, #f7f4ee 100%); border: 2px solid #006d77; border-radius: 16px; padding: 2rem 1.8rem; margin: 3rem 0; box-shadow: 0 12px 30px rgba(0, 109, 119, 0.08); font-family: var(--font-main, sans-serif);">
 
-<h3 style="margin-top: 0; color: #0369a1;">⚡ ¿Sin tiempo para leer toda la guía? Te dejamos nuestros alojamientos recomendados</h3>
+<div style="display: flex; align-items: center; gap: 0.8rem; margin-bottom: 1.6rem; border-bottom: 1px solid rgba(0, 109, 119, 0.15); padding-bottom: 1rem;">
+<span style="font-size: 1.4rem;"></span>
+<h3 style="margin: 0; font-family: var(--font-display, Georgia, serif); font-size: 1.35rem; color: #1c2d37; font-weight: 600;">
+Te ahorramos la búsqueda: dónde quedarte
+</h3>
+</div>
 
-<p><strong>Playa Mỹ Khê (Zona costera):</strong></p>
-<ul>
-  <li>⭐ <a href="https://www.booking.com/hotel/vn/phuc-thanh-minh-danang.html?utm_source=gemini" target="_blank" rel="noopener">Phuc Thanh Luxury Hotel</a> — A pasos del mar.</li>
-  <li>⭐⭐ <a href="https://www.booking.com/hotel/vn/nomadstay-journey.html?utm_source=gemini" target="_blank" rel="noopener">NomadStay Journey</a> — Habitación pequeña con linda decoración y muy acogedora.</li>
-  <li>⭐⭐⭐ <a href="https://www.booking.com/hotel/vn/balcony.html?utm_source=gemini" target="_blank" rel="noopener">Balcona Hotel Da Nang</a> — Frente al mar, con balcón y desayuno.</li>
-</ul>
+<div style="margin-bottom: 1.6rem;">
+<div style="margin-bottom: 0.75rem;">
+<h4 style="margin: 0; font-size: 0.82rem; text-transform: uppercase; letter-spacing: 0.06em; color: #006d77; font-weight: 800;">
+Playa Mỹ Khê (Zona costera)
+</h4>
+</div>
 
-<p><strong>Zona céntrica (Río Hàn / Hải Châu):</strong></p>
-<ul>
-  <li>⭐ <a href="https://www.booking.com/hotel/vn/rest-amp-apartment.html?utm_source=gemini" target="_blank" rel="noopener">Rest &amp; Apartment</a> — Gran confort y piscina en la azotea.</li>
-</ul>
+<div style="padding: 0.6rem 0; margin-bottom: 0.4rem; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem; border-bottom: 1px solid #e7e2d8;">
+<div>
+<div style="display: flex; align-items: center; gap: 0.4rem; flex-wrap: wrap;">
+<span style="font-size: 0.85rem; color: #d97706;">⭐</span>
+<a href="https://www.booking.com/hotel/vn/phuc-thanh-minh-danang.html?utm_source=gemini" target="_blank" rel="noopener" style="color: #222; font-size: 0.95rem; font-weight: bold; text-decoration: none !important; box-shadow: none !important; background-image: none !important;">Phuc Thanh Luxury Hotel</a>
+<span style="background: #e6f4f1; color: #006d77; font-size: 0.7rem; font-weight: 700; padding: 0.15rem 0.5rem; border-radius: 4px;">Mejor ubicación</span>
+</div>
+<p style="margin: 0.25rem 0 0 0; font-size: 0.85rem; color: #666;">A pasos de la playa y con excelente relación calidad/precio.</p>
+</div>
+<a href="https://www.booking.com/hotel/vn/phuc-thanh-minh-danang.html?utm_source=gemini" target="_blank" rel="noopener" style="color: #006d77 !important; font-size: 0.8rem; font-weight: 700; text-decoration: none !important; padding: 0.4rem 0.8rem; border-radius: 6px; border: 1px solid #006d77; white-space: nowrap; margin-left: auto; box-shadow: none !important; background-image: none !important; display: inline-block;">
+Ver alojamiento &rarr;
+</a>
+</div>
 
-<p style="margin-bottom: 0; margin-top: 15px; font-weight: bold; text-align: center; color: #0284c7;">Reservando a través de nuestros enlaces nos ayudás a seguir creando contenido gratuito e independiente para tu viaje. 🧡</p>
+<div style="padding: 0.6rem 0; margin-bottom: 0.4rem; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem; border-bottom: 1px solid #e7e2d8;">
+<div>
+<div style="display: flex; align-items: center; gap: 0.4rem; flex-wrap: wrap;">
+<span style="font-size: 0.85rem; color: #d97706;">⭐⭐</span>
+<a href="https://www.booking.com/hotel/vn/nomadstay-journey.html?utm_source=gemini" target="_blank" rel="noopener" style="color: #222; font-size: 0.95rem; font-weight: bold; text-decoration: none !important; box-shadow: none !important; background-image: none !important;">NomadStay Journey</a>
+<span style="background: #fef3c7; color: #92400e; font-size: 0.7rem; font-weight: 700; padding: 0.15rem 0.5rem; border-radius: 4px;">Acogedor</span>
+</div>
+<p style="margin: 0.25rem 0 0 0; font-size: 0.85rem; color: #666;">Habitación pequeña, muy bien decorada y con ambiente cálido.</p>
+</div>
+<a href="https://www.booking.com/hotel/vn/nomadstay-journey.html?utm_source=gemini" target="_blank" rel="noopener" style="color: #006d77 !important; font-size: 0.8rem; font-weight: 700; text-decoration: none !important; padding: 0.4rem 0.8rem; border-radius: 6px; border: 1px solid #006d77; white-space: nowrap; margin-left: auto; box-shadow: none !important; background-image: none !important; display: inline-block;">
+Ver alojamiento &rarr;
+</a>
+</div>
+
+<div style="padding: 0.6rem 0; margin-bottom: 0.4rem; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem;">
+<div>
+<div style="display: flex; align-items: center; gap: 0.4rem; flex-wrap: wrap;">
+<span style="font-size: 0.85rem; color: #d97706;">⭐⭐⭐</span>
+<a href="https://www.booking.com/hotel/vn/balcony.html?utm_source=gemini" target="_blank" rel="noopener" style="color: #222; font-size: 0.95rem; font-weight: bold; text-decoration: none !important; box-shadow: none !important; background-image: none !important;">Balcona Hotel Da Nang</a>
+<span style="background: #e0f2fe; color: #075985; font-size: 0.7rem; font-weight: 700; padding: 0.15rem 0.5rem; border-radius: 4px;">Frente al mar</span>
+</div>
+<p style="margin: 0.25rem 0 0 0; font-size: 0.85rem; color: #666;">Habitaciones con balcón hacia el océano y desayuno buffet incluido.</p>
+</div>
+<a href="https://www.booking.com/hotel/vn/balcony.html?utm_source=gemini" target="_blank" rel="noopener" style="color: #006d77 !important; font-size: 0.8rem; font-weight: 700; text-decoration: none !important; padding: 0.4rem 0.8rem; border-radius: 6px; border: 1px solid #006d77; white-space: nowrap; margin-left: auto; box-shadow: none !important; background-image: none !important; display: inline-block;">
+Ver alojamiento &rarr;
+</a>
+</div>
+</div>
+
+<div style="margin-bottom: 1.4rem;">
+<div style="margin-bottom: 0.75rem;">
+<h4 style="margin: 0; font-size: 0.82rem; text-transform: uppercase; letter-spacing: 0.06em; color: #006d77; font-weight: 800;">
+Zona Céntrica (Río Hàn / Hải Châu)
+</h4>
+</div>
+
+<div style="padding: 0.6rem 0; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem;">
+<div>
+<div style="display: flex; align-items: center; gap: 0.4rem; flex-wrap: wrap;">
+<span style="font-size: 0.85rem; color: #d97706;">⭐</span>
+<a href="https://www.booking.com/hotel/vn/rest-amp-apartment.html?utm_source=gemini" target="_blank" rel="noopener" style="color: #222; font-size: 0.95rem; font-weight: bold; text-decoration: none !important; box-shadow: none !important; background-image: none !important;">Rest &amp; Apartment</a>
+<span style="background: #ede9fe; color: #5b21b6; font-size: 0.7rem; font-weight: 700; padding: 0.15rem 0.5rem; border-radius: 4px;">Piscina en la terraza</span>
+</div>
+<p style="margin: 0.25rem 0 0 0; font-size: 0.85rem; color: #666;">Apartamentos cómodos en pleno centro, ideales para estadías más largas.</p>
+</div>
+<a href="https://www.booking.com/hotel/vn/rest-amp-apartment.html?utm_source=gemini" target="_blank" rel="noopener" style="color: #006d77 !important; font-size: 0.8rem; font-weight: 700; text-decoration: none !important; padding: 0.4rem 0.8rem; border-radius: 6px; border: 1px solid #006d77; white-space: nowrap; margin-left: auto; box-shadow: none !important; background-image: none !important; display: inline-block;">
+Ver alojamiento &rarr;
+</a>
+</div>
+</div>
+
+<div style="text-align: center; border-top: 1px dashed #d6cec0; padding-top: 1rem; margin-top: 1.2rem;">
+<p style="margin: 0; font-size: 0.8rem; color: #736b63;">
+Reservando a través de estos enlaces nos ayudás a mantener el blog independiente y sin anuncios invasivos. 🧡
+</p>
+</div>
 
 </div>
 
