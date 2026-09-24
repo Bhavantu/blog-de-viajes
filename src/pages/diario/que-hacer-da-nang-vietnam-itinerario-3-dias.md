@@ -167,7 +167,7 @@ Después de almorzar, se puede tomar un Grab o taxi hacia la histórica ciudad d
 
 > 💡 **Sugerencia extra en Hoi An:** Si disponés de tiempo adicional por la tarde, podés sumar una [**clase de cocina local** para aprender a preparar *Cao Lầu y otros platos típicos*](https://www.getyourguide.com/hoi-an-l831/hoi-an-clase-de-cocina-tradicional-y-comida-con-una-familia-local-t562488?ranking_uuid=244dfd89-1d5c-4d13-9bc6-9c50dd91e9b1&q=clase+de+cocina+en+hoi+an&date_from=2026-09-25&date_to=2026-09-25&adults=1&_pc=1,1) o visitar a los famosos **sastres artesanales** del centro histórico, reconocidos por confeccionar trajes y vestidos a medida en 24 horas.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/hoi-an.webp" alt="Imagen de bitácora"><span class="img-caption">Hoi An en la noche iluminado por los farolitos, barcos en el Río Hoai</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/hoi-an-boats.webp" alt="Imagen de bitácora"><span class="img-caption">Hoi An en la noche iluminado por los farolitos, barcos en el Río Hoai</span></div>
 
 ## Día 3: Ba Na Hills, mercados y noche en la ciudad
 
