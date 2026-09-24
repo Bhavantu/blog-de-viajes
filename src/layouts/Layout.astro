@@ -32,6 +32,25 @@ const siteUrl = Astro.site || 'https://blogcito.com';
 let canonicalPath = Astro.url.pathname.replace(/\/$/, '');
 if (canonicalPath === '') canonicalPath = '/';
 const canonicalURL = new URL(canonicalPath, siteUrl);
+
+// --- LÓGICA DE TRADUCCIÓN HREFLANG PARA POSTS ---
+const englishPosts = Object.values(import.meta.glob('../pages/en/journal/*.md', { eager: true })) as any[];let altUrlEs = '';
+let altUrlEn = '';
+
+if (frontmatter) {
+    if (currentLang === 'es') {
+        const slug = Astro.url.pathname.replace(/^\/diario\//, '').replace(/\/$/, '');
+        altUrlEs = `${siteUrl}/diario/${slug}`;
+        
+        const matchEn = englishPosts.find((p: any) => p.frontmatter?.archivo_original === `${slug}.md`);
+        if (matchEn) altUrlEn = `${siteUrl}${matchEn.url}`;
+    } else if (currentLang === 'en') {
+        const matchOriginal = frontmatter.archivo_original?.replace('.md', '');
+        if (matchOriginal) altUrlEs = `${siteUrl}/diario/${matchOriginal}`;
+        
+        altUrlEn = `${siteUrl}${Astro.url.pathname.replace(/\/$/, '')}`;
+    }
+}
 ---
 <!doctype html>
 <html lang={currentLang}>
@@ -39,6 +58,11 @@ const canonicalURL = new URL(canonicalPath, siteUrl);
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="canonical" href={canonicalURL} />
+        
+        <!-- ETIQUETAS DE IDIOMA PARA GOOGLE -->
+        {altUrlEs && <link rel="alternate" hreflang="es" href={altUrlEs} />}
+        {altUrlEn && <link rel="alternate" hreflang="en" href={altUrlEn} />}
+        {altUrlEs && <link rel="alternate" hreflang="x-default" href={altUrlEs} />}
 
         <!-- Google Analytics -->
         <script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-37WGK8P699"></script>

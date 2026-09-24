@@ -7,7 +7,7 @@ pais: Nueva Zelanda
 description: >-
   A piece of the earth's history learned on Great White Cloud land in New
   Zealand - Aotearoa
-  
+archivo_original: aotearoa-historia-cultura-maori-nueva-zelanda.md
 main_image: /img/diario/img-lake-pearson-campamento-arthur-pass.webp
 ---
 New Zealand is perhaps the last breath of mainland earth to be discovered by modern life. Suspended in the vastness of the South Pacific, Aotearoa —**the land of the long white cloud**— is not just a destination, but a territory with geography as imposing as it appears in the *Lord of the Rings* movie. On these Islands, identity has been forged between volcanoes and marine winds creating a varied and unique landscape. Those who inhabit this land call themselves kiwis, characterized by their way of living life with silent amiability and a calm rhythm. Enjoyment lies in simple things: a weekend in the mountains, bike rides or a *roadtrip* to explore new areas of the island.

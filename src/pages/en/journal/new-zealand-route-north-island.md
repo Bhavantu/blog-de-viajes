@@ -6,6 +6,7 @@ tag: bitacora
 pais: Nueva Zelanda
 description: "A brief summary ordering the experience and expanding on different destinations of the North Island."
 main_image: /img/diario/img_5481.webp
+archivo_original: rutas-isla-norte-nueva-zelanda-lugares.md
 ---
 
 ## The dream is on its way

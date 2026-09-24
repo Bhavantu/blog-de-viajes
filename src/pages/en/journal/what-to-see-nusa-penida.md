@@ -6,6 +6,7 @@ tag: guia de viaje
 pais: Indonesia
 description: "Travel to Nusa Penida in 2026 at your own pace: what to do, best beaches, snorkeling with mantas, tips to avoid crowds, real costs, and accommodations."
 main_image: /img/diario/kelingking-beach23.webp
+archivo_original: que-ver-en-nusa-penida-guia.md
 ---
 Nusa Penida is an island of dramatic cliffs, turquoise waters, and impressive natural scale that promises—and genuinely delivers—on expectations. However, in recent years, it has also become one of Bali's most overcrowded spots due to lightning-fast day trips. In this **Nusa Penida 2026 guide**, we share our real experience exploring the island at a slow pace (just as we like it on this blog), along with tips to enjoy it and steer clear of the crowds.
 

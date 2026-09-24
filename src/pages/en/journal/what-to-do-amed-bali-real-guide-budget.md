@@ -10,6 +10,7 @@ description: >-
   under the volcano Agung. Budget, maps, and real tips for enjoying without
   scams.
 main_image: /img/diario/mount-agung.webp
+archivo_original: que-hacer-amed-que-ver-guia-presupuesto.md
 ---
 **Are you planning your trip to East Bali coast?** In this real guide I'll tell you everything **to do in Amed for free**: from how to snorkel at its best black sand bays, up to updated prices of temples, maps and honest survival tips for slow travelers. Now, no more introductions, let's start the trip.
 

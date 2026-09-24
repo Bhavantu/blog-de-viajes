@@ -6,7 +6,7 @@ tag: vida local
 pais: Nueva Zelanda
 description: Comparison of Best Cities in South Island for Living in New Zealand 2026
 main_image: /img/diario/whatsapp-image-2026-05-08-at-23.14.31.webp
-archivo_original: 2026-05-07-un-hogar-entre-el-río-avon-y-los-alpes-del-sur.md
+archivo_original: donde-vivir-isla-sur-nueva-zelanda.md
 ---
 **From the trail to "local life": a touch of stability during the Working Holiday Visa experience**
 

@@ -6,6 +6,8 @@ tag: guia de viaje
 pais: Indonesia
 description: Where to stay in Nusa Penida, best areas, and what to see in Nusa Penida
 main_image: /img/diario/kelingking-beach15.webp
+archivo_original: donde-quedarse-nusa-penida-que-hacer-en-nusa-penida.md
+
 ---
 Nusa Penida is a beautiful island of incredible beaches and dramatic cliffs that promises—and genuinely delivers—on expectations. Even so, picking the right area to stay completely changes the travel experience. Below, we break down the best areas to stay in Nusa Penida based on what you're looking for:
 

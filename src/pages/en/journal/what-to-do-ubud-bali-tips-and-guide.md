@@ -8,7 +8,7 @@ description: >-
   Lived the magic of Ubud: Discovered its rice fields, sacred purification
   rituals, temples and waterfalls in our practical guide.
 main_image: /img/diario/UBUD24.webp
-archivo_original: 2026-06-29-guia-de-ubud-cultura-gemas-ocultas-y-costos-2026.md
+archivo_original: que-hacer-ubud-bali-que-ver-zonas-consejos-guia.md
 ---
 ## What to do in Ubud, Bali, Indonesia?
 

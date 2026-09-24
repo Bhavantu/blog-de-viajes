@@ -11,6 +11,7 @@ description: >-
   success. I'll tell you what it's like to live there: weekly cost of living in
   2022, work, and safety.
 main_image: /img/diario/chrischurch.webp
+archivo_original: vivir-con-working-holiday-visa-christchurch.md
 ---
 Here is the translation:
 
@@ -29,7 +30,7 @@ The city of Christchurch awaited me to show off its splendor, its lovely Botanic
 
 ## 1. Nature and Social Life: The Perfect Balance
 
-The main advantage of living there is that Christchurch is a true geographical luxury. The Port Hills hills can be seen from the city and their trails for *trails* are just 20 minutes away, as well as two different beaches within an hour. The imposing Southern Alps, including the incredible **[Arthur Pass](https://blogcito.com/diario/2026-05-11-parque-nacional-arthur-pass/)** or some ski centers, are only a 2-hour drive away. It's the perfect balance between urban social life and constant escapes into nature.
+The main advantage of living there is that Christchurch is a true geographical luxury. The Port Hills hills can be seen from the city and their trails for *trails* are just 20 minutes away, as well as two different beaches within an hour. The imposing Southern Alps, including the incredible **[Arthur Pass](https://blogcito.com/en/journal/arthurs-pass-kura-tawhiti-national-canterbury-park-new-zealand-south-island/)** or some ski centers, are only a 2-hour drive away. It's the perfect balance between urban social life and constant escapes into nature.
 
 <div class="post-img-box img-completo img-derecha"><img src="/img/diario/whatsapp-image-2026-06-01-at-18.44.19.webp" alt="Imagen de bitácora"><span class="img-caption">Ciudad de Christchurch: paseos por el centro y Sumner Beach</span></div>
 

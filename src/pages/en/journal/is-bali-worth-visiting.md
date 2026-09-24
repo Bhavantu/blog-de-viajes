@@ -6,6 +6,7 @@ tag: guia de viaje
 pais: Indonesia
 description: Is Bali worth it in 2026? Here's our honest breakdown of what we loved and what we didn't across our two visits in 2026.
 main_image: /img/diario/kelingking-beach1.webp
+archivo_original: viajar-a-bali-opinion-experiencia-real.md
 ---
 Bali had been on my bucket list for years, and in 2026, I was lucky enough to visit twice. It's a destination surrounded by sky-high expectations and mixed reviews. If you're currently planning a trip, here is our honest take—what blew us away and what fell short—so you can decide for yourself whether Bali is truly worth the journey.
 

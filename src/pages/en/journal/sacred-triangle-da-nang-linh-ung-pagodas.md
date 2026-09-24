@@ -6,6 +6,7 @@ tag: Context & Culture
 pais: Vietnam
 description: "Uncovering the legend of the Sacred Triangle shielding Da Nang from typhoons through its three Linh Ung Pagodas. History, folklore, and practical temple guides."
 main_image: /img/diario/marble-mountains-pagoda.webp
+archivo_original: triangulo-sagrado-da-nang-vietnam-pagodas-linh-ung.md
 ---
 Is there an invisible shield protecting Da Nang? This is the legend of the three sanctuaries and the sacred triangle.
 

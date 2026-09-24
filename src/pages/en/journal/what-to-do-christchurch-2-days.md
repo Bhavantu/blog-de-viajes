@@ -10,8 +10,7 @@ description: >-
   What to do in Christchurch in 2 days: local guide with walking itinerary,
   nature, culture, and best nightlife corners. Discover the route.
 main_image: /img/diario/ciudad-de-chrischurch.webp
-archivo_original: >-
-  2026-07-08-qué-hacer-en-christchurch-en-2-días-itinerario-local-de-día-y-de-noche-la-guía-definitiva-tras-6-meses-viviendo-en-la-ciudad.md
+archivo_original: que-hacer-christchurch-2-dias.md
 ---
 Christchurch is a city with local vibe, specialty coffee shops, cultural nooks, nature, and modern architecture. Without a doubt, it's one of my favorite cities in New Zealand. If you read my article on why choose Christchurch for your Working Holiday, you know that this city has a unique energy of resilience and community based on its recent history. It's not just a grey transit city.
 

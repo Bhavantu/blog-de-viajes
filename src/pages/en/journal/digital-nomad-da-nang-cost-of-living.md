@@ -6,6 +6,7 @@ tag: vida local
 pais: Vietnam
 description: "Thinking about moving to Vietnam? Here is our realistic cost of living breakdown in Da Nang for two digital nomads, how to find monthly apartment rentals, and essential tips for settling in."
 main_image: /img/diario/playa-my-khe-beach-.webp
+archivo_original: nomada-digital-vietnam-da-nang-costo-de-vida-alquiler.md
 ---
 Vietnam is rapidly emerging as one of the world’s premier hubs for remote workers. It is a vast country with drastically different microclimates and weather patterns across regions. For our initial stay between August and September, we chose to set up our base in the central coastal city of Da Nang.
 

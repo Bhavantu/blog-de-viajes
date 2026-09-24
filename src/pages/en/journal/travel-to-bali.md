@@ -6,6 +6,7 @@ tag: guia de viaje
 pais: Indonesia
 description: "Planning your first trip to Bali? Discover entry requirements, best areas to stay, how to get around, and practical tips in this complete guide."
 main_image: /img/diario/nusa-penida-village-temple.webp
+archivo_original: viajar-a-bali.md
 ---
 # Bali Travel Guide 2026: Best Areas, Practical Tips & What to Know
 

@@ -6,7 +6,7 @@ tag: working holiday
 pais: Nueva Zelanda
 description: "The complete guide for backpackers and Working Holiday Visa travelers looking to buy a campervan or car in New Zealand without getting scammed."
 main_image: /img/diario/camper-mountain.webp
-archivo_original: 2026-06-01-comprar-una-camper-van-o-auto-en-nueva-zelanda.md
+archivo_original: comprar-camper-van-auto-nueva-zelanda-backpacker.md
 ---
 Our dream when we arrived in New Zealand was to buy a van, embark on an epic adventure through the Southern Alps, wake up to breathtaking mountain views, and soak in quiet afternoon breezes. For almost anyone arriving on a *Working Holiday* visa or setting off on an extended road trip, buying your own wheels is practically a rite of passage—and often much cheaper than renting for months on end.
 
