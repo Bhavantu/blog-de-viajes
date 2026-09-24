@@ -4,6 +4,7 @@ title: "Qué hacer en Da Nang en 3 días: Itinerario, playa y consejos de viaje"
 date: 2026-09-21T00:06:00.000+08:00
 tag: guia de viaje
 pais: Vietnam
+main_image: /img/diario/pagoda-lady-buda-peninsula-son-trá.png
 ---
 Da Nang se ubica en el centro de Vietnam: combina kilómetros de playa tropical, montañas de piedra caliza, historias místicas, cultura local y una infraestructura moderna. Su posición geográfica la convierte en el punto de partida perfecto para quienes quieran explorar otras zonas cercanas como Hoi An, Ba Na Hills y la antigua capital imperial de Hue.
 
