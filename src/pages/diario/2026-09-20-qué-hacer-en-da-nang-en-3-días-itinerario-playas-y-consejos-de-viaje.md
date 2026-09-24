@@ -54,7 +54,7 @@ Lo ideal es comenzar la mañana temprano hacia la **Península de Son Tra**, la 
 
 > 💡 ¿Lady Buddha es uno de los tres vértices del triángulo espiritual que resguarda la ciudad? Existe una leyenda local que enlaza la fe con los datos meteorológicos de los tifones en la costa. Podés leer la historia completa en nuestro artículo **[El Triángulo Sagrado que protege a la ciudad Da Nang](https://blogcito.com/diario/triangulo-sagrado-da-nang-vietnam-pagodas-linh-ung/)**
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/pagoda-peninsula-de-son-tra-da-nang-de-lady-buda-.jpeg" alt="Imagen de bitácora"><span class="img-caption">Pagoda budista, península de Son Trá</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/pagoda-lady-buda-oeninsula-son-trá.png" alt="Imagen de bitácora"><span class="img-caption">Pagoda budista, península de Son Trá</span></div>
 
 ### Tarde: Playa My Khe y paseo por la zona de An Thuong
 
@@ -62,7 +62,7 @@ Hospedarse en el barrio **An Thuong** facilita el ir caminando facilmente a **My
 
 Es una hermosa playa de arena dorada y aguas cálidas rodeada de palmeras, resguardada por las montañas y la figura de Lady Buddha a lo lejos. En la playa se pueden alquilar tumbonas con sombrillas de paja, comprar cocos frescos o disfrutar de masajes frente al mar. A solo una cuadra se encuentra la zona turística, perfecta para almorzar (opciones locales e internacionales), disfrutar de jugos de frutas o recorrer tiendas locales.
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/playa-my-khe-beach-.webp" alt="Imagen de bitácora"><span class="img-caption">PLaya My Khe Beach, Da Nang</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/playa-my-khe-beach-.webp" alt="Imagen de bitácora"><span class="img-caption">PLaya My Khe Beach, Da Nang</span></div>
 
 ### Noche: Mercado Nocturno de Son Tra y el Espectáculo del Dragon Bridge
 
@@ -92,9 +92,9 @@ Después de almorzar, se puede tomar un Grab o taxi hacia la histórica ciudad d
 
 > 💡 **Sugerencia extra en Hoi An:** Si disponés de tiempo adicional por la tarde, podés sumar una [**clase de cocina local** para aprender a preparar *Cao Lầu y otros platos típicos*](https://www.getyourguide.com/hoi-an-l831/hoi-an-clase-de-cocina-tradicional-y-comida-con-una-familia-local-t562488?ranking_uuid=244dfd89-1d5c-4d13-9bc6-9c50dd91e9b1&q=clase+de+cocina+en+hoi+an&date_from=2026-09-25&date_to=2026-09-25&adults=1&_pc=1,1) o visitar a los famosos **sastres artesanales** del centro histórico, reconocidos por confeccionar trajes y vestidos a medida en 24 horas.
 
-<div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/hoi-an.jpg" alt="Imagen de bitácora"><span class="img-caption">Hoi An en la noche iluminado por los farolitos, barcos en el Río Hoai</span></div>
 
-## Día 3: Ba Na Hills, Tradición Mercantil y Noche en la Ciudad
+## Día 3: Ba Na Hills, mercados y noche en la ciudad
 
 ### Mañana: Subida a Ba Na Hills y el Puente Dorado (Golden Bridge)
 
