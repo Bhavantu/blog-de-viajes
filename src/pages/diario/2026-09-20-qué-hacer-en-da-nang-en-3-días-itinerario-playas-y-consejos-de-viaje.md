@@ -50,11 +50,11 @@ El clima de Da Nang es cálido durante todo el año, pero tiene dos estaciones b
 
 ### Mañana: Península de Son Tra, Pagoda y Lady Buddha
 
-Lo ideal es comenzar la mañana temprano hacia la **Península de Son Tra**, la franja verde que rodea la bahía de Da Nang. Allí se encuentra la **Pagoda Linh Ung Bãi Bụt**, una pagoda activa atendida por la comunidad local y monjes residentes. La construcción destaca por sus detalles dorados y esculturas de dragones, además de ofrecer una vista panorámica privilegiada de toda la bahía. En este predio se erige la estatua de **Lady Buddha (Quan Am)**, de 67 metros de altura, orientada hacia la ciudad, además se puede visitar la pagoda y el precioso jardín.
+Lo ideal es comenzar la mañana temprano hacia la **Península de Son Tra**, la franja verde que rodea la bahía de Da Nang. Allí se encuentra la **Pagoda Linh Ung Bãi Bụt**, una pagoda activa atendida por la comunidad local y monjes residentes. La construcción destaca por sus detalles dorados y esculturas de dragones, además de ofrecer una vista panorámica privilegiada de toda la bahía. En este predio se erige la estatua de **Lady Buddha (Quan Am)**, de 67 metros de altura, orientada hacia la ciudad, además se puede visitar la pagoda y el precioso jardín (foto de portada).
 
 > 💡 ¿Lady Buddha es uno de los tres vértices del triángulo espiritual que resguarda la ciudad? Existe una leyenda local que enlaza la fe con los datos meteorológicos de los tifones en la costa. Podés leer la historia completa en nuestro artículo **[El Triángulo Sagrado que protege a la ciudad Da Nang](https://blogcito.com/diario/triangulo-sagrado-da-nang-vietnam-pagodas-linh-ung/)**
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/pagoda-lady-buda-oeninsula-son-trá.png" alt="Imagen de bitácora"><span class="img-caption">Pagoda budista, península de Son Trá</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/pagoda-peninsula-de-son-tra-da-nang-de-lady-buda-.jpeg" alt="Imagen de bitácora"><span class="img-caption">Pagoda budista, península de Son Trá</span></div>
 
 ### Tarde: Playa My Khe y paseo por la zona de An Thuong
 
