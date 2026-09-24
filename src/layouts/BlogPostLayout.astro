@@ -1,5 +1,6 @@
 ---
 import Layout from './Layout.astro';
+import PostsRecomendados from '../components/PostsRecomendados.astro';
 import { getRelativeLocaleUrl } from 'astro:i18n';
 import { ui } from '../i18n/ui.js';
 
@@ -148,6 +149,17 @@ const latestPosts = allPosts.slice(0, 3);
                     </div>
                 </div>
 
+                    <!-- POSTS RECOMENDADOS (AHORA SÍ, ADENTRO) -->
+                {frontmatter.pais && (
+                    <div style="margin-top: 5rem; padding-top: 3rem; border-top: 1px solid rgba(0,0,0,0.05);">
+                        <PostsRecomendados 
+                            currentUrl={Astro.url.pathname} 
+                            currentPais={frontmatter.pais} 
+                            lang={currentLang} 
+                        />
+                    </div>
+                )}
+
             </div>
 
             <!-- COLUMNA DERECHA: SIDEBAR CON LOS ÚLTIMOS 3 ARTÍCULOS -->
@@ -248,7 +260,7 @@ const latestPosts = allPosts.slice(0, 3);
       max-width: 1400px;
       margin: 0 auto; 
       padding: 0 2.5rem; 
-      margin-bottom: 4rem;
+      margin-bottom: 0.2rem;
   }
 
   .article-view {
@@ -397,11 +409,22 @@ const latestPosts = allPosts.slice(0, 3);
   .text-column :global(th), .text-column :global(td) { padding: 0.9rem 1.2rem; color: #334155; }
   .text-column :global(thead) { background-color: #f8fafc; border-bottom: 2px solid #cbd5e1; }
 
-  .text-column :global(a:not(.hover-verde):not(.indice-item a):not(.btn-afiliado)) {
-      color: #006d77 !important; text-decoration: none !important; font-weight: 700 !important; 
-      background: linear-gradient(to top, rgba(0, 109, 119, 0.18) 0%, rgba(0, 109, 119, 0.18) 35%, transparent 35%) !important;
-      padding: 0 4px; border-radius: 2px;
-  }
+  /* APLICAR ESTILO DE MARCADOR SOLO AL TEXTO DE REDACCIÓN DENTRO DEL ARTÍCULO */
+    .text-column :global(p a),
+    .text-column :global(li:not(.indice-item) a) {
+        color: #006d77 !important; 
+        text-decoration: none !important; 
+        font-weight: 700 !important; 
+        background: linear-gradient(to top, rgba(0, 109, 119, 0.18) 0%, rgba(0, 109, 119, 0.18) 35%, transparent 35%) !important;
+        padding: 0 4px; 
+        border-radius: 2px;
+        transition: background 0.3s ease;
+    }
+
+    .text-column :global(p a:hover),
+    .text-column :global(li:not(.indice-item) a:hover) {
+        background: linear-gradient(to top, rgba(0, 109, 119, 0.3) 0%, rgba(0, 109, 119, 0.3) 35%, transparent 35%) !important;
+    }
 
   /* ÍNDICE */
   .indice-contenidos { background-color: var(--bg-color, #f8f6f0); border: 1px solid #e7e5e0; border-radius: 8px; padding: 1.5rem 2rem; margin: 0 0 3rem 0; }

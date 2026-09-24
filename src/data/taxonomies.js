@@ -25,6 +25,7 @@ export const destinationsData = [
     },
     {
       id: 'nueva-zelanda',
+      id_en: 'new-zealand',
       title: 'Nueva Zelanda',
       title_en: 'New Zealand',
       subtitle: 'Oceanía',

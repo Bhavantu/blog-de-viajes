@@ -5,19 +5,10 @@ import { ui } from '../../../i18n/ui.js';
 import { destinationsData } from '../../../data/taxonomies.js';
 
 export async function getStaticPaths() {
-  const destMapEsToEn: Record<string, string> = {
-      'nueva-zelanda': 'new-zealand',
-      'japon': 'japan',
-      'tailandia': 'thailand',
-      'filipinas': 'philippines',
-      // indonesia, vietnam y china no cambian
-  };
-
   return destinationsData.map((dest) => {
-    // Obtenemos el slug en inglés del diccionario, o usamos el original si no existe
-    const enSlug = destMapEsToEn[dest.id] || dest.id;
+    // Toma el ID en inglés directamente desde taxonomies.js
+    const enSlug = dest.id_en || dest.id;
     return {
-      // IMPORTANTE: Aquí debe decir 'destination' para que coincida con el nombre del archivo [destination].astro
       params: { destination: enSlug }, 
       props: { destData: dest },
     };

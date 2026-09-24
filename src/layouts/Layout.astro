@@ -1,7 +1,6 @@
 ---
 import '../styles/global.css';
 import Header from '../components/Header.astro';
-import PostsRecomendados from '../components/PostsRecomendados.astro';
 import { ui } from '../i18n/ui.js';
 
 interface Props {
@@ -124,12 +123,6 @@ if (frontmatter) {
 
         <slot />
 
-        {paisToUse && (
-            <div style="max-width: 1000px; margin: 0 auto; padding: 0 1rem 4rem 1rem; width: 100%;">
-                <PostsRecomendados currentUrl={Astro.url.pathname} currentPais={paisToUse} lang={currentLang} />
-            </div>
-        )}
-
         <footer>
             <p>&copy; 2026 BLOGCITO. {t['footer.derechos']}</p>
             <p style="max-width: 650px; margin: 1.2rem auto; font-size: 0.8rem; line-height: 1.5; color: #555555; text-align: center;">
@@ -238,7 +231,38 @@ if (frontmatter) {
             .reveal { opacity: 0; transform: translateY(20px); transition: all 0.8s ease-out; }
             .reveal.visible { opacity: 1; transform: translateY(0); }
 
-            footer { width: 100%; text-align: center; padding: 4rem 2rem; font-size: 0.8rem; color: var(--accent-color); margin-top: auto; clear: both; }
+            /* ============================================================
+            FOOTER EDITORIAL SUAVE
+            ============================================================ */
+            footer { 
+                background-color: #e6e2d6 !important; /* Un beige un par de tonos más oscuro que el fondo principal */
+                width: 100%; 
+                text-align: center; 
+                padding: 4rem 2rem; 
+                margin-top: auto; 
+                clear: both; 
+                border-top: 1px solid #d5d0c3 !important; /* Una línea divisoria muy sutil */
+            }
+
+            footer p,
+            footer div {
+                color: #555555 !important; /* Gris medio/oscuro para lectura cómoda */
+                font-size: 0.85rem;
+            }
+
+            footer a {
+                color: #006d77 !important; /* Tu color verde identitario */
+                font-weight: 600;
+                text-decoration: none !important;
+                padding: 0 !important;
+                background: none !important; /* Sin el subrayado marcador */
+                transition: color 0.3s ease;
+            }
+
+            footer a:hover {
+                color: #333333 !important;
+                text-decoration: underline !important;
+            }
 
         </style>
 
