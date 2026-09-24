@@ -1,34 +1,60 @@
 ---
 // src/components/PostsRecomendados.astro
 import { ui } from '../i18n/ui.js';
+import { destinationsData } from '../data/taxonomies.js'; // Importamos los datos de destinos para armar el link
 
 const { currentUrl, currentPais, lang = "es" } = Astro.props;
 
-// Rutas originales: busca los archivos sueltos como vos querías
+// Rutas originales
 const postsEs = Object.values(import.meta.glob('../pages/diario/*.md', { eager: true }));
 const postsEn = Object.values(import.meta.glob('../pages/en/journal/*.md', { eager: true }));
 
 const allPosts = lang === "es" ? postsEs : postsEn;
 
-// Filtro anti-duplicados: soluciona el problema de los posts repetidos
+// Filtro anti-duplicados
 const cleanUrl = (url: string) => url?.replace(/\/$/, '') || '';
 const currentUrlCleaned = cleanUrl(currentUrl);
 
-const recomendados = allPosts
-  .filter((post: any) => {
-      const postUrlCleaned = cleanUrl(post.url);
-      return post.frontmatter.pais === currentPais && postUrlCleaned !== currentUrlCleaned;
-  });
+// 1. Filtramos todos los posts válidos de este país
+const todosLosRecomendados = allPosts.filter((post: any) => {
+    const postUrlCleaned = cleanUrl(post.url);
+    return post.frontmatter.pais === currentPais && postUrlCleaned !== currentUrlCleaned;
+});
+
+// 2. Limitamos a un MÁXIMO de 4 tarjetas (2 filas)
+const recomendadosLimitados = todosLosRecomendados.slice(0, 4);
+
+// 3. Verificamos si quedaron posts afuera para mostrar el botón
+const hayMasPosts = todosLosRecomendados.length > 4;
 
 const t = ui[lang as keyof typeof ui] || ui['es'];
+
+// 4. Lógica para armar la URL del botón "Ver todos"
+let linkDestino = "#";
+if (hayMasPosts && currentPais) {
+    // Buscamos el ID del destino en taxonomies basándonos en el nombre del país (español o inglés)
+    const destinoMatch = destinationsData.find(d => 
+        d.title === currentPais || d.title_en === currentPais
+    );
+    
+    if (destinoMatch) {
+        if (lang === 'es') {
+            linkDestino = `/destinos/${destinoMatch.id}`;
+        } else {
+            // Usa el id_en si existe, sino el id normal
+            const slugEn = destinoMatch.id_en || destinoMatch.id;
+            linkDestino = `/en/destinations/${slugEn}`;
+        }
+    }
+}
 ---
 
-{recomendados.length > 0 && (
+{recomendadosLimitados.length > 0 && (
   <section class="recomendados-section">
     <h3>{lang === "es" ? "También te puede interesar" : "You might also like"}</h3>
     
     <div class="recomendados-grid">
-      {recomendados.map((post: any) => {
+      {recomendadosLimitados.map((post: any) => {
         const tagKey = `tag.${post.frontmatter.tag?.toLowerCase()}`;
         const translatedTag = t[tagKey as keyof typeof t] || post.frontmatter.tag;
 
@@ -45,6 +71,16 @@ const t = ui[lang as keyof typeof ui] || ui['es'];
         );
       })}
     </div>
+
+    <!-- BOTÓN DE "VER MÁS" CONDICIONAL -->
+    {hayMasPosts && (
+      <div class="ver-mas-container">
+        <a href={linkDestino} class="ver-mas-btn">
+            {lang === "es" ? `Más posts de ${currentPais}` : `More ${currentPais} Posts`}
+        </a>
+      </div>
+    )}
+
   </section>
 )}
 
@@ -143,6 +179,38 @@ const t = ui[lang as keyof typeof ui] || ui['es'];
     line-height: 1.4;
     color: #111111 !important;
     font-weight: normal;
+  }
+
+  /* Estilos para el botón de "Ver más" */
+  .ver-mas-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+  }
+
+  .ver-mas-btn {
+    display: inline-block;
+    padding: 0.8rem 2rem !important;
+    background-color: #f5f5f5 !important;
+    color: #111111 !important;
+    font-family: var(--font-main, sans-serif);
+    font-size: 0.85rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    border-radius: 50px !important;
+    text-decoration: none !important;
+    border: 1px solid #eaeaea !important;
+    transition: all 0.3s ease !important;
+    box-shadow: none !important;
+  }
+
+  .ver-mas-btn:hover {
+    background-color: #111111 !important;
+    color: #ffffff !important;
+    border-color: #111111 !important;
+    transform: translateY(-2px);
   }
 
   /* En celulares, pasan a ser 1 sola columna ocupando el ancho del texto */
