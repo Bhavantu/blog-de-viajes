@@ -174,9 +174,9 @@ Unlike the rest of Indonesia (predominantly Muslim), more than 86% of Bali's pop
 
 If you want to keep organizing your trip to the island and combining cultural experiences with coastal and practical destinations, don't miss our recommended guides:
 
-* 🌿 **[What to do in Ubud: A complete guide to culture, temples, and costs](https://blogcito.com/diario/2026-07-20-ubud-bali-what-to-do/)**\
+* 🌿 **[What to do in Ubud: A complete guide to culture, temples, and costs](https://blogcito.com/en/journal/what-to-do-ubud-bali-tips-and-guide/)**\
   *Discover the cultural capital of Bali, its rice terraces, waterfalls, and traditional dance shows.*
-* 🌊 **[Amed, Bali: A real guide to slow travel, snorkeling, and budget 2026](https://blogcito.com/diario/2026-07-18-amed-bali-real-guide-to-slow-travel/)**\
+* 🌊 **[Amed, Bali: A real guide to slow travel, snorkeling, and budget 2026](https://blogcito.com/en/journal/what-to-do-amed-bali-real-guide-budget/)**\
   *Get to know the fishing village on the eastern coast, its black sand beaches, and the best snorkeling spot on the island.*
-* 🛵 **[Traveling to Bali in 2026: Requirements, transportation, and areas to stay](https://blogcito.com/diario/2026-06-18-bali-travel-guide/)**\
+* 🛵 **[Traveling to Bali in 2026: Requirements, transportation, and areas to stay](https://blogcito.com/en/journal/travel-to-bali/)**\
   *The practical guide with everything you need to know about visas, how to get around, and tips before landing.*

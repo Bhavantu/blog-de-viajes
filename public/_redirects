@@ -1,31 +1,67 @@
-# Redirecciones ES - Diario
-/diario/2026-07-05-el-itinerario-definitivo*  /diario/ruta-nueva-zelanda-isla-sur-12-dias/  301!
-/diario/2026-05-11-aotearoa-donde-la-tierra-comienza*  /diario/aotearoa-historia-cultura-maori-nueva-zelanda/  301!
-/diario/2026-05-07-un-hogar-entre-el-r*  /diario/donde-vivir-isla-sur-nueva-zelanda/  301!
-/diario/2026-05-11-parque-nacional-arthur-pass*  /diario/parque-nacional-arthur-pass-nueva-zelanda-isla-sur/  301!
-/diario/2026-05-25-capitulo-1-llegada-a-nueva-zelanda*  /diario/rutas-isla-norte-nueva-zelanda-lugares/  301!
-/diario/2026-05-29-resumen-historico-de-coromandel*  /diario/historia-de-coromandel/  301!
-/diario/2026-05-30-vivir-con-working-holiday-visa*  /diario/vivir-con-working-holiday-visa-christchurch/  301!
-/diario/2026-06-01-comprar-una-camper-van*  /diario/comprar-camper-van-auto-nueva-zelanda-backpacker/  301!
-/diario/2026-06-18-bali-bby-1*  /diario/viajar-a-bali/  301!
-/diario/2026-07-08-qu*  /diario/que-hacer-christchurch-2-dias/  301!
-/diario/2026-07-18-amed-bali-gu*  /diario/que-hacer-amed-que-ver-guia-presupuesto/  301!
-/diario/2026-06-29-guia-de-ubud*  /diario/que-hacer-ubud-bali-que-ver-zonas-consejos-guia/  301!
-/diario/2026-06-23-el-alma-de-bali-rituales*  /diario/bali-rituales-cultura-tradiciones-secretos/  301!
-/diario/2026-08-09-gu*  /diario/que-ver-en-nusa-penida-guia/  301!
-/diario/donde-quedarse-nusa-penida-que-hacer-en-nusa-p*  /diario/donde-quedarse-nusa-penida-que-hacer-en-nusa-penida/  301!
+# =============================================================
+# REDIRECCIONES 301 - BLOGCITO (Actualizado y sin bucles)
+# =============================================================
 
-# Redirecciones EN - Journal
-/en/journal/2026-07-05-new-zealand-roadtrip*  /en/journal/roadtrip-new-zealand-west-coast-12-days/  301!
-/en/journal/2026-05-11-what-is-aotearoa*  /en/journal/what-is-aotearoa-maori-culture-new-zealand/  301!
-/en/journal/2026-05-07-where-to-live-in-south-island*  /en/journal/where-to-live-south-island-new-zealand/  301!
-/en/journal/2026-05-11-exploring-arthur-s-pass*  /en/journal/arthurs-pass-kura-tawhiti-national-canterbury-park-new-zealand-south-island/  301!
-/en/journal/2026-05-25-first-days-in-new-zealand*  /en/journal/new-zealand-route-north-island/  301!
-/en/journal/2026-05-29-the-story-of-coromandel*  /en/journal/history-of-coromandel-new-zealand/  301!
-/en/journal/2026-05-30-living-in-christchurch*  /en/journal/christchurch-working-holiday-jobs-costs/  301!
-/en/journal/2026-06-01-buying-a-campervan*  /en/journal/buy-campervan-car-new-zealand-backpackers-guide/  301!
-/en/journal/2026-06-18-travelbali*  /en/journal/travel-to-bali/  301!
-/en/journal/2026-07-08-what-to-do-in-christchurch*  /en/journal/what-to-do-christchurch-2-days/  301!
-/en/journal/2026-07-18-what-to-do-in-amed-bali*  /en/journal/what-to-do-amed-bali-real-guide-budget/  301!
-/en/journal/2026-06-29-what-to-do-in-ubud-bali*  /en/journal/what-to-do-ubud-bali-tips-and-guide/  301!
-/en/journal/2026-06-23-el-alma-de-bali-cultura*  /en/journal/bali-culture-traditions-and-secrets/  301!
+# -------------------------------------------------------------
+# 1. REDIRECCIONES ES - DIARIO (Antiguos slugs con fechas)
+# -------------------------------------------------------------
+/diario/2026-07-05-el-itinerario-definitivo*                 /diario/ruta-nueva-zelanda-isla-sur-12-dias/  301!
+/diario/2026-05-11-aotearoa-donde-la-tierra-comienza*        /diario/aotearoa-historia-cultura-maori-nueva-zelanda/  301!
+/diario/2026-05-07-un-hogar-entre-el-r*                      /diario/donde-vivir-isla-sur-nueva-zelanda/  301!
+/diario/2026-05-11-parque-nacional-arthur-pass*              /diario/parque-nacional-arthur-pass-nueva-zelanda-isla-sur/  301!
+/diario/2026-05-25-capitulo-1-llegada-a-nueva-zelanda*       /diario/rutas-isla-norte-nueva-zelanda-lugares/  301!
+/diario/2026-05-29-resumen-historico-de-coromandel*          /diario/historia-de-coromandel/  301!
+/diario/2026-05-30-vivir-con-working-holiday-visa*           /diario/vivir-con-working-holiday-visa-christchurch/  301!
+/diario/2026-06-01-comprar-una-camper-van*                   /diario/comprar-camper-van-auto-nueva-zelanda-backpacker/  301!
+/diario/2026-06-18-bali-bby-1*                               /diario/viajar-a-bali/  301!
+/diario/2026-07-08-qu*                                       /diario/que-hacer-christchurch-2-dias/  301!
+/diario/2026-07-18-amed-bali-gu*                             /diario/que-hacer-amed-que-ver-guia-presupuesto/  301!
+/diario/2026-07-14-slow-travel-y-snorkel-diario-en-amed*     /diario/que-hacer-amed-que-ver-guia-presupuesto/  301!
+/diario/2026-06-29-guia-de-ubud*                             /diario/que-hacer-ubud-bali-que-ver-zonas-consejos-guia/  301!
+/diario/2026-06-23-el-alma-de-bali-rituales*                 /diario/bali-rituales-cultura-tradiciones-secretos/  301!
+/diario/2026-08-09-gu*                                       /diario/que-ver-en-nusa-penida-guia/  301!
+/diario/2026-09-08-el-tri*                                   /diario/triangulo-sagrado-da-nang-vietnam-pagodas-linh-ung/  301!
+/diario/2026-08-31-n*                                        /diario/nomada-digital-vietnam-da-nang-costo-de-vida-alquiler/  301!
+/diario/nomada-digital-vietnam-costo-de-vida-da-nang*        /diario/nomada-digital-vietnam-da-nang-costo-de-vida-alquiler/  301!
+
+# Solución al bucle infinito de Nusa Penida (regla exacta, sin asterisco)
+/diario/donde-quedarse-nusa-penida-que-hacer-en-nusa-p       /diario/donde-quedarse-nusa-penida-que-hacer-en-nusa-penida/  301!
+
+# -------------------------------------------------------------
+# 2. REDIRECCIONES EN - JOURNAL (Antiguos slugs con fechas)
+# -------------------------------------------------------------
+/en/journal/2026-07-05-new-zealand-roadtrip*                 /en/journal/roadtrip-new-zealand-west-coast-12-days/  301!
+/en/journal/2026-05-11-what-is-aotearoa*                     /en/journal/what-is-aotearoa-maori-culture-new-zealand/  301!
+/en/journal/2026-05-07-where-to-live-in-south-island*        /en/journal/where-to-live-south-island-new-zealand/  301!
+/en/journal/2026-05-11-exploring-arthur-s-pass*              /en/journal/arthurs-pass-kura-tawhiti-national-canterbury-park-new-zealand-south-island/  301!
+/en/journal/2026-05-25-first-days-in-new-zealand*            /en/journal/new-zealand-route-north-island/  301!
+/en/journal/2026-05-29-the-story-of-coromandel*              /en/journal/history-of-coromandel-new-zealand/  301!
+/en/journal/2026-05-30-living-in-christchurch*               /en/journal/christchurch-working-holiday-jobs-costs/  301!
+/en/journal/2026-06-01-buying-a-campervan*                   /en/journal/buy-campervan-car-new-zealand-backpackers-guide/  301!
+/en/journal/2026-06-18-travelbali*                           /en/journal/travel-to-bali/  301!
+/en/journal/2026-07-08-what-to-do-in-christchurch*           /en/journal/what-to-do-christchurch-2-days/  301!
+/en/journal/2026-07-18-what-to-do-in-amed-bali*              /en/journal/what-to-do-amed-bali-real-guide-budget/  301!
+/en/journal/2026-06-29-what-to-do-in-ubud-bali*              /en/journal/what-to-do-ubud-bali-tips-and-guide/  301!
+/en/journal/2026-06-23-el-alma-de-bali-cultura*              /en/journal/bali-culture-traditions-and-secrets/  301!
+
+# -------------------------------------------------------------
+# 3. CRUCES HUÉRFANOS Y ERRORES DE IDIOMA (Solución 404 de Google)
+# -------------------------------------------------------------
+/en/diario                                                   /en/journal/  301!
+/en/diario/                                                  /en/journal/  301!
+/en/nosotros                                                 /en/about/  301!
+/en/nosotros/                                                /en/about/  301!
+
+/en/diario/viajar-a-bali*                                    /en/journal/travel-to-bali/  301!
+/en/diario/2026-05-11-parque-nacional-arthur-pass*           /en/journal/arthurs-pass-kura-tawhiti-national-canterbury-park-new-zealand-south-island/  301!
+/en/diario/vivir-con-working-holiday-visa-christchurch*      /en/journal/christchurch-working-holiday-jobs-costs/  301!
+/en/diario/que-hacer-amed-que-ver-guia-presupuesto*          /en/journal/what-to-do-amed-bali-real-guide-budget/  301!
+/en/journal/que-hacer-christchurch-2-dias*                   /en/journal/what-to-do-christchurch-2-days/  301!
+
+# Rutas en inglés a las que les falta el prefijo /en/
+/journal/what-to-do-amed-bali-real-guide-budget*             /en/journal/what-to-do-amed-bali-real-guide-budget/  301!
+/journal/christchurch-working-holiday-jobs-costs*            /en/journal/christchurch-working-holiday-jobs-costs/  301!
+/journal/travel-to-bali*                                     /en/journal/travel-to-bali/  301!
+
+# REGLA COMODÍN FINAL: Si queda algún enlace perdido a /journal, forzar el /en/
+/journal/:splat                                              /en/journal/:splat  301!

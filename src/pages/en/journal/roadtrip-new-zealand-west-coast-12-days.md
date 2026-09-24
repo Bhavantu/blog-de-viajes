@@ -188,7 +188,7 @@ They are strict. If you camp in unauthorized zones without the official *self-co
 
 ### Where can I verify the official status of routes?
 
-The climate in the West Coast is unpredictable and often features rockfall. Before tackling mountain stretches like Takaka Hill or Milford Sound passes, check out the [NZ Transport Agency Waka Kotahi website](https://www.nzta.govt.nz) or review our regular updates at https://blogcito.com/diario/.
+The climate in the West Coast is unpredictable and often features rockfall. Before tackling mountain stretches like Takaka Hill or Milford Sound passes, check out the [NZ Transport Agency Waka Kotahi website](https://www.nzta.govt.nz) or review our regular updates at our [Journal](https://blogcito.com/en/journal/)
 
 - - -
 
