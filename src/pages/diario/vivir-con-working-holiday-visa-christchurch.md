@@ -74,15 +74,27 @@ Llevando una vida “normal y tranquila” es decir, cocinando en casa, comparti
 
 ### Hospedaje para las primeras semanas al llegar
 
-Al aterrizar en Christchurch con la Working Holiday Visa, lo ideal es reservar entre **3 y 7 días de alojamiento temporal (hostel)** en el centro o cerca del aeropuerto. Es el tiempo necesario para abrir la cuenta bancaria neozelandesa, tramitar el IRD number (número fiscal) y hacer visitas presenciales a habitaciones o *flats*:
+Al aterrizar en Christchurch con la Working Holiday Visa, lo ideal es reservar entre **3 y 7 días de alojamiento temporal** en el centro. En ese tiempo podés buscar una habitación,  abrir la cuenta bancaria neozelandesa, tramitar el IRD number (número fiscal) y hacer visitas presenciales a habitaciones con total calma (muy importante):
 
-* **[Haka House Christchurch](https://www.booking.com/hotel/nz/haka-house-christchurch.html?aid=318615):** Ubicado frente al Arts Centre y a pasos del Jardín Botánico. Muy limpio, moderno y excelente ambiente para conocer otros recién llegados.
+
 * **[Urbanz Hostel](https://www.booking.com/hotel/nz/urbanz.html?aid=318615):** En pleno centro urbano (*CBD*). Cuenta con bar, amplia cocina comunitaria y es una de las opciones más populares para hacer primeros contactos laborales.
+
+### 1. [Drifter Christchurch](https://www.booking.com/hotel/nz/drifter-christchurch.html?aid=1607597) (CBD — Opción Premium / Boutique)
+Ubicado en Lichfield Street, a pasos del Riverside Market y de la terminal central de colectivos. Es un concepto "híbrido" muy cuidado que combina la vibra social de un hostel de alta gama con el confort de un hotel boutique. Sus habitaciones privadas con baño en suite destacan por su diseño industrial elegante, camas extra cómodas, escritorio y excelente aislación acústica. El edificio cuenta además con cafetería/bar propio (*The Rambler*), sala de cine, espacios de co-working y terraza. La alternativa ideal para quien busca un toque de diseño y la mejor calidad en pleno centro.
+
+### 2. [Hotel Give](https://www.booking.com/hotel/nz/ymca-christchurch.html?aid=1607597) (CBD — Confort, calma y propósito social)
+Ubicado frente al Jardín Botánico y Hagley Park, en una de las zonas más verdes y bonitas del centro. Las instalaciones están renovadas, y tiene áreas comunes luminosas, ambiente tranquilo. La relación calidad precio, teniendo en cuenta la ubicación dentro del CBD es acorde.Además es un alojamiento con impacto social (las ganancias se destinan a programas comunitarios locales). Ofrece habitaciones privadas con baño exclusivo, estudios y opciones compartidas. 
+### 3. [Urbanz Hostel](https://www.booking.com/hotel/nz/urbarz.html?aid=1607597) (CBD — Económico / Social)
+En pleno centro urbano. Cuenta con bar, amplia cocina comaprtida y es una de las alternativas más populares para hacer los primeros contactos, conocer otros viajeros y buscar trabajo o auto al llegar a la ciudad.
+
+### 4. [123 Motel](https://www.booking.com/hotel/nz/123-motel.html?aid=1607597) (Riccarton — Práctico con cocina y estacionamiento)
+Ubicado en el barrio de Riccarton (a unos 10 minutos en auto del CBD y a pasos del centro comercial Westfield Riccarton). Ofrece estudios y mini apartamentos con estacionamiento gratuito. Es una muy buena opción si te tenes auto o preferís cocinar en la habitación o te interesa vivir en el verde y apacible barrio de Riccarton. 
+*
 * **[LyLo Christchurch Airport](https://www.booking.com/hotel/nz/jucy-snooze-christchurch.html?aid=318615):** A menos de 10 minutos caminando de la terminal del aeropuerto. Ideal si tu vuelo aterriza de noche o muy temprano.
 
 ### Para buscar habitación compartida definitiva (*flat*):
 
-Las dos herramientas que mejor me funcionaron fueron **Trade Me** (en la sección de *Flatmates wanted*) para comparar precios de forma organizada, y principalmente los grupos de **Facebook** (como *Christchurch Flatmates*), donde el trato es directo y rápido. La gente publica ofertas todos los días y si hacés una publicación con tus necesidades llueven propuestas de cuartos en casas compartidas. 
+La oferta es muy amplia y se actualiza constantemente, las dos herramientas que mejor me funcionaron fueron **Trade Me** (en la sección de *Flatmates wanted*) para comparar precios de forma organizada, y principalmente los grupos de **Facebook** (como *Christchurch Flatmates*), donde el trato es directo y rápido. La gente publica ofertas todos los días y si hacés una publicación con tus necesidades llueven propuestas de cuartos en casas compartidas. 
 
 ### Para buscar trabajo:
 
