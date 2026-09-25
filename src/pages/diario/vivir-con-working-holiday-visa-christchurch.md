@@ -20,7 +20,7 @@ La verdad es que no soy gran fanática de las ciudades, pero esta experiencia se
 Luego de aplicar en diferentes trabajos en el camino, descansamos en un precioso *free camping* sin restricción de días en Lake Side Domain, el cual encontramos por la aplicación **CamperMate**, el mejor amigo del viajero en *campervan*.
 La ciudad de Christchurch me esperaba para mostrarme el esplendor de su bello Jardín Botánico, sus actividades sociales y su reconstrucción en proceso después de los terremotos iniciados en 2010, lo que la vuelve una ciudad moderna con una disposición muy funcional.
 
-> ¿Aún no te decidiste en qué ciudad de Nueva Zelanda instalarte? Si todavía estás evaluando opciones, te sugiero leer nuestro artículo [¿Dónde vivir en la Isla Sur de Nueva Zelanda? Comparativa de ciudades](https://blogcito.com/diario/donde-vivir-isla-sur-nueva-zelanda/) donde analizamos los pros, contras y oportunidades de cada ciudad.
+> ¿Aún no te decidiste en qué ciudad de Nueva Zelanda instalarte? Si todavía estás evaluando opciones, te sugiero leer [¿Dónde vivir en la Isla Sur de Nueva Zelanda? Comparativa de ciudades](https://blogcito.com/diario/donde-vivir-isla-sur-nueva-zelanda/) donde analizamos los pros, contras y oportunidades de cada ciudad.
 
 - - -
 
