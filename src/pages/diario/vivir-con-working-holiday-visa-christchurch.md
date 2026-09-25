@@ -20,13 +20,15 @@ La verdad es que no soy gran fanática de las ciudades, pero esta experiencia se
 Luego de aplicar en diferentes trabajos en el camino, descansamos en un precioso *free camping* sin restricción de días en Lake Side Domain, el cual encontramos por la aplicación **CamperMate**, el mejor amigo del viajero en *campervan*.
 La ciudad de Christchurch me esperaba para mostrarme el esplendor de su bello Jardín Botánico, sus actividades sociales y su reconstrucción en proceso después de los terremotos iniciados en 2010, lo que la vuelve una ciudad moderna con una disposición muy funcional.
 
+> ¿Aún no te decidiste en qué ciudad de Nueva Zelanda instalarte? Si todavía estás evaluando opciones, te sugiero leer nuestro artículo [¿Dónde vivir en la Isla Sur de Nueva Zelanda? Comparativa de ciudades](https://blogcito.com/diario/donde-vivir-isla-sur-nueva-zelanda/) donde analizamos los pros, contras y oportunidades de cada ciudad.
+
 - - -
 
 ## 1. Naturaleza y vida social: El equilibrio perfecto
 
 La principal ventaja de vivir allí es que Christchurch es un verdadero lujo geográfico. Las colinas de Port Hills se pueden ver desde la ciudad y sus senderos para hacer *trails* están a solo veinte minutos de distancia, así como también dos diferentes playas a media hora. Los imponentes Alpes del Sur, así como la increíble zona de **[Arthur Pass](https://blogcito.com/diario/2026-05-11-parque-nacional-arthur-pass/)** o algunos centros de esquí, están a solo dos horas en auto. Es el equilibrio perfecto entre la vida social urbana y escapadas constantes a la naturaleza.
 
-<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/whatsapp-image-2026-06-01-at-18.44.19.webp" alt="Imagen de bitácora"><span class="img-caption">Ciudad de Christchurch: paseos por el centro y Sumner Beach</span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/whatsapp-image-2026-06-01-at-18.44.19.webp" alt="Imagen de bitácora"><span class="img-caption">Ciudad de Christchurch: paseos por el centro y Sumner Beach</span></div>
 
 - - -
 
