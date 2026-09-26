@@ -44,7 +44,6 @@ Si te estás preguntando cómo conocer gente o qué hacer en Christchurch, te tr
 
 Christchurch se encuentra en una zona de actividad sísmica (con terremotos provocados por fallas tectónicas), pero no de actividad volcánica activa directa. Aunque técnicamente la cercana Península de Banks (muy bella por cierto) tiene un origen volcánico extinto, lo cierto es que en cualquier parte de Nueva Zelanda existe riesgo de actividad sísmica y esta ciudad tiene sus antecedentes históricos.
 
-
 Sin embargo, lo positivo es que el país es sumamente preventivo y cuenta con procedimientos estandarizados de seguridad muy claros. Además, la aplicación **GeoNet** en el celular te informa al instante sobre cualquier movimiento de la tierra, lo que ayuda a mantener la calma. La información en relación a ello es muy clara y la cartelería está preparada para estos incidentes como en todo el país. Por otro lado, siempre es fundamental conocer de antemano la información oficial sobre qué hacer en caso de sismo o alerta.
 
 - - -
@@ -137,7 +136,19 @@ No es estrictamente necesario desde el primer día dentro de la ciudad, ya que C
 
 ## Te puede interesar también:
 
+SI aún no te decidiste y querés comparar las ciudades de la Isla Sur: 
+
 * 🇳🇿 **[¿Dónde vivir en la Isla Sur de Nueva Zelanda? Comparativa de ciudades](https://blogcito.com/diario/2026-05-07-un-hogar-entre-el-r%C3%ADo-avon-y-los-alpes-del-sur/)**
-* 🚐 **[Comprar una Campervan o auto en Nueva Zelanda: Guía para no morir en el intento](https://blogcito.com/diario/2026-06-01-comprar-una-camper-van-o-auto-en-nueva-zelanda/)**
+
+Si estás plneando el roadtrip por la Isla Sur (recomendado 100%): 
+
 * 🗺️ **[Itinerario de 12 días por la Costa Oeste de Nueva Zelanda: Roadtrip de Picton a Milford Sound](https://blogcito.com/diario/2026-02-12-itinerario-de-12-d%C3%ADas-por-la-costa-oeste-de-nueva-zelanda-roadtrip-de-picton-a-milford-sound/)**
+* 🚐 **[Comprar una Campervan o auto en Nueva Zelanda: Guía para no morir en el intento](https://blogcito.com/diario/2026-06-01-comprar-una-camper-van-o-auto-en-nueva-zelanda/)**
+
+Si querés conocer los paseos cercanos a la ciudad 
+
+* [Explorando el Parque nacional Arthur’s Pass y Kura Tāwhiti](https://blogcito.com/diario/parque-nacional-arthur-pass-nueva-zelanda-isla-sur/)
+
+Para conocer más la cultura Maori en Nueva Zelanda
+
 * 📜 **[¿Qué es Aotearoa? Historia y cultura maorí en Nueva Zelanda](https://blogcito.com/diario/2026-05-11-aotearoa-donde-la-tierra-comienza/)**
