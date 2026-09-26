@@ -123,7 +123,7 @@ Desde ya gracias por leer, estos artículos buscan brindar claridad a otros viaj
 
 ### ¿Cuánto se gana en Nueva Zelanda? (Salario mínimo y trabajos calificados)
 
-En 2026, el **salario mínimo por hora es de $23,95 NZD (bruto)**. En una jornada de 40 horas semanales, el sueldo bruto ronda los $958 NZD, lo que equivale a unos **$780 - $800 NZD limpios (en mano)** tras los descuentos de impuestos (PAYE) e impuestos gubernamentales básicos.
+En 2026, el **salario mínimo por hora es de $23,95 NZD (bruto)**. En una jornada de 40 horas semanales, el sueldo bruto ronda los $958 NZD, lo que equivale a unos **$780 - $800 NZD liquidos (en mano)** tras los descuentos de impuestos (PAYE) e impuestos gubernamentales básicos.
 Si contás con experiencia previa o accedés a **trabajos calificados o técnicos** (como construcción especializada, carpintería, supervisión en gastronomía, roles de oficina o IT), las tarifas por hora suelen oscilar entre **$28 y $45+ NZD por hora**, lo que incrementa notablemente el margen de ahorro semanal.
 
 ### ¿Cuánto dinero se recomienda llevar para llegar a Christchurch?
@@ -132,7 +132,7 @@ Lo recomendable es ingresar con un fondo de reserva de al menos **$1.500 a $2.00
 
 ### ¿Se necesita auto obligatorio para vivir en Christchurch?
 
-No es estrictamente necesario desde el primer día dentro de la ciudad, ya que Christchurch es plana, cuenta con ciclovías y una red de buses eficiente (*Metro*). Sin embargo, contar con auto o *campervan* facilita muchísimo los traslados, optimiza el tiempo y te permite planificar escapadas a la montaña (Arthur's Pass) y playas los fines de semana (que igual podés planificar con otros viajeros).
+No es estrictamente necesario desde el primer día dentro de la ciudad, ya que Christchurch es plana, cuenta con ciclovías y una red de buses eficiente. Sin embargo, contar con auto o campervan facilita mucho los traslados, optimiza el tiempo y te permite planificar escapadas a la montaña (Arthur's Pass) y playas los fines de semana (que igual podés planificar con otros viajeros o alquilar por día).
 
 ## Te puede interesar también:
 
