@@ -28,7 +28,7 @@ La ciudad de Christchurch me esperaba para mostrarme el esplendor de su bello Ja
 
 La principal ventaja de vivir allí es que Christchurch es un verdadero lujo geográfico. Las colinas de Port Hills se pueden ver desde la ciudad y sus senderos para hacer *trails* están a solo veinte minutos de distancia, así como también dos diferentes playas a media hora. Los imponentes Alpes del Sur, así como la increíble zona de **[Arthur Pass](https://blogcito.com/diario/2026-05-11-parque-nacional-arthur-pass/)** o algunos centros de esquí, están a solo dos horas en auto. Es el equilibrio perfecto entre la vida social urbana y escapadas constantes a la naturaleza.
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/whatsapp-image-2026-06-01-at-18.44.19.webp" alt="Imagen de bitácora"><span class="img-caption">Ciudad de Christchurch: paseos por el centro y Sumner Beach</span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/ciudad-de-chrischurch-al-atardecer.jpg" alt="Imagen de bitácora"><span class="img-caption">Ciudad de Christchurch: paseos urbanos y Sumner Beach</span></div>
 
 - - -
 
@@ -43,13 +43,14 @@ Si te estás preguntando cómo conocer gente o qué hacer en Christchurch, te tr
 ## 3. Terremotos en Christchurch: ¿Es seguro vivir en la ciudad actualmente?
 
 Christchurch se encuentra en una zona de actividad sísmica (con terremotos provocados por fallas tectónicas), pero no de actividad volcánica activa directa. Aunque técnicamente la cercana Península de Banks (muy bella por cierto) tiene un origen volcánico extinto, lo cierto es que en cualquier parte de Nueva Zelanda existe riesgo de actividad sísmica y esta ciudad tiene sus antecedentes históricos.
-Sin embargo, lo positivo es que el país es sumamente preventivo y cuenta con procedimientos estandarizados de seguridad muy claros. Además, la aplicación GeoNet en el teléfono te informa al instante sobre cualquier movimiento de la tierra, lo que ayuda a mantener la calma. La información en relación a ello es muy clara y la cartelería está preparada para estos incidentes como en todo el país. Por otro lado, siempre es fundamental conocer de antemano la información oficial sobre qué hacer en caso de sismo o alerta.
+
+Sin embargo, lo positivo es que el país es sumamente preventivo y cuenta con procedimientos estandarizados de seguridad muy claros. Además, la aplicación **GeoNet** en el celular te informa al instante sobre cualquier movimiento de la tierra, lo que ayuda a mantener la calma. La información en relación a ello es muy clara y la cartelería está preparada para estos incidentes como en todo el país. Por otro lado, siempre es fundamental conocer de antemano la información oficial sobre qué hacer en caso de sismo o alerta.
 
 - - -
 
 ## 4. Costo de vida en Christchurch: Alquiler y comida
 
-* **Alimentación:** El costo de vida es accesible. Salir a comer afuera no es tan barato (alrededor de 20 a 40 NZD por plato) pero hay una muy buena oferta de frutas y verduras de productores locales de Nueva Zelanda. La calidad y el sabor de los alimentos es excelente. Mi experiencia fue trabajando en un supermercado orgánico y tuve la suerte de poder probar verduras locales cultivadas sin químicos; conclusión: muy buen alimento neozelandés.
+* **Alimentación:** El costo de vida es accesible. Salir a comer afuera no es tan económico (alrededor de 20 a 40 NZD por plato) pero hay una muy buena oferta de frutas y verduras de productores locales de Nueva Zelanda. La calidad y el sabor de los alimentos es excelente. Mi experiencia fue trabajando en un supermercado orgánico y tuve la suerte de poder probar verduras locales cultivadas sin químicos; conclusión: muy buen alimento neozelandés.
 * **Vivienda y transporte:** El acceso a la vivienda es razonable y existe una gran variedad de zonas para elegir. Además, la infraestructura urbana tiene una buena red de ciclovías y un transporte público eficiente, las calles se encuentran en buen estado y el tráfico no es imposible en las mañanas.
 
 ### Resumen de gastos semanales estimados por persona (2026)
@@ -122,7 +123,7 @@ Desde ya gracias por leer, estos artículos buscan brindar claridad a otros viaj
 
 ### ¿Cuánto se gana en Nueva Zelanda? (Salario mínimo y trabajos calificados)
 
-En 2026, el **salario mínimo por hora es de $23,95 NZD (bruto)**. En una jornada de 40 horas semanales, el sueldo bruto ronda los $958 NZD, lo que equivale a unos **$780 - $800 NZD limpios (en mano)** tras los descuentos de impuestos (PAYE) e impuestos gubernamentales básicos.
+En 2026, el **salario mínimo por hora es de $23,95 NZD (bruto)**. En una jornada de 40 horas semanales, el sueldo bruto ronda los $958 NZD, lo que equivale a unos **$780 - $800 NZD liquidos (en mano)** tras los descuentos de impuestos (PAYE) e impuestos gubernamentales básicos.
 Si contás con experiencia previa o accedés a **trabajos calificados o técnicos** (como construcción especializada, carpintería, supervisión en gastronomía, roles de oficina o IT), las tarifas por hora suelen oscilar entre **$28 y $45+ NZD por hora**, lo que incrementa notablemente el margen de ahorro semanal.
 
 ### ¿Cuánto dinero se recomienda llevar para llegar a Christchurch?
@@ -131,11 +132,23 @@ Lo recomendable es ingresar con un fondo de reserva de al menos **$1.500 a $2.00
 
 ### ¿Se necesita auto obligatorio para vivir en Christchurch?
 
-No es estrictamente necesario desde el primer día dentro de la ciudad, ya que Christchurch es plana, cuenta con ciclovías y una red de buses eficiente (*Metro*). Sin embargo, contar con auto o *campervan* facilita muchísimo los traslados, optimiza el tiempo y te permite planificar escapadas a la montaña (Arthur's Pass) y playas los fines de semana (que igual podés planificar con otros viajeros).
+No es estrictamente necesario desde el primer día dentro de la ciudad, ya que Christchurch es plana, cuenta con ciclovías y una red de buses eficiente. Sin embargo, contar con auto o campervan facilita mucho los traslados, optimiza el tiempo y te permite planificar escapadas a la montaña (Arthur's Pass) y playas los fines de semana (que igual podés planificar con otros viajeros o alquilar por día).
 
 ## Te puede interesar también:
 
+SI aún no te decidiste y querés comparar las ciudades de la Isla Sur: 
+
 * 🇳🇿 **[¿Dónde vivir en la Isla Sur de Nueva Zelanda? Comparativa de ciudades](https://blogcito.com/diario/2026-05-07-un-hogar-entre-el-r%C3%ADo-avon-y-los-alpes-del-sur/)**
-* 🚐 **[Comprar una Campervan o auto en Nueva Zelanda: Guía para no morir en el intento](https://blogcito.com/diario/2026-06-01-comprar-una-camper-van-o-auto-en-nueva-zelanda/)**
+
+Si estás plneando el roadtrip por la Isla Sur (recomendado 100%): 
+
 * 🗺️ **[Itinerario de 12 días por la Costa Oeste de Nueva Zelanda: Roadtrip de Picton a Milford Sound](https://blogcito.com/diario/2026-02-12-itinerario-de-12-d%C3%ADas-por-la-costa-oeste-de-nueva-zelanda-roadtrip-de-picton-a-milford-sound/)**
+* 🚐 **[Comprar una Campervan o auto en Nueva Zelanda: Guía para no morir en el intento](https://blogcito.com/diario/2026-06-01-comprar-una-camper-van-o-auto-en-nueva-zelanda/)**
+
+Si querés conocer los paseos cercanos a la ciudad 
+
+* [Explorando el Parque nacional Arthur’s Pass y Kura Tāwhiti](https://blogcito.com/diario/parque-nacional-arthur-pass-nueva-zelanda-isla-sur/)
+
+Para conocer más la cultura Maori en Nueva Zelanda
+
 * 📜 **[¿Qué es Aotearoa? Historia y cultura maorí en Nueva Zelanda](https://blogcito.com/diario/2026-05-11-aotearoa-donde-la-tierra-comienza/)**
