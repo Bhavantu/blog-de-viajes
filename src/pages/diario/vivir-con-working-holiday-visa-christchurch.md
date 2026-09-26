@@ -28,7 +28,7 @@ La ciudad de Christchurch me esperaba para mostrarme el esplendor de su bello Ja
 
 La principal ventaja de vivir allí es que Christchurch es un verdadero lujo geográfico. Las colinas de Port Hills se pueden ver desde la ciudad y sus senderos para hacer *trails* están a solo veinte minutos de distancia, así como también dos diferentes playas a media hora. Los imponentes Alpes del Sur, así como la increíble zona de **[Arthur Pass](https://blogcito.com/diario/2026-05-11-parque-nacional-arthur-pass/)** o algunos centros de esquí, están a solo dos horas en auto. Es el equilibrio perfecto entre la vida social urbana y escapadas constantes a la naturaleza.
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/whatsapp-image-2026-06-01-at-18.44.19.webp" alt="Imagen de bitácora"><span class="img-caption">Ciudad de Christchurch: paseos por el centro y Sumner Beach</span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/ciudad-de-chrischurch-al-atardecer.jpg" alt="Imagen de bitácora"><span class="img-caption">Ciudad de Christchurch: paseos urbanos y Sumner Beach</span></div>
 
 - - -
 
@@ -43,13 +43,15 @@ Si te estás preguntando cómo conocer gente o qué hacer en Christchurch, te tr
 ## 3. Terremotos en Christchurch: ¿Es seguro vivir en la ciudad actualmente?
 
 Christchurch se encuentra en una zona de actividad sísmica (con terremotos provocados por fallas tectónicas), pero no de actividad volcánica activa directa. Aunque técnicamente la cercana Península de Banks (muy bella por cierto) tiene un origen volcánico extinto, lo cierto es que en cualquier parte de Nueva Zelanda existe riesgo de actividad sísmica y esta ciudad tiene sus antecedentes históricos.
-Sin embargo, lo positivo es que el país es sumamente preventivo y cuenta con procedimientos estandarizados de seguridad muy claros. Además, la aplicación GeoNet en el teléfono te informa al instante sobre cualquier movimiento de la tierra, lo que ayuda a mantener la calma. La información en relación a ello es muy clara y la cartelería está preparada para estos incidentes como en todo el país. Por otro lado, siempre es fundamental conocer de antemano la información oficial sobre qué hacer en caso de sismo o alerta.
+
+
+Sin embargo, lo positivo es que el país es sumamente preventivo y cuenta con procedimientos estandarizados de seguridad muy claros. Además, la aplicación **GeoNet** en el celular te informa al instante sobre cualquier movimiento de la tierra, lo que ayuda a mantener la calma. La información en relación a ello es muy clara y la cartelería está preparada para estos incidentes como en todo el país. Por otro lado, siempre es fundamental conocer de antemano la información oficial sobre qué hacer en caso de sismo o alerta.
 
 - - -
 
 ## 4. Costo de vida en Christchurch: Alquiler y comida
 
-* **Alimentación:** El costo de vida es accesible. Salir a comer afuera no es tan barato (alrededor de 20 a 40 NZD por plato) pero hay una muy buena oferta de frutas y verduras de productores locales de Nueva Zelanda. La calidad y el sabor de los alimentos es excelente. Mi experiencia fue trabajando en un supermercado orgánico y tuve la suerte de poder probar verduras locales cultivadas sin químicos; conclusión: muy buen alimento neozelandés.
+* **Alimentación:** El costo de vida es accesible. Salir a comer afuera no es tan económico (alrededor de 20 a 40 NZD por plato) pero hay una muy buena oferta de frutas y verduras de productores locales de Nueva Zelanda. La calidad y el sabor de los alimentos es excelente. Mi experiencia fue trabajando en un supermercado orgánico y tuve la suerte de poder probar verduras locales cultivadas sin químicos; conclusión: muy buen alimento neozelandés.
 * **Vivienda y transporte:** El acceso a la vivienda es razonable y existe una gran variedad de zonas para elegir. Además, la infraestructura urbana tiene una buena red de ciclovías y un transporte público eficiente, las calles se encuentran en buen estado y el tráfico no es imposible en las mañanas.
 
 ### Resumen de gastos semanales estimados por persona (2026)
