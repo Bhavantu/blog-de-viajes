@@ -118,11 +118,7 @@ La población de la vecina isla de Java suele llamar a Bali "la isla de los mil 
 Los templos son lugares espectaculares y sagrados para la población local, por lo cual hay un par de reglas generales de convivencia que hay que cumplir:
 
 * **Vestimenta adecuada:** Siempre llevar las rodillas y los hombros cubiertos. Un *sarong* (la tela tradicional que se amarra como falda) es obligatorio. En muchos templos te los prestan u alquilan.
-
-
 * **Respeto al entorno:** Mantener el silencio y respetar el espacio como lo que es: un lugar de oración y conexión espiritual activa.
-
-
 * **La regla de la menstruación:** En los ingresos hay carteles que restringen la entrada de mujeres durante la menstruación. Cosa que me chocó bastante, pero leyendo la explicación está vinculada al concepto de *sebel* de la cosmología hindú balinesa, el cual se entiende como: un estado de vulnerabilidad espiritual o impureza ritual temporal relacionado con la sangre. Se plantea como una norma de equilibrio energético y pureza del espacio sagrado que se respeta con rigurosidad.
 
 ## El Ritual de Purificación (Melukat)
@@ -214,47 +210,44 @@ Si eligiera de nuevo, seguramente iría por la segunda zona en la que nos quedam
 
 #### Opciones en Ubud Central (Cerca de todo)
 
-##### [Manwarsa Guest House / Warsa Homestay](https://www.booking.com/hotel/id/manwarsa-guest-house.html?aid=2440493)
+
+##### [Manwarsa Guest House / Warsa Homestay](https://www.booking.com/hotel/id/warsa-homestay.html?aid=2440493&label=mkt123sc-1d308b13-cf33-4521-8fa0-203f65e11961&sid=7324201086ee77dba032cf854bff9851&all_sr_blocks=149594401_411115885_0_2_0&checkin=2026-10-11&checkout=2026-10-12&dest_id=1495944&dest_type=hotel&dist=0&group_adults=2&group_children=0&hapos=1&highlighted_blocks=149594401_411115885_0_2_0&hpos=1&matching_block_id=149594401_411115885_0_2_0&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=149594401_411115885_0_2_0__18426000&srepoch=1790432135&srpvid=a15e644041a8032d&type=total&ucfs=1&#map_closed)
 
 📍 **Ubicación:** En pleno centro, a minutos del Palacio de Ubud y del mercado.
 📝 **Descripción:** Homestay tradicional atendido por una familia balinesa.
-💰 **Precio estimado:** 15 a 25 USD / 14 a 23 EUR (~260.000 - 440.000 IDR) por noche.
+💰 **Precio estimado:** 10 USD / 9 EUR (~178.000 IDR) por noche.
 
-##### [Semujan Bungalow Ubud](https://www.booking.com/hotel/id/semujan-bungalows.html?aid=2440493)
+##### [Semujan Bungalow Ubud](https://www.booking.com/hotel/id/semujan-bungalow-ubud.html?aid=2440493&label=mkt123sc-7bb265d1-dee4-449c-a462-2c81a7fe964d&sid=7324201086ee77dba032cf854bff9851&all_sr_blocks=318059304_141196066_0_0_0&checkin=2026-10-11&checkout=2026-10-12&dest_id=3180593&dest_type=hotel&dist=0&group_adults=2&group_children=0&hapos=1&highlighted_blocks=318059304_141196066_0_0_0&hpos=1&matching_block_id=318059304_141196066_0_0_0&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=318059304_141196066_0_0_0__38232000&srepoch=1790432051&srpvid=a1a66417b9900f64&type=total&ucfs=1&)
 
 📍 **Ubicación:** A pasos de Monkey Forest Road en un pasaje silencioso.
 📝 **Descripción:** Bungalows con estilo balinés, pileta y jardín tropical.
-💰 **Precio estimado:** 35 a 55 USD / 32 a 50 EUR (~620.000 - 980.000 IDR) por noche.
+💰 **Precio estimado:** 21 USD / 18 EUR (~375.000 IDR) por noche.
 
-##### [Alamdini Resort Ubud](https://www.booking.com/hotel/id/alamdini-resort-ubud.html?aid=2440493)
+##### [Alamdini Resort Ubud](https://www.booking.com/hotel/id/alamdini-resort-ubud-ubud1.html?aid=2440493&label=mkt123sc-7bb265d1-dee4-449c-a462-2c81a7fe964d&sid=7324201086ee77dba032cf854bff9851&all_sr_blocks=192218801_272359493_2_41_0_488673&checkin=2026-10-11&checkout=2026-10-12&dest_id=-2701757&dest_type=city&dist=0&group_adults=2&group_children=0&hapos=1&highlighted_blocks=192218801_272359493_2_41_0_488673&hpos=1&matching_block_id=192218801_272359493_2_41_0_488673&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=192218801_272359493_2_41_0_488673_100719000&srepoch=1790431831&srpvid=764063a8cab5121f&type=total&ucfs=1&)
 
 📍 **Ubicación:** Centro urbano, con vistas interiores a un cañón verde.
-📝 **Descripción:** Resort elegante con suites amplias y pileta rodeada de vegetación.
-💰 **Precio estimado:** 70 a 110 USD / 64 a 100 EUR (~1.250.000 - 1.950.000 IDR) por noche.
+📝 **Descripción:** Resort con suites amplias y pileta rodeada de vegetación.
+💰 **Precio estimado:** 56 a 67 USD / 49 a 58 EUR (~1.000.000 - 1.200.000 IDR) por noche.
+### Opciones en Ubud Norte y Alrededores (Tranquilidad y Naturaleza)
 
-Opciones en Ubud Norte y Alrededores (Tranquilidad y Naturaleza)
+##### [D'tepi Ubud House](https://www.booking.com/hotel/id/ubud-jungle-house.html?aid=2440493&label=mkt123sc-6fb02523-f9b6-410d-a0f1-dd987a51398c&sid=7324201086ee77dba032cf854bff9851&all_sr_blocks=820911401_344788893_2_1_0&checkin=2026-10-11&checkout=2026-10-12&dist=0&group_adults=2&group_children=0&hapos=1&highlighted_blocks=820911401_344788893_2_1_0&hpos=1&matching_block_id=820911401_344788893_2_1_0&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=820911401_344788893_2_1_0__16363600&srepoch=1790431624&srpvid=e01362c86b5e02ed&type=total&ucfs=1&)
 
-##### [Ubud Jungle House](https://www.booking.com/hotel/id/ubud-jungle-house.html?aid=2440493)
+[📍 ](https://www.booking.com/hotel/id/ubud-jungle-house.html?aid=2440493&label=mkt123sc-6fb02523-f9b6-410d-a0f1-dd987a51398c&sid=7324201086ee77dba032cf854bff9851&all_sr_blocks=820911401_344788893_2_1_0&checkin=2026-10-11&checkout=2026-10-12&dist=0&group_adults=2&group_children=0&hapos=1&highlighted_blocks=820911401_344788893_2_1_0&hpos=1&matching_block_id=820911401_344788893_2_1_0&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=820911401_344788893_2_1_0__16363600&srepoch=1790431624&srpvid=e01362c86b5e02ed&type=total&ucfs=1&)**Ubicación:** A 10-15 minutos al norte del centro, inmerso en la selva.
+📝 **Descripción:** Alojamiento familiar con vistas al cañón tropical, aire acondicionado y desayuno.
+💰 **Precio estimado:** 9 a 12 USD / 8 a 11 EUR (~160.000 - 215.000 IDR) por noche.
 
-📍 **Ubicación:** A 10-15 minutos al norte del centro, inmerso en la selva.
-📝 **Descripción:** Alojamiento familiar con vistas al cañón tropical, aire acondicionado y gran desayuno.
-💰 **Precio estimado:** 14 a 22 USD / 13 a 20 EUR (~250.000 - 390.000 IDR) por noche.
-
-##### [Canting Bali Suite](https://www.booking.com/hotel/id/canting-bali-suite.html?aid=2440493)
+##### [Canting Bali Suite](booking.com/hotel/id/canting-bali-2.html?label=mkt123sc-05f6f8e3-7983-49f9-b825-a1fa8873d9f7&sid=7324201086ee77dba032cf854bff9851&aid=2440493&ucfs=1&arphpl=1&checkin=2026-10-11&checkout=2026-10-12&dest_id=4009842&dest_type=hotel&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=f5bc62961cac1625&srepoch=1790431281&all_sr_blocks=400984206_368967266_0_0_0&highlighted_blocks=400984206_368967266_0_0_0&matching_block_id=400984206_368967266_0_0_0&sr_pri_blocks=400984206_368967266_0_0_0__24552400&from=searchresults)
 
 📍 **Ubicación:** Barrio de Laplapan (Petulu), a 10 minutos del centro.
-📝 **Descripción:** Habitaciones amplias con terraza privada, pileta y vistas despejadas a la naturaleza.
-💰 **Precio estimado:** 35 a 55 USD / 32 a 50 EUR (~620.000 - 980.000 IDR) por noche.
+📝 **Descripción:** Habitaciones amplias con terraza privada, piscina y vistas despejadas a la naturaleza.
+💰 **Precio estimado:** 14 a 20 USD / 12 a 18 EUR (~250.000 - 358.000 IDR) por noche.
 
 ##### [Subu Utamas Ubud](<https://www.booking.com/hotel/id/subu-utamas-ubud.html?aid=2440493)>)
 
 📍 **Ubicación:** Al norte de Ubud, retirado de las avenidas principales.
-📝 **Descripción:** Villas y suites de alta calidad con pileta y atención personalizada.
-💰 **Precio estimado:** 85 a 140 USD / 78 a 128 EUR (~1.500.000 - 2.500.000 IDR) por noche.
+📝 **Descripción:** Villas y suites de alta calidad con piscina y atención personalizada.
+💰 **Precio estimado:** 73 a 86 USD / 64 a 75 EUR (~1.300.000 - 1.540.000 IDR) por noche.
 
-<div class="stay22-inline-map" style="margin: 2rem 0; border-radius: 12px; overflow: hidden;">
-  <iframe id="stay22-widget" width="100%" height="428" src="https://stay22.com/embed/6a4496f5198cff107e57ca30" frameborder="0"></iframe>
-</div>
 
 - - -
 
