@@ -87,8 +87,6 @@ Aunque hay decenas de opciones, acá te dejamos las tres que más nos recomendar
 
 ## 3. Taller de cocina balinesa en una granja ecológica: Nuestra experiencia estrella en Ubud
 
-
-
 <div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/clase-de-cocina-balinesa-en-granja-orgánica.webp" alt="Imagen de bitácora"><span class="img-caption">Taller de cocina vegetariana en granja ecológica </span></div>
 
 Sin duda, una de las experiencias que más disfrutamos durante nuestro viaje por Bali fue hacer un taller de cocina balinesa vegetariana en una granja ecológica. La actividad fue perfecta de principio a fin: nos recogieron directamente en el centro de Ubud para trasladarnos hacia las montañas del norte. Al llegar, la exuberante vegetación y el equipo nos dieron la bienvenida con un auténtico *"Welcome to the jungle"*.
@@ -201,6 +199,7 @@ Situado en la esquina de Jalan Raya Ubud y Jalan Monkey Forest, frente al mercad
 * **Espectáculos nocturnos:** Todas las noches, a partir de las 7:00 PM, el patio principal se transforma en un escenario iluminado por antorchas para dar lugar a la danza tradicional balinesa de las mujeres *Legong*.
 
 *Nota de la editora: Estimado lector/lectora, recuerden que los precios y regulaciones en Bali fluctúan según la temporada y las actualizaciones de las administraciones locales de cada regencia. Se recomienda llevar siempre efectivo en rupias indonesias (IDR), ya que en muchos templos y cascadas no se aceptan tarjetas de crédito.* 
+
 - - -
 
 ## **Donde quedarse en Ubud**
@@ -211,41 +210,41 @@ Probamos varias opciones, pero creo que tengo una recomendación sólida para qu
 
 ##### [Manwarsa Guest House / Warsa Homestay](https://www.booking.com/hotel/id/manwarsa-guest-house.html?aid=2440493)
 
-* 📍 **Ubicación:** En pleno centro, a minutos del Palacio de Ubud y del mercado.
-* 📝 **Descripción:** Homestay tradicional atendido por una familia balinesa.
-* 💰 **Precio estimado:** 15 a 25 USD / 14 a 23 EUR (~260.000 - 440.000 IDR) por noche.
+📍 **Ubicación:** En pleno centro, a minutos del Palacio de Ubud y del mercado.
+📝 **Descripción:** Homestay tradicional atendido por una familia balinesa.
+💰 **Precio estimado:** 15 a 25 USD / 14 a 23 EUR (~260.000 - 440.000 IDR) por noche.
 
 ##### [Semujan Bungalow Ubud](https://www.booking.com/hotel/id/semujan-bungalows.html?aid=2440493)
 
-* 📍 **Ubicación:** A pasos de Monkey Forest Road en un pasaje silencioso.
-* 📝 **Descripción:** Bungalows con estilo balinés, pileta y jardín tropical.
-* 💰 **Precio estimado:** 35 a 55 USD / 32 a 50 EUR (~620.000 - 980.000 IDR) por noche.
+📍 **Ubicación:** A pasos de Monkey Forest Road en un pasaje silencioso.
+📝 **Descripción:** Bungalows con estilo balinés, pileta y jardín tropical.
+💰 **Precio estimado:** 35 a 55 USD / 32 a 50 EUR (~620.000 - 980.000 IDR) por noche.
 
 ##### [Alamdini Resort Ubud](https://www.booking.com/hotel/id/alamdini-resort-ubud.html?aid=2440493)
 
-* 📍 **Ubicación:** Centro urbano, con vistas interiores a un cañón verde.
-* 📝 **Descripción:** Resort elegante con suites amplias y pileta rodeada de vegetación.
-* 💰 **Precio estimado:** 70 a 110 USD / 64 a 100 EUR (~1.250.000 - 1.950.000 IDR) por noche.
+📍 **Ubicación:** Centro urbano, con vistas interiores a un cañón verde.
+📝 **Descripción:** Resort elegante con suites amplias y pileta rodeada de vegetación.
+💰 **Precio estimado:** 70 a 110 USD / 64 a 100 EUR (~1.250.000 - 1.950.000 IDR) por noche.
 
-#### Opciones en Ubud Norte y Alrededores (Tranquilidad y Naturaleza)
+Opciones en Ubud Norte y Alrededores (Tranquilidad y Naturaleza)
 
 ##### [Ubud Jungle House](https://www.booking.com/hotel/id/ubud-jungle-house.html?aid=2440493)
 
-* 📍 **Ubicación:** A 10-15 minutos al norte del centro, inmerso en la selva.
-* 📝 **Descripción:** Alojamiento familiar con vistas al cañón tropical, aire acondicionado y gran desayuno.
-* 💰 **Precio estimado:** 14 a 22 USD / 13 a 20 EUR (~250.000 - 390.000 IDR) por noche.
+📍 **Ubicación:** A 10-15 minutos al norte del centro, inmerso en la selva.
+📝 **Descripción:** Alojamiento familiar con vistas al cañón tropical, aire acondicionado y gran desayuno.
+💰 **Precio estimado:** 14 a 22 USD / 13 a 20 EUR (~250.000 - 390.000 IDR) por noche.
 
 ##### [Canting Bali Suite](https://www.booking.com/hotel/id/canting-bali-suite.html?aid=2440493)
 
-* 📍 **Ubicación:** Barrio de Laplapan (Petulu), a 10 minutos del centro.
-* 📝 **Descripción:** Habitaciones amplias con terraza privada, pileta y vistas despejadas a la naturaleza.
-* 💰 **Precio estimado:** 35 a 55 USD / 32 a 50 EUR (~620.000 - 980.000 IDR) por noche.
+📍 **Ubicación:** Barrio de Laplapan (Petulu), a 10 minutos del centro.
+📝 **Descripción:** Habitaciones amplias con terraza privada, pileta y vistas despejadas a la naturaleza.
+💰 **Precio estimado:** 35 a 55 USD / 32 a 50 EUR (~620.000 - 980.000 IDR) por noche.
 
-##### [Subu Utamas Ubud](https://www.booking.com/hotel/id/subu-utamas-ubud.html?aid=2440493)
+##### [Subu Utamas Ubud](<https://www.booking.com/hotel/id/subu-utamas-ubud.html?aid=2440493)>)
 
-* 📍 **Ubicación:** Al norte de Ubud, retirado de las avenidas principales.
-* 📝 **Descripción:** Villas y suites de alta calidad con pileta y atención personalizada.
-* 💰 **Precio estimado:** 85 a 140 USD / 78 a 128 EUR (~1.500.000 - 2.500.000 IDR) por noche.
+📍 **Ubicación:** Al norte de Ubud, retirado de las avenidas principales.
+📝 **Descripción:** Villas y suites de alta calidad con pileta y atención personalizada.
+💰 **Precio estimado:** 85 a 140 USD / 78 a 128 EUR (~1.500.000 - 2.500.000 IDR) por noche.
 
 <div class="stay22-inline-map" style="margin: 2rem 0; border-radius: 12px; overflow: hidden;">
   <iframe id="stay22-widget" width="100%" height="428" src="https://stay22.com/embed/6a4496f5198cff107e57ca30" frameborder="0"></iframe>
