@@ -118,7 +118,11 @@ La población de la vecina isla de Java suele llamar a Bali "la isla de los mil 
 Los templos son lugares espectaculares y sagrados para la población local, por lo cual hay un par de reglas generales de convivencia que hay que cumplir:
 
 * **Vestimenta adecuada:** Siempre llevar las rodillas y los hombros cubiertos. Un *sarong* (la tela tradicional que se amarra como falda) es obligatorio. En muchos templos te los prestan u alquilan.
+
+
 * **Respeto al entorno:** Mantener el silencio y respetar el espacio como lo que es: un lugar de oración y conexión espiritual activa.
+
+
 * **La regla de la menstruación:** En los ingresos hay carteles que restringen la entrada de mujeres durante la menstruación. Cosa que me chocó bastante, pero leyendo la explicación está vinculada al concepto de *sebel* de la cosmología hindú balinesa, el cual se entiende como: un estado de vulnerabilidad espiritual o impureza ritual temporal relacionado con la sangre. Se plantea como una norma de equilibrio energético y pureza del espacio sagrado que se respeta con rigurosidad.
 
 ## El Ritual de Purificación (Melukat)
@@ -204,7 +208,9 @@ Situado en la esquina de Jalan Raya Ubud y Jalan Monkey Forest, frente al mercad
 
 ## **Donde quedarse en Ubud**
 
-Probamos varias opciones, pero creo que tengo una recomendación sólida para quienes quieran disfrutar la tradicional calma de los arrozales, conocer la ciudad y estar cerca de las diferentes zonas por visitar. Si bien quedarse en el centro es una opción fácil ya que podés ir a diferentes restaurantes y espectáculos caminando, hay que decir que es una zona muy turística y muy habitada. Si eligiera de nuevo, seguramente iría por la segunda zona en la que nos quedamos: en las afueras, un poco hacia el noreste, antes de Tegalalang y a solo 10 minutos de Ubud central. Los alrededores cuentan con áreas muy tranquilas y hermosas; la otra ventaja es que al salir no perderás tiempo trancado en el tráfico dentro de la ciudad (es un gran dato a tener en cuenta). Pero necesitarás moverte en vehículo para casi cualquier actividad, dejamos ambas opciones divididas por zona y presupuesto a continuación.
+Probamos varias opciones, pero mi recomendación para quienes quieran disfrutar la tradicional calma de los arrozales, conocer la ciudad y estar cerca de las diferentes zonas por visitar es la siguiente: Si bien quedarse en el centro es una opción fácil, ya que permite ir a diferentes restaurantes y espectáculos caminando, aunque cabe aclarar que es una zona muy turística y muy habitada. 
+
+Si eligiera de nuevo, seguramente iría por la segunda zona en la que nos quedamos: en las afueras, un poco hacia el noreste, antes de Tegalalang y a solo 10 minutos de Ubud central. Los alrededores cuentan con áreas muy tranquilas y hermosas; la otra ventaja es que al salir no perderás tiempo trancado en el tráfico dentro de la ciudad (es un gran dato a tener en cuenta). Pero necesitarás moverte en vehículo para casi cualquier actividad, dejamos ambas opciones divididas por zona y presupuesto a continuación.
 
 #### Opciones en Ubud Central (Cerca de todo)
 
