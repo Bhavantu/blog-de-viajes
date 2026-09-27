@@ -56,7 +56,7 @@ Despite these historical wounds, New Zealand is recognized globally for environm
 This ongoing dialogue between ancestral guardianship and modern civic life is what defines contemporary Aotearoa.
 
 <div class="post-img-box img-mediano img-centro">
-  <img src="/img/diario/aotearoa-larga-nube-blanca.JPG" alt="Panoramic view of coastal clouds and ocean along Abel Tasman National Park trail">
+  <img src="/img/diario/aotearoa-larga-nube-blanca.webp" alt="Panoramic view of coastal clouds and ocean along Abel Tasman National Park trail">
   <span class="img-caption">Abel Tasman National Park: coastal waters and cloud line</span>
 </div>
 

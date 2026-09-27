@@ -55,7 +55,7 @@ A pesar de estos desafíos, el país representa un referente internacional en ma
 Esta búsqueda de diálogo entre la pertenencia ancestral y las necesidades contemporáneas es lo que hoy define la identidad de Aotearoa.
 
 <div class="post-img-box img-mediano img-centro">
-  <img src="/img/diario/aotearoa-larga-nube-blanca.JPG" alt="Vista de el mar y las nubes desde el sendero de Abel Tasman national park">
+  <img src="/img/diario/aotearoa-larga-nube-blanca.webp" alt="Vista de el mar y las nubes desde el sendero de Abel Tasman national park">
   <span class="img-caption">Panorámica de Abel Tasman national park</span>
 </div>
 
