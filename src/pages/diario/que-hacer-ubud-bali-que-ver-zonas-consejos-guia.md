@@ -120,7 +120,9 @@ La población de la vecina isla de Java suele llamar a Bali "la isla de los mil 
 Los templos son lugares espectaculares y sagrados para la población local, por lo cual hay un par de reglas generales de convivencia que hay que cumplir:
 
 * **Vestimenta adecuada:** Siempre llevar las rodillas y los hombros cubiertos. Un *sarong* (la tela tradicional que se amarra como falda) es obligatorio. En muchos templos te los prestan u alquilan.
+
 * **Respeto al entorno:** Mantener el silencio y respetar el espacio como lo que es: un lugar de oración y conexión espiritual activa.
+
 * **La regla de la menstruación:** En los ingresos hay carteles que restringen la entrada de mujeres durante la menstruación. Cosa que me chocó bastante, pero leyendo la explicación está vinculada al concepto de *sebel* de la cosmología hindú balinesa, el cual se entiende como: un estado de vulnerabilidad espiritual o impureza ritual temporal relacionado con la sangre. Se plantea como una norma de equilibrio energético y pureza del espacio sagrado que se respeta con rigurosidad.
 
 ## El Ritual de Purificación (Melukat)
@@ -132,12 +134,16 @@ Muchos de los templos están centrados en la purificación a través del agua, u
 Para hacer este ritual de forma respetuosa y correcta, es necesario contar con un guía local que te acompañe, te instruya en los pasos y te ayude a realizar las ofrendas. Sé que hay bastantes polémicas y debates en Internet en relación a esto y la verdad es que para quienes queremos conectar de verdad con esta práctica de fe, no es nada agradable estar regateando dinero o estar alerta a posibles estafas. Por eso, acá te dejo la **información** que en mi caso fue una de las más **relevantes para el viaje:**
 
 * **Entrada general al templo:** El costo de ingreso general (por ejemplo, en el famoso templo *Tirta Empul*) ronda los **75.000 IDR** por adulto. Se paga en la taquilla oficial de la entrada. Con tu entrada te van a prestar un Sarong básico para recorrer el complejo, pero recordar llevar los hombros cubiertos es tu responsabilidad. **NO es necesario que compres un sarong en los puestos de la entrada.** Si los vendedores insisten y no querés comprar, simplemente agradecé con una sonrisa y seguí de largo hacia la boletería oficial.
+
 * **El Guía Local:** Un guía que te explique la historia, la mística del lugar y te acompañe paso a paso en el estanque es necesario para no cometer faltas de respeto (además no tenemos claro si se puede hacer el ritual sin guía). [Podés contactar guías certificados con anticipación por internet](https://www.getyourguide.com/es-es/bali-l347/bali-visita-al-templo-gunung-kawi-con-ritual-de-purificacion-t1141894/?ranking_uuid=12e8c29b-2205-4eb2-ad7e-128b215afda8&q=ritual+de+purificacion&date_from=2026-07-08&date_to=2026-07-08) o contratar uno en la entrada del templo. Nuestro consejo en esta segunda opción es que acuerdes sus honorarios claramente antes de empezar (lo decimos por experiencia). El valor por su guía suele rondar los **150.000 IDR** por persona.
 * **El Ritual de Purificación (Costos extra):** Participar en las piscinas sagradas tiene requisitos y costos adicionales que no cubre la entrada general:
 
-  * **Vestimenta ritual:** Es obligatorio ingresar al agua con un sarong especial de purificación (no podés usar el mismo sarong seco con el que caminás por el templo). El alquiler cuesta unos **15.000 IDR**.
-  * **Casilleros (Lockers):** Para dejar tus pertenencias secas mientras estás en el agua, el alquiler cuesta de **10.000 a 15.000 IDR** por persona.
-  * **Ofrendas (Canang Sari):** Son los pequeños canastos de hojas de palma con flores y sahumerios que se presentan antes de entrar al agua. Tienen un costo de unos **10.000 a 20.000 IDR** (generalmente las facilita el guía).
+* **Vestimenta ritual:** Es obligatorio ingresar al agua con un sarong especial de purificación (no podés usar el mismo sarong seco con el que caminás por el templo). El alquiler cuesta unos **15.000 IDR**.
+
+* **Casilleros (Lockers):** Para dejar tus pertenencias secas mientras estás en el agua, el alquiler cuesta de **10.000 a 15.000 IDR** por persona.
+
+* **Ofrendas (Canang Sari):** Son los pequeños canastos de hojas de palma con flores y sahumerios que se presentan antes de entrar al agua. Tienen un costo de unos **10.000 a 20.000 IDR** (generalmente las facilita el guía).
+
 * **Total estimado de la experiencia:** aproximadamente entre **200.000 y 250.000 IDR** (unos 13-16 USD) para realizar toda la ceremonia de purificación guiada, respetuosa y completa, incluyendo entradas, alquileres y ofrendas.
 
 Una opción que nos parece razonable después de nuestra experiencia, para evitar romper con la mística del momento, es contratar previamente [un tour que tenga todo incluido.](https://www.getyourguide.com/es-es/bali-l347/bali-visita-al-templo-gunung-kawi-con-ritual-de-purificacion-t1141894/?ranking_uuid=12e8c29b-2205-4eb2-ad7e-128b215afda8&q=ritual+de+purificacion&date_from=2026-07-08&date_to=2026-07-08) Nos parece interesante [este tour que incluye el ritual, las entradas, los costos añadidos y además podés conocer las terrazas de Jatiluwih (las menos turísticas).](https://www.getyourguide.com/es-es/jatiluwih-l88105/bali-tour-por-las-terrazas-arroceras-de-jatiluwih-y-purificacion-del-agua-t1327978/?ranking_uuid=7a0f57c5-f655-4f07-ba90-7c8c509de41d&q=Terraza+de+arroz+de+Jatiluwih&date_from=2026-07-08&date_to=2026-07-08)

@@ -23,6 +23,8 @@ Para ellos, la tierra (*Papatūānuku*) y el mar (*Tangaroa*) son parte de un to
 
 ![Waka Maori canoa tradicional](/img/diario/canoa.webp "Waka Maori")
 
+>💡 **Nota para viajeros:** Si estás preparando tu viaje o estás por viajar con visa de trabajo para recorrer el país, no te pierdas nuestra **[guía para vivir en Christchurch con la Working Holiday](/diario/vivir-con-working-holiday-visa-christchurch/)**, donde desglosamos costos reales, sueldos y cómo encontrar alojamiento en la Isla Sur.
+
 ## **El espíritu en la madera**
 
 Un ejemplo tangible de esto es lo que aprendimos en el Auckland War Memorial Museum (*Tāmaki Paenga Hira*), donde descubrimos que el proceso de crear las canoas (*Waka*) era mucho más que la construcción de un transporte: implicaba un rito de respeto. A modo de resumen:
@@ -52,11 +54,23 @@ A pesar de estos desafíos, el país representa un referente internacional en ma
 
 Esta búsqueda de diálogo entre la pertenencia ancestral y las necesidades contemporáneas es lo que hoy define la identidad de Aotearoa.
 
-### Te puede interesar leer también
+<div class="post-img-box img-mediano img-centro">
+  <img src="/img/diario/aotearoa-larga-nube-blanca.JPG" alt="Vista de el mar y las nubes desde el sendero de Abel Tasman national park">
+  <span class="img-caption">Panorámica de Abel Tasman national park</span>
+</div>
 
-* [Ruta por la Isla Norte de Nueva Zelanda: Itinerario y primeros pasos](/diario/rutas-isla-norte-nueva-zelanda-lugares/)
-* [La historia de Coromandel: de la extracción a la conservación](/diario/historia-de-coromandel/)
-* [Explorando el Parque Nacional Arthur’s Pass y Kura Tāwhiti](/diario/parque-nacional-arthur-pass-nueva-zelanda-isla-sur/)
-* [Vivir con Working Holiday Visa en Christchurch](/diario/vivir-con-working-holiday-visa-christchurch/)
+- - -
 
-![Vista de Auckland desde el volcán inactivo Mount Eden / Maungawhau](/img/diario/dsc_0911.webp "Grandes ciudades: Auckland, museos, gastronomía y vida urbana")
+### Seguí explorando Nueva Zelanda
+
+*  **[Ruta por la Isla Norte: Itinerario y primeros pasos](/diario/rutas-isla-norte-nueva-zelanda-lugares/)**  
+  *Primeros días tras aterrizar en Auckland: cómo organizar la logística inicial, qué paradas priorizar en la costa este y cómo moverse sin prisas.*
+
+* **[La historia de Coromandel: De la extracción a la conservación](/diario/historia-de-coromandel/)**  
+  *El fascinante pasado de una de las penínsulas más verdes del país: de la fiebre del oro y la tala de árboles kauri a modelo de rescate ecológico.*
+
+* **[Arthur’s Pass y Kura Tāwhiti: Cruce de los Alpes del Sur](/diario/parque-nacional-arthur-pass-nueva-zelanda-isla-sur/)**  
+  *Senderismo entre rocas gigantes de caliza, paisajes de montaña y la ruta panorámica imprescindible entre Canterbury y la Costa Oeste.*
+
+* **[Guía Working Holiday: Vivir y trabajar en Christchurch](/diario/vivir-con-working-holiday-visa-christchurch/)**  
+  *Presupuesto semanal real para 2026, costo de alquiler de habitaciones, salarios mínimos por hora y consejos para instalarte en la Isla Sur.*
