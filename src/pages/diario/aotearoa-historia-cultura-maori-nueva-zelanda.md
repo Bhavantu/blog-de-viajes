@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPostLayout.astro
 title: "¿Qué es Aotearoa? Significado, Historia y Cultura Maorí en Nueva Zelanda"
-description: "Descubre qué significa Aotearoa (la tierra de la gran nube blanca), el origen de sus leyendas y la historia viva de la cultura maorí en Nueva Zelanda."
+description: "Descubrí qué significa Aotearoa (la tierra de la gran nube blanca), el origen de sus leyendas y la historia viva de la cultura maorí en Nueva Zelanda."
 date: 2026-04-27T13:22:00.000+12:00
 tag: contexto y cultura
 pais: Nueva Zelanda
@@ -55,7 +55,7 @@ A pesar de estos desafíos, el país representa un referente internacional en ma
 Esta búsqueda de diálogo entre la pertenencia ancestral y las necesidades contemporáneas es lo que hoy define la identidad de Aotearoa.
 
 <div class="post-img-box img-mediano img-centro">
-  <img src="/img/diario/aotearoa-larga-nube-blanca.webp" alt="Vista de el mar y las nubes desde el sendero de Abel Tasman national park">
+  <img src="/img/diario/aotearoa-larga-nube-blanca.webp" alt="Vista del mar y las nubes desde el sendero de Abel Tasman national park">
   <span class="img-caption">Panorámica de Abel Tasman national park</span>
 </div>
 
