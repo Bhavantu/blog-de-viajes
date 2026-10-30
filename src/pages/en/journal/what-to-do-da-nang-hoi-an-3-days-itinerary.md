@@ -17,7 +17,6 @@ This guide is designed to make the most of a **3-day itinerary in Da Nang**, tak
 <div style="background: linear-gradient(180deg, #fdfcf9 0%, #f7f4ee 100%); border: 2px solid #006d77; border-radius: 16px; padding: 2rem 1.8rem; margin: 3rem 0; box-shadow: 0 12px 30px rgba(0, 109, 119, 0.08); font-family: var(--font-main, sans-serif);">
 
 <div style="display: flex; align-items: center; gap: 0.8rem; margin-bottom: 1.6rem; border-bottom: 1px solid rgba(0, 109, 119, 0.15); padding-bottom: 1rem;">
-<span style="font-size: 1.4rem;"></span>
 <h3 style="margin: 0; font-family: var(--font-display, Georgia, serif); font-size: 1.35rem; color: #1c2d37; font-weight: 600;">
 Te ahorramos la búsqueda: dónde quedarte
 </h3>
