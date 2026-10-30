@@ -24,7 +24,7 @@ For slow travelers or digital nomads, there is easily enough to keep you busy fo
 
 💵 **Currency:** Indonesian Rupiah (IDR). Cash remains king for everyday expenses. </div>
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/que-hacer-en-bali-mapa-interactivo-.webp" alt="Travel journal photo"><span class="img-caption">Tourist map of Bali by regions</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/que-hacer-en-bali-mapa-interactivo-.webp" alt="Imagen de bitácora"><span class="img-caption">Tourist map of Bali by regions</span></div>
 
 ## What to Know Before Traveling to Bali, Indonesia
 
@@ -97,11 +97,10 @@ One of the most important decisions when planning your trip is where to base you
 | Region                                                                                                               | Main Highlights                                    | Overall Vibe                         |
 | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ------------------------------------ |
 | **Uluwatu**                                                                                                          | Surfing, white-sand beaches, and dramatic cliffs   | Cafes, surf culture, and laid-back coastal vibes |
-| **[Ubud](https://deploy-preview-95--yendoblog.netlify.app/diario/que-hacer-ubud-bali-que-ver-zonas-consejos-guia/)** | Yoga, sacred temples, culture, jungle, and rice fields | Cultural, lush green, and bustling   |
+| **[Ubud](/en/journal/what-to-do-ubud-bali-tips-and-guide/)** | Yoga, sacred temples, culture, jungle, and rice fields | Cultural, lush green, and bustling   |
 | **Sidemen**                                                                                                          | Rural valleys, untouched nature, and Mount Agung views | Peaceful, traditional, and slow-paced |
-| **[Amed](https://deploy-preview-95--yendoblog.netlify.app/diario/que-hacer-amed-que-ver-guia-presupuesto/)**         | Snorkeling, shore diving, and calm fishing village life | Coastal, unpretentious, and authentic |
-| **[Nusa Penida](https://deploy-preview-95--yendoblog.netlify.app/diario/que-ver-en-nusa-penida-guia/)**              | Dramatic sea cliffs, iconic viewpoints, and manta rays | Rugged adventure, dramatic landscapes, and island feel |
-|                                                                                                                      | <td colspan="2"></td>                              |                                      |
+| **[Amed](/en/journal/what-to-do-amed-bali-real-guide-budget/)**         | Snorkeling, shore diving, and calm fishing village life | Coastal, unpretentious, and authentic |
+| **[Nusa Penida](/en/journal/what-to-see-nusa-penida/)**              | Dramatic sea cliffs, iconic viewpoints, and manta rays | Rugged adventure, dramatic landscapes, and island feel |
 
 - - -
 
@@ -109,7 +108,7 @@ One of the most important decisions when planning your trip is where to base you
 
 One of the most stunning coastal regions on the island. It features dramatic limestone cliffs with panoramic sunset lookouts and world-class surf breaks. Because it's an essential bucket-list stop, the tourist infrastructure is well-developed (boutique cafes, cliffside beach clubs, upscale stays), and many island tours depart from here. Basing yourself in Balangan or Pecatu allows you to explore the peninsula with ease.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/uluwatu.webp" alt="Travel journal photo"><span class="img-caption">Uluwatu, Bukit Peninsula</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/uluwatu.webp" alt="Imagen de bitácora"><span class="img-caption">Uluwatu, Bukit Peninsula</span></div>
 
 * 📍 **Location:** Bukit Peninsula (Southern tip of Bali).
 * ⏱️ **Airport Transit Time:** 40 to 60 minutes by car (depending on traffic).
@@ -146,7 +145,7 @@ The cultural heart of the island, surrounded by tropical rainforest and emerald 
 
 We split stays into two zones: Central Ubud (walkable to everything, but lively and busy) and North Ubud / Outskirts (peaceful and surrounded by nature).
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/ubud5.webp" alt="Travel journal photo"><span class="img-caption">Ubud Rice Terraces</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/ubud5.webp" alt="Imagen de bitácora"><span class="img-caption">Ubud Rice Terraces</span></div>
 
 * 📍 **Location:** Geographical and cultural center of Bali.
 * ⏱️ **Airport Transit Time:** 1 hour 15 minutes to 2 hours.
@@ -200,7 +199,7 @@ We split stays into two zones: Central Ubud (walkable to everything, but lively 
 
 A serene, picture-perfect valley offering a glimpse into authentic rural Bali. Many stays combine traditional architecture with sustainable eco-lodge designs.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/sidemen-.webp" alt="Travel journal photo"><span class="img-caption">Sidemen, lush valley landscapes and tranquil vibes</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/sidemen-.webp" alt="Imagen de bitácora"><span class="img-caption">Sidemen, lush valley landscapes and tranquil vibes</span></div>
 
 * 📍 **Location:** Eastern Bali (Karangasem Regency).
 * ⏱️ **Airport Transit Time:** 1 hour 45 minutes to 2 hours 15 minutes.
@@ -236,7 +235,7 @@ A serene, picture-perfect valley offering a glimpse into authentic rural Bali. M
 
 A peaceful coastal fishing village celebrated for its black volcanic sand beaches and calm, accessible shore snorkeling—ideal for families and easily one of our favorite places on the island.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/amed.webp" alt="Travel journal photo"><span class="img-caption">Amed Coastline</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/amed.webp" alt="Imagen de bitácora"><span class="img-caption">Amed Coastline</span></div>
 
 * 📍 **Location:** Northeast Coast.
 * ⏱️ **Airport Transit Time:** 2.5 to 3 hours.
@@ -269,7 +268,7 @@ A peaceful coastal fishing village celebrated for its black volcanic sand beache
 
 Nusa Penida is a rugged island off Bali's southeast coast, famous for sheer limestone cliffs, turquoise coves, and postcard viewpoints like Kelingking Beach and Crystal Bay. Because reaching it requires a speedboat ride and island logistics are unique, we compiled the best neighborhoods to sleep in and recommended routes in our dedicated guide: [Where to Stay and What to Do in Nusa Penida](https://blogcito.com/diario/donde-quedarse-nusa-penida-que-hacer-en-nusa-penida/#3-costa-oeste-la-zona-tur%C3%ADstica-crystal-bay--kelingking).
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/kelingking-beach23.webp" alt="Travel journal photo"><span class="img-caption">Kelingking Beach in Nusa Penida</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/kelingking-beach23.webp" alt="Imagen de bitácora"><span class="img-caption">Kelingking Beach in Nusa Penida</span></div>
 
 * 📍 **Location:** Neighboring island southeast of Bali (Klungkung Regency).
 * ⏱️ **Getting There:** 30 to 45 minutes by fast boat from Sanur Harbour.
