@@ -58,7 +58,7 @@ A nivel meteorológico, los registros oficiales muestran un patrón real. Tras l
 
 La explicación científica atribuye estos giros a variables atmosféricas habituales, corrientes marinas y al relieve geográfico de la cordillera Annamita. En contraste, la explicación cultural ve en estos eventos la respuesta directa a las oraciones en las tres pagodas Linh Ung (respuestas milagrosas).
 
-Al margen de qué postura se decida tomar, esta confluencia entre geografía física, eventos meteorológicos reales y fe popular es lo que mantiene viva la mística del lugar. Queda abierta la pregunta: ¿es la fe de miles de personas la que le da sentido a estas coincidencias, o es simplemente la mente humana la que decide qué significado darle a lo que parece un azar climático?
+Al margen de qué postura se decida tomar, esta confluencia entre geografía física, eventos meteorológicos reales y fe popular es lo que mantiene viva la mística del lugar. Nosotros no sabemos cuál de las dos miradas explica mejor lo que pasó, y no saberlo no significa que alguna sea falsa. Por eso dejamos la pregunta abierta: ¿pueden la explicación meteorológica y la fe de quienes rezan en las tres pagodas ser dos maneras distintas de mirar los mismos hechos?
 
 ## Historia, Cultura y Guía Práctica de las 3 Pagodas
 
