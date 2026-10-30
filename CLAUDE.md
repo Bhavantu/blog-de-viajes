@@ -31,7 +31,7 @@ Estos tres archivos son la fuente de verdad. Si algo de este archivo choca con l
 - Ignorar la línea de la guía de estilo que pide revisar el ID de afiliado en cada enlace, porque de eso se encarga Stay22
 
 ## Reglas de trabajo
-- Nunca hacer commit ni push. Lo hace Santi
+- Hacer commit cuando corresponda (mensajes en español, cambios chicos y agrupados por tema, sin mezclar tareas). Nunca hacer push: lo hace Santi cuando se lo sugiera, y desde la terminal de VS Code, porque desde Claude Code no hay credenciales
 - Usar una rama por tarea solo para retraducciones y cambios de código. Los cambios en docs/ pueden ir directo en main
 - Si una decisión editorial cambia una regla, actualizar el archivo de docs/ correspondiente en el mismo cambio
 - Mostrar el diff antes de cambios grandes
