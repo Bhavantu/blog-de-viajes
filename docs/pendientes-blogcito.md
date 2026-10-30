@@ -26,7 +26,8 @@ Retraducir desde el original en español, no parchear. Mientras tanto, marcarlos
   - Estado (29/10): retraducida en el commit 28eb616, pendiente de revisión contra el original
 - [ ] what-to-do-christchurch-2-days (original que-hacer-christchurch-2-dias). Restaurantes inventados, The Austin Club descrito como club de Texas, párrafos en español, "Tomorrow" por mañana
   - Nota: el original en español ya no tiene el placeholder `TU_ID_AFILIADO` (se limpió en la rama limpiar-links-afiliados). La retraducción tiene que copiar las URLs ya limpias del original. La traducción actual todavía lo tiene en 5 links, no parchearla
-  - Estado (30/10): retraducida, pendiente de revisión contra el original. Las 7 URLs externas ya coinciden con las del original limpio (sin `TU_ID_AFILIADO`). Commiteado en `retraducciones-en`
+  - Estado (30/10): retraducida, pendiente de revisión contra el original. Las 7 URLs externas ya coinciden con las del original limpio (sin `TU_ID_AFILIADO`). Commiteado en `retraducciones-en`.
+  - Auditada el 30/10 contra el original de `main` (ya limpio): las 5 URLs de comercios y los bloques HTML coinciden, números y estructura iguales, sin Tomorrow ni restaurantes inventados, The Austin Club descrito como speakeasy. Queda marcarla con [x] al mergear la rama
 - [ ] roadtrip-new-zealand-west-coast-12-days (original ruta-nueva-zelanda-isla-sur-12-dias). Itinerario inventado al inicio, distancias cambiadas (165 km, 132 miles), Fat Eddie's como músico, link roto en ficha técnica
   - Estado (29/10): retraducida, sin commitear, pendiente de revisión contra el original. Chequeo preliminar: el `description` perdió "campervan"
 - [ ] arthurs-pass-kura-tawhiti-national-canterbury-park-new-zealand-south-island (original parque-nacional-arthur-pass-nueva-zelanda-isla-sur). "Here is the translation", cuatro párrafos inventados, bullets en español, "Haywood Forest"
