@@ -84,7 +84,7 @@ El polo gastronómico de la ciudad se encuentra cerca de la zona del centro, un 
 
 Christchurch tiene el apodo de "la ciudad jardín" y se debe a sus plazas verdes y al inmenso **Jardín Botánico**, pegado al río. Es el lugar perfecto para tirarse en el pasto a descansar, leer un libro, salir a correr los domingos o jugar al golf. En lo personal, era mi rincón de caminata post-trabajo, es literalmente tan grande que cada día recorría una zona diferente. Tiene un invernadero, un peque{o museo que cuenta sobre la flora de la isla y algo de historia sobre los jardines y además es sede de festivales de música gratuitos en verano.
 
-* **Experiencia por el Río Avon:** El paseo de [Punting on the Avon](https://www.getyourguide.com/christchurch-l1013/christchurch-punting-on-the-avon-t42475/?partner_id=TU_ID_AFILIADO) (recorrido en barca tradicional de madera con un guía vestido de época) un clásico que da una perspectiva diferente de la ciudad navegando por el Río que recorre gran parte de la misma. 
+* **Experiencia por el Río Avon:** El paseo de [Punting on the Avon](https://www.getyourguide.com/christchurch-l1013/christchurch-punting-on-the-avon-t42475/) (recorrido en barca tradicional de madera con un guía vestido de época) un clásico que da una perspectiva diferente de la ciudad navegando por el Río que recorre gran parte de la misma. 
 
 Si continuas caminando  junto al río Avon cruzando el icónico *Bridge of Remembrance* te lleva directamente a **The Strip** (en Oxford Terrace). Esta costanera peatonal concentra la mayor oferta gastronómica de la ciudad; acá es donde locales y turistas se encuentran a disfrutar de las terrazas y tomarse una copa en los bares top como *The Craft Embassy*, *Amazonita* o *The Terrace Tavern*.
 
@@ -156,13 +156,13 @@ Para ver la ciudad y el mar al mismo tiempo, el Christchurch Gondola es una tele
 
 A solo una hora y media de auto de la ciudad, cruzando los valles verdes de la península de Banks, se llega a Akaroa, un encantador e histórico pueblo costero de herencia francesa (vas a ver banderas francesas y nombres de calles como *Rue Jolie*).
 
-Este pueblo está enclavado en un puerto que originalmente fue el cráter de un enorme volcán extinto. Podés reservar un [avistamiento de los delfines de Héctor](https://www.getyourguide.com/akaroa-l1983/akaroa-2-hour-harbor-nature-cruise-t66952/?partner_id=TU_ID_AFILIADO) para navegar por el fiordo volcánico y ver de cerca a los delfines marinos más pequeños y raros del mundo (tienen la aleta dorsal redondeada como la oreja de Mickey Mouse). Verlos saltar al lado de la embarcación es una experiencia inolvidable.
+Este pueblo está enclavado en un puerto que originalmente fue el cráter de un enorme volcán extinto. Podés reservar un [avistamiento de los delfines de Héctor](https://www.getyourguide.com/akaroa-l1983/akaroa-2-hour-harbor-nature-cruise-t66952/) para navegar por el fiordo volcánico y ver de cerca a los delfines marinos más pequeños y raros del mundo (tienen la aleta dorsal redondeada como la oreja de Mickey Mouse). Verlos saltar al lado de la embarcación es una experiencia inolvidable.
 
 <div class="post-img-box img-completo img-centro"><img src="/img/diario/whatsapp-image-2026-05-25-at-13.21.08.webp" alt="Imagen de bitácora"><span class="img-caption">Akaroa</span></div>
 
 ## El tren TranzAlpine y el paso de montaña Arthur's Pass
 
-Si te gusta la alta montaña, esta excursión de un día es obligatoria. Podés tomar el famoso [tren TranzAlpine](https://www.getyourguide.com/christchurch-l1013/christchurch-tranzalpine-train-journey-t394220/?partner_id=TU_ID_AFILIADO), considerado uno de los viajes ferroviarios más escénicos del mundo. El tren sale temprano desde Christchurch, cruza las llanuras de Canterbury y se interna en las gargantas del río Waimakariri hasta llegar al corazón alpino en el pueblo de **Arthur's Pass**.
+Si te gusta la alta montaña, esta excursión de un día es obligatoria. Podés tomar el famoso [tren TranzAlpine](https://www.getyourguide.com/christchurch-l1013/christchurch-tranzalpine-train-journey-t394220/), considerado uno de los viajes ferroviarios más escénicos del mundo. El tren sale temprano desde Christchurch, cruza las llanuras de Canterbury y se interna en las gargantas del río Waimakariri hasta llegar al corazón alpino en el pueblo de **Arthur's Pass**.
 
 Si hacés base en el pueblo o vas en auto, no te pierdas la caminata a *Devil's Punchbowl*, una cascada espectacular de 131 metros rodeada de bosque nativo. Mantené los ojos abiertos: es muy probable que te cruces con el *Kea*, el único loro de montaña del mundo, conocido por ser sumamente curioso (¡y por intentar morder las gomas de los autos!).
 
@@ -177,8 +177,8 @@ Ubicado al lado del aeropuerto internacional, el **International Antarctic Centr
 Si venís llegando con la visa Working Holiday o estás planeando tu salida de la Isla Sur hacia el extranjero, quedarte en el centro de la ciudad te va a ahorrar muchísimo dinero en transporte diario:
 
 * **Para mochileros / Working Holiday:** Te recomiendo hostales de primera línea en el centro como **Urbanz** (con áreas comunes excelentes) o el original **Jailhouse Accommodation** (una antigua prisión histórica remodelada y súper acogedora).
-* **Las cápsulas de LyLo:** Si querés algo moderno, funcional e hiper-cómodo, el [LyLo Christchurch](https://www.booking.com/hotel/nz/jucy-snooze-christchurch.html?aid=TU_ID_AFILIADO) es una de las opciones más elegidas en el país por sus habitaciones con cabinas tipo cápsula privada que te permiten dormir con total privacidad a un costo súper mochilero.
-* **Para viajeros independientes:** Si preferís más privacidad sin perder la ubicación estratégica, podés buscar [hoteles céntricos en Christchurch a través de Booking](https://www.booking.com/searchresults.es.html?city=-1508201&aid=TU_ID_AFILIADO) para estar a pasos de los tranvías y moverte enteramente a pie.
+* **Las cápsulas de LyLo:** Si querés algo moderno, funcional e hiper-cómodo, el [LyLo Christchurch](https://www.booking.com/hotel/nz/jucy-snooze-christchurch.html) es una de las opciones más elegidas en el país por sus habitaciones con cabinas tipo cápsula privada que te permiten dormir con total privacidad a un costo súper mochilero.
+* **Para viajeros independientes:** Si preferís más privacidad sin perder la ubicación estratégica, podés buscar [hoteles céntricos en Christchurch a través de Booking](https://www.booking.com/searchresults.es.html?city=-1508201) para estar a pasos de los tranvías y moverte enteramente a pie.
 
 ### Transporte y conectividad
 
