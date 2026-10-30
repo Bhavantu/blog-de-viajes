@@ -2,7 +2,7 @@
 layout: ../../../layouts/BlogPostLayout.astro
 title: "The history of Coromandel, a beautiful peninsula on the North Island: from
   extraction to conservation"
-date: 2026-05-29T23:41:00.000Z
+date: 2026-05-30T11:41:00.000+12:00
 tag: contexto y cultura
 pais: Nueva Zelanda
 description: >-

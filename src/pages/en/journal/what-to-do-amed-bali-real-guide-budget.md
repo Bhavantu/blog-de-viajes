@@ -2,7 +2,7 @@
 destacado: true
 layout: ../../../layouts/BlogPostLayout.astro
 title: 'What to Do in Amed, Bali: A Real Guide to Slow Travel and Budget 2026'
-date: 2026-07-21T05:43:00.000Z
+date: 2026-07-21T13:43:00.000+08:00
 tag: guia de viaje
 pais: Indonesia
 description: >-

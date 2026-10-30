@@ -9,7 +9,7 @@ description: "Qué hacer en Christchurch en 2 días: guía local con itinerario 
   pie, naturaleza, cultura y los mejores rincones nocturnos. Descubrí la ruta."
 main_image: /img/diario/ciudad-de-chrischurch.webp
 ---
-Christchurch es una ciudad con vibra local, cafés de especialidad, rincones culturales, naturaleza y una arquitectura moderna. Sin duda, es una de mis ciudades favoritas de Nueva Zelanda. Si leíste mi artículo sobre por qué elegir Christchurch para arrancar tu Working Holiday, ya sabés que esta ciudad tiene una energía de resiliencia y comunidad única basada en su historia reciente. No es solo una ciudad gris de paso. 
+Christchurch es una ciudad con vibra local, cafés de especialidad, rincones culturales, naturaleza y una arquitectura moderna. Sin duda, es una de mis ciudades favoritas de Nueva Zelanda. Si leíste [mi artículo sobre por qué elegir Christchurch para arrancar tu Working Holiday](/diario/vivir-con-working-holiday-visa-christchurch/), ya sabés que esta ciudad tiene una energía de resiliencia y comunidad única basada en su historia reciente. No es solo una ciudad gris de paso. 
 
 En este artículo te comparto todo lo interesante que hay para hacer en Christchurch después de haber vivido 6 meses ahí con mi Working Holiday Visa. Estructurado en un recorrido armado de dos días para que no te pierdas de nada con toda la información para que puedas armar tu propio recorrido si así lo deseas. 
 
