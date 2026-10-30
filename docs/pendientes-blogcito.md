@@ -2,19 +2,20 @@
 
 Lista de problemas detectados en la revisión del sitio y del repo (octubre 2026). Ir tachando a medida que se resuelven y agregar los nuevos al final de cada sección.
 
-## Para retomar (estado al 30/10/2026)
+## Para retomar (estado al 31/10/2026)
 
-Todo está commiteado en `main`, sin push:
-- `limpiar-links-afiliados` y `retraducciones-en` ya están mergeadas (merge d4b9d1b). El build corre bien (73 páginas).
-- Las 7 retraducciones de Prioridad 1 y la de Da Nang están auditadas contra el original ya corregido, y en la de Da Nang se sacó también `utm_source=gemini` del inglés.
+Todo está commiteado en `main`; falta el push (lo hace Santi desde la terminal de VS Code). Las ramas `limpiar-links-afiliados`, `retraducciones-en`, `retraducciones-en-2`, `-3`, `-4` y `-5` ya están mergeadas y se pueden borrar.
 
-Copia de seguridad del estado previo a esos commits: tag `backup-antes-de-commits-2026-10-30` y carpeta `backup-stellar-series-2026-10-30/` (fuera del repo, con un .tar.gz y un .patch).
+Hecho: Prioridades 1, 2, 3 y 4 completas (retraducciones auditadas, errores de los originales en español, voseo y links internos al slug actual). El build corre bien (73 páginas).
 
-Pendiente:
-1. **Hacer push de `main`** desde la terminal de VS Code (lo hace Santi): hasta que se haga, nada de esto está en el sitio ni respaldado en GitHub. Después se pueden borrar las ramas ya mergeadas (`limpiar-links-afiliados`, `retraducciones-en`).
-2. Prioridad 2 y 3: retraducciones con errores menores y errores en originales en español.
-3. Consultar con Lore los veredictos de alojamiento (working holiday Christchurch y 4 hoteles de Ubud) y decidir si se limpian los links de trip.com del Monkey Forest.
-4. Limpiar el resto del relevamiento de afiliados (Prioridad 5) solo con OK de Santi sobre cada grupo.
+Pendiente, en este orden:
+1. **Link de Airalo (decisión de Santi).** El programa de afiliados de Airalo se cobra por Impact, pero el sitio quedó con `https://airalo.tpx.lu/8J5sLaD4` (Travelpayouts) en el layout y en 4 artículos. Candidato: `https://airalo.pxf.io/DWa66G` (Impact). Santi tiene que confirmar en su panel de Impact (partners.airalo.com) cuál es el link de Blogcito. Después: ponerlo en `BlogPostLayout.astro` y en viajar-a-bali, travel-to-bali y nómada digital (ES y EN), sacar `tpx.lu`, y actualizar CLAUDE.md.
+2. Hacer push de `main`.
+3. Consultar con Lore los veredictos de alojamiento que faltan (working holiday Christchurch y 4 hoteles de Ubud). D'tepi y Anugrah ya están marcados.
+4. Afiliados de Prioridad 5, solo con OK de Santi por grupo: `partner_id=ZM6TN20` de GetYourGuide (viajar-a-bali-opinion y is-bali-worth-visiting), `aid=` de Booking de distintos IDs y los links de trip.com del Monkey Forest.
+5. Prioridad 5 (técnico y SEO) y Prioridad 6 (contenido y estrategia).
+
+Copia de seguridad del estado previo a los commits del 30/10: tag `backup-antes-de-commits-2026-10-30` y carpeta `backup-stellar-series-2026-10-30/` (fuera del repo, con un .tar.gz y un .patch).
 
 ## Prioridad 1. Traducciones al inglés con errores graves
 
