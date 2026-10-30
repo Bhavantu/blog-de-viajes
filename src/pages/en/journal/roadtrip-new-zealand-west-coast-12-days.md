@@ -52,7 +52,7 @@ We followed the recommendation of the local musician from Fat Eddie's and veered
 ### 📍 SH60 route index (Nelson to Collingwood)
 
 * **Stretch 1 (Nelson to Motueka):** 50 km of flat road through fruit orchards.
-* **Stretch 2 (Motueka to Kaiteriteri):** 13 km coastal detour to the goldenest beach in the region. Highly recommended.
+* **Stretch 2 (Motueka to Kaiteriteri):** 13 km coastal detour to the most golden-sand beach in the region. Highly recommended.
 * **Stretch 3 (Motueka to Takaka):** 48 km crossing the Takaka Hill pass (the SH60 reaches 791 meters in height).
 * **Stretch 4 (Takaka to Collingwood):** 28 km of relaxed driving through the bay's valley, between green hills and deserted beaches.
 
