@@ -33,12 +33,12 @@ Playa Mỹ Khê (Zona costera)
 <div>
 <div style="display: flex; align-items: center; gap: 0.4rem; flex-wrap: wrap;">
 <span style="font-size: 0.85rem; color: #d97706;">⭐</span>
-<a href="https://www.booking.com/hotel/vn/phuc-thanh-minh-danang.html?utm_source=gemini" target="_blank" rel="noopener" style="color: #222; font-size: 0.95rem; font-weight: bold; text-decoration: none !important; box-shadow: none !important; background-image: none !important;">Phuc Thanh Luxury Hotel</a>
+<a href="https://www.booking.com/hotel/vn/phuc-thanh-minh-danang.html" target="_blank" rel="noopener" style="color: #222; font-size: 0.95rem; font-weight: bold; text-decoration: none !important; box-shadow: none !important; background-image: none !important;">Phuc Thanh Luxury Hotel</a>
 <span style="background: #e6f4f1; color: #006d77; font-size: 0.7rem; font-weight: 700; padding: 0.15rem 0.5rem; border-radius: 4px;">Mejor ubicación</span>
 </div>
 <p style="margin: 0.25rem 0 0 0; font-size: 0.85rem; color: #666;">A pasos de la playa y con excelente relación calidad/precio.</p>
 </div>
-<a href="https://www.booking.com/hotel/vn/phuc-thanh-minh-danang.html?utm_source=gemini" target="_blank" rel="noopener" style="color: #006d77 !important; font-size: 0.8rem; font-weight: 700; text-decoration: none !important; padding: 0.4rem 0.8rem; border-radius: 6px; border: 1px solid #006d77; white-space: nowrap; margin-left: auto; box-shadow: none !important; background-image: none !important; display: inline-block;">
+<a href="https://www.booking.com/hotel/vn/phuc-thanh-minh-danang.html" target="_blank" rel="noopener" style="color: #006d77 !important; font-size: 0.8rem; font-weight: 700; text-decoration: none !important; padding: 0.4rem 0.8rem; border-radius: 6px; border: 1px solid #006d77; white-space: nowrap; margin-left: auto; box-shadow: none !important; background-image: none !important; display: inline-block;">
 Ver alojamiento &rarr;
 </a>
 </div>
@@ -47,12 +47,12 @@ Ver alojamiento &rarr;
 <div>
 <div style="display: flex; align-items: center; gap: 0.4rem; flex-wrap: wrap;">
 <span style="font-size: 0.85rem; color: #d97706;">⭐⭐</span>
-<a href="https://www.booking.com/hotel/vn/nomadstay-journey.html?utm_source=gemini" target="_blank" rel="noopener" style="color: #222; font-size: 0.95rem; font-weight: bold; text-decoration: none !important; box-shadow: none !important; background-image: none !important;">NomadStay Journey</a>
+<a href="https://www.booking.com/hotel/vn/nomadstay-journey.html" target="_blank" rel="noopener" style="color: #222; font-size: 0.95rem; font-weight: bold; text-decoration: none !important; box-shadow: none !important; background-image: none !important;">NomadStay Journey</a>
 <span style="background: #fef3c7; color: #92400e; font-size: 0.7rem; font-weight: 700; padding: 0.15rem 0.5rem; border-radius: 4px;">Acogedor</span>
 </div>
 <p style="margin: 0.25rem 0 0 0; font-size: 0.85rem; color: #666;">Habitación pequeña, muy bien decorada y con ambiente cálido.</p>
 </div>
-<a href="https://www.booking.com/hotel/vn/nomadstay-journey.html?utm_source=gemini" target="_blank" rel="noopener" style="color: #006d77 !important; font-size: 0.8rem; font-weight: 700; text-decoration: none !important; padding: 0.4rem 0.8rem; border-radius: 6px; border: 1px solid #006d77; white-space: nowrap; margin-left: auto; box-shadow: none !important; background-image: none !important; display: inline-block;">
+<a href="https://www.booking.com/hotel/vn/nomadstay-journey.html" target="_blank" rel="noopener" style="color: #006d77 !important; font-size: 0.8rem; font-weight: 700; text-decoration: none !important; padding: 0.4rem 0.8rem; border-radius: 6px; border: 1px solid #006d77; white-space: nowrap; margin-left: auto; box-shadow: none !important; background-image: none !important; display: inline-block;">
 Ver alojamiento &rarr;
 </a>
 </div>
@@ -61,12 +61,12 @@ Ver alojamiento &rarr;
 <div>
 <div style="display: flex; align-items: center; gap: 0.4rem; flex-wrap: wrap;">
 <span style="font-size: 0.85rem; color: #d97706;">⭐⭐⭐</span>
-<a href="https://www.booking.com/hotel/vn/balcony.html?utm_source=gemini" target="_blank" rel="noopener" style="color: #222; font-size: 0.95rem; font-weight: bold; text-decoration: none !important; box-shadow: none !important; background-image: none !important;">Balcona Hotel Da Nang</a>
+<a href="https://www.booking.com/hotel/vn/balcony.html" target="_blank" rel="noopener" style="color: #222; font-size: 0.95rem; font-weight: bold; text-decoration: none !important; box-shadow: none !important; background-image: none !important;">Balcona Hotel Da Nang</a>
 <span style="background: #e0f2fe; color: #075985; font-size: 0.7rem; font-weight: 700; padding: 0.15rem 0.5rem; border-radius: 4px;">Frente al mar</span>
 </div>
 <p style="margin: 0.25rem 0 0 0; font-size: 0.85rem; color: #666;">Habitaciones con balcón hacia el océano y desayuno buffet incluido.</p>
 </div>
-<a href="https://www.booking.com/hotel/vn/balcony.html?utm_source=gemini" target="_blank" rel="noopener" style="color: #006d77 !important; font-size: 0.8rem; font-weight: 700; text-decoration: none !important; padding: 0.4rem 0.8rem; border-radius: 6px; border: 1px solid #006d77; white-space: nowrap; margin-left: auto; box-shadow: none !important; background-image: none !important; display: inline-block;">
+<a href="https://www.booking.com/hotel/vn/balcony.html" target="_blank" rel="noopener" style="color: #006d77 !important; font-size: 0.8rem; font-weight: 700; text-decoration: none !important; padding: 0.4rem 0.8rem; border-radius: 6px; border: 1px solid #006d77; white-space: nowrap; margin-left: auto; box-shadow: none !important; background-image: none !important; display: inline-block;">
 Ver alojamiento &rarr;
 </a>
 </div>
@@ -83,12 +83,12 @@ Zona Céntrica (Río Hàn / Hải Châu)
 <div>
 <div style="display: flex; align-items: center; gap: 0.4rem; flex-wrap: wrap;">
 <span style="font-size: 0.85rem; color: #d97706;">⭐</span>
-<a href="https://www.booking.com/hotel/vn/rest-amp-apartment.html?utm_source=gemini" target="_blank" rel="noopener" style="color: #222; font-size: 0.95rem; font-weight: bold; text-decoration: none !important; box-shadow: none !important; background-image: none !important;">Rest &amp; Apartment</a>
+<a href="https://www.booking.com/hotel/vn/rest-amp-apartment.html" target="_blank" rel="noopener" style="color: #222; font-size: 0.95rem; font-weight: bold; text-decoration: none !important; box-shadow: none !important; background-image: none !important;">Rest &amp; Apartment</a>
 <span style="background: #ede9fe; color: #5b21b6; font-size: 0.7rem; font-weight: 700; padding: 0.15rem 0.5rem; border-radius: 4px;">Piscina en la terraza</span>
 </div>
 <p style="margin: 0.25rem 0 0 0; font-size: 0.85rem; color: #666;">Apartamentos cómodos en pleno centro, ideales para estadías más largas.</p>
 </div>
-<a href="https://www.booking.com/hotel/vn/rest-amp-apartment.html?utm_source=gemini" target="_blank" rel="noopener" style="color: #006d77 !important; font-size: 0.8rem; font-weight: 700; text-decoration: none !important; padding: 0.4rem 0.8rem; border-radius: 6px; border: 1px solid #006d77; white-space: nowrap; margin-left: auto; box-shadow: none !important; background-image: none !important; display: inline-block;">
+<a href="https://www.booking.com/hotel/vn/rest-amp-apartment.html" target="_blank" rel="noopener" style="color: #006d77 !important; font-size: 0.8rem; font-weight: 700; text-decoration: none !important; padding: 0.4rem 0.8rem; border-radius: 6px; border: 1px solid #006d77; white-space: nowrap; margin-left: auto; box-shadow: none !important; background-image: none !important; display: inline-block;">
 Ver alojamiento &rarr;
 </a>
 </div>
@@ -218,32 +218,32 @@ Para definir tu base, la ciudad se divide principalmente entre la zona costera y
 
 * ⭐ **Económicas (1-2 estrellas):**
 
-  * [Phuc Thanh Luxury Hotel](https://www.booking.com/hotel/vn/phuc-thanh-minh-danang.html?utm_source=gemini) — Opción súper económica, ubicada un poco más al norte pero muy cerca de la playa.
-  * [Trissy House A4](https://www.booking.com/hotel/vn/trissy-house-a4.html?utm_source=gemini) — Hospedaje sencillo, limpio y a pasos de la zona turística de Mỹ Khê Beach; cuenta con cocina.
+  * [Phuc Thanh Luxury Hotel](https://www.booking.com/hotel/vn/phuc-thanh-minh-danang.html) — Opción súper económica, ubicada un poco más al norte pero muy cerca de la playa.
+  * [Trissy House A4](https://www.booking.com/hotel/vn/trissy-house-a4.html) — Hospedaje sencillo, limpio y a pasos de la zona turística de Mỹ Khê Beach; cuenta con cocina.
 * ⭐⭐⭐ **Gama Media / Calidad-Precio (3 estrellas & Departamentos):**
 
-  * [NomadStay Journey](https://www.booking.com/hotel/vn/nomadstay-journey.html?utm_source=gemini) — Habitación estudio, pequeña pero sumamente acogedora (*cozy*), ideal para descansar cómodamente cerca del mar.
-  * [Halina Hotel & Apartment](https://www.booking.com/hotel/vn/halina-and-apartment.html?utm_source=gemini) — Excelente opción a pasos del mar con piscina y departamentos equipados.
-  * [Minh Boutique](https://www.booking.com/hotel/vn/minh-boutique.html?utm_source=gemini) — Estudios completos en un entorno rodeado de vegetación, muy tranquilo y relajado.
-  * [Celestine Homestay](https://www.booking.com/hotel/vn/celestine-homestay.html?utm_source=gemini) — Espacioso, tranquilo y súper cómodo para trabajar o descansar.
-  * [Lucky Apartment and Cafe](https://www.booking.com/hotel/vn/lucky-apartment-and-cafe-ngu-hanh-son.html?utm_source=gemini) — Estudio completo, ideal si preferís contar con cocina propia durante estadías largas.
+  * [NomadStay Journey](https://www.booking.com/hotel/vn/nomadstay-journey.html) — Habitación estudio, pequeña pero sumamente acogedora (*cozy*), ideal para descansar cómodamente cerca del mar.
+  * [Halina Hotel & Apartment](https://www.booking.com/hotel/vn/halina-and-apartment.html) — Excelente opción a pasos del mar con piscina y departamentos equipados.
+  * [Minh Boutique](https://www.booking.com/hotel/vn/minh-boutique.html) — Estudios completos en un entorno rodeado de vegetación, muy tranquilo y relajado.
+  * [Celestine Homestay](https://www.booking.com/hotel/vn/celestine-homestay.html) — Espacioso, tranquilo y súper cómodo para trabajar o descansar.
+  * [Lucky Apartment and Cafe](https://www.booking.com/hotel/vn/lucky-apartment-and-cafe-ngu-hanh-son.html) — Estudio completo, ideal si preferís contar con cocina propia durante estadías largas.
 * ⭐⭐⭐⭐⭐ **Confort & Lujo Frente al Mar (4-5 estrellas):**
 
-  * [Balcona Hotel Da Nang](https://www.booking.com/hotel/vn/balcony.html?utm_source=gemini) — Ubicado frente al mar en Mỹ Khê, con balcones panorámicos, piscina, excelente desayuno buffet y política de cancelación gratuita.
-  * [HAIAN Beach Hotel & Spa](https://www.booking.com/hotel/vn/haian-beach-amp-spa.html?utm_source=gemini) — Hotel 4 estrellas superior frente al mar, con una espectacular piscina de borde infinito en la azotea.
+  * [Balcona Hotel Da Nang](https://www.booking.com/hotel/vn/balcony.html) — Ubicado frente al mar en Mỹ Khê, con balcones panorámicos, piscina, excelente desayuno buffet y política de cancelación gratuita.
+  * [HAIAN Beach Hotel & Spa](https://www.booking.com/hotel/vn/haian-beach-amp-spa.html) — Hotel 4 estrellas superior frente al mar, con una espectacular piscina de borde infinito en la azotea.
 
 #### Opciones Recomendadas en Hải Châu (Zona Centro y Río Hàn):
 
 * ⭐ **Económica (1-2 estrellas):**
 
-  * [Da Nang Petro Hotel](https://www.booking.com/hotel/vn/da-nang-petro.html?utm_source=gemini) — Ubicación súper céntrica para recorrer la zona urbana y los mercados a pie.
+  * [Da Nang Petro Hotel](https://www.booking.com/hotel/vn/da-nang-petro.html) — Ubicación súper céntrica para recorrer la zona urbana y los mercados a pie.
 * ⭐⭐⭐ **Gama Media / Confort (3 estrellas):**
 
-  * [Rest & Apartment](https://www.booking.com/hotel/vn/rest-amp-apartment.html?utm_source=gemini) — Excelente confort, varias tipologías de habitación y piscina relajante en el último piso.
-  * [The Riverside Nest & Apartment](https://www.booking.com/hotel/vn/the-riverside-nest-amp-apartment.html?utm_source=gemini) — Entorno local, tranquilo y con hermosas vistas directas al río.
+  * [Rest & Apartment](https://www.booking.com/hotel/vn/rest-amp-apartment.html) — Excelente confort, varias tipologías de habitación y piscina relajante en el último piso.
+  * [The Riverside Nest & Apartment](https://www.booking.com/hotel/vn/the-riverside-nest-amp-apartment.html) — Entorno local, tranquilo y con hermosas vistas directas al río.
 * ⭐⭐⭐⭐⭐ **Lujo Urbano (5 estrellas):**
 
-  * [Novotel Danang Premier Han River](https://www.booking.com/hotel/vn/novotel-danang-premier-han-river.html?utm_source=gemini) — Un clásico de 5 estrellas con vistas icónicas al río Han, bar panorámico en el piso más alto y servicio de primer nivel.
+  * [Novotel Danang Premier Han River](https://www.booking.com/hotel/vn/novotel-danang-premier-han-river.html) — Un clásico de 5 estrellas con vistas icónicas al río Han, bar panorámico en el piso más alto y servicio de primer nivel.
 
 > 🧡 *Reservando a través de nuestros enlaces nos ayudás a seguir creando contenido gratuito e independiente para tu viaje.*
 
