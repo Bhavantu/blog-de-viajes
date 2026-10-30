@@ -1,7 +1,7 @@
 ---
 destacado: true
 layout: ../../layouts/BlogPostLayout.astro
-title: "El Alma de Bali: cultura, tradiciones y la secretos sobre la Isla de los
+title: "El Alma de Bali: cultura, tradiciones y los secretos sobre la Isla de los
   Dioses"
 date: 2026-07-23T13:31:00.000+08:00
 tag: contexto y cultura
