@@ -70,7 +70,7 @@ El polo gastronómico de la ciudad se encuentra cerca de la zona del centro, un 
 
 * **Midnight Shanghai:** Uno de mis favoritos. Es un restaurante y *cocktail bar* de *dim sum* y cocina asiática moderna con salas de karaoke en el segundo piso.
 
-  <div class="post-img-box img-pequeño img-izquierda"><img src="/img/diario/mishnight-shanghai.webp" alt="Imagen de bitácora"><span class="img-caption">Salir a comer, Karaoke Privado en Chrischruch Central, Nueva Zelanda</span></div>
+  <div class="post-img-box img-pequeño img-izquierda"><img src="/img/diario/mishnight-shanghai.webp" alt="Imagen de bitácora"><span class="img-caption">Salir a comer, Karaoke Privado en Christchurch Central, Nueva Zelanda</span></div>
 * **Kaiser Brew Garden:** Un jardín cervecero ubicado en el piso superior con buenas pizzas a la piedra y cervezas tiradas bien frías.
 * **El Fogón:** Para quienes aman el asado, este puesto ofrece cortes de carne al estilo argentino tradicional y otros platos de la región.
 
