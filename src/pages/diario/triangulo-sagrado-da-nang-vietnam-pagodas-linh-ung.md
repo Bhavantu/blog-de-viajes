@@ -56,9 +56,9 @@ En la década de 2000, impulsada por la comunidad y liderada por el monje Thich 
 
 A nivel meteorológico, los registros oficiales muestran un patrón real. Tras la inauguración de la estatua de Lady Buddha en 2010, varios tifones devastadores que venían en ruta directa hacia Da Nang, como Megi en 2010 o el histórico Haiyan en 2013, cambiaron drásticamente de trayectoria a última hora o perdieron gran parte de su fuerza justo antes de tocar tierra.
 
-La explicación científica atribuye estos giros a variables atmosféricas habituales, corrientes marinas y al relieve geográfico de la cordillera Annamita. En contraste, la explicación cultural ve en estos eventos la respuesta directa a las oraciones en las tres pagodas Linh Ung (respuestas milagrosas).
+Para la meteorología, estos giros tienen explicación en las corrientes marinas, el relieve de la cordillera Annamita y el comportamiento habitual de los tifones. Para muchas personas de Da Nang, son la respuesta a lo que se reza y se medita en las tres pagodas Linh Ung, y para quienes practican ahí, la concentración de tanta gente junta tiene un efecto real.
 
-Al margen de qué postura se decida tomar, esta confluencia entre geografía física, eventos meteorológicos reales y práctica espiritual local es lo que mantiene viva la mística del lugar. Nosotros no sabemos cuál de las dos miradas explica mejor lo que pasó, y no saberlo no significa que alguna sea falsa. Por eso dejamos la pregunta abierta: ¿pueden la explicación meteorológica y la práctica de quienes rezan y meditan en las tres pagodas ser dos maneras distintas de mirar los mismos hechos?
+Nosotros no tenemos forma de saber cuál de las dos miradas está más cerca de lo que pasó, y que algo no esté probado no lo vuelve falso. Por eso preferimos dejarte la pregunta a vos. ¿Qué es lo que desvía los tifones de Da Nang?
 
 ## Historia, Cultura y Guía Práctica de las 3 Pagodas
 
