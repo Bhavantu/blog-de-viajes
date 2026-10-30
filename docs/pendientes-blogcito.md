@@ -13,7 +13,7 @@ Copia de seguridad del estado previo a esos commits: tag `backup-antes-de-commit
 
 Pendiente:
 1. Mergear `limpiar-links-afiliados` y `retraducciones-en` (la retraducción de what-to-do-christchurch-2-days ya está commiteada con las URLs limpias; esa rama sale de main y no incluye el commit de limpieza de links).
-2. Decidir qué hacer con what-to-do-da-nang-hoi-an-3-days-itinerary, que sigue siendo la traducción vieja (Prioridad 2).
+2. Mergear también las correcciones y la retraducción de Da Nang en 3 días, ya commiteadas en `retraducciones-en` (el original se corrigió y el artículo en inglés se retradujo desde cero, 30/10).
 3. Auditar contra el original las 7 retraducciones de Prioridad 1 (todas quedan abiertas hasta entonces).
 4. Limpiar el resto del relevamiento de afiliados (Prioridad 5) solo con OK de Santi sobre cada grupo.
 
@@ -45,9 +45,9 @@ Retraducir desde el original en español, no parchear. Mientras tanto, marcarlos
 - [ ] new-zealand-route-north-island. Traducción literal en partes
 - [ ] digital-nomad-da-nang-cost-of-living. Números del presupuesto distintos al original
 - [ ] travel-to-bali. Links a deploy-preview-95 en la tabla de zonas
-- [ ] what-to-do-da-nang-hoi-an-3-days-itinerary (original que-hacer-da-nang-vietnam-itinerario-3-dias). Sigue siendo la traducción vieja, solo se le sacó `utm_source=gemini` de los links. `tag` en inglés ("travel guide"; el listado por categoría funciona y la etiqueta se ve bien en las tarjetas, verificado con captura el 30/10; dejarlo), textos traducidos dentro de bloques HTML que no son captions (etiquetas y descripciones de hoteles), ⚡ agregado en un span vacío del original, `alt` pasado a "Journal photo", link repetido del taller de farolillos una sola vez, dos "100%" perdidos. Decidir si se retraduce o se corrige
+- [ ] what-to-do-da-nang-hoi-an-3-days-itinerary (original que-hacer-da-nang-vietnam-itinerario-3-dias). Estado (30/10): retraducida desde el original ya corregido, commiteada en `retraducciones-en`, pendiente de revisión contra el original. Ya no tiene el dato inventado del Mercado Con (cerdo y camarón), el `tag` vuelve a `guia de viaje` (como las otras 9 guías) y los bloques HTML, `alt` y URLs son los del original. Decisión sobre las tarjetas de hoteles: se tradujo el texto visible (etiquetas y descripciones)
 - [ ] Etiquetas (`tag`) y `pais` mezclados entre español e inglés en posts EN. **No unificar ni tocar la lógica de filtrado:** las páginas de categoría y de destino aceptan ambos idiomas y el listado por país y categoría funciona bien (verificado el 30/10). Solo corregir casos puntuales, con captura de cómo se ve en pantalla:
-  - Etiqueta en crudo: si el valor no tiene clave en `ui.js` (por ejemplo `travel guide`, `local life`, `context & culture`) el texto no pasa por la traducción. En las tarjetas de categoría **no se nota**: la captura del 30/10 de /en/categories/travel-guide/ muestra "TRAVEL GUIDE" igual que las demás, en mayúsculas y con el mismo estilo. Sin verificar todavía: el color de la etiqueta en el buscador (el CSS solo tiene reglas para los valores en español) y la etiqueta del encabezado dentro del post
+  - Etiqueta en crudo: si el valor no tiene clave en `ui.js` (por ejemplo `local life`, `context & culture`) el texto no pasa por la traducción. En las tarjetas de categoría **no se nota**: la captura del 30/10 de /en/categories/travel-guide/ muestra "TRAVEL GUIDE" igual que las demás, en mayúsculas y con el mismo estilo. Sin verificar todavía: el color de la etiqueta en el buscador (el CSS solo tiene reglas para los valores en español) y la etiqueta del encabezado dentro del post
   - `pais: New Zealand` en what-is-aotearoa-maori-culture-new-zealand: `PostsRecomendados` compara `pais` con === estricto y el resto de los posts EN dice `Nueva Zelanda`, así que ese post no recomienda ni es recomendado. El de christchurch-working-holiday-jobs-costs ya quedó bien en `retraducciones-en`
   - `tag` sin categoría: `working holiday` y `bitacora` (ver Prioridad 5)
 
@@ -63,6 +63,7 @@ Retraducir desde el original en español, no parchear. Mientras tanto, marcarlos
 - [ ] triangulo-sagrado-da-nang-vietnam-pagodas-linh-ung. Párrafo de física cuántica, voseo mezclado con tú en etiqueta
 - [ ] ruta-nueva-zelanda-isla-sur-12-dias. Residuo del modelo `\[cite: 1]` junto a "Fat Eddie's"
 - [ ] que-hacer-christchurch-2-dias. Caption con "Chrischruch" mal escrito
+- [x] que-hacer-da-nang-vietnam-itinerario-3-dias. Corregido el 30/10 en `retraducciones-en`: tilde de "Montañas de Mármol", "privilegeda", "PROXIMAMENTE", "farolitos" y "farolillos" mezclados, lista de Ba Na Hills, formato de horas, caption vacío del Dragon Bridge y el horario del espectáculo (viernes, sábado y domingo a las 21:00, hasta las 21:30; llegar 15 minutos antes). Sigue abierto: el link del taller de farolillos aparece dos veces en el mismo ítem (se dejó por la regla de no tocar links a comercios), el span vacío del icono de "Te ahorramos la búsqueda" (nunca tuvo emoji) y las temporadas de clima, sin confirmar [VERIFICAR]
 - [ ] Voseo mezclado con tú en varios artículos
 
 ## Prioridad 4. Links internos rotos
