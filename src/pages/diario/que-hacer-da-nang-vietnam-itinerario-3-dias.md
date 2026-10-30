@@ -108,7 +108,7 @@ El clima de Da Nang es cálido durante todo el año, pero tiene dos estaciones b
 * **Temporada seca (Enero a Agosto):** Los días suelen ser soleados y calurosos, las aguas de My Khe se ven transparentes y el clima en Ba Na Hills está más despejado. Según las guías de turismo, la mejor ventana va de febrero a mayo, con clima templado y estable. Entre junio y agosto hace más calor y se da la temporada alta de turismo local.
 * **Temporada de lluvias (Septiembre a Diciembre):** Se caracteriza por precipitaciones frecuentes y mar revuelto, siendo octubre y noviembre los meses con mayor probabilidad de lluvias intensas o tifones en la costa central.
 
-Nosotros nos quedamos en septiembre y llovió casi todos los días, a veces durante jornadas completas.
+Nosotros estuvimos en agosto y septiembre. Agosto tuvo poca lluvia y muy buenos días de playa; en septiembre, en cambio, llovió muchísimo, casi todos los días y a veces durante jornadas completas.
 
 Ojo: estas fechas son orientativas y varían según la fuente. Los meses de transición (agosto-septiembre y diciembre-enero) cambian de un año a otro, y con el clima cada vez más impredecible las temporadas a veces se adelantan, se atrasan o duran más o menos. Incluso en plena temporada de lluvias no llueve todos los días, así que conviene mirar el pronóstico antes de salir.
 
