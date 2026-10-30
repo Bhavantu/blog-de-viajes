@@ -74,7 +74,7 @@ Our goal was really to set up a base and sort out our tasks, work and upcoming t
 * **Don't settle for the first one you see** (unless it's spectacular). We waited longer than planned and on the 4th day we found a brand-new apartment 6 blocks from the beach for about USD 380 a month, which we loved.
 * **Connectivity is key:** Internet is essential for getting from one apartment to another during visits, enjoying the beach, communicating with the sellers and even translating the menu at local restaurants. And I'm not saying this only because the referral program helps support the blog, but also because we missed the seller (they send an approximate location) and it was a real catastrophe, completely unnecessary.
 
-[Click here to see the costs of the Airalo eSIM for Vietnam, and help us keep writing this blog.](https://airalo.tpx.lu/8J5sLaD4?trs=543244&journey_id=hQDHE4wKI6C0e9jzSOJIG&trace_id=Zze69c17847a274d7a86df7ea-743383&promo_kind=tp_short_with_tooltip_widget&page_url=https%3A%2F%2Fblogcito.com%2Fdiario%2Fque-hacer-ubud-bali-que-ver-zonas-consejos-guia%2F&product_type=tp_manual&install_type=partner&is_tooltip=true&tooltip_subtype=main_page&promo_subkind=tooltip_desktop_general)
+[Click here to see the costs of the Airalo eSIM for Vietnam, and help us keep writing this blog.](https://airalo.tpx.lu/8J5sLaD4)
 
 * **Step 5 (Renting):** Once we decided on the apartment, the process was simple. First we cleared up all our questions about the cost of water, maintenance, cleaning, etc. We left a deposit in cash (Wise is also possible) and the next day they gave us the contract (which we read carefully), we submitted our documents and signed for two months. We paid in cash, and in our case the move-in date was that same day.
 
@@ -165,7 +165,7 @@ We hope it helps you. All the information is based on our research and real expe
 <ul>
   <li><strong>Mobile connectivity (internet across Vietnam):</strong>
     <ul>
-      <li><a href="https://www.airalo.com/es-ES?irclickid=0PmSDgyPKxyZRBxRls2n7RALUkrxNEQmLXH:zk0&amp;irgwc=1&amp;afsrc=1&amp;utm_source=impact&amp;utm_medium=affiliate&amp;utm_campaign=Travelspark+Limited&amp;utm_content=&amp;utm_term=" target="_blank" rel="noopener">Buy a Vietnam eSIM on Airalo</a>: You activate it before leaving and have a connection as soon as you land, to order your Grab or find your way without depending on the airport WiFi.</li>
+      <li><a href="https://airalo.tpx.lu/8J5sLaD4" target="_blank" rel="noopener">Buy a Vietnam eSIM on Airalo</a>: You activate it before leaving and have a connection as soon as you land, to order your Grab or find your way without depending on the airport WiFi.</li>
     </ul>
   </li>
   <li style="margin-top: 10px;"><strong>First places to stay in An Thuong / Mỹ An (beach and nomad area):</strong>

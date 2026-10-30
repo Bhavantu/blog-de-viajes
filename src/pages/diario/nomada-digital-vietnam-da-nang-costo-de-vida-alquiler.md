@@ -73,7 +73,7 @@ Nuestro objetivo era realmente hacer una base y ordenar nuestras tareas, trabajo
 * **No te quedes con el primero que veas** (a menos que sea espectacular). Nosotros esperamos más de lo planeado y al 4.º día encontramos un departamento a estrenar a 6 cuadras de la playa por unos USD 380 por mes que nos encantó.
 * **La conectividad es clave:** El Internet es fundamental para ir de un apartamento a otro durante las visitas, disfrutar de la playa, comunicarte con los vendedores e incluso traducir el menú en restaurantes locales. Y no lo digo solo porque el programa de referidos ayuda a sostener el blog, sino también porque nos desencontramos con el vendedor (envían ubicación aproximada) y fue una auténtica catástrofe, completamente innecesaria.
 
-[Haciendo clic acá podés ver los costos de la eSIM de Airalo para Vietnam y nos ayudás a seguir escribiendo este blog.](https://airalo.tpx.lu/8J5sLaD4?trs=543244&journey_id=hQDHE4wKI6C0e9jzSOJIG&trace_id=Zze69c17847a274d7a86df7ea-743383&promo_kind=tp_short_with_tooltip_widget&page_url=https%3A%2F%2Fblogcito.com%2Fdiario%2Fque-hacer-ubud-bali-que-ver-zonas-consejos-guia%2F&product_type=tp_manual&install_type=partner&is_tooltip=true&tooltip_subtype=main_page&promo_subkind=tooltip_desktop_general)
+[Haciendo clic acá podés ver los costos de la eSIM de Airalo para Vietnam y nos ayudás a seguir escribiendo este blog.](https://airalo.tpx.lu/8J5sLaD4)
 
 * **Paso 5 (Alquilar):** Una vez que nos decidimos por el apartamento, el proceso fue sencillo. Primero aclaramos todas las dudas respecto al costo de agua, mantenimiento, limpieza, etc. Lo señamos en efectivo (puede ser por Wise también) y al día siguiente nos entregaron el contrato (que leímos detalladamente), presentamos la documentación y firmamos por dos meses. Pagamos en efectivo y en nuestro caso la fecha de ingreso fue ese mismo día.
 
@@ -164,7 +164,7 @@ Esperamos que te sirva, toda la información está basada en nuestras búsquedas
 <ul>
   <li><strong>Conectividad móvil (Internet en todo Vietnam):</strong>
     <ul>
-      <li><a href="https://www.airalo.com/es-ES?irclickid=0PmSDgyPKxyZRBxRls2n7RALUkrxNEQmLXH:zk0&amp;irgwc=1&amp;afsrc=1&amp;utm_source=impact&amp;utm_medium=affiliate&amp;utm_campaign=Travelspark+Limited&amp;utm_content=&amp;utm_term=" target="_blank" rel="noopener">Comprar eSIM Vietnam en Airalo</a>: Lo activás antes de salir y tenés conexión inmediata al aterrizar para pedir tu Grab o ubicarte sin depender del WiFi del aeropuerto.</li>
+      <li><a href="https://airalo.tpx.lu/8J5sLaD4" target="_blank" rel="noopener">Comprar eSIM Vietnam en Airalo</a>: Lo activás antes de salir y tenés conexión inmediata al aterrizar para pedir tu Grab o ubicarte sin depender del WiFi del aeropuerto.</li>
     </ul>
   </li>
   <li style="margin-top: 10px;"><strong>Hospedajes iniciales en An Thuong / Mỹ An (Zona de playa y nómadas):</strong>

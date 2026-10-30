@@ -51,7 +51,7 @@ For those planning their first steps on the island, here is a quick logistical s
 
 Stepping out of the arrival terminal, the swarm of airport taxi touts can be loud and relentless. To avoid stressful haggling right after a long flight, download the **Grab** app before departing. It functions just like Uber, though you will typically pay the driver in cash (IDR). If you prefer a private transfer, reach out to your hotel beforehand to arrange a set price and pickup time.
 
-⚠️ Heads-up: Free Wi-Fi is available inside the terminal, but the signal drops out in the exterior pickup bays where Grab cars wait. We purchased an **[Airalo eSIM](https://airalo.pxf.io/DWa66G)** before flying, which connected automatically the moment our wheels touched the tarmac. You can browse their data packages [here.](https://airalo.pxf.io/DWa66G)
+⚠️ Heads-up: Free Wi-Fi is available inside the terminal, but the signal drops out in the exterior pickup bays where Grab cars wait. We purchased an **[Airalo eSIM](https://airalo.tpx.lu/8J5sLaD4)** before flying, which connected automatically the moment our wheels touched the tarmac. You can browse their data packages [here.](https://airalo.tpx.lu/8J5sLaD4)
 
 - - -
 

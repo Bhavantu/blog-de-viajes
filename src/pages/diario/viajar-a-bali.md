@@ -53,7 +53,7 @@ Para quienes estén planeando sus primeros pasos en la isla, acá resumimos la l
 
 Al salir de la terminal la oferta de taxistas es constante y abrumadora. Para evitar negociaciones intensas al llegar, la alternativa más práctica es descargar la aplicación **Grab** antes de volar. Funciona de manera similar a Uber, pero hay que pagar en efectivo en rupias. Si preferís contratar un chofer, podés contactarte con tu hotel acordando la tarifa y horario antes de viajar.
 
-⚠️ Aviso: Dentro del aeropuerto hay conexión Wi-Fi gratuita, pero en el sector exterior en donde pueden esperar los Grab no hay señal. Nosotros compramos previa llegada una **[eSIM de Airalo](https://airalo.pxf.io/DWa66G)**, que se activa automáticamente al aterrizar. Podés conocer sus paquetes [acá.](https://airalo.pxf.io/DWa66G)
+⚠️ Aviso: Dentro del aeropuerto hay conexión Wi-Fi gratuita, pero en el sector exterior en donde pueden esperar los Grab no hay señal. Nosotros compramos previa llegada una **[eSIM de Airalo](https://airalo.tpx.lu/8J5sLaD4)**, que se activa automáticamente al aterrizar. Podés conocer sus paquetes [acá.](https://airalo.tpx.lu/8J5sLaD4)
 
 - - -
 
