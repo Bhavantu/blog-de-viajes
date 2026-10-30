@@ -58,7 +58,7 @@ A nivel meteorológico, los registros oficiales muestran un patrón real. Tras l
 
 La explicación científica atribuye estos giros a variables atmosféricas habituales, corrientes marinas y al relieve geográfico de la cordillera Annamita. En contraste, la explicación cultural ve en estos eventos la respuesta directa a las oraciones en las tres pagodas Linh Ung (respuestas milagrosas).
 
-Al margen de qué postura se decida tomar, esta confluencia entre geografía física, eventos meteorológicos reales y fe popular es lo que mantiene viva la mística del lugar. Si la realidad que percibimos según la física cuántica responde a campos de energía, observadores y probabilidades, ¿hasta qué punto la conciencia colectiva, la intención sostenida de miles de personas y la energía de los templos sagrados estructurados como anclas energéticas pueden incidir en los fenómenos del mundo físico? ¿O es simplemente la mente humana la que decide qué significado darle a lo que parece un azar climático?
+Al margen de qué postura se decida tomar, esta confluencia entre geografía física, eventos meteorológicos reales y fe popular es lo que mantiene viva la mística del lugar. Queda abierta la pregunta: ¿es la fe de miles de personas la que le da sentido a estas coincidencias, o es simplemente la mente humana la que decide qué significado darle a lo que parece un azar climático?
 
 ## Historia, Cultura y Guía Práctica de las 3 Pagodas
 
@@ -81,7 +81,7 @@ Es la más antigua e históricamente significativa del triángulo. Fundada en 18
 
 * **Precio:** 40.000 VND (~1,60 USD) para el acceso general. Ascensor opcional por 15.000 VND.
 * **Cómo llegar:** A 15 minutos al sur de Da Nang, camino a Hoi An.
-* **Consejo:** Lleva calzado cerrado o sandalias sujetas, ya que las escaleras de mármol son resbaladizas.
+* **Consejo:** Llevá calzado cerrado o sandalias sujetas, ya que las escaleras de mármol son resbaladizas.
 
 <div class="post-img-box img-completo img-centro"><img src="/img/diario/montañas-de-marmol-panoramica.webp" alt="Imagen de bitácora"><span class="img-caption">Montañas de Marmol en Da Nang, vista desde arriba</span></div>
 
@@ -107,11 +107,11 @@ La mejor manera de disfrutar del Triángulo Sagrado es dedicar al menos 3 días 
 
 ## Consejos de etiqueta y respeto
 
-Aunque son atracciones turísticas, recuerda que son lugares de culto activo.
+Aunque son atracciones turísticas, recordá que son lugares de culto activo.
 
-* **Vestimenta:** Cubre tus hombros y rodillas.
+* **Vestimenta:** Cubrí tus hombros y rodillas.
 * **Calzado:** Retira el calzado y los sombreros al ingresar a los salones principales.
-* **Fotografía:** Sé consciente en los espacios de meditación; mantén el silencio y evita interrumpir a quienes rezan.
+* **Fotografía:** Sé consciente en los espacios de meditación; mantené el silencio y evitá interrumpir a quienes rezan.
 
 🎒 ¿Pensando en establecerte una temporada en Da Nang? Si vas a trabajar remoto, no te pierdas nuestro artículo sobre [¿Cómo es vivir como nómada digital en Vietnam? y costo de vida en Da Nang.](https://blogcito.com/diario/nomada-digital-vietnam-costo-de-vida-da-nang/) Y si apenas estás diseñando tu viaje, mantente atento a nuestra próxima Guía Completa de Da Nang.
 
