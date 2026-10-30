@@ -241,7 +241,7 @@ Si eligiera de nuevo, seguramente iría por la segunda zona en la que nos quedam
 
 💰 **Precio estimado:** 56 a 67 USD / 49 a 58 EUR (~1.000.000 - 1.200.000 IDR) por noche.
 
-#### [Anugerah Twin Ubud](https://www.booking.com/hotel/id/anugerah-twin-ubud.es.html)
+#### [Anugrah Twin Ubud](https://www.booking.com/hotel/id/anugerah-twin-ubud.es.html)
 
 📍 **Ubicación:** Cerca del centro de Ubud y muy cerca del Monkey Forest, metido en los callejones, por lo que es tranquilo.
 
