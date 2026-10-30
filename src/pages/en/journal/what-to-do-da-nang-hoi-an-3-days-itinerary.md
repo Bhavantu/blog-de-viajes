@@ -106,10 +106,12 @@ Booking through these links helps us keep the blog independent and free of intru
 
 Da Nang's climate is warm all year round, but it has two clearly distinct seasons:
 
-* **Dry season (February to August):** The best time to visit. Days are usually sunny and hot, the water at My Khe looks clear and the weather at Ba Na Hills is clearer. Peak season for local tourism runs from June to August.
-* **Rainy season (September to January):** Marked by frequent rain and rough seas, with October and November the months most likely to bring heavy rain or typhoons on the central coast.
+* **Dry season (January to August):** Days are usually sunny and hot, the water at My Khe looks clear and the weather at Ba Na Hills is clearer. According to tourism guides, the best window is February to May, with mild, stable weather. June to August is hotter and is the peak season for local tourism.
+* **Rainy season (September to December):** Marked by frequent rain and rough seas, with October and November the months most likely to bring heavy rain or typhoons on the central coast.
 
-  We stayed in September and it rained almost every day, sometimes all day long.
+We stayed in September and it rained almost every day, sometimes all day long.
+
+Keep in mind that these dates are approximate and vary depending on the source. The transition months (August-September and December-January) change from year to year, and with the climate becoming more unpredictable, seasons sometimes start earlier, start later or run longer or shorter. Even in the middle of the rainy season it doesn't rain every day, so it's worth checking the forecast before heading out.
 
 ## Itinerary Summary
 
