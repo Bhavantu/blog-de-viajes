@@ -4,18 +4,17 @@ Lista de problemas detectados en la revisión del sitio y del repo (octubre 2026
 
 ## Para retomar (estado al 30/10/2026)
 
-Commits hechos (sin push, sin merge):
-- `limpiar-links-afiliados` (eded8f0): limpieza de `utm_source=gemini` y `TU_ID_AFILIADO` en los originales en español.
-- `main` (7393f72): CLAUDE.md y docs/.
-- `retraducciones-en`: correcciones a los originales de Ubud y working holiday (b526abe) y las 4 retraducciones en inglés (87a8722).
+Commits hechos (sin push):
+- `limpiar-links-afiliados` (eded8f0): limpieza de `utm_source=gemini` y `TU_ID_AFILIADO` en los originales en español. **Ya mergeada en `main`** (3dcbd43).
+- `main`: CLAUDE.md y docs/.
+- `retraducciones-en` (sin mergear): correcciones a los originales de Ubud y working holiday (b526abe), las retraducciones en inglés (87a8722, 2e37c72), y lo de Da Nang en 3 días (original corregido y retraducción, 30/10).
 
 Copia de seguridad del estado previo a esos commits: tag `backup-antes-de-commits-2026-10-30` y carpeta `backup-stellar-series-2026-10-30/` (fuera del repo, con un .tar.gz y un .patch).
 
 Pendiente:
-1. Mergear `limpiar-links-afiliados` y `retraducciones-en` (la retraducción de what-to-do-christchurch-2-days ya está commiteada con las URLs limpias; esa rama sale de main y no incluye el commit de limpieza de links).
-2. Mergear también las correcciones y la retraducción de Da Nang en 3 días, ya commiteadas en `retraducciones-en` (el original se corrigió y el artículo en inglés se retradujo desde cero, 30/10).
-3. Auditar contra el original las 7 retraducciones de Prioridad 1 (todas quedan abiertas hasta entonces).
-4. Limpiar el resto del relevamiento de afiliados (Prioridad 5) solo con OK de Santi sobre cada grupo.
+1. Mergear `retraducciones-en` a `main` (incluye Da Nang, ya auditada). `limpiar-links-afiliados` ya está mergeada.
+2. Auditar contra el original las 7 retraducciones de Prioridad 1 (todas quedan abiertas hasta entonces). Da Nang en 3 días ya se auditó (ver Prioridad 2).
+3. Limpiar el resto del relevamiento de afiliados (Prioridad 5) solo con OK de Santi sobre cada grupo.
 
 ## Prioridad 1. Traducciones al inglés con errores graves
 
@@ -45,7 +44,7 @@ Retraducir desde el original en español, no parchear. Mientras tanto, marcarlos
 - [ ] new-zealand-route-north-island. Traducción literal en partes
 - [ ] digital-nomad-da-nang-cost-of-living. Números del presupuesto distintos al original
 - [ ] travel-to-bali. Links a deploy-preview-95 en la tabla de zonas
-- [ ] what-to-do-da-nang-hoi-an-3-days-itinerary (original que-hacer-da-nang-vietnam-itinerario-3-dias). Estado (30/10): retraducida desde el original ya corregido, commiteada en `retraducciones-en`, pendiente de revisión contra el original. Ya no tiene el dato inventado del Mercado Con (cerdo y camarón), el `tag` vuelve a `guia de viaje` (como las otras 9 guías) y los bloques HTML, `alt` y URLs son los del original. Decisión sobre las tarjetas de hoteles: se tradujo el texto visible (etiquetas y descripciones)
+- [x] what-to-do-da-nang-hoi-an-3-days-itinerary (original que-hacer-da-nang-vietnam-itinerario-3-dias). Estado (30/10): retraducida desde el original ya corregido, commiteada en `retraducciones-en` y **auditada contra el original** (URLs, números, bloques HTML y frontmatter coinciden; se tradujo el aviso 🧡 que había quedado en español y se sacó el link repetido del taller de farolillos). Falta mergear la rama. Ya no tiene el dato inventado del Mercado Con (cerdo y camarón), el `tag` vuelve a `guia de viaje` (como las otras 9 guías) y los bloques HTML, `alt` y URLs son los del original. Decisión sobre las tarjetas de hoteles: se tradujo el texto visible (etiquetas y descripciones)
 - [ ] Etiquetas (`tag`) y `pais` mezclados entre español e inglés en posts EN. **No unificar ni tocar la lógica de filtrado:** las páginas de categoría y de destino aceptan ambos idiomas y el listado por país y categoría funciona bien (verificado el 30/10). Solo corregir casos puntuales, con captura de cómo se ve en pantalla:
   - Etiqueta en crudo: si el valor no tiene clave en `ui.js` (por ejemplo `local life`, `context & culture`) el texto no pasa por la traducción. En las tarjetas de categoría **no se nota**: la captura del 30/10 de /en/categories/travel-guide/ muestra "TRAVEL GUIDE" igual que las demás, en mayúsculas y con el mismo estilo. Sin verificar todavía: el color de la etiqueta en el buscador (el CSS solo tiene reglas para los valores en español) y la etiqueta del encabezado dentro del post
   - `pais: New Zealand` en what-is-aotearoa-maori-culture-new-zealand: `PostsRecomendados` compara `pais` con === estricto y el resto de los posts EN dice `Nueva Zelanda`, así que ese post no recomienda ni es recomendado. El de christchurch-working-holiday-jobs-costs ya quedó bien en `retraducciones-en`
@@ -63,7 +62,7 @@ Retraducir desde el original en español, no parchear. Mientras tanto, marcarlos
 - [ ] triangulo-sagrado-da-nang-vietnam-pagodas-linh-ung. Párrafo de física cuántica, voseo mezclado con tú en etiqueta
 - [ ] ruta-nueva-zelanda-isla-sur-12-dias. Residuo del modelo `\[cite: 1]` junto a "Fat Eddie's"
 - [ ] que-hacer-christchurch-2-dias. Caption con "Chrischruch" mal escrito
-- [x] que-hacer-da-nang-vietnam-itinerario-3-dias. Corregido el 30/10 en `retraducciones-en`: tilde de "Montañas de Mármol", "privilegeda", "PROXIMAMENTE", "farolitos" y "farolillos" mezclados, lista de Ba Na Hills, formato de horas, caption vacío del Dragon Bridge y el horario del espectáculo (viernes, sábado y domingo a las 21:00, hasta las 21:30; llegar 15 minutos antes). Sigue abierto: el link del taller de farolillos aparece dos veces en el mismo ítem (se dejó por la regla de no tocar links a comercios), el span vacío del icono de "Te ahorramos la búsqueda" (nunca tuvo emoji) y las temporadas de clima, sin confirmar [VERIFICAR]
+- [x] que-hacer-da-nang-vietnam-itinerario-3-dias. Corregido el 30/10 en `retraducciones-en`: tilde de "Montañas de Mármol", "privilegeda", "PROXIMAMENTE", "farolitos" y "farolillos" mezclados, lista de Ba Na Hills, formato de horas, caption vacío del Dragon Bridge y el horario del espectáculo (viernes, sábado y domingo a las 21:00, hasta las 21:30; llegar 15 minutos antes). También resuelto en `retraducciones-en` (ES y EN): se sacó el segundo link repetido del taller de farolillos (la URL de GetYourGuide no se tocó), se quitó el span vacío del icono de "Te ahorramos la búsqueda", y las temporadas de clima se ajustaron a lo que dicen las guías de turismo (seca de enero a agosto, con la mejor ventana de febrero a mayo; lluvias de septiembre a diciembre) con una nota de que varían, más la experiencia propia de agosto y septiembre
 - [ ] Voseo mezclado con tú en varios artículos
 
 ## Prioridad 4. Links internos rotos
