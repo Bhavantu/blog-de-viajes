@@ -240,6 +240,15 @@ Si eligiera de nuevo, seguramente iría por la segunda zona en la que nos quedam
 📝 **Descripción:** Resort con suites amplias y pileta rodeada de vegetación.
 
 💰 **Precio estimado:** 56 a 67 USD / 49 a 58 EUR (~1.000.000 - 1.200.000 IDR) por noche.
+
+#### Anugrah Twin Ubud
+
+📍 **Ubicación:** Cerca del centro de Ubud y muy cerca del Monkey Forest, metido en los callejones, por lo que es tranquilo.
+
+📝 **Descripción:** Homestay con apartamentos muy cómodos y lindos. Tiene altares tradicionales y se pueden ver las ceremonias cotidianas con las ofrendas. Los dueños son locales, muy abiertos y amigables, y compartieron con nosotros cosas de su cultura y tradiciones.
+
+✅ **Nos quedamos acá.**
+
 ### Opciones en Ubud Norte y Alrededores (Tranquilidad y Naturaleza)
 
 #### [D'tepi Ubud House](https://www.booking.com/hotel/id/ubud-jungle-house.html?aid=2440493&label=mkt123sc-6fb02523-f9b6-410d-a0f1-dd987a51398c&sid=7324201086ee77dba032cf854bff9851&all_sr_blocks=820911401_344788893_2_1_0&checkin=2026-10-11&checkout=2026-10-12&dist=0&group_adults=2&group_children=0&hapos=1&highlighted_blocks=820911401_344788893_2_1_0&hpos=1&matching_block_id=820911401_344788893_2_1_0&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=820911401_344788893_2_1_0__16363600&srepoch=1790431624&srpvid=e01362c86b5e02ed&type=total&ucfs=1&)
@@ -250,7 +259,7 @@ Si eligiera de nuevo, seguramente iría por la segunda zona en la que nos quedam
 
 💰 **Precio estimado:** 9 a 12 USD / 8 a 11 EUR (~160.000 - 215.000 IDR) por noche.
 
-✅ **Nos quedamos acá.**
+✅ **Nos quedamos acá.** Los apartamentos eran grandes y con vista directa a la selva, y a veces veíamos monos en los árboles. Muy tranquilo y agradable. Los dueños, locales, fueron muy abiertos y amigables, y compartieron con nosotros cosas de su cultura y tradiciones.
 
 #### [Canting Bali Suite](https://www.booking.com/hotel/id/canting-bali-2.html?label=mkt123sc-05f6f8e3-7983-49f9-b825-a1fa8873d9f7&sid=7324201086ee77dba032cf854bff9851&aid=2440493&ucfs=1&arphpl=1&checkin=2026-10-11&checkout=2026-10-12&dest_id=4009842&dest_type=hotel&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=f5bc62961cac1625&srepoch=1790431281&all_sr_blocks=400984206_368967266_0_0_0&highlighted_blocks=400984206_368967266_0_0_0&matching_block_id=400984206_368967266_0_0_0&sr_pri_blocks=400984206_368967266_0_0_0__24552400&from=searchresults)
 
