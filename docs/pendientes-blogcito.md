@@ -45,7 +45,7 @@ Retraducir desde el original en español, no parchear. Mientras tanto, marcarlos
 
 ## Prioridad 2. Traducciones con errores menores
 
-- [x] bali-culture-traditions-and-secrets. Descripción con "#Discovering", cambio de "I" a "she", glosario en español, links inventados Resuelto el 30/10: se corrigió primero el original (erratas, formas de tú, 3 links viejos) y se retradujo entero. El glosario quedó con las columnas inglés, balinés e indonesio (se sacó la de español). [VERIFICAR] una frase heredada del original: "Bali fue la última isla en caer bajo dominio colonial"
+- [x] bali-culture-traditions-and-secrets. Descripción con "#Discovering", cambio de "I" a "she", glosario en español, links inventados Resuelto el 30/10: se corrigió primero el original (erratas, formas de tú, 3 links viejos) y se retradujo entero. El glosario quedó con las columnas inglés, balinés e indonesio (se sacó la de español). La frase "Bali fue la última isla en caer bajo dominio colonial" se verificó y se cambió por "los holandeses no completaron la conquista de la isla hasta 1906-1908" (Puputan de Badung en 1906 y de Klungkung en 1908), en ES y EN
 - [ ] what-is-aotearoa-maori-culture-new-zealand. Título duplicado
 - [x] where-to-live-south-island-new-zealand. "Lack of travelers" por densidad, link al panel del CMS Resuelto el 30/10: retraducida desde el original ya corregido (erratas, terremoto de 2011, link al artículo de working holiday en inglés, "density" en vez de "lack of travelers")
 - [ ] new-zealand-route-north-island. Traducción literal en partes
