@@ -250,6 +250,8 @@ Si eligiera de nuevo, seguramente iría por la segunda zona en la que nos quedam
 
 💰 **Precio estimado:** 9 a 12 USD / 8 a 11 EUR (~160.000 - 215.000 IDR) por noche.
 
+✅ **Nos quedamos acá.**
+
 #### [Canting Bali Suite](https://www.booking.com/hotel/id/canting-bali-2.html?label=mkt123sc-05f6f8e3-7983-49f9-b825-a1fa8873d9f7&sid=7324201086ee77dba032cf854bff9851&aid=2440493&ucfs=1&arphpl=1&checkin=2026-10-11&checkout=2026-10-12&dest_id=4009842&dest_type=hotel&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=f5bc62961cac1625&srepoch=1790431281&all_sr_blocks=400984206_368967266_0_0_0&highlighted_blocks=400984206_368967266_0_0_0&matching_block_id=400984206_368967266_0_0_0&sr_pri_blocks=400984206_368967266_0_0_0__24552400&from=searchresults)
 
 📍 **Ubicación:** Barrio de Laplapan (Petulu), a 10 minutos del centro.
