@@ -39,7 +39,7 @@ We discovered the beauty of the sacred area of Mount Maunganui (Mauao) and explo
 
 <div class="post-img-box img-mediano img-izquierda"><img src="/img/img_5531.webp" alt="Imagen de bitácora"><span class="img-caption">Pokohino Beach</span></div>
 
-Many people who come to New Zealand choose this area to stay, and honestly it feels a little magical: the beauty of the huge mountain bordering the water of the Pacific, the islands thick with trees around the beach, the closeness to cities and restaurants. It's a beautiful place to spend a season. In summer there was a lot going on and a variety of activities, and we enjoyed trips to the beach and climbs up the mountain with incredible views of the sunset. Our friends also told us local stories, like the Maori legend of the mountain and the Steel freaming, which are the logo of the famous All Blacks.
+Many people who come to New Zealand choose this area to stay, and honestly it feels a little magical: the beauty of the huge mountain bordering the water of the Pacific, the islands thick with trees around the beach, the closeness to cities and restaurants. It's a beautiful place to spend a season. In summer there was a lot going on and a variety of activities, and we enjoyed trips to the beach and climbs up the mountain with incredible views of the sunset. Our friends also told us local stories, like the Maori legend of the mountain and the *silver fern*, which is the logo of the famous All Blacks.
 
 ### **Vacation on the Coromandel Peninsula**
 

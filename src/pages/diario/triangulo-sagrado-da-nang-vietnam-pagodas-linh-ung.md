@@ -54,9 +54,9 @@ En la década de 2000, impulsada por la comunidad y liderada por el monje Thich 
 
 ## ¿Qué dicen los datos acerca de los tifones?
 
-A nivel meteorológico, los registros oficiales muestran un patrón real. Tras la inauguración de la estatua de Lady Buddha en 2010, varios tifones devastadores que venían en ruta directa hacia Da Nang, como Megi en 2010 o el histórico Haiyan en 2013, cambiaron drásticamente de trayectoria a última hora o perdieron gran parte de su fuerza justo antes de tocar tierra.
+A nivel meteorológico, hay episodios que alimentan la leyenda. Después de la inauguración de la estatua de Lady Buddha en 2010, algunos tifones muy poderosos que se acercaron al centro de Vietnam no golpearon Da Nang con toda su fuerza: Megi (2010) pasó de largo hacia el sur de China, y Haiyan (2013), tras devastar Filipinas, recorrió la costa central y terminó entrando por el norte del país ya debilitado.
 
-Para la meteorología, estos giros tienen explicación en las corrientes marinas, el relieve de la cordillera Annamita y el comportamiento habitual de los tifones. Para muchas personas de Da Nang, son la respuesta a lo que se reza y se medita en las tres pagodas Linh Ung, y para quienes practican ahí, la concentración de tanta gente junta tiene un efecto real.
+Para la meteorología, estos desvíos tienen explicación en las corrientes marinas, el relieve de la cordillera Annamita y el comportamiento habitual de los tifones. Para muchas personas de Da Nang, son la respuesta a lo que se reza y se medita en las tres pagodas Linh Ung, y para quienes practican ahí, la concentración de tanta gente junta tiene un efecto real.
 
 Nosotros no tenemos forma de saber cuál de las dos miradas está más cerca de lo que pasó, y que algo no esté probado no lo vuelve falso. Por eso preferimos dejarte la pregunta a vos. ¿Qué es lo que desvía los tifones de Da Nang?
 

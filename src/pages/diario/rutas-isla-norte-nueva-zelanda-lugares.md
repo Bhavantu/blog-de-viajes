@@ -38,7 +38,7 @@ Descubrimos la belleza de la zona sagrada de Mount Maunganui (Mauao) y paseamos 
 
 <div class="post-img-box img-mediano img-izquierda"><img src="/img/img_5531.webp" alt="Imagen de bitácora"><span class="img-caption">Pokohino Beach</span></div>
 
-Mucha gente que viene a Nueva Zelanda elige esta zona para quedarse, y la verdad es que se siente un poco mágica, la belleza del inmenso monte que bordea con el agua del Pacífico, las islas tupidas de árboles alrededor de la playa. La cercanía con ciudades y restaurantes. Es un lugar precioso para pasar una temporada. En verano el movimiento era bastante y las actividades variadas, disfrutamos de idas a la playa subidas al monte con vistas increíbles del atardecer. Además nuestros amigos nos contaron historias locales como la leyenda Maori del monte y sobre los Steel freaming que son el logo de los famosos All Blacks. 
+Mucha gente que viene a Nueva Zelanda elige esta zona para quedarse, y la verdad es que se siente un poco mágica, la belleza del inmenso monte que bordea con el agua del Pacífico, las islas tupidas de árboles alrededor de la playa. La cercanía con ciudades y restaurantes. Es un lugar precioso para pasar una temporada. En verano el movimiento era bastante y las actividades variadas, disfrutamos de idas a la playa subidas al monte con vistas increíbles del atardecer. Además nuestros amigos nos contaron historias locales como la leyenda Maori del monte y sobre el *silver fern* (helecho plateado), que es el logo de los famosos All Blacks. 
 
 ### **Vacaciones en la península de Coromandel**
 

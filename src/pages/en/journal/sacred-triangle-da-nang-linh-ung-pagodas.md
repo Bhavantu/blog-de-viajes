@@ -55,9 +55,9 @@ In the 2000s, driven by the community and led by the monk Thich Thien Nguyen, co
 
 ## What Does the Data Say About Typhoons?
 
-On the meteorological side, the official records show a real pattern. After the Lady Buddha statue was inaugurated in 2010, several devastating typhoons that were heading straight for Da Nang, such as Megi in 2010 or the historic Haiyan in 2013, drastically changed course at the last minute or lost much of their strength just before making landfall.
+On the meteorological side, there are episodes that feed the legend. After the Lady Buddha statue was inaugurated in 2010, some very powerful typhoons that approached central Vietnam did not hit Da Nang at full strength: Megi (2010) passed by toward southern China, and Haiyan (2013), after devastating the Philippines, moved along the central coast and ended up entering the north of the country already weakened.
 
-For meteorology, these turns are explained by ocean currents, the relief of the Annamite range and the usual behavior of typhoons. For many people in Da Nang, they are the answer to what is prayed and meditated on in the three Linh Ung pagodas, and for those who practice there, the concentration of so many people together has a real effect.
+For meteorology, these deviations are explained by ocean currents, the relief of the Annamite range and the usual behavior of typhoons. For many people in Da Nang, they are the answer to what is prayed and meditated on in the three Linh Ung pagodas, and for those who practice there, the concentration of so many people together has a real effect.
 
 We have no way of knowing which of the two views is closer to what happened, and the fact that something hasn't been proven doesn't make it false. That's why we'd rather leave the question to you. What is it that steers typhoons away from Da Nang?
 
