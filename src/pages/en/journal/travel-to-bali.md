@@ -24,8 +24,6 @@ For slow travelers or digital nomads, there is easily enough to keep you busy fo
 
 💵 **Currency:** Indonesian Rupiah (IDR). Cash remains king for everyday expenses. </div>
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/que-hacer-en-bali-mapa-interactivo-.webp" alt="Imagen de bitácora"><span class="img-caption">Tourist map of Bali by regions</span></div>
-
 ## What to Know Before Traveling to Bali, Indonesia
 
 For those planning their first steps on the island, here is a quick logistical summary:
