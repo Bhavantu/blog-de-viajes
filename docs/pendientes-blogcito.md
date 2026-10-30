@@ -37,7 +37,8 @@ Retraducir desde el original en español, no parchear. Mientras tanto, marcarlos
   - Estado (29/10): retraducida, sin commitear, pendiente de revisión contra el original.
   - Auditada el 30/10 contra el original: URLs, números (1.200 → 1,200), bloques HTML, encabezados y bullets coinciden, sin "Here is the translation", sin "Haywood Forest" ni párrafos inventados, frontmatter con `archivo_original`. Queda marcarla con [x] al mergear la rama
 - [ ] christchurch-working-holiday-jobs-costs (original vivir-con-working-holiday-visa-christchurch). Restos del modelo, "2022" en la descripción, "within an hour" por media hora
-  - Estado (29/10): retraducida, sin commitear, pendiente de revisión contra el original
+  - Estado (29/10): retraducida, sin commitear, pendiente de revisión contra el original.
+  - Auditada el 30/10 (primero el original ES, después el EN). EN: URLs, bloques HTML, encabezados y bullets coinciden, los 7 links internos apuntan a las versiones en inglés, los números solo cambian de separador, sin "2022" ni restos del modelo. ES: sin errores claros que corregir (voseo bien, cuentas de la tabla y del salario cierran, los 7 links internos existen). Quedan abiertos en el original, sin tocar: ninguno de los 5 alojamientos dice si nos quedamos o no (regla de CLAUDE.md, falta que Lore/Santi lo confirmen); "Lake Side Domain" [VERIFICAR] ortografía (¿Lakeside Domain?); los precios no indican el mes de actualización; 4 links de Booking con `aid=` ya relevados en Prioridad 5. Queda marcarla con [x] al mergear la rama
 - [ ] what-to-do-ubud-bali-tips-and-guide (original que-hacer-ubud-bali-que-ver-zonas-consejos-guia). Tour de 9 horas inventado, URLs de GetYourGuide traducidas (rotas), precio del guía en USD 15
   - Estado (29/10): retraducida, sin commitear, pendiente de revisión contra el original. Los links internos ya apuntan a las versiones en inglés
 
