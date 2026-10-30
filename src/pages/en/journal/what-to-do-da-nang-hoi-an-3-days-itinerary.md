@@ -96,7 +96,7 @@ Ver alojamiento &rarr;
 
 <div style="text-align: center; border-top: 1px dashed #d6cec0; padding-top: 1rem; margin-top: 1.2rem;">
 <p style="margin: 0; font-size: 0.8rem; color: #736b63;">
-Reservando a través de estos enlaces nos ayudás a mantener el blog independiente y sin anuncios invasivos. 🧡
+Booking through these links helps us keep the blog independent and free of intrusive ads. 🧡
 </p>
 </div>
 
