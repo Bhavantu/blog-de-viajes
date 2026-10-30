@@ -74,16 +74,18 @@ Retraducir desde el original en español, no parchear. Mientras tanto, marcarlos
 
 ## Prioridad 4. Links internos rotos
 
+Resuelto el 31/10: se revisaron todos los links internos de los .md (ES y EN). Los 39 que usaban slugs viejos o con fecha, o apuntaban a la versión en español desde un post en inglés, ahora van directo al slug actual (y a la versión en inglés en los posts EN). Verificado con un script: 0 links internos a archivos que no existen. Los redirects de public/_redirects se dejan por si hay links externos viejos.
+
 Apuntar directo al slug actual en vez de pasar por redirects.
 
-- [ ] /diario/2026-07-20-ubud-bali-que-hacer/
-- [ ] /diario/2026-07-22-el-alma-de-bali-rituales-familia-y-comunidad/
-- [ ] /diario/el-alma-de-bali/
-- [ ] /diario/el-alma-de-bali-cultura-tradiciones-y-la-secretos-sobre-la-isla/
-- [ ] /diario/viajar-a-bali-requisitos-transporte-y-zonas-para-quedarse/
-- [ ] /diario/que-hacer-en-amed-bali-guia-real-de-slow-travel/
-- [ ] /diario/nomada-digital-vietnam-costo-de-vida-da-nang/
-- [ ] Links con fecha vieja que funcionan por redirect (Amed, Coromandel, Arthur's Pass, Aotearoa, etc.)
+- [x] /diario/2026-07-20-ubud-bali-que-hacer/
+- [x] /diario/2026-07-22-el-alma-de-bali-rituales-familia-y-comunidad/
+- [x] /diario/el-alma-de-bali/
+- [x] /diario/el-alma-de-bali-cultura-tradiciones-y-la-secretos-sobre-la-isla/
+- [x] /diario/viajar-a-bali-requisitos-transporte-y-zonas-para-quedarse/
+- [x] /diario/que-hacer-en-amed-bali-guia-real-de-slow-travel/
+- [x] /diario/nomada-digital-vietnam-costo-de-vida-da-nang/
+- [x] Links con fecha vieja que funcionan por redirect (Amed, Coromandel, Arthur's Pass, Aotearoa, etc.)
 - [x] En que-hacer-ubud-bali-que-ver-zonas-consejos-guia: /diario/2026-06-23-el-alma-de-bali-rituales-la-familia-y-el-secreto-de-la-felicidad-balinesa/, /diario/2026-06-18-bali-bby-1/ y /diario/2026-07-18-amed-bali-guía-real-de-slow-travel/. Los tres funcionan hoy por redirect (verificado el 29/10 en public/_redirects: el primero lo cubre el comodín `/diario/2026-06-23-el-alma-de-bali-rituales*`). Apuntarlos directo al slug actual. La traducción al inglés ya apunta a los slugs actuales
 
 ## Prioridad 5. Técnico y SEO
