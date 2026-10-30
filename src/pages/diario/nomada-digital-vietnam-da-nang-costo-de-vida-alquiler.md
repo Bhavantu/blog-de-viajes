@@ -114,7 +114,7 @@ En Vietnam el efectivo es el rey.
 
 Este presupuesto está basado en nuestra experiencia a partir del cálculo de 1 mes en Da Nang en 2026.
 
-El presupuesto engloba lo básico, habría que sumarle cosas como entradas a atracciones turísticas, masajes y/o compras. Como siempre, dependerá de tu estilo de vida. En este presupuesto real y cómodo para dos, cocinamos, salimos a comer 2 veces por semana (en general a restaurantes locales) y vivimos en el departamento que nos gustó por **USD 637.96 por mes**.
+El presupuesto engloba lo básico, habría que sumarle cosas como entradas a atracciones turísticas, masajes y/o compras. Como siempre, dependerá de tu estilo de vida. En este presupuesto real y cómodo para dos, cocinamos, salimos a comer 2 veces por semana (en general a restaurantes locales) y vivimos en el departamento que nos gustó por **USD 693,75 por mes**.
 
 # Presupuesto de Gastos en Vietnam (Actualizado)
 
