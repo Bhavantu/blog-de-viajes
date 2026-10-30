@@ -46,7 +46,7 @@ Si venís de la Isla Norte como nosotros, el ferry te deja en Picton. Luego de u
 
 ## 2. Días 2 a 4: El desvío de la SH60 hacia la Golden Bay y Abel Tasman
 
-Le hicimos caso a la recomendación del músico local de Fat Eddie's\[cite: 1] y nos desviamos al noreste a la península de Golden Bay. Para esto, abandonamos temporalmente la Ruta 6 y tomamos la State Highway 60 (SH60).
+Le hicimos caso a la recomendación del músico local de Fat Eddie's y nos desviamos al noreste a la península de Golden Bay. Para esto, abandonamos temporalmente la Ruta 6 y tomamos la State Highway 60 (SH60).
 
 ### 📍 Índice de la Ruta SH60 (Nelson a Collingwood)
 
