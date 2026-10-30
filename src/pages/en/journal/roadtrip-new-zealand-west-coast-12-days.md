@@ -47,7 +47,9 @@ If you're coming from the North Island like us, the ferry drops you in Picton. A
 
 ## 2. Days 2 to 4: The SH60 detour to Golden Bay and Abel Tasman
 
-We followed the recommendation of the local musician from Fat Eddie's and veered northeast to the Golden Bay peninsula. To do this, we temporarily left Route 6 and took State Highway 60 (SH60).
+We followed the recommendation of C-Way Green, a local musician we met at The Rogue & Vagabond, a Wellington pub with live music. He plays guitar in Fat Freddy's Drop, a Wellington band, and recommended several places on the South Island, Takaka among them, so we veered northeast to the Golden Bay peninsula. To do this, we temporarily left Route 6 and took State Highway 60 (SH60).
+
+> 💡 If you want a taste of the band, here's [a video of Fat Freddy's Drop](https://www.nzonscreen.com/title/wandering-eye-2005).
 
 ### 📍 SH60 route index (Nelson to Collingwood)
 
