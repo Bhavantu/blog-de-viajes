@@ -26,7 +26,7 @@ While Bali is part of Indonesia, its cultural identity is entirely distinct. Mos
 * **[Sacred Water Purification Ceremony (Melukat)](https://www.getyourguide.com/bali-l347/bali-visita-al-templo-gunung-kawi-con-ritual-de-purificacion-t1141894/?partner_id=ZM6TN20&psrc=partner_api&currency=VND&cmp=v4.cmt9nfx1e03as01kxgs8ud6fe_blogcito&partner_visitor_id=blogcito):** A traditional holy spring immersion guided by locals at sacred water sanctuaries such as Tirta Empul or Gunung Kawi. The ritual is carried out to cleanse the mind and spirit, wash away negative energies, release accumulated stress, and invite heartfelt blessings.
 * **[Canang Sari (Daily Offering) Workshop](https://www.getyourguide.com/es-es/ubud-l32246/ubud-experiencia-de-ofrendas-canang-sari-y-bendicion-balinesa-t945789/?ranking_uuid=867f7dc1-7eef-4105-8528-9f4e2bbfa412&q=ubud+taller+de+elaboracion+de+ofrendas&adults=1):** We didn't manage to squeeze this one into our schedule, but it was at the very top of our wishlist. Hosted inside an authentic family compound, you dress in traditional Balinese attire, handcraft intricate floral offerings, learn the spiritual symbolism behind each element, and finish with a shared prayer of gratitude.
 
-📖 **Curious to dive deeper into local heritage?** If you want to explore the spiritual cosmology, temples, and history of the island, check out our deep-dive article under Culture & Context: [The Soul of Bali: Culture, Traditions, and Secrets of the Island of the Gods](https://blogcito.com/diario/el-alma-de-bali-cultura-tradiciones-y-la-secretos-sobre-la-isla/)
+📖 **Curious to dive deeper into local heritage?** If you want to explore the spiritual cosmology, temples, and history of the island, check out our deep-dive article under Culture & Context: [The Soul of Bali: Culture, Traditions, and Secrets of the Island of the Gods](/en/journal/bali-culture-traditions-and-secrets/)
 
 <div class="post-img-box img-mediano img-centro"><img src="/img/diario/qué-hacer-en-bali-cultural-.webp" alt="Cultural travel photo"><span class="img-caption">Cultural activities in Bali</span></div>
 
@@ -49,8 +49,8 @@ There are incredible snorkeling spots across the mainland and neighboring barrie
 
   * **Jemeluk Bay:** Colorful coral reefs and a sunken underwater temple shrine.
   * **Lipah Beach:** Pristine visibility and frequent sea turtle encounters.
-  * **Japanese Shipwreck (Banyuning):** A shallow shipwreck resting just a few meters off the beach, heavily encrusted with corals. You can read more in our comprehensive slow travel breakdown: [Things to Do in Amed: Realistic Slow Travel Guide & Budget](https://blogcito.com/diario/que-hacer-amed-que-ver-guia-presupuesto/).
-* **Snorkeling with Manta Rays in Nusa Penida:** Floating alongside these gentle giants in open water was hands down one of the most awe-inspiring moments of our travels. The two prime viewing spots are Manta Bay and Manta Point, accessible either by staying on Nusa Penida or booking a boat charter from mainland Bali. Check out our complete transit and packing breakdown in our [complete guide on what to see in Nusa Penida](https://blogcito.com/diario/que-ver-en-nusa-penida-guia/).
+  * **Japanese Shipwreck (Banyuning):** A shallow shipwreck resting just a few meters off the beach, heavily encrusted with corals. You can read more in our comprehensive slow travel breakdown: [Things to Do in Amed: Realistic Slow Travel Guide & Budget](/en/journal/what-to-do-amed-bali-real-guide-budget/).
+* **Snorkeling with Manta Rays in Nusa Penida:** Floating alongside these gentle giants in open water was hands down one of the most awe-inspiring moments of our travels. The two prime viewing spots are Manta Bay and Manta Point, accessible either by staying on Nusa Penida or booking a boat charter from mainland Bali. Check out our complete transit and packing breakdown in our [complete guide on what to see in Nusa Penida](/en/journal/what-to-see-nusa-penida/).
 * **Snorkeling with Sea Turtles in the Gili Islands:** This was an adventure strongly recommended by locals and fellow travelers that we made sure to prioritize on our second trip via fast boat.
 * **Scuba Diving in Amed:** Amed is celebrated internationally for easy-access shore diving, featuring plenty of certified dive shops catering to both beginners and seasoned divers.
 
@@ -58,8 +58,8 @@ There are incredible snorkeling spots across the mainland and neighboring barrie
 
 While we didn't summit them on this run, these challenging pre-dawn ascents reward early risers with breathtaking views above the cloud line:
 
-* **[Mount Batur:](https://www.getyourguide.com/bali-l347/bali-monte-batur-sunrise-trek-con-entrada-t401391/?partner_id=ZM6TN20&psrc=partner_api&currency=VND&cmp=v4.cmt5lczwy12ab01p22ymgh669_blogcito&partner_visitor_id=blogcito)** A popular night trek to catch the sunrise over the volcanic crater lake. Check out tour options and practical tips in our [guide to Amed: realistic slow travel and budget](https://blogcito.com/diario/que-hacer-amed-que-ver-guia-presupuesto/).
-* **[Mount Agung Ascent:](https://www.getyourguide.com/karangasem-l190139/ruta-al-amanecer-por-el-monte-agung-con-cafe-y-miel-en-una-casa-local-t1211975/?partner_id=ZM6TN20&psrc=partner_api&currency=VND&cmp=v4.cmt5ld47112ae01p2f81d68rk_blogcito&partner_visitor_id=blogcito)** The sacred mountain and highest summit in Bali. You can see how to arrange an experienced local guide in our [Amed practical guide](https://blogcito.com/diario/que-hacer-amed-que-ver-guia-presupuesto/).
+* **[Mount Batur:](https://www.getyourguide.com/bali-l347/bali-monte-batur-sunrise-trek-con-entrada-t401391/?partner_id=ZM6TN20&psrc=partner_api&currency=VND&cmp=v4.cmt5lczwy12ab01p22ymgh669_blogcito&partner_visitor_id=blogcito)** A popular night trek to catch the sunrise over the volcanic crater lake. Check out tour options and practical tips in our [guide to Amed: realistic slow travel and budget](/en/journal/what-to-do-amed-bali-real-guide-budget/).
+* **[Mount Agung Ascent:](https://www.getyourguide.com/karangasem-l190139/ruta-al-amanecer-por-el-monte-agung-con-cafe-y-miel-en-una-casa-local-t1211975/?partner_id=ZM6TN20&psrc=partner_api&currency=VND&cmp=v4.cmt5ld47112ae01p2f81d68rk_blogcito&partner_visitor_id=blogcito)** The sacred mountain and highest summit in Bali. You can see how to arrange an experienced local guide in our [Amed practical guide](/en/journal/what-to-do-amed-bali-real-guide-budget/).
 
 #### Waterfalls
 
@@ -121,8 +121,8 @@ Renting a scooter offers flexibility, but only do so if you already have solid e
 
 ## Related Guides to Plan Your Trip:
 
-* [Viajar a Bali en 2026: Requisitos, transporte y zonas para quedarse](https://blogcito.com/diario/viajar-a-bali-requisitos-transporte-y-zonas-para-quedarse/)
-* [Qué hacer en Ubud, Bali: que ver, zonas y consejos. Guía 2026](https://blogcito.com/diario/que-hacer-ubud-bali-que-ver-zonas-consejos-guia/)
-* [Que hacer en Amed, Bali: Guía real de slow travel y presupuesto 2026](https://blogcito.com/diario/que-hacer-amed-que-ver-guia-presupuesto/)
-* [Que ver en Nusa Penida: Guia completa 2026. Donde quedarse y mejores consejos](https://blogcito.com/diario/que-ver-en-nusa-penida-guia/)
-* [El Alma de Bali: cultura, tradiciones y la secretos sobre la Isla de los Dioses](https://blogcito.com/diario/el-alma-de-bali-cultura-tradiciones-y-la-secretos-sobre-la-isla/)
+* [Viajar a Bali en 2026: Requisitos, transporte y zonas para quedarse](/en/journal/travel-to-bali/)
+* [Qué hacer en Ubud, Bali: que ver, zonas y consejos. Guía 2026](/en/journal/what-to-do-ubud-bali-tips-and-guide/)
+* [Que hacer en Amed, Bali: Guía real de slow travel y presupuesto 2026](/en/journal/what-to-do-amed-bali-real-guide-budget/)
+* [Que ver en Nusa Penida: Guia completa 2026. Donde quedarse y mejores consejos](/en/journal/what-to-see-nusa-penida/)
+* [El Alma de Bali: cultura, tradiciones y la secretos sobre la Isla de los Dioses](/en/journal/bali-culture-traditions-and-secrets/)

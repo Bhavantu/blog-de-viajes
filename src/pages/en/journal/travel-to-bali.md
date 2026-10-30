@@ -43,7 +43,7 @@ For those planning their first steps on the island, here is a quick logistical s
   * 🌧️ **Rainy Season (November to April):** Accommodation rates drop and tourist crowds thin out, but tropical downpours are frequent.
 * **Local Culture:** 
 
-  The dominant religion across the island is Balinese Hinduism. The native language is Balinese, the official national language is Bahasa Indonesia, and English is widely spoken throughout tourist areas. For a closer look at daily rituals and traditions, check out our deep-dive article: [The Soul of Bali: Rituals, Family, and the Secret of Balinese Happiness](https://blogcito.com/diario/el-alma-de-bali/).
+  The dominant religion across the island is Balinese Hinduism. The native language is Balinese, the official national language is Bahasa Indonesia, and English is widely spoken throughout tourist areas. For a closer look at daily rituals and traditions, check out our deep-dive article: [The Soul of Bali: Rituals, Family, and the Secret of Balinese Happiness](/en/journal/bali-culture-traditions-and-secrets/).
 
 - - -
 
@@ -139,7 +139,7 @@ One of the most stunning coastal regions on the island. It features dramatic lim
 
 ### Ubud (Central Bali)
 
-The cultural heart of the island, surrounded by tropical rainforest and emerald rice terraces. Strolling its streets is an experience in itself, filled with traditional compound life. The activities here are remarkably diverse—we recommend checking out our full guide: **[Ubud: Culture, Hidden Gems & Complete Guide](https://blogcito.com/diario/que-hacer-ubud-bali-que-ver-zonas-consejos-guia/)**.
+The cultural heart of the island, surrounded by tropical rainforest and emerald rice terraces. Strolling its streets is an experience in itself, filled with traditional compound life. The activities here are remarkably diverse—we recommend checking out our full guide: **[Ubud: Culture, Hidden Gems & Complete Guide](/en/journal/what-to-do-ubud-bali-tips-and-guide/)**.
 
 We split stays into two zones: Central Ubud (walkable to everything, but lively and busy) and North Ubud / Outskirts (peaceful and surrounded by nature).
 
@@ -238,7 +238,7 @@ A peaceful coastal fishing village celebrated for its black volcanic sand beache
 * 📍 **Location:** Northeast Coast.
 * ⏱️ **Airport Transit Time:** 2.5 to 3 hours.
 * 🏛️ **Highlights:** Snorkeling in Jemeluk Bay, shore diving, and Mount Agung lookout points.
-* 👉 **Explore our complete guide:** [Things to Do in Amed, Bali: Realistic Slow Travel Guide](https://blogcito.com/diario/que-hacer-en-amed-bali-guia-real-de-slow-travel/).
+* 👉 **Explore our complete guide:** [Things to Do in Amed, Bali: Realistic Slow Travel Guide](/en/journal/what-to-do-amed-bali-real-guide-budget/).
 
 #### Where to Stay in Amed
 

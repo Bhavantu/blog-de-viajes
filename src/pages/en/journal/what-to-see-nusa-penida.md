@@ -29,7 +29,7 @@ Plan your trip to Nusa Penida, Bali below with our field-tested recommendations.
 
 Nusa Penida is an island of approximately 200 km² located southeast of Bali's main island, about 20 kilometers across the Badung Strait. It forms part of a small archipelago made up of three neighboring islands: **Nusa Penida** (the largest), **Nusa Lembongan**, and **Nusa Ceningan**.
 
-Just like in Bali, the vast majority of its local population (around 98%) practices **Balinese Hinduism**. This means ceremonies, *Canang Sari* (daily offerings), and community life operate the same way. If you're interested in better understanding the local worldview, traditions, and the meaning behind their rituals, we invite you to read our [complete guide on Bali's culture and soul](https://blogcito.com/diario/2026-07-22-el-alma-de-bali-rituales-familia-y-comunidad/). However, the island also hosts a small historical Muslim community.
+Just like in Bali, the vast majority of its local population (around 98%) practices **Balinese Hinduism**. This means ceremonies, *Canang Sari* (daily offerings), and community life operate the same way. If you're interested in better understanding the local worldview, traditions, and the meaning behind their rituals, we invite you to read our [complete guide on Bali's culture and soul](/en/journal/bali-culture-traditions-and-secrets/). However, the island also hosts a small historical Muslim community.
 
 Ever since we started planning our independent trip to Bali while chatting with friends who had already visited, Nusa Penida became a dream on our bucket list. After enjoying a few quiet days in Amed, we decided to embark on the adventure: **10 days on the island of paradises, beaches, and cliffs**. But the usual questions popped up: where to stay in Nusa Penida, Bali? What to see? How to escape the mass Instagram experience? Well, that was the challenge we're choosing to share today.
 
@@ -372,6 +372,6 @@ Here's direct access to all recommended tools and bookings mentioned in this gui
 
 ## 💡 You Might Also Like:
 
-* 🌊 **[Amed, Bali: Real Guide to Slow Travel, Snorkeling, and Budget 2026](https://blogcito.com/diario/2026-07-18-amed-bali-gu%C3%ADa-real-de-slow-travel/)**
-* 🌿 **[What to Do in Ubud: Complete Guide to Culture, Temples, and Costs](https://blogcito.com/diario/2026-07-20-ubud-bali-que-hacer/)**
-* ✈️ **[Traveling to Bali in 2026: Requirements, Transportation, and Where to Stay](https://blogcito.com/diario/2026-06-18-bali-bby-1/)**
+* 🌊 **[Amed, Bali: Real Guide to Slow Travel, Snorkeling, and Budget 2026](/en/journal/what-to-do-amed-bali-real-guide-budget/)**
+* 🌿 **[What to Do in Ubud: Complete Guide to Culture, Temples, and Costs](/en/journal/what-to-do-ubud-bali-tips-and-guide/)**
+* ✈️ **[Traveling to Bali in 2026: Requirements, Transportation, and Where to Stay](/en/journal/travel-to-bali/)**

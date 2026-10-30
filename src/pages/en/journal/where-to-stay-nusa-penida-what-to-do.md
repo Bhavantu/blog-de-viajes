@@ -104,6 +104,6 @@ Manta Point is a "cleaning station," an open-ocean site where mantas gather so s
   * **Best time to go:** Before 9:00 AM for a quiet swim, or after 4:30 PM to enjoy one of the island's best sunsets.
   * **The Experience:** A sheltered bay with dark sand and palm trees. Excellent for swimming and snorkeling in calm waters.
 
-These are just some of the 9 main spots to see in Nusa Penida. If you'd like to read more detailed information on what to do, costs, and tips to avoid the crowds, we suggest checking out our [Complete guide ](https://blogcito.com/diario/2026-08-09-gu%C3%ADa-de-nusa-penida-2026-c%C3%B3mo-visitarla-sin-masas-zonas-d%C3%B3nde-dormir-y-presupuesto-real/)[to visiting Nusa Penida in 2026](https://blogcito.com/diario/2026-08-09-gu%C3%ADa-de-nusa-penida-2026-c%C3%B3mo-visitarla-sin-masas-zonas-d%C3%B3nde-dormir-y-presupuesto-real/)
+These are just some of the 9 main spots to see in Nusa Penida. If you'd like to read more detailed information on what to do, costs, and tips to avoid the crowds, we suggest checking out our [Complete guide ](/en/journal/what-to-see-nusa-penida/)[to visiting Nusa Penida in 2026](/en/journal/what-to-see-nusa-penida/)
 
-If you like the idea of snorkeling at quiet beaches, we also recommend reading [Amed, Bali: A Real Guide to Slow Travel](https://blogcito.com/diario/2026-07-18-amed-bali-gu%C3%ADa-real-de-slow-travel/)
+If you like the idea of snorkeling at quiet beaches, we also recommend reading [Amed, Bali: A Real Guide to Slow Travel](/en/journal/what-to-do-amed-bali-real-guide-budget/)
