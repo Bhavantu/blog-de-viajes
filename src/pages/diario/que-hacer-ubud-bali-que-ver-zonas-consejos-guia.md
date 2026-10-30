@@ -17,7 +17,7 @@ Desde que llegamos a Ubud, cada parte de su aura comenzó a deleitarnos: desde s
 
 Desde el comienzo nos pareció que acá había un aura diferente: sí, es turística, pero también más tranquila. Hay mucha gente auténticamente local y amable que te mira a los ojos y se detiene en la calle para preguntarte: *¿cómo estás?* Así fue como Ubud nos enseñó sobre la cultura balinesa y se convirtió en nuestra base por un período de 10 días. 
 
-Si te interesa profundizar en la cultura podés leer [el alma de Bali, sus rituales y la cultura balinesa](https://blogcito.com/diario/2026-06-23-el-alma-de-bali-rituales-la-familia-y-el-secreto-de-la-felicidad-balinesa/)
+Si te interesa profundizar en la cultura podés leer [el alma de Bali, sus rituales y la cultura balinesa](/diario/bali-rituales-cultura-tradiciones-secretos/)
 
 **En esta guía vas a encontrar:**
 
@@ -61,7 +61,7 @@ Es la más popular y turística. Sus vistas son igualmente hermosas. Se encuentr
 
 ### Jatiluwih Rice Terrace (La joya de la UNESCO)
 
-Esta es la que está más hacia al norte y es muchísimo menos turística. Es, de hecho, un Paisaje Cultural declarado formalmente por la UNESCO.
+Esta es la que está más hacia el norte y es muchísimo menos turística. Es, de hecho, un Paisaje Cultural declarado formalmente por la UNESCO.
 
 * **Por qué ir:** Es un área protegida y mucho más vasta. Es posible caminar durante largos períodos sin encontrarte con tantos turistas. El aire es más fresco porque está a mayor altitud, aunque los caminos para caminar son un poco más "todo terreno".
 * **Costos:** La entrada tiene un valor aproximado de **40.000 IDR** (destinados al mantenimiento y preservación de este gigantesco sitio).
@@ -317,11 +317,11 @@ Desde ya ¡gracias por leer y buenos viajes!
 
 Todo lo que necesitás saber para planificar tu viaje a Bali:
 
-* [Viajar a Bali en 2026: Requisitos, transporte y zonas para quedarse](https://blogcito.com/diario/2026-06-18-bali-bby-1/)
+* [Viajar a Bali en 2026: Requisitos, transporte y zonas para quedarse](/diario/viajar-a-bali/)
 
 Si buscás combinar la naturaleza de Ubud con playas de esnórquel y buceo, te recomendamos leer:
 
-* [Qué hacer en Amed, Bali: Guía real de slow travel y presupuesto 2026](https://blogcito.com/diario/2026-07-18-amed-bali-gu%C3%ADa-real-de-slow-travel/)
+* [Qué hacer en Amed, Bali: Guía real de slow travel y presupuesto 2026](/diario/que-hacer-amed-que-ver-guia-presupuesto/)
 
 Nusa Penida la isla vecina de Bali con paisajes imperdibles:
 
