@@ -26,7 +26,7 @@ Y durante otro tiempo, trabajar, vivir en una casa compartida en la ciudad, hace
 
 El viaje duró 8 meses, fue una aventura extensa y principalmente dividida entre: viajar en camper van por la isla y vivir en la ciudad como *Working Holiday person*. Los lugares épicos, cada uno con su magia, por eso en este artículo general se ordena la aventura y luego se puede ampliar en la experiencia que llame tu atención conocer.
 
-Querido lector, «Si te interesa profundizar en un rincón, solo tienes que tocar o hacer clic sobre su nombre subrayado para viajar a su historia».
+Querido lector, «Si te interesa profundizar en un rincón, solo tenés que tocar o hacer clic sobre su nombre subrayado para viajar a su historia».
 
 # La Isla Norte: Travesía viajera
 
@@ -34,11 +34,11 @@ Alegres y con gran decisión nos lanzamos a la aventura. Conseguimos la van de n
 
 Descubrimos la belleza de la zona sagrada de Mount Maunganui (Mauao) y paseamos por la increíble península de Coromandel. La vegetación selvática y el clima húmedo y cálido nos presentaron la esencia costera de la isla en la zona de Tauranga.
 
-## Mont Manganui
+## Mount Maunganui
 
 <div class="post-img-box img-mediano img-izquierda"><img src="/img/img_5531.webp" alt="Imagen de bitácora"><span class="img-caption">Pokohino Beach</span></div>
 
-Mucha gente que viene a nueva Zelanda elije esta zona para quedarse, y la verdad es que se siente un poco mágica, la belleza del inmenso monte que bordea con el agua del pacifico, las islas tupidas de arboles alrededor de la playa. La cercanía con ciudades y restaurantes. Es un lugar presioso para pasar una temporada. En verano el movimiento era bastante y las actividades variadas, disfrutamos de idas a la playa subidas al al monte con vistas increíbles del atardecer. Además nuestros amigos nos contaron historias locales como la leyenda Maori del monte y sobre los Steel freaming que son el logo de los famosos All black. 
+Mucha gente que viene a Nueva Zelanda elige esta zona para quedarse, y la verdad es que se siente un poco mágica, la belleza del inmenso monte que bordea con el agua del Pacífico, las islas tupidas de árboles alrededor de la playa. La cercanía con ciudades y restaurantes. Es un lugar precioso para pasar una temporada. En verano el movimiento era bastante y las actividades variadas, disfrutamos de idas a la playa subidas al monte con vistas increíbles del atardecer. Además nuestros amigos nos contaron historias locales como la leyenda Maori del monte y sobre los Steel freaming que son el logo de los famosos All Blacks. 
 
 ### **Vacaciones en la península de Coromandel**
 
@@ -48,9 +48,9 @@ Unos días en playas paradisíacas, agua helada y transparente.
 
 Antiguamente conocida por los maoríes como *Hauraki* —quienes habitaron la zona durante más de un milenio. La península fue marcada por su vivencia durante la fiebre del oro en su encuentro con Europa. Thames tuvo una intensa explotación de sus milenarios bosques del árbol kauri y actividad minera que se extendió hasta mediados del siglo XX, multiplicando la población de la zona casi al punto de superar a la capital, Auckland.
 
-A principios del siglo XX, los recursos extraídos (principalmente oro y resina) comenzaron a agotarse y la zona transaccionó, cambiando su principal actividad económica a la ganadería y la pesca. Afortunadamente, alrededor de 1970 comenzaron a moverse hacia allí personas que le dieron fuerza a los movimientos de conservación ecológica y la promoción de santuarios. Se movieron para la zona personas que buscaban un ritmo de vida alternativo, artesanos, alfareros. La zona se sumió en calma y hoy también se caracteriza por ser una zona de veraneo local relajada, con paisajes espectaculares. También es famosa por playas icónicas como *Cathedral Cove* o *Hot Water Beach*.
+A principios del siglo XX, los recursos extraídos (principalmente oro y resina) comenzaron a agotarse y la zona hizo una transición, cambiando su principal actividad económica a la ganadería y la pesca. Afortunadamente, alrededor de 1970 comenzaron a moverse hacia allí personas que le dieron fuerza a los movimientos de conservación ecológica y la promoción de santuarios. Se movieron para la zona personas que buscaban un ritmo de vida alternativo, artesanos, alfareros. La zona se sumió en calma y hoy también se caracteriza por ser una zona de veraneo local relajada, con paisajes espectaculares. También es famosa por playas icónicas como *Cathedral Cove* o *Hot Water Beach*.
 
-[La península de Coromande](https://blogcito.com/diario/2026-05-29-resumen-historico-de-coromandel/)l combina la historia de su tierra con una cultura local relajada, artística y la transición posible hacia la convivencia en respeto con la naturaleza.
+[La península de Coromandel](/diario/historia-de-coromandel/) combina la historia de su tierra con una cultura local relajada, artística y la transición posible hacia la convivencia en respeto con la naturaleza.
 
 ## **McLaren Falls Park**
 
@@ -60,6 +60,6 @@ Este parque cuenta con 190 hectáreas de pura naturaleza y alberga una de las co
 
 Además, cuenta con varios senderos llanos y muy accesibles; entre ellos destaca el *Waterfall Track*, una caminata corta de apenas 20 minutos que se adentra en un frondoso bosque nativo hasta llegar a esta pequeña pero preciosa cascada.
 
-Otro Lugar increíble que visitamos fue el **Refugio de Aves Maunga tautare** un lugar cuidado por el departamento de conservación,  para el que mas vale una foto que mil palabras.
+Otro lugar increíble que visitamos fue el **Refugio de Aves Maungatautari** un lugar cuidado por el departamento de conservación,  para el que mas vale una foto que mil palabras.
 
-<div class="post-img-box img-grande img-centro"><img src="/img/diario/dsc_0375.webp" alt="Imagen de bitácora"><span class="img-caption">Caminando por el santuario con Emi, nuestro amigo y guia local </span></div>
+<div class="post-img-box img-grande img-centro"><img src="/img/diario/dsc_0375.webp" alt="Imagen de bitácora"><span class="img-caption">Caminando por el santuario con Emi, nuestro amigo y guía local </span></div>
