@@ -12,7 +12,7 @@ main_image: /img/diario/mount-agung.webp
 ---
 **¿Estás planeando tu viaje a la costa este de Bali?** En esta guía real te cuento todo lo **que hacer en Amed por libre**: desde cómo hacer snorkel en sus mejores bahías de arena negra, hasta precios actualizados de templos, mapas y consejos honestos para slow travelers. 
 
-> Amed es uno de nuestros rincones favoritos de la isla. Si estás planificando tu viaje te recomendamos consultar nuestra [Guía Completa para viajar a Bali](https://blogcito.com/diario/viajar-a-bali/) con todo lo que necesitás saber para organizar tu itinerario, visa y transportes.
+> Amed es uno de nuestros rincones favoritos de la isla. Si estás planificando tu viaje te recomendamos consultar nuestra [Guía Completa para viajar a Bali](/diario/viajar-a-bali/) con todo lo que necesitás saber para organizar tu itinerario, visa y transportes.
 
 ## Introducción
 
@@ -252,6 +252,6 @@ Calculadora personalizada
 
 Artículos recomendados:
 
-* Si querés saber más sobre la fascinante cultura y espiritualidad Balinesa descubre [El alma de Bali: tradiciones y secretos.](https://blogcito.com/diario/bali-rituales-cultura-tradiciones-secretos/) 
-* Si querés ver algunos de los paisajes más fascinantes, planificá tu viaje a la isla vecina: [Qué ver y dónde alojarse en Nusa Penida.  ](https://blogcito.com/diario/que-ver-en-nusa-penida-guia/)
-* También te recomendamos visitar [Ubud el corazón cultural de Bali. ](https://blogcito.com/diario/que-hacer-ubud-bali-que-ver-zonas-consejos-guia/)
+* Si querés saber más sobre la fascinante cultura y espiritualidad Balinesa descubre [El alma de Bali: tradiciones y secretos.](/diario/bali-rituales-cultura-tradiciones-secretos/) 
+* Si querés ver algunos de los paisajes más fascinantes, planificá tu viaje a la isla vecina: [Qué ver y dónde alojarse en Nusa Penida.  ](/diario/que-ver-en-nusa-penida-guia/)
+* También te recomendamos visitar [Ubud el corazón cultural de Bali. ](/diario/que-hacer-ubud-bali-que-ver-zonas-consejos-guia/)

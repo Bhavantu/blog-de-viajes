@@ -45,7 +45,7 @@ Para quienes estén planeando sus primeros pasos en la isla, acá resumimos la l
   * 🌧️ **Temporada de lluvias (noviembre a abril):** Los precios bajan y hay menos turismo, pero los chubascos tropicales son frecuentes.
 * **Cultura local:** 
 
-  La religión mayoritaria en la isla es el hinduismo balinés. El idioma local es el balinés, la lengua oficial del país es el Bahasa Indonesia, y el inglés se habla ampliamente en zonas turísticas. Para profundizar en sus costumbres y la vida cotidiana, podés leer nuestro artículo dedicado: [El alma de Bali: Rituales, la familia y el secreto de la felicidad balinesa](https://blogcito.com/diario/el-alma-de-bali/).
+  La religión mayoritaria en la isla es el hinduismo balinés. El idioma local es el balinés, la lengua oficial del país es el Bahasa Indonesia, y el inglés se habla ampliamente en zonas turísticas. Para profundizar en sus costumbres y la vida cotidiana, podés leer nuestro artículo dedicado: [El alma de Bali: Rituales, la familia y el secreto de la felicidad balinesa](/diario/bali-rituales-cultura-tradiciones-secretos/).
 
 - - -
 
@@ -141,7 +141,7 @@ Es una de las zonas costeras más hermosas. Despliega acantilados impresionantes
 
 ### Ubud (Centro)
 
-Es el corazón cultural de la isla, rodeado de selva y campos de arroz. Caminar por las calees es una experiencia cultural en si misma ya que hay mucha población local. Las actividades son muy variadas, te recomendamos **[profundizár en nuestra guía detallada: Ubud: cultura, gemas ocultas. ](https://blogcito.com/diario/que-hacer-ubud-bali-que-ver-zonas-consejos-guia/)**
+Es el corazón cultural de la isla, rodeado de selva y campos de arroz. Caminar por las calees es una experiencia cultural en si misma ya que hay mucha población local. Las actividades son muy variadas, te recomendamos **[profundizár en nuestra guía detallada: Ubud: cultura, gemas ocultas. ](/diario/que-hacer-ubud-bali-que-ver-zonas-consejos-guia/)**
 
 Dividimos las opciones de alojamiento en dos puntos Ubud Central (cerca de todo a pie, pero con mayor movimiento) y Ubud Norte / Alrededores (entorno calmo en la naturaleza). 
 
@@ -240,7 +240,7 @@ Es un tranquilo pueblo pesquero famoso por sus playas de arena negra volcánica 
 * 📍 **Ubicación:** Costa nordeste.
 * ⏱️ **Distancia del aeropuerto:** 2 horas y 30 minutos a 3 horas.
 * 🏛️ **Puntos de interés:** Snorkel en Jemeluk Bay, buceo y miradores al volcán Agung.
-* 👉 **Explorá nuestra guía completa:** [Qué hacer en Amed, Bali: Guía real de slow travel](https://blogcito.com/diario/que-hacer-en-amed-bali-guia-real-de-slow-travel/).
+* 👉 **Explorá nuestra guía completa:** [Qué hacer en Amed, Bali: Guía real de slow travel](/diario/que-hacer-amed-que-ver-guia-presupuesto/).
 
 ## Dónde quedarse en Amed
 

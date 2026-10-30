@@ -73,4 +73,4 @@ Elegir tu hospedaje es solo el primer paso. Para organizar las visitas a los aca
 
 ### Otros recursos útiles para tu viaje por Indonesia:
 * 🌊 **[Amed, Bali: Guía real de slow travel y snorkel](/diario/que-hacer-amed-que-ver-guia-presupuesto/)**
-* ⛩️ **[El Alma de Bali: Cultura, rituales y tradiciones locales](/diario/el-alma-de-bali-cultura-tradiciones-y-la-secretos-sobre-la-isla/)**
+* ⛩️ **[El Alma de Bali: Cultura, rituales y tradiciones locales](/diario/bali-rituales-cultura-tradiciones-secretos/)**

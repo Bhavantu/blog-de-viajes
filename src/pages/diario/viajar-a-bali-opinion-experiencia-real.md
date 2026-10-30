@@ -32,7 +32,7 @@ Acercarse a esta cultura quedándonos en *guest houses*, asistiendo a ceremonias
 * **[Ritual de Purificación sagrado (Melukat)](https://www.getyourguide.com/bali-l347/bali-visita-al-templo-gunung-kawi-con-ritual-de-purificacion-t1141894/?partner_id=ZM6TN20&psrc=partner_api&currency=VND&cmp=v4.cmt9nfx1e03as01kxgs8ud6fe_blogcito&partner_visitor_id=blogcito):** Una ceremonia tradicional en manantiales sagrados (como Tirta Empul o Tirta Gangga) donde se realiza una limpieza espiritual guiada para liberar el estrés y renovar energías.
 * **[Taller de creación de ofrendas (Canang Sari)](https://www.getyourguide.com/es-es/ubud-l32246/ubud-experiencia-de-ofrendas-canang-sari-y-bendicion-balinesa-t945789/?ranking_uuid=867f7dc1-7eef-4105-8528-9f4e2bbfa412&q=ubud+taller+de+elaboracion+de+ofrendas&adults=1):** Una actividad donde te reciben en una casa local, viste trajes tradicionales, elaborás las ofrendas de flores y comprendés en profundidad el significado detrás de sus prácticas religiosas diarias.
 
-📖 **Para profundizar en el contexto cultural:** Si querés comprender la cosmovisión, el sistema de castas y la vida cotidiana de la isla, te recomendamos leer nuestro artículo: [El Alma de Bali: cultura, tradiciones y secretos sobre la Isla de los Dioses](https://blogcito.com/diario/el-alma-de-bali-cultura-tradiciones-y-la-secretos-sobre-la-isla/).
+📖 **Para profundizar en el contexto cultural:** Si querés comprender la cosmovisión, el sistema de castas y la vida cotidiana de la isla, te recomendamos leer nuestro artículo: [El Alma de Bali: cultura, tradiciones y secretos sobre la Isla de los Dioses](/diario/bali-rituales-cultura-tradiciones-secretos/).
 
 <div class="post-img-box img-mediano img-centro"><img src="/img/diario/qué-hacer-en-bali-cultural-.webp" alt="Imagen de bitácora"><span class="img-caption">Actividades culturales en Bali</span></div>
 
@@ -52,8 +52,8 @@ Otra joya es **Virgin Beach (Bias Tugel)**, una playa tranquila de agua turquesa
 
 #### Snorkel y vida marina
 
-* **Amed:** Un pueblo costero súper relajado que cuenta con puntos de snorkel accesibles directamente desde la orilla (Jemeluk Bay, Lipah Beach y el barco hundido *Japanese Shipwreck*). Leé la experiencia completa en nuestra [guía de slow travel en Amed](https://blogcito.com/diario/que-hacer-amed-que-ver-guia-presupuesto/).
-* **Snorkel con mantas gigantes en Nusa Penida:** Una de las experiencias más sobrecogedoras del viaje. Se pueden ver en Manta Bay y Manta Point, ya sea alojándote en la isla o en una excursión de un día. Te dejamos todos los consejos de logística en nuestra [guía completa sobre Nusa Penida](https://blogcito.com/diario/que-ver-en-nusa-penida-guia/).
+* **Amed:** Un pueblo costero súper relajado que cuenta con puntos de snorkel accesibles directamente desde la orilla (Jemeluk Bay, Lipah Beach y el barco hundido *Japanese Shipwreck*). Leé la experiencia completa en nuestra [guía de slow travel en Amed](/diario/que-hacer-amed-que-ver-guia-presupuesto/).
+* **Snorkel con mantas gigantes en Nusa Penida:** Una de las experiencias más sobrecogedoras del viaje. Se pueden ver en Manta Bay y Manta Point, ya sea alojándote en la isla o en una excursión de un día. Te dejamos todos los consejos de logística en nuestra [guía completa sobre Nusa Penida](/diario/que-ver-en-nusa-penida-guia/).
 * **Islas Gili:** Una escapada ideal para nadar junto a tortugas marinas en arrecifes protegidos, a los cuales se accede fácilmente tomando un *fast boat*.
 
 #### Trekkings y volcanes
@@ -125,10 +125,10 @@ En este post compartimos nuestro balance de experiencia. Para resolver los aspec
 
 ## Artículos relacionados para planificar tu itinerario:
 
-* 🗺️ **[Viajar a Bali en 2026: Requisitos, transporte y mapa de zonas](/diario/viajar-a-bali-requisitos-transporte-y-zonas-para-quedarse/)**
+* 🗺️ **[Viajar a Bali en 2026: Requisitos, transporte y mapa de zonas](/diario/viajar-a-bali/)**
 
 
 * 🌿 **[Qué hacer en Ubud: Guía de zonas, templos y consejos](/diario/que-hacer-ubud-bali-que-ver-zonas-consejos-guia/)**
 * 🌊 **[Qué hacer en Amed: Guía real de slow travel y presupuesto](/diario/que-hacer-amed-que-ver-guia-presupuesto/)**
 * 🏝️ **[Nusa Penida: Guía completa para visitarla sin aglomeraciones](/diario/que-ver-en-nusa-penida-guia/)**
-* ⛩️ **[El Alma de Bali: Cultura, tradiciones y filosofía balinesa](/diario/el-alma-de-bali-cultura-tradiciones-y-la-secretos-sobre-la-isla/)**
+* ⛩️ **[El Alma de Bali: Cultura, tradiciones y filosofía balinesa](/diario/bali-rituales-cultura-tradiciones-secretos/)**

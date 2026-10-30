@@ -126,7 +126,7 @@ Ojo: estas fechas son orientativas y varían según la fuente. Los meses de tran
 
 Lo ideal es comenzar la mañana temprano hacia la **Península de Son Tra**, la franja verde que rodea la bahía de Da Nang. Allí se encuentra la **Pagoda Linh Ung Bãi Bụt**, una pagoda activa atendida por la comunidad local y monjes residentes. La construcción destaca por sus detalles dorados y esculturas de dragones, además de ofrecer una vista panorámica privilegiada de toda la bahía. En este predio se erige la estatua de **Lady Buddha (Quan Am)**, de 67 metros de altura, orientada hacia la ciudad; además, se puede visitar la pagoda y el precioso jardín (foto de portada). 
 
-> 💡 ¿Lady Buddha es uno de los tres vértices del triángulo espiritual que resguarda la ciudad? Existe una leyenda local que enlaza la fe con los datos meteorológicos de los tifones en la costa. Podés leer la historia completa en nuestro artículo **[El Triángulo Sagrado que protege a la ciudad Da Nang](https://blogcito.com/diario/triangulo-sagrado-da-nang-vietnam-pagodas-linh-ung/)**
+> 💡 ¿Lady Buddha es uno de los tres vértices del triángulo espiritual que resguarda la ciudad? Existe una leyenda local que enlaza la fe con los datos meteorológicos de los tifones en la costa. Podés leer la historia completa en nuestro artículo **[El Triángulo Sagrado que protege a la ciudad Da Nang](/diario/triangulo-sagrado-da-nang-vietnam-pagodas-linh-ung/)**
 
 <div class="post-img-box img-pequeño img-centro"><img src="/img/diario/pagoda-peninsula-de-son-tra-da-nang-de-lady-buda-.webp" alt="Imagen de bitácora"><span class="img-caption">Pagoda budista, península de Son Trá</span></div>
 
@@ -255,7 +255,7 @@ Da Nang ofrece mucho más que tres días; nosotros nos quedamos dos meses disfru
    Un recorrido detallado por la rica cultura de comida vegana de la ciudad y los mejores cafés para trabajar o relajarse. (PRÓXIMAMENTE)
 2. **Planes Alternativos y Vida Local en Da Nang:**
    Actividades fuera de la ruta turística habitual: partidos de Pickleball, caminatas al atardecer por el Río Han, talleres culturales y todo lo que aprendimos durante nuestra estadía prolongada. (PRÓXIMAMENTE)
-3. **[Vivir como nómada digital en Da Nang:](https://blogcito.com/diario/nomada-digital-vietnam-da-nang-costo-de-vida-alquiler/)**
+3. **[Vivir como nómada digital en Da Nang:](/diario/nomada-digital-vietnam-da-nang-costo-de-vida-alquiler/)**
    Todo sobre costo de vida, mejores zonas para alquilar apartamento y el plan paso a paso para instalarte de forma organizada.
 
 *Gracias por leernos. Si querés ampliar información sobre algún punto, no dudes en dejarnos tu comentario o escribirnos.*

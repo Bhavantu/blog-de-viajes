@@ -53,7 +53,7 @@ Elegir bien la zona de tu hotel es crucial debido a las distancias de la isla:
 * **Costa Este:** Paz absoluta, pueblos tradicionales y amaneceres únicos. *(Recomendamos: [Kabeh Jati Garden](https://www.booking.com/hotel/id/kabeh-jati-garden-villa-amp-restaurant.html) y [Seven Dreams](https://www.booking.com/hotel/id/seven-dreams-a-pramana-experience.html))*.
 * **Costa Oeste:** Cercanía a Crystal Bay y a las puestas de sol más famosas. *(Recomendamos: [Crystal Bay Bungalows](https://www.booking.com/hotel/id/crystal-bay-pool-view-bungalow.html))*.
 
-📖 **Análisis detallado de alojamientos:** Para ver la comparativa completa de cada zona, fotos y pros/contras de los hoteles, consultá nuestra guía especializada: **[Dónde quedarse en Nusa Penida: Zonas y hoteles recomendados](/diario/donde-quedarse-en-nusa-penida/)**.
+📖 **Análisis detallado de alojamientos:** Para ver la comparativa completa de cada zona, fotos y pros/contras de los hoteles, consultá nuestra guía especializada: **[Dónde quedarse en Nusa Penida: Zonas y hoteles recomendados](/diario/donde-quedarse-nusa-penida-que-hacer-en-nusa-penida/)**.
 
 - - -
 
@@ -111,7 +111,7 @@ Una de las experiencias imprescindibles en la isla es realizar un tour en lancha
 ## Artículos relacionados para armar tu ruta por Bali:
 
 Todo lo que necesitas saber para organizar tu viaje: 
-* **[Guía General de Bali: Requisitos, transporte](/diario/viajar-a-bali-requisitos-transporte-y-zonas-para-quedarse/)**
-* 🏨 **[Dónde quedarse en Nusa Penida: Análisis de zonas y hoteles recomendados](/diario/donde-quedarse-en-nusa-penida/)**
+* **[Guía General de Bali: Requisitos, transporte](/diario/viajar-a-bali/)**
+* 🏨 **[Dónde quedarse en Nusa Penida: Análisis de zonas y hoteles recomendados](/diario/donde-quedarse-nusa-penida-que-hacer-en-nusa-penida/)**
 * 🌿 **[Qué hacer en Ubud: Templos, danzas y consejos prácticos](/diario/que-hacer-ubud-bali-que-ver-zonas-consejos-guia/)**
-* ⛩️ **[El Alma de Bali: cultura, tradiciones y la secretos sobre la Isla de los Dioses](/diario/el-alma-de-bali-cultura-tradiciones-y-la-secretos-sobre-la-isla/)**
+* ⛩️ **[El Alma de Bali: cultura, tradiciones y la secretos sobre la Isla de los Dioses](/diario/bali-rituales-cultura-tradiciones-secretos/)**
