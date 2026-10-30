@@ -1,66 +1,66 @@
 ---
 layout: ../../../layouts/BlogPostLayout.astro
-title: "First Days in New Zealand: North Island Route and 3 Must-Visit East Coast Spots"
-date: 2026-05-25T01:57:00.000Z
+title: "First Days in New Zealand: A North Island Route and 3 Must-See Spots on
+  the East Coast"
+date: 2026-05-25T13:57:00.000+12:00
 tag: bitacora
 pais: Nueva Zelanda
-description: "A brief summary ordering the experience and expanding on different destinations of the North Island."
+description: A short summary that organizes the experience, with more detail in
+  the different destinations of the North Island
 main_image: /img/diario/img_5481.webp
 archivo_original: rutas-isla-norte-nueva-zelanda-lugares.md
 ---
+### **The dream is on its way**
 
-## The dream is on its way
+Traveling to New Zealand was a wish that had been knocking on the door of my curiosity from deep inside me. A country of mountain experiences and long road trips with iconic landscapes, plus the experiences people shared and the phrase that kept coming up: *"You'll love that country."*
 
-Traveling to New Zealand was a desire that tapped into my curiosity from the depths of my being. A country of mountain experiences and long highway routes with iconic landscapes, added to the shared experiences people had and the phrase that kept repeating itself: "*That country will charm you*".
+Over the years the wish grew. In 2025 I applied online for a travel-and-work visa (*Working Holiday New Zealand*) that would let me live the experience for a year in 2026. The dream of a camper road trip across the whole island with good music, good company and a Uruguayan mate was definitely one of the goals on my *dream board*.
 
-As the years went by, my desire grew. In 2025, I applied online for a travel and work visa (*Working Holiday New Zealand*) that would allow me to live the experience for a year in 2026. The dream of taking a roadtrip across the island in a camper van with good music, company, and an Uruguayan mate was undoubtedly one of my goals on my *dream board*.
-
-<div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/well-kiwi-benefits-03-gjtz-facebookjumbo.webp" alt="Imagen de bitácora"><span class="img-caption">El kiwi (kiwifruit) y sus variedades</span></div>
+<div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/well-kiwi-benefits-03-gjtz-facebookjumbo.webp" alt="Imagen de bitácora"><span class="img-caption">The kiwi (kiwifruit) and its varieties</span></div>
 
 <div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/kiwibird.webp" alt="Imagen de bitácora"><span class="img-caption">kiwibird</span></div>
 
-New Zealand, a country where locals refer to themselves as the native nocturnal bird (*kiwi bird*) and fruit (*kiwi fruit*); yes, all at once. Mixture of friendly and resolute people who enjoy quietness and calmness. The truth is lovely sharing experiences with these people on the trip. For some months we traveled and lived the experience of living in a camper van, going for hikes and discovering incredible landscapes.
+\
+New Zealand, a country where the locals call themselves after a native nocturnal bird (*kiwi bird*) and a fruit (*kiwi fruit*); yes, all at the same time. A mix of kind, resourceful people who enjoy peace and calm. Honestly, it's lovely to spend time with these people on the trip. For a few months we traveled and lived the experience of living in a camper van, going on hikes and seeing incredible landscapes.
 
-And for another time, work, live in a shared house in the city, make friends, have a life on the other side, in another language, in a new version of my being in constant creation. I lived 6 months in Christchurch and it felt like a second home amidst the Southern Alps. I worked at an organic market, chatted with people about their daily lives, learned more English along the way, no doubt a lovely life experience.
+And for another stretch, working, living in a shared house in the city, making friends, having a life somewhere else, in another language, in a new version of myself in constant creation. I lived 6 months in Christchurch and it felt like a second home among the Southern Alps. I worked at an organic market, chatted with people in their everyday lives, learned more English along the way, definitely a lovely life experience.
 
-The trip lasted 8 months, it was an extensive adventure and mainly divided between: traveling by camper van on the island and living in the city as a *Working Holiday person*. Epic places, each with its own magic, that's why this general article orders the adventure and then expands on the experience that catches your attention knowing.
+The trip lasted 8 months. It was a long adventure, mainly split between traveling by camper van around the island and living in the city as a *Working Holiday person*. The epic places, each with its own magic, are why this general article lays out the adventure, and then you can go deeper into whichever experience catches your attention.
 
-Dear reader, "If you're interested in delving deeper into a corner, all you have to do is touch or click on its underlined name to travel to its story".
+Dear reader, "If you want to go deeper into a corner, just tap or click on its underlined name to travel to its story."
 
----
+# The North Island: a traveler's journey
 
-## The North Island: Travel Odyssey
+Happy and determined, we launched into the adventure. We got the van of our dreams in Auckland and lived for a while near the beach and the iconic Mount Maunganui, with our friends who were half local, half Uruguayan.
 
-Joyful and with great determination we embarked on an adventure. We achieved our dream ride in Auckland, lived a time near the beach and the iconic Mount Maunganui with our friends half locals, half Uruguayans.
+We discovered the beauty of the sacred area of Mount Maunganui (Mauao) and explored the incredible Coromandel Peninsula. The jungle vegetation and the warm, humid climate introduced us to the coastal essence of the island in the Tauranga area.
 
-We discovered the beauty of Mount Maunganui's (Mauao) sacred zone and strolled along the incredible Coromandel Peninsula. The dense vegetation and humid, warm climate presented us with the essence of coastal life on the island in the Tauranga area.
-
-### Mount Maunganui
+## Mount Maunganui
 
 <div class="post-img-box img-mediano img-izquierda"><img src="/img/img_5531.webp" alt="Imagen de bitácora"><span class="img-caption">Pokohino Beach</span></div>
 
-Many people who come to New Zealand choose this area to stay, and the truth is that it feels a little magical, the beauty of the immense mountain bordering with Pacific water, dense forests of trees around the beach. The proximity to cities and restaurants. It's a precious place to spend a season. In summer, the movement was quite active and varied activities, we enjoyed going to the beach and hiking up the mountain with incredible views of sunset. Additionally, our friends told us local stories like the Maori legend of the mountain and about the Steel framing that is the logo of the famous All Blacks.
+Many people who come to New Zealand choose this area to stay, and honestly it feels a little magical: the beauty of the huge mountain bordering the water of the Pacific, the islands thick with trees around the beach, the closeness to cities and restaurants. It's a beautiful place to spend a season. In summer there was a lot going on and a variety of activities, and we enjoyed trips to the beach and climbs up the mountain with incredible views of the sunset. Our friends also told us local stories, like the Maori legend of the mountain and the Steel freaming, which are the logo of the famous All Blacks.
 
-### Holidays on the Coromandel Peninsula
+### **Vacation on the Coromandel Peninsula**
 
-A few days in paradise beaches, icy and transparent water.
+A few days on paradise beaches, with icy, transparent water.
 
 <div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/0d27c22d-8ac1-41d7-8b29-3d69cad7e9ba.webp" alt="Imagen de bitácora"><span class="img-caption">Pokohino Beach</span></div>
 
-Anciently known to the Maori as *Hauraki* —who inhabited the area for more than a millennium. The peninsula was marked by its experience during the gold rush in its encounter with Europe. Thames had an intense exploitation of its ancient kauri forests and mining activity that extended until mid-20th century, multiplying the population of the area almost to surpassing the capital, Auckland.
+Known in the past by the Maori as *Hauraki*, who lived in the area for more than a millennium. The peninsula was marked by its experience of the gold rush and its encounter with Europe. Thames saw intense exploitation of its ancient kauri forests, along with mining activity that lasted until the middle of the 20th century, multiplying the area's population to the point of almost surpassing the capital, Auckland.
 
-At the beginning of the 20th century, extracted resources (mainly gold and resin) began to run out and the area transitioned, changing its main economic activity to cattle ranching and fishing. Luckily, around 1970 people started moving there who gave strength to ecological conservation movements and sanctuary promotion. People moved to the area seeking an alternative lifestyle, artisans, potters. The area sank into calmness and today it's also characterized as a local relaxed summer resort area, with spectacular landscapes. It's also famous for iconic beaches like *Cathedral Cove* or *Hot Water Beach*.
+At the beginning of the 20th century, the extracted resources (mainly gold and resin) began to run out, and the area went through a transition, changing its main economic activity to farming and fishing. Fortunately, around 1970 people began to move there who gave strength to the ecological conservation movements and the promotion of sanctuaries. People looking for an alternative pace of life, craftspeople and potters moved to the area. The area settled into calm and today it is also a relaxed local summer destination with spectacular scenery. It's also famous for iconic beaches like *Cathedral Cove* or *Hot Water Beach*.
 
-[The Coromandel Peninsula](https://blogcito.com/diario/2026-05-29-resumen-historico-de-coromandel/) combines the history of its land with a relaxed, artistic local culture and the possible transition towards coexistence in respect with nature.
+[The Coromandel Peninsula](/en/journal/history-of-coromandel-new-zealand/) combines the history of its land with a relaxed, artistic local culture and the possible transition toward coexisting in respect with nature.
 
-### McLaren Falls Park
+## **McLaren Falls Park**
 
-Solo 15 minutes from Mount Maunganui, this park was an incredible escape. The prevailing calmness, the humid freshness of the waterfall, ducks gliding across the water and families strolling peacefully on the weekend gifted us a profoundly positive impact to begin understanding our journey through New Zealand.
+**McLaren Falls Park:** Just 15 minutes from Mount Maunganui, this park was an incredible getaway. The prevailing calm, the damp freshness of the waterfall, the ducks gliding across the water and the families strolling peacefully over the weekend gave us an extremely positive first impression as we began to understand the trip through New Zealand.
 
-This park spans 190 hectares of pure nature and houses one of the country's most impressive collections of trees. Here, what stands out particularly is its astonishing blend of native giants like the majestic **Rimu** (red pine), the revered **Totara**, the towering **Kahikatea**, and the iconic silver fern (**Ponga**), which coexist with exotic species that transform the landscape with spectacular colors every season.
+This park has 190 hectares of pure nature and houses one of the most impressive botanical collections of trees in the country. It stands out especially for its astonishing mix of native giants such as the majestic **Rimu** (red pine), the venerated **Totara**, the towering **Kahikatea** and the iconic silver fern (**Ponga**), which live alongside exotic species that transform the landscape with spectacular colors in every season of the year.
 
-Besides, it features several flat and very accessible trails; among them stands out the **Waterfall Track**, a short walk of just 20 minutes that ventures into a lush native forest to reach this small but lovely waterfall.
+It also has several flat, very accessible trails; among them stands out the *Waterfall Track*, a short walk of just 20 minutes that goes into a lush native forest until you reach this small but beautiful waterfall.
 
-Another incredible place we visited was the **Maunga Tautare Bird Refuge**, a place carefully looked after by the conservation department, for which a thousand words are not worth more than one photo.
+Another incredible place we visited was the **Maungatautari Bird Sanctuary**, a place looked after by the conservation department, for which a picture is worth a thousand words.
 
-<div class="post-img-box img-grande img-centro"><img src="/img/diario/dsc_0375.webp" alt="Imagen de bitácora"><span class="img-caption">Caminando por el santuario con Emi, nuestro amigo y guia local </span></div>
+<div class="post-img-box img-grande img-centro"><img src="/img/diario/dsc_0375.webp" alt="Imagen de bitácora"><span class="img-caption">Walking through the sanctuary with Emi, our friend and local guide </span></div>
