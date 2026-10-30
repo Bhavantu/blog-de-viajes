@@ -70,7 +70,7 @@ Retraducir desde el original en español, no parchear. Mientras tanto, marcarlos
 - [x] ruta-nueva-zelanda-isla-sur-12-dias. Residuo del modelo `\[cite: 1]` junto a "Fat Eddie's" (corregido en `retraducciones-en`)
 - [x] que-hacer-christchurch-2-dias. Caption con "Chrischruch" mal escrito Corregido el 30/10 ("Christchurch Central")
 - [x] que-hacer-da-nang-vietnam-itinerario-3-dias. Corregido el 30/10 en `retraducciones-en`: tilde de "Montañas de Mármol", "privilegeda", "PROXIMAMENTE", "farolitos" y "farolillos" mezclados, lista de Ba Na Hills, formato de horas, caption vacío del Dragon Bridge y el horario del espectáculo (viernes, sábado y domingo a las 21:00, hasta las 21:30; llegar 15 minutos antes). También resuelto en `retraducciones-en` (ES y EN): se sacó el segundo link repetido del taller de farolillos (la URL de GetYourGuide no se tocó), se quitó el span vacío del icono de "Te ahorramos la búsqueda", y las temporadas de clima se ajustaron a lo que dicen las guías de turismo (seca de enero a agosto, con la mejor ventana de febrero a mayo; lluvias de septiembre a diciembre) con una nota de que varían, más la experiencia propia de agosto y septiembre
-- [ ] Voseo mezclado con tú en varios artículos
+- [x] Voseo mezclado con tú en varios artículos. Resuelto el 31/10 siguiendo el voseo uruguayo (se corrigen indicativo e imperativo afirmativo; no se tocan subjuntivos como "acuerdes", imperativos negativos ni futuros como "podrás"): el artículo de comprar camper van tenía ~20 formas de tú ("puedes", "debes", "compras", "mira"...) y dos descripciones tenían "Descubre" y "necesitas". El resto de los artículos ya estaba en voseo
 
 ## Prioridad 4. Links internos rotos
 
