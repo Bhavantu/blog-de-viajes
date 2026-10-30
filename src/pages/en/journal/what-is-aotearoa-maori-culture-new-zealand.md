@@ -3,8 +3,8 @@ layout: ../../../layouts/BlogPostLayout.astro
 title: "What is Aotearoa? Meaning, History & Maori Culture in New Zealand"
 description: "Discover what Aotearoa means (the land of the long white cloud), the origins of its legends, and the living history of Maori culture in New Zealand."
 date: 2026-04-27T13:22:00.000+12:00
-tag: context & culture
-pais: New Zealand
+tag: contexto y cultura
+pais: Nueva Zelanda
 main_image: /img/diario/img-lake-pearson-campamento-arthur-pass.webp
 archivo_original: aotearoa-historia-cultura-maori-nueva-zelanda.md
 ---
