@@ -9,7 +9,7 @@ Todo está commiteado en `main`; falta el push (lo hace Santi desde la terminal 
 Hecho: Prioridades 1, 2, 3 y 4 completas (retraducciones auditadas, errores de los originales en español, voseo y links internos al slug actual). El build corre bien (73 páginas).
 
 Pendiente, en este orden:
-1. **Link de Airalo (decisión de Santi).** El programa de afiliados de Airalo se cobra por Impact, pero el sitio quedó con `https://airalo.tpx.lu/8J5sLaD4` (Travelpayouts) en el layout y en 4 artículos. Candidato: `https://airalo.pxf.io/DWa66G` (Impact). Santi tiene que confirmar en su panel de Impact (partners.airalo.com) cuál es el link de Blogcito. Después: ponerlo en `BlogPostLayout.astro` y en viajar-a-bali, travel-to-bali y nómada digital (ES y EN), sacar `tpx.lu`, y actualizar CLAUDE.md.
+1. ~~Link de Airalo~~ Resuelto el 31/10: Airalo se cobra por Impact y todos los links (botón del layout y 4 artículos) usan https://airalo.pxf.io/c/7468102/1268485/15608?partnerpropertyid=8600748. Falta una prueba de Santi: hacer un click y ver que aparezca en el panel de Impact.
 2. Hacer push de `main`.
 3. Consultar con Lore los veredictos de alojamiento que faltan (working holiday Christchurch y 4 hoteles de Ubud). D'tepi y Anugrah ya están marcados.
 4. Afiliados de Prioridad 5, solo con OK de Santi por grupo: `aid=` de Booking de distintos IDs y los links de trip.com del Monkey Forest.
@@ -98,7 +98,7 @@ Apuntar directo al slug actual en vez de pasar por redirects.
 - [ ] Agregar hreflang entre versiones ES y EN, y archivo_original en los posts en inglés nuevos para el switch de idioma
 - [ ] Agregar og:image y schema de Article (autor, fecha de modificación)
 - [ ] Cargar Netlify Identity solo en /admin
-- [ ] Revisar scripts de afiliados. **Parcialmente resuelto:** el script de emrldco.com ya se quitó de Layout.astro. Hoy Stay22 (letmeallez en BlogPostLayout) maneja los links salientes y Travelpayouts queda solo en el link de Airalo (tpx.lu). Falta dejar asentado qué comercio maneja cada uno (Booking, GetYourGuide, Amazon con tag blogcito09-20, Airalo) y limpiar lo que quedó en los posts (relevado el 29/10/2026):
+- [ ] Revisar scripts de afiliados. **Parcialmente resuelto:** el script de emrldco.com ya se quitó de Layout.astro. Hoy Stay22 (letmeallez en BlogPostLayout) maneja los links salientes y Airalo va por Impact (link de Impact de Blogcito). Falta dejar asentado qué comercio maneja cada uno (Booking, GetYourGuide, Amazon con tag blogcito09-20, Airalo) y limpiar lo que quedó en los posts (relevado el 29/10/2026):
   - **Resuelto el 31/10** (todos los links de Airalo quedaron como https://airalo.tpx.lu/8J5sLaD4, sin parámetros): Link de Airalo con parámetros de tracking de Travelpayouts (`trs`, `journey_id`, `trace_id`, `page_url` apuntando a otro artículo): nomada-digital-vietnam-da-nang-costo-de-vida-alquiler y digital-nomad-da-nang-cost-of-living
   - **Resuelto el 31/10** (todos los links de Airalo quedaron como https://airalo.tpx.lu/8J5sLaD4, sin parámetros): Link de Airalo con parámetros de Impact (`irclickid`, `irgwc`, `utm_source=impact`): los mismos dos artículos
   - **Resuelto el 31/10** (Stay22 maneja GetYourGuide, así que se sacó todo el query string con `partner_id`, `psrc`, `currency=VND`, `cmp` y `partner_visitor_id` de los 10 links): GetYourGuide con `partner_id=ZM6TN20` y `cmp=...`: viajar-a-bali-opinion-experiencia-real (4 links) e is-bali-worth-visiting (4)
