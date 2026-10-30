@@ -240,7 +240,7 @@ If I were to choose again, I would most likely go for the second area we stayed 
 
 💰 **Estimated price:** 56 to 67 USD / 49 to 58 EUR (~1,000,000 - 1,200,000 IDR) per night.
 
-#### Anugrah Twin Ubud
+#### [Anugrah Twin Ubud](https://www.booking.com/hotel/id/anugerah-twin-ubud.es.html)
 
 📍 **Location:** Close to the center of Ubud and very close to the Monkey Forest, tucked away in the alleys, so it's quiet.
 
@@ -258,7 +258,7 @@ If I were to choose again, I would most likely go for the second area we stayed 
 
 💰 **Estimated price:** 9 to 12 USD / 8 to 11 EUR (~160,000 - 215,000 IDR) per night.
 
-✅ **We stayed here.** The apartments were large with a direct view of the jungle, and sometimes we saw monkeys in the trees. Very quiet and pleasant. The owners, locals, were very open and friendly, and shared things about their culture and traditions with us.
+✅ **We stayed here.** The apartments were large with a direct view of the jungle, and sometimes we saw monkeys in the trees. Very quiet and pleasant. The owners, also locals, were just as open and warm.
 
 #### [Canting Bali Suite](https://www.booking.com/hotel/id/canting-bali-2.html?label=mkt123sc-05f6f8e3-7983-49f9-b825-a1fa8873d9f7&sid=7324201086ee77dba032cf854bff9851&aid=2440493&ucfs=1&arphpl=1&checkin=2026-10-11&checkout=2026-10-12&dest_id=4009842&dest_type=hotel&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=f5bc62961cac1625&srepoch=1790431281&all_sr_blocks=400984206_368967266_0_0_0&highlighted_blocks=400984206_368967266_0_0_0&matching_block_id=400984206_368967266_0_0_0&sr_pri_blocks=400984206_368967266_0_0_0__24552400&from=searchresults)
 
