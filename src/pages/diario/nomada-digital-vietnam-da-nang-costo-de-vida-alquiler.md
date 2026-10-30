@@ -11,7 +11,7 @@ main_image: /img/diario/playa-my-khe-beach-.webp
 ---
 Vietnam es uno de los destinos actualmente más recomendados para nómadas digitales. Es realmente enorme, variando sus climas y temporadas dentro del país. Nuestro primer viaje fue durante agosto-septiembre y decidimos venir a la ciudad central de Da Nang.
 
-Como base para vivir tiene todo lo que uno puede necesitar: una ciudad vibrante y moderna cerca de la costa, pero que no se siente como una gran ciudad con ritmo frenético. Es un buen equilibrio: la playa Mỹ Khê es hermosa, hay muchos lugares de interés cultural cerca, la comida vietnamita es única y tiene la infraestructura de cafés con buen Internet para trabajar. En este post te contamos nuestra experiencia y todo lo que necesitas saber sobre como es vivir en Vietnam, para valorar si también se adapta a vos.
+Como base para vivir tiene todo lo que uno puede necesitar: una ciudad vibrante y moderna cerca de la costa, pero que no se siente como una gran ciudad con ritmo frenético. Es un buen equilibrio: la playa Mỹ Khê es hermosa, hay muchos lugares de interés cultural cerca, la comida vietnamita es única y tiene la infraestructura de cafés con buen Internet para trabajar. En este post te contamos nuestra experiencia y todo lo que necesitás saber sobre cómo es vivir en Vietnam, para valorar si también se adapta a vos.
 
 ## Cuándo ir: Clima y temporadas en Da Nang
 
@@ -29,7 +29,7 @@ El clima en el centro de Vietnam varía según sus zonas, así que hay que tener
 
 ## Dónde quedarse en Da Nang y cómo buscar apartamento
 
-Da nang es una zona de 1.2 millones de habitantes de los cuales el 98% son locales. La zona se divide en 8 distritos pero la mayor oferta de apartamentos para alquilar a corto y mediano plazo se encuentra en las siguientes áreas.
+Da Nang es una zona de 1,2 millones de habitantes de los cuales el 98% son locales. La zona se divide en 8 distritos pero la mayor oferta de apartamentos para alquilar a corto y mediano plazo se encuentra en las siguientes áreas.
 
 ### Las zonas principales:
 
@@ -37,7 +37,7 @@ Da nang es una zona de 1.2 millones de habitantes de los cuales el 98% son local
 
 * **An Thuong / Mỹ An (El barrio nómada y costero):** Se encuentra a pasos de la playa Mỹ Khê, está lleno de cafés para trabajar, coworkings, bares y ambiente internacional.
 
-  **Para los primeros días mientras buscas casas te recomendamos:**
+  **Para los primeros días mientras buscás casa te recomendamos:**
 
   * **Opción económica:** [Trissy House A4](https://www.booking.com/hotel/vn/trissy-house-a4.html) (limpio, sencillo y a pasos del mar).
   * **Relación precio-calidad:** [Celestine Homestay](https://www.booking.com/hotel/vn/celestine-homestay.html) (muy cómodo para trabajar los primeros días).
@@ -61,7 +61,7 @@ Nuestro objetivo era realmente hacer una base y ordenar nuestras tareas, trabajo
 **Esto es exactamente lo que hicimos y funcionó muy bien:**
 
 * **Paso 1 (Reconocimiento):** Alquilamos los primeros 3 o 4 días en un hospedaje temporal para conocer la zona caminando. En la mañana íbamos a la playa y el resto del día lo usamos para nuestro objetivo además de conocer las zonas cercanas y salir a comer.
-* **Paso 2 (La búsqueda):** Nos unimos a varios grupos de Facebook ("Da Nang Digital Nomads", "Da Nang Apartments for Rent"). En estos grupos comentamos publicaciones que ofrecían apartaementos de dueños directo, y **publicamos exactamente lo que buscábamos** en inglés. **En menos de 2 horas nos llovían respuestas y propuestas de agentes inmobiliarios** con muchos apartamentos. Caminando por la zona encontramos carteles de departamentos en alquiler. Nos acercamos a la recepción y también preguntamos; algunos nos los mostraron en el momento y con otros nos escribimos por WhatsApp.
+* **Paso 2 (La búsqueda):** Nos unimos a varios grupos de Facebook ("Da Nang Digital Nomads", "Da Nang Apartments for Rent"). En estos grupos comentamos publicaciones que ofrecían apartamentos de dueños directo, y **publicamos exactamente lo que buscábamos** en inglés. **En menos de 2 horas nos llovían respuestas y propuestas de agentes inmobiliarios** con muchos apartamentos. Caminando por la zona encontramos carteles de departamentos en alquiler. Nos acercamos a la recepción y también preguntamos; algunos nos los mostraron en el momento y con otros nos escribimos por WhatsApp.
 * **Paso 3 (el contacto)**
 
   * **Opción A (Contactar con un agente):** Telegram es el rey. Encontramos dos buenos agentes que nos pasaron opciones según nuestro presupuesto y nos añadieron a un grupo de Telegram con cientos de departamentos. En esos grupos añaden ubicación aproximada, costo, cantidad de cuartos, pros y contras, tiempo mínimo de alquiler y todo lo que se necesita saber.
@@ -137,14 +137,14 @@ El presupuesto engloba lo básico, habría que sumarle cosas como entradas a atr
 
 <div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/plato-tradicional-de-vietnam-pho-nam-vegetariano.webp" alt="Imagen de bitácora"><span class="img-caption">Plato tradicional de Vietnam pho-nam (opción vegetariana)</span></div>
 
-Da Nang tiene una oferta gastronómica gigante que se adapta a todos los gustos e intereses. Desde comida local tradicional a locales veganos, mercados callejeros, bares occidentales, comida de india, korea, japón, china, pizzerias italianas, lo que quieras.
+Da Nang tiene una oferta gastronómica gigante que se adapta a todos los gustos e intereses. Desde comida local tradicional a locales veganos, mercados callejeros, bares occidentales, comida india, coreana, japonesa y china, pizzerías italianas, lo que quieras.
 
-### ¿Cuanto sale salir a comer en Vientam?
+### ¿Cuánto sale salir a comer en Vietnam?
 
-* **Comida local:** Cobran entre **VND 30.000 y VND 70.000 por plato** (unos **USD 1.20 a USD 2.80** / €1,10 a €2,55). 
-* **Comida en restaurante turístico:** Entre **VND 80.000 y VND 200.000 por plato** (unos **USD 3.20 a USD 8.00** / €2,90 a €7,30).
-* **Café tradicional o jugos en tienda local:** Tienen un costo de **VND 20.000 a VND 55.000** (unos **USD 0.80 a USD 2.20** / €0,70 a €2,00).
-* **Café estilo workspace / especialidad:** Rondan entre **VND 45.000 a VND 60.000** (unos **USD 1.80 a USD 2.40** / €1,60 a €2,20).
+* **Comida local:** Cobran entre **VND 30.000 y VND 70.000 por plato** (unos **USD 1,20 a USD 2,80** / €1,10 a €2,55). 
+* **Comida en restaurante turístico:** Entre **VND 80.000 y VND 200.000 por plato** (unos **USD 3,20 a USD 8,00** / €2,90 a €7,30).
+* **Café tradicional o jugos en tienda local:** Tienen un costo de **VND 20.000 a VND 55.000** (unos **USD 0,80 a USD 2,20** / €0,70 a €2,00).
+* **Café estilo workspace / especialidad:** Rondan entre **VND 45.000 a VND 60.000** (unos **USD 1,80 a USD 2,40** / €1,60 a €2,20).
 
 ## Conclusión: ¿Para quién es (y para quién no es) Da Nang?
 
@@ -169,11 +169,9 @@ Esperamos que te sirva, toda la información está basada en nuestras búsquedas
   </li>
   <li style="margin-top: 10px;"><strong>Hospedajes iniciales en An Thuong / Mỹ An (Zona de playa y nómadas):</strong>
     <ul>
-      <li><strong>Opciónes económicas:</strong> <a href="https://www.booking.com/hotel/vn/trissy-house-a4.html" target="_blank" rel="noopener">Trissy House A4</a> — Hospedaje, sencillo a pasos de la zona turistica de Mỹ Khê Beach, tiene cocina.</li> 
-
-* [Phuc Thanh Luxury Hotel by THG: ](https://www.booking.com/hotel/vn/phuc-thanh-minh-danang.html?aid=2440493&label=gem131js-10CAso9AFCFnBodWMtdGhhbmgtbWluaC1kYW5hbmdIM1gDaPQBiAEBmAEzuAEZyAEM2AED6AEB-AEBiAIBqAIBuAL0wr_VBsACAdICJDNiNDdlYWFjLWIyYjYtNDUxZC1iNDhhLTczYTU2YWNmOWYyONgCAeACAQ&sid=7324201086ee77dba032cf854bff9851&all_sr_blocks=630374301_363360324_2_0_0_426501&checkin=2026-10-11&checkout=2026-10-12&dest_id=-3712125&dest_type=city&dist=0&group_adults=2&group_children=0&hapos=1&highlighted_blocks=630374301_363360324_2_0_0_426501&hpos=1&matching_block_id=630374301_363360324_2_0_0_426501&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=630374301_363360324_2_0_0_426501_34650000&srepoch=1789911422&srpvid=67e95fbb7f4d07c7&type=total&ucfs=1&)Hotel muy económico, un poco hacia el norte, cerca de la playa
-
-<li><strong>Relación calidad/precio:</strong> <a href="https://www.booking.com/hotel/vn/celestine-homestay.html" target="_blank" rel="noopener">Celestine Homestay</a> — Espacioso, tranquilo y muy cómodo para trabajar los primeros días.</li>
+      <li><strong>Opciones económicas:</strong> <a href="https://www.booking.com/hotel/vn/trissy-house-a4.html" target="_blank" rel="noopener">Trissy House A4</a> — Hospedaje sencillo a pasos de la zona turística de Mỹ Khê Beach, con cocina.</li>
+      <li><a href="https://www.booking.com/hotel/vn/phuc-thanh-minh-danang.html?aid=2440493&amp;label=gem131js-10CAso9AFCFnBodWMtdGhhbmgtbWluaC1kYW5hbmdIM1gDaPQBiAEBmAEzuAEZyAEM2AED6AEB-AEBiAIBqAIBuAL0wr_VBsACAdICJDNiNDdlYWFjLWIyYjYtNDUxZC1iNDhhLTczYTU2YWNmOWYyONgCAeACAQ&amp;sid=7324201086ee77dba032cf854bff9851&amp;all_sr_blocks=630374301_363360324_2_0_0_426501&amp;checkin=2026-10-11&amp;checkout=2026-10-12&amp;dest_id=-3712125&amp;dest_type=city&amp;dist=0&amp;group_adults=2&amp;group_children=0&amp;hapos=1&amp;highlighted_blocks=630374301_363360324_2_0_0_426501&amp;hpos=1&amp;matching_block_id=630374301_363360324_2_0_0_426501&amp;no_rooms=1&amp;req_adults=2&amp;req_children=0&amp;room1=A%2CA&amp;sb_price_type=total&amp;sr_order=popularity&amp;sr_pri_blocks=630374301_363360324_2_0_0_426501_34650000&amp;srepoch=1789911422&amp;srpvid=67e95fbb7f4d07c7&amp;type=total&amp;ucfs=1&amp;" target="_blank" rel="noopener">Phuc Thanh Luxury Hotel by THG</a> — Hotel muy económico, un poco hacia el norte, cerca de la playa.</li>
+      <li><strong>Relación calidad/precio:</strong> <a href="https://www.booking.com/hotel/vn/celestine-homestay.html" target="_blank" rel="noopener">Celestine Homestay</a> — Espacioso, tranquilo y muy cómodo para trabajar los primeros días.</li>
   <li><strong>Departamento equipado:</strong> <a href="https://www.booking.com/hotel/vn/lucky-apartment-and-cafe-ngu-hanh-son.html" target="_blank" rel="noopener">Lucky Apartment and Cafe</a> — Estudio completo, ideal para estadías largas. </li>
 </ul>
 
@@ -182,7 +180,7 @@ Esperamos que te sirva, toda la información está basada en nuestras búsquedas
     <ul>
       <li><strong>Opción económica:</strong> <a href="https://www.booking.com/hotel/vn/da-nang-petro.html" target="_blank" rel="noopener">Da Nang Petro Hotel</a> — Ubicación muy céntrica para recorrer la zona urbana y los mercados.</li>
       <li><strong>Relación calidad/precio:</strong> <a href="https://www.booking.com/hotel/vn/the-riverside-nest-amp-apartment.html" target="_blank" rel="noopener">The Riverside Nest &amp; Apartment</a> — Entorno local, tranquilo y con hermosas vistas al río.</li>
-      <li><strong>Confort :</strong> <a href="https://www.booking.com/hotel/vn/rest-amp-apartment.html" target="_blank" rel="noopener">Rest &amp; Apartment</a> — Incluye piscina en el último piso, cancelación gratuita y varias opciones de cuartos con confort.
+      <li><strong>Confort :</strong> <a href="https://www.booking.com/hotel/vn/rest-amp-apartment.html" target="_blank" rel="noopener">Rest &amp; Apartment</a> — Incluye piscina en el último piso, cancelación gratuita y varias opciones de cuartos con confort.</li>
     </ul>
   </li>
 </ul>
