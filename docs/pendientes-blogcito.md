@@ -21,7 +21,8 @@ Pendiente:
 Retraducir desde el original en español, no parchear. Mientras tanto, marcarlos con noindex.
 
 - [ ] what-to-do-amed-bali-real-guide-budget (original que-hacer-amed-que-ver-guia-presupuesto). "Lanterns" por velas, "Sweet Occupation", "Pure Lempuyang", "Marmaris", Agung en 10,342 meters, "brought some as a gift", link de snorkel perdido
-  - Estado (29/10): retraducida en el commit 28eb616, pendiente de revisión contra el original
+  - Estado (29/10): retraducida en el commit 28eb616, pendiente de revisión contra el original.
+  - Auditada el 30/10 contra el original de `main`: los 4 links internos apuntan a las versiones en inglés que existen, los bloques HTML, encabezados y bullets coinciden, y los números solo cambian en separadores (50.000 → 50,000, 1,39 → 1.39). No quedan "Lanterns", "Sweet Occupation", "Pure Lempuyang", "Marmaris" ni el Agung en 10,342 metros. Se restauró la `date` del frontmatter (la retraducción la había pasado a UTC). Queda marcarla con [x] al mergear la rama
 - [ ] history-of-coromandel-new-zealand (original historia-de-coromandel). Tres párrafos inventados sobre la isla de El Hierro
   - Estado (29/10): retraducida en el commit 28eb616, pendiente de revisión contra el original
 - [ ] what-to-do-christchurch-2-days (original que-hacer-christchurch-2-dias). Restaurantes inventados, The Austin Club descrito como club de Texas, párrafos en español, "Tomorrow" por mañana
