@@ -74,7 +74,7 @@ Our goal was really to set up a base and sort out our tasks, work and upcoming t
 * **Don't settle for the first one you see** (unless it's spectacular). We waited longer than planned and on the 4th day we found a brand-new apartment 6 blocks from the beach for about USD 380 a month, which we loved.
 * **Connectivity is key:** Internet is essential for getting from one apartment to another during visits, enjoying the beach, communicating with the sellers and even translating the menu at local restaurants. And I'm not saying this only because the referral program helps support the blog, but also because we missed the seller (they send an approximate location) and it was a real catastrophe, completely unnecessary.
 
-[Click here to see the costs of the Airalo eSIM for Vietnam, and help us keep writing this blog.](https://airalo.tpx.lu/8J5sLaD4)
+[Click here to see the costs of the Airalo eSIM for Vietnam, and help us keep writing this blog.](https://airalo.pxf.io/c/7468102/1268485/15608?partnerpropertyid=8600748)
 
 * **Step 5 (Renting):** Once we decided on the apartment, the process was simple. First we cleared up all our questions about the cost of water, maintenance, cleaning, etc. We left a deposit in cash (Wise is also possible) and the next day they gave us the contract (which we read carefully), we submitted our documents and signed for two months. We paid in cash, and in our case the move-in date was that same day.
 
@@ -165,7 +165,7 @@ We hope it helps you. All the information is based on our research and real expe
 <ul>
   <li><strong>Mobile connectivity (internet across Vietnam):</strong>
     <ul>
-      <li><a href="https://airalo.tpx.lu/8J5sLaD4" target="_blank" rel="noopener">Buy a Vietnam eSIM on Airalo</a>: You activate it before leaving and have a connection as soon as you land, to order your Grab or find your way without depending on the airport WiFi.</li>
+      <li><a href="https://airalo.pxf.io/c/7468102/1268485/15608?partnerpropertyid=8600748" target="_blank" rel="noopener">Buy a Vietnam eSIM on Airalo</a>: You activate it before leaving and have a connection as soon as you land, to order your Grab or find your way without depending on the airport WiFi.</li>
     </ul>
   </li>
   <li style="margin-top: 10px;"><strong>First places to stay in An Thuong / Mỹ An (beach and nomad area):</strong>
