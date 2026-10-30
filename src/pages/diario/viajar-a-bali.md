@@ -4,7 +4,7 @@ title: "Guía de viaje a Bali 2026: Consejos, zonas, transporte y gastronomía"
 date: 2026-09-05T14:53:00.000+08:00
 tag: guia de viaje
 pais: Indonesia
-description: ¿Planeando tu primer viaje a Bali? Descubre requisitos de entrada,
+description: ¿Planeando tu primer viaje a Bali? Descubrí requisitos de entrada,
   mejores zonas para alojarte, cómo moverte y recomendaciones en esta guía
   completa.
 main_image: /img/diario/nusa-penida-village-temple.webp

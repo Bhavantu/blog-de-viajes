@@ -12,7 +12,7 @@ Nuestro sueño cuando llegamos era comprar una van en Nueva Zelanda, vivir una a
 
 Al comienzo simplemente iba a ver los autos y miraba todo con confusión intentando sacar algo en claro, pero para el final del viaje, además de cumplir el sueño del viaje en carretera, tuvimos una experiencia muy loca y compleja con una camper que quemaba aceite. Supo ser un gran dolor de cabeza, pero la verdad es que las leyes de Nueva Zelanda nos protegieron y al final todo salió bien. De hecho, esa es mi inspiración para escribir este post: informar para evitar que otros pasen por una mala experiencia al comprar un auto y compartir todo lo que fuimos aprendiendo en el camino.
 
-En este post encontrarás información básica sobre conceptos, trámites legales y recomendaciones que debes conocer antes de comprar un auto o campervan en Nueva Zelanda en 2026, junto con una checklist de consejos mecánicos para evaluar un vehículo al momento de la compra, pensado especialmente para mochileros y viajeros de ruta.
+En este post encontrarás información básica sobre conceptos, trámites legales y recomendaciones que debés conocer antes de comprar un auto o campervan en Nueva Zelanda en 2026, junto con una checklist de consejos mecánicos para evaluar un vehículo al momento de la compra, pensado especialmente para mochileros y viajeros de ruta.
 
 ## Conceptos clave: Los papeles del vehículo en Nueva Zelanda explicados
 
@@ -29,22 +29,22 @@ Los plazos de validez varían según la antigüedad del auto:
 
 ### 2. REGO (Registration): El impuesto obligatorio de circulación
 
-Es el impuesto de circulación obligatorio (la patente). Es una etiqueta de papel que va pegada en el parabrisas (abajo a la izquierda, del lado del acompañante) y que muestra su fecha de vencimiento. Básicamente, es lo que le pagas al gobierno para tener derecho a usar las carreteras. Cuesta unos $100 NZD al año y puedes renovarlo por 3, 6 o 12 meses online o en el mismo correo.
+Es el impuesto de circulación obligatorio (la patente). Es una etiqueta de papel que va pegada en el parabrisas (abajo a la izquierda, del lado del acompañante) y que muestra su fecha de vencimiento. Básicamente, es lo que le pagás al gobierno para tener derecho a usar las carreteras. Cuesta unos $100 NZD al año y podés renovarlo por 3, 6 o 12 meses online o en el mismo correo.
 
-**Atenti**: Antes de transferir el auto, mira fijamente la etiqueta para evitar heredar deudas. Si el dueño anterior dejó vencer el Rego hace tres meses y compras el auto, la deuda pasa a ser tuya. Cuando vayas al correo a hacer el traspaso, el sistema te obligará a pagar esos meses atrasados en el acto.
+**Atenti**: Antes de transferir el auto, mirá fijamente la etiqueta para evitar heredar deudas. Si el dueño anterior dejó vencer el Rego hace tres meses y comprás el auto, la deuda pasa a ser tuya. Cuando vayas al correo a hacer el traspaso, el sistema te obligará a pagar esos meses atrasados en el acto.
 
 **El límite de los 12 meses:** Si un auto pasa más de un año con el Rego vencido, el gobierno lo borra del sistema y le quita las patentes (*deregistered*). Volver a registrarlo es un dolor de cabeza y conlleva bastante dinero, así que si el Rego lleva caducado muchos meses, mejor busca otra opción.
 
 ### 3. ¿Cómo poner el auto a tu nombre? El trámite de cambio de titularidad (Change of Ownership): Simple y rápido
 
-Para hacer el cambio de dueño en persona puedes ir a cualquier oficina del correo local (PostShop), a una sucursal de la AA habilitada para cambio de titularidad o a un centro de VTNZ.
+Para hacer el cambio de dueño en persona podés ir a cualquier oficina del correo local (PostShop), a una sucursal de la AA habilitada para cambio de titularidad o a un centro de VTNZ.
 
 * **¿Qué llevar?:** Tu pasaporte, la licencia de conducir de tu país (junto con su traducción oficial o el carnet internacional) y unos $15 NZD.
-* **El Formulario:** Al llegar, buscas el **Formulario MR13B** (*Notice to buyer of registered motor vehicle*). Lo llenas en dos minutos con tus datos, los del vendedor y los del auto, lo entregas en ventanilla, pagas y listo.
-* **¿Qué dirección poner si estás de viaje?** Como mochilero, es normal que no tengas un contrato de alquiler fijo. Puedes poner la dirección física del hostel, camping o casa de amigos donde estés parando (avisa antes en recepción). Luego, cuando te mudes o consigas trabajo, puedes actualizar tu dirección gratis por la web de NZTA en dos minutos.
+* **El Formulario:** Al llegar, buscás el **Formulario MR13B** (*Notice to buyer of registered motor vehicle*). Lo llenas en dos minutos con tus datos, los del vendedor y los del auto, lo entregás en ventanilla, pagás y listo.
+* **¿Qué dirección poner si estás de viaje?** Como mochilero, es normal que no tengas un contrato de alquiler fijo. Podés poner la dirección física del hostel, camping o casa de amigos donde estés parando (avisa antes en recepción). Luego, cuando te mudes o consigas trabajo, podés actualizar tu dirección gratis por la web de NZTA en dos minutos.
 * **Por ley, el vendedor también tiene que avisar que vendió el auto** llenando otro papel (el **MR13A**). Recuérdale que lo haga el mismo día para que el sistema de transporte (NZTA) cruce los datos correctamente (puede hacerlo online).
 
-### 4. Seguro automotriz: Lo que debes saber para viajar tranquilo/a
+### 4. Seguro automotriz: Lo que debés saber para viajar tranquilo/a
 
 A diferencia de muchos de nuestros países, en Nueva Zelanda el seguro del auto no es obligatorio por ley, pero viajar sin él en mi opinión es una locura. Existen tres tipos de cobertura, pero para el presupuesto mochilero la opción básica e indispensable es el **Third Party Insurance (Seguro contra terceros)**. Este seguro no cubre los daños de tu propio auto, pero sí paga los arreglos del vehículo que hayas chocado si el accidente fue tu culpa. Compañías como la AA o AMI te permiten contratarlo online en cinco minutos y pagarlo mes a mes por muy pocos dólares.
 
@@ -52,7 +52,7 @@ A diferencia de muchos de nuestros países, en Nueva Zelanda el seguro del auto 
 
 Antes de salir a buscar, es fundamental entender qué tipo de vehículo se ajusta a tu plan de viaje:
 
-* **Campervan Self-Contained (CSC):** Si tu idea es hacer *freedom camping* (dormir gratis en áreas públicas habilitadas en toda Nueva Zelanda), necesitas un vehículo con la certificación Self-Contained al día (el sticker verde). La normativa actual exige que cuente con un inodoro fijo. Son más caras de comprar, pero mantienen muy bien el valor de reventa y te ahorran una fortuna en campings.
+* **Campervan Self-Contained (CSC):** Si tu idea es hacer *freedom camping* (dormir gratis en áreas públicas habilitadas en toda Nueva Zelanda), necesitás un vehículo con la certificación Self-Contained al día (el sticker verde). La normativa actual exige que cuente con un inodoro fijo. Son más caras de comprar, pero mantienen muy bien el valor de reventa y te ahorran una fortuna en campings.
 * **Vans no certificadas y Station Wagons:** Tienen colchón atrás pero no cuentan con instalaciones fijas de agua ni inodoro. Son más económicas de comprar, pero por ley solo podrás dormir en campings pagos o campamentos del DOC (Department of Conservation) con baños.
 * **Autos tradicionales o Hatchbacks:** La alternativa más barata en consumo de combustible y mecánica. Si no te molesta armar carpa para dormir o parar en hostels, es una opción muy ágil y económica.
 
@@ -62,13 +62,13 @@ A la hora de buscar vehículos en Nueva Zelanda, los canales más usados por moc
 
 * **Grupos de Facebook de mochileros:** Grupos como *"Backpacker Campervans New Zealand"* o *"Autos y Campers en Nueva Zelanda"* son ideales para comprar vehículos ya equipados por otros viajeros que están terminando su ruta (con cocina, sartenes, cubiertos y cama incluidos).
 * **Trade Me (trademe.co.nz):** La página de clasificados número uno de Nueva Zelanda, donde publican tanto particulares locales como concesionarios.
-* **Ferias de autos (Car Fairs) y carteleras de hostels:** Especialmente en Auckland y Christchurch, donde puedes ver muchos autos de viajeros en una sola tarde.
+* **Ferias de autos (Car Fairs) y carteleras de hostels:** Especialmente en Auckland y Christchurch, donde podés ver muchos autos de viajeros en una sola tarde.
 
 ### Diferencias legales según a quién le compres:
 
-**Si compras a un Registered Motor Vehicle Trader (Dealer):** Por ley, están obligados a exhibir en la ventana del auto el **Consumer Information Notice (CIN)**. Este documento oficial te asegura que el kilometraje es real, que el auto no tiene deudas pendientes y que no es robado. Además, estás protegido por la **Consumer Guarantees Act (CGA)**.
+**Si comprás a un Registered Motor Vehicle Trader (Dealer):** Por ley, están obligados a exhibir en la ventana del auto el **Consumer Information Notice (CIN)**. Este documento oficial te asegura que el kilometraje es real, que el auto no tiene deudas pendientes y que no es robado. Además, estás protegido por la **Consumer Guarantees Act (CGA)**.
 
-**Si compras a un particular (otro viajero o persona local):** La ley del consumidor no te protege de la misma manera. Aquí la responsabilidad de investigar es tuya. Antes de encontrarte con el vendedor, chequeá la página de **CarJam (carjam.co.nz)**, poné la matrícula y alguna información te aparecerá gratis o podés comprar el reporte completo por unos pocos dólares. Te dirá de forma instantánea si el auto tiene deudas pendientes de multas o préstamos (*finance*).
+**Si comprás a un particular (otro viajero o persona local):** La ley del consumidor no te protege de la misma manera. Aquí la responsabilidad de investigar es tuya. Antes de encontrarte con el vendedor, chequeá la página de **CarJam (carjam.co.nz)**, poné la matrícula y alguna información te aparecerá gratis o podés comprar el reporte completo por unos pocos dólares. Te dirá de forma instantánea si el auto tiene deudas pendientes de multas o préstamos (*finance*).
 
 ## Checklist esencial: 4 pruebas mecánicas para un auto que funcione
 
@@ -93,7 +93,7 @@ El humo habla directamente sobre la salud del motor:
 
 ### 3. La prueba del óxido
 
-En Nueva Zelanda, el óxido es el enemigo número uno de los autos debido a la salinidad del mar. Agachate y mira el chasis (la estructura de metal de abajo) y los bordes de las ruedas. Si ves manchas de óxido superficial, no pasa nada; pero si el metal se está descascarando o se deshace al tocarlo, ese auto no pasará el WOF. En este país son estrictos con la seguridad estructural y reparar óxido en el chasis requiere soldadores certificados (una inversión significativa en arreglos).
+En Nueva Zelanda, el óxido es el enemigo número uno de los autos debido a la salinidad del mar. Agachate y mirá el chasis (la estructura de metal de abajo) y los bordes de las ruedas. Si ves manchas de óxido superficial, no pasa nada; pero si el metal se está descascarando o se deshace al tocarlo, ese auto no pasará el WOF. En este país son estrictos con la seguridad estructural y reparar óxido en el chasis requiere soldadores certificados (una inversión significativa en arreglos).
 
 ### 4. La correa de distribución (La famosa “Cambelt”)
 
@@ -105,7 +105,7 @@ El seguro más grande de NZ tiene un servicio de inspección y, aunque ellos no 
 
 **AA Pre-Purchase Inspection** (inspección previa a la compra de la Automobile Association) o, en su defecto, hacerlo una vez comprado el auto dentro de las siguientes 48 horas como período de prueba acordado con el vendedor.
 
-**¿Cómo funciona?:** Puedes acordar con el vendedor que tú pagarás la inspección (cuesta entre $130 y $210 NZD, dependiendo del tipo de auto y si eres socio).
+**¿Cómo funciona?:** Podés acordar con el vendedor que tú pagarás la inspección (cuesta entre $130 y $210 NZD, dependiendo del tipo de auto y si sos socio).
 
 ## Tus derechos por ley: El WOF de 28 días previos a la compra
 
@@ -140,7 +140,7 @@ El CAB es un servicio nacional completamente gratuito, confidencial e independie
 ### El CAB te guiará paso a paso sobre cómo actuar:
 
 * **Si le compraste a un Dealer:** Te ayudarán a redactar el reclamo formal bajo la ley del consumidor vía mail y, si el vendedor no responde, a llevar el caso al Motor Vehicle Disputes Tribunal (MVDT) por una tasa muy baja (alrededor de $87 NZD). Este tribunal tiene el poder legal de obligar al dealer a llegar a un acuerdo favorable.
-* **Si le compraste a un particular:** Aunque es más difícil, si tienes pruebas de que el vendedor te engañó activamente, los asesores del CAB te ayudarán a presentar una demanda en el Disputes Tribunal (el tribunal de disputas comunes). En nuestra experiencia y según lo que nos cuentan, la justicia aquí funciona, es accesible y no necesitas pagar abogados costosos para hacer valer tus derechos.
+* **Si le compraste a un particular:** Aunque es más difícil, si tenés pruebas de que el vendedor te engañó activamente, los asesores del CAB te ayudarán a presentar una demanda en el Disputes Tribunal (el tribunal de disputas comunes). En nuestra experiencia y según lo que nos cuentan, la justicia aquí funciona, es accesible y no necesitás pagar abogados costosos para hacer valer tus derechos.
 
 ## Un último consejo viajero
 
@@ -148,6 +148,6 @@ Comprar tu primer auto en el extranjero es una mezcla de adrenalina pura, emoci�
 
 <div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/img_6059.webp" alt="Imagen de bitácora"><span class="img-caption">Vista desde la camper en Bowentown Look Out</span></div>
 
-Es un camping móvil, un refugio para las noches de lluvia y el mejor hotel para despertarse con la mejor vista a las montañas; literalmente es un pasaporte a la libertad por las carreteras de Nueva Zelanda. Precisamente porque es un sueño tan lindo y una experiencia que recomiendo altamente, vale la pena tomárselo con calma, leer, informarse, consultar a gente que sabe. No te dejes apurar por la prisa del vendedor, no te enamores del primer auto que brille por fuera y confía siempre en tu intuición. El mercado es enorme y el auto ideal para tu ruta te está esperando en alguna parte. Mucha suerte en la búsqueda y si estás en pleno proceso o tienes dudas sobre algo, no dudes en dejar tu comentario debajo. Si nos ayudamos entre todos tenemos más chances de vivir el sueño y menos la pesadilla.
+Es un camping móvil, un refugio para las noches de lluvia y el mejor hotel para despertarse con la mejor vista a las montañas; literalmente es un pasaporte a la libertad por las carreteras de Nueva Zelanda. Precisamente porque es un sueño tan lindo y una experiencia que recomiendo altamente, vale la pena tomárselo con calma, leer, informarse, consultar a gente que sabe. No te dejes apurar por la prisa del vendedor, no te enamores del primer auto que brille por fuera y confía siempre en tu intuición. El mercado es enorme y el auto ideal para tu ruta te está esperando en alguna parte. Mucha suerte en la búsqueda y si estás en pleno proceso o tenés dudas sobre algo, no dudes en dejar tu comentario debajo. Si nos ayudamos entre todos tenemos más chances de vivir el sueño y menos la pesadilla.
 
 Salú.

@@ -110,7 +110,7 @@ Una de las experiencias imprescindibles en la isla es realizar un tour en lancha
 
 ## Artículos relacionados para armar tu ruta por Bali:
 
-Todo lo que necesitas saber para organizar tu viaje: 
+Todo lo que necesitás saber para organizar tu viaje: 
 * **[Guía General de Bali: Requisitos, transporte](/diario/viajar-a-bali/)**
 * 🏨 **[Dónde quedarse en Nusa Penida: Análisis de zonas y hoteles recomendados](/diario/donde-quedarse-nusa-penida-que-hacer-en-nusa-penida/)**
 * 🌿 **[Qué hacer en Ubud: Templos, danzas y consejos prácticos](/diario/que-hacer-ubud-bali-que-ver-zonas-consejos-guia/)**
