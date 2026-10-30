@@ -2,14 +2,20 @@
 
 Lista de problemas detectados en la revisión del sitio y del repo (octubre 2026). Ir tachando a medida que se resuelven y agregar los nuevos al final de cada sección.
 
-## Para retomar (estado al 29/10/2026)
+## Para retomar (estado al 30/10/2026)
 
-Todo está sin commitear en la rama limpiar-links-afiliados. Revisar y commitear (lo hace Santi) antes de seguir.
+Commits hechos (sin push, sin merge):
+- `limpiar-links-afiliados` (eded8f0): limpieza de `utm_source=gemini` y `TU_ID_AFILIADO` en los originales en español.
+- `main` (7393f72): CLAUDE.md y docs/.
+- `retraducciones-en`: correcciones a los originales de Ubud y working holiday (b526abe) y las 4 retraducciones en inglés (87a8722).
 
-1. Retraducir what-to-do-christchurch-2-days copiando las URLs limpias del original (Prioridad 1).
+Copia de seguridad del estado previo a esos commits: tag `backup-antes-de-commits-2026-10-30` y carpeta `backup-stellar-series-2026-10-30/` (fuera del repo, con un .tar.gz y un .patch).
+
+Pendiente:
+1. Mergear `limpiar-links-afiliados` y `retraducciones-en` (la retraducción de what-to-do-christchurch-2-days ya está commiteada con las URLs limpias; esa rama sale de main y no incluye el commit de limpieza de links).
 2. Decidir qué hacer con what-to-do-da-nang-hoi-an-3-days-itinerary, que sigue siendo la traducción vieja (Prioridad 2).
-3. Limpiar el resto del relevamiento de afiliados (Prioridad 5) solo con OK de Santi sobre cada grupo.
-4. Auditar contra el original las 7 retraducciones de Prioridad 1 (todas quedan abiertas hasta entonces).
+3. Auditar contra el original las 7 retraducciones de Prioridad 1 (todas quedan abiertas hasta entonces).
+4. Limpiar el resto del relevamiento de afiliados (Prioridad 5) solo con OK de Santi sobre cada grupo.
 
 ## Prioridad 1. Traducciones al inglés con errores graves
 
@@ -21,7 +27,7 @@ Retraducir desde el original en español, no parchear. Mientras tanto, marcarlos
   - Estado (29/10): retraducida en el commit 28eb616, pendiente de revisión contra el original
 - [ ] what-to-do-christchurch-2-days (original que-hacer-christchurch-2-dias). Restaurantes inventados, The Austin Club descrito como club de Texas, párrafos en español, "Tomorrow" por mañana
   - Nota: el original en español ya no tiene el placeholder `TU_ID_AFILIADO` (se limpió en la rama limpiar-links-afiliados). La retraducción tiene que copiar las URLs ya limpias del original. La traducción actual todavía lo tiene en 5 links, no parchearla
-  - Estado (29/10): retraducida, sin commitear, pendiente de revisión contra el original. Chequeo preliminar: falta reemplazar las 5 URLs con `TU_ID_AFILIADO` por las del original limpio
+  - Estado (30/10): retraducida, pendiente de revisión contra el original. Las 7 URLs externas ya coinciden con las del original limpio (sin `TU_ID_AFILIADO`). Commiteado en `retraducciones-en`
 - [ ] roadtrip-new-zealand-west-coast-12-days (original ruta-nueva-zelanda-isla-sur-12-dias). Itinerario inventado al inicio, distancias cambiadas (165 km, 132 miles), Fat Eddie's como músico, link roto en ficha técnica
   - Estado (29/10): retraducida, sin commitear, pendiente de revisión contra el original. Chequeo preliminar: el `description` perdió "campervan"
 - [ ] arthurs-pass-kura-tawhiti-national-canterbury-park-new-zealand-south-island (original parque-nacional-arthur-pass-nueva-zelanda-isla-sur). "Here is the translation", cuatro párrafos inventados, bullets en español, "Haywood Forest"
@@ -83,12 +89,12 @@ Apuntar directo al slug actual en vez de pasar por redirects.
   - Link de Airalo con parámetros de tracking de Travelpayouts (`trs`, `journey_id`, `trace_id`, `page_url` apuntando a otro artículo): nomada-digital-vietnam-da-nang-costo-de-vida-alquiler y digital-nomad-da-nang-cost-of-living
   - Link de Airalo con parámetros de Impact (`irclickid`, `irgwc`, `utm_source=impact`): los mismos dos artículos
   - GetYourGuide con `partner_id=ZM6TN20` y `cmp=...`: viajar-a-bali-opinion-experiencia-real (4 links) e is-bali-worth-visiting (4)
-  - GetYourGuide y Booking con el placeholder `TU_ID_AFILIADO`: **resuelto en que-hacer-christchurch-2-dias** (29/10, 5 links). Queda en what-to-do-christchurch-2-days (5 links), que se arregla con la retraducción
+  - GetYourGuide y Booking con el placeholder `TU_ID_AFILIADO`: **resuelto en que-hacer-christchurch-2-dias** (29/10, 5 links). En what-to-do-christchurch-2-days también quedó resuelto el 30/10 al corregir las URLs de la retraducción (commiteado en `retraducciones-en`)
   - Booking con `aid=` de distintos IDs (2440493, 318615, 1607597, 1610688, 2427663, 356980, 306396) y `label=` de campañas: viajar-a-bali y travel-to-bali (19 cada uno), ruta-nueva-zelanda-isla-sur-12-dias y roadtrip-new-zealand-west-coast-12-days (11), vivir-con-working-holiday-visa-christchurch y christchurch-working-holiday-jobs-costs (4), que-hacer-ubud-bali-que-ver-zonas-consejos-guia y what-to-do-ubud-bali-tips-and-guide (7), what-to-see-nusa-penida (2), where-to-stay-nusa-penida-what-to-do (1), nomada-digital-vietnam-da-nang-costo-de-vida-alquiler (1). [VERIFICAR] cuáles de esos IDs son de Blogcito
   - Booking con `utm_source=gemini`: **resuelto** el 29/10 en que-hacer-da-nang-vietnam-itinerario-3-dias y what-to-do-da-nang-hoi-an-3-days-itinerary (21 links cada uno)
   - Amazon con `tag=blogcito09-20` (propio, correcto): que-hacer-amed-que-ver-guia-presupuesto y what-to-do-amed-bali-real-guide-budget
 - [ ] Confirmar con Stay22 si reemplaza parámetros de afiliado de terceros en URLs de Booking
-- [ ] Sacar los placeholders `TU_ID_AFILIADO` de los links de GetYourGuide y Booking de que-hacer-christchurch-2-dias y de la traducción what-to-do-christchurch-2-days (5 links en cada una). Hecho en el original en español el 29/10. Falta la traducción, que se arregla al retraducir. Stay22 convierte los links, no hace falta ningún ID
+- [x] Sacar los placeholders `TU_ID_AFILIADO` de los links de GetYourGuide y Booking de que-hacer-christchurch-2-dias y de la traducción what-to-do-christchurch-2-days (5 links en cada una). Hecho el 29/10 en el original y el 30/10 en la traducción; falta mergear las ramas `limpiar-links-afiliados` y `retraducciones-en`. Stay22 convierte los links, no hace falta ningún ID
 - [ ] Borrar PostsRecomendados duplicado en BlogPostLayout (props equivocados)
 - [ ] Home del repo con 6 destinos y links a /destinos y /categorias que no existen en el repo. Verificar contra el sitio publicado
 - [ ] Tags sin categoría en taxonomies.js: "working holiday" (buy-campervan-car-new-zealand-backpackers-guide, sin traducción ni estilo) y "bitacora" (new-zealand-route-north-island). Esos posts no salen en ninguna página de categoría
