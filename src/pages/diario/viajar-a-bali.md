@@ -25,7 +25,6 @@ Para la experiencia de slow travel o nómada digital, hay actividades para más 
 
 💵 **Moneda:** Rupia indonesia (IDR). El efectivo es el rey para gastos diarios. </div>
 
-<div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 ## Qué necesitás saber antes de viajar a Bali, Indonesia
 
@@ -98,11 +97,10 @@ Uno de los puntos fundamentales para disfrutar el viaje es decidir a donde ir y 
 | Zona                                                                                                                 | Planes principales                                 | Vibra del lugar                      |
 | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ------------------------------------ |
 | **Uluwatu**                                                                                                          | Surf, playas de arena clara y acantilados          | Cafeterías, surf y ambiente relajado |
-| **[Ubud](https://deploy-preview-95--yendoblog.netlify.app/diario/que-hacer-ubud-bali-que-ver-zonas-consejos-guia/)** | Yoga, templos, cultura, selva y arrozales          | Cultural, verde y concurrido         |
+| **[Ubud](/diario/que-hacer-ubud-bali-que-ver-zonas-consejos-guia/)** | Yoga, templos, cultura, selva y arrozales          | Cultural, verde y concurrido         |
 | **Sidemen**                                                                                                          | Paisaje rural, naturaleza y vistas al volcán Agung | Tranquilo, tradicional y calmo       |
-| **[Amed](https://deploy-preview-95--yendoblog.netlify.app/diario/que-hacer-amed-que-ver-guia-presupuesto/)**         | Snorkel, buceo y ritmo tranquilo pesquero          | Playero, sencillo y tradicional      |
-| **[Nusa Penida](https://deploy-preview-95--yendoblog.netlify.app/diario/que-ver-en-nusa-penida-guia/)**              | Acantilados dramáticos, miradores y mantarrayas    | Aventura, paisajes imponentes e isla |
-|                                                                                                                      | <td colspan="2"></td>                              |                                      |
+| **[Amed](/diario/que-hacer-amed-que-ver-guia-presupuesto/)**         | Snorkel, buceo y ritmo tranquilo pesquero          | Playero, sencillo y tradicional      |
+| **[Nusa Penida](/diario/que-ver-en-nusa-penida-guia/)**              | Acantilados dramáticos, miradores y mantarrayas    | Aventura, paisajes imponentes e isla |
 
 - - -
 
@@ -279,7 +277,6 @@ Es un tranquilo pueblo pesquero famoso por sus playas de arena negra volcánica 
 Dónde quedarse en Nusa Penida 
 Va a depender de la experiencia que quieras vivir, algunas opciones son: 
 
-Dónde quedarse en Nusa Pénida
 
 #### Presupuesto Mochilero / Bajo
 
