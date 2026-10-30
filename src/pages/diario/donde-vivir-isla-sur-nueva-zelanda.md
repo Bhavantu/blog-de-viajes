@@ -18,14 +18,14 @@ Luego de un largo viaje de vacaciones por la Isla Sur, estaba preparada para ten
 
 Antes de terminar en Christchurch, visité y analicé otras opciones de las que seguramente hayas oído hablar. Cada una tiene con sus características y aunque visité ambas costas acá va una breve comparativa de las grandes ciudades de la isla sur para vivir en nueva Zelanda en 2026, costa este. 
 
-Si te interesa saber como es la experiencia de vivir en Chrischurch podés te invito a leer https://blogcito.com/admin/#/collections/diario/entries/2026-05-30-vivir-como-working-holiday-en-la-ciudad-de-christchurch
+Si te interesa saber cómo es la experiencia de vivir en Christchurch, te invito a leer [Vivir en Christchurch con Working Holiday 2026: Costos, Trabajo y Guía Real](/diario/vivir-con-working-holiday-visa-christchurch/)
 
 ## Comparativa de ciudades de la Isla sur de Nueva Zelanda:
 
 1. Queenstown 
 2. Dunedin
 3. Pueblos de Montaña 
-4. Ciudad de Chrischurch
+4. Ciudad de Christchurch
 
 ## 1. Vivir en Queenstown: ventajas, costos y el problema del alojamiento
 
@@ -63,12 +63,12 @@ No quiero dejar de mencionar a las pequeñas ciudades, pueblos y zonas de campo;
 
 Christchurch es una ciudad en reconstrucción con historia, comunidad y vistas espectaculares. Las colinas de Port Hills se pueden ver desde la ciudad y sus senderos para hacer *trekking* están solo veinte minutos de distancia, así como también dos diferentes playas a una escasa media hora. Los imponentes Alpes del sur así como la increíble zona de **Arthur Pass (en la cual podes profundizar entrando a nuestro articulo)** o algunos centros de esquí están a solo dos horas en auto. Desde mi punto de vista esta ciudad es el equilibrio perfecto entre la vida social urbana y escapadas constantes a la naturaleza.
 
-La ciudad se encuentra en reconstrucción después del gran terremoto del 2010. por lo cual su infraestructura es moderna y la disposición de la ciudad es cómoda. Es una ciduad en actual crecimiento que cuenta con Universidades, edificación en desarrollo, una propuesta de gastrómica amplia y una residencia poblacional en aumento. Emi nuestro amigo local comentaba que muchos de sus conocidos se están mudando para esta ciudad en busca de nuevas oportunidades. Desde mi perspectiva, aunque hay que enfocarse en la búsqueda laboral e insistir creo que es una ciudad lo suficientemente grande como para brindar oportunidades para todos. 
+La ciudad se encuentra en reconstrucción después del gran terremoto de 2011. por lo cual su infraestructura es moderna y la disposición de la ciudad es cómoda. Es una ciduad en actual crecimiento que cuenta con Universidades, edificación en desarrollo, una propuesta de gastrómica amplia y una residencia poblacional en aumento. Emi nuestro amigo local comentaba que muchos de sus conocidos se están mudando para esta ciudad en busca de nuevas oportunidades. Desde mi perspectiva, aunque hay que enfocarse en la búsqueda laboral e insistir creo que es una ciudad lo suficientemente grande como para brindar oportunidades para todos. 
 
 **Ventajas:** Resalto su infraestructura moderna, el gran desarrollo en el sector de servicios y la amplia variedad de alojamientos disponibles
 
 **Desventajas:** es una zona de alta actividad sísmica, aunque esta muy ordenada en relacion a sus protocolos de seguridad y podes chequear con las aplicaciones correspondientes sin duda es un factor a tener en cuenta.  Por otro lado a veces la denisdad de viajeros y residentes puede jugar en contra a la hora de bsucar trabajo (yo la verdad es que tuve suerte y conseguí trabajo en 2 semanas, pero conozco personas que demoraron 2 meses hablando perfecto inglés).
 
-Si te interesa profundizar más sobre la experiencia de residir en La ciudad de Chrischurch en 2026 con información acerca de como conseguir casa, apps para informarte sobre los terremotos, costos y búsqueda de trabajo en Nueva Zelanda te invito a leer el artículo Vivir como Working Holiday en la ciudad de Christchurch
+Si te interesa profundizar más sobre la experiencia de residir en la ciudad de Christchurch en 2026 con información acerca de como conseguir casa, apps para informarte sobre los terremotos, costos y búsqueda de trabajo en Nueva Zelanda te invito a leer el artículo Vivir como Working Holiday en la ciudad de Christchurch
 
-<div class="post-img-box img-completo img-derecha"><img src="/img/diario/whatsapp-image-2026-06-01-at-18.44.19.webp" alt="Imagen de bitácora"><span class="img-caption">Ciudad de Chrischurch paseos por el centro y Sumner Beach</span></div>
+<div class="post-img-box img-completo img-derecha"><img src="/img/diario/whatsapp-image-2026-06-01-at-18.44.19.webp" alt="Imagen de bitácora"><span class="img-caption">Ciudad de Christchurch paseos por el centro y Sumner Beach</span></div>
