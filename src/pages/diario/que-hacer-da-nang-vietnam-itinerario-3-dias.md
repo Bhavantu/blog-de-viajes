@@ -123,7 +123,7 @@ El clima de Da Nang es cálido durante todo el año, pero tiene dos estaciones b
 
 ### Mañana: Península de Son Tra, Pagoda y Lady Buddha
 
-Lo ideal es comenzar la mañana temprano hacia la **Península de Son Tra**, la franja verde que rodea la bahía de Da Nang. Allí se encuentra la **Pagoda Linh Ung Bãi Bụt**, una pagoda activa atendida por la comunidad local y monjes residentes. La construcción destaca por sus detalles dorados y esculturas de dragones, además de ofrecer una vista panorámica privilegeda de toda la bahía. En este predio se erige la estatua de **Lady Buddha (Quan Am)**, de 67 metros de altura, orientada hacia la ciudad; además, se puede visitar la pagoda y el precioso jardín (foto de portada). 
+Lo ideal es comenzar la mañana temprano hacia la **Península de Son Tra**, la franja verde que rodea la bahía de Da Nang. Allí se encuentra la **Pagoda Linh Ung Bãi Bụt**, una pagoda activa atendida por la comunidad local y monjes residentes. La construcción destaca por sus detalles dorados y esculturas de dragones, además de ofrecer una vista panorámica privilegiada de toda la bahía. En este predio se erige la estatua de **Lady Buddha (Quan Am)**, de 67 metros de altura, orientada hacia la ciudad; además, se puede visitar la pagoda y el precioso jardín (foto de portada). 
 
 > 💡 ¿Lady Buddha es uno de los tres vértices del triángulo espiritual que resguarda la ciudad? Existe una leyenda local que enlaza la fe con los datos meteorológicos de los tifones en la costa. Podés leer la historia completa en nuestro artículo **[El Triángulo Sagrado que protege a la ciudad Da Nang](https://blogcito.com/diario/triangulo-sagrado-da-nang-vietnam-pagodas-linh-ung/)**
 
@@ -141,15 +141,15 @@ Es una hermosa playa de arena dorada y aguas cálidas rodeada de palmeras, resgu
 
 Al caer el sol, sugerimos dirigirse al **Dragon Bridge (Cau Rong)**. A pocos pasos del puente se instala el **Mercado Nocturno de Son Tra**, ideal para probar brochetas de mariscos locales, opciones vegetarianas y jugos frescos. La feria se recorre rápido, hay souvenirs, café, artesanías y ropa. Si bien recomendamos ir el fin de semana (de viernes a domingo) para ver el espectáculo del puente, la feria suele llenarse bastante más en esos días, especialmente durante la temporada alta de verano (de junio a agosto).
 
-* **El momento imperdible:** Si la visita coincide con un **sábado o domingo a las 21:00 hs**, el tráfico del puente se interrumpe para el famoso espectáculo donde la cabeza del dragón lanza bocanadas de fuego y agua. Lo ideal es llegar unos 20 minutos antes para conseguir un buen lugar a orillas del río Han. Incluso podés ubicarte debajo de la bocanada de agua para vivir la experiencia de cerca.
+* **El momento imperdible:** Si la visita coincide con un **sábado o domingo a las 21:00**, el tráfico del puente se interrumpe para el famoso espectáculo donde la cabeza del dragón lanza bocanadas de fuego y agua. Lo ideal es llegar unos 20 minutos antes para conseguir un buen lugar a orillas del río Han. Incluso podés ubicarte debajo de la bocanada de agua para vivir la experiencia de cerca.
 
-  <div class="post-img-box img-completo img-centro"><img src="/img/diario/puente-del-dragon-lanzando-fuego-vietnam-da-nang.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+  <div class="post-img-box img-completo img-centro"><img src="/img/diario/puente-del-dragon-lanzando-fuego-vietnam-da-nang.webp" alt="Imagen de bitácora"><span class="img-caption">Dragon Bridge lanzando fuego, Da Nang</span></div>
 
-## Día 2: Montañas de marmol y la magia de Hoi An
+## Día 2: Montañas de Mármol y la magia de Hoi An
 
 ### Mañana: Inicio de playa y las Montañas de Mármol (Marble Mountains)
 
-La mañana es un momento ideal para disfrutar de My Khe Beach: hay menos concurrencia, el agua luce transparente y no hay nada mejor que comenzar con un baño matutino. *Tip:* Cuanto más temprano vayas, más suave estará el sol. En temporada alta, hacia las 10:30 AM la radiación ya se siente muy fuerte. Para quienes disfrutan de los amaneceres, ver la salida del sol en la calma de My Khe es 100% recomendable.
+La mañana es un momento ideal para disfrutar de My Khe Beach: hay menos concurrencia, el agua luce transparente y no hay nada mejor que comenzar con un baño matutino. *Tip:* Cuanto más temprano vayas, más suave estará el sol. En temporada alta, hacia las 10:30 la radiación ya se siente muy fuerte. Para quienes disfrutan de los amaneceres, ver la salida del sol en la calma de My Khe es 100% recomendable.
 
 Luego de un buen brunch, recomendamos ir hacia las **Montañas de Mármol (Ngu Hanh Son)**. Este grupo de cinco colinas de piedra caliza alberga cuevas profundas convertidas en santuarios budistas e hindúes, con un profundo valor histórico y espiritual. 
 
@@ -162,12 +162,12 @@ Luego de un buen brunch, recomendamos ir hacia las **Montañas de Mármol (Ngu H
 Después de almorzar, se puede tomar un Grab o taxi hacia la histórica ciudad de **Hoi An** (ubicada a solo 45 minutos de Da Nang).
 
 1. **Paseo por el Casco Antiguo:** Caminar entre fachadas amarillas de arquitectura mercantil china, japonesa y francesa declarada Patrimonio de la Humanidad por la UNESCO.
-2. **[Taller de Confección de Farolitos (Lantern Making Class)](https://www.getyourguide.com/hoi-an-l831/hoi-an-taller-de-elaboracion-de-farolillos-con-monitor-local-t1470965/?ranking_uuid=55bfa15c-c1c5-42db-951d-764132dda079&referral_redirect=1&q=H%E1%BB%99i+An):** Una linda actividad cultural dentro de la ciudad antigua de Hoi An es el [taller artesanal de farolitos](https://www.getyourguide.com/hoi-an-l831/hoi-an-taller-de-elaboracion-de-farolillos-con-monitor-local-t1470965/?ranking_uuid=55bfa15c-c1c5-42db-951d-764132dda079&referral_redirect=1&q=H%E1%BB%99i+An). En aproximadamente una hora, las artesanas locales enseñan a armar la estructura de bambú y cubrirla con seda tradicional. Te llevás tu propio farolito terminado como recuerdo del viaje.
-3. **Anochecer y deseos en Río Hoai:** Al ocultarse el sol, el casco antiguo se transforma por completo al iluminarse con miles de farolitos de seda. Se puede hacer un [paseo en un pequeño barco de madera tradicional y pedir un deseo soltando una vela flotante en el río](https://www.getyourguide.com/hoi-an-l831/hoi-an-paseo-nocturno-en-barco-por-el-rio-hoai-y-linterna-flotante-t571429/?ranking_uuid=e92057bf-0422-4a48-bbce-4b0f8c6826e7&q=hoi+an+barco+linterna&adults=1).
+2. **[Taller de Confección de Farolillos (Lantern Making Class)](https://www.getyourguide.com/hoi-an-l831/hoi-an-taller-de-elaboracion-de-farolillos-con-monitor-local-t1470965/?ranking_uuid=55bfa15c-c1c5-42db-951d-764132dda079&referral_redirect=1&q=H%E1%BB%99i+An):** Una linda actividad cultural dentro de la ciudad antigua de Hoi An es el [taller artesanal de farolillos](https://www.getyourguide.com/hoi-an-l831/hoi-an-taller-de-elaboracion-de-farolillos-con-monitor-local-t1470965/?ranking_uuid=55bfa15c-c1c5-42db-951d-764132dda079&referral_redirect=1&q=H%E1%BB%99i+An). En aproximadamente una hora, las artesanas locales enseñan a armar la estructura de bambú y cubrirla con seda tradicional. Te llevás tu propio farolillo terminado como recuerdo del viaje.
+3. **Anochecer y deseos en Río Hoai:** Al ocultarse el sol, el casco antiguo se transforma por completo al iluminarse con miles de farolillos de seda. Se puede hacer un [paseo en un pequeño barco de madera tradicional y pedir un deseo soltando una vela flotante en el río](https://www.getyourguide.com/hoi-an-l831/hoi-an-paseo-nocturno-en-barco-por-el-rio-hoai-y-linterna-flotante-t571429/?ranking_uuid=e92057bf-0422-4a48-bbce-4b0f8c6826e7&q=hoi+an+barco+linterna&adults=1).
 
 > 💡 **Sugerencia extra en Hoi An:** Si disponés de tiempo adicional por la tarde, podés sumar una [**clase de cocina local** para aprender a preparar *Cao Lầu y otros platos típicos*](https://www.getyourguide.com/hoi-an-l831/hoi-an-clase-de-cocina-tradicional-y-comida-con-una-familia-local-t562488?ranking_uuid=244dfd89-1d5c-4d13-9bc6-9c50dd91e9b1&q=clase+de+cocina+en+hoi+an&date_from=2026-09-25&date_to=2026-09-25&adults=1&_pc=1,1) o visitar a los famosos **sastres artesanales** del centro histórico, reconocidos por confeccionar trajes y vestidos a medida en 24 horas.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/hoi-an-boats.webp" alt="Imagen de bitácora"><span class="img-caption">Hoi An en la noche iluminado por los farolitos, barcos en el Río Hoai</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/hoi-an-boats.webp" alt="Imagen de bitácora"><span class="img-caption">Hoi An en la noche iluminado por los farolillos, barcos en el Río Hoai</span></div>
 
 ## Día 3: Ba Na Hills, mercados y noche en la ciudad
 
@@ -178,11 +178,10 @@ Un infaltable de Da Nang es sin duda Ba Na Hills, un parque temático ubicado en
 ### Qué ver en Ba Na Hills:
 
 * **El ícono:** El **Puente Dorado (Golden Bridge)**, sostenido en el aire por dos gigantescas manos de piedra.
-* Pasear por el French Village y el castillo de la luna: Una reconstrucción de un pueblo medieval europeo con calles empedradas, iglesias y plazas. Y disfrutar un almuerzo buffet incluido en la entrada.
-* Visitar el parque de atracciones: Incluye juegos arcade, torres de caída libre, simuladores 5D y zonas temáticas inspiradas en las novelas de Julio Verne.
-
+* **French Village y castillo de la luna:** Una reconstrucción de un pueblo medieval europeo con calles empedradas, iglesias y plazas. El almuerzo buffet está incluido en la entrada.
+* **Parque de atracciones:** Incluye juegos arcade, torres de caída libre, simuladores 5D y zonas temáticas inspiradas en las novelas de Julio Verne.
   * Además tiene una pista de Alpine Coaster (trineos de montaña) que permite descender por la ladera con vistas al bosque.
-* **Consejo:** Salir de Da Nang a las 07:00 AM para abordar el teleférico a las 08:00 AM. Esto permite caminar por el puente antes de la llegada de los tours grupales.
+* **Consejo:** Salir de Da Nang a las 07:00 para abordar el teleférico a las 08:00. Esto permite caminar por el puente antes de la llegada de los tours grupales.
 * *Nota:* Siempre es conveniente chequear el pronóstico del tiempo el día anterior, ya que con lluvia o niebla densa la visibilidad se reduce bastante.
 
   <div class="post-img-box img-completo img-centro"><img src="/img/diario/ba-na-hills-hands.webp" alt="Imagen de bitácora"><span class="img-caption">Ba Na Hills, Puente dorado, puente de las manos Vietnam</span></div>
@@ -254,7 +253,7 @@ Da Nang ofrece mucho más que tres días; nosotros nos quedamos dos meses disfru
 1. **Guía de Cafeterías de Especialidad y Restaurantes Vegetarianos (*Chay*):**
    Un recorrido detallado por la rica cultura de comida vegana de la ciudad y los mejores cafés para trabajar o relajarse. (PRÓXIMAMENTE)
 2. **Planes Alternativos y Vida Local en Da Nang:**
-   Actividades fuera de la ruta turística habitual: partidos de Pickleball, caminatas al atardecer por el Río Han, talleres culturales y todo lo que aprendimos durante nuestra estadía prolongada. (PROXIMAMENTE)
+   Actividades fuera de la ruta turística habitual: partidos de Pickleball, caminatas al atardecer por el Río Han, talleres culturales y todo lo que aprendimos durante nuestra estadía prolongada. (PRÓXIMAMENTE)
 3. **[Vivir como nómada digital en Da Nang:](https://blogcito.com/diario/nomada-digital-vietnam-da-nang-costo-de-vida-alquiler/)**
    Todo sobre costo de vida, mejores zonas para alquilar apartamento y el plan paso a paso para instalarte de forma organizada.
 
