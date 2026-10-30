@@ -40,7 +40,8 @@ Retraducir desde el original en español, no parchear. Mientras tanto, marcarlos
   - Estado (29/10): retraducida, sin commitear, pendiente de revisión contra el original.
   - Auditada el 30/10 (primero el original ES, después el EN). EN: URLs, bloques HTML, encabezados y bullets coinciden, los 7 links internos apuntan a las versiones en inglés, los números solo cambian de separador, sin "2022" ni restos del modelo. ES: sin errores claros que corregir (voseo bien, cuentas de la tabla y del salario cierran, los 7 links internos existen). Quedan abiertos en el original, sin tocar: ninguno de los 5 alojamientos dice si nos quedamos o no (regla de CLAUDE.md). Santi no tiene el dato y la curaduría es de Lore: se deja como está y se le pregunta a Lore cuando se pueda; "Lake Side Domain" [VERIFICAR] ortografía (¿Lakeside Domain?); los precios no indican el mes de actualización; 4 links de Booking con `aid=` ya relevados en Prioridad 5. Queda marcarla con [x] al mergear la rama
 - [ ] what-to-do-ubud-bali-tips-and-guide (original que-hacer-ubud-bali-que-ver-zonas-consejos-guia). Tour de 9 horas inventado, URLs de GetYourGuide traducidas (rotas), precio del guía en USD 15
-  - Estado (29/10): retraducida, sin commitear, pendiente de revisión contra el original. Los links internos ya apuntan a las versiones en inglés
+  - Estado (29/10): retraducida, sin commitear, pendiente de revisión contra el original. Los links internos ya apuntan a las versiones en inglés.
+  - Auditada el 30/10 (primero el original ES, después el EN). ES: se corrigió "hacia al norte" y se apuntaron los 3 links internos viejos al slug actual (commit 3fc6620 en `retraducciones-en`). EN: URLs, bloques HTML, encabezados y bullets coinciden, los 3 links internos van a las versiones en inglés y los números solo cambian de separador. Quedan abiertos en el original, sin tocar: total del ritual de purificación (ver Prioridad 3), ninguno de los 8 alojamientos dice si nos quedamos, y los links de trip.com (Monkey Forest) llevan `allianceid`, `gclid` y `utm_*` de terceros. Queda marcarla con [x] al mergear la rama
 
 ## Prioridad 2. Traducciones con errores menores
 
@@ -83,7 +84,7 @@ Apuntar directo al slug actual en vez de pasar por redirects.
 - [ ] /diario/que-hacer-en-amed-bali-guia-real-de-slow-travel/
 - [ ] /diario/nomada-digital-vietnam-costo-de-vida-da-nang/
 - [ ] Links con fecha vieja que funcionan por redirect (Amed, Coromandel, Arthur's Pass, Aotearoa, etc.)
-- [ ] En que-hacer-ubud-bali-que-ver-zonas-consejos-guia: /diario/2026-06-23-el-alma-de-bali-rituales-la-familia-y-el-secreto-de-la-felicidad-balinesa/, /diario/2026-06-18-bali-bby-1/ y /diario/2026-07-18-amed-bali-guía-real-de-slow-travel/. Los tres funcionan hoy por redirect (verificado el 29/10 en public/_redirects: el primero lo cubre el comodín `/diario/2026-06-23-el-alma-de-bali-rituales*`). Apuntarlos directo al slug actual. La traducción al inglés ya apunta a los slugs actuales
+- [x] En que-hacer-ubud-bali-que-ver-zonas-consejos-guia: /diario/2026-06-23-el-alma-de-bali-rituales-la-familia-y-el-secreto-de-la-felicidad-balinesa/, /diario/2026-06-18-bali-bby-1/ y /diario/2026-07-18-amed-bali-guía-real-de-slow-travel/. Los tres funcionan hoy por redirect (verificado el 29/10 en public/_redirects: el primero lo cubre el comodín `/diario/2026-06-23-el-alma-de-bali-rituales*`). Apuntarlos directo al slug actual. La traducción al inglés ya apunta a los slugs actuales
 
 ## Prioridad 5. Técnico y SEO
 
