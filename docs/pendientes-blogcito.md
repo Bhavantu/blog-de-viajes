@@ -11,7 +11,7 @@ Todo está commiteado en `main`, sin push:
 Copia de seguridad del estado previo a esos commits: tag `backup-antes-de-commits-2026-10-30` y carpeta `backup-stellar-series-2026-10-30/` (fuera del repo, con un .tar.gz y un .patch).
 
 Pendiente:
-1. Hacer push desde la terminal de VS Code (lo hace Santi). Se pueden borrar las ramas ya mergeadas.
+1. **Hacer push de `main`** desde la terminal de VS Code (lo hace Santi): hasta que se haga, nada de esto está en el sitio ni respaldado en GitHub. Después se pueden borrar las ramas ya mergeadas (`limpiar-links-afiliados`, `retraducciones-en`).
 2. Prioridad 2 y 3: retraducciones con errores menores y errores en originales en español.
 3. Consultar con Lore los veredictos de alojamiento (working holiday Christchurch y 4 hoteles de Ubud) y decidir si se limpian los links de trip.com del Monkey Forest.
 4. Limpiar el resto del relevamiento de afiliados (Prioridad 5) solo con OK de Santi sobre cada grupo.
@@ -64,7 +64,7 @@ Retraducir desde el original en español, no parchear. Mientras tanto, marcarlos
 - [ ] Unificar terremoto de Christchurch (2010 o 2011 según el artículo)
 - [ ] donde-vivir-isla-sur-nueva-zelanda. "Chrischurch" mal escrito, link al panel del CMS
 - [ ] viajar-a-bali. Imagen vacía, fila basura en la tabla de zonas, texto duplicado "Dónde quedarse en Nusa Pénida", links a deploy-preview-95
-- [ ] que-hacer-ubud-bali-que-ver-zonas-consejos-guia. Verificado el 29/10 en el archivo: la caja de imagen y el link del taller de cocina envuelto en google.com/search ya no están mal (las 10 cajas de imagen están cerradas y no hay links a google.com). Queda por unificar el total del ritual de purificación: los componentes (entrada 75.000 + guía 150.000 + sarong 15.000 + casillero 10.000-15.000 + ofrendas 10.000-20.000) suman 260.000-275.000 IDR, pero el texto y la tabla dicen 200.000-250.000 IDR, y el texto dice "13-16 USD" contra 11,14-13,93 USD en la tabla. La traducción al inglés quedó con los valores del original
+- [x] que-hacer-ubud-bali-que-ver-zonas-consejos-guia. Resuelto el 30/10: el total del ritual de purificación quedó unificado en 260.000-275.000 IDR (unos 14,5-15,3 USD) en el texto y la tabla, en ES y EN, sumando entrada, guía, sarong, casillero y ofrendas. Antes, verificado el 29/10 en el archivo: la caja de imagen y el link del taller de cocina envuelto en google.com/search ya no están mal (las 10 cajas de imagen están cerradas y no hay links a google.com). Queda por unificar el total del ritual de purificación: los componentes (entrada 75.000 + guía 150.000 + sarong 15.000 + casillero 10.000-15.000 + ofrendas 10.000-20.000) suman 260.000-275.000 IDR, pero el texto y la tabla dicen 200.000-250.000 IDR, y el texto dice "13-16 USD" contra 11,14-13,93 USD en la tabla. La traducción al inglés quedó con los valores del original
 - [ ] bali-rituales-cultura-tradiciones-secretos. "la secretos" en el título
 - [ ] triangulo-sagrado-da-nang-vietnam-pagodas-linh-ung. Párrafo de física cuántica, voseo mezclado con tú en etiqueta
 - [x] ruta-nueva-zelanda-isla-sur-12-dias. Residuo del modelo `\[cite: 1]` junto a "Fat Eddie's" (corregido en `retraducciones-en`)
