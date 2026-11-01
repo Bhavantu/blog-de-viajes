@@ -10,10 +10,25 @@ Hecho: Prioridades 1, 2, 3 y 4 completas (retraducciones auditadas, errores de l
 
 Pendiente, en este orden:
 1. ~~Link de Airalo~~ Resuelto el 31/10: Airalo se cobra por Impact y todos los links (botón del layout y 4 artículos) usan https://airalo.pxf.io/c/7468102/1268485/15608?partnerpropertyid=8600748. Falta una prueba de Santi: hacer un click y ver que aparezca en el panel de Impact.
-2. Hacer push de `main`.
+2. ~~Hacer push de `main`.~~ Los commits del 31/10 ya están en GitHub (visto el 1/11).
 3. Consultar con Lore los veredictos de alojamiento que faltan (working holiday Christchurch y 4 hoteles de Ubud). D'tepi y Anugrah ya están marcados.
 4. Afiliados de Prioridad 5, solo con OK de Santi por grupo: `aid=` de Booking de distintos IDs y los links de trip.com del Monkey Forest.
-5. Prioridad 5 (técnico y SEO) y Prioridad 6 (contenido y estrategia).
+5. Prioridad 5 (técnico y SEO) y Prioridad 6 (contenido y estrategia), en el orden de abajo.
+
+### Orden sugerido según Search Console (1/11/2026)
+
+Basado en los exports de los últimos 3 meses (30/07 al 29/10, anteriores a las correcciones del 30 y 31/10). Lo que hoy trae impresiones (Aotearoa, dioses balineses) es informativo y no vende. Lo que tiene intención de compra y está cerca de la primera página es Amed ("qué hacer" y "qué ver en Amed", posición 9 a 10) y Nusa Penida ("dónde quedarse", posición 12), así que van primero para afiliados.
+
+1. Barra final en canónica, hreflang y sitemap (Prioridad 5, punto nuevo)
+2. Amed en español adaptado a la guía de estilo (Prioridad 6), con bloque "Si tenés poco tiempo", dónde dormir y la calculadora como lead magnet. Después actualizar la traducción
+3. Diferenciar las dos notas de Nusa Penida (Prioridad 6), con donde-quedarse enfocada en alojamiento
+4. Aotearoa, title y description (Prioridad 6, punto nuevo)
+5. Bali rituales, sección de dioses balineses (Prioridad 6, punto nuevo)
+6. Seguro de viaje en las guías de destino (Prioridad 6)
+7. Meta descripciones de más de 160 caracteres, og:image y schema de Article, firma y fecha de actualización
+8. El resto de Prioridad 5
+
+Agregar soporte de noindex ya no es urgente, porque las traducciones con errores graves quedaron retraducidas.
 
 Copia de seguridad del estado previo a los commits del 30/10: tag `backup-antes-de-commits-2026-10-30` y carpeta `backup-stellar-series-2026-10-30/` (fuera del repo, con un .tar.gz y un .patch).
 
@@ -113,6 +128,9 @@ Apuntar directo al slug actual en vez de pasar por redirects.
 - [ ] Tags sin categoría en taxonomies.js: "working holiday" (buy-campervan-car-new-zealand-backpackers-guide, sin traducción ni estilo) y "bitacora" (new-zealand-route-north-island). Esos posts no salen en ninguna página de categoría
 - [ ] Meta descripciones de más de 160 caracteres
 
+- [ ] Barra final inconsistente, y hreflang con doble barra (detectado el 1/11, **verificado en el sitio publicado el 1/11**). `astro.config` usa `build.format: 'directory'` y `trailingSlash: 'ignore'`, así que las páginas se sirven con barra (`/diario/slug/`) y el sitemap las lista con barra. `Layout.astro` arma la canónica y los hreflang sacando la barra final. Comprobado con curl: `https://blogcito.com/diario/viajar-a-bali` responde **301** a `/diario/viajar-a-bali/`, y la versión con barra sirve `<link rel="canonical" href="https://blogcito.com/diario/viajar-a-bali">`, o sea una canónica que apunta a una URL que redirige. Además, **los hreflang salen con doble barra** (`https://blogcito.com//diario/viajar-a-bali` y `https://blogcito.com//en/journal/travel-to-bali`): `Astro.site` es un objeto URL que ya termina en `/` y `Layout.astro` le suma `/diario/...` (líneas 41, 43, 47 y 50). Search Console (datos al 23/10) muestra 78 páginas con redirección, 14 errores de redirección, 8 alternativas con canónica, 3 duplicadas sin canónica y 27 páginas que aparecen con y sin barra. Arreglo propuesto: canónica y hreflang con barra final y sin doble barra (armar las URLs con `new URL(path, siteUrl)`), `trailingSlash: 'always'` en astro.config, correr `npm run build` y revisar que los links internos usen la misma forma. Después pedir validación en Search Console. Es cambio de código: va en rama
+- [ ] Exportar desde Search Console el detalle de URLs de "Error de redirección", "No se ha encontrado (404)" y "Duplicada sin canónica" para revisar cada una
+
 ## Prioridad 6. Contenido y estrategia
 
 - [ ] Diferenciar donde-quedarse-nusa-penida de que-ver-en-nusa-penida-guia (contenido duplicado)
@@ -122,3 +140,5 @@ Apuntar directo al slug actual en vez de pasar por redirects.
 - [ ] Agregar firma de autor y fecha de actualización en los posts
 - [ ] Sumar seguro de viaje en las guías de destino
 - [ ] Reemplazar traducir.mjs o agregarle enmascarado de URLs y HTML, y validación de números al final
+- [ ] aotearoa-historia-cultura-maori-nueva-zelanda (detectado el 1/11). Es el 43 % de las impresiones del sitio (3.702 en 3 meses, posición 7,7) con solo 8 clics. La gente busca qué significa la palabra ("aotearoa", "aotearoa significado", "que es aotearoa"). Reescribir title y description para que respondan eso en el snippet, siguiendo la guía de estilo (keyword al principio, hasta 155 caracteres, voseo), y sumar links a las guías de Nueva Zelanda para llevar ese tráfico a páginas que monetizan. Después actualizar la traducción
+- [ ] bali-rituales-cultura-tradiciones-secretos (detectado el 1/11). "dioses balineses" tiene 299 impresiones en posición 40,7 y la página está en posición 24. Sumar una sección sobre los dioses balineses con datos verificados. Después actualizar la traducción
