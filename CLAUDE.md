@@ -6,6 +6,7 @@ Blog de viajes de Lore y Santi (blogcito.com). Turismo lento, guías prácticas 
 - @docs/guia-estilo-blogcito.md
 - @docs/plantilla-articulo.md
 - @docs/pendientes-blogcito.md
+- docs/mapa-cluster-china.md (mapa del cluster de China: pilar, satélites, slugs y estado de cada artículo)
 
 Estos tres archivos son la fuente de verdad. Si algo de este archivo choca con la guía de estilo, vale la guía de estilo, salvo en afiliados, donde vale lo que dice este archivo.
 
