@@ -18,7 +18,7 @@ const contentDir = './src';
 const backupDir = '../backup-imagenes-originales';
 const soloRevisar = process.argv.includes('--revisar');
 
-const ANCHO_MAXIMO = 1920;
+const LADO_MAXIMO = 1920; // vale para el ancho y el alto, así las fotos verticales no quedan enormes
 const CALIDAD_WEBP = 65;
 
 const esConvertible = (f) => /\.(jpe?g|png|heic|heif)$/i.test(f);
@@ -98,7 +98,7 @@ async function optimizarTodo() {
 
         await sharp(await leerImagen(origen))
             .rotate() // respeta la orientación EXIF de las fotos del celular
-            .resize({ width: ANCHO_MAXIMO, withoutEnlargement: true })
+            .resize({ width: LADO_MAXIMO, height: LADO_MAXIMO, fit: 'inside', withoutEnlargement: true })
             .webp({ quality: CALIDAD_WEBP, effort: 6 })
             .toFile(destino);
 
