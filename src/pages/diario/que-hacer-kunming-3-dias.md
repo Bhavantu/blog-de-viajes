@@ -1,12 +1,13 @@
 ---
 layout: ../../layouts/BlogPostLayout.astro
-title: "Qué hacer en Kunming: 3 días en la Ciudad de la Eterna Primavera  "
+title: "Qué hacer en Kunming: 3 días en la Ciudad de la Eterna Primavera"
+slug_url: que-hacer-kunming-3-dias
 date: 2026-11-02T15:27:00.000+13:00
 tag: guia de viaje
 pais: China
 description: "Descubrí Kunming en 3 días: parques, templo Yuantong, Pueblo de
-  las Etnias y te. Que ver, costos y dónde quedarse según nuestra experiencia"
-slug_url: que-hacer-kunming-3-dias
+  las Etnias y té. Qué ver, costos y dónde quedarse según nuestra experiencia"
+main_image: /img/diario/portada-kunming.webp
 ---
 Estuvimos 3 días en octubre de 2026, hospedados en el Yunyiduo Hotel, junto a la estación de metro Dashuying (a unos 4 o 5 km del Parque del Lago Verde). Kunming, la capital de Yunnan, es la mejor puerta de entrada a esta provincia del suroeste de China. Es una ciudad relajada, con clima suave, parques llenos de gente disfrutando, casas de té y una cocina muy particular. Nuestro consejo principal es usar Kunming como base de 2 o 3 días antes de visitar Dali, Lijiang y Shangri-La; nosotros decidimos dejarlos para otro viaje.
 Esta guía es parte de Viajar a China por libre: itinerario de 20 días del sur al centro. Kunming fue nuestra segunda parada, después de Nanning y antes de Chengdu.
@@ -15,12 +16,11 @@ Esta guía es parte de Viajar a China por libre: itinerario de 20 días del sur 
 
 ### Dónde dormir en Kunming (nuestro hotel y opciones cerca del Lago Verde)
 
-| Tipo                     | Alojamiento                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Precio aprox. por noche |
-| ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| Económico ⭐⭐⭐            | [Yunyiduo Hotel (nos quedamos acá)](https://www.agoda.com/accom/property?propertyId=92432978&countryId=191&finalPriceView=1&isShowMobileAppPrice=false&cid=1844104&numberOfBedrooms=&familyMode=false&adults=2&children=0&rooms=1&maxRooms=0&checkIn=2026-11-12&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=1&showReviewSubmissionEntry=false&currencyCode=IDR&isFreeOccSearch=false&flightSearchCriteria=%5Bobject+Object%5D&los=1&searchrequestid=ac0e3456-3641-4dde-ba8f-6140e49ec577&ds=yNhqFo6YfgLZOKZw) | 20 USD                  |
-| Medio ⭐⭐⭐                | [Kunming Pillowstone Woyun Boutique Hotel](https://www.trip.com/t/Ij7WGC6IzW2)                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | 32 USD                  |
-| Confort ⭐⭐⭐⭐             | [Kunming Green Lake View Hotel](https://www.trip.com/t/leI3Da7uzW2)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | 50 USD                  |
-| Cerca del Lago Verde ⭐⭐⭐ | [Orange Hotel (Kunming Green Lake)](https://www.trip.com/t/WTm4LdEvzW2)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | 40 USD                  |
+| Tipo          | Alojamiento                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Económico ⭐⭐⭐ | [Yunyiduo Hotel (nos quedamos acá)](https://www.agoda.com/accom/property?propertyId=92432978&countryId=191&finalPriceView=1&isShowMobileAppPrice=false&cid=1844104&numberOfBedrooms=&familyMode=false&adults=2&children=0&rooms=1&maxRooms=0&checkIn=2026-11-12&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=1&showReviewSubmissionEntry=false&currencyCode=IDR&isFreeOccSearch=false&flightSearchCriteria=%5Bobject+Object%5D&los=1&searchrequestid=ac0e3456-3641-4dde-ba8f-6140e49ec577&ds=yNhqFo6YfgLZOKZw) |
+| Medio ⭐⭐⭐     | [Kunming Pillowstone Woyun Boutique Hotel](https://www.trip.com/t/Ij7WGC6IzW2)                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Confort ⭐⭐⭐⭐  | [Kunming Green Lake](https://www.trip.com/t/fub4oa6M0X2)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
 La actividad que más nos gustó: el Pueblo de las Etnias de Yunnan, para entender en una tarde la diversidad de la provincia. [Reservá la experiencia acá, incluye traslado.](https://www.trip.com/travel-guide/attraction/kunming/yunnan-nationalities-village-75906?poiType=3&curr=USD&locale=en-XX&scene=ticket)
 🧡 Algunos enlaces de este artículo son de afiliados: si reservás por ahí, nos llega una pequeña comisión sin costo extra para vos. Donde se puede, te dejamos también la alternativa gratuita o local.
@@ -44,6 +44,7 @@ Kunming recibe el apodo de “Ciudad de la Eterna Primavera” por su altitud (c
 | Verano (junio a agosto) | Agradable, con máximas de 24 a 25 °C y mínimas cerca de 16 °C, pero es la temporada de lluvias. |
 | Otoño (septiembre a noviembre) | Cuando fuimos nosotros (octubre). Cielos despejados y temperaturas de unos 13 a 21 °C. Septiembre todavía tiene días de lluvia. |
 | Invierno (diciembre a febrero) | Seco y soleado, pero fresco: máximas de unos 15 °C y mínimas de 3 a 5 °C. Hay menos turistas. Las gaviotas llegan a los lagos de la ciudad (de noviembre a marzo). |
+
 Si podés elegir, te recomendamos marzo a mayo u octubre y noviembre. Llevá ropa por capas: la mañana puede ser cálida y la noche fresca. En nuestra opinión, la temperatura de octubre fue bastante ideal y se sintió como primavera.
 
 ## Qué ver en Kunming
@@ -52,7 +53,7 @@ Si podés elegir, te recomendamos marzo a mayo u octubre y noviembre. Llevá rop
 
 El Pueblo de las Etnias de Yunnan (Yunnan Ethnic Village) ocupa 89 hectáreas junto al lago Dianchi, en el suroeste de la ciudad, y reúne la arquitectura, los trajes y las tradiciones de 25 grupos étnicos. Se inauguró en 1992 y cada aldea muestra casas a escala real, comidas, rituales y celebraciones de su comunidad, con espectáculos de música y danza incluidos en la entrada.
 
-<div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption">Parque de las Etnias de Yunnan</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/parque-de-las-etnias-yunnan.webp" alt="Imagen de bitácora"><span class="img-caption">Parque de las Etnias de Yunnan</span></div>
 
 Igual, siendo honestos: es un recinto pensado para visitantes y no la vida real de esas comunidades. Lo tomamos como una primera toma de contacto y, como tal, nos pareció un acercamiento interesante a las culturas de la provincia. Los shows dentro del parque son muy entretenidos y, en general, terminan invitando al público a bailar en una gran ronda.
 
@@ -63,9 +64,11 @@ Igual, siendo honestos: es un recinto pensado para visitantes y no la vida real 
 * Mejor hora: En la mañana, para disfrutar sin calor, o en la tarde, después del mediodía, para ver los espectáculos.
 * Pros: se recorre en un día, hay mucha información sobre cada cultura en inglés y las funciones están incluidas.
 * Contras: es un recinto turístico; si no vas con tour, hay que combinar metro y bus, y los horarios de las funciones cambian según la temporada.
-* Consejo: al entrar, pedí el mapa para consultar las funciones del día.
+* Consejo: al entrar, pedí el mapa y consultá las funciones del día.
 
 ### 2. Parque del Lago Verde, Cuihu (un parque residencial)
+
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/green-lake-park.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
 
 El Parque del Lago Verde (翠湖, Cuìhú) está en pleno centro y los locales lo llaman la “joya de Kunming”. Son cuatro pequeños lagos unidos por puentes de estilo tradicional, rodeados por una calle con restaurantes y casas de té. Cerca están la Universidad de Yunnan y el Templo Yuantong. Lo que más nos gustó es que es un parque donde también te encontrás con la gente que vive ahí: hay casas de té alrededor, sombra para caminar y muchas personas sacándose fotos con los trajes típicos de las etnias han o tujia. Nosotros lo combinamos al terminar la visita al templo: recorrimos el parque y después decidimos tomar algo en una casa de té frente al parque.
 
@@ -78,7 +81,7 @@ El Parque del Lago Verde (翠湖, Cuìhú) está en pleno centro y los locales l
 
 Es el templo budista más antiguo y grande de la ciudad, destacado por su estanque central y su arquitectura rodeada de vegetación. Es uno de los centros budistas más antiguos e importantes de Yunnan, con más de 1200 años de historia. En este templo conviven tres grandes escuelas del budismo.
 
-<div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption">Entrada de parque del lago verde </span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/yuantong-templo-budista.webp" alt="Imagen de bitácora"><span class="img-caption">Templo Yuantong en Kunming</span></div>
 
 Su línea principal es el Mahāyāna chino, dedicado principalmente a Guanyin (la diosa de la compasión), en el que se destacan sus altares de incienso y su estanque central. Al mismo tiempo convive con el Theravada, presente en un pabellón de estilo tailandés con una estatua de bronce de Buda regalada por Tailandia, y con el Vajrayana tibetano, que aporta sus detalles tántricos y la esencia visual de las zonas montañosas de la región. Una mezcla única que resume la riqueza cultural de Yunnan.
 
@@ -93,7 +96,11 @@ Yunnan es tierra de té y el pu’er, famoso en toda China, nace en esta provinc
 
 ### 5. Mercado de Flores de Dounan (Dounan Flower Market)
 
-Uno de los puntos más populares de Kunming es el mercado de flores frescas de Dounan, considerado el más grande de Asia: un espectáculo de colores donde se comercializan millones de flores cada día. Alrededor de las 7 de la tarde comienzan los descuentos y la gente se acerca a comprar y a pasear por los pasillos repletos de orquídeas y rosas, a precios muy económicos. Tanto para conocerlo como para dar un paseo es una experiencia interesante, y en la zona aledaña también hay una feria donde podés sacarte fotos con las clásicas coronas de flores. Además, si tu visita coincide con los meses de invierno, podés acercarte a la orilla del cercano lago Dianchi, donde es tradición recibir a las gaviotas de pico rojo que migran cada año.
+Uno de los puntos más populares de Kunming es el mercado de flores frescas de Dounan, considerado el más grande de Asia: un espectáculo de colores donde se comercializan millones de flores cada día. Alrededor de las 7 de la tarde comienzan los descuentos y la gente se acerca a comprar y a pasear por los pasillos repletos de orquídeas y rosas, a precios muy económicos. 
+
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/mercado-de-flores-de-dounan-kunming.webp" alt="Imagen de bitácora"><span class="img-caption">Mercado de flores de Dounan, el mercado de flores mas grande de Asia</span></div>
+
+Tanto para conocerlo como para dar un paseo es una experiencia interesante, y en la zona aledaña también hay una feria donde podés sacarte fotos con las clásicas coronas de flores. Además, si tu visita coincide con los meses de invierno, podés acercarte a la orilla del cercano lago Dianchi, donde es tradición recibir a las gaviotas de pico rojo que migran cada año.
 Cómo llegar: en metro, con la línea 1 o 2 hasta la estación Dounan, o con la línea 4 hasta Jingui Street, según varias guías. Confirmá la línea y la salida en tu app de mapas.
 
 ## Qué comer en Kunming
@@ -149,31 +156,31 @@ Lo que no nos gustó: el punto principal que más nos desafió en China fue enco
 
 ## Preguntas frecuentes
 
-¿Cuántos días hacen falta en Kunming?
+**¿Cuántos días hacen falta en Kunming?**
 
 Con 2 o 3 días alcanza para los parques, el templo, las casas de té y el Pueblo de las Etnias. Nosotros nos quedamos 3 noches.
 
-¿Cuál es la mejor época para viajar a Kunming?
+**¿Cuál es la mejor época para viajar a Kunming?**
 
 De marzo a mayo y en octubre y noviembre, con clima suave y poca lluvia. En verano llueve más y en invierno hace fresco por la noche.
 
-¿Vale la pena el Pueblo de las Etnias de Yunnan?
+**¿Vale la pena el Pueblo de las Etnias de Yunnan?**
 
 Sí, si lo tomás como una primera introducción a la diversidad de la provincia y no como la vida real de las comunidades. La entrada cuesta 90 CNY.
 
-¿Cómo llego al Pueblo de las Etnias desde el centro?
+**¿Cómo llego al Pueblo de las Etnias desde el centro?**
 
 Combinando metro y bus: línea 1 hasta Huancheng South Road y, desde ahí, bus 44 hasta la parada del parque, más unos 7 minutos a pie. Las bicis de alquiler solo se pueden usar con un número de teléfono local, así que no son una opción para turistas a menos que compres uno y lo configures en WeChat.
 
-¿Es caro Kunming?
+**¿Es caro Kunming?**
 
 No. Un plato de fideos o comida local ronda los 25 CNY (unos USD 3,73) y los mercados permiten comer por costos accesibles.
 
-¿Se puede ir a Dali y Lijiang desde Kunming?
+**¿Se puede ir a Dali y Lijiang desde Kunming?**
 
 Sí, hay tren de alta velocidad. Nosotros no fuimos en este viaje, así que no podemos contarte cómo es en persona.
 
-¿Para quién lo rcomendamos?
+**¿Para quién lo recomendamos?**
 
 * Mochileros y viajeros lentos: ideal como pausa entre ciudades.
 * Parejas: parques, casas de té y atardeceres tranquilos.
