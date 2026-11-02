@@ -9,6 +9,7 @@ pais: Nueva Zelanda
 description: Ruta 6 Nueva Zelanda, Costa Oeste Isla Sur, campervan Nueva Zelanda
   itinerario, State Highway 60, que ver en Abel Tasman.
 main_image: /img/diario/2.webp
+slug_url: ruta-nueva-zelanda-isla-sur-12-dias
 ---
 Muchos de los viajeros que vamos a Nueva Zelanda lo hacemos con el sueño de vivir un *roadtrip* épico. Nosotros lo llevamos adelante y hoy compartimos la información actualizada de nuestro recorrido por la indómita costa oeste de la Isla Sur.
 

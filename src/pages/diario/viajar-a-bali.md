@@ -8,6 +8,7 @@ description: ¿Planeando tu primer viaje a Bali? Descubrí requisitos de entrada
   mejores zonas para alojarte, cómo moverte y recomendaciones en esta guía
   completa.
 main_image: /img/diario/nusa-penida-village-temple.webp
+slug_url: viajar-a-bali
 ---
 # Guía de Bali 2026: Zonas, Consejos y Datos Prácticos
 

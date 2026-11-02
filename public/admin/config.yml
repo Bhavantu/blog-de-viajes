@@ -20,10 +20,15 @@ collections:
     label: "Diario"
     folder: "src/pages/diario"
     create: true
-    slug: "{{slug}}"
+    slug: "{{fields.slug_url}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "../../layouts/BlogPostLayout.astro"}
       - {label: "Título", name: "title", widget: "string"}
+      - label: "URL (slug)"
+        name: "slug_url"
+        widget: "string"
+        hint: "Corta, en minúsculas, con la keyword al principio y sin fecha. Ej: que-hacer-kunming-3-dias. Se usa solo al crear el post: cambiarla después no cambia la URL."
+        pattern: ["^[a-z0-9]+(-[a-z0-9]+)*$", "Solo minúsculas sin tildes, números y guiones (sin espacios)"]
       - {label: "Fecha", name: "date", widget: "datetime"}
       - label: "Etiqueta"
         name: "tag"

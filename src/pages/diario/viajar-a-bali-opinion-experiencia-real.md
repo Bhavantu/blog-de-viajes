@@ -7,6 +7,7 @@ pais: Indonesia
 description: ¿Vale la pena Bali en 2026? te contamos lo que nos gustó y lo que
   no tanto en nuestras dos visitas en 2026
 main_image: /img/diario/kelingking-beach1.webp
+slug_url: viajar-a-bali-opinion-experiencia-real
 ---
 # ¿Vale la pena viajar a Bali en 2026? Lo que nos encantó, lo que no y según nuestra experiencia real
 

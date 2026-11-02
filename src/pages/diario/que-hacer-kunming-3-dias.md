@@ -6,6 +6,7 @@ tag: guia de viaje
 pais: China
 description: "Descubrí Kunming en 3 días: parques, templo Yuantong, Pueblo de
   las Etnias y te. Que ver, costos y dónde quedarse según nuestra experiencia"
+slug_url: que-hacer-kunming-3-dias
 ---
 Estuvimos 3 días en octubre de 2026, hospedados en el Yunyiduo Hotel, junto a la estación de metro Dashuying (a unos 4 o 5 km del Parque del Lago Verde). Kunming, la capital de Yunnan, es la mejor puerta de entrada a esta provincia del suroeste de China. Es una ciudad relajada, con clima suave, parques llenos de gente disfrutando, casas de té y una cocina muy particular. Nuestro consejo principal es usar Kunming como base de 2 o 3 días antes de visitar Dali, Lijiang y Shangri-La; nosotros decidimos dejarlos para otro viaje.
 Esta guía es parte de Viajar a China por libre: itinerario de 20 días del sur al centro. Kunming fue nuestra segunda parada, después de Nanning y antes de Chengdu.

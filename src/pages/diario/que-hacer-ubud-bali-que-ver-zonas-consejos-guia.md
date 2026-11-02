@@ -8,6 +8,7 @@ pais: Indonesia
 description: "Viví la magia de Ubud: Descubrí sus arrozales, rituales de
   purificación sagrados, templos y cascadas en nuestra guía práctica."
 main_image: /img/diario/UBUD24.webp
+slug_url: que-hacer-ubud-bali-que-ver-zonas-consejos-guia
 ---
 Ubud combina la auténtica tradición balinesa con una infinita propuesta turística. En esta guía completa vas a encontrar actividades de interés para hacer en Ubud, costos y recomendaciones basadas en lo que más disfrutamos durante nuestra estadía.
 

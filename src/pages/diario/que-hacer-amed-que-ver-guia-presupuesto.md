@@ -9,6 +9,7 @@ description: "¿Viajás a Bali? Descubrí Amed, el refugio de playa y snorkel li
   bajo el volcán Agung. Presupuesto, mapas y consejos reales para disfrutar sin
   estafas."
 main_image: /img/diario/mount-agung.webp
+slug_url: que-hacer-amed-que-ver-guia-presupuesto
 ---
 **¿Estás planeando tu viaje a la costa este de Bali?** En esta guía real te cuento todo lo **que hacer en Amed por libre**: desde cómo hacer snorkel en sus mejores bahías de arena negra, hasta precios actualizados de templos, mapas y consejos honestos para slow travelers. 
 
