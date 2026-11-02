@@ -28,9 +28,9 @@ const t = ui[currentLang as keyof typeof ui] || ui['es'];
 
 // Lógica de Canonical limpia
 const siteUrl = Astro.site || 'https://blogcito.com';
-let canonicalPath = Astro.url.pathname.replace(/\/$/, '');
-if (canonicalPath === '') canonicalPath = '/';
-const canonicalURL = new URL(canonicalPath, siteUrl);
+// Las páginas se sirven con barra final (build.format: 'directory'), así que la canónica y los hreflang también la llevan
+const withSlash = (path: string) => (path.endsWith('/') ? path : `${path}/`);
+const canonicalURL = new URL(withSlash(Astro.url.pathname), siteUrl);
 
 // --- LÓGICA DE TRADUCCIÓN HREFLANG PARA POSTS ---
 const englishPosts = Object.values(import.meta.glob('../pages/en/journal/*.md', { eager: true })) as any[];let altUrlEs = '';
@@ -39,15 +39,15 @@ let altUrlEn = '';
 if (frontmatter) {
     if (currentLang === 'es') {
         const slug = Astro.url.pathname.replace(/^\/diario\//, '').replace(/\/$/, '');
-        altUrlEs = `${siteUrl}/diario/${slug}`;
+        altUrlEs = new URL(`/diario/${slug}/`, siteUrl).href;
         
         const matchEn = englishPosts.find((p: any) => p.frontmatter?.archivo_original === `${slug}.md`);
-        if (matchEn) altUrlEn = `${siteUrl}${matchEn.url}`;
+        if (matchEn) altUrlEn = new URL(withSlash(matchEn.url), siteUrl).href;
     } else if (currentLang === 'en') {
         const matchOriginal = frontmatter.archivo_original?.replace('.md', '');
-        if (matchOriginal) altUrlEs = `${siteUrl}/diario/${matchOriginal}`;
+        if (matchOriginal) altUrlEs = new URL(`/diario/${matchOriginal}/`, siteUrl).href;
         
-        altUrlEn = `${siteUrl}${Astro.url.pathname.replace(/\/$/, '')}`;
+        altUrlEn = new URL(withSlash(Astro.url.pathname), siteUrl).href;
     }
 }
 ---
