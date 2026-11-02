@@ -6,6 +6,7 @@ date: 2026-04-27T13:22:00.000+12:00
 tag: contexto y cultura
 pais: Nueva Zelanda
 main_image: /img/diario/img-lake-pearson-campamento-arthur-pass.webp
+slug_url: aotearoa-historia-cultura-maori-nueva-zelanda
 ---
 Nueva Zelanda es, quizás, el último suspiro de tierra firme en ser descubierto por la vida moderna. Suspendida en la inmensidad del Pacífico Sur, Aotearoa —**la tierra de la larga nube blanca**— no es solo un destino, sino un territorio con una geografía tan imponente como se ve en la película del *El Señor de los Anillos*. En estas islas, la identidad se ha forjado entre volcanes y vientos marinos creando un paisaje variado y único. Quienes habitan esta tierra se llaman a sí mismos kiwis y se caracterizan por una amabilidad silenciosa y un ritmo calmado. El disfrute está en las cosas simples: un fin de semana en la montaña, recorridos en bicicleta o un *roadtrip* para conocer nuevas zonas de la isla.
 

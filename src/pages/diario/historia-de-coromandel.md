@@ -9,6 +9,7 @@ description: Más allá de las playas, historia y secretos de esta península,
   desde el legado maorí, pasando por la fiebre del oro hasta la actual
   conservación.
 main_image: /img/diario/whatsapp-image-2026-06-28-at-00.01.52.webp
+slug_url: historia-de-coromandel
 ---
 La península de Coromandel es sin duda un lugar muy hermoso, pero no solo destaca por su belleza actual, sino por haber sido escenario de profundas transformaciones culturales e industriales en Nueva Zelanda. 
 

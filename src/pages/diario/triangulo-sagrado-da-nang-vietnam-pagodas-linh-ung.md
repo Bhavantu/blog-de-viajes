@@ -9,6 +9,7 @@ description: "Investigamos la leyenda del Triángulo Sagrado que protege de los
   tifones a la ciudad de Da Nang conformado por sus 3 Pagodas Linh Ung. Datos
   históricos, creencia popular y visita a los templos."
 main_image: /img/diario/marble-mountains-pagoda.webp
+slug_url: triangulo-sagrado-da-nang-vietnam-pagodas-linh-ung
 ---
 ¿Existe un escudo invisible que protege a Da Nang? Esta es la leyenda de los tres santuarios y el triángulo sagrado.
 

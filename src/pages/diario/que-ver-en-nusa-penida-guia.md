@@ -8,6 +8,7 @@ description: "Viajá a Nusa Penida en 2026 a tu ritmo: que hacer, mejores playas
   snorkel con mantas, tips para evitar multitudes, costos reales y
   alojamientos."
 main_image: /img/diario/kelingking-beach23.webp
+slug_url: que-ver-en-nusa-penida-guia
 ---
 Nusa Penida es una isla de acantilados dramáticos, aguas turquesas y una escala natural impresionante. Sin embargo, en los últimos años se convirtió en uno de los puntos más saturados de Bali debido a las excursiones relámpago de un día. 
 

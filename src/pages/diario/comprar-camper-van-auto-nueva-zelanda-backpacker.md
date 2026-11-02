@@ -7,6 +7,7 @@ pais: Nueva Zelanda
 description: "¿Soñás con la libertad de un roadtrip épico? Todo lo que necesitás saber para comprar un auto o campervan en Nueva Zelanda sin estafas. Guía para mochileros y Working Holiday basada en experiencia real e información chequeada."
 main_image: /img/diario/camper-mountain.webp
 archivo_original: 2026-06-01-comprar-una-camper-van-o-auto-en-nueva-zelanda.md
+slug_url: comprar-camper-van-auto-nueva-zelanda-backpacker
 ---
 Nuestro sueño cuando llegamos era comprar una van en Nueva Zelanda, vivir una aventura soñada en las montañas, despertarse con vistas épicas y disfrutar de las tardes de brisa suave. Muchos viajeros soñamos con ese roadtrip, pero claramente sin que nos estafen en el intento; seamos realistas: la mayoría de los que viajamos con una visa de *Working Holiday* no somos mecánicos profesionales.
 

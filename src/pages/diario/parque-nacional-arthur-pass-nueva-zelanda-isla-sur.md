@@ -8,6 +8,7 @@ pais: Nueva Zelanda
 description: "Uno de los parques nacionales imperdibles de Nueva Zelanda:
   Naturaleza, cultura maorí y aventura desde Canterbury hacia la Costa Oeste "
 main_image: /img/diario/dsc_0335.webp
+slug_url: parque-nacional-arthur-pass-nueva-zelanda-isla-sur
 ---
 Una tarde de diciembre, a un mes de llegar a Nueva Zelanda, tomando mates y conversando con Lucy, una amiga kiwi, a los pies del Mount Maunganui, decidimos preguntarle, previo a nuestra aventura hacia el sur, cuál sería el lugar de Nueva Zelanda que en su opinión no nos podíamos perder. La respuesta fue contundente: "Arthur’s Pass", un trekking con paisajes de bosque alpino y tundra seca. Desde ese entonces decidimos que tendríamos que añadirlo sin falta a nuestro itinerario y, aunque se hizo esperar, descubrimos que estaba a solo dos horas de Christchurch. Una ruta fantástica que contaba con un camping espectacular del DOC, un espacio apto para campervans con vista 360° a la montaña.
 

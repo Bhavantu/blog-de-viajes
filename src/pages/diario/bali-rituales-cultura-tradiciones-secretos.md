@@ -9,6 +9,7 @@ pais: Indonesia
 description: "Descubrí la esencia de Bali: una vibrante travesía por sus
   tradiciones, templos, espiritualidad y vida en comunidad."
 main_image: /img/diario/dsc_0628.webp
+slug_url: bali-rituales-cultura-tradiciones-secretos
 ---
 # ¿Cómo es la cultura en Bali? Viaje a la esencia de la Isla de los Dioses
 

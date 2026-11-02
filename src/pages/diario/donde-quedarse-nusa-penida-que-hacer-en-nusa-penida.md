@@ -7,6 +7,7 @@ pais: Indonesia
 description: ¿Dónde quedarse en Nusa Penida? Descubrí las mejores zonas (Norte,
   Este y Oeste) y hoteles recomendados según tu presupuesto y estilo de viaje.
 main_image: /img/diario/kelingking-beach15.webp
+slug_url: donde-quedarse-nusa-penida-que-hacer-en-nusa-penida
 ---
 Nusa Penida es una hermosa isla de playas increíbles y acantilados dramáticos que promete y cumple con las expectativas. Sin embargo, debido a las distancias y el estado de sus caminos, **elegir la ubicación del hospedaje cambia por completo la experiencia de viaje**. 
 

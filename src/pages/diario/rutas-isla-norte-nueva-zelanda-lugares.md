@@ -8,6 +8,7 @@ pais: Nueva Zelanda
 description: Un breve resumen que ordena la experiencia y ampliar en los
   diferentes destinos de la Isla Norte
 main_image: /img/diario/img_5481.webp
+slug_url: rutas-isla-norte-nueva-zelanda-lugares
 ---
 ### **El sueño está en camino**
 
