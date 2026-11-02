@@ -104,8 +104,7 @@ La cocina de Yunnan es de las más variadas y distintas de China, con ingredient
 | Hongos silvestres | En temporada, en sopa o salteados, en restaurantes y mercados. También se encuentran en hot pot vegetariano. |
 | Pasteles de flores | Dulces con relleno de pétalos, un pastel clásico de Kunming. |
 
-
-Los mercados locales y los puestos cerca de los parques permiten probarlos por poco dinero. Nos salieron unos 18 CNY (unos USD 2,68 o EUR 2,41) afuera del Parque de las Etnias. Si tenés restricciones alimentarias, preguntá siempre los ingredientes: el picante y los caldos con carne son habituales.
+Los mercados locales permiten probarlos por poco dinero. Nos salieron unos 18 CNY (unos USD 2,68 o EUR 2,41) afuera del Parque de las Etnias. Si tenés restricciones alimentarias, preguntá siempre los ingredientes: el picante y los caldos con carne son habituales.
 También podés probar la gastronomía local en la Calle Antigua de Kunming (Kunming Old Street) y en el Mercado Nocturno de Nanqiang, llenos de casas tradicionales de la época Qing y de la República, con puestos de comida callejera.
 
 ## Lo que investigamos y no hicimos
@@ -149,31 +148,31 @@ Lo que no nos gustó: el punto principal que más nos desafió en China fue enco
 
 ## Preguntas frecuentes
 
-### ¿Cuántos días hacen falta en Kunming?
+¿Cuántos días hacen falta en Kunming?
 
 Con 2 o 3 días alcanza para los parques, el templo, las casas de té y el Pueblo de las Etnias. Nosotros nos quedamos 3 noches.
 
-### ¿Cuál es la mejor época para viajar a Kunming?
+¿Cuál es la mejor época para viajar a Kunming?
 
 De marzo a mayo y en octubre y noviembre, con clima suave y poca lluvia. En verano llueve más y en invierno hace fresco por la noche.
 
-### ¿Vale la pena el Pueblo de las Etnias de Yunnan?
+¿Vale la pena el Pueblo de las Etnias de Yunnan?
 
 Sí, si lo tomás como una primera introducción a la diversidad de la provincia y no como la vida real de las comunidades. La entrada cuesta 90 CNY.
 
-### ¿Cómo llego al Pueblo de las Etnias desde el centro?
+¿Cómo llego al Pueblo de las Etnias desde el centro?
 
 Combinando metro y bus: línea 1 hasta Huancheng South Road y, desde ahí, bus 44 hasta la parada del parque, más unos 7 minutos a pie. Las bicis de alquiler solo se pueden usar con un número de teléfono local, así que no son una opción para turistas a menos que compres uno y lo configures en WeChat.
 
-### ¿Es caro Kunming?
+¿Es caro Kunming?
 
 No. Un plato de fideos o comida local ronda los 25 CNY (unos USD 3,73) y los mercados permiten comer por costos accesibles.
 
-### ¿Se puede ir a Dali y Lijiang desde Kunming?
+¿Se puede ir a Dali y Lijiang desde Kunming?
 
 Sí, hay tren de alta velocidad. Nosotros no fuimos en este viaje, así que no podemos contarte cómo es en persona.
 
-## ¿Para quién es?
+¿Para quién lo rcomendamos?
 
 * Mochileros y viajeros lentos: ideal como pausa entre ciudades.
 * Parejas: parques, casas de té y atardeceres tranquilos.
