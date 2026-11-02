@@ -405,7 +405,7 @@ const latestPosts = allPosts.slice(0, 3);
   .article-view ul:has(img) li { flex: 1 !important; margin: 0 !important; }
   .article-view ul:has(img) img { width: 100% !important; height: 350px !important; object-fit: cover !important; max-width: 100% !important; }
 
-  .text-column :global(table) { width: 100%; border-collapse: collapse; margin: 2.5rem 0; font-size: 0.95rem; display: block; overflow-x: auto; border-radius: 8px; border: 1px solid #e2e8f0; }
+  .text-column :global(table) { width: max-content; max-width: 100%; border-collapse: collapse; margin: 2.5rem 0; font-size: 0.95rem; display: block; overflow-x: auto; border-radius: 8px; border: 1px solid #e2e8f0; }
   .text-column :global(th), .text-column :global(td) { padding: 0.9rem 1.2rem; color: #334155; }
   .text-column :global(thead) { background-color: #f8fafc; border-bottom: 2px solid #cbd5e1; }
 
