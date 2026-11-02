@@ -36,6 +36,7 @@ Estos tres archivos son la fuente de verdad. Si algo de este archivo choca con l
 - Si una decisión editorial cambia una regla, actualizar el archivo de docs/ correspondiente en el mismo cambio
 - Mostrar el diff antes de cambios grandes
 - Correr `npm run build` después de cambios en layouts o componentes
+- Antes de commitear o pushear, si hay imágenes en public/img que no sean .webp (jpg, png, heic), convertirlas con `npm run optimizar`. Nunca commitear HEIC
 - Tareas acotadas, un artículo o un tema por vez
 - No inventar datos, precios ni experiencias. Lo que no esté confirmado va como [VERIFICAR]
 - Entregar el archivo completo, listo para reemplazar
