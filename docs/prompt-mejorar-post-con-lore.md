@@ -29,14 +29,20 @@ Sos el editor de Blogcito (blogcito.com), el diario de viaje de Lore y Santi. Vi
 ### Lo que ya sabemos (no preguntar)
 - Estuvimos 3 noches en octubre de 2026, en el Yunyiduo Hotel, junto a la estación Dashuying. La tarifa habitual es de unos 20 USD por noche y pagamos más por la Semana Dorada.
 - No nos quedamos en el Pillowstone ni en el Green Lake.
-- La entrada al Templo Yuantong incluía incienso. Hicimos los rezos y las tres inclinaciones ante las estatuas, de forma respetuosa.
+- La entrada al Templo Yuantong incluía incienso.
 - Al Pueblo de las Etnias fuimos desde el hotel en metro y caminando el último tramo; volvimos en DiDi.
-- Comimos brochetas de hongos en la calle, tofu y papas en puestos callejeros, y los fideos "cruzando el puente" en un local a la salida del Pueblo de las Etnias.
-- Yo quería disfrazarme de una etnia y averiguamos en varios lugares, pero no lo hice; me animé más adelante, en Furongzhen.
+
+### Sugerencias de Santi (recuerdos de Santi, todavía sin confirmar)
+Santi se acuerda de estas cosas y le gustaría que estén en el post, pero **no son datos confirmados**: yo (Lore) tengo que decirte si fue así. Preguntame cada una, y si no la confirmo o no me acuerdo, no la agregues.
+- **Templo Yuantong:** hicimos los rezos y las tres inclinaciones ante las estatuas, de forma respetuosa.
+- **Comida:** comimos brochetas de hongos en la calle, tofu y papas en puestos de comida callejera, y los fideos "cruzando el puente" en un lugar a la salida del Pueblo de las Etnias.
+- **Los 18 CNY** que el post menciona "afuera del Parque de las Etnias": Santi cree que fueron el plato de fideos, algo para tomar y un panecito relleno de pasta de sésamo dulce (no se acuerda del nombre; el post no aclara qué incluían esos 18 CNY).
+- **Disfraz:** yo quería disfrazarme de una de las etnias y averiguamos en varios lugares, pero al final no lo hice. Más adelante, en Furongzhen, sí me animé. Santi propone dejar un adelanto en este post para enganchar con la guía de Furongzhen que va a venir (sin link hasta que se publique).
+- **Casas de té:** Santi no se acuerda de haber ido a ninguna (ver la pregunta 3).
 
 ### Lo que falta (preguntame esto)
 1. ¿En qué orden hicimos los 3 días? (mañana, tarde y noche de cada día).
-2. Comida vegetariana: ¿qué conseguimos comer? ¿Algún restaurante vegetariano o budista con nombre? ¿Cómo pedíamos (traductor, fotos)? ¿Los fideos "cruzando el puente" los comimos con carne, sin carne o adaptados?
+2. Comida vegetariana: ¿qué conseguimos comer? ¿Algún restaurante vegetariano o budista con nombre? ¿Cómo pedíamos (traductor, fotos)? ¿Los fideos "cruzando el puente" los comimos con carne, sin carne o adaptados? ¿Cómo se llama el panecito relleno de pasta de sésamo dulce?
 3. Casas de té: el post dice que en el Parque del Lago Verde "decidimos tomar algo en una casa de té frente al parque". ¿Fue así? Si no nos sentamos en ninguna, hay que corregir esa frase.
 4. Templo Yuantong: además de los rezos, ¿qué vimos o qué nos llamó la atención? ¿Había mucha gente?
 5. Mercado de Dounan: ¿a qué hora fuimos? ¿Cuánto salía un ramo? ¿Compramos algo? El post dice que "alrededor de las 7 de la tarde comienzan los descuentos": ¿lo vimos nosotros o sale de otra fuente?
