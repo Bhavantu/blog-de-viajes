@@ -60,10 +60,10 @@ Igual, siendo honestos: es un recinto pensado para visitantes y no la vida real 
 * Ubicación: 1310 Dianchi Road, distrito de Xishan, Kunming.
 * Entrada: 90 CNY (unos USD 13,41 o EUR 12,06) en la puerta. [Reservá la experiencia con traslado incluido desde el centro acá.](https://www.trip.com/travel-guide/attraction/kunming/yunnan-nationalities-village-75906?poiType=3&curr=USD&locale=en-XX&scene=ticket) El show nocturno se paga aparte.
 * Horario: de 9:00 a 18:00, con última entrada hacia las 16:30. Es bastante grande, así que lo ideal es dedicarle un día entero.
-* Cómo llegar: no hay una estación de metro en la puerta. Nosotros salimos desde el hotel, junto a la estación Dashuying (líneas 3 y 4), y volvimos en DiDi. Lo más simple es combinar el metro con alguno de los buses que paran en la estación Yunnan Ethnic Village (por ejemplo el 24, el 44 o el 73), o ir directo en DiDi. Armá el recorrido en Amap o Baidu Maps, que en China funcionan mejor que Google Maps.
+* Cómo llegar: no hay una estación de metro en la puerta. Nosotros salimos desde el hotel, junto a la estación Dashuying (líneas 3 y 4), fuimos en metro e hicimos el último tramo caminando: no se hizo pesado. A la vuelta, ya cansados, tomamos un DiDi. Si no querés caminar, podés combinar el metro con alguno de los buses que paran en la estación Yunnan Ethnic Village (por ejemplo el 24, el 44 o el 73), o ir directo en DiDi. Armá el recorrido en Amap o Baidu Maps, que en China funcionan mejor que Google Maps.
 * Mejor hora: En la mañana, para disfrutar sin calor, o en la tarde, después del mediodía, para ver los espectáculos.
 * Pros: se recorre en un día, hay mucha información sobre cada cultura en inglés y las funciones están incluidas.
-* Contras: es un recinto turístico; si no vas con tour, hay que combinar metro y bus, y los horarios de las funciones cambian según la temporada.
+* Contras: es un recinto turístico; no hay metro en la puerta (hay que caminar un tramo, tomar un bus o un DiDi), y los horarios de las funciones cambian según la temporada.
 * Consejo: al entrar, pedí el mapa y consultá las funciones del día.
 
 ### 2. Parque del Lago Verde, Cuihu (un parque residencial)
@@ -170,7 +170,7 @@ Sí, si lo tomás como una primera introducción a la diversidad de la provincia
 
 **¿Cómo llego al Pueblo de las Etnias desde el centro?**
 
-Combinando metro con alguno de los buses que paran en la estación Yunnan Ethnic Village (por ejemplo el 24, el 44 o el 73), o en DiDi. Nosotros fuimos desde el hotel y volvimos en DiDi. Las bicis de alquiler solo se pueden usar con un número de teléfono local, así que no son una opción para turistas a menos que compres uno y lo configures en WeChat.
+En metro y caminando el último tramo, como hicimos nosotros (no se hace pesado), o combinando el metro con alguno de los buses que paran en la estación Yunnan Ethnic Village (por ejemplo el 24, el 44 o el 73). También podés ir en DiDi, que es lo que usamos para volver. Las bicis de alquiler solo se pueden usar con un número de teléfono local, así que no son una opción para turistas a menos que compres uno y lo configures en WeChat.
 
 **¿Es caro Kunming?**
 
