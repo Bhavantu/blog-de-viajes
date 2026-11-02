@@ -1,8 +1,10 @@
 import fs from 'fs/promises';
 import path from 'path';
 import sharp from 'sharp';
+import { execSync } from 'child_process';
 
 // Convierte a WebP todas las imágenes de public/img que no lo sean (jpg, jpeg, png, heic, heif),
+// achica los WebP nuevos (sin commitear) de más de 1920 px o con nombre raro,
 // normaliza el nombre (minúsculas, sin espacios ni tildes) y actualiza las rutas en src/.
 //
 // Uso:
@@ -63,10 +65,27 @@ async function leerImagen(ruta) {
 }
 
 async function optimizarTodo() {
-    const archivos = (await fs.readdir(imgDir, { recursive: true })).filter(esConvertible);
+    const todos = await fs.readdir(imgDir, { recursive: true });
+    const archivos = todos.filter(esConvertible);
+
+    // Los WebP nuevos (todavía sin commitear) también se procesan si son más grandes que LADO_MAXIMO
+    // o tienen un nombre con mayúsculas, espacios o tildes. Los ya publicados no se tocan, para no romper URLs.
+    let nuevos = [];
+    try {
+        nuevos = execSync('git ls-files --others --exclude-standard -z public/img', { encoding: 'utf8' })
+            .split('\0').filter(Boolean).map((p) => path.relative(imgDir, p));
+    } catch {
+        nuevos = [];
+    }
+    for (const rel of nuevos.filter((f) => /\.webp$/i.test(f))) {
+        const nombre = path.parse(rel).name;
+        const meta = await sharp(path.join(imgDir, rel)).metadata().catch(() => null);
+        const grande = meta && Math.max(meta.width || 0, meta.height || 0) > LADO_MAXIMO;
+        if (grande || nombre !== nombreLimpio(nombre) || path.extname(rel) !== '.webp') archivos.push(rel);
+    }
 
     if (archivos.length === 0) {
-        console.log('✅ No hay imágenes para convertir: todo está en WebP.');
+        console.log('✅ No hay imágenes para convertir: todo está en WebP y en tamaño.');
         return;
     }
 
@@ -86,7 +105,9 @@ async function optimizarTodo() {
             continue;
         }
 
-        const destino = await destinoLibre(dir, base);
+        // Un WebP que ya tiene buen nombre se reescribe en el mismo lugar (el original queda en el backup)
+        const mismoArchivo = /\.webp$/i.test(rel) && path.parse(rel).name === base && path.extname(rel) === '.webp';
+        const destino = mismoArchivo ? origen : await destinoLibre(dir, base);
         const publicaVieja = '/' + path.relative('./public', origen).split(path.sep).join('/');
         const publicaNueva = '/' + path.relative('./public', destino).split(path.sep).join('/');
 
@@ -96,11 +117,11 @@ async function optimizarTodo() {
             continue;
         }
 
-        await sharp(await leerImagen(origen))
+        const salida = await sharp(await leerImagen(origen))
             .rotate() // respeta la orientación EXIF de las fotos del celular
             .resize({ width: LADO_MAXIMO, height: LADO_MAXIMO, fit: 'inside', withoutEnlargement: true })
             .webp({ quality: CALIDAD_WEBP, effort: 6 })
-            .toFile(destino);
+            .toBuffer();
 
         const respaldo = path.join(backupDir, rel);
         await fs.mkdir(path.dirname(respaldo), { recursive: true });
@@ -108,6 +129,7 @@ async function optimizarTodo() {
             await fs.copyFile(origen, respaldo);
             await fs.unlink(origen);
         });
+        await fs.writeFile(destino, salida);
 
         const antes = (await fs.stat(respaldo)).size;
         const despues = (await fs.stat(destino)).size;
