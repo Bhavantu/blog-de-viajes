@@ -3,6 +3,12 @@ backend:
   branch: main
 
 publish_mode: editorial_workflow
+
+# Nombres de archivo (y URLs) sin fecha, sin tildes ni caracteres raros: "Qué hacer en Kunming" -> que-hacer-en-kunming
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "-"
 locale: "es"
 
 # Configuramos la ruta para que apunte directamente a la carpeta general
@@ -14,7 +20,7 @@ collections:
     label: "Diario"
     folder: "src/pages/diario"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "../../layouts/BlogPostLayout.astro"}
       - {label: "Título", name: "title", widget: "string"}

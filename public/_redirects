@@ -26,6 +26,7 @@
 
 # Solución al bucle infinito de Nusa Penida (regla exacta, sin asterisco)
 /diario/donde-quedarse-nusa-penida-que-hacer-en-nusa-p       /diario/donde-quedarse-nusa-penida-que-hacer-en-nusa-penida/  301!
+/diario/2026-11-02-qu*                                         /diario/que-hacer-kunming-3-dias/  301!
 
 # -------------------------------------------------------------
 # 2. REDIRECCIONES EN - JOURNAL (Antiguos slugs con fechas)
