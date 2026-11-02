@@ -66,6 +66,8 @@ Igual, siendo honestos: es un recinto pensado para visitantes y no la vida real 
 * Contras: es un recinto turístico; no hay metro en la puerta (hay que caminar un tramo, tomar un bus o un DiDi), y los horarios de las funciones cambian según la temporada.
 * Consejo: al entrar, pedí el mapa y consultá las funciones del día.
 
+Algo que nos quedó en el tintero: Lore quería disfrazarse de una de las etnias y averiguamos en varios lugares, pero al final no lo hizo. Más adelante, en Furongzhen, sí se animó, y lo contamos en la guía de ese pueblo.
+
 ### 2. Parque del Lago Verde, Cuihu (un parque residencial)
 
 <div class="post-img-box img-completo img-centro"><img src="/img/diario/green-lake-park.webp" alt="Imagen de bitácora"><span class="img-caption">Parque del Lago Verde (Cuihu), en el centro de Kunming</span></div>
@@ -84,6 +86,8 @@ Es el templo budista más antiguo y grande de la ciudad, destacado por su estanq
 <div class="post-img-box img-completo img-centro"><img src="/img/diario/yuantong-templo-budista.webp" alt="Imagen de bitácora"><span class="img-caption">Templo Yuantong en Kunming</span></div>
 
 Su línea principal es el Mahāyāna chino, dedicado principalmente a Guanyin (la diosa de la compasión), en el que se destacan sus altares de incienso y su estanque central. Al mismo tiempo convive con el Theravada, presente en un pabellón de estilo tailandés con una estatua de bronce de Buda regalada por Tailandia, y con el Vajrayana tibetano, que aporta sus detalles tántricos y la esencia visual de las zonas montañosas de la región. Una mezcla única que resume la riqueza cultural de Yunnan.
+
+Nosotros hicimos los rezos y las tres inclinaciones ante las estatuas, de forma respetuosa, como hacen quienes visitan el templo.
 
 * Horario: de 8:00 a 17:00. La visita lleva alrededor de una hora y media.
 * Entrada: 6 CNY por persona (unos USD 0,89 o EUR 0,80), con el incienso incluido.
@@ -111,6 +115,8 @@ La cocina de Yunnan es de las más variadas y distintas de China, con ingredient
 | Fideos “cruzando el puente” (过桥米线) | Caldo muy caliente al que se le agregan en la mesa fideos de arroz, carne y verduras. |
 | Hongos silvestres | En temporada, en sopa o salteados, en restaurantes y mercados. También se encuentran en hot pot vegetariano. |
 | Pasteles de flores | Dulces con relleno de pétalos, un pastel clásico de Kunming. |
+
+Nosotros comimos brochetas de hongos en la calle, tofu y papas en puestos de comida callejera, y los fideos “cruzando el puente” en un local a la salida del Pueblo de las Etnias.
 
 Los mercados locales permiten probarlos por poco dinero. Nos salieron unos 18 CNY (unos USD 2,68 o EUR 2,41) afuera del Parque de las Etnias. Si tenés restricciones alimentarias, preguntá siempre los ingredientes: el picante y los caldos con carne son habituales.
 También podés probar la gastronomía local en la Calle Antigua de Kunming (Kunming Old Street) y en el Mercado Nocturno de Nanqiang, llenos de casas tradicionales de la época Qing y de la República, con puestos de comida callejera.
