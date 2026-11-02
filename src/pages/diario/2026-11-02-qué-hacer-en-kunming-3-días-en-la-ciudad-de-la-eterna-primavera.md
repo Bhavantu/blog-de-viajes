@@ -121,7 +121,7 @@ En nuestro caso optamos por no hacerlo porque viajamos en la Semana Dorada: el t
 
 La ruta clásica de Yunnan va de sur a norte, de Kunming a Dali, Lijiang y Shangri-La, conectadas por tren de alta velocidad. Nosotros las dejamos para el próximo viaje: con 20 días y ocho ciudades no nos alcanzaba el tiempo, y preferimos quedarnos con el ritmo de Kunming. Cuando vayamos, las vamos a contar.
 
-## Antes de ir y cuánto cuesta
+## Preparación: antes de ir y cuánto cuesta
 
 * Cómo llegar: hay aeropuerto internacional y tren de alta velocidad. Nosotros reservamos los trenes en Trip.com con el número de pasaporte. Trip te cobra una comisión de entre 2 y 6 USD aproximadamente, pero te permite reservar desde el celular, asegurar tu asiento y hacer el seguimiento del recorrido en tren. De Nanning a Kunming · De Kunming a Chengdu
 * Pagos: todo se paga con Alipay o WeChat Pay. Configurálos antes de entrar a China.
