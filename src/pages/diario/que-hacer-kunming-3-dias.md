@@ -96,7 +96,7 @@ Yunnan es tierra de té y el pu’er, famoso en toda China, nace en esta provinc
 
 ### 5. Mercado de Flores de Dounan (Dounan Flower Market)
 
-Uno de los puntos más populares de Kunming es el mercado de flores frescas de Dounan, considerado el más grande de Asia: un espectáculo de colores donde se comercializan millones de flores cada día. La gente se acerca a comprar y a pasear por los pasillos repletos de orquídeas y rosas, a precios muy económicos. 
+Uno de los puntos más populares de Kunming es el mercado de flores frescas de Dounan, considerado el más grande de Asia: un espectáculo de colores donde se comercializan millones de flores cada día. Alrededor de las 7 de la tarde comienzan los descuentos y la gente se acerca a comprar y a pasear por los pasillos repletos de orquídeas y rosas, a precios muy económicos. 
 
 <div class="post-img-box img-completo img-centro"><img src="/img/diario/mercado-de-flores-de-dounan-kunming.webp" alt="Imagen de bitácora"><span class="img-caption">Mercado de flores de Dounan, el mercado de flores más grande de Asia</span></div>
 
