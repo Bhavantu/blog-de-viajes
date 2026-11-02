@@ -10,6 +10,7 @@ Diferencias entre este mapa y lo que hay hoy en el sitio, para resolver:
 - **Slug de Kunming:** el mapa dice `que-hacer-kunming`, pero el post está publicado como `que-hacer-kunming-3-dias` (con un 301 desde la URL vieja con fecha). **Decidido el 3/11:** se queda como `que-hacer-kunming-3-dias`, para no sumar otro redirect.
 - **eSIM en Kunming:** el post dice "usamos una eSIM ilimitada de Airalo", con el link de Impact de Airalo. El mapa dice que usaron Holafly. [VERIFICAR] cuál usaron; si fue Holafly, corregir el post y esperar el link de afiliado de Holafly.
 - **Pendientes de Kunming según el mapa:** el título no tiene "(guía 2026)"; el link del Pueblo de las Etnias es de Trip.com y no el de Lorena; falta el seguro; el tour de Shilin ya tiene un link de Trip.com.
+- **Link pendiente a Furongzhen:** Kunming (Pueblo de las Etnias) dice que Lore quería disfrazarse de una etnia, que no lo hizo y que "más adelante, en Furongzhen, sí se animó", sin link. Cuando se publique `furongzhen-por-libre`, linkear esa frase.
 - **Firma "Lorena":** el sitio todavía no muestra autor en los posts (pendiente de Prioridad 6, "Agregar firma de autor y fecha de actualización").
 - **Columna EUR:** la tabla de costos de Kunming tiene CNY, USD y EUR; el mapa dice que las tablas nuevas llevan solo CNY y USD hasta decidirlo.
 
