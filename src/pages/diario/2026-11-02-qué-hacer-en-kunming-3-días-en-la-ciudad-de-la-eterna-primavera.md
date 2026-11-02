@@ -5,7 +5,7 @@ date: 2026-11-02T15:27:00.000+13:00
 tag: guia de viaje
 pais: China
 ---
-Estuvimos 3 días y 3 noches en octubre de 2026, hospedados cerca del Parque del Lago Verde (Cuihu). Kunming, la capital de Yunnan, es la mejor puerta de entrada a esta provincia del suroeste de China. Es una ciudad relajada, con clima suave, parques llenos de gente disfrutando, casas de té y una cocina muy particular. Nuestro consejo principal es usar **Kunming** como base de 2 o 3 días antes de visitar Dali, Lijiang y Shangri-La; nosotros decidimos dejarlo para otro viaje.
+Estuvimos 3 días en octubre de 2026, hospedados cerca del Parque del Lago Verde (Cuihu). Kunming, la capital de Yunnan, es la mejor puerta de entrada a esta provincia del suroeste de China. Es una ciudad relajada, con clima suave, parques llenos de gente disfrutando, casas de té y una cocina muy particular. Nuestro consejo principal es usar **Kunming** como base de 2 o 3 días antes de visitar Dali, Lijiang y Shangri-La; nosotros decidimos dejarlo para otro viaje.
 
 🎒 Esta guía es parte de *Viajar a China por libre: itinerario de 20 días del sur al centro*. Kunming fue nuestra segunda parada, después de Nanning y antes de Chengdu.
 
@@ -22,20 +22,7 @@ Estuvimos 3 días y 3 noches en octubre de 2026, hospedados cerca del Parque del
 
 **La actividad que más nos gustó:** el Pueblo de las Etnias de Yunnan, para entender en una tarde la diversidad de la provincia. [Reservá la experiencia acá](https://www.trip.com/travel-guide/attraction/kunming/yunnan-nationalities-village-75906?poiType=3&curr=USD&locale=en-XX&scene=ticket)
 
-🧡 Algunos enlaces de este artículo son de afiliados: si reservás por ahí, nos llega una pequeña comisión sin costo extra para vos. Donde se puede, te dejamos también la alternativa gratuita o local.
-
-## En este artículo
-
-* Nuestra experiencia en Kunming
-* Por qué Yunnan: diversidad de etnias
-* Cuándo ir a Kunming
-* Qué ver en Kunming (4 lugares)
-* Qué comer
-* Lo que investigamos y no hicimos
-* Más allá de Kunming: Yunnan profundo, Dali, Lijiang y Shangri-La
-* Antes de ir y cuánto cuesta
-* Lo que nos gustó, lo que no y ¿vale la pena?
-* Preguntas frecuentes
+🧡 Algunos enlaces de este artículo son de afiliados: si reservás por ahí, nos llega una pequeña comisión sin costo extra para vos. Donde se puede, te dejamos también la alternativa gratuita o loca
 
 ## Nuestra experiencia en Kunming
 
@@ -68,19 +55,20 @@ Si podés elegir, te recomendamos marzo a mayo u octubre y noviembre. Llevá rop
 
 El Pueblo de las Etnias de Yunnan (Yunnan Ethnic Village) ocupa 89 hectáreas junto al lago Dianchi, en el suroeste de la ciudad, y reúne la arquitectura, los trajes y las tradiciones de 25 grupos étnicos. Se inauguró en 1992 y cada aldea muestra casas a escala real, comidas, rituales y celebraciones de su comunidad, con espectáculos de música y danza incluidos en la entrada.
 
+<div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption">Parque de las Etnias de Yunnan</span></div>
+
 Igual, siendo honestos: es un recinto pensado para visitantes y no la vida real de esas comunidades. Lo tomamos como una primera toma de contacto y, como tal, nos pareció un acercamiento interesante a las culturas de la provincia. Los shows dentro del parque son muy entretenidos y, en general, terminan invitando al público a bailar en una gran ronda.
 
 * **Ubicación:** 1310 Dianchi Road, distrito de Xishan, Kunming.
 * **Entrada:** 90 CNY (unos USD 12,55 o EUR 11,55) en la puerta. [Reservá la experiencia con traslado incluido desde el centro acá.](https://www.trip.com/travel-guide/attraction/kunming/yunnan-nationalities-village-75906?poiType=3&curr=USD&locale=en-XX&scene=ticket) El show nocturno se paga aparte.
 * **Horario:** de 9:00 a 18:00, con última entrada hacia las 16:30. Es bastante grande, así que lo ideal es dedicarle un día entero.
-* **Cómo llegar en metro:** no hay una estación con salida directa al parque, así que el metro se combina con un bus corto o una caminata. Desde la estación Kunming South, tomá la línea 1 hasta Huancheng South Road y ahí cambiá al bus 44 hasta la parada Yunnan Ethnic Village (Yunnan Minzu Cun); desde ahí son unos 7 minutos a pie. Otra opción es la línea 5 hasta la estación Yuhu Village, combinada con un bus. Desde la estación de tren Kunming Railway Station podés ir directo en bus 24 o 44. Conviene confirmar la ruta en tu app de mapas.
-* **Bicicletas:** las bicis compartidas de alquiler solo se pueden usar con un número de teléfono local, así que no son una opción para turistas.
-* **Mejor hora:** de mañana, para ver las aldeas con calma antes del calor.
+* **Cómo llegar en metro:** no hay una estación con salida directa al parque, así que el metro se combina con un bus corto, un didi o una caminata. Desde la estación Kunming South, tomá la línea 1 hasta Huancheng South Road.
+* **Mejor hora:** En la mañana para disfrutar sin calor o en la tarde luego del edio dia para ver los espectaculos .
 * **Pros:** se recorre en un día, hay mucha información sobre cada cultura en inglés y las funciones están incluidas.
 * **Contras:** es un recinto turístico; si no vas con tour, hay que combinar metro y bus, y los horarios de las funciones cambian según la temporada.
 * **Consejo:** al entrar, pedí el mapa para consultar las funciones del día.
 
-### 2. Parque del Lago Verde, Cuihu (un parque residencial muy lindo)
+### 2. Parque del Lago Verde, Cuihu (un parque residencial)
 
 El Parque del Lago Verde (翠湖, Cuìhú) está en pleno centro y los locales lo llaman la “joya de Kunming”. Son cuatro pequeños lagos unidos por puentes de estilo tradicional, rodeados por una calle con restaurantes y casas de té. Cerca están la Universidad de Yunnan y el Templo Yuantong. Lo que más nos gustó es que es un parque donde también te encontrás con la gente que vive ahí: hay casas de té alrededor, sombra para caminar y muchas personas sacándose fotos con los trajes típicos de las etnias han o tujia. Nosotros lo combinamos al terminar la visita al templo: recorrimos el parque y después decidimos tomar algo en una casa de té frente al parque.
 
@@ -93,6 +81,8 @@ El Parque del Lago Verde (翠湖, Cuìhú) está en pleno centro y los locales l
 
 Es el templo budista más antiguo y grande de la ciudad, destacado por su estanque central y su arquitectura rodeada de vegetación. Es uno de los centros budistas más antiguos e importantes de Yunnan, con más de 1200 años de historia. En este templo conviven tres grandes escuelas del budismo.
 
+<div class="post-img-box img-completo img-centro"><img src="" alt="Imagen de bitácora"><span class="img-caption">Entrada de parque del lago verde </span></div>
+
 Su línea principal es el **Mahāyāna chino**, dedicado principalmente a Guanyin (la diosa de la compasión), en el que se destacan sus altares de incienso y su estanque central. Al mismo tiempo convive con el **Theravada**, presente en un pabellón de estilo tailandés con una estatua de bronce de Buda regalada por Tailandia, y con el **Vajrayana tibetano**, que aporta sus detalles tántricos y la esencia visual de las zonas montañosas de la región. Una mezcla única que resume la riqueza cultural de Yunnan.
 
 * **Horario:** de 8:00 a 17:00. La visita lleva alrededor de una hora y media.
@@ -100,9 +90,15 @@ Su línea principal es el **Mahāyāna chino**, dedicado principalmente a Guanyi
 * **Cómo llegar:** a unos 10 minutos caminando del Parque del Lago Verde.
 * **Mejor hora:** al abrir, para empezar el día por acá.
 
-### 4. Casas de té y pu’er (el ritmo de Kunming)
+## 4. Casas de té y pu’er (el ritmo de Kunming)
 
 Yunnan es tierra de té y el pu’er, famoso en toda China, nace en esta provincia. En Kunming se disfruta con calma: en las casas de té que rodean los parques, en las terrazas bajo los árboles o en los mercados donde se venden tortas de té. Acá nadie parece tener prisa, y la tarde se pasa con una taza de té y charlando.
+
+## 5. Mercado de Flores de Dounan (Dounan Flower Market)
+
+Uno de los puntos más populares de Kunming es el mercado de flores frescas de Dounan, considerado el más grande de Asia: un espectáculo de colores donde se comercializan millones de flores cada día. Alrededor de las 7 de la tarde comienzan los descuentos y la gente se acerca a comprar y a pasear por los pasillos repletos de orquídeas y rosas, a precios muy económicos. Tanto para conocerlo como para dar un paseo es una experiencia interesante, y en la zona aledaña también hay una feria donde podés sacarte fotos con las clásicas coronas de flores. Además, si tu visita coincide con los meses de invierno, podés acercarte a la orilla del cercano lago Dianchi, donde es tradición recibir a las gaviotas de pico rojo que migran cada año.
+
+**Cómo llegar:** en metro, con la línea 1 o 2 hasta la estación Dounan, o con la línea 4 hasta Jingui Street, según varias guías. Confirmá la línea y la salida en tu app de mapas.
 
 ## Qué comer en Kunming
 
@@ -112,17 +108,11 @@ La cocina de Yunnan es de las más variadas y distintas de China, con ingredient
 | ---------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | Fideos “cruzando el puente” (过桥米线) | Caldo muy caliente al que se le agregan en la mesa fideos de arroz, carne y verduras.                        |
 | Hongos silvestres                  | En temporada, en sopa o salteados, en restaurantes y mercados. También se encuentran en hot pot vegetariano. |
-| Pasteles de flores                 | Dulces con relleno de pétalos, un recuerdo clásico de Kunming.                                               |
+| Pasteles de flores                 | Dulces con relleno de pétalos, un pastel clásico de Kunming.                                                 |
 
 Los mercados locales y los puestos cerca de los parques permiten probarlos por poco dinero. Nos salieron unos 18 CNY (unos USD 2,50 o EUR 2,30) afuera del Parque de las Etnias. Si tenés restricciones alimentarias, preguntá siempre los ingredientes: el picante y los caldos con carne son habituales.
 
 También podés probar la gastronomía local en la **Calle Antigua de Kunming (Kunming Old Street)** y en el **Mercado Nocturno de Nanqiang**, llenos de casas tradicionales de la época Qing y de la República, con puestos de comida callejera.
-
-> 🌸 **Mercado de Flores de Dounan (Dounan Flower Market)**
->
-> Uno de los puntos más populares de Kunming es el mercado de flores frescas de Dounan, considerado el más grande de Asia: un espectáculo de colores donde se comercializan millones de flores cada día. Alrededor de las 7 de la tarde comienzan los descuentos y la gente se acerca a comprar y a pasear por los pasillos repletos de orquídeas y rosas, a precios muy económicos. Tanto para conocerlo como para dar un paseo es una experiencia interesante, y en la zona aledaña también hay una feria donde podés sacarte fotos con las clásicas coronas de flores. Además, si tu visita coincide con los meses de invierno, podés acercarte a la orilla del cercano lago Dianchi, donde es tradición recibir a las gaviotas de pico rojo que migran cada año.
->
-> **Cómo llegar:** en metro, con la línea 1 o 2 hasta la estación Dounan, o con la línea 4 hasta Jingui Street, según varias guías. Confirmá la línea y la salida en tu app de mapas.
 
 ## Lo que investigamos y no hicimos
 
@@ -144,8 +134,7 @@ La ruta clásica de Yunnan va de sur a norte, de Kunming a Dali, Lijiang y Shang
 
 * **Cómo llegar:** hay aeropuerto internacional y tren de alta velocidad. Nosotros reservamos los trenes en Trip.com con el número de pasaporte. Trip te cobra una comisión de entre 2 y 6 USD aproximadamente, pero te permite reservar desde el celular, asegurar tu asiento y hacer el seguimiento del recorrido en tren. [Desde Nanning a Kunming](https://www.trip.com/trains/tt-common/ttlist?departurecitycode=CN001NNZ&arrivalcitycode=CN001KMM&Allianceid=10608683&SID=331480759&trip_sub1=&trip_sub3=D20828502)
 * **Pagos:** todo se paga con Alipay o WeChat Pay. Configurálos antes de entrar a China.
-* **Conectividad:** en este viaje usamos una eSIM ilimitada de Holafly, ya que internet era clave en todo momento, y una VPN en las computadoras para trabajar.
-* **Seguro de viaje:** \[COMPLETAR: qué seguro usaron]
+* **Conectividad:** en este viaje usamos una [eSIM ilimitada de Airalo, ya que internet era clave en todo momento](https://www.airalo.com/es-419?irclickid=RKOW5LVGZxyZUPhSglU0fTFWUkr3:E119WkpzQ0&irgwc=1&afsrc=1&utm_source=impact&utm_medium=affiliate&utm_campaign=Lorena+Gonzalez&utm_content=&utm_term=), tanto para pagar como para ubicarse, traducir etc y usamos una VPN en las computadoras para trabajar.
 * **Fiestas nacionales:** nuestro consejo más importante es evitar las vacaciones nacionales para que no te pase como a nosotros: realmente hay una diferencia en todos los aspectos del viaje. Reservá trenes y alojamiento con antelación.
 
 **Tabla de costos (octubre de 2026; 100 CNY = USD 13,95 = EUR 12,85)**
@@ -183,11 +172,11 @@ Sí, si lo tomás como una primera introducción a la diversidad de la provincia
 
 ### ¿Cómo llego al Pueblo de las Etnias desde el centro?
 
-Combinando metro y bus: línea 1 hasta Huancheng South Road y, desde ahí, bus 44 hasta la parada del parque, más unos 7 minutos a pie. Las bicis de alquiler solo se pueden usar con un número de teléfono local, así que no son una opción para turistas.
+Combinando metro y bus: línea 1 hasta Huancheng South Road y, desde ahí, bus 44 hasta la parada del parque, más unos 7 minutos a pie. Las bicis de alquiler solo se pueden usar con un número de teléfono local, así que no son una opción para turistas a menos de que compres uno y lo configures en we chat.
 
 ### ¿Es caro Kunming?
 
-No. Un plato de fideos o comida local ronda los 25 CNY (unos USD 3,50) y los mercados permiten comer barato.
+No. Un plato de fideos o comida local ronda los 25 CNY (unos USD 3,50) y los mercados permiten comer por costos accesibles.
 
 ### ¿Se puede ir a Dali y Lijiang desde Kunming?
 
