@@ -119,7 +119,7 @@ Reservando a través de estos enlaces nos ayudás a mantener el blog independien
 ## Un pueblo colgado de una cascada
 
 
-Furongzhen es un pueblo de más de 2.000 años sobre un acantilado al oeste de Hunan. De día es un pueblo de calles empedradas, casas de la etnia Tujia sobre pilotes de madera y shows culturales de la etnia Tujia. Al caer la noche se encienden las luces, y la cascada, que cae en pleno centro del pueblo, se ilumina creando una de sus imágenes más icónicas, la verdad es que la escena se vuelve de cuento de magia.
+Furongzhen es un pueblo de más de 2.000 años sobre un acantilado al oeste de Hunan. De día es un pueblo de calles empedradas, casas tujia sobre pilotes de madera y shows culturales de la etnia Tujia. Al caer la noche se encienden las luces, y la cascada, que cae en pleno centro del pueblo, se ilumina creando una de sus imágenes más icónicas, la verdad es que la escena se vuelve de cuento de magia.
 
 
 El pueblo queda a mitad de camino entre Zhangjiajie y Fenghuang. Históricamente lo habitaron las etnias minoritarias de China llamadas Tujia y Miao. Fue la primera sede de los jefes tusi de Xizhou, la familia Peng, una dinastía local tujia que gobernó la región durante más de 800 años, desde el siglo X hasta 1729. En 1135 trasladaron la sede a Laosicheng, pero el pueblo se quedó con el nombre de Wangcun, "el pueblo del rey". De esa época queda el Palacio Tusi, la residencia de verano de los jefes sobre el acantilado, y el Pilar de Bronce de Xizhou, fundido hacia el año 940 para registrar un tratado entre el rey de Chu y el jefe local.
@@ -131,13 +131,13 @@ El pueblo queda a mitad de camino entre Zhangjiajie y Fenghuang. Históricamente
 Durante la mayor parte de su historia se llamó Wangcun (王村). En 1986 se rodó acá *Hibiscus Town* (*Furong Zhen*, 《芙蓉镇》), película de Xie Jin basada en la novela de Gu Hua, que cuenta la vida de una joven que vende tofu de arroz, el plato emblemático del pueblo, en plena Revolución Cultural. La película hizo famoso al pueblo en toda China y en 2007 el pueblo adoptó oficialmente el nombre de Furong [VERIFICAR: la mayoría de las fuentes dice 2007, pero dos páginas del gobierno de Hunan dicen 1997].
 
 
-Hoy funciona como recinto turístico con entrada: es una forma ética y responsable de acercarse a la cultura local. La entrada cuesta 98 CNY (USD 14,98 o unos EUR 13) por persona y el ticket vale tres días, con acceso al casco histórico, a los miradores de la cascada y a los espectáculos de danza y música Tujia. Más abajo detallamos más sobre esto.
+Hoy funciona como recinto turístico con entrada: es una forma ética y responsable de acercarse a la cultura local. El ticket vale tres días e incluye el casco histórico, los miradores de la cascada y los espectáculos de danza y música Tujia. Más abajo detallamos más sobre esto.
 
 
 ## Resumen rápido
 
 
-La entrada cuesta 98 CNY (USD 14,98 o unos EUR 13) y vale 3 días. Podés pasar la noche (lo recomendamos) o visitarlo por el día. No es muy grande, así que se recorre caminando en unas horas, pero en la tarde noche se vuelve mágico con sus luces de colores.
+La entrada cuesta 98 CNY (USD 14,98 o unos EUR 13). Podés pasar la noche (lo recomendamos) o visitarlo por el día. No es muy grande, así que se recorre caminando en unas horas, pero en la tarde noche se vuelve mágico con sus luces de colores.
 
 
 ### Datos importantes de un vistazo
@@ -163,7 +163,7 @@ Al llegar a la estación nos esperaron de nuestro alojamiento, con quienes coord
 La cascada se veía increíble, comenzamos a recorrerlo alrededor de las 4 con una luz muy bella, hicimos la pasarela por detrás varias veces, había bastante gente, pero se podía disfrutar igual. En esa tarde aproveché para cumplir el típico sueño en China y me acerqué a uno de los puestos en los que te maquillan y visten con la ropa tradicional de la etnia miao. Así que al caer la noche además de disfrutar del espectáculo de luces en todo el pueblo sacamos fotos en varios de los puntos iluminados que compartiré a continuación.
 
 
-Como nos quedábamos dos noches el primer día aprovechamos para caminar con calma, conocer y probar el famoso tofu de arroz, "mi doufu" fuimos al local más icónico de la ciudad, un pequeño puestito en donde se grabó la película "la ciudad de los hibiscos". Al llegar nos encontramos con un gran grupo de personas que nos invitaron amablemente a comer y conversar con ellos. Resultó ser la policía local que había terminado su turno, charlamos, nos reímos e intercambiamos también con los dueños del lugar quienes entre risas nos mostraron fotos de algunos momentos icónicos de la película y hasta una de Xi Jinping, el presidente de China. Luego de las 22 el pueblo comienza a vaciarse y los miradores se despejan.
+Como nos quedábamos dos noches, el primer día aprovechamos para caminar con calma, conocer y probar el famoso tofu de arroz, el "mi doufu". Fuimos al local más icónico de la ciudad, un pequeño puestito en donde se grabó la película "La ciudad de los hibiscos". Al llegar nos encontramos con un gran grupo de personas que nos invitaron amablemente a comer y conversar con ellos. Resultó ser la policía local que había terminado su turno, charlamos, nos reímos e intercambiamos también con los dueños del lugar quienes entre risas nos mostraron fotos de algunos momentos icónicos de la película y hasta una de Xi Jinping, el presidente de China. Luego de las 22 el pueblo comienza a vaciarse y los miradores se despejan.
 
 
 A la mañana también hay poca gente y dedicamos el segundo día a ver las representaciones artísticas en los diferentes horarios que podés chequear en el punto turístico de la entrada. Una de nuestras favoritas fue la representación de la previa de una boda tujia en el puente Tuwang, alrededor de las 14:30 en donde se representa el duelo de la novia al dejar la casa y la familia con un canto muy particular, pero también la alegría del compromiso. Finaliza de forma muy animada y entregan regalitos.
@@ -200,14 +200,14 @@ El mapa del recinto propone una caminata en un solo sentido, casi toda en bajada
 
 * **Entrada:** incluida en el ticket.
 * **Mejor hora:** a la mañana y de noche, cuando casi no hay gente. A la tarde se llena.
-* **Lo que vivimos:** la cascada se veía increíble desde el mirador y la pasarela es divertida pasamos por detrás varias veces y aprovechamos a refrescarnos, ¡salpica!
+* **Lo que vivimos:** la cascada se veía increíble desde el mirador y la pasarela es divertida. Pasamos por detrás varias veces y aprovechamos a refrescarnos, ¡salpica!
 
 
 ### 2. Puente Tuwang (土王桥)
 
 
 * **Qué es:** puente cubierto de madera con faroles rojos, uno de los mejores puntos para fotos, sobre todo al anochecer.
-* **Lo que vivimos:** acá vimos "El llanto de la novia" la previa de una boda tujia alrededor de las 14:30
+* **Lo que vivimos:** acá vimos "El llanto de la novia", la previa de una boda tujia, alrededor de las 14:30.
 
 
 ### 3. Calle Wuli y las casas Tujia sobre pilotes
@@ -373,7 +373,7 @@ Reservando a través de estos enlaces nos ayudás a mantener el blog independien
 </div>
 
 
-Entrada: también la compramos online en Trip.com, por 98 CNY (USD 14,98 o unos EUR 13): [comprar la entrada](https://www.trip.com/t/b9MbQjDn5X2). Al llegar hay que presentar el QR con el pasaporte para entrar al recinto.
+Entrada: también la compramos online en Trip.com: [comprar la entrada](https://www.trip.com/t/b9MbQjDn5X2).
 
 
 ## La cultura Tujia
