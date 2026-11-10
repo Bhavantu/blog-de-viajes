@@ -7,7 +7,7 @@ tag: guia de viaje
 pais: China
 description: "¿Vale la pena Furongzhen? Guía con tren desde Zhangjiajie, entrada de 98 CNY, shows Tujia y cascada iluminada. Mirá cómo organizarlo."
 ---
-**¿Un pueblo con una cascada en pleno centro? Existe, se llama Furongzhen y vale mucho la pena, sobre todo si te quedás a dormir.** Pasamos 2 noches y 3 días en este pueblo colgado de una cascada, en Hunan, durante nuestra ruta de 20 días por China en octubre de 2026, y nos quedamos en Jianghu, un alojamiento dentro del recinto del pueblo antiguo (la zona que requiere entrada). De día es un pueblo de calles empedradas y casas tujia sobre pilotes; de noche, cuando se enciende la cascada, parece otro lugar. Nos gustó tanto que no nos saltearíamos nada, y hasta comimos el famoso mi doufu en el mismo local donde se filmó la película del pueblo. En esta guía te contamos cómo llegar desde Zhangjiajie o Fenghuang, cuánto cuesta la entrada, qué ver y a qué hora, y qué shows no te podés perder. Un consejo antes de empezar: dentro del pueblo no entran autos, así que viajá liviano.
+**¿Un pueblo con una cascada en pleno centro? Existe, se llama Furongzhen y vale mucho la pena, sobre todo si te quedás a dormir.** Pasamos 2 noches y 3 días en este pueblo colgado de una cascada, en Hunan, durante nuestra ruta de 20 días por China en octubre de 2026, y nos quedamos en Jianghu, un alojamiento dentro del recinto del pueblo antiguo (la zona que requiere entrada). De día es un pueblo de calles empedradas y casas tujia sobre pilotes; de noche, cuando se enciende la cascada, parece otro lugar. Además, comimos el famoso mi doufu en el mismo local donde se filmó la película del pueblo. En esta guía te contamos cómo llegar desde Zhangjiajie o Fenghuang, cuánto cuesta la entrada, qué ver y a qué hora, y qué shows no te podés perder. Un consejo antes de empezar: dentro del pueblo no entran autos, así que viajá liviano.
 
 
 > 🎒 Esta guía forma parte de nuestra ruta de 20 días por China.
@@ -34,7 +34,7 @@ Presupuesto
 </div>
 
 
-<div style="padding: 0.6rem 0; margin-bottom: 0.4rem; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem; border-bottom: 1px solid #e7e2d8;">
+<div style="padding: 0.6rem 0; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem;">
 <div>
 <div style="display: flex; align-items: center; gap: 0.4rem; flex-wrap: wrap;">
 <a href="https://www.trip.com/t/DYY7oUko5X2" target="_blank" rel="noopener" style="color: #222; font-size: 0.95rem; font-weight: bold; text-decoration: none !important; box-shadow: none !important; background-image: none !important;">Jianghu</a>
@@ -46,42 +46,14 @@ Presupuesto
 Ver alojamiento &rarr;
 </a>
 </div>
-
-
-<div style="padding: 0.6rem 0; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem;">
-<div>
-<div style="display: flex; align-items: center; gap: 0.4rem; flex-wrap: wrap;">
-<a href="https://www.trip.com/t/L9Tw7txo5X2" target="_blank" rel="noopener" style="color: #222; font-size: 0.95rem; font-weight: bold; text-decoration: none !important; box-shadow: none !important; background-image: none !important;">Furong Town and Slow Yueshe</a>
-<span style="background: #fef3c7; color: #92400e; font-size: 0.7rem; font-weight: 700; padding: 0.15rem 0.5rem; border-radius: 4px;">A 7 minutos</span>
-</div>
-<p style="margin: 0.25rem 0 0 0; font-size: 0.85rem; color: #666;">Unos 107 CNY (USD 16, EUR 14) por noche, a 7 minutos fuera del pueblo antiguo. No nos quedamos.</p>
-</div>
-<a href="https://www.trip.com/t/L9Tw7txo5X2" target="_blank" rel="noopener" style="color: #006d77 !important; font-size: 0.8rem; font-weight: 700; text-decoration: none !important; padding: 0.4rem 0.8rem; border-radius: 6px; border: 1px solid #006d77; white-space: nowrap; margin-left: auto; box-shadow: none !important; background-image: none !important; display: inline-block;">
-Ver alojamiento &rarr;
-</a>
-</div>
 </div>
 
 
-<div style="margin-bottom: 1.4rem;">
+<div style="margin-bottom: 1.6rem;">
 <div style="margin-bottom: 0.75rem;">
 <h4 style="margin: 0; font-size: 0.82rem; text-transform: uppercase; letter-spacing: 0.06em; color: #006d77; font-weight: 800;">
 Confort
 </h4>
-</div>
-
-
-<div style="padding: 0.6rem 0; margin-bottom: 0.4rem; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem; border-bottom: 1px solid #e7e2d8;">
-<div>
-<div style="display: flex; align-items: center; gap: 0.4rem; flex-wrap: wrap;">
-<a href="https://www.trip.com/t/LMlRvsdn5X2" target="_blank" rel="noopener" style="color: #222; font-size: 0.95rem; font-weight: bold; text-decoration: none !important; box-shadow: none !important; background-image: none !important;">Tuwang Palace · Eight Halls</a>
-<span style="background: #e0f2fe; color: #075985; font-size: 0.7rem; font-weight: 700; padding: 0.15rem 0.5rem; border-radius: 4px;">Vista a la cascada</span>
-</div>
-<p style="margin: 0.25rem 0 0 0; font-size: 0.85rem; color: #666;">Unos 389 CNY (USD 58, EUR 50) por noche, con vistas a la cascada. No nos quedamos.</p>
-</div>
-<a href="https://www.trip.com/t/LMlRvsdn5X2" target="_blank" rel="noopener" style="color: #006d77 !important; font-size: 0.8rem; font-weight: 700; text-decoration: none !important; padding: 0.4rem 0.8rem; border-radius: 6px; border: 1px solid #006d77; white-space: nowrap; margin-left: auto; box-shadow: none !important; background-image: none !important; display: inline-block;">
-Ver alojamiento &rarr;
-</a>
 </div>
 
 
@@ -94,6 +66,29 @@ Ver alojamiento &rarr;
 <p style="margin: 0.25rem 0 0 0; font-size: 0.85rem; color: #666;">Unos 436 CNY (USD 65, EUR 57) por noche, con vista al río. No nos quedamos.</p>
 </div>
 <a href="https://www.trip.com/t/ii1qL2Yn5X2" target="_blank" rel="noopener" style="color: #006d77 !important; font-size: 0.8rem; font-weight: 700; text-decoration: none !important; padding: 0.4rem 0.8rem; border-radius: 6px; border: 1px solid #006d77; white-space: nowrap; margin-left: auto; box-shadow: none !important; background-image: none !important; display: inline-block;">
+Ver alojamiento &rarr;
+</a>
+</div>
+</div>
+
+
+<div style="margin-bottom: 1.4rem;">
+<div style="margin-bottom: 0.75rem;">
+<h4 style="margin: 0; font-size: 0.82rem; text-transform: uppercase; letter-spacing: 0.06em; color: #006d77; font-weight: 800;">
+Con vista a la cascada
+</h4>
+</div>
+
+
+<div style="padding: 0.6rem 0; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem;">
+<div>
+<div style="display: flex; align-items: center; gap: 0.4rem; flex-wrap: wrap;">
+<a href="https://www.trip.com/t/LMlRvsdn5X2" target="_blank" rel="noopener" style="color: #222; font-size: 0.95rem; font-weight: bold; text-decoration: none !important; box-shadow: none !important; background-image: none !important;">Tuwang Palace · Eight Halls</a>
+<span style="background: #e0f2fe; color: #075985; font-size: 0.7rem; font-weight: 700; padding: 0.15rem 0.5rem; border-radius: 4px;">Vista a la cascada</span>
+</div>
+<p style="margin: 0.25rem 0 0 0; font-size: 0.85rem; color: #666;">Unos 389 CNY (USD 58, EUR 50) por noche, con vistas a la cascada. No nos quedamos.</p>
+</div>
+<a href="https://www.trip.com/t/LMlRvsdn5X2" target="_blank" rel="noopener" style="color: #006d77 !important; font-size: 0.8rem; font-weight: 700; text-decoration: none !important; padding: 0.4rem 0.8rem; border-radius: 6px; border: 1px solid #006d77; white-space: nowrap; margin-left: auto; box-shadow: none !important; background-image: none !important; display: inline-block;">
 Ver alojamiento &rarr;
 </a>
 </div>
@@ -169,7 +164,7 @@ Como nos quedábamos dos noches, el primer día aprovechamos para caminar con ca
 A la mañana también hay poca gente y dedicamos el segundo día a ver las representaciones artísticas en los diferentes horarios que podés chequear en el punto turístico de la entrada. Una de nuestras favoritas fue la representación de la previa de una boda tujia en el puente Tuwang, alrededor de las 14:30 en donde se representa el duelo de la novia al dejar la casa y la familia con un canto muy particular, pero también la alegría del compromiso. Finaliza de forma muy animada y entregan regalitos.
 
 
-El show que principalmente destacamos es el nocturno. Fuimos bastante temprano: al finalizar el show anterior "el carnaval de los Bizikas" se armó una gran fila, pero entramos primeros y conseguimos un buen lugar en el anfiteatro cerrado. Nos gustó todo y no nos saltearíamos nada, pero si tenés poco tiempo, con una noche bien planificada alcanza.
+El show que principalmente destacamos es el nocturno. Fuimos bastante temprano: al finalizar el show anterior "el carnaval de los Bizikas" se armó una gran fila, pero entramos primeros y conseguimos un buen lugar en el anfiteatro cerrado. Si tenés poco tiempo, con una noche bien planificada alcanza.
 
 
 ## Qué ver en Furongzhen: horarios aproximados
@@ -427,6 +422,7 @@ Comimos en el lugar donde se filmó *Hibiscus Town*. Es la tienda de mi doufu de
 * **Equipaje:** sin autos dentro del pueblo; viajá liviano.
 * **Pagos:** pagamos todo con Alipay.
 * **Conectividad:** llevá una eSIM para tener datos desde que llegás: [eSIM de Airalo](https://airalo.pxf.io/c/7468102/1268485/15608?partnerpropertyid=8600748).
+* **Seguro de viaje:** contratalo antes de salir.
 * **Clima:** llevá abrigo liviano y algo impermeable si vas en otoño.
 * **Pasaporte:** hace falta para la entrada, que podés [comprar online](https://www.trip.com/t/b9MbQjDn5X2).
 
@@ -447,6 +443,14 @@ Comimos en el lugar donde se filmó *Hibiscus Town*. Es la tienda de mi doufu de
 | Fideos con carne                         | 20        | 3,0     | 2,6     | En un restaurante con vista al río                                    |
 | Alojamiento (por noche)                  | 107 a 436 | 16 a 65 | 14 a 57 | Desde Jianghu (120 CNY, donde nos quedamos) hasta hoteles con vista a la cascada |
 
+
+## Lo que nos gustó, lo que no y ¿vale la pena?
+
+**Lo que nos gustó:** la cascada iluminada de noche y la pasarela por detrás, la previa de la boda tujia en el puente Tuwang, el show nocturno "El florecer de Furong" y el mi doufu en el local de la película.
+
+**Lo que nos costó:** ubicarnos. El recinto es bastante laberíntico y nos costó leer el mapa para encontrar los shows y los puntos del recorrido. El Palacio Tusi, por ejemplo, figura como un punto del mapa, pero solo se ve de lejos y no se llega hasta allí.
+
+**¿Vale la pena?** Sí, sobre todo si te quedás a dormir: el pueblo de noche, con la cascada iluminada y el show, es lo mejor de la visita.
 
 ## Preguntas frecuentes sobre Furongzhen
 

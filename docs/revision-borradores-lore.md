@@ -40,11 +40,11 @@ Ya corregido por Santi el 10/11/2026 (no hace falta tocarlo): voseo ("podés", "
 
 **Estructura (ver `docs/plantilla-articulo.md`)**
 - [x] Índice "En este artículo". Resuelto el 11/11: no hace falta tocar nada, BlogPostLayout genera solo el índice a partir de los H2 y H3.
-- [ ] Sección "Qué saltearíamos". Si de verdad no saltearíamos nada, decirlo ahí con una línea y el motivo.
-- [ ] Sección "Lo que nos gustó, lo que no y ¿vale la pena?", con algo que no nos gustó o nos costó (la gente a la tarde, las escaleras con valija, lo que sea).
-- [ ] Seguro de viaje en "Antes de ir a Furongzhen".
+- [x] Sección "Qué saltearíamos". Resuelto el 11/11: Lore pidió sacar esa idea; se eliminó "no nos saltearíamos nada" de la apertura y de "Nuestra experiencia", y no hay sección de "Qué saltearíamos".
+- [x] Sección "Lo que nos gustó, lo que no y ¿vale la pena?" (resuelto el 11/11: se agregó antes de las preguntas frecuentes; lo que nos costó es el recinto laberíntico y leer el mapa, con el Palacio Tusi como ejemplo), con algo que no nos gustó o nos costó (la gente a la tarde, las escaleras con valija, lo que sea).
+- [ ] Seguro de viaje en "Antes de ir a Furongzhen". Parcial el 11/11: se sumó la línea "contratalo antes de salir", sin link porque todavía no hay seguro de afiliado; cuando haya, agregar el URL directo en esa línea.
 - [ ] Recuadro 🎒 del principio: enlazar a la guía pilar de China cuando esté publicada (ver `docs/mapa-cluster-china.md`).
-- [ ] Bloque "Si tenés poco tiempo": la guía pide tres alojamientos (económico, medio, alto) con estrellas. Hoy hay cuatro en dos grupos.
+- [x] Bloque "Si tenés poco tiempo" (resuelto el 11/11: quedaron tres, Presupuesto = Jianghu, Confort = Huayangnianhua Inn y Con vista a la cascada = Tuwang Palace; Furong Town and Slow Yueshe queda solo en "Dónde quedarse", por estar fuera del recinto): la guía pide tres alojamientos (económico, medio, alto) con estrellas. Hoy hay cuatro en dos grupos.
 - [ ] "Más guías de China": sumar los satélites que se vayan publicando.
 
 **Redacción**
