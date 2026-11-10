@@ -407,12 +407,12 @@ Los restaurantes se alinean sobre la calle Wuli, muchos con vista a la cascada o
 Comimos en el lugar donde se filmó *Hibiscus Town*. Es la tienda de mi doufu de Liu Xiaoqing, la actriz que hace de vendedora en la película de 1986. Adentro había fotos de la película y hasta una de Xi Jinping, el presidente de China. Terminamos comiendo ahí invitados por la policía local riendo y contando anécdotas, pero eso lo contamos en nuestra experiencia.
 
 
-* **Cómo encontrarlo:** cerca de un pequeño arco de piedra, con el cartel "芙蓉镇113号" (Furong Town n.º 113), que es la locación del rodaje. Según reseñas, es el negocio con más clientes del pueblo y se lo considera el más auténtico por ser el lugar original de la película.
+* **Cómo encontrarlo:** cerca de un pequeño arco de piedra, con el cartel "芙蓉镇113号" (Furong Town n.º 113), que es la locación del rodaje. Según el diario Hunan Ribao (2021), vendían más de 3.000 platos por día.
 * **Precio:** el plato pequeño salía 8 CNY (unos USD 1,20, EUR 1).
 * **Qué esperar:** es un local y un plato sencillo, para ir más por la experiencia.
 
 
-¿Sos vegetariano/a? Estamos escribiendo un artículo sobre opciones para comer vegetariano en China. Mientras tanto, en algunas tiendas del pueblo encontramos arroz salteado con verduras o fideos de arroz sin caldo.
+¿Sos vegetariano/a? En algunas tiendas del pueblo encontramos arroz salteado con verduras o fideos de arroz sin caldo.
 
 
 ## Antes de ir a Furongzhen

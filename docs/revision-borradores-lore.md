@@ -56,8 +56,8 @@ Ya corregido por Santi el 10/11/2026 (no hace falta tocarlo): voseo ("podés", "
 - [x] La entrada se explica cinco veces (intro, resumen rápido, tabla de datos, después de los trenes y FAQ). Dejar el detalle en la tabla y en un solo párrafo, y en el resto solo el precio. Resuelto el 11/11: la intro ya no repite el precio, el resumen rápido deja solo el precio, y el párrafo posterior a los trenes deja solo el link; el detalle queda en la tabla y la FAQ.
 
 **Después del borrador**
-- [ ] `docs/mapa-cluster-china.md`: el slug queda `furongzhen-que-ver` (no `furongzhen-por-libre`) y el alojamiento es Jianghu (no Wangxiansheng Homestay).
-- [ ] Kunming: en la sección del Pueblo de las Etnias se puede sumar que Lore quería disfrazarse y no lo hizo, y que en Furongzhen se animó con la ropa miao, con link a esta guía cuando se publique. Lo confirma Lore.
+- [x] `docs/mapa-cluster-china.md` (resuelto el 11/11 para la fila de Furongzhen y el gancho de Kunming; quedan otras filas con "por libre" de otros artículos): el slug queda `furongzhen-que-ver` (no `furongzhen-por-libre`) y el alojamiento es Jianghu (no Wangxiansheng Homestay).
+- [x] Kunming (resuelto el 11/11, Lore confirmó): se agregó la anécdota del disfraz en la sección del Pueblo de las Etnias, con link a `/diario/furongzhen-que-ver/`; sale publicada junto con esta guía. Texto original del pendiente: en la sección del Pueblo de las Etnias se puede sumar que Lore quería disfrazarse y no lo hizo, y que en Furongzhen se animó con la ropa miao, con link a esta guía cuando se publique. Lo confirma Lore.
 - [ ] Traducción al inglés, cuando el español quede cerrado.
 - [ ] Pasar el PR #126 a "Ready for review" y avisar a Santi.
 
