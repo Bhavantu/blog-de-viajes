@@ -31,7 +31,7 @@ Ya corregido por Santi el 10/11/2026 (no hace falta tocarlo): voseo ("podés", "
 - [x] Horario del recinto, de 8:00 a 24:00. Resuelto el 11/11: Lore confirmó que es de 8:00 a 24:00 (es lo que vieron ellos); se deja el texto. La ficha de Klook dice de 7:30 a 23:59.
 - [ ] "En verano se enciende antes" (pregunta frecuente de la cascada).
 - [ ] "La cascada va más fuerte de junio a septiembre" (pregunta frecuente de la mejor época). La tabla de datos solo dice que baja de diciembre a febrero.
-- [ ] "Hay más de diez salidas por día" del tren desde Zhangjiajie.
+- [x] "Hay más de diez salidas por día" del tren desde Zhangjiajie. Resuelto el 11/11: confirmado en la guía de transporte de China Discovery (más de 10 trenes por día entre Zhangjiajie West y Furongzhen); se deja el texto.
 - [x] El taxi de la estación al pueblo a 15-25 CNY. Resuelto el 11/11: no lo tomaron. Se cambió por el dato de la guía de transporte de Trip.com (unos 20 CNY, USD 3, EUR 2,6) diciendo que no lo tomaron y que les pasaron a buscar.
 - [ ] Arroz con verduras (16 CNY) y arroz con pollo (20 CNY) de la tabla de costos: dónde los comimos. Si fue en un lugar con nombre, sumarlo en "Qué comer".
 - [x] Llegada a Jianghu (resuelto el 11/11: Lore confirmó que el auto los llevó primero a la entrada del recinto, donde escanearon QR y pasaportes, y después los dejó en la calle del hotel; ahora los dos textos coinciden): en "Nuestra experiencia" el auto nos lleva hasta la entrada del recinto, donde escanean el QR, y en "Dónde quedarse" el auto nos deja en la calle del hotel. Contar cómo fue en un solo lugar y que el otro coincida.
