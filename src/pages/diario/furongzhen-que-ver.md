@@ -128,7 +128,7 @@ El pueblo queda a mitad de camino entre Zhangjiajie y Fenghuang. Históricamente
 **El cambio de nombre y la película que lo volvió famoso:**
 
 
-Durante la mayor parte de su historia se llamó Wangcun (王村). En 1986 se rodó acá *Hibiscus Town* (*Furong Zhen*, 《芙蓉镇》), película de Xie Jin basada en la novela de Gu Hua, que cuenta la vida de una joven que vende tofu de arroz, el plato emblemático del pueblo, en plena Revolución Cultural. La película hizo famoso al pueblo en toda China y en 2007 el pueblo adoptó oficialmente el nombre de Furong [VERIFICAR: la mayoría de las fuentes dice 2007, pero dos páginas del gobierno de Hunan dicen 1997].
+Durante la mayor parte de su historia se llamó Wangcun (王村). En 1986 se rodó acá *Hibiscus Town* (*Furong Zhen*, 《芙蓉镇》), película de Xie Jin basada en la novela de Gu Hua, que cuenta la vida de una joven que vende tofu de arroz, el plato emblemático del pueblo, en plena Revolución Cultural. La película hizo famoso al pueblo en toda China y, años después, adoptó oficialmente el nombre de Furong.
 
 
 Hoy funciona como recinto turístico con entrada: es una forma ética y responsable de acercarse a la cultura local. El ticket vale tres días e incluye el casco histórico, los miradores de la cascada y los espectáculos de danza y música Tujia. Más abajo detallamos más sobre esto.
@@ -444,7 +444,7 @@ Comimos en el lugar donde se filmó *Hibiscus Town*. Es la tienda de mi doufu de
 | Tren Furongzhen → Fenghuang              | 67        | 9,94    | 8,7     | 33 min                                                                |
 | Mi doufu (plato pequeño) en el local 113 | 8         | 1,2     | 1       | Lo que pagamos nosotros                                               |
 | Arroz con verduras (vegetariano)         | 16        | 2,4     | 2,1     | No incluye bebida                                                     |
-| Arroz con pollo                          | 20        | 3,0     | 2,6     | Fuera de la zona de la cascada, con vista al río                      |
+| Fideos con carne                         | 20        | 3,0     | 2,6     | En un restaurante con vista al río                                    |
 | Alojamiento (por noche)                  | 107 a 436 | 16 a 65 | 14 a 57 | Desde Jianghu (120 CNY, donde nos quedamos) hasta hoteles con vista a la cascada |
 
 
@@ -472,7 +472,7 @@ Con una noche bien planificada alcanza: llegás a la tarde, ves la cascada ilumi
 ### ¿A qué hora se enciende la cascada de Furongzhen?
 
 
-Hacia las 19:00 en octubre. En verano se enciende antes, así que confirmalo en la entrada.
+Hacia las 19:00 en octubre. Confirmalo en la entrada el día que vayas.
 
 
 ### ¿Hay shows durante el día en Furongzhen?
@@ -502,7 +502,7 @@ Sí, en tren, pero te perdés la noche, que es lo mejor del pueblo. Fijate el ú
 ### ¿Cuándo es la mejor época para ir a Furongzhen?
 
 
-De marzo a noviembre, con primavera y otoño como favoritos. La cascada va más fuerte de junio a septiembre y baja mucho entre diciembre y febrero.
+De marzo a noviembre, con primavera y otoño como favoritos. La cascada baja mucho entre diciembre y febrero.
 
 
 ## ¿Para quién es Furongzhen?
