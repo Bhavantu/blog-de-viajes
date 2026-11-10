@@ -379,7 +379,7 @@ Entrada: también la compramos online en Trip.com, por 98 CNY (USD 14,98 o unos 
 ## La cultura Tujia
 
 
-Los tujia son una de las minorías más numerosas de China y viven sobre todo en las montañas Wuling. El pueblo conserva la arquitectura (las casas sobre pilotes de madera, clavadas en el acantilado) y los espectáculos durante la jornada. El palacio que ves en el recorrido recuerda la época en que Wangcun fue sede de los jefes tusi. El pueblo sigue habitado: según medios de Hunan, más de 2.000 hogares locales viven ahí [VERIFICAR].
+Los tujia son una de las minorías más numerosas de China y viven sobre todo en las montañas Wuling. El pueblo conserva la arquitectura (las casas sobre pilotes de madera, clavadas en el acantilado) y los espectáculos durante la jornada. El palacio que ves en el recorrido recuerda la época en que Wangcun fue sede de los jefes tusi. El pueblo sigue habitado: según el censo de 2010, el municipio de Furong (que incluye el pueblo antiguo y sus alrededores) tiene 22.261 habitantes.
 
 
 ## Dónde dormir y qué comer
