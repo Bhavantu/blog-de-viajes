@@ -40,7 +40,7 @@ Presupuesto
 <a href="https://www.trip.com/t/DYY7oUko5X2" target="_blank" rel="noopener" style="color: #222; font-size: 0.95rem; font-weight: bold; text-decoration: none !important; box-shadow: none !important; background-image: none !important;">Jianghu</a>
 <span style="background: #e6f4f1; color: #006d77; font-size: 0.7rem; font-weight: 700; padding: 0.15rem 0.5rem; border-radius: 4px;">Nos quedamos acá</span>
 </div>
-<p style="margin: 0.25rem 0 0 0; font-size: 0.85rem; color: #666;">Unos 120 CNY (USD 18, EUR 16) por noche, dentro del recinto del pueblo antiguo.</p>
+<p style="margin: 0.25rem 0 0 0; font-size: 0.85rem; color: #666;">Pagamos unos 120 CNY (USD 18, EUR 16) por noche, dentro del recinto del pueblo antiguo.</p>
 </div>
 <a href="https://www.trip.com/t/DYY7oUko5X2" target="_blank" rel="noopener" style="color: #006d77 !important; font-size: 0.8rem; font-weight: 700; text-decoration: none !important; padding: 0.4rem 0.8rem; border-radius: 6px; border: 1px solid #006d77; white-space: nowrap; margin-left: auto; box-shadow: none !important; background-image: none !important; display: inline-block;">
 Ver alojamiento &rarr;
@@ -157,7 +157,7 @@ La entrada cuesta 98 CNY (USD 14,98 o unos EUR 13). Podés pasar la noche (lo re
 ## Nuestra experiencia en Furongzhen
 
 
-Al llegar a la estación nos esperaron de nuestro alojamiento, con quienes coordinamos por la app. El recinto se encuentra dentro de la ciudad, así que nos llevó hasta la entrada, donde presentamos nuestro QR de ingreso y escanearon nuestros pasaportes. Una vez instalados comenzamos a recorrer el pueblo.
+Al llegar a la estación nos esperaron de nuestro alojamiento, con quienes coordinamos por la app. El recinto se encuentra dentro de la ciudad, así que nos llevó hasta la entrada, donde presentamos nuestro QR de ingreso y escanearon nuestros pasaportes. Después el auto nos dejó en la calle del hotel y, una vez instalados, comenzamos a recorrer el pueblo.
 
 
 La cascada se veía increíble, comenzamos a recorrerlo alrededor de las 4 con una luz muy bella, hicimos la pasarela por detrás varias veces, había bastante gente, pero se podía disfrutar igual. En esa tarde aproveché para cumplir el típico sueño en China y me acerqué a uno de los puestos en los que te maquillan y visten con la ropa tradicional de la etnia miao. Así que al caer la noche además de disfrutar del espectáculo de luces en todo el pueblo sacamos fotos en varios de los puntos iluminados que compartiré a continuación.
@@ -391,7 +391,7 @@ Los tujia son una de las minorías más numerosas de China y viven sobre todo en
 Hay dos opciones: **dentro del recinto** (vistas a la cascada y al río, atmósfera mágica, pero es un poco más caro e incluye escalones) o **fuera, cerca de la puerta** (más barato y más cómodo con equipaje). Nosotros nos quedamos adentro y lo recomendamos.
 
 
-* [Jianghu](https://www.trip.com/t/DYY7oUko5X2) (nuestra elección) — desde unos 120 CNY (USD 18, EUR 16) por noche. Nos quedamos dos noches, con unas vistas preciosas a la ciudad y al río. Está dentro del recinto, sobre una de sus calles externas: de ese lado nos dejó el auto y, del otro, el hotel tiene acceso directo al interior del pueblo antiguo. Elegimos la habitación (Chan Yun Twin Room).
+* [Jianghu](https://www.trip.com/t/DYY7oUko5X2) (nuestra elección) — pagamos unos 120 CNY (USD 18, EUR 16) por noche. Nos quedamos dos noches, con unas vistas preciosas a la ciudad y al río. Está dentro del recinto, sobre una de sus calles externas: de ese lado nos dejó el auto y, del otro, el hotel tiene acceso directo al interior del pueblo antiguo. Elegimos la habitación (Chan Yun Twin Room).
 * [Tuwang Palace · Eight Halls](https://www.trip.com/t/LMlRvsdn5X2) — unos 389 CNY (USD 58, EUR 50). No nos quedamos. Vistas a la cascada desde el hotel, en plena zona central del recinto.
 * [Huayangnianhua Inn](https://www.trip.com/t/ii1qL2Yn5X2) — unos 436 CNY (USD 65, EUR 57). No nos quedamos. Dentro del recinto, cerca de la cascada y con vista al río.
 * [Furong Town and Slow Yueshe (Lotus Pool Shop)](https://www.trip.com/t/L9Tw7txo5X2) — unos 107 CNY (USD 16, EUR 14). No nos quedamos. A 7 minutos fuera del pueblo antiguo: más tranquilidad y lindas vistas desde el balcón.

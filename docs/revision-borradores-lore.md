@@ -34,8 +34,8 @@ Ya corregido por Santi el 10/11/2026 (no hace falta tocarlo): voseo ("podés", "
 - [ ] "Hay más de diez salidas por día" del tren desde Zhangjiajie.
 - [ ] El taxi de la estación al pueblo a 15-25 CNY.
 - [ ] Arroz con verduras (16 CNY) y arroz con pollo (20 CNY) de la tabla de costos: dónde los comimos. Si fue en un lugar con nombre, sumarlo en "Qué comer".
-- [ ] Llegada a Jianghu: en "Nuestra experiencia" el auto nos lleva hasta la entrada del recinto, donde escanean el QR, y en "Dónde quedarse" el auto nos deja en la calle del hotel. Contar cómo fue en un solo lugar y que el otro coincida.
-- [ ] Jianghu: cuánto pagamos por noche (hoy dice "desde unos 120 CNY (USD 18)", que es la tarifa de Trip.com).
+- [x] Llegada a Jianghu (resuelto el 11/11: Lore confirmó que el auto los llevó primero a la entrada del recinto, donde escanearon QR y pasaportes, y después los dejó en la calle del hotel; ahora los dos textos coinciden): en "Nuestra experiencia" el auto nos lleva hasta la entrada del recinto, donde escanean el QR, y en "Dónde quedarse" el auto nos deja en la calle del hotel. Contar cómo fue en un solo lugar y que el otro coincida.
+- [x] Jianghu: cuánto pagamos por noche. Resuelto el 11/11: Lore confirmó USD 18 por noche; el texto pasó de "desde unos 120 CNY" a "pagamos unos 120 CNY (USD 18, EUR 16) por noche".
 - [ ] Cambio de nombre de Wangcun a Furongzhen: el texto dice 2007, pero dos páginas del gobierno de Hunan dicen 1997. Quedó marcado [VERIFICAR]. Si no se encuentra una fuente firme, cambiar por "años después" y sacar el año.
 
 **Estructura (ver `docs/plantilla-articulo.md`)**
