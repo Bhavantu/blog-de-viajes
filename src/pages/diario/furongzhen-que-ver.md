@@ -5,15 +5,15 @@ slug_url: furongzhen-que-ver
 date: 2026-11-11T01:52:00.000+13:00
 tag: guia de viaje
 pais: China
-description: "¿Vale la pena Furongzhen? Guía con tren desde Zhangjiajie, entrada de 108 CNY, shows Tujia y cascada iluminada. Mirá cómo organizarlo."
+description: "¿Vale la pena Furongzhen? Guía con tren desde Zhangjiajie, entrada de 98 CNY, shows Tujia y cascada iluminada. Mirá cómo organizarlo."
 ---
-**¿Un pueblo con una cascada en pleno centro? Existe, se llama Furongzhen y vale mucho la pena, sobre todo si te quedás a dormir.** Pasamos 2 noches y 3 días en este pueblo colgado de una cascada, en Hunan, durante nuestra ruta de 20 días por China en octubre de 2026, y nos quedamos en Jianghu, un alojamiento sobre una de las calles del pueblo. De día es un pueblo de calles empedradas y casas tujia sobre pilotes; de noche, cuando se enciende la cascada, parece otro lugar. Nos gustó tanto que no nos saltearíamos nada, y hasta comimos el famoso mi doufu en el mismo local donde se filmó la película del pueblo. En esta guía te contamos cómo llegar desde Zhangjiajie o Fenghuang, cuánto cuesta la entrada, qué ver y a qué hora, y qué shows no te podés perder. Un consejo antes de empezar: dentro del pueblo no entran autos, así que viajá liviano.
+**¿Un pueblo con una cascada en pleno centro? Existe, se llama Furongzhen y vale mucho la pena, sobre todo si te quedás a dormir.** Pasamos 2 noches y 3 días en este pueblo colgado de una cascada, en Hunan, durante nuestra ruta de 20 días por China en octubre de 2026, y nos quedamos en Jianghu, un alojamiento dentro del recinto del pueblo antiguo (la zona que requiere entrada). De día es un pueblo de calles empedradas y casas tujia sobre pilotes; de noche, cuando se enciende la cascada, parece otro lugar. Nos gustó tanto que no nos saltearíamos nada, y hasta comimos el famoso mi doufu en el mismo local donde se filmó la película del pueblo. En esta guía te contamos cómo llegar desde Zhangjiajie o Fenghuang, cuánto cuesta la entrada, qué ver y a qué hora, y qué shows no te podés perder. Un consejo antes de empezar: dentro del pueblo no entran autos, así que viajá liviano.
 
 
 > 🎒 Esta guía forma parte de nuestra ruta de 20 días por China.
 
 
-**Nuestra recomendación:** dormir una noche. Podes llegar a media tarde, conocer el pueblo con la luz del atardecer, ver la cascada iluminada y el show cultural en la noche. Al día siguiente podes volver a caminarlo temprano a la mañana, cuando casi no hay gente.
+**Nuestra recomendación:** dormir al menos una noche. Nosotros nos quedamos dos, pero con una bien planificada alcanza. Podés llegar a media tarde, conocer el pueblo con la luz del atardecer, ver la cascada iluminada y el show cultural en la noche. Al día siguiente podés volver a caminarlo temprano a la mañana, cuando casi no hay gente.
 
 
 <div style="background: linear-gradient(180deg, #fdfcf9 0%, #f7f4ee 100%); border: 2px solid #006d77; border-radius: 16px; padding: 2rem 1.8rem; margin: 3rem 0; box-shadow: 0 12px 30px rgba(0, 109, 119, 0.08); font-family: var(--font-main, sans-serif);">
@@ -40,7 +40,7 @@ Presupuesto
 <a href="https://www.trip.com/t/DYY7oUko5X2" target="_blank" rel="noopener" style="color: #222; font-size: 0.95rem; font-weight: bold; text-decoration: none !important; box-shadow: none !important; background-image: none !important;">Jianghu</a>
 <span style="background: #e6f4f1; color: #006d77; font-size: 0.7rem; font-weight: 700; padding: 0.15rem 0.5rem; border-radius: 4px;">Nos quedamos acá</span>
 </div>
-<p style="margin: 0.25rem 0 0 0; font-size: 0.85rem; color: #666;">Unos USD 18 (EUR 16) por noche, sobre una de las calles del pueblo.</p>
+<p style="margin: 0.25rem 0 0 0; font-size: 0.85rem; color: #666;">Unos 120 CNY (USD 18, EUR 16) por noche, dentro del recinto del pueblo antiguo.</p>
 </div>
 <a href="https://www.trip.com/t/DYY7oUko5X2" target="_blank" rel="noopener" style="color: #006d77 !important; font-size: 0.8rem; font-weight: 700; text-decoration: none !important; padding: 0.4rem 0.8rem; border-radius: 6px; border: 1px solid #006d77; white-space: nowrap; margin-left: auto; box-shadow: none !important; background-image: none !important; display: inline-block;">
 Ver alojamiento &rarr;
@@ -54,7 +54,7 @@ Ver alojamiento &rarr;
 <a href="https://www.trip.com/t/L9Tw7txo5X2" target="_blank" rel="noopener" style="color: #222; font-size: 0.95rem; font-weight: bold; text-decoration: none !important; box-shadow: none !important; background-image: none !important;">Furong Town and Slow Yueshe</a>
 <span style="background: #fef3c7; color: #92400e; font-size: 0.7rem; font-weight: 700; padding: 0.15rem 0.5rem; border-radius: 4px;">A 7 minutos</span>
 </div>
-<p style="margin: 0.25rem 0 0 0; font-size: 0.85rem; color: #666;">Unos USD 16 (EUR 14) por noche, a 7 minutos fuera del pueblo antiguo.</p>
+<p style="margin: 0.25rem 0 0 0; font-size: 0.85rem; color: #666;">Unos 107 CNY (USD 16, EUR 14) por noche, a 7 minutos fuera del pueblo antiguo. No nos quedamos.</p>
 </div>
 <a href="https://www.trip.com/t/L9Tw7txo5X2" target="_blank" rel="noopener" style="color: #006d77 !important; font-size: 0.8rem; font-weight: 700; text-decoration: none !important; padding: 0.4rem 0.8rem; border-radius: 6px; border: 1px solid #006d77; white-space: nowrap; margin-left: auto; box-shadow: none !important; background-image: none !important; display: inline-block;">
 Ver alojamiento &rarr;
@@ -77,7 +77,7 @@ Confort
 <a href="https://www.trip.com/t/LMlRvsdn5X2" target="_blank" rel="noopener" style="color: #222; font-size: 0.95rem; font-weight: bold; text-decoration: none !important; box-shadow: none !important; background-image: none !important;">Tuwang Palace · Eight Halls</a>
 <span style="background: #e0f2fe; color: #075985; font-size: 0.7rem; font-weight: 700; padding: 0.15rem 0.5rem; border-radius: 4px;">Vista a la cascada</span>
 </div>
-<p style="margin: 0.25rem 0 0 0; font-size: 0.85rem; color: #666;">Unos USD 58 (EUR 50) por noche, con vistas a la cascada.</p>
+<p style="margin: 0.25rem 0 0 0; font-size: 0.85rem; color: #666;">Unos 389 CNY (USD 58, EUR 50) por noche, con vistas a la cascada. No nos quedamos.</p>
 </div>
 <a href="https://www.trip.com/t/LMlRvsdn5X2" target="_blank" rel="noopener" style="color: #006d77 !important; font-size: 0.8rem; font-weight: 700; text-decoration: none !important; padding: 0.4rem 0.8rem; border-radius: 6px; border: 1px solid #006d77; white-space: nowrap; margin-left: auto; box-shadow: none !important; background-image: none !important; display: inline-block;">
 Ver alojamiento &rarr;
@@ -91,7 +91,7 @@ Ver alojamiento &rarr;
 <a href="https://www.trip.com/t/ii1qL2Yn5X2" target="_blank" rel="noopener" style="color: #222; font-size: 0.95rem; font-weight: bold; text-decoration: none !important; box-shadow: none !important; background-image: none !important;">Huayangnianhua Inn</a>
 <span style="background: #ede9fe; color: #5b21b6; font-size: 0.7rem; font-weight: 700; padding: 0.15rem 0.5rem; border-radius: 4px;">Vista al río</span>
 </div>
-<p style="margin: 0.25rem 0 0 0; font-size: 0.85rem; color: #666;">Unos USD 65 (EUR 57) por noche, con vista al río.</p>
+<p style="margin: 0.25rem 0 0 0; font-size: 0.85rem; color: #666;">Unos 436 CNY (USD 65, EUR 57) por noche, con vista al río. No nos quedamos.</p>
 </div>
 <a href="https://www.trip.com/t/ii1qL2Yn5X2" target="_blank" rel="noopener" style="color: #006d77 !important; font-size: 0.8rem; font-weight: 700; text-decoration: none !important; padding: 0.4rem 0.8rem; border-radius: 6px; border: 1px solid #006d77; white-space: nowrap; margin-left: auto; box-shadow: none !important; background-image: none !important; display: inline-block;">
 Ver alojamiento &rarr;
@@ -122,22 +122,22 @@ Reservando a través de estos enlaces nos ayudás a mantener el blog independien
 Furongzhen es un pueblo de más de 2.000 años sobre un acantilado al oeste de Hunan. De día es un pueblo de calles empedradas, casas de la etnia Tujia sobre pilotes de madera y shows culturales de la etnia Tujia. Al caer la noche se encienden las luces, y la cascada, que cae en pleno centro del pueblo, se ilumina creando una de sus imágenes más icónicas, la verdad es que la escena se vuelve de cuento de magia.
 
 
-El pueblo queda a mitad de camino entre Zhangjiajie y Fenghuang. Históricamente lo habitaron las etnias minoritarias de China llamadas Tujia y Miao. Fue la capital inicial y residencia de los jefes tusi de Xizhou, la dinastía local tujia que, según las guías, gobernó durante 818 años. De esa época queda el Palacio Tusi, la residencia de verano de los jefes sobre el acantilado, y el Pilar de Bronce de Xizhou, fundido hacia el año 940 para registrar un tratado entre el rey de Chu y el jefe local.
+El pueblo queda a mitad de camino entre Zhangjiajie y Fenghuang. Históricamente lo habitaron las etnias minoritarias de China llamadas Tujia y Miao. Fue la primera sede de los jefes tusi de Xizhou, la familia Peng, una dinastía local tujia que gobernó la región durante más de 800 años, desde el siglo X hasta 1729. En 1135 trasladaron la sede a Laosicheng, pero el pueblo se quedó con el nombre de Wangcun, "el pueblo del rey". De esa época queda el Palacio Tusi, la residencia de verano de los jefes sobre el acantilado, y el Pilar de Bronce de Xizhou, fundido hacia el año 940 para registrar un tratado entre el rey de Chu y el jefe local.
 
 
 **El cambio de nombre y la película que lo volvió famoso:**
 
 
-Durante la mayor parte de su historia se llamó Wangcun (王村). En 1986 se rodó acá *Hibiscus Town* (*Furong Zhen*, 《芙蓉镇》), película de Xie Jin basada en la novela de Gu Hua, que cuenta la vida de una joven que vende tofu de arroz, el plato emblemático del pueblo, en plena Revolución Cultural. La película hizo famoso al pueblo en toda China y en 2007 el pueblo adoptó oficialmente el nombre de Furong.
+Durante la mayor parte de su historia se llamó Wangcun (王村). En 1986 se rodó acá *Hibiscus Town* (*Furong Zhen*, 《芙蓉镇》), película de Xie Jin basada en la novela de Gu Hua, que cuenta la vida de una joven que vende tofu de arroz, el plato emblemático del pueblo, en plena Revolución Cultural. La película hizo famoso al pueblo en toda China y en 2007 el pueblo adoptó oficialmente el nombre de Furong [VERIFICAR: la mayoría de las fuentes dice 2007, pero dos páginas del gobierno de Hunan dicen 1997].
 
 
-Hoy funciona como recinto turístico con entrada: es una forma ética y responsable de acercarse a la cultura local. La entrada cuesta 108 CNY (unos USD 16 o EUR 14) por persona y el ticket vale tres días, con acceso al casco histórico, a los miradores de la cascada y a los espectáculos de danza y música Tujia. Más abajo detallamos más sobre esto.
+Hoy funciona como recinto turístico con entrada: es una forma ética y responsable de acercarse a la cultura local. La entrada cuesta 98 CNY (USD 14,98 o unos EUR 13) por persona y el ticket vale tres días, con acceso al casco histórico, a los miradores de la cascada y a los espectáculos de danza y música Tujia. Más abajo detallamos más sobre esto.
 
 
 ## Resumen rápido
 
 
-La entrada cuesta 108 CNY (unos USD 16 o EUR 14) y vale 3 días. Podés pasar la noche (lo recomendamos) o visitarlo por el día. No es muy grande, así que se recorre caminando en unas horas, pero en la tarde noche se vuelve mágico con sus luces de colores.
+La entrada cuesta 98 CNY (USD 14,98 o unos EUR 13) y vale 3 días. Podés pasar la noche (lo recomendamos) o visitarlo por el día. No es muy grande, así que se recorre caminando en unas horas, pero en la tarde noche se vuelve mágico con sus luces de colores.
 
 
 ### Datos importantes de un vistazo
@@ -146,7 +146,7 @@ La entrada cuesta 108 CNY (unos USD 16 o EUR 14) y vale 3 días. Podés pasar la
 | Dato                | Qué tenés que saber                                                                                                                                                                                          |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Dónde queda**     | Condado de Yongshun, prefectura de Xiangxi (Hunan), entre Zhangjiajie y Fenghuang.                                                                                                                           |
-| **Entrada**         | 108 CNY (unos USD 16 o EUR 14), válida 3 días. Se saca online y se retira en la puerta. Requiere pasaporte. Llevar siempre la entrada: se escanea en cada acceso. Adolescentes y personas mayores pagan menos. |
+| **Entrada**         | 98 CNY (USD 14,98 o unos EUR 13), válida 3 días. Se saca online y se retira en la puerta. Requiere pasaporte. Llevar siempre la entrada: se escanea en cada acceso. Adolescentes y personas mayores pagan menos. |
 | **Horario del recinto** | De 8:00 a 24:00 (pero muchos hoteles se encuentran dentro).                                                                                                                                              |
 | **Mejor época**     | Recomendados: de marzo a noviembre; primavera (marzo a mayo) y otoño (septiembre a noviembre). La cascada baja mucho entre diciembre y febrero.                                                              |
 | **Show nocturno**   | Hacia las 20:20, en el Gran Teatro Principal (主剧场) del Centro Escénico Huayuewan, cerca del mirador de la cascada. Incluido en la entrada. Llegá temprano: es por orden de llegada y con límite de capacidad. |
@@ -160,16 +160,16 @@ La entrada cuesta 108 CNY (unos USD 16 o EUR 14) y vale 3 días. Podés pasar la
 Al llegar a la estación nos esperaron de nuestro alojamiento, con quienes coordinamos por la app. El recinto se encuentra dentro de la ciudad, así que nos llevó hasta la entrada, donde presentamos nuestro QR de ingreso y escanearon nuestros pasaportes. Una vez instalados comenzamos a recorrer el pueblo.
 
 
-La cascada se veía increíble, comenzamos a recorrerlo alrededor de las 4 con una luz muy bella, hicimos la pasarela por detrás varias veces, había bastante gente, pero se podía disfrutar igual. En esa tarde aproveché para cumplir el típico sueño en China y me acerqué a uno de los puestos en los que te maquillan y visten con la ropa tradicional de la etnia. Así que al caer la noche además de disfrutar del espectáculo de luces en todo el pueblo sacamos fotos en varios de los puntos iluminados que compartiré a continuación.
+La cascada se veía increíble, comenzamos a recorrerlo alrededor de las 4 con una luz muy bella, hicimos la pasarela por detrás varias veces, había bastante gente, pero se podía disfrutar igual. En esa tarde aproveché para cumplir el típico sueño en China y me acerqué a uno de los puestos en los que te maquillan y visten con la ropa tradicional de la etnia miao. Así que al caer la noche además de disfrutar del espectáculo de luces en todo el pueblo sacamos fotos en varios de los puntos iluminados que compartiré a continuación.
 
 
-Como nos quedábamos dos noches el primer día aprovechamos para caminar con calma, conocer y probar el famoso tofu de arroz, "mi doufu" fuimos al local más icónico de la ciudad, un pequeño puestito en donde se grabó la película "la ciudad de los hibiscos". Al llegar nos encontramos con un gran grupo de personas que nos invitaron amablemente a comer y conversar con ellos. Resultó ser la policía local que había terminado su turno, charlamos, nos reímos e intercambiamos también con los dueños del lugar quienes entre risas mostraron fotos de algunos momentos icónicos del lugar de la película o cuando fue a comer el presidente actual de China, Xi Jinping. Luego de las 22 el pueblo comienza a vaciarse y los miradores se despejan.
+Como nos quedábamos dos noches el primer día aprovechamos para caminar con calma, conocer y probar el famoso tofu de arroz, "mi doufu" fuimos al local más icónico de la ciudad, un pequeño puestito en donde se grabó la película "la ciudad de los hibiscos". Al llegar nos encontramos con un gran grupo de personas que nos invitaron amablemente a comer y conversar con ellos. Resultó ser la policía local que había terminado su turno, charlamos, nos reímos e intercambiamos también con los dueños del lugar quienes entre risas nos mostraron fotos de algunos momentos icónicos de la película y hasta una de Xi Jinping, el presidente de China. Luego de las 22 el pueblo comienza a vaciarse y los miradores se despejan.
 
 
-A la mañana también hay poca gente y dedicamos el segundo día a ver las representaciones artísticas en los diferentes horarios que podes chequear en el punto turístico de la entrada. Una de nuestras favoritas fue la representación de la previa de una boda tujia en el puente Tuwang, alrededor de las 14:30 en donde se representa el duelo de la novia al dejar la casa y la familia con un canto muy particular, pero también la alegría del compromiso. Finaliza de forma muy animada y entregan regalitos.
+A la mañana también hay poca gente y dedicamos el segundo día a ver las representaciones artísticas en los diferentes horarios que podés chequear en el punto turístico de la entrada. Una de nuestras favoritas fue la representación de la previa de una boda tujia en el puente Tuwang, alrededor de las 14:30 en donde se representa el duelo de la novia al dejar la casa y la familia con un canto muy particular, pero también la alegría del compromiso. Finaliza de forma muy animada y entregan regalitos.
 
 
-El show que principalmente destacamos es el nocturno. Fuimos bastante temprano: al finalizar el show anterior "el carnaval de los Bizikas" se armó una gran fila, pero entramos primeros y conseguimos un buen lugar en el anfiteatro cerrado. Nos gustó todo y no nos saltearíamos nada, pero para quienes tienen poco tiempo un día completo es suficiente.
+El show que principalmente destacamos es el nocturno. Fuimos bastante temprano: al finalizar el show anterior "el carnaval de los Bizikas" se armó una gran fila, pero entramos primeros y conseguimos un buen lugar en el anfiteatro cerrado. Nos gustó todo y no nos saltearíamos nada, pero si tenés poco tiempo, con una noche bien planificada alcanza.
 
 
 ## Qué ver en Furongzhen: horarios aproximados
@@ -192,7 +192,7 @@ Esta fue nuestra forma de ordenar el día. Los horarios son aproximados y cambia
 ### Puntos icónicos y recorrido
 
 
-El mapa del recinto propone una caminata en un solo sentido, casi toda en bajada, desde la puerta del lado este hasta el muelle del río: Puerta y centro de visitantes → Salón Baishou → parque del Pilar de Bronce → puente Tuwang → Palacio Tusi → calle Tingtao y plaza Yinan → mirador de la cascada → cascada y pasarela detrás → muelle → calle Wuli. Este es un recorrido sugerido, y si te quedas dentro del recinto seguramente debas adaptarlo a tu punto de partida.
+El mapa del recinto propone una caminata en un solo sentido, casi toda en bajada, desde la puerta del lado este hasta el muelle del río: Puerta y centro de visitantes → Salón Baishou → parque del Pilar de Bronce → puente Tuwang → Palacio Tusi → calle Tingtao y plaza Yinan → mirador de la cascada → cascada y pasarela detrás → muelle → calle Wuli. Este es un recorrido sugerido, y si te quedás dentro del recinto seguramente debas adaptarlo a tu punto de partida.
 
 
 ### 1. Mirador y pasarela de la cascada (nuestra favorita)
@@ -232,7 +232,7 @@ El mapa del recinto propone una caminata en un solo sentido, casi toda en bajada
 ## Shows principales en Furongzhen
 
 
-Los shows están incluidos en la entrada y hay varios a lo largo del día como "el llanto de la novia", el show de acrobacias y cuchillos o danzas folklóricas, es posible encontrarlos durante el paseo porque son en lugares públicos o también podes conocer los horarios en la cartelera del centro de información al entrar.
+Los shows están incluidos en la entrada y hay varios a lo largo del día como "el llanto de la novia", el show de acrobacias y cuchillos o danzas folklóricas, es posible encontrarlos durante el paseo porque son en lugares públicos o también podés conocer los horarios en la cartelera del centro de información al entrar.
 
 
 Los principales son durante la tarde noche y destacan:
@@ -264,10 +264,10 @@ Nuestro consejo: llegar temprano. Al terminar el show de danzas y tambores al ai
 Lo más simple es el tren de alta velocidad. Desde Zhangjiajie son unos 23 minutos y desde Fenghuang, unos 33.
 
 
-* **[Desde Zhangjiajie.](https://www.trip.com/t/kajPzscm5X2)** Salís de la estación Zhangjiajie West (张家界西, la de alta velocidad). El trayecto a Furongzhen (芙蓉镇) dura unos 23 minutos y en Trip.com sale USD 8 (EUR 7). Hay más de diez salidas por día, pero chequeá la disponibilidad según la fecha.
-* **[Desde Fenghuang.](https://www.trip.com/t/SJkDorxm5X2)** El tren va de la estación Fenghuang Ancient Town (凤凰古城) a Furongzhen en unos 33 minutos, por USD 9,94 (EUR 8,7) en Trip.com. En sentido inverso hay varias salidas diarias; chequeá cuál es la última, a las 19:45.
+* **[Desde Zhangjiajie.](https://www.trip.com/t/kajPzscm5X2)** Salís de la estación Zhangjiajie West (张家界西, la de alta velocidad). El trayecto a Furongzhen (芙蓉镇) dura unos 23 minutos y en Trip.com sale 54 CNY (unos USD 8, EUR 7). Hay más de diez salidas por día, pero chequeá la disponibilidad según la fecha.
+* **[Desde Fenghuang.](https://www.trip.com/t/SJkDorxm5X2)** El tren va de la estación Fenghuang Ancient Town (凤凰古城) a Furongzhen en unos 33 minutos, por 67 CNY (USD 9,94, unos EUR 8,7) en Trip.com. En sentido inverso hay varias salidas diarias; chequeá cuál es la última, a las 19:45.
 * **De la estación al pueblo.** La estación queda a unos 10 o 15 minutos en auto del casco antiguo. Un taxi sale entre 15 y 25 CNY (unos USD 2,20 a 3,70, EUR 2 a 3,20). Pero lo más práctico es coordinar con el alojamiento y muchos te pasan a buscar si les avisás la hora de llegada.
-* Aclaración: dentro del pueblo no hay autos, así que a tener en cuenta para trasladar el equipaje, el alojamiento, nosotros nos quedamos en Jianghu, se encuentra al lado de la calle principal y nos pasaron a buscar, por lo que aunque no tiene vista directa a la cascada fue un gran éxito.
+* Aclaración: dentro del pueblo no hay autos, así que a tener en cuenta para trasladar el equipaje, el alojamiento, nosotros nos quedamos en Jianghu, que está dentro del recinto, sobre una de sus calles externas, y nos pasaron a buscar, por lo que aunque no tiene vista directa a la cascada fue un gran éxito.
 
 
 ### Reservas
@@ -303,7 +303,7 @@ Ir a Furongzhen
 <a href="https://www.trip.com/t/kajPzscm5X2" target="_blank" rel="noopener" style="color: #222; font-size: 0.95rem; font-weight: bold; text-decoration: none !important; box-shadow: none !important; background-image: none !important;">Zhangjiajie West → Furongzhen</a>
 <span style="background: #e6f4f1; color: #006d77; font-size: 0.7rem; font-weight: 700; padding: 0.15rem 0.5rem; border-radius: 4px;">Desde Zhangjiajie</span>
 </div>
-<p style="margin: 0.25rem 0 0 0; font-size: 0.85rem; color: #666;">Unos 23 minutos, USD 8 (EUR 7).</p>
+<p style="margin: 0.25rem 0 0 0; font-size: 0.85rem; color: #666;">Unos 23 minutos, 54 CNY (USD 8, EUR 7).</p>
 </div>
 <a href="https://www.trip.com/t/kajPzscm5X2" target="_blank" rel="noopener" style="color: #006d77 !important; font-size: 0.8rem; font-weight: 700; text-decoration: none !important; padding: 0.4rem 0.8rem; border-radius: 6px; border: 1px solid #006d77; white-space: nowrap; margin-left: auto; box-shadow: none !important; background-image: none !important; display: inline-block;">
 Ver tren &rarr;
@@ -317,7 +317,7 @@ Ver tren &rarr;
 <a href="https://www.trip.com/t/SJkDorxm5X2" target="_blank" rel="noopener" style="color: #222; font-size: 0.95rem; font-weight: bold; text-decoration: none !important; box-shadow: none !important; background-image: none !important;">Fenghuang Gucheng → Furongzhen</a>
 <span style="background: #e6f4f1; color: #006d77; font-size: 0.7rem; font-weight: 700; padding: 0.15rem 0.5rem; border-radius: 4px;">Desde Fenghuang</span>
 </div>
-<p style="margin: 0.25rem 0 0 0; font-size: 0.85rem; color: #666;">Unos 33 minutos, USD 9,94 (EUR 8,7).</p>
+<p style="margin: 0.25rem 0 0 0; font-size: 0.85rem; color: #666;">Unos 33 minutos, 67 CNY (USD 9,94, EUR 8,7).</p>
 </div>
 <a href="https://www.trip.com/t/SJkDorxm5X2" target="_blank" rel="noopener" style="color: #006d77 !important; font-size: 0.8rem; font-weight: 700; text-decoration: none !important; padding: 0.4rem 0.8rem; border-radius: 6px; border: 1px solid #006d77; white-space: nowrap; margin-left: auto; box-shadow: none !important; background-image: none !important; display: inline-block;">
 Ver tren &rarr;
@@ -340,7 +340,7 @@ Volver
 <a href="https://www.trip.com/t/xrY3rO3n5X2" target="_blank" rel="noopener" style="color: #222; font-size: 0.95rem; font-weight: bold; text-decoration: none !important; box-shadow: none !important; background-image: none !important;">Furongzhen → Zhangjiajie West</a>
 <span style="background: #e0f2fe; color: #075985; font-size: 0.7rem; font-weight: 700; padding: 0.15rem 0.5rem; border-radius: 4px;">Hacia Zhangjiajie</span>
 </div>
-<p style="margin: 0.25rem 0 0 0; font-size: 0.85rem; color: #666;">Unos 23 minutos, USD 8 (EUR 7). Último tren: 19:20.</p>
+<p style="margin: 0.25rem 0 0 0; font-size: 0.85rem; color: #666;">Unos 23 minutos, 54 CNY (USD 8, EUR 7). Último tren: 19:20.</p>
 </div>
 <a href="https://www.trip.com/t/xrY3rO3n5X2" target="_blank" rel="noopener" style="color: #006d77 !important; font-size: 0.8rem; font-weight: 700; text-decoration: none !important; padding: 0.4rem 0.8rem; border-radius: 6px; border: 1px solid #006d77; white-space: nowrap; margin-left: auto; box-shadow: none !important; background-image: none !important; display: inline-block;">
 Ver tren &rarr;
@@ -354,7 +354,7 @@ Ver tren &rarr;
 <a href="https://www.trip.com/t/r4wsFCum5X2" target="_blank" rel="noopener" style="color: #222; font-size: 0.95rem; font-weight: bold; text-decoration: none !important; box-shadow: none !important; background-image: none !important;">Furongzhen → Fenghuang Gucheng</a>
 <span style="background: #e0f2fe; color: #075985; font-size: 0.7rem; font-weight: 700; padding: 0.15rem 0.5rem; border-radius: 4px;">Hacia Fenghuang</span>
 </div>
-<p style="margin: 0.25rem 0 0 0; font-size: 0.85rem; color: #666;">Unos 33 minutos, USD 9,94 (EUR 8,7). Último tren: 19:45.</p>
+<p style="margin: 0.25rem 0 0 0; font-size: 0.85rem; color: #666;">Unos 33 minutos, 67 CNY (USD 9,94, EUR 8,7). Último tren: 19:45.</p>
 </div>
 <a href="https://www.trip.com/t/r4wsFCum5X2" target="_blank" rel="noopener" style="color: #006d77 !important; font-size: 0.8rem; font-weight: 700; text-decoration: none !important; padding: 0.4rem 0.8rem; border-radius: 6px; border: 1px solid #006d77; white-space: nowrap; margin-left: auto; box-shadow: none !important; background-image: none !important; display: inline-block;">
 Ver tren &rarr;
@@ -373,13 +373,13 @@ Reservando a través de estos enlaces nos ayudás a mantener el blog independien
 </div>
 
 
-Entrada: también la compramos online en Trip.com, por unos USD 15 (EUR 13): [comprar la entrada](https://www.trip.com/t/b9MbQjDn5X2). Al llegar hay que presentar el QR con el pasaporte para entrar al recinto.
+Entrada: también la compramos online en Trip.com, por 98 CNY (USD 14,98 o unos EUR 13): [comprar la entrada](https://www.trip.com/t/b9MbQjDn5X2). Al llegar hay que presentar el QR con el pasaporte para entrar al recinto.
 
 
 ## La cultura Tujia
 
 
-Los tujia son una de las minorías más numerosas de China y viven sobre todo en las montañas Wuling. El pueblo conserva la arquitectura (las casas sobre pilotes de madera, clavadas en el acantilado) y los espectáculos durante la jornada. Wangcun fue sede provisoria de un jefe local tusi, y de ahí viene el nombre del palacio que ves en el recorrido. El pueblo sigue habitado: según medios de Hunan, más de 2.000 hogares locales viven ahí.
+Los tujia son una de las minorías más numerosas de China y viven sobre todo en las montañas Wuling. El pueblo conserva la arquitectura (las casas sobre pilotes de madera, clavadas en el acantilado) y los espectáculos durante la jornada. El palacio que ves en el recorrido recuerda la época en que Wangcun fue sede de los jefes tusi. El pueblo sigue habitado: según medios de Hunan, más de 2.000 hogares locales viven ahí [VERIFICAR].
 
 
 ## Dónde dormir y qué comer
@@ -388,13 +388,13 @@ Los tujia son una de las minorías más numerosas de China y viven sobre todo en
 ### Dónde quedarse en Furongzhen
 
 
-Hay dos opciones: **dentro del recinto** (vistas a la cascada y al río, atmósfera mágica, pero es un poco más caro e incluye escalones) o **fuera, cerca de la puerta** (más barato y más cómodo con equipaje). Nosotros nos quedamos adentro y lo recomendamos al 100%.
+Hay dos opciones: **dentro del recinto** (vistas a la cascada y al río, atmósfera mágica, pero es un poco más caro e incluye escalones) o **fuera, cerca de la puerta** (más barato y más cómodo con equipaje). Nosotros nos quedamos adentro y lo recomendamos.
 
 
-* [Jianghu](https://www.trip.com/t/DYY7oUko5X2) (nuestra elección) — desde unos USD 18 (EUR 16) por noche, nos quedamos con unas vistas preciosas a la ciudad y al río. Está sobre una de las calles externas: de ese lado nos dejó el auto y, del otro, el hotel tiene acceso directo al interior del pueblo antiguo. Elegimos la habitación (Chan Yun Twin Room).
-* [Tuwang Palace · Eight Halls](https://www.trip.com/t/LMlRvsdn5X2) — unos USD 58 (EUR 50). Vistas a la cascada desde el hotel, en plena zona central del recinto.
-* [Huayangnianhua Inn](https://www.trip.com/t/ii1qL2Yn5X2) — unos USD 65 (EUR 57). Dentro del recinto, cerca de la cascada y con vista al río.
-* [Furong Town and Slow Yueshe (Lotus Pool Shop)](https://www.trip.com/t/L9Tw7txo5X2) — unos USD 16 (EUR 14). A 7 minutos fuera del pueblo antiguo: más tranquilidad y lindas vistas desde el balcón.
+* [Jianghu](https://www.trip.com/t/DYY7oUko5X2) (nuestra elección) — desde unos 120 CNY (USD 18, EUR 16) por noche. Nos quedamos dos noches, con unas vistas preciosas a la ciudad y al río. Está dentro del recinto, sobre una de sus calles externas: de ese lado nos dejó el auto y, del otro, el hotel tiene acceso directo al interior del pueblo antiguo. Elegimos la habitación (Chan Yun Twin Room).
+* [Tuwang Palace · Eight Halls](https://www.trip.com/t/LMlRvsdn5X2) — unos 389 CNY (USD 58, EUR 50). No nos quedamos. Vistas a la cascada desde el hotel, en plena zona central del recinto.
+* [Huayangnianhua Inn](https://www.trip.com/t/ii1qL2Yn5X2) — unos 436 CNY (USD 65, EUR 57). No nos quedamos. Dentro del recinto, cerca de la cascada y con vista al río.
+* [Furong Town and Slow Yueshe (Lotus Pool Shop)](https://www.trip.com/t/L9Tw7txo5X2) — unos 107 CNY (USD 16, EUR 14). No nos quedamos. A 7 minutos fuera del pueblo antiguo: más tranquilidad y lindas vistas desde el balcón.
 
 
 > 🧡 *Algunos de los enlaces de esta guía son de afiliados: si reservás por ellos recibimos una pequeña comisión, sin costo extra para vos.*
@@ -439,13 +439,13 @@ Comimos en el lugar donde se filmó *Hibiscus Town*. Es la tienda de mi doufu de
 
 | Concepto                                 | CNY       | USD     | EUR     | Observaciones                                                         |
 | ---------------------------------------- | --------- | ------- | ------- | --------------------------------------------------------------------- |
-| Entrada online (Trip.com)                | 98        | 15      | 13      | Trip.com; adolescentes y personas mayores pagan menos                 |
+| Entrada online (Trip.com)                | 98        | 14,98   | 13      | Trip.com; adolescentes y personas mayores pagan menos                 |
 | Tren Zhangjiajie West → Furongzhen       | 54        | 8       | 7       | 23 min                                                                |
 | Tren Furongzhen → Fenghuang              | 67        | 9,94    | 8,7     | 33 min                                                                |
 | Mi doufu (plato pequeño) en el local 113 | 8         | 1,2     | 1       | Lo que pagamos nosotros                                               |
 | Arroz con verduras (vegetariano)         | 16        | 2,4     | 2,1     | No incluye bebida                                                     |
 | Arroz con pollo                          | 20        | 3,0     | 2,6     | Fuera de la zona de la cascada, con vista al río                      |
-| Alojamiento (por noche)                  | 107 a 436 | 16 a 65 | 14 a 57 | Desde Jianghu (USD 18, donde nos quedamos) hasta hoteles con vista a la cascada |
+| Alojamiento (por noche)                  | 107 a 436 | 16 a 65 | 14 a 57 | Desde Jianghu (120 CNY, donde nos quedamos) hasta hoteles con vista a la cascada |
 
 
 ## Preguntas frecuentes sobre Furongzhen
@@ -454,19 +454,19 @@ Comimos en el lugar donde se filmó *Hibiscus Town*. Es la tienda de mi doufu de
 ### ¿Cuánto cuesta la entrada a Furongzhen?
 
 
-La entrada cuesta 108 CNY (unos USD 16) por persona y vale tres días con reingreso. Online suele salir algo más barata, y adolescentes y personas mayores pagan menos.
+La entrada cuesta 98 CNY (USD 14,98) por persona en Trip.com y vale tres días con reingreso. Adolescentes y personas mayores pagan menos.
 
 
 ### ¿Cómo llegar a Furongzhen desde Zhangjiajie?
 
 
-En tren de alta velocidad desde Zhangjiajie West hasta Furongzhen Station, unos 23 minutos, por USD 8 en Trip.com. Desde la estación son 10 a 15 minutos en auto hasta el pueblo.
+En tren de alta velocidad desde Zhangjiajie West hasta Furongzhen Station, unos 23 minutos, por 54 CNY (unos USD 8) en Trip.com. Desde la estación son 10 a 15 minutos en auto hasta el pueblo.
 
 
 ### ¿Cuántos días hacen falta en Furongzhen?
 
 
-Una noche es lo ideal: llegás a la tarde, ves la cascada iluminada y el show, y recorrés el pueblo tranquilo a la mañana. Para recorrerlo de día alcanzan unas 3 horas.
+Con una noche bien planificada alcanza: llegás a la tarde, ves la cascada iluminada y el show, y recorrés el pueblo tranquilo a la mañana. Nosotros nos quedamos dos. Para recorrerlo de día alcanzan unas 3 horas.
 
 
 ### ¿A qué hora se enciende la cascada de Furongzhen?
