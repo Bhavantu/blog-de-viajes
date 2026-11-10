@@ -7,6 +7,7 @@ Blog de viajes de Lore y Santi (blogcito.com). Turismo lento, guías prácticas 
 - @docs/plantilla-articulo.md
 - @docs/pendientes-blogcito.md
 - docs/mapa-cluster-china.md (mapa del cluster de China: pilar, satélites, slugs y estado de cada artículo)
+- docs/revision-borradores-lore.md (pendientes de cada borrador y errores que encontramos en revisión, para tachar y revisar antes de cada PR)
 
 Estos tres archivos son la fuente de verdad. Si algo de este archivo choca con la guía de estilo, vale la guía de estilo, salvo en afiliados, donde vale lo que dice este archivo.
 
@@ -32,7 +33,7 @@ Estos tres archivos son la fuente de verdad. Si algo de este archivo choca con l
 - Ignorar la línea de la guía de estilo que pide revisar el ID de afiliado en cada enlace, porque de eso se encarga Stay22
 
 ## Reglas de trabajo
-- Hacer commit cuando corresponda (mensajes en español, cambios chicos y agrupados por tema, sin mezclar tareas). Nunca hacer push: lo hace Santi cuando se lo sugiera, y desde la terminal de VS Code, porque desde Claude Code no hay credenciales
+- Hacer commit cuando corresponda (mensajes en español, cambios chicos y agrupados por tema, sin mezclar tareas). Para el push, ver "Ramas, borradores y deploy previews"
 - Usar una rama por tarea solo para retraducciones y cambios de código. Los cambios en docs/ pueden ir directo en main
 - Si una decisión editorial cambia una regla, actualizar el archivo de docs/ correspondiente en el mismo cambio
 - Mostrar el diff antes de cambios grandes
@@ -42,6 +43,17 @@ Estos tres archivos son la fuente de verdad. Si algo de este archivo choca con l
 - No inventar datos, precios ni experiencias. Lo que no esté confirmado va como [VERIFICAR]
 - Entregar el archivo completo, listo para reemplazar
 - Al terminar un punto de la lista de pendientes, avisar a Santi y marcarlo en docs/pendientes-blogcito.md
+
+## Ramas, borradores y deploy previews
+- Antes de cualquier push, chequear el usuario con `git config user.name` y `gh auth status`, y decir con cuál se va a pushear
+- Si el usuario es Bhavantu (Santi), se puede hacer push a main, pero solo cuando Santi lo pida explícitamente en ese chat
+- Con cualquier otro usuario (por ejemplo Lore), nunca push a main ni merge a main. Trabajar en una rama nueva y abrir un pull request en modo borrador para ver la deploy preview
+- Para cualquier artículo nuevo, reescritura o traducción que se quiera ver antes de publicar, trabajar en una rama nueva con nombre descriptivo (por ejemplo `borrador-pekin-que-hacer` o `traduccion-amed-en`)
+- De esas ramas se hace push solo de la rama y se abre un pull request en modo borrador (draft) contra main. Netlify publica la deploy preview y deja el link en el PR
+- Cada push nuevo a la rama actualiza la preview. Cuando el borrador está listo, pasar el PR a "Ready for review" y avisar a Santi
+- Nunca copiar links de deploy preview (`deploy-preview-N--...netlify.app`) dentro de un artículo ni en ningún archivo del sitio
+- Si la rama toca un artículo existente, seguir las mismas reglas de la guía de estilo y de traducción que el resto del repo
+- Antes de trabajar en un borrador, leer docs/revision-borradores-lore.md: tachar los pendientes de ese artículo a medida que se resuelven y, antes de abrir o actualizar el PR, revisar el borrador contra la lista de errores que encontramos
 
 ## Reglas para traducciones al inglés
 - Traducir desde el original en español, nunca desde otra traducción
