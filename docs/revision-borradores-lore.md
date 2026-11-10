@@ -39,7 +39,7 @@ Ya corregido por Santi el 10/11/2026 (no hace falta tocarlo): voseo ("podés", "
 - [ ] Cambio de nombre de Wangcun a Furongzhen: el texto dice 2007, pero dos páginas del gobierno de Hunan dicen 1997. Quedó marcado [VERIFICAR]. Si no se encuentra una fuente firme, cambiar por "años después" y sacar el año.
 
 **Estructura (ver `docs/plantilla-articulo.md`)**
-- [ ] Índice "En este artículo".
+- [x] Índice "En este artículo". Resuelto el 11/11: no hace falta tocar nada, BlogPostLayout genera solo el índice a partir de los H2 y H3.
 - [ ] Sección "Qué saltearíamos". Si de verdad no saltearíamos nada, decirlo ahí con una línea y el motivo.
 - [ ] Sección "Lo que nos gustó, lo que no y ¿vale la pena?", con algo que no nos gustó o nos costó (la gente a la tarde, las escaleras con valija, lo que sea).
 - [ ] Seguro de viaje en "Antes de ir a Furongzhen".
@@ -48,12 +48,12 @@ Ya corregido por Santi el 10/11/2026 (no hace falta tocarlo): voseo ("podés", "
 - [ ] "Más guías de China": sumar los satélites que se vayan publicando.
 
 **Redacción**
-- [ ] Primer párrafo de "Un pueblo colgado de una cascada": "etnia Tujia" se repite dos veces en la misma oración.
-- [ ] Frases largas sin puntos ni comas, para partirlas:
+- [x] Primer párrafo de "Un pueblo colgado de una cascada": "etnia Tujia" se repite dos veces en la misma oración. Resuelto el 11/11: la primera mención pasó a "casas tujia".
+- [x] Frases largas sin puntos ni comas, para partirlas (resuelto el 11/11: se agregaron puntos y comas, sin cambiar las palabras):
   - "Como nos quedábamos dos noches el primer día aprovechamos para caminar con calma, conocer y probar el famoso tofu de arroz, "mi doufu" fuimos al local más icónico…"
   - "la pasarela es divertida pasamos por detrás varias veces…"
   - "acá vimos "El llanto de la novia" la previa de una boda tujia alrededor de las 14:30" (le falta el punto final).
-- [ ] La entrada se explica cinco veces (intro, resumen rápido, tabla de datos, después de los trenes y FAQ). Dejar el detalle en la tabla y en un solo párrafo, y en el resto solo el precio.
+- [x] La entrada se explica cinco veces (intro, resumen rápido, tabla de datos, después de los trenes y FAQ). Dejar el detalle en la tabla y en un solo párrafo, y en el resto solo el precio. Resuelto el 11/11: la intro ya no repite el precio, el resumen rápido deja solo el precio, y el párrafo posterior a los trenes deja solo el link; el detalle queda en la tabla y la FAQ.
 
 **Después del borrador**
 - [ ] `docs/mapa-cluster-china.md`: el slug queda `furongzhen-que-ver` (no `furongzhen-por-libre`) y el alojamiento es Jianghu (no Wangxiansheng Homestay).
