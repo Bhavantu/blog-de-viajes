@@ -27,12 +27,12 @@ Ya corregido por Santi el 10/11/2026 (no hace falta tocarlo): voseo ("podés", "
 - [ ] En "Nuestra experiencia" dice "sacamos fotos en varios de los puntos iluminados que compartiré a continuación". Poner esas fotos ahí o sacar la frase.
 
 **Datos para confirmar con Lore (si no se confirman, se sacan)**
-- [ ] Que adolescentes y personas mayores pagan menos la entrada. Aparece en la tabla de datos, en la tabla de costos y en la pregunta frecuente de la entrada.
-- [ ] Horario del recinto, de 8:00 a 24:00. La ficha de Klook dice de 7:30 a 23:59.
+- [x] Que adolescentes y personas mayores pagan menos la entrada. Resuelto el 11/11: Lore lo confirmó (además una guía de viajes lo indica: 54 CNY para 14 a 18 y 60 a 65 años sobre un adulto de 108 CNY); se deja como está. Aparece en la tabla de datos, en la tabla de costos y en la pregunta frecuente de la entrada.
+- [x] Horario del recinto, de 8:00 a 24:00. Resuelto el 11/11: Lore confirmó que es de 8:00 a 24:00 (es lo que vieron ellos); se deja el texto. La ficha de Klook dice de 7:30 a 23:59.
 - [ ] "En verano se enciende antes" (pregunta frecuente de la cascada).
 - [ ] "La cascada va más fuerte de junio a septiembre" (pregunta frecuente de la mejor época). La tabla de datos solo dice que baja de diciembre a febrero.
 - [ ] "Hay más de diez salidas por día" del tren desde Zhangjiajie.
-- [ ] El taxi de la estación al pueblo a 15-25 CNY.
+- [x] El taxi de la estación al pueblo a 15-25 CNY. Resuelto el 11/11: no lo tomaron. Se cambió por el dato de la guía de transporte de Trip.com (unos 20 CNY, USD 3, EUR 2,6) diciendo que no lo tomaron y que les pasaron a buscar.
 - [ ] Arroz con verduras (16 CNY) y arroz con pollo (20 CNY) de la tabla de costos: dónde los comimos. Si fue en un lugar con nombre, sumarlo en "Qué comer".
 - [x] Llegada a Jianghu (resuelto el 11/11: Lore confirmó que el auto los llevó primero a la entrada del recinto, donde escanearon QR y pasaportes, y después los dejó en la calle del hotel; ahora los dos textos coinciden): en "Nuestra experiencia" el auto nos lleva hasta la entrada del recinto, donde escanean el QR, y en "Dónde quedarse" el auto nos deja en la calle del hotel. Contar cómo fue en un solo lugar y que el otro coincida.
 - [x] Jianghu: cuánto pagamos por noche. Resuelto el 11/11: Lore confirmó USD 18 por noche; el texto pasó de "desde unos 120 CNY" a "pagamos unos 120 CNY (USD 18, EUR 16) por noche".

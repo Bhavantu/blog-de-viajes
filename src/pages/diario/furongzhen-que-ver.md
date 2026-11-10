@@ -266,7 +266,7 @@ Lo más simple es el tren de alta velocidad. Desde Zhangjiajie son unos 23 minut
 
 * **[Desde Zhangjiajie.](https://www.trip.com/t/kajPzscm5X2)** Salís de la estación Zhangjiajie West (张家界西, la de alta velocidad). El trayecto a Furongzhen (芙蓉镇) dura unos 23 minutos y en Trip.com sale 54 CNY (unos USD 8, EUR 7). Hay más de diez salidas por día, pero chequeá la disponibilidad según la fecha.
 * **[Desde Fenghuang.](https://www.trip.com/t/SJkDorxm5X2)** El tren va de la estación Fenghuang Ancient Town (凤凰古城) a Furongzhen en unos 33 minutos, por 67 CNY (USD 9,94, unos EUR 8,7) en Trip.com. En sentido inverso hay varias salidas diarias; chequeá cuál es la última, a las 19:45.
-* **De la estación al pueblo.** La estación queda a unos 10 o 15 minutos en auto del casco antiguo. Un taxi sale entre 15 y 25 CNY (unos USD 2,20 a 3,70, EUR 2 a 3,20). Pero lo más práctico es coordinar con el alojamiento y muchos te pasan a buscar si les avisás la hora de llegada.
+* **De la estación al pueblo.** La estación queda a unos 10 o 15 minutos en auto del casco antiguo. Según la guía de transporte de Trip.com, un taxi sale unos 20 CNY (USD 3, EUR 2,6); nosotros no lo tomamos porque nos pasaron a buscar. Lo más práctico es coordinar con el alojamiento: muchos te pasan a buscar si les avisás la hora de llegada.
 * Aclaración: dentro del pueblo no hay autos, así que a tener en cuenta para trasladar el equipaje, el alojamiento, nosotros nos quedamos en Jianghu, que está dentro del recinto, sobre una de sus calles externas, y nos pasaron a buscar, por lo que aunque no tiene vista directa a la cascada fue un gran éxito.
 
 
