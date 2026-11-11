@@ -54,9 +54,9 @@ The Yunnan Ethnic Village covers 89 hectares next to Dianchi Lake, in the southw
 
 <div class="post-img-box img-completo img-centro"><img src="/img/diario/parque-de-las-etnias-yunnan.webp" alt="Imagen de bitácora"><span class="img-caption">Yunnan Ethnic Village</span></div>
 
-An anecdote: I wanted to dress up as one of the ethnic groups and asked around in several places, but in the end I did not do it. Later, in Furongzhen, I did get up the courage to wear traditional Miao clothing: we tell the story in our [Furongzhen guide](/diario/furongzhen-que-ver/).
-
 Still, to be honest: it is a site designed for visitors and not the real life of those communities. We took it as a first introduction and, as such, we found it an interesting way into the province's cultures. The shows inside the park are very entertaining and, in general, they end up inviting the audience to dance in a big circle.
+
+A side anecdote: there were many little stalls, both inside and outside the Ethnic Village, offering to dress you up in the costumes of the different ethnic groups. I, Lore, wanted to try one on and asked around in several places, but in the end I did not do it. Later, in Furongzhen, I did get up the courage to wear traditional Miao clothing: I tell the story in the [Furongzhen guide](/diario/furongzhen-que-ver/).
 
 * Location: 1310 Dianchi Road, Xishan District, Kunming.
 * Admission: 90 CNY (about USD 13.41 or EUR 12.06) at the gate. [Book the experience with transfer included from the city center here.](https://www.trip.com/travel-guide/attraction/kunming/yunnan-nationalities-village-75906?poiType=3&curr=USD&locale=en-XX&scene=ticket) The night show is paid separately.
