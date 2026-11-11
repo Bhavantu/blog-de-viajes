@@ -10,7 +10,8 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "optimizar": "node optimizar.mjs"
+    "optimizar": "node optimizar.mjs",
+    "fotos": "node scripts/procesar-fotos.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.3",
@@ -20,6 +21,7 @@
     "tailwindcss": "^4.3.2"
   },
   "devDependencies": {
-    "heic-convert": "^2.1.0"
+    "heic-convert": "^2.1.0",
+    "sharp": "^0.34.5"
   }
 }
