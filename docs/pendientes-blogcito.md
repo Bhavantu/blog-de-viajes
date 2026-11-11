@@ -13,13 +13,13 @@ Flujo de fotos (rama `fotos-flujo`, sin mergear a main: script `scripts/procesar
 
 ### Kunming: traducción hecha y pendientes del original en español (11/11/2026)
 
-Traducción en la rama `traduccion-kunming-en` (commit d5b3f8c, sin pushear, sin PR): `src/pages/en/journal/what-to-do-kunming-3-days.md`. Se tradujo desde la versión de la rama de Lore (`borrador/furongzhen-que-ver`), que tiene un párrafo más (la anécdota del disfraz, con link a la guía de Furongzhen). Auditada contra el original: 14 URLs, 4 bloques de imagen, números, encabezados, tablas y bullets coinciden. El build pasa y genera los hreflang es/en. El link a Furongzhen apunta a la versión en español porque no existe la traducción. Se dejaron `slug_url` fuera del frontmatter en inglés, como en las demás traducciones.
+Traducción en la rama `traduccion-kunming-en` (sin pushear, sin PR): `src/pages/en/journal/what-to-do-kunming-3-days.md`. Se tradujo desde la versión de la rama de Lore (`borrador/furongzhen-que-ver`), que tiene un párrafo más (la anécdota del disfraz, con link a la guía de Furongzhen). Auditada contra el original: 14 URLs, 4 bloques de imagen, números, encabezados, tablas y bullets coinciden. El build pasa y genera los hreflang es/en. El link a Furongzhen apunta a la versión en español porque no existe la traducción. Se dejaron `slug_url` fuera del frontmatter en inglés, como en las demás traducciones.
 
 Antes de mergear: hay que mergear primero el PR #126 (o el párrafo de la anécdota queda solo en la traducción y el link a Furongzhen en 404).
 
 Pendientes del original en español, sin corregir a pedido de Santi (al corregirlos, corregir también la traducción):
 - [ ] El link del Yunyiduo Hotel (Agoda) es una búsqueda con `cid=1844104` (parámetro de afiliado de terceros, avisar), `currencyCode=IDR`, `checkIn=2026-11-12` y un `[object Object]` roto en la URL. Aparece dos veces (bloque inicial y tabla de costos).
-- [ ] Anécdota del disfraz: queda entre la foto y "Igual, siendo honestos…", y el "Igual" ya no conecta con lo anterior. Mezcla "yo" con "lo contamos", y el link a Furongzhen no existe hasta publicar el PR #126.
+- [x] Anécdota del disfraz. Resuelto el 11/11: pasó a un párrafo aparte después del "Igual, siendo honestos…", en primera persona ("Yo, Lore, quería…") y con los puestitos dentro y fuera del Pueblo de las Etnias. Corregido en la rama de Lore (commit 92712c3, pusheado) y en la traducción. Sigue pendiente solo que el link a Furongzhen existe recién cuando se mergee el PR #126.
 - [ ] Nombre del hotel del lago: el bloque dice "Kunming Green Lake" (4 estrellas) y el texto dice "Orange Hotel (Kunming Green Lake)". Unificar. Económico y Medio llevan las dos 3 estrellas.
 - [ ] Tren Nanning a Kunming: 313 CNY son USD 46,64 al cambio del post y la tabla dice 46,70.
 - [ ] Los 18 CNY "afuera del Parque de las Etnias" no dicen qué incluían (ya en las sugerencias de Santi para Lore).
