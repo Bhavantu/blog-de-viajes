@@ -75,9 +75,10 @@ Cuando incluimos algo que no vivimos lo decimos ("aunque no lo practicamos", "de
 
 ### Bloque "Si tenés poco tiempo"
 En toda guía con alojamiento o tours, justo después de la introducción y antes del primer H2.
-- Tres recomendaciones de alojamiento (económico, medio, alto) con estrellas y botón "Ver disponibilidad".
+- Tres recomendaciones de alojamiento (económico, medio, alto).
+- Formato compacto: cada alojamiento es una fila con el nombre (enlazado), una etiqueta corta y el botón "Ver alojamiento" en la misma línea, y debajo una sola línea con la categoría y el precio. Sin títulos por grupo ni espacios grandes entre filas. El modelo es el bloque de furongzhen-que-ver.
 - Si aplica, el tour o actividad que más recomendamos.
-- Marcar con "Nos quedamos acá" lo que probamos.
+- Marcar con "Nos quedamos acá" lo que probamos. En los demás no hace falta aclarar que no nos quedamos.
 
 ### Cuerpo
 - Índice "En este artículo".
@@ -109,7 +110,8 @@ En toda guía con alojamiento o tours, justo después de la introducción y ante
 
 ## Precios y datos
 - Moneda local primero, y la conversión aproximada entre paréntesis. Formato único "50.000 IDR (unos USD 3)". En prosa, decimales con coma ("USD 1,39").
-- En tablas de costos, columnas de moneda local, USD y EUR, más una columna de observaciones.
+- En tablas de costos, columnas de moneda local, USD y EUR, más una columna de observaciones corta: pocas palabras, no frases ("23 min", "Lo que pagamos", "Sin bebida"). El detalle va en el texto, así la tabla no queda ancha.
+- En cualquier tabla, si el concepto tiene un enlace natural (la entrada, un tren, un alojamiento o una sección del mismo artículo), el concepto va como link.
 - Indicar el mes de actualización de los precios.
 - Cuando sea lo que pagamos nosotros, decirlo ("pagamos unos USD 25 la noche").
 - Todo dato que no esté confirmado se marca como [VERIFICAR] en el borrador.
@@ -119,7 +121,7 @@ En toda guía con alojamiento o tours, justo después de la introducción y ante
 ### Afiliados
 - Alojamiento (Booking), tours (GetYourGuide), equipo (Amazon), eSIM (Airalo), y **seguro de viaje** en toda guía de destino, idealmente en "Antes de ir".
 - Según el destino, sumar los afiliados naturales (trenes, traslados, apps o servicios necesarios para moverse).
-- Cada alojamiento recomendado lleva un detalle concreto (si nos quedamos, cuántas noches, cuánto pagamos, qué nos gustó y qué no) y un enlace "Reservar acá". Si no nos quedamos, lo decimos.
+- Cada alojamiento recomendado lleva un detalle concreto y un enlace "Reservar acá". Si nos quedamos, lo decimos y contamos cuántas noches, cuánto pagamos y qué nos gustó y qué no. Si no nos quedamos, no hace falta aclararlo.
 - Preferimos pocas recomendaciones bien contadas a listas largas sin contexto.
 - Siempre que se pueda, ofrecer la alternativa local o gratuita junto al enlace de afiliado.
 - Aviso con 🧡 cerca de los enlaces.
@@ -140,7 +142,7 @@ En toda guía con alojamiento o tours, justo después de la introducción y ante
 ## Revisión antes de publicar
 - ¿Se nota en los primeros párrafos que estuvimos ahí y cuánto tiempo?
 - ¿Hay opinión y veredicto, no solo descripción?
-- ¿Cada alojamiento recomendado dice si nos quedamos o no?
+- ¿El alojamiento donde nos quedamos está marcado ("Nos quedamos acá") y contado (noches, precio, qué nos gustó)?
 - Formas de tú mezcladas con voseo.
 - Tildes faltantes en títulos ("Que hacer" en lugar de "Qué hacer").
 - Encabezados duplicados o frases sin terminar.

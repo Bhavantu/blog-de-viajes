@@ -69,5 +69,5 @@ Estos tres archivos son la fuente de verdad. Si algo de este archivo choca con l
 ## Estilo de contenido
 - Voseo rioplatense siempre, nunca formas de tú
 - Primera persona plural, la experiencia propia va adelante
-- Cada recomendación de alojamiento dice si nos quedamos o no
+- Si nos quedamos en un alojamiento recomendado, se dice y se cuenta; si no nos quedamos, no hace falta aclararlo
 - Guía completa en @docs/guia-estilo-blogcito.md

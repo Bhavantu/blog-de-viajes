@@ -11,7 +11,7 @@ Hecho: Prioridades 1, 2, 3 y 4 completas (retraducciones auditadas, errores de l
 Pendiente, en este orden:
 1. ~~Link de Airalo~~ Resuelto el 31/10: Airalo se cobra por Impact y todos los links (botón del layout y 4 artículos) usan https://airalo.pxf.io/c/7468102/1268485/15608?partnerpropertyid=8600748. Falta una prueba de Santi: hacer un click y ver que aparezca en el panel de Impact.
 2. ~~Hacer push de `main`.~~ Los commits del 31/10 ya están en GitHub (visto el 1/11).
-3. Consultar con Lore los veredictos de alojamiento que faltan (working holiday Christchurch y 4 hoteles de Ubud). D'tepi y Anugrah ya están marcados.
+3. ~~Consultar con Lore los veredictos de alojamiento que faltan (working holiday Christchurch y 4 hoteles de Ubud).~~ Ya no hace falta desde el 11/11: la regla cambió y solo se marca el alojamiento donde nos quedamos (D'tepi y Anugrah ya lo están).
 4. Afiliados de Prioridad 5, solo con OK de Santi por grupo: `aid=` de Booking de distintos IDs y los links de trip.com del Monkey Forest.
 5. Prioridad 5 (técnico y SEO) y Prioridad 6 (contenido y estrategia), en el orden de abajo.
 

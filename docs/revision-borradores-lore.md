@@ -68,7 +68,7 @@ Ya corregido por Santi el 10/11/2026 (no hace falta tocarlo): voseo ("podés", "
 1. **Voseo con tilde.** "Podés", "tenés", "te quedás", "llegás". "Podes" sin tilde y "te quedas" son errores. El subjuntivo con forma de tú ("acuerdes", "debas") está bien y no se corrige.
 2. **El mismo dato igual en todo el artículo.** Noches que nos quedamos, precio de la entrada, ubicación del hotel, horarios. Si la recomendación es distinta de lo que hicimos, explicarlo ("nos quedamos dos, pero con una alcanza").
 3. **Precios con la moneda local primero.** Formato "98 CNY (USD 14,98 o unos EUR 13)". Decimales con coma. Si el precio estaba en USD (Trip.com), poner los yuanes aproximados con "unos". Indicar el mes de los precios.
-4. **Cada alojamiento dice si nos quedamos o no.** En el que nos quedamos: cuántas noches, cuánto pagamos y qué nos gustó y qué no.
+4. **El alojamiento donde nos quedamos va marcado y contado.** "Nos quedamos acá", cuántas noches, cuánto pagamos y qué nos gustó y qué no. En los demás no hace falta escribir "No nos quedamos" (regla cambiada el 11/11/2026).
 5. **Datos históricos y de terceros con fuente.** Fechas, cifras, años de gobierno, población: verificarlos o marcarlos [VERIFICAR]. No usar "según las guías" o "según medios" sin decir cuál. Preferir cifras de fuentes oficiales (por ejemplo, un censo) a las de blogs turísticos.
 6. **Lo que nos contaron no es lo que pasó.** Si nos mostraron una foto o nos contaron algo, escribirlo así ("nos mostraron una foto de…"), sin afirmarlo como hecho.
 7. **Nombres de etnias, lugares y personas correctos.** Ojo con mezclar tujia y miao, o lugares parecidos.
@@ -77,3 +77,5 @@ Ya corregido por Santi el 10/11/2026 (no hace falta tocarlo): voseo ("podés", "
 10. **Estructura de la plantilla completa.** Índice, "Nuestra experiencia", "Qué saltearíamos", "Lo que nos gustó, lo que no y ¿vale la pena?", seguro de viaje en "Antes de ir", FAQ con cada pregunta como H3, "¿Para quién es?", "Más guías de [destino]" y recuadro hacia la guía pilar.
 11. **Frases cortas y con puntuación.** Releer los párrafos de experiencia: ahí suelen quedar frases pegadas sin punto o sin coma.
 12. **Lista final en el PR.** En la descripción del PR, listar lo que quedó como [VERIFICAR] y lo que falta (por ejemplo, fotos).
+13. **Bloque "Si tenés poco tiempo" compacto.** Cada alojamiento en una fila: nombre, etiqueta y botón "Ver alojamiento" en la misma línea, y debajo una línea con categoría y precio. Sin títulos por grupo ni espacios grandes. Modelo: el bloque de Furongzhen.
+14. **Tablas.** Observaciones de pocas palabras (el detalle va en el texto) y los conceptos con link natural (entrada, tren, alojamiento, sección del artículo) enlazados.

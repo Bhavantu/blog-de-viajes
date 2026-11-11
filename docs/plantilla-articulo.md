@@ -20,13 +20,13 @@
 2. **Firma y fecha de actualización.**
 3. **Apertura** con pregunta en negrita, keyword en negrita, nuestra credencial (cuánto tiempo y cómo) y la idea clave para quien lee.
 4. **Recuadro** hacia la guía pilar del destino (si es satélite).
-5. **Bloque "Si tenés poco tiempo"** con 3 alojamientos (económico, medio, alto), marcando "Nos quedamos acá", y el tour más recomendado si aplica.
+5. **Bloque "Si tenés poco tiempo"** con 3 alojamientos (económico, medio, alto) en formato compacto (ver la guía de estilo), marcando "Nos quedamos acá", y el tour más recomendado si aplica.
 6. **Índice** "En este artículo".
 7. **Nuestra experiencia**, breve.
 8. **Lugares o actividades** en H3 numerados, cada uno con un detalle vivido y bullets de Entrada, Precio, Cómo llegar, Mejor hora, Pros y Contras.
 9. **Qué saltearíamos**, si aplica.
 10. **Antes de ir** (transporte, efectivo, clima, seguro de viaje, conectividad).
-11. **Tabla de costos** en moneda local, USD y EUR, con fecha de actualización.
+11. **Tabla de costos** en moneda local, USD y EUR, con fecha de actualización, observaciones cortas y los conceptos enlazados cuando tengan link.
 12. **Lo que nos gustó, lo que no y ¿vale la pena?**
 13. **Preguntas frecuentes** con cada pregunta como H3.
 14. **¿Para quién es?** Recomendación según tipo de viajero.
