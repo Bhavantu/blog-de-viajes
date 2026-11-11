@@ -55,9 +55,9 @@ El Pueblo de las Etnias de Yunnan (Yunnan Ethnic Village) ocupa 89 hectáreas ju
 
 <div class="post-img-box img-completo img-centro"><img src="/img/diario/parque-de-las-etnias-yunnan.webp" alt="Imagen de bitácora"><span class="img-caption">Parque de las Etnias de Yunnan</span></div>
 
-Una anécdota: yo quería disfrazarme de alguna de las etnias y averigüé en varios lugares, pero al final no lo hice. Más adelante, en Furongzhen, sí me animé con la ropa tradicional miao: lo contamos en nuestra [guía de Furongzhen](/diario/furongzhen-que-ver/).
-
 Igual, siendo honestos: es un recinto pensado para visitantes y no la vida real de esas comunidades. Lo tomamos como una primera toma de contacto y, como tal, nos pareció un acercamiento interesante a las culturas de la provincia. Los shows dentro del parque son muy entretenidos y, en general, terminan invitando al público a bailar en una gran ronda.
+
+Una anécdota aparte: había muchos puestitos, dentro y fuera del Pueblo de las Etnias, que ofrecían disfrazarte con los trajes de las distintas etnias. Yo, Lore, quería probarme uno y averigüé en varios lugares, pero al final no lo hice. Más adelante, en Furongzhen, sí me animé con la ropa tradicional miao: lo cuento en la [guía de Furongzhen](/diario/furongzhen-que-ver/).
 
 * Ubicación: 1310 Dianchi Road, distrito de Xishan, Kunming.
 * Entrada: 90 CNY (unos USD 13,41 o EUR 12,06) en la puerta. [Reservá la experiencia con traslado incluido desde el centro acá.](https://www.trip.com/travel-guide/attraction/kunming/yunnan-nationalities-village-75906?poiType=3&curr=USD&locale=en-XX&scene=ticket) El show nocturno se paga aparte.
