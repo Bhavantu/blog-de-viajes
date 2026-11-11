@@ -17,92 +17,30 @@ description: "¿Vale la pena Furongzhen? Guía con tren desde Zhangjiajie, entra
 **Nuestra recomendación:** dormir al menos una noche. Nosotros nos quedamos dos, pero con una bien planificada alcanza. Podés llegar a media tarde, conocer el pueblo con la luz del atardecer, ver la cascada iluminada y el show cultural en la noche. Al día siguiente podés volver a caminarlo temprano a la mañana, cuando casi no hay gente.
 
 
-<div style="background: linear-gradient(180deg, #fdfcf9 0%, #f7f4ee 100%); border: 2px solid #006d77; border-radius: 16px; padding: 2rem 1.8rem; margin: 3rem 0; box-shadow: 0 12px 30px rgba(0, 109, 119, 0.08); font-family: var(--font-main, sans-serif);">
-
-
-<div style="display: flex; align-items: center; gap: 0.8rem; margin-bottom: 1.6rem; border-bottom: 1px solid rgba(0, 109, 119, 0.15); padding-bottom: 1rem;">
-<h3 style="margin: 0; font-family: var(--font-display, Georgia, serif); font-size: 1.35rem; color: #1c2d37; font-weight: 600;">
-Si tenés poco tiempo: dónde quedarte
-</h3>
+<div style="background: #fbf9f4; border: 2px solid #006d77; border-radius: 14px; padding: 1.1rem 1.2rem 0.8rem; margin: 2rem 0; font-family: var(--font-main, sans-serif);">
+<h3 style="margin: 0 0 0.4rem 0; font-family: var(--font-display, Georgia, serif); font-size: 1.2rem; color: #1c2d37; font-weight: 600;">Si tenés poco tiempo: dónde quedarte</h3>
+<div style="padding: 0.55rem 0;">
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 0.75rem;">
+<div style="display: flex; align-items: center; gap: 0.4rem; flex-wrap: wrap; min-width: 0;"><a href="https://www.trip.com/t/DYY7oUko5X2" target="_blank" rel="noopener" style="color: #222; font-size: 0.95rem; font-weight: bold; text-decoration: none !important; box-shadow: none !important; background-image: none !important;">Jianghu</a><span style="background: #e6f4f1; color: #006d77; font-size: 0.68rem; font-weight: 700; padding: 0.1rem 0.45rem; border-radius: 4px; white-space: nowrap;">Nos quedamos acá</span></div>
+<a href="https://www.trip.com/t/DYY7oUko5X2" target="_blank" rel="noopener" style="flex-shrink: 0; white-space: nowrap; color: #006d77 !important; font-size: 0.78rem; font-weight: 700; padding: 0.3rem 0.65rem; border-radius: 6px; border: 1px solid #006d77; text-decoration: none !important; box-shadow: none !important; background-image: none !important;">Ver alojamiento &rarr;</a>
 </div>
-
-
-<div style="margin-bottom: 1.6rem;">
-<div style="margin-bottom: 0.75rem;">
-<h4 style="margin: 0; font-size: 0.82rem; text-transform: uppercase; letter-spacing: 0.06em; color: #006d77; font-weight: 800;">
-Presupuesto
-</h4>
+<p style="margin: 0.15rem 0 0 0; font-size: 0.82rem; line-height: 1.4; color: #666;"><strong style="color: #006d77;">Presupuesto.</strong> Pagamos unos 120 CNY (USD 18, EUR 16) por noche, dentro del recinto del pueblo antiguo.</p>
 </div>
-
-
-<div style="padding: 0.6rem 0; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem;">
-<div>
-<div style="display: flex; align-items: center; gap: 0.4rem; flex-wrap: wrap;">
-<a href="https://www.trip.com/t/DYY7oUko5X2" target="_blank" rel="noopener" style="color: #222; font-size: 0.95rem; font-weight: bold; text-decoration: none !important; box-shadow: none !important; background-image: none !important;">Jianghu</a>
-<span style="background: #e6f4f1; color: #006d77; font-size: 0.7rem; font-weight: 700; padding: 0.15rem 0.5rem; border-radius: 4px;">Nos quedamos acá</span>
+<div style="padding: 0.55rem 0; border-top: 1px solid #e7e2d8;">
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 0.75rem;">
+<div style="display: flex; align-items: center; gap: 0.4rem; flex-wrap: wrap; min-width: 0;"><a href="https://www.trip.com/t/ii1qL2Yn5X2" target="_blank" rel="noopener" style="color: #222; font-size: 0.95rem; font-weight: bold; text-decoration: none !important; box-shadow: none !important; background-image: none !important;">Huayangnianhua Inn</a><span style="background: #ede9fe; color: #5b21b6; font-size: 0.68rem; font-weight: 700; padding: 0.1rem 0.45rem; border-radius: 4px; white-space: nowrap;">Vista al río</span></div>
+<a href="https://www.trip.com/t/ii1qL2Yn5X2" target="_blank" rel="noopener" style="flex-shrink: 0; white-space: nowrap; color: #006d77 !important; font-size: 0.78rem; font-weight: 700; padding: 0.3rem 0.65rem; border-radius: 6px; border: 1px solid #006d77; text-decoration: none !important; box-shadow: none !important; background-image: none !important;">Ver alojamiento &rarr;</a>
 </div>
-<p style="margin: 0.25rem 0 0 0; font-size: 0.85rem; color: #666;">Pagamos unos 120 CNY (USD 18, EUR 16) por noche, dentro del recinto del pueblo antiguo.</p>
+<p style="margin: 0.15rem 0 0 0; font-size: 0.82rem; line-height: 1.4; color: #666;"><strong style="color: #006d77;">Confort.</strong> Unos 436 CNY (USD 65, EUR 57) por noche, con vista al río.</p>
 </div>
-<a href="https://www.trip.com/t/DYY7oUko5X2" target="_blank" rel="noopener" style="color: #006d77 !important; font-size: 0.8rem; font-weight: 700; text-decoration: none !important; padding: 0.4rem 0.8rem; border-radius: 6px; border: 1px solid #006d77; white-space: nowrap; margin-left: auto; box-shadow: none !important; background-image: none !important; display: inline-block;">
-Ver alojamiento &rarr;
-</a>
+<div style="padding: 0.55rem 0; border-top: 1px solid #e7e2d8;">
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 0.75rem;">
+<div style="display: flex; align-items: center; gap: 0.4rem; flex-wrap: wrap; min-width: 0;"><a href="https://www.trip.com/t/LMlRvsdn5X2" target="_blank" rel="noopener" style="color: #222; font-size: 0.95rem; font-weight: bold; text-decoration: none !important; box-shadow: none !important; background-image: none !important;">Tuwang Palace · Eight Halls</a><span style="background: #e0f2fe; color: #075985; font-size: 0.68rem; font-weight: 700; padding: 0.1rem 0.45rem; border-radius: 4px; white-space: nowrap;">Vista a la cascada</span></div>
+<a href="https://www.trip.com/t/LMlRvsdn5X2" target="_blank" rel="noopener" style="flex-shrink: 0; white-space: nowrap; color: #006d77 !important; font-size: 0.78rem; font-weight: 700; padding: 0.3rem 0.65rem; border-radius: 6px; border: 1px solid #006d77; text-decoration: none !important; box-shadow: none !important; background-image: none !important;">Ver alojamiento &rarr;</a>
 </div>
+<p style="margin: 0.15rem 0 0 0; font-size: 0.82rem; line-height: 1.4; color: #666;"><strong style="color: #006d77;">Con vista a la cascada.</strong> Unos 389 CNY (USD 58, EUR 50) por noche, con vistas a la cascada.</p>
 </div>
-
-
-<div style="margin-bottom: 1.6rem;">
-<div style="margin-bottom: 0.75rem;">
-<h4 style="margin: 0; font-size: 0.82rem; text-transform: uppercase; letter-spacing: 0.06em; color: #006d77; font-weight: 800;">
-Confort
-</h4>
-</div>
-
-
-<div style="padding: 0.6rem 0; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem;">
-<div>
-<div style="display: flex; align-items: center; gap: 0.4rem; flex-wrap: wrap;">
-<a href="https://www.trip.com/t/ii1qL2Yn5X2" target="_blank" rel="noopener" style="color: #222; font-size: 0.95rem; font-weight: bold; text-decoration: none !important; box-shadow: none !important; background-image: none !important;">Huayangnianhua Inn</a>
-<span style="background: #ede9fe; color: #5b21b6; font-size: 0.7rem; font-weight: 700; padding: 0.15rem 0.5rem; border-radius: 4px;">Vista al río</span>
-</div>
-<p style="margin: 0.25rem 0 0 0; font-size: 0.85rem; color: #666;">Unos 436 CNY (USD 65, EUR 57) por noche, con vista al río. No nos quedamos.</p>
-</div>
-<a href="https://www.trip.com/t/ii1qL2Yn5X2" target="_blank" rel="noopener" style="color: #006d77 !important; font-size: 0.8rem; font-weight: 700; text-decoration: none !important; padding: 0.4rem 0.8rem; border-radius: 6px; border: 1px solid #006d77; white-space: nowrap; margin-left: auto; box-shadow: none !important; background-image: none !important; display: inline-block;">
-Ver alojamiento &rarr;
-</a>
-</div>
-</div>
-
-
-<div style="margin-bottom: 1.4rem;">
-<div style="margin-bottom: 0.75rem;">
-<h4 style="margin: 0; font-size: 0.82rem; text-transform: uppercase; letter-spacing: 0.06em; color: #006d77; font-weight: 800;">
-Con vista a la cascada
-</h4>
-</div>
-
-
-<div style="padding: 0.6rem 0; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem;">
-<div>
-<div style="display: flex; align-items: center; gap: 0.4rem; flex-wrap: wrap;">
-<a href="https://www.trip.com/t/LMlRvsdn5X2" target="_blank" rel="noopener" style="color: #222; font-size: 0.95rem; font-weight: bold; text-decoration: none !important; box-shadow: none !important; background-image: none !important;">Tuwang Palace · Eight Halls</a>
-<span style="background: #e0f2fe; color: #075985; font-size: 0.7rem; font-weight: 700; padding: 0.15rem 0.5rem; border-radius: 4px;">Vista a la cascada</span>
-</div>
-<p style="margin: 0.25rem 0 0 0; font-size: 0.85rem; color: #666;">Unos 389 CNY (USD 58, EUR 50) por noche, con vistas a la cascada. No nos quedamos.</p>
-</div>
-<a href="https://www.trip.com/t/LMlRvsdn5X2" target="_blank" rel="noopener" style="color: #006d77 !important; font-size: 0.8rem; font-weight: 700; text-decoration: none !important; padding: 0.4rem 0.8rem; border-radius: 6px; border: 1px solid #006d77; white-space: nowrap; margin-left: auto; box-shadow: none !important; background-image: none !important; display: inline-block;">
-Ver alojamiento &rarr;
-</a>
-</div>
-</div>
-
-
-<div style="text-align: center; border-top: 1px dashed #d6cec0; padding-top: 1rem; margin-top: 1.2rem;">
-<p style="margin: 0; font-size: 0.8rem; color: #736b63;">
-Reservando a través de estos enlaces nos ayudás a mantener el blog independiente y sin anuncios invasivos. 🧡
-</p>
-</div>
-
-
+<p style="margin: 0.5rem 0 0 0; padding-top: 0.6rem; border-top: 1px dashed #d6cec0; text-align: center; font-size: 0.78rem; color: #736b63;">Reservando a través de estos enlaces nos ayudás a mantener el blog independiente y sin anuncios invasivos. 🧡</p>
 </div>
 
 
@@ -142,12 +80,12 @@ La entrada cuesta 98 CNY (USD 14,98 o unos EUR 13). Podés pasar la noche (lo re
 | Dato                | Qué tenés que saber                                                                                                                                                                                          |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Dónde queda**     | Condado de Yongshun, prefectura de Xiangxi (Hunan), entre Zhangjiajie y Fenghuang.                                                                                                                           |
-| **Entrada**         | 98 CNY (USD 14,98 o unos EUR 13), válida 3 días. Se saca online y se retira en la puerta. Requiere pasaporte. Llevar siempre la entrada: se escanea en cada acceso. Adolescentes y personas mayores pagan menos. |
+| **[Entrada](https://www.trip.com/t/b9MbQjDn5X2)** | 98 CNY (USD 14,98 o unos EUR 13), válida 3 días. Se saca online y se retira en la puerta. Requiere pasaporte. Llevar siempre la entrada: se escanea en cada acceso. Adolescentes y personas mayores pagan menos. |
 | **Horario del recinto** | De 8:00 a 24:00 (pero muchos hoteles se encuentran dentro).                                                                                                                                              |
 | **Mejor época**     | Recomendados: de marzo a noviembre; primavera (marzo a mayo) y otoño (septiembre a noviembre). La cascada baja mucho entre diciembre y febrero.                                                              |
-| **Show nocturno**   | Hacia las 20:20, en el Gran Teatro Principal (主剧场) del Centro Escénico Huayuewan, cerca del mirador de la cascada. Incluido en la entrada. Llegá temprano: es por orden de llegada y con límite de capacidad. |
+| **[Show nocturno](#el-show-final-la-obra-del-gran-teatro-principal)** | Hacia las 20:20, en el Gran Teatro Principal (主剧场) del Centro Escénico Huayuewan, cerca del mirador de la cascada. Incluido en la entrada. Llegá temprano: es por orden de llegada y con límite de capacidad. |
 | **Traslado**        | Dentro del pueblo no hay autos, a tener en cuenta: las valijas se llevan a pie, con escaleras. Muchos hoteles ofrecen traslado desde la estación de tren.                                                    |
-| **Último tren**     | A Fenghuang, a las 19:45; a Zhangjiajie West, a las 19:20. Confirmá los horarios el día que vayas.                                                                                                           |
+| **Último tren**     | A [Fenghuang](https://www.trip.com/t/r4wsFCum5X2), a las 19:45; a [Zhangjiajie West](https://www.trip.com/t/xrY3rO3n5X2), a las 19:20. Confirmá los horarios el día que vayas.                                                                                                           |
 
 
 ## Nuestra experiencia en Furongzhen
@@ -415,9 +353,9 @@ Hay dos opciones: **dentro del recinto** (vistas a la cascada y al río, atmósf
 
 
 * [Jianghu](https://www.trip.com/t/DYY7oUko5X2) (nuestra elección) — pagamos unos 120 CNY (USD 18, EUR 16) por noche. Nos quedamos dos noches, con unas vistas preciosas a la ciudad y al río. Está dentro del recinto, sobre una de sus calles externas: de ese lado nos dejó el auto y, del otro, el hotel tiene acceso directo al interior del pueblo antiguo. Elegimos la habitación (Chan Yun Twin Room).
-* [Tuwang Palace · Eight Halls](https://www.trip.com/t/LMlRvsdn5X2) — unos 389 CNY (USD 58, EUR 50). No nos quedamos. Vistas a la cascada desde el hotel, en plena zona central del recinto.
-* [Huayangnianhua Inn](https://www.trip.com/t/ii1qL2Yn5X2) — unos 436 CNY (USD 65, EUR 57). No nos quedamos. Dentro del recinto, cerca de la cascada y con vista al río.
-* [Furong Town and Slow Yueshe (Lotus Pool Shop)](https://www.trip.com/t/L9Tw7txo5X2) — unos 107 CNY (USD 16, EUR 14). No nos quedamos. A 7 minutos fuera del pueblo antiguo: más tranquilidad y lindas vistas desde el balcón.
+* [Tuwang Palace · Eight Halls](https://www.trip.com/t/LMlRvsdn5X2) — unos 389 CNY (USD 58, EUR 50). Vistas a la cascada desde el hotel, en plena zona central del recinto.
+* [Huayangnianhua Inn](https://www.trip.com/t/ii1qL2Yn5X2) — unos 436 CNY (USD 65, EUR 57). Dentro del recinto, cerca de la cascada y con vista al río.
+* [Furong Town and Slow Yueshe (Lotus Pool Shop)](https://www.trip.com/t/L9Tw7txo5X2) — unos 107 CNY (USD 16, EUR 14). A 7 minutos fuera del pueblo antiguo: más tranquilidad y lindas vistas desde el balcón.
 
 
 <div class="post-img-box img-mediano img-centro"><img src="/img/diario/furongzhen-jianghu-vista-ventana.webp" alt="La vista desde nuestra habitación en Jianghu, en Furongzhen" width="1080" height="1920" loading="lazy"><span class="img-caption">La vista desde nuestra habitación en Jianghu, en Furongzhen</span></div>
@@ -464,15 +402,15 @@ Comimos en el lugar donde se filmó *Hibiscus Town*. Es la tienda de mi doufu de
 *Conversión aproximada: 1 USD ≈ 6,7 CNY y 1 EUR ≈ 7,7 CNY.*
 
 
-| Concepto                                 | CNY       | USD     | EUR     | Observaciones                                                         |
-| ---------------------------------------- | --------- | ------- | ------- | --------------------------------------------------------------------- |
-| Entrada online (Trip.com)                | 98        | 14,98   | 13      | Trip.com; adolescentes y personas mayores pagan menos                 |
-| Tren Zhangjiajie West → Furongzhen       | 54        | 8       | 7       | 23 min                                                                |
-| Tren Furongzhen → Fenghuang              | 67        | 9,94    | 8,7     | 33 min                                                                |
-| Mi doufu (plato pequeño) en el local 113 | 8         | 1,2     | 1       | Lo que pagamos nosotros                                               |
-| Arroz con verduras (vegetariano)         | 16        | 2,4     | 2,1     | No incluye bebida                                                     |
-| Fideos con carne                         | 20        | 3,0     | 2,6     | En un restaurante con vista al río                                    |
-| Alojamiento (por noche)                  | 107 a 436 | 16 a 65 | 14 a 57 | Desde Jianghu (120 CNY, donde nos quedamos) hasta hoteles con vista a la cascada |
+| Concepto | CNY | USD | EUR | Observaciones |
+| --- | --- | --- | --- | --- |
+| [Entrada online (Trip.com)](https://www.trip.com/t/b9MbQjDn5X2) | 98 | 14,98 | 13 | Menos para adolescentes y mayores |
+| [Tren Zhangjiajie West → Furongzhen](https://www.trip.com/t/kajPzscm5X2) | 54 | 8 | 7 | 23 min |
+| [Tren Furongzhen → Fenghuang](https://www.trip.com/t/r4wsFCum5X2) | 67 | 9,94 | 8,7 | 33 min |
+| [Mi doufu (plato pequeño) en el local 113](#mi-doufu-en-el-local-de-la-película-liu-xiaoqing-刘晓庆米豆腐店) | 8 | 1,2 | 1 | Lo que pagamos |
+| Arroz con verduras (vegetariano) | 16 | 2,4 | 2,1 | Sin bebida |
+| Fideos con carne | 20 | 3,0 | 2,6 | Con vista al río |
+| [Alojamiento (por noche)](#dónde-quedarse-en-furongzhen) | 107 a 436 | 16 a 65 | 14 a 57 | Jianghu: 120 CNY |
 
 
 ## Lo que nos gustó, lo que no y ¿vale la pena?
