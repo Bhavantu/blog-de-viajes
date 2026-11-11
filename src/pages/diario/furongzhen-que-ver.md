@@ -5,6 +5,7 @@ slug_url: furongzhen-que-ver
 date: 2026-11-11T01:52:00.000+13:00
 tag: guia de viaje
 pais: China
+main_image: /img/diario/furongzhen-cascada-iluminada-noche.webp
 description: "¿Vale la pena Furongzhen? Guía con tren desde Zhangjiajie, entrada de 98 CNY, shows Tujia y cascada iluminada. Mirá cómo organizarlo."
 ---
 **¿Un pueblo con una cascada en pleno centro? Existe, se llama Furongzhen y vale mucho la pena, sobre todo si te quedás a dormir.** Pasamos 2 noches y 3 días en este pueblo colgado de una cascada, en Hunan, durante nuestra ruta de 20 días por China en octubre de 2026, y nos quedamos en Jianghu, un alojamiento dentro del recinto del pueblo antiguo (la zona que requiere entrada). De día es un pueblo de calles empedradas y casas tujia sobre pilotes; de noche, cuando se enciende la cascada, parece otro lugar. Además, comimos el famoso mi doufu en el mismo local donde se filmó la película del pueblo. En esta guía te contamos cómo llegar desde Zhangjiajie o Fenghuang, cuánto cuesta la entrada, qué ver y a qué hora, y qué shows no te podés perder. Un consejo antes de empezar: dentro del pueblo no entran autos, así que viajá liviano.
@@ -158,10 +159,19 @@ Al llegar a la estación nos esperaron de nuestro alojamiento, con quienes coord
 La cascada se veía increíble, comenzamos a recorrerlo alrededor de las 4 con una luz muy bella, hicimos la pasarela por detrás varias veces, había bastante gente, pero se podía disfrutar igual. En esa tarde aproveché para cumplir el típico sueño en China y me acerqué a uno de los puestos en los que te maquillan y visten con la ropa tradicional de la etnia miao. Así que al caer la noche además de disfrutar del espectáculo de luces en todo el pueblo sacamos fotos en varios de los puntos iluminados que compartiré a continuación.
 
 
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/furongzhen-lore-traje-miao.webp" alt="Lore probándose el traje tradicional miao en un puesto de Furongzhen" width="1330" height="1663" loading="lazy"><span class="img-caption">Lore probándose el traje tradicional miao en un puesto de Furongzhen</span></div>
+
+
 Como nos quedábamos dos noches, el primer día aprovechamos para caminar con calma, conocer y probar el famoso tofu de arroz, el "mi doufu". Fuimos al local más icónico de la ciudad, un pequeño puestito en donde se grabó la película "La ciudad de los hibiscos". Al llegar nos encontramos con un gran grupo de personas que nos invitaron amablemente a comer y conversar con ellos. Resultó ser la policía local que había terminado su turno, charlamos, nos reímos e intercambiamos también con los dueños del lugar quienes entre risas nos mostraron fotos de algunos momentos icónicos de la película y hasta una de Xi Jinping, el presidente de China. Luego de las 22 el pueblo comienza a vaciarse y los miradores se despejan.
 
 
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/furongzhen-mesa-compartida-mi-doufu.webp" alt="Con la policía local de Furongzhen, que nos invitó a su mesa en el local de mi doufu" width="1920" height="1080" loading="lazy"><span class="img-caption">Con la policía local de Furongzhen, que nos invitó a su mesa en el local de mi doufu</span></div>
+
+
 A la mañana también hay poca gente y dedicamos el segundo día a ver las representaciones artísticas en los diferentes horarios que podés chequear en el punto turístico de la entrada. Una de nuestras favoritas fue la representación de la previa de una boda tujia en el puente Tuwang, alrededor de las 14:30 en donde se representa el duelo de la novia al dejar la casa y la familia con un canto muy particular, pero también la alegría del compromiso. Finaliza de forma muy animada y entregan regalitos.
+
+
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/furongzhen-llanto-de-la-novia-boda-tujia.webp" alt="&quot;El llanto de la novia&quot;, la representación de una boda tujia en el puente Tuwang de Furongzhen" width="1350" height="1920" loading="lazy"><span class="img-caption">"El llanto de la novia", la representación de una boda tujia en el puente Tuwang de Furongzhen</span></div>
 
 
 El show que principalmente destacamos es el nocturno. Fuimos bastante temprano: al finalizar el show anterior "el carnaval de los Bizikas" se armó una gran fila, pero entramos primeros y conseguimos un buen lugar en el anfiteatro cerrado. Si tenés poco tiempo, con una noche bien planificada alcanza.
@@ -190,7 +200,13 @@ Esta fue nuestra forma de ordenar el día. Los horarios son aproximados y cambia
 El mapa del recinto propone una caminata en un solo sentido, casi toda en bajada, desde la puerta del lado este hasta el muelle del río: Puerta y centro de visitantes → Salón Baishou → parque del Pilar de Bronce → puente Tuwang → Palacio Tusi → calle Tingtao y plaza Yinan → mirador de la cascada → cascada y pasarela detrás → muelle → calle Wuli. Este es un recorrido sugerido, y si te quedás dentro del recinto seguramente debas adaptarlo a tu punto de partida.
 
 
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/furongzhen-puente-tuwang-noche-traje-miao.webp" alt="Lore con el traje miao entre los faroles del puente Tuwang, de noche, en Furongzhen" width="1440" height="1920" loading="lazy"><span class="img-caption">Lore con el traje miao entre los faroles del puente Tuwang, de noche, en Furongzhen</span></div>
+
+
 ### 1. Mirador y pasarela de la cascada (nuestra favorita)
+
+
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/furongzhen-cascada-tarde-balcon.webp" alt="La cascada de Furongzhen a la tarde, desde un mirador del pueblo" width="1458" height="1920" loading="lazy"><span class="img-caption">La cascada de Furongzhen a la tarde, desde un mirador del pueblo</span></div>
 
 
 * **Entrada:** incluida en el ticket.
@@ -201,11 +217,17 @@ El mapa del recinto propone una caminata en un solo sentido, casi toda en bajada
 ### 2. Puente Tuwang (土王桥)
 
 
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/furongzhen-puente-tuwang-rio.webp" alt="El puente Tuwang sobre el río Youshui, en Furongzhen" width="1080" height="1920" loading="lazy"><span class="img-caption">El puente Tuwang sobre el río Youshui, en Furongzhen</span></div>
+
+
 * **Qué es:** puente cubierto de madera con faroles rojos, uno de los mejores puntos para fotos, sobre todo al anochecer.
 * **Lo que vivimos:** acá vimos "El llanto de la novia", la previa de una boda tujia, alrededor de las 14:30.
 
 
 ### 3. Calle Wuli y las casas Tujia sobre pilotes
+
+
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/furongzhen-rio-casas-del-pueblo.webp" alt="El río Youshui y las casas del pueblo de Furongzhen" width="1408" height="1920" loading="lazy"><span class="img-caption">El río Youshui y las casas del pueblo de Furongzhen</span></div>
 
 
 * **Qué es:** la calle de losas de piedra (五里石板街) con casas de madera sobre pilotes. Restaurantes con vista a la cascada o al río.
@@ -219,6 +241,9 @@ El mapa del recinto propone una caminata en un solo sentido, casi toda en bajada
 
 
 ### 5. Parque del Pilar de Bronce de Xizhou y Salón Baishou
+
+
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/furongzhen-pilar-de-bronce-xizhou-estatuas.webp" alt="El Pilar de Bronce de Xizhou y las estatuas del tratado, en Furongzhen" width="1616" height="1920" loading="lazy"><span class="img-caption">El Pilar de Bronce de Xizhou y las estatuas del tratado, en Furongzhen</span></div>
 
 
 * **Qué es:** el pilar registra el tratado del año 940 y el salón es el espacio ceremonial tujia donde se hacen algunos de los shows durante el día, además hay unas estatuas que representan el tratado entre los líderes de la etnia tujia con el antiguo reino Chu en el año 940 d.C. El pilar selló la alianza delimitando fronteras claras y garantizando la autonomía y el comercio de los pueblos originarios, poniéndole fin a los conflictos armados en las montañas de Xiangxi (este es un breve resumen, para quienes les interese, recomendamos ampliar).
@@ -237,6 +262,9 @@ Los principales son durante la tarde noche y destacan:
 
 
 Hacia las 19:00 se encienden las luces del pueblo y la cascada central se ilumina. Es un gran momento para ver el atardecer desde el mirador principal. Después podés bajar a la pasarela por detrás de la cascada y recorrer las calles con las farolas encendidas. De noche alrededor de las 22 el pueblo se empieza a vaciar por tanto también es un gran momento para disfrutar de la tranquilidad.
+
+
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/furongzhen-cascada-iluminada-noche.webp" alt="La cascada de Furongzhen iluminada de noche" width="1571" height="1920" loading="lazy"><span class="img-caption">La cascada de Furongzhen iluminada de noche</span></div>
 
 
 ### El show final: la obra del Gran Teatro Principal
@@ -390,6 +418,9 @@ Hay dos opciones: **dentro del recinto** (vistas a la cascada y al río, atmósf
 * [Tuwang Palace · Eight Halls](https://www.trip.com/t/LMlRvsdn5X2) — unos 389 CNY (USD 58, EUR 50). No nos quedamos. Vistas a la cascada desde el hotel, en plena zona central del recinto.
 * [Huayangnianhua Inn](https://www.trip.com/t/ii1qL2Yn5X2) — unos 436 CNY (USD 65, EUR 57). No nos quedamos. Dentro del recinto, cerca de la cascada y con vista al río.
 * [Furong Town and Slow Yueshe (Lotus Pool Shop)](https://www.trip.com/t/L9Tw7txo5X2) — unos 107 CNY (USD 16, EUR 14). No nos quedamos. A 7 minutos fuera del pueblo antiguo: más tranquilidad y lindas vistas desde el balcón.
+
+
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/furongzhen-jianghu-vista-ventana.webp" alt="La vista desde nuestra habitación en Jianghu, en Furongzhen" width="1080" height="1920" loading="lazy"><span class="img-caption">La vista desde nuestra habitación en Jianghu, en Furongzhen</span></div>
 
 
 > 🧡 *Algunos de los enlaces de esta guía son de afiliados: si reservás por ellos recibimos una pequeña comisión, sin costo extra para vos.*
