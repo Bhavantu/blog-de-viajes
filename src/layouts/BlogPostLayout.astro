@@ -399,6 +399,15 @@ const latestPosts = allPosts.slice(0, 3);
   .text-column :global(h2) { font-family: var(--font-display, 'Georgia', serif); font-size: 2rem; font-weight: normal; color: #1a202c; margin-top: 3.5rem; margin-bottom: 1.2rem; }
   .text-column :global(h3) { font-family: var(--font-main, sans-serif); font-size: 1.35rem; font-weight: 700; color: #2d3748; margin-top: 2.8rem; margin-bottom: 1rem; }
   .text-column :global(img) { width: 100%; height: auto !important; border-radius: 8px !important; margin-bottom: 1.5rem !important; display: block; }
+  /* Tamaños de las fotos en pantallas grandes. En celulares todas van a ancho completo (ver el @media de abajo). */
+  .text-column :global(.post-img-box) { margin: 2rem auto; }
+  .text-column :global(.post-img-box.img-mediano) { max-width: 66%; }
+  .text-column :global(.post-img-box.img-pequeño) { max-width: 45%; }
+  .text-column :global(.post-img-box.img-izquierda) { margin-left: 0; }
+  .text-column :global(.post-img-box.img-derecha) { margin-right: 0; }
+  /* Dos fotos lado a lado: <div class="post-img-par"> con dos bloques post-img-box adentro */
+  .text-column :global(.post-img-par) { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; align-items: start; margin: 2rem 0; }
+  .text-column :global(.post-img-par .post-img-box) { max-width: none; margin: 0; }
 
   /* GALERÍA: excepción intencional, ocupa todo el ancho de la columna (no los 720px) */
   .article-view ul:has(img) { display: flex !important; gap: 1.5rem !important; list-style: none !important; padding: 0 !important; margin: 2.5rem 0 !important; max-width: 100% !important; }
@@ -741,6 +750,8 @@ const latestPosts = allPosts.slice(0, 3);
           left: 0 !important;
           transform: none !important;
       }
+
+      .text-column :global(.post-img-par) { display: block !important; }
 
       .text-column :global(.img-caption) {
           display: block !important;
