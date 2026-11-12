@@ -42,7 +42,7 @@ Existen tres puertos principales en Bali para cruzar en *fast boat*:
 * **Por qué NO recomendamos ir por el día:** Las lanchas rápidas desembarcan masivamente entre las 9:30 AM y 10:30 AM. Durante ese rango y hasta las 15:30 PM, los puntos icónicos como Kelingking Beach sufren atascos de tráfico y miradores colapsados.
 * **La ventaja de quedarse a dormir:** Podés visitar las atracciones principales a contra horario (a primera hora de la mañana o al atardecer) y disfrutar del ritmo auténtico de los pueblos locales en la costa este.
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/ceremonia.webp" alt="Imagen de bitácora"><span class="img-caption">Ceremonia en un pueblo de la costa este</span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/ceremonia.webp" alt="Ceremonia en un pueblo de la costa este" width="1920" height="3413" loading="lazy"><span class="img-caption">Ceremonia en un pueblo de la costa este</span></div>
 
 - - -
 
@@ -68,9 +68,9 @@ Elegir bien la zona de tu hotel es crucial debido a las distancias de la isla:
 * **Mejor horario:** A partir de las 16:00 PM (menor tráfico y mejor luz).
 * **La experiencia:** Es la postal icónica de la isla. El descenso hacia la playa es exigente (30 minutos por una escalera de rocas empinada). Se recomienda hacer la caminata fuera de las horas de calor intenso.
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/kelingking-beach22.webp" alt="Imagen de bitácora"><span class="img-caption">Vista superior de Kelingking Beach</span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/kelingking-beach22.webp" alt="Vista superior de Kelingking Beach" width="1280" height="1920" loading="lazy"><span class="img-caption">Vista superior de Kelingking Beach</span></div>
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/kelingking-beach3.webp" alt="Imagen de bitácora"><span class="img-caption">Descenso a la playa en Kelingking</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/kelingking-beach3.webp" alt="Descenso a la playa en Kelingking" width="1920" height="1280" loading="lazy"><span class="img-caption">Descenso a la playa en Kelingking</span></div>
 
 #### 2. Broken Beach (Pasih Uug) y Angel's Billabong
 
@@ -78,7 +78,7 @@ Elegir bien la zona de tu hotel es crucial debido a las distancias de la isla:
 * **Mejor horario:** Entre las 7:30 AM y 8:30 AM.
 * **La experiencia:** Un impresionante arco marino de roca natural y una piscina volcánica adyacente. Es un punto muy fotogénico que se llena a partir de las 10:00 AM. No está permitido el baño.
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/broken-beach-en-indonesia-nusa-penida.webp" alt="Imagen de bitácora"><span class="img-caption">Broken Beach, Nusa Penida</span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/broken-beach-en-indonesia-nusa-penida.webp" alt="Broken Beach, Nusa Penida" width="1920" height="2184" loading="lazy"><span class="img-caption">Broken Beach, Nusa Penida</span></div>
 
 #### 3. Crystal Bay
 
@@ -96,7 +96,7 @@ Elegir bien la zona de tu hotel es crucial debido a las distancias de la isla:
 * **Mejor horario:** De 7:00 AM a 11:00 AM o desde las 15:30 PM.
 * **La experiencia:** Diamond Beach impresiona con sus acantilados blancos y aguas turquesas (mar no apto para baño debido al fuerte oleaje). Justo al lado, Atuh Beach ofrece un ambiente sereno con *warungs* locales, sombrillas y aguas más calmas.
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/diamond-beach-nusa-penida-bali-indonesia-.webp" alt="Imagen de bitácora"><span class="img-caption">Diamond Beach, Costa Este de Nusa Penida</span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/diamond-beach-nusa-penida-bali-indonesia-.webp" alt="Diamond Beach, Costa Este de Nusa Penida" width="1920" height="3413" loading="lazy"><span class="img-caption">Diamond Beach, Costa Este de Nusa Penida</span></div>
 
 - - -
 

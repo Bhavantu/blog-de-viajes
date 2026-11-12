@@ -19,7 +19,7 @@ Local belief says these three pagodas are neither a mere tourist attraction nor 
 
 In Sino-Vietnamese, Linh Ứng translates as "miraculous responses to prayers." In this guide we explore the spiritual roots, the history, the facts and the mystique behind each sanctuary.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/marble-mountains-statue-2.webp" alt="Imagen de bitácora"><span class="img-caption">Statue at Linh Ung Non Nuoc (Marble Mountains)</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/marble-mountains-statue-2.webp" alt="Statue at Linh Ung Non Nuoc (Marble Mountains)" width="1920" height="1280" loading="lazy"><span class="img-caption">Statue at Linh Ung Non Nuoc (Marble Mountains)</span></div>
 
 ## The Legend of the Protective Triangle: Why Are There 3 Linh Ung Pagodas?
 
@@ -37,13 +37,13 @@ Da Nang has historically been one of the coastal areas of central Vietnam most e
 
 The first pagoda, Linh Ung Non Nuoc, was founded in 1825 by King Minh Mang in the Marble Mountains, Thuy Son. In that period of maritime expansion, the monarch sought to consecrate the land and ask for protection for the kingdom. After it was built, the area went through decades of fishing prosperity, planting the first seed of the Linh Ung myth.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/marble-mountains-buda-statue-cave-2.webp" alt="Imagen de bitácora"><span class="img-caption">Buddha carved in stone in the Marble Mountains, Huyen Khong Cave (Thuy Son mountain)</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/marble-mountains-buda-statue-cave-2.webp" alt="Buddha carved in stone in the Marble Mountains, Huyen Khong Cave (Thuy Son mountain)" width="1920" height="1280" loading="lazy"><span class="img-caption">Buddha carved in stone in the Marble Mountains, Huyen Khong Cave (Thuy Son mountain)</span></div>
 
 ## 2. Balance on the heights (Mountain / West)
 
 At the beginning of the 21st century, as part of the transformation of Da Nang and the revival of Buddhist worship, the second pagoda, Linh Ung Ba Na, was built almost 1,500 meters above sea level. According to the principles of Phong Thủy, placing a temple on the highest peak of the Annamite Mountains made it possible to anchor the mountain's protective energy and balance the forces between earth and sky.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/ba-na-hills-buda-front.webp" alt="Imagen de bitácora"><span class="img-caption"> Giant Buddha at Ba Na Hills, Linh Ung Bà Nà</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/ba-na-hills-buda-front.webp" alt="Giant Buddha at Ba Na Hills, Linh Ung Bà Nà" width="1920" height="1280" loading="lazy"><span class="img-caption"> Giant Buddha at Ba Na Hills, Linh Ung Bà Nà</span></div>
 
 ## 3. The shield facing the ocean (Sea / East)
 
@@ -51,7 +51,7 @@ The last vertex is the most recent and the most symbolic. Legend says that a sma
 
 In the 2000s, driven by the community and led by the monk Thich Thien Nguyen, construction of Linh Ung Bai But began, crowned in 2010 by the colossal 67-meter statue of Lady Buddha (Quan Am), deliberately facing the bay to watch over sailors and calm the waters.
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/lady-buda-pagoda-en-peninsula-son-tra.webp" alt="Imagen de bitácora"><span class="img-caption">Lady Buddha, Quan Am, Son Tra Peninsula </span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/lady-buda-pagoda-en-peninsula-son-tra.webp" alt="Lady Buddha, Quan Am, Son Tra Peninsula" width="1329" height="2322" loading="lazy"><span class="img-caption">Lady Buddha, Quan Am, Son Tra Peninsula </span></div>
 
 ## What Does the Data Say About Typhoons?
 
@@ -84,7 +84,7 @@ It is the oldest and most historically significant of the triangle. Founded in 1
 * **How to get there:** 15 minutes south of Da Nang, on the way to Hoi An.
 * **Tip:** Wear closed shoes or secured sandals, since the marble stairs are slippery.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/montañas-de-marmol-panoramica.webp" alt="Imagen de bitácora"><span class="img-caption">The Marble Mountains in Da Nang, seen from above</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/montañas-de-marmol-panoramica.webp" alt="The Marble Mountains in Da Nang, seen from above" width="1920" height="1024" loading="lazy"><span class="img-caption">The Marble Mountains in Da Nang, seen from above</span></div>
 
 ### 3. Linh Ung Bà Nà (Ba Na Hills) – The Sanctuary Among the Clouds
 
@@ -96,7 +96,7 @@ Located 1,500 meters above sea level, its great visual attraction is the 27-mete
 * **How to get there:** Ba Na Hills cable car system.
 * **Best time:** 08:00 AM to 10:00 AM to avoid crowds.
 
-  <div class="post-img-box img-completo img-centro"><img src="/img/diario/ba-na-hills-hands.webp" alt="Imagen de bitácora"><span class="img-caption">Golden Bridge at Ba Na Hills</span></div>
+  <div class="post-img-box img-completo img-centro"><img src="/img/diario/ba-na-hills-hands.webp" alt="Golden Bridge at Ba Na Hills" width="1920" height="1280" loading="lazy"><span class="img-caption">Golden Bridge at Ba Na Hills</span></div>
 
 ## How to Plan Your Visit: Itinerary
 
@@ -116,8 +116,8 @@ Although they are tourist attractions, remember that they are places of active w
 
 🎒 Thinking of settling in Da Nang for a while? If you're going to work remotely, don't miss our article on [What's It Like to Live as a Digital Nomad in Vietnam? Cost of Living in Da Nang.](/en/journal/digital-nomad-da-nang-cost-of-living/) And if you're just starting to plan your trip, stay tuned for our upcoming Complete Guide to Da Nang.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/marble-mountains-dragon-sculpted-wall.webp" alt="Imagen de bitácora"><span class="img-caption"> a carved stone relief, located in the Marble Mountains area (Ngũ Hành Sơn)</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/marble-mountains-dragon-sculpted-wall.webp" alt="a carved stone relief, located in the Marble Mountains area (Ngũ Hành Sơn)" width="1920" height="1280" loading="lazy"><span class="img-caption"> a carved stone relief, located in the Marble Mountains area (Ngũ Hành Sơn)</span></div>
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/marble-mountains-temple-statue-cave-praying.webp" alt="Imagen de bitácora"><span class="img-caption">Marble caves, sacred altars at Linh Ung Non Nuoc.</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/marble-mountains-temple-statue-cave-praying.webp" alt="Marble caves, sacred altars at Linh Ung Non Nuoc." width="1920" height="1280" loading="lazy"><span class="img-caption">Marble caves, sacred altars at Linh Ung Non Nuoc.</span></div>
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/lady-buda.webp" alt="Imagen de bitácora"><span class="img-caption">Linh Ung Pagoda, Lady Buddha on the Son Tra peninsula (Da Nang), Main Hall (Chính điện or Main Hall)</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/lady-buda.webp" alt="Linh Ung Pagoda, Lady Buddha on the Son Tra peninsula (Da Nang), Main Hall (Chính điện or Main Hall)" width="1920" height="1080" loading="lazy"><span class="img-caption">Linh Ung Pagoda, Lady Buddha on the Son Tra peninsula (Da Nang), Main Hall (Chính điện or Main Hall)</span></div>

@@ -46,7 +46,7 @@ Something we heard from other travelers: in June there is a clear trend of peopl
 
 Travel tip: if you want to work at a ski field, keep in mind that although they open in June, **searches and contracts usually close in March or April**.
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/mild-four-sound.webp" alt="Imagen de bitácora"><span class="img-caption">Milford Sound, a magical must on a New Zealand road trip </span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/mild-four-sound.webp" alt="Milford Sound, a magical must on a New Zealand road trip" width="1920" height="1440" loading="lazy"><span class="img-caption">Milford Sound, a magical must on a New Zealand road trip </span></div>
 
 ### 2. Dunedin: Victorian architecture and authentic local life
 
@@ -58,7 +58,7 @@ When we visited, we discovered its Victorian architecture in dark brick, its spe
 
 I don't want to leave out the small towns, villages and countryside areas, which offer other ways of living far from the cities. Maybe it's the kind of experience that just happens along the way, but there are many beautiful towns near the cities above with other kinds of job offers and accommodation options, whether outdoor jobs or in other fields. The possibilities are wide open for anyone who dares to dream of living in a mountain town.
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/alexandria.webp" alt="Imagen de bitácora"><span class="img-caption">Like beautiful Alexandria and its busy cherry and blueberry season </span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/alexandria.webp" alt="Like beautiful Alexandria and its busy cherry and blueberry season" width="1920" height="2560" loading="lazy"><span class="img-caption">Like beautiful Alexandria and its busy cherry and blueberry season </span></div>
 
 ## 4. My final decision: Living in Christchurch on a Working Holiday in 2026
 
@@ -72,4 +72,4 @@ The city is rebuilding after the major 2011 earthquake, so its infrastructure is
 
 If you want to know more about living in Christchurch in 2026, including how to find a place to live, apps to keep you informed about earthquakes, costs and the job search in New Zealand, I invite you to read the article [Living in Christchurch on a Working Holiday 2026: Costs, Work and a Real Guide](/en/journal/christchurch-working-holiday-jobs-costs/)
 
-<div class="post-img-box img-completo img-derecha"><img src="/img/diario/whatsapp-image-2026-06-01-at-18.44.19.webp" alt="Imagen de bitácora"><span class="img-caption">Christchurch: strolls through the city center and Sumner Beach</span></div>
+<div class="post-img-box img-completo img-derecha"><img src="/img/diario/whatsapp-image-2026-06-01-at-18.44.19.webp" alt="Christchurch: strolls through the city center and Sumner Beach" loading="lazy"><span class="img-caption">Christchurch: strolls through the city center and Sumner Beach</span></div>

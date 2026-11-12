@@ -30,7 +30,7 @@ La ciudad de Christchurch me esperaba para mostrarme el esplendor de su bello Ja
 
 La principal ventaja de vivir allí es que Christchurch es un verdadero lujo geográfico. Las colinas de Port Hills se pueden ver desde la ciudad y sus senderos para hacer *trails* están a solo veinte minutos de distancia, así como también dos diferentes playas a media hora. Los imponentes Alpes del Sur, así como la increíble zona de **[Arthur's Pass](/diario/parque-nacional-arthur-pass-nueva-zelanda-isla-sur/)** o algunos centros de esquí, están a solo dos horas en auto. Es el equilibrio perfecto entre la vida social urbana y escapadas constantes a la naturaleza.
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/ciudad-de-chrischurch-al-atardecer.webp" alt="Panorámica urbana de la ciudad de Christchurch y atardecer en Sumner Beach"><span class="img-caption">Ciudad de Christchurch: paseos urbanos y Sumner Beach</span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/ciudad-de-chrischurch-al-atardecer.webp" alt="Panorámica urbana de la ciudad de Christchurch y atardecer en Sumner Beach" width="1000" height="1500" loading="lazy"><span class="img-caption">Ciudad de Christchurch: paseos urbanos y Sumner Beach</span></div>
 
 - - -
 
@@ -109,7 +109,7 @@ La oferta es muy amplia y se actualiza constantemente; las dos herramientas que 
 
 Usé **Seek** (CV estilo local y alertas activas), otra opción es **Trade Me Jobs** (el buscador con ofertas variadas y locales) y **Backpackerboard**, la cual está bastante enfocada en trabajos temporales. Para una visión general de la oferta de horticultura, usé y recomiendo la web oficial de **pick.nz**.
 
-<div class="post-img-box img-pequeño img-izquierda"><img src="/img/diario/foto-chrischurch.webp" alt="Tranvía histórico recorriendo las calles del centro de Christchurch"><span class="img-caption">Christchurch Central</span></div>
+<div class="post-img-box img-pequeño img-izquierda"><img src="/img/diario/foto-chrischurch.webp" alt="Tranvía histórico recorriendo las calles del centro de Christchurch" width="1179" height="1897" loading="lazy"><span class="img-caption">Christchurch Central</span></div>
 
 - - -
 

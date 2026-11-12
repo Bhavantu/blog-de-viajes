@@ -34,7 +34,7 @@ Da Nang is an area of 1.2 million inhabitants, of whom 98% are locals. The area 
 
 ### The main areas:
 
-<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/playa-my-khe-beach-2.webp" alt="Imagen de bitácora"><span class="img-caption">My Khe Beach, Mỹ An neighborhood</span></div>
+<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/playa-my-khe-beach-2.webp" alt="My Khe Beach, Mỹ An neighborhood" width="1330" height="1682" loading="lazy"><span class="img-caption">My Khe Beach, Mỹ An neighborhood</span></div>
 
 * **An Thuong / Mỹ An (the nomad, coastal neighborhood):** It's steps from Mỹ Khê beach and full of cafés to work from, coworking spaces, bars and an international atmosphere.
 
@@ -45,7 +45,7 @@ Da Nang is an area of 1.2 million inhabitants, of whom 98% are locals. The area 
   * **Comfort option / equipped apartment:** [Lucky Apartment and Cafe](https://www.booking.com/hotel/vn/lucky-apartment-and-cafe-ngu-hanh-son.html) (ideal if you want your own kitchen from day 1).
 * **Hải Châu (the local center by the Hàn River):** An urban, quiet and more authentic area. Ideal for finding larger apartments at a lower price and enjoying a walk along the riverbank.
 
-  <div class="post-img-box img-completo img-centro"><img src="/img/diario/puente-del-dragon-lanzando-fuego-vietnam-da-nang.webp" alt="Imagen de bitácora"><span class="img-caption">Dragon Bridge breathing fire </span></div>
+  <div class="post-img-box img-completo img-centro"><img src="/img/diario/puente-del-dragon-lanzando-fuego-vietnam-da-nang.webp" alt="Dragon Bridge breathing fire" width="1600" height="887" loading="lazy"><span class="img-caption">Dragon Bridge breathing fire </span></div>
 
 ### Recommended places to stay in the center:
 
@@ -136,7 +136,7 @@ The budget covers the basics; you'd have to add things like entrance fees to tou
 
 ## Eating out and cafés
 
-<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/plato-tradicional-de-vietnam-pho-nam-vegetariano.webp" alt="Imagen de bitácora"><span class="img-caption">Traditional Vietnamese dish, pho nam (vegetarian option)</span></div>
+<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/plato-tradicional-de-vietnam-pho-nam-vegetariano.webp" alt="Traditional Vietnamese dish, pho nam (vegetarian option)" width="1330" height="2364" loading="lazy"><span class="img-caption">Traditional Vietnamese dish, pho nam (vegetarian option)</span></div>
 
 Da Nang has a giant food scene that suits every taste and interest. From traditional local food to vegan places, street markets, Western bars, Indian, Korean, Japanese and Chinese food, Italian pizzerias, whatever you want.
 

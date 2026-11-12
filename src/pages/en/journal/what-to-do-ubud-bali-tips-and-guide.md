@@ -40,7 +40,7 @@ Activities in Ubud are almost endless, and so are the drivers willing to show yo
 
 One of the must-dos for me was seeing the famous rice terraces Bali is known for. What pleasantly surprised me is that, just by leaving the center of Ubud, the plantations are everywhere, leaving the green, open landscape to watch the sunset or the stars with incredible views.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/dsc_0628.webp" alt="Imagen de bitácora"><span class="img-caption">Rice fields at Tegalalang Rice Terrace</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/dsc_0628.webp" alt="Rice fields at Tegalalang Rice Terrace" width="1920" height="1280" loading="lazy"><span class="img-caption">Rice fields at Tegalalang Rice Terrace</span></div>
 
 There are two large terraces, and one of them, Jatiluwih, is part of UNESCO heritage thanks to its irrigation system called **Subak**. This traditional water management system dates back to the 9th century and reflects the philosophy of *Tri Hita Karana*, which seeks harmony between the spirit realm, the human world and nature. It is ancestral agricultural engineering and represents a spiritual, cooperative practice that unites the whole community in caring for resources.
 
@@ -57,7 +57,7 @@ It is the most popular and touristy. Its views are just as beautiful. It is abou
 
 [You can book your visit with a guide and photos in the rice fields here](https://www.getyourguide.com/es-es/bali-l347/ubud-entrada-a-la-terraza-de-arroz-y-columpio-de-tegallalang-con-guia-t456886/?ranking_uuid=7604d510-5b5f-40f0-9755-6444cd1b50c4)
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/UBUD10.webp" alt="Imagen de bitácora"><span class="img-caption">Rice fields in Bali</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/UBUD10.webp" alt="Rice fields in Bali" width="1599" height="1066" loading="lazy"><span class="img-caption">Rice fields in Bali</span></div>
 
 ### Jatiluwih Rice Terrace (The UNESCO jewel)
 
@@ -73,7 +73,7 @@ This is the one farthest north and it is far less touristy. It is, in fact, a Cu
 
 ## 2. Waterfalls: A refuge from Ubud's heat
 
-<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/cascada-ulu-petanu-ubud.webp" alt="Imagen de bitácora"><span class="img-caption">Ulu Petanu waterfall - Ubud Bali</span></div>
+<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/cascada-ulu-petanu-ubud.webp" alt="Ulu Petanu waterfall - Ubud Bali" width="1920" height="2689" loading="lazy"><span class="img-caption">Ulu Petanu waterfall - Ubud Bali</span></div>
 
 There are plenty of waterfall options around Ubud and they're an excellent spot to cool off after a walk in the sun. The time you go is always a key factor regarding the number of tourists, but from my point of view they're always enjoyable. That said: although they usually have maintenance and access steps, keep in mind that after rain there's usually quite a bit of mud and slippery areas (not serious, just be careful).
 
@@ -87,7 +87,7 @@ Although there are dozens of options, here are the three that the locals we met 
 
 ## 3. Balinese cooking class at an organic farm: Our star experience in Ubud
 
-<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/clase-de-cocina-balinesa-en-granja-orgánica.webp" alt="Imagen de bitácora"><span class="img-caption">Vegetarian cooking class at an organic farm</span></div>
+<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/clase-de-cocina-balinesa-en-granja-orgánica.webp" alt="Vegetarian cooking class at an organic farm" width="1152" height="2048" loading="lazy"><span class="img-caption">Vegetarian cooking class at an organic farm</span></div>
 
 Without a doubt, one of the experiences we enjoyed most during our trip through Bali was taking a vegetarian Balinese cooking class at an organic farm. The activity was perfect from start to finish: they picked us up right in the center of Ubud and took us to the mountains in the north. When we arrived, the lush vegetation and the team welcomed us with an authentic *"Welcome to the jungle"*.
 
@@ -99,7 +99,7 @@ A super friendly local girl accompanied us throughout the class. We chose the af
 
 Doing a coffee tasting is a Bali classic. There are hundreds of local plantations where they invite you in, show you the traditional roasting and bean-processing method, and even treat you to a free tasting of flavored teas and coffees. It's nice to repay the hospitality by buying something in their shop or leaving a small contribution, but it's not "mandatory".
 
-<div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/muestra-de-te-y-café-ubud.webp" alt="Imagen de bitácora"><span class="img-caption">Tasting of local tea and coffee in Bali, Indonesia</span></div>
+<div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/muestra-de-te-y-café-ubud.webp" alt="Tasting of local tea and coffee in Bali, Indonesia" width="1920" height="1440" loading="lazy"><span class="img-caption">Tasting of local tea and coffee in Bali, Indonesia</span></div>
 
 Many of these plantations offer the famous "world's most expensive" coffee experience (*Kopi Luwak*). This coffee is extracted from beans that went through the digestive process of the *luwak* (the civet), a small mammal of the viverrid family that chooses the sweetest and ripest coffee cherries. As they pass through its intestinal tract and are excreted, enzymes modify the proteins in the bean, removing its bitterness. Collectors gather the beans by hand, clean them thoroughly and then roast them.
 
@@ -125,7 +125,7 @@ Temples are spectacular places and sacred to the local population, so there are 
 
 ## The Purification Ritual (Melukat)
 
-<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/ritual-espiritual.webp" alt="Imagen de bitácora"><span class="img-caption">Balinese purification ritual in sacred pools, Ubud</span></div>
+<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/ritual-espiritual.webp" alt="Balinese purification ritual in sacred pools, Ubud" width="922" height="1600" loading="lazy"><span class="img-caption">Balinese purification ritual in sacred pools, Ubud</span></div>
 
 Many of the temples are centered on purification through water, a sacred healing ritual performed in different pools with fountains according to the spiritual purpose of each water spout.
 
@@ -156,7 +156,7 @@ Both are performed at sacred temples: the [women's dance *Legong*](https://www.g
 
 This time, [we chose the famous **Kecak Dance**](https://www.getyourguide.com/ubud-l32246/bali-entradas-para-el-espectaculo-de-danzas-kecak-y-del-fuego-de-ubud-t761650/?ranking_uuid=a25889a5-e5aa-4cf1-bb86-4ca8e92b23a2&q=ubud+Danza+Kecak%3A+la+danza+del+fuego&adults=1), an impressive cultural show with **more than 70 actors on stage**.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/UBUD2.webp" alt="Imagen de bitácora"><span class="img-caption">Kecak dance: the fire dance night show at a temple in Ubud</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/UBUD2.webp" alt="Kecak dance: the fire dance night show at a temple in Ubud" width="1599" height="1066" loading="lazy"><span class="img-caption">Kecak dance: the fire dance night show at a temple in Ubud</span></div>
 
 ## [Kecak Dance: the fire dance](https://www.getyourguide.com/ubud-l32246/bali-entradas-para-el-espectaculo-de-danzas-kecak-y-del-fuego-de-ubud-t761650/?ranking_uuid=a25889a5-e5aa-4cf1-bb86-4ca8e92b23a2&q=ubud+Danza+Kecak%3A+la+danza+del+fuego&adults=1)
 
@@ -172,7 +172,7 @@ At the beginning, the dance narrates a fragment of the Hindu epic the *Ramayana*
 
 Located at the end of the busy Monkey Forest Road, this sacred forest is an ecological and spiritual reserve managed by the local community of Padangtegal. 
 
-<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/UBUD30.webp" alt="Imagen de bitácora"><span class="img-caption">Monkey with her babies in the Monkey Forest of Ubud, Bali</span></div>
+<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/UBUD30.webp" alt="Monkey with her babies in the Monkey Forest of Ubud, Bali" width="1599" height="1066" loading="lazy"><span class="img-caption">Monkey with her babies in the Monkey Forest of Ubud, Bali</span></div>
 
 This sanctuary is governed by the concept of *Tri Hita Karana* (harmony between humans, nature and God), safeguarding three active sacred temples from the 14th century which can be seen from outside but not entered. It's a flat route, easy to walk, an interesting local experience open to all ages. In addition, the path has quite a few trees so the heat isn't terrible, making it a more enjoyable experience.
 
@@ -187,7 +187,7 @@ This sanctuary is governed by the concept of *Tri Hita Karana* (harmony between 
 * Do not stare them in the eyes: in their body language, direct eye contact is a sign of aggression.
 * Do not hide food in your backpack and be careful with personal items such as glasses or shiny objects, as they are very curious and trusting. 
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/UBUD26.webp" alt="Imagen de bitácora"><span class="img-caption">Sacred Monkey Forest Sanctuary</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/UBUD26.webp" alt="Sacred Monkey Forest Sanctuary" width="1599" height="1066" loading="lazy"><span class="img-caption">Sacred Monkey Forest Sanctuary</span></div>
 
 The famous "Selfie with the monkey": the famous photo where it looks like the monkey is holding the phone. You have to buy a photo voucher inside (spots are limited per session) and they take care of guiding the animal safely using small pieces of fruit; it is done only under the supervision of the reserve's trained staff and is very funny to watch.
 
@@ -197,7 +197,7 @@ The famous "Selfie with the monkey": the famous photo where it looks like the mo
 
 ## 8. Ubud Palace (Puri Saren Agung)
 
-<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/palacio-real-ubud-bali.webp" alt="Imagen de bitácora"><span class="img-caption">Ubud Royal Palace during the day</span></div>
+<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/palacio-real-ubud-bali.webp" alt="Ubud Royal Palace during the day" width="1920" height="2560" loading="lazy"><span class="img-caption">Ubud Royal Palace during the day</span></div>
 
 Located on the corner of Jalan Raya Ubud and Jalan Monkey Forest, opposite the traditional art market, Ubud Palace is the geographic and historical epicenter of the city. Built during the reign of Ida Tjokorda Putu Kandel (1800-1823), it still serves as the official residence of Ubud's royal family, so only its public outer courtyard and its intricate stone-carved portals decorated with gold leaf can be toured.
 

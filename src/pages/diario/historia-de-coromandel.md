@@ -21,7 +21,7 @@ En el siguiente artículo compartiremos un poco sobre su historia dividida en la
 
 Para los maoríes, este lugar es sagrado. Originalmente se conoce como *Te Tara-o-te-Ika-a-Māui*, o «la púa o espina del pez de Māui». En su cosmología, la Isla Norte es un gran pez capturado por el semidiós Māui, y Coromandel representa esa espina dorsal. 
 
-<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/whatsapp-image-2026-06-26-at-17.09.58.webp" alt="Imagen de bitácora"><span class="img-caption"> Kina (erizos de mar), alimento maorí, Nueva Zelanda</span></div>
+<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/whatsapp-image-2026-06-26-at-17.09.58.webp" alt="Kina (erizos de mar), alimento maorí, Nueva Zelanda" width="828" height="1261" loading="lazy"><span class="img-caption"> Kina (erizos de mar), alimento maorí, Nueva Zelanda</span></div>
 
 Durante más de 1000 años, tribus como *Te Patukirikiri* y *Ngāti Maru* habitaron la región de Hauraki. Era, literalmente, un paraíso autosustentable; la llamaban *"Ko Manaia, he pataka kai"* («Manaia, el almacén de comida»), por la abundancia de mariscos y tierras fértiles. 
 
@@ -59,7 +59,7 @@ También se comenzó a extraer cuarzo en **1862**. A diferencia del oro de río 
 
 A principios del siglo XX, tanto las minas de oro como las reservas de kauri comenzaron a agotarse. La península se sumió en el silencio, dedicándose temporalmente a la ganadería y la pesca.
 
-<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/whatsapp-image-2026-06-26-at-16.52.34-1-.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/whatsapp-image-2026-06-26-at-16.52.34-1-.webp" alt="" width="1158" height="2048" loading="lazy"><span class="img-caption"></span></div>
 
 En la década de 1970, la herida ecológica comenzó a sanar gracias a fuertes movimientos de conservación y la zona empezó a atraer a artesanos, alfareros y personas que buscaban un estilo de vida alternativo y en calma, dando origen al ambiente bohemio y relajado que caracteriza a la Península de Coromandel hoy en día.
 
@@ -76,4 +76,4 @@ En la década de 1970, la herida ecológica comenzó a sanar gracias a fuertes m
 * **Whitianga:** Está sobre *Mercury Bay* y es un gran punto de partida para recorrer las playas famosas como *Cathedral Cove* o *Hot Water Beach*. 
 * **Whangamata:** esta fue nuestra elección y lo conocimos como un pueblo relajado en el que nuestra querida amiga local solía venir a vacacionar con su familia durante los veranos en Nueva Zelanda. El pueblo es hermoso y la playa tiene atardeceres increíbles también.
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/0d27c22d-8ac1-41d7-8b29-3d69cad7e9ba.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/0d27c22d-8ac1-41d7-8b29-3d69cad7e9ba.webp" alt="" width="1920" height="2560" loading="lazy"><span class="img-caption"></span></div>

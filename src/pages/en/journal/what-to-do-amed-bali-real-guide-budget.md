@@ -29,7 +29,7 @@ For those of us who want to inhabit Bali, being in Amed means staying close to t
 
 There are no big shopping malls or highways. It's a corner for people who want to be present. For us it was a constant source of inspiration for writing, drawing and remote work, a place to slow down.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/amanecer-en-la-playa-de-amed.webp" alt="Imagen de bitácora"><span class="img-caption">Sunrise on the beach in Amed (Amed Beach)</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/amanecer-en-la-playa-de-amed.webp" alt="Sunrise on the beach in Amed (Amed Beach)" width="1600" height="1066" loading="lazy"><span class="img-caption">Sunrise on the beach in Amed (Amed Beach)</span></div>
 
 That said, let's be honest, Amed is not a well-kept secret. Tourism is part of the landscape and commercial offers are everywhere: there are specialty coffee shops, resort hotels and foreign-owned dive schools, but it all coexists with the rhythm of the village in a pretty friendly way. Amed is a strategic middle ground between "slow travel" and being close to tourist highlights such as ancient temples, historic palaces or paradise beaches like Virgin Beach. In my view, it's an ideal balance for staying in Bali.
 
@@ -45,7 +45,7 @@ It also fits every budget, with pretty spectacular beachfront stays for every po
 
 One of the first things we saw on our first morning in Amed was the sea dotted with colorful sails. They're *jukungs*, wooden canoes stabilized by two bamboo outriggers that local fishermen have used for generations. During the tourist season they also use them for snorkeling trips, fishing or sunset rides.
 
-<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/jukunkgs.webp" alt="Imagen de bitácora"><span class="img-caption">Jukungs on the beach in Amed</span></div>
+<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/jukunkgs.webp" alt="Jukungs on the beach in Amed" width="1920" height="2429" loading="lazy"><span class="img-caption">Jukungs on the beach in Amed</span></div>
 
 Ketut (a local fisherman and guide) told us that people who lose their jobs often choose to buy a *jukung* and fish for a living. By mid-morning the boats are parked on the shore; their owners carefully clean the engines and haul them up with ropes to put them in place, although we've also seen them carry the boats on their own shoulders to keep them safe from the tide.
 
@@ -122,7 +122,7 @@ It's a group of mountain viewpoints with truly incredible views. The access road
 
 * **Entrance fee:** IDR 50,000 (about USD 3). Includes parking and the truck that takes you up to the top.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/lahangan-sweet spot-2.webp" alt="Imagen de bitácora"><span class="img-caption">Lahangan Sweet at sunset</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/lahangan-sweet spot-2.webp" alt="Lahangan Sweet at sunset" width="1920" height="1280" loading="lazy"><span class="img-caption">Lahangan Sweet at sunset</span></div>
 
 ### **Pura Lempuyang (The Gates of Heaven)**
 
@@ -134,7 +134,7 @@ If you keep climbing, you'll find a completely different experience: other templ
 
 This palace is a complex of beautiful pools and historic bridges known as Taman Ujung. It's in the village of Tumbu, and honestly it was a real gem that surprised us. It turns out it was built in 1909 by the king of Karangasem, Anak Agung Anglurah, in an amazing blend of Balinese, European and Chinese architecture. Today it works as a tourist site, very well kept and maintained. Admission costs 100,000 IDR (about USD 6), and you can combine it with the next two stops on the same day.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/taman-ujung-full-view.webp" alt="Imagen de bitácora"><span class="img-caption">Taman Ujung water palace, Bali</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/taman-ujung-full-view.webp" alt="Taman Ujung water palace, Bali" width="1920" height="1280" loading="lazy"><span class="img-caption">Taman Ujung water palace, Bali</span></div>
 
 ### **Tirta Gangga: the royal water palace**
 
@@ -145,7 +145,7 @@ A former royal palace surrounded by Balinese gardens and pools decorated with tr
 
 ### **Virgin Beach**
 
-<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/virgin-beach.webp" alt="Imagen de bitácora"><span class="img-caption">Virgin Beach</span></div>
+<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/virgin-beach.webp" alt="Virgin Beach" width="768" height="1364" loading="lazy"><span class="img-caption">Virgin Beach</span></div>
 
 The most epic beach on the island: white sand, turquoise water, paradise itself. Entry costs 20,000 IDR (approx. USD 1.11) and includes parking. From the morning until around 3 pm the water is an incredible turquoise; the surrounding area has palm trees and grass with some shade, and in the afternoon it fills up with local people quietly enjoying the scenery. On the beach there are warungs and stands renting sun loungers with umbrellas so you can spend the day (100,000 IDR, about USD 6).
 
@@ -178,7 +178,7 @@ Mount Agung is the highest point on the island and the most sacred volcano for t
 
 Sunset in Amed is a daily ritual. Since it's on the east coast, the sun sets behind the outline of Mount Agung, leaving you with unforgettable views. Here are three places where you can have a drink and watch the sunset. PS: the beach is always a good plan.
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/atardecer-amed-beach-vistas-al-mont-batur-.webp" alt="Imagen de bitácora"><span class="img-caption">Sunset on the beach in Amed (Amed Beach)</span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/atardecer-amed-beach-vistas-al-mont-batur-.webp" alt="Sunset on the beach in Amed (Amed Beach)" width="1920" height="1440" loading="lazy"><span class="img-caption">Sunset on the beach in Amed (Amed Beach)</span></div>
 
 * **Amed Beach (the local, free option):** keep it simple and sit on the rocks or the black sand. With the sound of the waves, the silhouette of the mountain and the sun setting right behind it, it's a free show.
 * **Beach bars:** a great plan that includes a fresh natural juice or something to drink for approximately 30,000 IDR (around 1.67 USD / 1.46 €), with live music in many places and beanbags on the sand facing the sea.

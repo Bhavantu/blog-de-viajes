@@ -53,7 +53,7 @@ Si podés elegir, te recomendamos marzo a mayo u octubre y noviembre. Llevá rop
 
 El Pueblo de las Etnias de Yunnan (Yunnan Ethnic Village) ocupa 89 hectáreas junto al lago Dianchi, en el suroeste de la ciudad, y reúne la arquitectura, los trajes y las tradiciones de 25 grupos étnicos. Se inauguró en 1992 y cada aldea muestra casas a escala real, comidas, rituales y celebraciones de su comunidad, con espectáculos de música y danza incluidos en la entrada.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/parque-de-las-etnias-yunnan.webp" alt="Imagen de bitácora"><span class="img-caption">Parque de las Etnias de Yunnan</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/parque-de-las-etnias-yunnan.webp" alt="Parque de las Etnias de Yunnan" width="1312" height="876" loading="lazy"><span class="img-caption">Parque de las Etnias de Yunnan</span></div>
 
 Igual, siendo honestos: es un recinto pensado para visitantes y no la vida real de esas comunidades. Lo tomamos como una primera toma de contacto y, como tal, nos pareció un acercamiento interesante a las culturas de la provincia. Los shows dentro del parque son muy entretenidos y, en general, terminan invitando al público a bailar en una gran ronda.
 
@@ -70,7 +70,7 @@ Una anécdota aparte: había muchos puestitos, dentro y fuera del Pueblo de las 
 
 ### 2. Parque del Lago Verde, Cuihu (un parque residencial)
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/green-lake-park.webp" alt="Imagen de bitácora"><span class="img-caption">Parque del Lago Verde (Cuihu), en el centro de Kunming</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/green-lake-park.webp" alt="Parque del Lago Verde (Cuihu), en el centro de Kunming" width="1080" height="1920" loading="lazy"><span class="img-caption">Parque del Lago Verde (Cuihu), en el centro de Kunming</span></div>
 
 El Parque del Lago Verde (翠湖, Cuìhú) está en pleno centro y los locales lo llaman la “joya de Kunming”. Son cuatro pequeños lagos unidos por puentes de estilo tradicional, rodeados por una calle con restaurantes y casas de té. Cerca están la Universidad de Yunnan y el Templo Yuantong. Lo que más nos gustó es que es un parque donde también te encontrás con la gente que vive ahí: hay casas de té alrededor, sombra para caminar y muchas personas sacándose fotos con los trajes típicos de las etnias han o tujia. Nosotros lo combinamos al terminar la visita al templo: recorrimos el parque y después decidimos tomar algo en una casa de té frente al parque.
 
@@ -83,7 +83,7 @@ El Parque del Lago Verde (翠湖, Cuìhú) está en pleno centro y los locales l
 
 Es el templo budista más antiguo y grande de la ciudad, destacado por su estanque central y su arquitectura rodeada de vegetación. Es uno de los centros budistas más antiguos e importantes de Yunnan, con más de 1200 años de historia. En este templo conviven tres grandes escuelas del budismo.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/yuantong-templo-budista.webp" alt="Imagen de bitácora"><span class="img-caption">Templo Yuantong en Kunming</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/yuantong-templo-budista.webp" alt="Templo Yuantong en Kunming" width="1080" height="1920" loading="lazy"><span class="img-caption">Templo Yuantong en Kunming</span></div>
 
 Su línea principal es el Mahāyāna chino, dedicado principalmente a Guanyin (la diosa de la compasión), en el que se destacan sus altares de incienso y su estanque central. Al mismo tiempo convive con el Theravada, presente en un pabellón de estilo tailandés con una estatua de bronce de Buda regalada por Tailandia, y con el Vajrayana tibetano, que aporta sus detalles tántricos y la esencia visual de las zonas montañosas de la región. Una mezcla única que resume la riqueza cultural de Yunnan.
 
@@ -100,7 +100,7 @@ Yunnan es tierra de té y el pu’er, famoso en toda China, nace en esta provinc
 
 Uno de los puntos más populares de Kunming es el mercado de flores frescas de Dounan, considerado el más grande de Asia: un espectáculo de colores donde se comercializan millones de flores cada día. Alrededor de las 7 de la tarde comienzan los descuentos y la gente se acerca a comprar y a pasear por los pasillos repletos de orquídeas y rosas, a precios muy económicos. 
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/mercado-de-flores-de-dounan-kunming.webp" alt="Imagen de bitácora"><span class="img-caption">Mercado de flores de Dounan, el mercado de flores más grande de Asia</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/mercado-de-flores-de-dounan-kunming.webp" alt="Mercado de flores de Dounan, el mercado de flores más grande de Asia" width="1600" height="1068" loading="lazy"><span class="img-caption">Mercado de flores de Dounan, el mercado de flores más grande de Asia</span></div>
 
 Tanto para conocerlo como para dar un paseo es una experiencia interesante, y en la zona aledaña también hay una feria donde podés sacarte fotos con las clásicas coronas de flores. Además, si tu visita coincide con los meses de invierno, podés acercarte a la orilla del cercano lago Dianchi, donde es tradición recibir a las gaviotas de pico rojo que migran cada año.
 Cómo llegar: queda en el distrito de Chenggong, a unos 18 km del centro. Se puede ir en metro (las estaciones más cercanas son Dounan y Jingui Street) o en DiDi, a unos 40 minutos del centro. Armá el recorrido en Amap o Baidu Maps antes de salir.

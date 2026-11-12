@@ -41,7 +41,7 @@ Las actividades en Ubud son casi infinitas, y los conductores dispuestos a mostr
 
 Uno de los infaltables para mí era conocer las famosas plantaciones de arroz en terrazas por las cuales es famosa Bali. Lo que me sorprendió gratamente es que, con solo salir del centro de Ubud, las plantaciones se encuentran por todas partes, dejando el panorama verde y despejado para ver el atardecer o las estrellas con vistas increíbles.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/dsc_0628.webp" alt="Imagen de bitácora"><span class="img-caption">Campos de arroz Tegalalang Rice Terrace</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/dsc_0628.webp" alt="Campos de arroz Tegalalang Rice Terrace" width="1920" height="1280" loading="lazy"><span class="img-caption">Campos de arroz Tegalalang Rice Terrace</span></div>
 
 Existen dos grandes terrazas, y una de ellas, Jatiluwih, forma parte del patrimonio de la UNESCO gracias a su sistema de riego llamado **Subak**. Este sistema tradicional de gestión del agua data del siglo IX y refleja la filosofía del *Tri Hita Karana*, que busca la armonía entre el reino de los espíritus, el mundo humano y la naturaleza. Es ingeniería agrícola ancestral y representa una práctica espiritual y cooperativa que une a toda la comunidad en el cuidado de los recursos.
 
@@ -58,7 +58,7 @@ Es la más popular y turística. Sus vistas son igualmente hermosas. Se encuentr
 
 [Podés reservar tu visita con guía y fotos en los arrozales aquí](https://www.getyourguide.com/es-es/bali-l347/ubud-entrada-a-la-terraza-de-arroz-y-columpio-de-tegallalang-con-guia-t456886/?ranking_uuid=7604d510-5b5f-40f0-9755-6444cd1b50c4)
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/UBUD10.webp" alt="Imagen de bitácora"><span class="img-caption">Arrozales en Bali</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/UBUD10.webp" alt="Arrozales en Bali" width="1599" height="1066" loading="lazy"><span class="img-caption">Arrozales en Bali</span></div>
 
 ### Jatiluwih Rice Terrace (La joya de la UNESCO)
 
@@ -74,7 +74,7 @@ Esta es la que está más hacia el norte y es muchísimo menos turística. Es, d
 
 ## 2. Cascadas: El refugio para el calor de Ubud
 
-<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/cascada-ulu-petanu-ubud.webp" alt="Imagen de bitácora"><span class="img-caption">Ulu Petanu waterfall - Ubud Bali</span></div>
+<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/cascada-ulu-petanu-ubud.webp" alt="Ulu Petanu waterfall - Ubud Bali" width="1920" height="2689" loading="lazy"><span class="img-caption">Ulu Petanu waterfall - Ubud Bali</span></div>
 
 Hay muchísimas opciones de cascadas en los alrededores de Ubud y son un excelente punto para refrescarse después de una caminata bajo el sol. La hora en que vayas es siempre un factor clave en relación a la cantidad de turistas, pero desde mi punto de vista son siempre disfrutables. Eso sí: aunque suelen tener mantenimiento y escalones de acceso, tené en cuenta que después de la lluvia suele haber bastante barro y zonas resbaladizas (no es grave, solo precaución).
 
@@ -88,7 +88,7 @@ Aunque hay decenas de opciones, acá te dejamos las tres que más nos recomendar
 
 ## 3. Taller de cocina balinesa en una granja ecológica: Nuestra experiencia estrella en Ubud
 
-<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/clase-de-cocina-balinesa-en-granja-orgánica.webp" alt="Imagen de bitácora"><span class="img-caption">Taller de cocina vegetariana en granja ecológica</span></div>
+<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/clase-de-cocina-balinesa-en-granja-orgánica.webp" alt="Taller de cocina vegetariana en granja ecológica" width="1152" height="2048" loading="lazy"><span class="img-caption">Taller de cocina vegetariana en granja ecológica</span></div>
 
 Sin duda, una de las experiencias que más disfrutamos durante nuestro viaje por Bali fue hacer un taller de cocina balinesa vegetariana en una granja ecológica. La actividad fue perfecta de principio a fin: nos recogieron directamente en el centro de Ubud para trasladarnos hacia las montañas del norte. Al llegar, la exuberante vegetación y el equipo nos dieron la bienvenida con un auténtico *"Welcome to the jungle"*.
 
@@ -100,7 +100,7 @@ Nos acompañó una chica local súper amable a lo largo de toda la clase. Elegim
 
 La experiencia de hacer una degustación de café es un clásico de Bali. Existen cientos de plantaciones locales en las que te invitan a pasar, te enseñan el proceso tradicional de tostado y tratamiento de los granos, y hasta te convidan con una degustación gratuita de tés y cafés saborizados. Está bueno retribuir la hospitalidad comprando algo en su tienda o dejando una pequeña colaboración, pero no es "obligatorio".
 
-<div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/muestra-de-te-y-café-ubud.webp" alt="Imagen de bitácora"><span class="img-caption">Degustación de té y café local de Bali, Indonesia</span></div>
+<div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/muestra-de-te-y-café-ubud.webp" alt="Degustación de té y café local de Bali, Indonesia" width="1920" height="1440" loading="lazy"><span class="img-caption">Degustación de té y café local de Bali, Indonesia</span></div>
 
 Muchas de estas plantaciones tienen la famosa experiencia del café "más caro del mundo" (*Kopi Luwak*). Este café se extrae de los granos que pasaron por el proceso digestivo del *luwak* (la civeta), un pequeño mamífero de la familia de los vivérridos que elige los frutos de café más dulces y maduros. Al pasar por su tracto intestinal y ser defecados, las enzimas modifican las proteínas del grano quitándole amargor. Los recolectores juntan los granos manualmente, los limpian a fondo y luego realizan el proceso de tostado.
 
@@ -126,7 +126,7 @@ Los templos son lugares espectaculares y sagrados para la población local, por 
 
 ## El Ritual de Purificación (Melukat)
 
-<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/ritual-espiritual.webp" alt="Imagen de bitácora"><span class="img-caption">Ritual de purificación balinés en piscinas sagradas, Ubud</span></div>
+<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/ritual-espiritual.webp" alt="Ritual de purificación balinés en piscinas sagradas, Ubud" width="922" height="1600" loading="lazy"><span class="img-caption">Ritual de purificación balinés en piscinas sagradas, Ubud</span></div>
 
 Muchos de los templos están centrados en la purificación a través del agua, un ritual sagrado de sanación que se realiza en diferentes piscinas con fuentes según el propósito espiritual de cada chorro de agua.
 
@@ -157,7 +157,7 @@ Ambas se realizan en templos sagrados: la [danza de las mujeres *Legong*](https:
 
 En esta ocasión, [nosotros optamos por la famosa **Danza Kecak**](https://www.getyourguide.com/ubud-l32246/bali-entradas-para-el-espectaculo-de-danzas-kecak-y-del-fuego-de-ubud-t761650/?ranking_uuid=a25889a5-e5aa-4cf1-bb86-4ca8e92b23a2&q=ubud+Danza+Kecak%3A+la+danza+del+fuego&adults=1), un espectáculo cultural imponente que cuenta con **más de 70 actores en escena**.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/UBUD2.webp" alt="Imagen de bitácora"><span class="img-caption">Danza Kecak: la danza del fuego show nocturno en el templo de Ubud</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/UBUD2.webp" alt="Danza Kecak: la danza del fuego show nocturno en el templo de Ubud" width="1599" height="1066" loading="lazy"><span class="img-caption">Danza Kecak: la danza del fuego show nocturno en el templo de Ubud</span></div>
 
 ## [Danza Kecak: la danza del fuego](https://www.getyourguide.com/ubud-l32246/bali-entradas-para-el-espectaculo-de-danzas-kecak-y-del-fuego-de-ubud-t761650/?ranking_uuid=a25889a5-e5aa-4cf1-bb86-4ca8e92b23a2&q=ubud+Danza+Kecak%3A+la+danza+del+fuego&adults=1)
 
@@ -173,7 +173,7 @@ Al comienzo, la danza narra un fragmento de la epopeya hindú del *Ramayana*: la
 
 Ubicado al final de la transitada Monkey Forest Road, este bosque sagrado es una reserva ecológica y espiritual gestionada por la comunidad local de Padangtegal. 
 
-<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/UBUD30.webp" alt="Imagen de bitácora"><span class="img-caption">Mono con sus crías bebés en el bosque de los monos de Ubud Bali</span></div>
+<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/UBUD30.webp" alt="Mono con sus crías bebés en el bosque de los monos de Ubud Bali" width="1599" height="1066" loading="lazy"><span class="img-caption">Mono con sus crías bebés en el bosque de los monos de Ubud Bali</span></div>
 
 Este santuario se rige por el concepto de *Tri Hita Karana* (la armonía entre los humanos, la naturaleza y Dios), resguardando tres templos sagrados activos del siglo XIV los cuales se pueden ver desde afuera pero no entrar. Es un recorrido plano, fácil de caminar, una interesante experiencia local habilitada para todas las edades. Además el camino tiene bastantes árboles por lo cual el calor no es terrible, volviéndolo una experiencia más disfrutable.
 
@@ -188,7 +188,7 @@ Este santuario se rige por el concepto de *Tri Hita Karana* (la armonía entre l
 * No mirarlos fijo a los ojos: ya que en su lenguaje corporal, el contacto visual directo es señal de agresión.
 * No esconder comida en la mochila y tener precaución con los objetos personales como lentes u objetos brillosos, ya que son muy curiosos y confiados. 
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/UBUD26.webp" alt="Imagen de bitácora"><span class="img-caption">Sacred Monkey Forest Sanctuary</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/UBUD26.webp" alt="Sacred Monkey Forest Sanctuary" width="1599" height="1066" loading="lazy"><span class="img-caption">Sacred Monkey Forest Sanctuary</span></div>
 
 La famosa "Selfie con el mono": la famosa foto donde parece que el mono sostiene el celular. Tenés que comprar un voucher de fotografía adentro (los cupos son limitados por tanda) y ellos se encargan de guiar al animal de manera segura usando pequeños trozos de fruta; se hace únicamente bajo supervisión del personal capacitado de la reserva y es muy gracioso de ver.
 
@@ -198,7 +198,7 @@ La famosa "Selfie con el mono": la famosa foto donde parece que el mono sostiene
 
 ## 8. Palacio de Ubud (Puri Saren Agung)
 
-<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/palacio-real-ubud-bali.webp" alt="Imagen de bitácora"><span class="img-caption">Palacio real Ubud durante el día</span></div>
+<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/palacio-real-ubud-bali.webp" alt="Palacio real Ubud durante el día" width="1920" height="2560" loading="lazy"><span class="img-caption">Palacio real Ubud durante el día</span></div>
 
 Situado en la esquina de Jalan Raya Ubud y Jalan Monkey Forest, frente al mercado de arte tradicional, el Palacio de Ubud es el epicentro geográfico e histórico de la ciudad. Construido durante el reinado de Ida Tjokorda Putu Kandel (años 1800-1823), todavía sirve como residencia oficial para la familia real de Ubud, por lo que solo se puede recorrer su patio exterior público y sus intrincados portales tallados en piedra y decorados con hojas de oro.
 

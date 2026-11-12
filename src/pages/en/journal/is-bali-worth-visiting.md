@@ -16,7 +16,7 @@ Bali had been on my bucket list for years, and in 2026, I was lucky enough to vi
 
 While Bali is part of Indonesia, its cultural identity is entirely distinct. Most locals practice Balinese Hinduism, which weaves traditional Indian deities with local animism (ancestral veneration) and Mahayana Buddhism. Often called the "Island of the Gods" or the "Island of a Thousand Temples," spirituality here isn't a show for tourists—sacred rituals are woven into every single day, forming the living backbone of the local community. It is a way of life completely different from anything back home. Immersing ourselves in this heritage—staying at family-run guesthouses, witnessing sacred ceremonies, and visiting ancient temples—is the main reason we would return in a heartbeat. On top of that, the locals are remarkably kind, welcoming, and quick with a warm smile.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/nusa-penida-alley.webp" alt="Travel journal photo"><span class="img-caption">Traditional villa compound in Bali</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/nusa-penida-alley.webp" alt="Traditional villa compound in Bali" width="1920" height="1280" loading="lazy"><span class="img-caption">Traditional villa compound in Bali</span></div>
 
 #### Must-Do Cultural Experiences:
 
@@ -28,12 +28,12 @@ While Bali is part of Indonesia, its cultural identity is entirely distinct. Mos
 
 📖 **Curious to dive deeper into local heritage?** If you want to explore the spiritual cosmology, temples, and history of the island, check out our deep-dive article under Culture & Context: [The Soul of Bali: Culture, Traditions, and Secrets of the Island of the Gods](/en/journal/bali-culture-traditions-and-secrets/)
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/qué-hacer-en-bali-cultural-.webp" alt="Cultural travel photo"><span class="img-caption">Cultural activities in Bali</span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/qué-hacer-en-bali-cultural-.webp" alt="Cultural travel photo" width="675" height="1200" loading="lazy"><span class="img-caption">Cultural activities in Bali</span></div>
 
 ### 2. Nature and Landscapes
 
 From lush jungle gorges and cascading waterfalls to rugged coastlines and vibrant marine ecosystems, Bali's natural setting is undeniably striking. While tourist hotspots have grown crowded, there are still plenty of untouched natural pockets that make the trip worthwhile.
-<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/virgin-beach.webp" alt="Travel journal photo"><span class="img-caption">Virgin Beach near Amed</span></div> 
+<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/virgin-beach.webp" alt="Virgin Beach near Amed" width="768" height="1364" loading="lazy"><span class="img-caption">Virgin Beach near Amed</span></div> 
 
 #### The Best Beaches
 

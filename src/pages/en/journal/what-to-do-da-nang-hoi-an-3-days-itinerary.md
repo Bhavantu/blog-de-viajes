@@ -129,7 +129,7 @@ The best way to start is early in the morning, heading to the **Son Tra Peninsul
 
 > 💡 Is Lady Buddha one of the three vertices of the spiritual triangle that protects the city? There is a local legend that links faith with the typhoon weather data on the coast. You can read the full story in our article **[The Sacred Triangle That Protects the City of Da Nang](https://blogcito.com/en/journal/sacred-triangle-da-nang-linh-ung-pagodas/)**
 
-<div class="post-img-box img-pequeño img-centro"><img src="/img/diario/pagoda-peninsula-de-son-tra-da-nang-de-lady-buda-.webp" alt="Imagen de bitácora"><span class="img-caption">Buddhist pagoda, Son Trá Peninsula</span></div>
+<div class="post-img-box img-pequeño img-centro"><img src="/img/diario/pagoda-peninsula-de-son-tra-da-nang-de-lady-buda-.webp" alt="Buddhist pagoda, Son Trá Peninsula" width="1329" height="1591" loading="lazy"><span class="img-caption">Buddhist pagoda, Son Trá Peninsula</span></div>
 
 ### Afternoon: My Khe Beach and a Stroll Around An Thuong
 
@@ -137,7 +137,7 @@ Staying in the **An Thuong** neighborhood makes it easy to walk to **My Khe Beac
 
 It's a beautiful beach of golden sand and warm water, lined with palm trees and sheltered by the mountains, with the figure of Lady Buddha in the distance. On the beach you can rent sun loungers with straw umbrellas, buy fresh coconuts or enjoy a massage by the sea. Just one block away is the tourist area, perfect for lunch (local and international options), fruit juices or browsing local shops.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/playa-my-khe-beach-.webp" alt="Imagen de bitácora"><span class="img-caption">My Khe Beach, Da Nang</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/playa-my-khe-beach-.webp" alt="My Khe Beach, Da Nang" width="1920" height="1080" loading="lazy"><span class="img-caption">My Khe Beach, Da Nang</span></div>
 
 ### Evening: Son Tra Night Market and the Dragon Bridge Show
 
@@ -145,7 +145,7 @@ At sunset, we suggest heading to the **Dragon Bridge (Cau Rong)**. Just steps fr
 
 * **The not-to-miss moment:** If your visit falls on a **Friday, Saturday or Sunday at 21:00**, traffic on the bridge is stopped for the famous show in which the dragon's head breathes fire and water. The show runs until 21:30. It's best to arrive about 15 minutes early to get a good spot along the Han River. You can even stand under the water spout to experience it up close.
 
-  <div class="post-img-box img-completo img-centro"><img src="/img/diario/puente-del-dragon-lanzando-fuego-vietnam-da-nang.webp" alt="Imagen de bitácora"><span class="img-caption">Dragon Bridge breathing fire, Da Nang</span></div>
+  <div class="post-img-box img-completo img-centro"><img src="/img/diario/puente-del-dragon-lanzando-fuego-vietnam-da-nang.webp" alt="Dragon Bridge breathing fire, Da Nang" width="1600" height="887" loading="lazy"><span class="img-caption">Dragon Bridge breathing fire, Da Nang</span></div>
 
 ## Day 2: Marble Mountains and the Magic of Hoi An
 
@@ -157,7 +157,7 @@ After a good brunch, we recommend heading to the **Marble Mountains (Ngu Hanh So
 
 * **Highlight:** The **Huyen Khong** cave, where rays of light filter through openings in the rocky ceiling, lighting up ancient altars. Exploring the whole complex takes around 1.5 to 2 hours.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/marble-mountains-temple-statue-cave-praying.webp" alt="Imagen de bitácora"><span class="img-caption">Marble Mountains cave in Da Nang</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/marble-mountains-temple-statue-cave-praying.webp" alt="Marble Mountains cave in Da Nang" width="1920" height="1280" loading="lazy"><span class="img-caption">Marble Mountains cave in Da Nang</span></div>
 
 ### Afternoon and Evening: Day Trip to Hoi An and a Handmade Lantern Workshop
 
@@ -169,7 +169,7 @@ After lunch, you can take a Grab or a taxi to the historic city of **Hoi An** (j
 
 > 💡 **Extra tip in Hoi An:** If you have extra time in the afternoon, you can add a [**local cooking class** to learn how to make *Cao Lầu and other typical dishes*](https://www.getyourguide.com/hoi-an-l831/hoi-an-clase-de-cocina-tradicional-y-comida-con-una-familia-local-t562488?ranking_uuid=244dfd89-1d5c-4d13-9bc6-9c50dd91e9b1&q=clase+de+cocina+en+hoi+an&date_from=2026-09-25&date_to=2026-09-25&adults=1&_pc=1,1) or visit the famous **artisan tailors** in the historic center, known for making custom suits and dresses in 24 hours.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/hoi-an-boats.webp" alt="Imagen de bitácora"><span class="img-caption">Hoi An at night lit up by lanterns, boats on the Hoai River</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/hoi-an-boats.webp" alt="Hoi An at night lit up by lanterns, boats on the Hoai River" width="1920" height="1280" loading="lazy"><span class="img-caption">Hoi An at night lit up by lanterns, boats on the Hoai River</span></div>
 
 ## Day 3: Ba Na Hills, Markets and a Night in the City
 
@@ -186,7 +186,7 @@ A must in Da Nang is, without a doubt, Ba Na Hills, a theme park at the top of t
 * **Tip:** Leave Da Nang at 07:00 to board the cable car at 08:00. This lets you walk across the bridge before the tour groups arrive.
 * *Note:* It's always a good idea to check the weather forecast the day before, since with rain or dense fog visibility drops quite a bit.
 
-  <div class="post-img-box img-completo img-centro"><img src="/img/diario/ba-na-hills-hands.webp" alt="Imagen de bitácora"><span class="img-caption">Ba Na Hills, the Golden Bridge, the bridge of hands, Vietnam</span></div>
+  <div class="post-img-box img-completo img-centro"><img src="/img/diario/ba-na-hills-hands.webp" alt="Ba Na Hills, the Golden Bridge, the bridge of hands, Vietnam" width="1920" height="1280" loading="lazy"><span class="img-caption">Ba Na Hills, the Golden Bridge, the bridge of hands, Vietnam</span></div>
 
 ### Afternoon: Exploring Local Markets and Traditional Cafés
 
@@ -196,7 +196,7 @@ Back in downtown Da Nang, you can wander through the local markets to buy coffee
 * **Con Market (Chợ Cồn):** A 100% authentic, less touristy experience. Its food court serves typical dishes like ***Mì Quảng*** (rice noodles in a short, concentrated broth with peanuts and fresh herbs) or ***Bánh Xèo*** (crispy rice-flour and turmeric crepes filled with sprouts and vegetables) at local prices.
 * **Coffee break:** A few blocks from the shopping area you'll find lovely traditional cafés that serve the classic Vietnamese egg coffee (also in a cocoa version), along with fresh baked goods in a calm, cozy atmosphere.
 
-  <div class="post-img-box img-mediano img-centro"><img src="/img/diario/café-con-huevo-egg-coffe.webp" alt="Imagen de bitácora"><span class="img-caption">Egg coffee with condensed milk, a typical Vietnamese drink, highly recommended</span></div>
+  <div class="post-img-box img-mediano img-centro"><img src="/img/diario/café-con-huevo-egg-coffe.webp" alt="Egg coffee with condensed milk, a typical Vietnamese drink, highly recommended" width="1329" height="1833" loading="lazy"><span class="img-caption">Egg coffee with condensed milk, a typical Vietnamese drink, highly recommended</span></div>
 
 ### Evening: Dinner at a Beach Club or an Urban Night at Helio Night Market
 

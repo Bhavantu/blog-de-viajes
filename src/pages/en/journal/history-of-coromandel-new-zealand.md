@@ -21,7 +21,7 @@ In this article we'll share a bit about its history, divided into the following 
 
 For the Māori, this place is sacred. Its original name is *Te Tara-o-te-Ika-a-Māui*, or "the barb or spine of Māui's fish". In their cosmology, the North Island is a great fish caught by the demigod Māui, and Coromandel represents its backbone.
 
-<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/whatsapp-image-2026-06-26-at-17.09.58.webp" alt="Imagen de bitácora"><span class="img-caption">Kina (sea urchins), a Māori food, New Zealand</span></div>
+<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/whatsapp-image-2026-06-26-at-17.09.58.webp" alt="Kina (sea urchins), a Māori food, New Zealand" width="828" height="1261" loading="lazy"><span class="img-caption">Kina (sea urchins), a Māori food, New Zealand</span></div>
 
 For more than 1000 years, tribes such as *Te Patukirikiri* and *Ngāti Maru* lived in the Hauraki region. It was, quite literally, a self-sufficient paradise; they called it *"Ko Manaia, he pataka kai"* ("Manaia, the food storehouse") because of its abundance of seafood and fertile land.
 
@@ -59,7 +59,7 @@ Quartz extraction also began in **1862**. Unlike the river gold of the South Isl
 
 By the early 20th century, both the gold mines and the kauri reserves were running out. The peninsula fell silent and turned, for a time, to farming and fishing.
 
-<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/whatsapp-image-2026-06-26-at-16.52.34-1-.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/whatsapp-image-2026-06-26-at-16.52.34-1-.webp" alt="" width="1158" height="2048" loading="lazy"><span class="img-caption"></span></div>
 
 In the 1970s the ecological wound began to heal thanks to strong conservation movements, and the area started attracting craftspeople, potters and people looking for a calm, alternative lifestyle, giving rise to the bohemian, laid-back atmosphere that defines the Coromandel Peninsula today.
 
@@ -76,4 +76,4 @@ In the 1970s the ecological wound began to heal thanks to strong conservation mo
 * **Whitianga:** It sits on *Mercury Bay* and is a great base for visiting famous beaches like *Cathedral Cove* or *Hot Water Beach*.
 * **Whangamata:** This was our choice. We got to know it as a laid-back town where a dear local friend of ours used to come on vacation with her family during New Zealand summers. The town is beautiful, and the beach has incredible sunsets too.
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/0d27c22d-8ac1-41d7-8b29-3d69cad7e9ba.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/0d27c22d-8ac1-41d7-8b29-3d69cad7e9ba.webp" alt="" width="1920" height="2560" loading="lazy"><span class="img-caption"></span></div>
