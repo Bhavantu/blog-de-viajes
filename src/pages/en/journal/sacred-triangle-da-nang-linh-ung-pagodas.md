@@ -5,9 +5,7 @@ title: "The Sacred Triangle That Protects Da Nang: Legend, History and a Visit t
 date: 2026-09-09T21:35:00.000+08:00
 tag: contexto y cultura
 pais: Vietnam
-description: "We look into the legend of the Sacred Triangle that protects the
-  city of Da Nang from typhoons, made up of its 3 Linh Ung Pagodas. Historical
-  facts, popular belief and a visit to the temples."
+description: "Do the 3 Linh Ung pagodas protect Da Nang from typhoons? The legend of the Sacred Triangle, what the data says and how to visit the temples respectfully."
 main_image: /img/diario/marble-mountains-pagoda.webp
 archivo_original: triangulo-sagrado-da-nang-vietnam-pagodas-linh-ung.md
 ---

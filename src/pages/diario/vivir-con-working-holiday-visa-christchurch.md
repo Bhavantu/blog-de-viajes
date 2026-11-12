@@ -4,7 +4,7 @@ title: "Vivir en Christchurch con Working Holiday 2026: Costos, Trabajo y Guía 
 date: 2026-05-30T14:55:00.000+12:00
 tag: vida local
 pais: Nueva Zelanda
-description: "Viví 6 meses en Christchurch con la Working Holiday Visa y fue un gran acierto. Te cuento cómo es vivir ahí: costo de vida semanal 2026, trabajo y seguridad."
+description: "¿Vale la pena Christchurch para tu Working Holiday? Viví 6 meses ahí: costo de vida semanal 2026, cómo buscar casa y trabajo, y seguridad."
 main_image: /img/diario/chrischurch.webp
 slug_url: vivir-con-working-holiday-visa-christchurch
 ---

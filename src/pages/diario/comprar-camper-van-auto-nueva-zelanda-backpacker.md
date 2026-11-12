@@ -4,7 +4,7 @@ title: "Comprar una campervan o auto en Nueva Zelanda: Guía completa paso a pas
 date: 2026-06-01T13:36:00.000+12:00
 tag: working holiday
 pais: Nueva Zelanda
-description: "¿Soñás con la libertad de un roadtrip épico? Todo lo que necesitás saber para comprar un auto o campervan en Nueva Zelanda sin estafas. Guía para mochileros y Working Holiday basada en experiencia real e información chequeada."
+description: "¿Querés comprar un auto o una campervan en Nueva Zelanda? WOF, REGO, cambio de titularidad, a quién comprarle y 4 pruebas mecánicas para evitar estafas."
 main_image: /img/diario/camper-mountain.webp
 archivo_original: 2026-06-01-comprar-una-camper-van-o-auto-en-nueva-zelanda.md
 slug_url: comprar-camper-van-auto-nueva-zelanda-backpacker

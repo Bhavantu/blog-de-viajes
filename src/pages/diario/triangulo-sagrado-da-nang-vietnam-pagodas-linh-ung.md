@@ -5,9 +5,7 @@ title: "El Triángulo Sagrado que protege a la ciudad Da Nang: Leyenda, historia
 date: 2026-09-09T21:35:00.000+08:00
 tag: contexto y cultura
 pais: Vietnam
-description: "Investigamos la leyenda del Triángulo Sagrado que protege de los
-  tifones a la ciudad de Da Nang conformado por sus 3 Pagodas Linh Ung. Datos
-  históricos, creencia popular y visita a los templos."
+description: "¿Las 3 pagodas Linh Ung protegen a Da Nang de los tifones? La leyenda del Triángulo Sagrado, qué dicen los datos y cómo visitar los templos con respeto."
 main_image: /img/diario/marble-mountains-pagoda.webp
 slug_url: triangulo-sagrado-da-nang-vietnam-pagodas-linh-ung
 ---
