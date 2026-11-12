@@ -17,6 +17,8 @@ Flujo de fotos: script `scripts/procesar-fotos.mjs`, comando `/fotos` y alt del 
 
 - [ ] **Amed (PR #129 y #138, sin mergear, 12/11).** Hecho: bloque "Si tenés poco tiempo" (sin decir dónde nos quedamos, decisión de Santi), experiencia al principio, costos en una sección, preguntas frecuentes con H3, Airalo, "Más guías de Bali" y texto de la calculadora (#138). Falta, de Santi: (1) subir a Drive, en `fotos/amed`, las fotos de snorkel de la GoPro para Jemeluk, Lipah y el naufragio japonés, y procesarlas con `/fotos`; (2) decir si hicimos alguno de los dos tours de snorkel de GetYourGuide que ya están en el post (barco por los 3 puntos con el templo submarino, o snorkel con pesca y cocina) o pasar otro; (3) decidir el título (propuesta: "Qué hacer en Amed, Bali: qué ver, snorkel y presupuesto (15 días) 2026"). Falta, de Lore: "Lo que nos gustó, lo que no y ¿vale la pena?" y "Qué saltearíamos". Detalle en `docs/revision-borradores-lore.md`.
 
+- [ ] **Mudanza de Drive al repo (12/11).** Inventario de la carpeta "Blogcito- Claude" de Lore, con el destino de cada documento y 7 conflictos para decidir, en `docs/mudanza-drive-repo.md`. Falta: que Lore lo apruebe, pasar el repo a privado y que Lore conecte su GitHub en claude.ai.
+
 ### Kunming: traducción publicada y pendientes del original en español (11/11/2026)
 
 Traducción publicada el 12/11 (merge del PR #127 a `main`): `src/pages/en/journal/what-to-do-kunming-3-days.md`, auditada contra el original (14 URLs, números y encabezados coinciden). El link de la anécdota apunta a la traducción de Furongzhen (`/en/journal/what-to-see-furongzhen/`), también publicada el 12/11.
