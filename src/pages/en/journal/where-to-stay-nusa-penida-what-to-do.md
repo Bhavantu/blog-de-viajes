@@ -21,9 +21,9 @@ Nusa Penida is a beautiful island of incredible beaches and dramatic cliffs that
   * [La Marrocco Villas](https://www.booking.com/hotel/id/la-marrocco-villas.html): Resembling a fairytale, this Moroccan-style palace with a pool and ocean view offers total comfort, a spacious area with a kitchen and living room, a private pool, and a small garden (adults only).
   * [Suda Cottage](https://www.booking.com/hotel/id/suda-cottage-kabupaten-klungkung2.html?sid=90611b33264c18071339590e9ab71fc9&checkin=2026-09-21&checkout=2026-09-23&dist=0&group_adults=2&group_children=0&hapos=1&hpos=1&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&soh=1&sohad=1&sr_order=popularity&srepoch=1786246822&srpvid=7ab619cd26a30417&type=total&ucfs=1&#no_availability_msg): An option with ocean views and a cozy room, accessed through an internal hallway and located within walking distance of nice restaurants and cafés like "Secret Penida."
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/la-marrocco-villas-.webp" alt="Imagen de bitácora"><span class="img-caption">La Marrocco Villas</span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/la-marrocco-villas-.webp" alt="La Marrocco Villas" width="1024" height="576" loading="lazy"><span class="img-caption">La Marrocco Villas</span></div>
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/suda-cottagge-nusa-penida-.webp" alt="Imagen de bitácora"><span class="img-caption">Suda Cottage, Nusa Penida Bali, Indonesia </span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/suda-cottagge-nusa-penida-.webp" alt="Suda Cottage, Nusa Penida Bali, Indonesia" width="1024" height="683" loading="lazy"><span class="img-caption">Suda Cottage, Nusa Penida Bali, Indonesia </span></div>
 
 ### 2. East Coast (Peace and Local Quiet)
 
@@ -37,9 +37,9 @@ Nusa Penida is a beautiful island of incredible beaches and dramatic cliffs that
   * [Kabeh Jati Garden](https://www.booking.com/hotel/id/kabeh-jati-garden-villa-amp-restaurant.html): We planned for 3 days and ended up staying 12; the place is lovely with a pool, the family running it is absolute sweethearts, and the breakfast is generous and delicious.
   * [Seven Dreams](https://www.booking.com/hotel/id/seven-dreams-a-pramana-experience.html): Another excellent option for those looking for a relaxing vacation with ocean views, a great restaurant, and a massage spa all in one place.
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/seven-dreams-nusa-penida-bali.webp" alt="Imagen de bitácora"><span class="img-caption">Seven dreams, East coast of Nusa Penida, Bali, Indonesia</span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/seven-dreams-nusa-penida-bali.webp" alt="Seven dreams, East coast of Nusa Penida, Bali, Indonesia" width="1024" height="683" loading="lazy"><span class="img-caption">Seven dreams, East coast of Nusa Penida, Bali, Indonesia</span></div>
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/nusa-penida-hotel-guitar.webp" alt="Imagen de bitácora"><span class="img-caption">Kabeh Jati Garden, hotel Nusa Penida</span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/nusa-penida-hotel-guitar.webp" alt="Kabeh Jati Garden, hotel Nusa Penida" width="1920" height="1280" loading="lazy"><span class="img-caption">Kabeh Jati Garden, hotel Nusa Penida</span></div>
 
 ### 3. West Coast: The Tourist Hub (Crystal Bay / Kelingking)
 
@@ -51,9 +51,9 @@ Nusa Penida is a beautiful island of incredible beaches and dramatic cliffs that
   * [Crystal Bay Bungalows](https://www.booking.com/hotel/id/crystal-bay-pool-view-bungalow.html): This hotel stands out for its proximity to Crystal Bay Beach (a great beach for swimming and snorkeling). It's an affordable option built in a traditional style, featuring a pool and lush green surroundings.
   * [Mimpi Villas - Boutique](https://www.booking.com/hotel/id/mimpi-villa-private-luxury-villas-in-penida.html): For those seeking comfort and proximity to the beach, a place that comes pretty close to paradise.
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/cristal-bay-bungalows.webp" alt="Imagen de bitácora"><span class="img-caption">Crystal Bay Bungalows, Nusa Penida Bali </span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/cristal-bay-bungalows.webp" alt="Crystal Bay Bungalows, Nusa Penida Bali" width="1024" height="683" loading="lazy"><span class="img-caption">Crystal Bay Bungalows, Nusa Penida Bali </span></div>
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/mimipivillas.webp" alt="Imagen de bitácora"><span class="img-caption">Mimpi Villas - Boutique Accommodation in Nusa Penida, West Coast </span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/mimipivillas.webp" alt="Mimpi Villas - Boutique Accommodation in Nusa Penida, West Coast" width="1024" height="684" loading="lazy"><span class="img-caption">Mimpi Villas - Boutique Accommodation in Nusa Penida, West Coast </span></div>
 
 ## What to See in Nusa Penida
 
@@ -66,7 +66,7 @@ If you choose to stay in Nusa Penida, you can visit these beaches and points of 
 * **Best time to go:** After 4:00 PM.
 * **The Experience:** The island's iconic postcard. The view from atop the cliff is beautiful. The trek down to the beach goes through a steep rocky staircase; the descent is demanding and takes about 30 minutes of walking down a fairly rugged trail. We don't recommend doing it during peak heat, but it is entirely worth it. Although not suitable for swimming, the beach below is incredible; in the afternoon, shaded areas form under a natural rock cave structure.
 
-  <div class="post-img-box img-mediano img-centro"><img src="/img/diario/kelingking-beach23.webp" alt="Imagen de bitácora"><span class="img-caption">Kelingking Beach, Nusa Penida, in Bali, Indonesia </span></div>
+  <div class="post-img-box img-mediano img-centro"><img src="/img/diario/kelingking-beach23.webp" alt="Kelingking Beach, Nusa Penida, in Bali, Indonesia" width="1920" height="1280" loading="lazy"><span class="img-caption">Kelingking Beach, Nusa Penida, in Bali, Indonesia </span></div>
 
 ## 2. Diamond Beach and Atuh Beach
 
@@ -76,7 +76,7 @@ If you choose to stay in Nusa Penida, you can visit these beaches and points of 
 * **The Experience:** Two of Bali's best beaches, located right next to each other. Diamond Beach stands out for its white stone cliffs and bright turquoise water (not suitable for swimming); Atuh Beach is our favorite beach on the island, offering calmer waters and peaceful *warungs* to relax on sun loungers with umbrellas on a paradisiacal beach.\
   *Note:* The trek down involves many steps: both to descend to each beach and to cross from one to the other (it's accessible, not as many steps as Kelingking, but steep and with almost no handrails).
 
-  <div class="post-img-box img-mediano img-centro"><img src="/img/diario/diamond-beach-nusa-penida-bali-indonesia-.webp" alt="Imagen de bitácora"><span class="img-caption">Diamond Beach, Nusa Penida, Bali Indonesia</span></div>
+  <div class="post-img-box img-mediano img-centro"><img src="/img/diario/diamond-beach-nusa-penida-bali-indonesia-.webp" alt="Diamond Beach, Nusa Penida, Bali Indonesia" width="1920" height="3413" loading="lazy"><span class="img-caption">Diamond Beach, Nusa Penida, Bali Indonesia</span></div>
 
 ## 3. Swimming with Harmless Giant Manta Rays
 
@@ -95,7 +95,7 @@ Manta Point is a "cleaning station," an open-ocean site where mantas gather so s
 * **Best time to go:** 7:30 AM to 8:30 AM.
 * **The Experience:** A natural rock bridge over a sea arch and a natural tide pool made of volcanic rock. Highly photogenic, but with very little shade; it gets packed after 10:00 AM as it is the first stop for day tours. Water access is not permitted.
 
-  <div class="post-img-box img-mediano img-centro"><img src="/img/diario/broken-beach-en-indonesia-nusa-penida.webp" alt="Imagen de bitácora"><span class="img-caption">Broken Beach Nusa Penida, in Bali, Indonesia </span></div>
+  <div class="post-img-box img-mediano img-centro"><img src="/img/diario/broken-beach-en-indonesia-nusa-penida.webp" alt="Broken Beach Nusa Penida, in Bali, Indonesia" width="1920" height="2184" loading="lazy"><span class="img-caption">Broken Beach Nusa Penida, in Bali, Indonesia </span></div>
 
   ### 5. Crystal Bay
 

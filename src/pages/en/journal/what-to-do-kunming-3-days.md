@@ -52,7 +52,7 @@ If you can choose, we recommend March to May or October and November. Dress in l
 
 The Yunnan Ethnic Village covers 89 hectares next to Dianchi Lake, in the southwest of the city, and brings together the architecture, costumes and traditions of 25 ethnic groups. It opened in 1992 and each village shows full-scale houses, food, rituals and celebrations of its community, with music and dance shows included in the ticket.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/parque-de-las-etnias-yunnan.webp" alt="Imagen de bitácora"><span class="img-caption">Yunnan Ethnic Village</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/parque-de-las-etnias-yunnan.webp" alt="Yunnan Ethnic Village" width="1312" height="876" loading="lazy"><span class="img-caption">Yunnan Ethnic Village</span></div>
 
 Still, to be honest: it is a site designed for visitors and not the real life of those communities. We took it as a first introduction and, as such, we found it an interesting way into the province's cultures. The shows inside the park are very entertaining and, in general, they end up inviting the audience to dance in a big circle.
 
@@ -69,7 +69,7 @@ A side anecdote: there were many little stalls, both inside and outside the Ethn
 
 ### 2. Green Lake Park, Cuihu (a residential park)
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/green-lake-park.webp" alt="Imagen de bitácora"><span class="img-caption">Green Lake Park (Cuihu), in the center of Kunming</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/green-lake-park.webp" alt="Green Lake Park (Cuihu), in the center of Kunming" width="1080" height="1920" loading="lazy"><span class="img-caption">Green Lake Park (Cuihu), in the center of Kunming</span></div>
 
 Green Lake Park (翠湖, Cuìhú) is right in the center and locals call it the "jewel of Kunming". It is made up of four small lakes joined by traditional-style bridges, surrounded by a street with restaurants and tea houses. The Yunnan University and Yuantong Temple are nearby. What we liked most is that it is a park where you also run into the people who live there: there are tea houses all around, shade to walk in and lots of people taking photos in the traditional costumes of the Han or Tujia ethnic groups. We combined it with the temple visit: we walked around the park and then decided to have something to drink in a tea house across from the park.
 
@@ -82,7 +82,7 @@ Green Lake Park (翠湖, Cuìhú) is right in the center and locals call it the 
 
 It is the oldest and largest Buddhist temple in the city, known for its central pond and its architecture surrounded by vegetation. It is one of the oldest and most important Buddhist centers in Yunnan, with more than 1,200 years of history. Three major schools of Buddhism coexist in this temple.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/yuantong-templo-budista.webp" alt="Imagen de bitácora"><span class="img-caption">Yuantong Temple in Kunming</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/yuantong-templo-budista.webp" alt="Yuantong Temple in Kunming" width="1080" height="1920" loading="lazy"><span class="img-caption">Yuantong Temple in Kunming</span></div>
 
 Its main line is Chinese Mahāyāna, dedicated mainly to Guanyin (the goddess of compassion), where its incense altars and its central pond stand out. At the same time it coexists with Theravada, present in a Thai-style pavilion with a bronze Buddha statue given by Thailand, and with Tibetan Vajrayana, which brings its tantric details and the visual essence of the mountain areas of the region. A unique mix that sums up the cultural richness of Yunnan.
 
@@ -99,7 +99,7 @@ Yunnan is tea country and pu'er, famous throughout China, comes from this provin
 
 One of the most popular spots in Kunming is the Dounan fresh flower market, considered the largest in Asia: a spectacle of color where millions of flowers are sold every day. Around 7 in the evening the discounts begin and people come to buy and stroll along the aisles full of orchids and roses, at very low prices.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/mercado-de-flores-de-dounan-kunming.webp" alt="Imagen de bitácora"><span class="img-caption">Dounan Flower Market, the largest flower market in Asia</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/mercado-de-flores-de-dounan-kunming.webp" alt="Dounan Flower Market, the largest flower market in Asia" width="1600" height="1068" loading="lazy"><span class="img-caption">Dounan Flower Market, the largest flower market in Asia</span></div>
 
 Both for getting to know it and for a walk it is an interesting experience, and in the surrounding area there is also a fair where you can take photos with the classic flower crowns. Also, if your visit coincides with the winter months, you can go to the shore of nearby Dianchi Lake, where it is a tradition to welcome the red-billed gulls that migrate every year.
 How to get there: it is in the Chenggong district, about 18 km from the center. You can go by metro (the nearest stations are Dounan and Jingui Street) or by DiDi, about 40 minutes from the center. Plan the route on Amap or Baidu Maps before leaving.

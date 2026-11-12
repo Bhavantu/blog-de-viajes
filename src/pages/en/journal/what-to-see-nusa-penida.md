@@ -115,9 +115,9 @@ A day trip is a quick and easy way to catch a glimpse of the island's main highl
 * **Why we do NOT recommend a 1-day tour:** Speedboats disembark en masse between 9:30 AM and 10:30 AM. Between then and 3:30 PM, iconic spots become overcrowded, viewpoints fill up with people having photo sessions, and narrow roads get gridlocked with traffic, with reported waits of up to an hour.
 * **Why we chose to stay overnight:** Being able to explore at our own pace, visiting major sights during off-peak hours (first thing in the morning or late afternoon), while enjoying the sunset and quiet island atmosphere once the sun goes down (mainly on the west coast). Plus, experiencing the island, its traditions, and village life on the east coast. Highly recommended for anyone interested in local culture and heritage.
 
-  <div class="post-img-box img-pequeño img-centro"><img src="/img/diario/ceremonia.webp" alt="Imagen de bitácora"><span class="img-caption">Ceremony in an east coast village; we dropped by and ended up chatting with the security organizers</span></div>
+  <div class="post-img-box img-pequeño img-centro"><img src="/img/diario/ceremonia.webp" alt="Ceremony in an east coast village; we dropped by and ended up chatting with the security organizers" width="1920" height="3413" loading="lazy"><span class="img-caption">Ceremony in an east coast village; we dropped by and ended up chatting with the security organizers</span></div>
 
-  <div class="post-img-box img-mediano img-centro"><img src="/img/diario/nusa-penida-village2.webp" alt="Imagen de bitácora"><span class="img-caption">Village on Nusa Penida's east coast, an evening walk chatting with locals</span></div>
+  <div class="post-img-box img-mediano img-centro"><img src="/img/diario/nusa-penida-village2.webp" alt="Village on Nusa Penida's east coast, an evening walk chatting with locals" width="1920" height="1280" loading="lazy"><span class="img-caption">Village on Nusa Penida's east coast, an evening walk chatting with locals</span></div>
 
 - - -
 
@@ -135,9 +135,9 @@ Choosing your accommodation location completely changes your travel experience. 
   * [La Marrocco Villas](https://www.booking.com/hotel/id/la-marrocco-villas.html): Resembling a fairytale, this Moroccan-style palace with a pool and sea view offers total comfort, a spacious layout with a kitchen and living room, a private pool, and a small garden (adults only).
   * [Suda Cottage](https://www.booking.com/hotel/id/suda-cottage-kabupaten-klungkung2.html?sid=90611b33264c18071339590e9ab71fc9&checkin=2026-09-21&checkout=2026-09-23&dist=0&group_adults=2&group_children=0&hapos=1&hpos=1&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&soh=1&sohad=1&sr_order=popularity&srepoch=1786246822&srpvid=7ab619cd26a30417&type=total&ucfs=1&#no_availability_msg): An option featuring sea views and a comfortable room, accessed via an internal corridor and located within walking distance of nice restaurants and cafés like Secret Penida.
 
-<div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/la-marrocco-villas-.webp" alt="Imagen de bitácora"><span class="img-caption">La Marrocco Villas</span></div>
+<div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/la-marrocco-villas-.webp" alt="La Marrocco Villas" width="1024" height="576" loading="lazy"><span class="img-caption">La Marrocco Villas</span></div>
 
-<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/suda-cottagge-nusa-penida-.webp" alt="Imagen de bitácora"><span class="img-caption">Suda Cottage, Nusa Penida Bali, Indonesia </span></div>
+<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/suda-cottagge-nusa-penida-.webp" alt="Suda Cottage, Nusa Penida Bali, Indonesia" width="1024" height="683" loading="lazy"><span class="img-caption">Suda Cottage, Nusa Penida Bali, Indonesia </span></div>
 
 ### 2. East Coast (Peace and Local Quiet)
 
@@ -151,9 +151,9 @@ Choosing your accommodation location completely changes your travel experience. 
   * [Kabeh Jati Garden](https://www.booking.com/hotel/id/kabeh-jati-garden-villa-amp-restaurant.html): We planned for 3 days and ended up staying 12; the property is lovely with a pool, the host family is absolute sweethearts, and breakfast is generous and delicious.
   * [Seven Dreams](https://www.booking.com/hotel/id/seven-dreams-a-pramana-experience.html): Another excellent option for those seeking a relaxing vacation with ocean views, a good restaurant, and an on-site massage spa.
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/seven-dreams-nusa-penida-bali.webp" alt="Imagen de bitácora"><span class="img-caption">Seven dreams, East coast of Nusa Penida, Bali, Indonesia</span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/seven-dreams-nusa-penida-bali.webp" alt="Seven dreams, East coast of Nusa Penida, Bali, Indonesia" width="1024" height="683" loading="lazy"><span class="img-caption">Seven dreams, East coast of Nusa Penida, Bali, Indonesia</span></div>
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/nusa-penida-hotel-guitar.webp" alt="Imagen de bitácora"><span class="img-caption">Kabeh Jati Garden, hotel Nusa Penida</span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/nusa-penida-hotel-guitar.webp" alt="Kabeh Jati Garden, hotel Nusa Penida" width="1920" height="1280" loading="lazy"><span class="img-caption">Kabeh Jati Garden, hotel Nusa Penida</span></div>
 
 ### 3. West Coast: The Tourist Hub (Crystal Bay / Kelingking)
 
@@ -165,9 +165,9 @@ Choosing your accommodation location completely changes your travel experience. 
   * [Crystal Bay Bungalows](https://www.booking.com/hotel/id/crystal-bay-pool-view-bungalow.html): Stands out for its proximity to Crystal Bay Beach (a great beach for swimming and snorkeling). An affordable choice featuring traditional architecture, a pool, and lush green grounds.
   * [Mimpi Villas - Boutique](https://www.booking.com/hotel/id/mimpi-villa-private-luxury-villas-in-penida.html): For travelers seeking comfort and proximity to the beach, a setting that comes remarkably close to paradise.
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/cristal-bay-bungalows.webp" alt="Imagen de bitácora"><span class="img-caption">Crystal Bay Bungalows, Nusa Penida Bali </span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/cristal-bay-bungalows.webp" alt="Crystal Bay Bungalows, Nusa Penida Bali" width="1024" height="683" loading="lazy"><span class="img-caption">Crystal Bay Bungalows, Nusa Penida Bali </span></div>
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/mimipivillas.webp" alt="Imagen de bitácora"><span class="img-caption">Mimpi Villas - Boutique Accommodation in Nusa Penida, West Coast </span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/mimipivillas.webp" alt="Mimpi Villas - Boutique Accommodation in Nusa Penida, West Coast" width="1024" height="684" loading="lazy"><span class="img-caption">Mimpi Villas - Boutique Accommodation in Nusa Penida, West Coast </span></div>
 
 - - -
 
@@ -193,7 +193,7 @@ There are 9 primary activities to do in Nusa Penida, which we've grouped geograp
 * **Best time to go:** 7:30 AM to 8:30 AM.
 * **The Experience:** A natural stone bridge spanning a sea arch alongside a volcanic rock tide pool. Highly photogenic, though shade is scarce, and it fills up fast from 10:00 AM onward as it's the first stop on day tours. No water entry permitted.
 
-  <div class="post-img-box img-mediano img-centro"><img src="/img/diario/broken-beach-en-indonesia-nusa-penida.webp" alt="Imagen de bitácora"><span class="img-caption">Broken Beach Nusa Penida, in Bali, Indonesia </span></div>
+  <div class="post-img-box img-mediano img-centro"><img src="/img/diario/broken-beach-en-indonesia-nusa-penida.webp" alt="Broken Beach Nusa Penida, in Bali, Indonesia" width="1920" height="2184" loading="lazy"><span class="img-caption">Broken Beach Nusa Penida, in Bali, Indonesia </span></div>
 
 #### Kelingking Beach (The Famous T-Rex Beach)
 
@@ -202,9 +202,9 @@ There are 9 primary activities to do in Nusa Penida, which we've grouped geograp
 * **Best time to go:** After 4:00 PM.
 * **The Experience:** The island's quintessential postcard. The top view from the cliff edge is stunning. The hike down to the beach follows a steep rocky staircase; the trek is demanding and takes about 30 minutes under the sun over a fairly rugged trail. We don't recommend attempting it during peak heat, but it is completely worth it. Although not suitable for swimming, the beach below is incredible; in the afternoon, shaded areas form under a natural rock cave structure.
 
-  <div class="post-img-box img-mediano img-centro"><img src="/img/diario/kelingking-beach22.webp" alt="Imagen de bitácora"><span class="img-caption">Kelingking Beach, Nusa Penida, in Bali, Indonesia </span></div>
+  <div class="post-img-box img-mediano img-centro"><img src="/img/diario/kelingking-beach22.webp" alt="Kelingking Beach, Nusa Penida, in Bali, Indonesia" width="1280" height="1920" loading="lazy"><span class="img-caption">Kelingking Beach, Nusa Penida, in Bali, Indonesia </span></div>
 
-  <div class="post-img-box img-completo img-centro"><img src="/img/diario/kelingking-beach3.webp" alt="Imagen de bitácora"><span class="img-caption">Kelingking Beach, descent to the beach Nusa Penida, in Bali, Indonesia </span></div>
+  <div class="post-img-box img-completo img-centro"><img src="/img/diario/kelingking-beach3.webp" alt="Kelingking Beach, descent to the beach Nusa Penida, in Bali, Indonesia" width="1920" height="1280" loading="lazy"><span class="img-caption">Kelingking Beach, descent to the beach Nusa Penida, in Bali, Indonesia </span></div>
 
 - - -
 
@@ -258,7 +258,7 @@ The two experiences are completely different and depend heavily on what you're l
 * **The Experience:** Two of Indonesia's finest beaches sitting side by side. Diamond Beach is famed for bright white stone cliffs and brilliant turquoise water (unswimmable); Atuh Beach is our favorite on the island, offering calmer waters and peaceful *warungs* to relax on the sand.\
   *Note:* The trip involves plenty of steps: descending to Diamond Beach, entering Atuh Beach (not as many), and traversing from one zone to the other (steep with almost no handrails).
 
-  <div class="post-img-box img-mediano img-centro"><img src="/img/diario/diamond-beach-nusa-penida-bali-indonesia-.webp" alt="Imagen de bitácora"><span class="img-caption">Diamond Beach, Nusa Penida, Bali Indonesia</span></div>
+  <div class="post-img-box img-mediano img-centro"><img src="/img/diario/diamond-beach-nusa-penida-bali-indonesia-.webp" alt="Diamond Beach, Nusa Penida, Bali Indonesia" width="1920" height="3413" loading="lazy"><span class="img-caption">Diamond Beach, Nusa Penida, Bali Indonesia</span></div>
 
 #### Treehouse (Rumah Pohon) & Thousand Islands Viewpoint
 

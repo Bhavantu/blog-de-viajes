@@ -109,7 +109,7 @@ Uno de los puntos fundamentales para disfrutar el viaje es decidir a donde ir y 
 
 Es una de las zonas costeras más hermosas. Despliega acantilados impresionantes con vistas al atardecer y playas ideales para el surf. Es una zona "clasica o infaltable" por tanto la infraestructura para el turismo está muy desarrollada (cafeterías, restaurantes, hoteles de lujo) además muchos tours planean su salida desde acá hacia diferentes puntos de la isla. Hacer base en Balangan o Pecatu te permite moverte fácil por la península.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/uluwatu.webp" alt="Imagen de bitácora"><span class="img-caption">Uluwatu, Peninsula de Bukit</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/uluwatu.webp" alt="Uluwatu, Peninsula de Bukit" width="1080" height="764" loading="lazy"><span class="img-caption">Uluwatu, Peninsula de Bukit</span></div>
 
 * 📍 **Ubicación:** Península de Bukit (Sur de la isla).
 * ⏱️ **Distancia del aeropuerto:** 40 a 60 minutos en auto (según el tránsito).
@@ -146,7 +146,7 @@ Es el corazón cultural de la isla, rodeado de selva y campos de arroz. Caminar 
 
 Dividimos las opciones de alojamiento en dos puntos Ubud Central (cerca de todo a pie, pero con mayor movimiento) y Ubud Norte / Alrededores (entorno calmo en la naturaleza). 
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/ubud5.webp" alt="Imagen de bitácora"><span class="img-caption">Ubud Terrazas de arroz</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/ubud5.webp" alt="Ubud Terrazas de arroz" width="1373" height="1007" loading="lazy"><span class="img-caption">Ubud Terrazas de arroz</span></div>
 
 * 📍 **Ubicación:** Centro geográfico y cultural de Bali.
 * ⏱️ **Distancia del aeropuerto:** 1 hora y 15 minutos a 2 horas.
@@ -200,7 +200,7 @@ Dividimos las opciones de alojamiento en dos puntos Ubud Central (cerca de todo 
 
 Es una zona encantadora y muy tranquila, ideal para conectar con la vibra del Bali rural de montañas y valles. Muchos alojamientos combinan la estética tradicional con el estilo ecolodge.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/sidemen-.webp" alt="Imagen de bitácora"><span class="img-caption">Sidemen, zona verde de valles y calma</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/sidemen-.webp" alt="Sidemen, zona verde de valles y calma" width="1920" height="1126" loading="lazy"><span class="img-caption">Sidemen, zona verde de valles y calma</span></div>
 
 * 📍 **Ubicación:** Región oriental de Bali (Karangasem).
 * ⏱️ **Distancia del aeropuerto:** 1 hora y 45 minutos a 2 horas y 15 minutos.
@@ -236,7 +236,7 @@ Es una zona encantadora y muy tranquila, ideal para conectar con la vibra del Ba
 
 Es un tranquilo pueblo pesquero famoso por sus playas de arena negra volcánica y por permitir hacer snorkel en sus aguas calmas desde la orilla, ideal para toda la familia y uno de nuestros lugares favoritos de la isla. 
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/amed.webp" alt="Imagen de bitácora"><span class="img-caption">Costa de Amed</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/amed.webp" alt="Costa de Amed" width="1080" height="810" loading="lazy"><span class="img-caption">Costa de Amed</span></div>
 
 * 📍 **Ubicación:** Costa nordeste.
 * ⏱️ **Distancia del aeropuerto:** 2 horas y 30 minutos a 3 horas.
@@ -269,7 +269,7 @@ Es un tranquilo pueblo pesquero famoso por sus playas de arena negra volcánica 
 
  Nusa Penida es una isla ubicada al sudeste de Bali, famosa por sus acantilados, playas de aguas turquesas y miradores icónicos como Kelingking Beach y Crystal Bay. Dado que requiere tomar un ferry y tiene particularidades de movilidad propias, reunimos las mejores zonas para dormir e itinerarios recomendados en nuestro artículo específico: [Dónde quedarse y qué hacer en Nusa Penida](https://blogcito.com/diario/donde-quedarse-nusa-penida-que-hacer-en-nusa-penida/#3-costa-oeste-la-zona-tur%C3%ADstica-crystal-bay--kelingking).
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/kelingking-beach23.webp" alt="Imagen de bitácora"><span class="img-caption">Kelingking Beach en Nusa Penida</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/kelingking-beach23.webp" alt="Kelingking Beach en Nusa Penida" width="1920" height="1280" loading="lazy"><span class="img-caption">Kelingking Beach en Nusa Penida</span></div>
 
 * 📍 **Ubicación:** Isla vecina al sudeste de Bali (Regencia de Klungkung).
 * ⏱️ **Cómo llegar:** 30 a 45 minutos en lancha rápida (fast boat) desde el puerto de Sanur.

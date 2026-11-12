@@ -16,9 +16,9 @@ Traveling to New Zealand was a wish that had been knocking on the door of my cur
 
 Over the years the wish grew. In 2025 I applied online for a travel-and-work visa (*Working Holiday New Zealand*) that would let me live the experience for a year in 2026. The dream of a camper road trip across the whole island with good music, good company and a Uruguayan mate was definitely one of the goals on my *dream board*.
 
-<div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/well-kiwi-benefits-03-gjtz-facebookjumbo.webp" alt="Imagen de bitácora"><span class="img-caption">The kiwi (kiwifruit) and its varieties</span></div>
+<div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/well-kiwi-benefits-03-gjtz-facebookjumbo.webp" alt="The kiwi (kiwifruit) and its varieties" width="1050" height="550" loading="lazy"><span class="img-caption">The kiwi (kiwifruit) and its varieties</span></div>
 
-<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/kiwibird.webp" alt="Imagen de bitácora"><span class="img-caption">kiwibird</span></div>
+<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/kiwibird.webp" alt="kiwibird" width="651" height="545" loading="lazy"><span class="img-caption">kiwibird</span></div>
 
 \
 New Zealand, a country where the locals call themselves after a native nocturnal bird (*kiwi bird*) and a fruit (*kiwi fruit*); yes, all at the same time. A mix of kind, resourceful people who enjoy peace and calm. Honestly, it's lovely to spend time with these people on the trip. For a few months we traveled and lived the experience of living in a camper van, going on hikes and seeing incredible landscapes.
@@ -37,7 +37,7 @@ We discovered the beauty of the sacred area of Mount Maunganui (Mauao) and explo
 
 ## Mount Maunganui
 
-<div class="post-img-box img-mediano img-izquierda"><img src="/img/img_5531.webp" alt="Imagen de bitácora"><span class="img-caption">Pokohino Beach</span></div>
+<div class="post-img-box img-mediano img-izquierda"><img src="/img/img_5531.webp" alt="Pokohino Beach" width="1920" height="1440" loading="lazy"><span class="img-caption">Pokohino Beach</span></div>
 
 Many people who come to New Zealand choose this area to stay, and honestly it feels a little magical: the beauty of the huge mountain bordering the water of the Pacific, the islands thick with trees around the beach, the closeness to cities and restaurants. It's a beautiful place to spend a season. In summer there was a lot going on and a variety of activities, and we enjoyed trips to the beach and climbs up the mountain with incredible views of the sunset. Our friends also told us local stories, like the Maori legend of the mountain and the *silver fern*, which is the logo of the famous All Blacks.
 
@@ -45,7 +45,7 @@ Many people who come to New Zealand choose this area to stay, and honestly it fe
 
 A few days on paradise beaches, with icy, transparent water.
 
-<div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/0d27c22d-8ac1-41d7-8b29-3d69cad7e9ba.webp" alt="Imagen de bitácora"><span class="img-caption">Pokohino Beach</span></div>
+<div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/0d27c22d-8ac1-41d7-8b29-3d69cad7e9ba.webp" alt="Pokohino Beach" width="1920" height="2560" loading="lazy"><span class="img-caption">Pokohino Beach</span></div>
 
 Known in the past by the Maori as *Hauraki*, who lived in the area for more than a millennium. The peninsula was marked by its experience of the gold rush and its encounter with Europe. Thames saw intense exploitation of its ancient kauri forests, along with mining activity that lasted until the middle of the 20th century, multiplying the area's population to the point of almost surpassing the capital, Auckland.
 
@@ -63,4 +63,4 @@ It also has several flat, very accessible trails; among them stands out the *Wat
 
 Another incredible place we visited was the **Maungatautari Bird Sanctuary**, a place looked after by the conservation department, for which a picture is worth a thousand words.
 
-<div class="post-img-box img-grande img-centro"><img src="/img/diario/dsc_0375.webp" alt="Imagen de bitácora"><span class="img-caption">Walking through the sanctuary with Emi, our friend and local guide </span></div>
+<div class="post-img-box img-grande img-centro"><img src="/img/diario/dsc_0375.webp" alt="Walking through the sanctuary with Emi, our friend and local guide" width="1920" height="1280" loading="lazy"><span class="img-caption">Walking through the sanctuary with Emi, our friend and local guide </span></div>

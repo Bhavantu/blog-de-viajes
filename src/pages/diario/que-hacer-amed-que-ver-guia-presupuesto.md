@@ -29,7 +29,7 @@ Para los que queremos habitar Bali, estar en Amed implica quedarse cerca de la p
 
 No hay grandes centros comerciales ni autopistas. Es un rincón para quienes buscan estar presentes. Para nosotros fue una fuente constante de inspiración para la escritura, el dibujo y el trabajo remoto, un lugar para bajar.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/amanecer-en-la-playa-de-amed.webp" alt="Imagen de bitácora"><span class="img-caption">Amanecer en la playa de Amed (Amed Beach)</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/amanecer-en-la-playa-de-amed.webp" alt="Amanecer en la playa de Amed (Amed Beach)" width="1600" height="1066" loading="lazy"><span class="img-caption">Amanecer en la playa de Amed (Amed Beach)</span></div>
 
 Igual seamos honestos, Amed no es un secreto absoluto. El turismo es parte del paisaje y las propuestas comerciales son constantes: hay cafés de especialidad, hoteles resort y escuelas de buceo de capital extranjero, pero todo convive con el ritmo de la villa de una manera bastante amigable. Amed es un punto medio estratégico entre el “slow travel” y la cercanía a puntos turísticos de interés como templos antiguos, palacios históricos o playas paradisíacas como Virgin Beach. Desde mi punto de vista, es un equilibrio ideal para estar en Bali.
 
@@ -45,7 +45,7 @@ Además, se ajusta a todos los presupuestos con estadías bastante espectaculare
 
 Una de las primeras cosas que vimos en la mañana de Amed es el mar salpicado de velas de colores. Son los *jukungs*, canoas de madera estabilizadas con dos bases laterales de bambú que los pescadores locales usan desde hace generaciones. En la temporada turística, también las usan para salidas de snorkel, pesca o paseos al atardecer.
 
-<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/jukunkgs.webp" alt="Imagen de bitácora"><span class="img-caption">Jukungs en la playa de Amed</span></div>
+<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/jukunkgs.webp" alt="Jukungs en la playa de Amed" width="1920" height="2429" loading="lazy"><span class="img-caption">Jukungs en la playa de Amed</span></div>
 
 Ketut (un pescador y guía local) nos contaba que muchas veces la gente se queda sin trabajo y opta por comprarse un *jukung* para pescar como medio de sustento. A media mañana están estacionados en la orilla; con mucho cuidado, sus dueños limpian los motores y los traccionan con cuerdas para acomodarlos, aunque también hemos visto cómo los cargan al hombro ellos mismos para dejarlos a salvo de la marea.
 
@@ -122,7 +122,7 @@ Es un conjunto de miradores ubicados en la montaña con vistas realmente increí
 
 * **Precio de entrada:** IDR 50.000 (unos USD 3). Incluye estacionamiento y la camioneta que te lleva hasta la cima.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/lahangan-sweet spot-2.webp" alt="Imagen de bitácora"><span class="img-caption">Lahangan Sweet al atardecer</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/lahangan-sweet spot-2.webp" alt="Lahangan Sweet al atardecer" width="1920" height="1280" loading="lazy"><span class="img-caption">Lahangan Sweet al atardecer</span></div>
 
 ### **Pura Lempuyang (Las Puertas del Cielo)**
 
@@ -134,7 +134,7 @@ Si seguís subiendo te encontrarás con una experiencia completamente diferente:
 
 Este palacio es un complejo de bellísimos estanques y puentes históricos conocido como Taman Ujung. Está ubicado en el pueblo de Tumbu y la verdad fue una verdadera joya que nos sorprendió. Resulta ser que fue construido en 1909 por el rey de Karangasem, Anak Agung Anglurah, fusionando de manera asombrosa la arquitectura balinesa, europea y china. Actualmente funciona como centro turístico, muy bien cuidado y mantenido, y la entrada cuesta 100.000 IDR (unos USD 6) y lo podés combinar con los dos siguientes puntos en un mismo día.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/taman-ujung-full-view.webp" alt="Imagen de bitácora"><span class="img-caption">Taman Ujung palacio de agua, Bali</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/taman-ujung-full-view.webp" alt="Taman Ujung palacio de agua, Bali" width="1920" height="1280" loading="lazy"><span class="img-caption">Taman Ujung palacio de agua, Bali</span></div>
 
 ### **Tirta Gangga: el palacio de agua real**
 
@@ -145,7 +145,7 @@ Un antiguo palacio real rodeado de jardines balineses y piscinas de agua decorad
 
 ### **Virgin Beach**
 
-<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/virgin-beach.webp" alt="Imagen de bitácora"><span class="img-caption">Virgin Beach</span></div>
+<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/virgin-beach.webp" alt="Virgin Beach" width="768" height="1364" loading="lazy"><span class="img-caption">Virgin Beach</span></div>
 
 La playa más épica de la isla: arena blanca, agua turquesa, el mismísimo paraíso. La entrada cuesta 20.000 IDR (aprox. USD 1,11) e incluye el estacionamiento. Desde la mañana hasta alrededor de las 3 el agua tiene un color turquesa increíble, la zona de alrededor tiene palmeras y pasto con algo de sombra que en la tarde se llena de gente local que disfruta el paisaje muy tranquila. En la playa hay warungs y puestos de alquiler de tumbonas con sombrilla para pasar el día (100.000 IDR, unos USD 6).
 
@@ -178,7 +178,7 @@ El Monte Agung es el punto más alto de la isla y el volcán más sagrado para l
 
 El atardecer en Amed es un ritual diario. Al estar en la costa este, el sol se oculta detrás del contorno del volcán Agung, regalando postales inolvidables. Acá tenés tres lugares donde podés tomar algo y ver caer el sol. PD: la playa siempre es un buen plan.
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/atardecer-amed-beach-vistas-al-mont-batur-.webp" alt="Imagen de bitácora"><span class="img-caption">Atardecer en la playa de Amed (Amed Beach)</span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/atardecer-amed-beach-vistas-al-mont-batur-.webp" alt="Atardecer en la playa de Amed (Amed Beach)" width="1920" height="1440" loading="lazy"><span class="img-caption">Atardecer en la playa de Amed (Amed Beach)</span></div>
 
 * **Amed Beach (La opción local y gratis):** mantenerlo simple, sentarse en las rocas o la arena negra. Con el sonido de las olas, la silueta del monte y el sol cayendo directamente detrás de la montaña es un espectáculo gratuito.
 * **Bares en la playa:** planazo que incluye un jugo natural fresco o algo de beber por aproximadamente 30.000 IDR (alrededor de 1,67 USD / 1,46 €), en muchos lugares música en vivo y puffs en la arena con vista al mar. 

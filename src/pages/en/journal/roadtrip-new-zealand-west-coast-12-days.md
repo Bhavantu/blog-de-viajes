@@ -41,7 +41,7 @@ If you're coming from the North Island like us, the ferry drops you in Picton. A
   * **Cable Bay:** A beautiful detour where the mountain meets a gorgeous pebble beach.
 * **Where to sleep:** Nelson has excellent Holiday Parks that you can find on the CamperMate app for *self-contained* vehicles. If you take the overnight ferry, as we did, there are also several *free camping* spots near the Picton area with mountain views.
 
-  <div class="post-img-box img-mediano img-centro"><img src="/img/diario/nelson.webp" alt="Imagen de bitácora"><span class="img-caption">Nelson - View of the Basin Reserve Walkway</span></div>
+  <div class="post-img-box img-mediano img-centro"><img src="/img/diario/nelson.webp" alt="Nelson - View of the Basin Reserve Walkway" width="1920" height="2560" loading="lazy"><span class="img-caption">Nelson - View of the Basin Reserve Walkway</span></div>
 
 - - -
 
@@ -71,13 +71,13 @@ We followed the recommendation of C-Way Green, a local musician we met at The Ro
 
 **Note: The SH60 is a dead end, meaning that to get back on Route 6 and head south you have to retrace your steps and cross the mountain again. We recommend setting aside at least 3 full days to enjoy it without rushing, or you can choose to stay on Route 6 only and go straight to point 5. Another option is to [see Golden Bay on a 1-day tour from Nelson](https://www.getyourguide.com/es-es/nelson-nueva-zelanda-l1758/nelson-excursion-de-un-dia-a-golden-bay-t1009283/?ranking_uuid=af1abcb7-94e3-4c03-bc38-96c9875e1769&q=Parque+Nacional+Abel+Tasman+en+sup) visiting the area's iconic spots.**
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/kaiteriteri-beach.webp" alt="Imagen de bitácora"><span class="img-caption">Kaiteriteri Beach - Golden Bay </span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/kaiteriteri-beach.webp" alt="Kaiteriteri Beach - Golden Bay" width="1920" height="1440" loading="lazy"><span class="img-caption">Kaiteriteri Beach - Golden Bay </span></div>
 
 - - -
 
 ## 3. Day 5: From Golden Bay to Punakaiki (Pancake Rocks) along Route 6
 
-<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/murchison-.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/murchison-.webp" alt="" width="1920" height="1440" loading="lazy"><span class="img-caption"></span></div>
 
 We crossed Takaka Hill again on the SH60, reconnected with Route 6 heading south and passed through the town of Murchison (ideal for filling up on fuel and resting) until we reached the wild Tasman Sea. We chose to spend the afternoon and sleep there, in my opinion a place of calm and natural beauty, a true hidden gem. 
 
@@ -87,7 +87,7 @@ We crossed Takaka Hill again on the SH60, reconnected with Route 6 heading south
   * **Buller Gorge:** The longest suspension bridge in New Zealand.
   * **Punakaiki (Pancake Rocks):** Limestone formations that look like piles of giant pancakes. If you go at high tide, you'll see the blowholes shoot seawater meters into the air.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/ruta-hacia-pankake-rock-.webp" alt="Imagen de bitácora"><span class="img-caption">Lookout on the way to the Pancake Rocks - Punakaiki </span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/ruta-hacia-pankake-rock-.webp" alt="Lookout on the way to the Pancake Rocks - Punakaiki" width="1920" height="1440" loading="lazy"><span class="img-caption">Lookout on the way to the Pancake Rocks - Punakaiki </span></div>
 
 - - -
 
@@ -99,7 +99,7 @@ Driving south, we reached the wet glacier region, where the vegetation and lands
 * **Must-sees on the way:**
 
   * **Hokitika Gorge:** A short trail that takes you to a suspension bridge over a river of a turquoise color that's simply unmissable. The walk is quick and in season it's a very touristy area.
-  * <div class="post-img-box img-completo img-centro"><img src="/img/diario/hokitika.webp" alt="Imagen de bitácora"><span class="img-caption">Hokitika River </span></div>
+  * <div class="post-img-box img-completo img-centro"><img src="/img/diario/hokitika.webp" alt="Hokitika River" width="1920" height="1440" loading="lazy"><span class="img-caption">Hokitika River </span></div>
 
 - - -
 
@@ -129,7 +129,7 @@ We crossed from a lake town to the world capital of adventure sports.
 
 > 💡 **TIP FOR SLEEPING IN WANAKA**: Since it's a very touristy area in season, you need to get to the *free campings* very early or book ahead at the Holiday Parks. If you park on the street in restricted areas, the fine is considerable. You can also find [hotels in Wanaka to spend the night.](https://www.booking.com/searchresults.es.html?ss=Wanaka&ssne=Wanaka&ssne_untouched=Wanaka&theme_id=8&efdco=1&sid=b79c37fc00fe5273ba01510bca8165bb&lang=es&sb=1&src_elem=sb&src=city&dest_id=-1516080&dest_type=city&checkin=2026-12-27&checkout=2026-12-28&group_adults=2&no_rooms=1&group_children=0&sb_lp=1&chal_t=1783608741051&force_referer=https%3A%2F%2Fblogcito.com%2F)
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/wanaka-.webp" alt="Imagen de bitácora"><span class="img-caption">Wanaka tree 2026</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/wanaka-.webp" alt="Wanaka tree 2026" width="1920" height="1827" loading="lazy"><span class="img-caption">Wanaka tree 2026</span></div>
 
 - - -
 
@@ -149,7 +149,7 @@ The grand finale. The scenic road from Te Anau to Milford Sound is a beautiful, 
 
 🚢 **Sailing the fjords:** One of the best ways to experience Milford Sound is by sailing its waters. Morning cruise departures are usually cheaper and less crowded. Secure your ticket by booking [your Milford Sound cruise here](https://www.booking.com/attractions/nz/prh1d08irngk-2-hour-milford-sound-scenic-cruise.es.html?source=searchresults-product-card&ufi=900052740&date=2026-07-08&timeslot=ATS-PRH1D08irNgk-202607081100-nullnull&ticket_type=OFI0NG3wxIFp).
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/whatsapp-image-2026-06-01-at-14.38.17.webp" alt="Imagen de bitácora"><span class="img-caption">Milford Sound</span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/whatsapp-image-2026-06-01-at-14.38.17.webp" alt="Milford Sound" width="1920" height="1440" loading="lazy"><span class="img-caption">Milford Sound</span></div>
 
 - - -
 

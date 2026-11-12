@@ -42,7 +42,7 @@ In Bali there is no village without sanctuaries. Beyond the small family shrines
 
 ### Daily devotion: the meaning of the offerings
 
-<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/archivo-pegado.webp" alt="Imagen de bitácora"><span class="img-caption">Daily Balinese offerings, Canang Sari</span></div>
+<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/archivo-pegado.webp" alt="Daily Balinese offerings, Canang Sari" width="311" height="552" loading="lazy"><span class="img-caption">Daily Balinese offerings, Canang Sari</span></div>
 
 The Balinese people surprised us with their charm and kindness. They have a different paradigm of life: faithful to their traditions, they perform their rituals of gratitude and connection several times a day in their family temples. These offerings, known as *Canang Sari*, are the spiritual heartbeat of the island. Each one is a small hand-woven basket made of banana or palm leaves, filled with flowers whose colors depend on the sacred direction: white to the east, red to the south, yellow to the west, and blue or green to the north.
 
@@ -52,7 +52,7 @@ They are always accompanied by smoking incense, which they briefly waft around w
 
 While walking, it's common to be surprised by masks and stone statues that look like guardian demons. Balinese Hinduism is unique; although it shares deities like Brahma, Vishnu and Shiva with the Hinduism of India, its syncretism is its own. Since they don't try to represent the gods in human form, they turn to the forces of nature and to mythology.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/dsc_0555.webp" alt="Imagen de bitácora"><span class="img-caption">Representation of gods in animal form, Balinese Hinduism</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/dsc_0555.webp" alt="Representation of gods in animal form, Balinese Hinduism" width="1920" height="1280" loading="lazy"><span class="img-caption">Representation of gods in animal form, Balinese Hinduism</span></div>
 
 It's frequent to be walking down the street and come across the *Banjar*, the neighborhood's community organization. A group of young people walks by with their traditional instruments (the *Gamelan*: metallophones, gongs and drums) to offer blessings and receive small coins. Among them stands out the *Barong*, a protective figure (a long costume with a monkey or tiger face, among others) that dances to the rhythm of the percussion, operated by two people inside. Families come out to accompany them, and children clap and cheer from the sidewalks.
 
@@ -64,7 +64,7 @@ I was lucky to arrive in Bali close to *Kuningan*, a celebration that takes plac
 
 The word *Kuningan* comes from *kunyit* (turmeric), the star of the yellow rice that is prepared for the gods and offered with coconut on banana leaves. The ceremony symbolizes the victory of *Dharma* (good) over *Adharma* (chaos). In the days before, the neighborhood was transformed: families prepared decorations together with coconut leaves, banana leaves and flowers.
 
-<div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/whatsapp-image-2026-06-29-at-12.17.48-1-.webp" alt="Imagen de bitácora"><span class="img-caption">Ngelawang, a march through the village during Galungan and Kuningan</span></div>
+<div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/whatsapp-image-2026-06-29-at-12.17.48-1-.webp" alt="Ngelawang, a march through the village during Galungan and Kuningan" width="1139" height="1600" loading="lazy"><span class="img-caption">Ngelawang, a march through the village during Galungan and Kuningan</span></div>
 
 On the day of the ceremony, in the morning, the women walked to the neighborhood temple carrying the *Gebogan* (giant towers of fruit and flowers) on their heads. The rest of the day went by between visits to the neighbors' temple and ceremonies at their own family temples. In the afternoon, a big march of people dressed in white, with their *sarongs* and shiny blouses, went through the streets amid greetings and conversations. They kept each other company, laughed and joked among themselves; every older woman invited the neighborhood's babies, who were watching from their parents' arms, to join in, because, as Wayan told us: "In every neighborhood we know each other, we are friends and we look after one another."
 
@@ -85,7 +85,7 @@ The family is the axis. Siblings are named according to their birth order:
 * **Komang (or Nyoman):** The third.
 * **Ketut:** The fourth.
 
-<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/whatsapp-image-2026-06-29-at-23.14.01.webp" alt="Imagen de bitácora"><span class="img-caption">Decorated bamboo penjor in Bali during the Kuningan festival. They symbolize gratitude to the gods, the earth and the sacred mountains.</span></div>
+<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/whatsapp-image-2026-06-29-at-23.14.01.webp" alt="Decorated bamboo penjor in Bali during the Kuningan festival. They symbolize gratitude to the gods, the earth and the sacred mountains." width="1179" height="2021" loading="lazy"><span class="img-caption">Decorated bamboo penjor in Bali during the Kuningan festival. They symbolize gratitude to the gods, the earth and the sacred mountains.</span></div>
 
 In every Balinese home we've been in, a whole family lives together: grandmothers, mothers, uncles, cousins and children. One thing is clear: family life in Bali is a cultural and symbolic axis.
 

@@ -23,7 +23,7 @@ Bali es una isla que forma parte de Indonesia pero tiene tradiciones únicas. Su
 
 Acercarse a esta cultura quedándonos en *guest houses*, asistiendo a ceremonias, danzas y templos fue uno de los motivos principales por los que elegiría Bali nuevamente. Además, la hospitalidad local es constante: la gente siempre te recibe con una sonrisa sincera.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/nusa-penida-alley.webp" alt="Imagen de bitácora"><span class="img-caption">Villa tradicional en Bali</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/nusa-penida-alley.webp" alt="Villa tradicional en Bali" width="1920" height="1280" loading="lazy"><span class="img-caption">Villa tradicional en Bali</span></div>
 
 #### Experiencias culturales que recomendamos vivir:
 
@@ -35,7 +35,7 @@ Acercarse a esta cultura quedándonos en *guest houses*, asistiendo a ceremonias
 
 📖 **Para profundizar en el contexto cultural:** Si querés comprender la cosmovisión, el sistema de castas y la vida cotidiana de la isla, te recomendamos leer nuestro artículo: [El Alma de Bali: cultura, tradiciones y secretos sobre la Isla de los Dioses](/diario/bali-rituales-cultura-tradiciones-secretos/).
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/qué-hacer-en-bali-cultural-.webp" alt="Imagen de bitácora"><span class="img-caption">Actividades culturales en Bali</span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/qué-hacer-en-bali-cultural-.webp" alt="Actividades culturales en Bali" width="675" height="1200" loading="lazy"><span class="img-caption">Actividades culturales en Bali</span></div>
 
 ---
 
@@ -43,7 +43,7 @@ Acercarse a esta cultura quedándonos en *guest houses*, asistiendo a ceremonias
 
 La naturaleza selvática, las cascadas ocultas y el fondo marino son impresionantes. Y aunque es verdad que en ciertas épocas hay masificación, todavía existen rincones preservados que valen completamente la pena.
 
-<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/virgin-beach.webp" alt="Imagen de bitácora"><span class="img-caption">Virgin beach cerca de Amed</span></div> 
+<div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/virgin-beach.webp" alt="Virgin beach cerca de Amed" width="768" height="1364" loading="lazy"><span class="img-caption">Virgin beach cerca de Amed</span></div> 
 
 #### Las playas que más disfrutamos
 

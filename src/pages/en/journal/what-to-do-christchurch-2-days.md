@@ -38,7 +38,7 @@ To help you get your bearings on your two-day walking route, here are the main p
 
 ## Morning: The city layout and the historic area
 
-<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/tranvía-histórico-de-christchurch..webp" alt="Imagen de bitácora"><span class="img-caption">Christchurch Historic Tram</span></div>
+<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/tranvía-histórico-de-christchurch..webp" alt="Christchurch Historic Tram" width="1179" height="1593" loading="lazy"><span class="img-caption">Christchurch Historic Tram</span></div>
 
 The city center is bounded by four main avenues (Bealey, Fitzgerald, Moorhouse and Deans Avenue). This area is lovely for walking and exploring. Like the famous **New Regent Street**, a pedestrian street of pastel-toned Spanish Mission-style houses (cover photo) along which runs the iconic [Christchurch Historic Tram. ](https://www.getyourguide.com/es-es/christchurch-l945/tour-de-la-ciudad-de-christchurch-en-tranvia-antiguo-t58043/?ranking_uuid=be48381e-37b2-4133-8c70-ec65169a19af&q=Tranv%C3%ADa+Hist%C3%B3rico+de+Christchurch.&adults=1)
 
@@ -48,7 +48,7 @@ If you keep walking toward the civic center you'll come across some iconic spots
 * **Bridge of Remembrance:** A monumental stone arch that pays tribute to the soldiers fallen in the wars (World War I, World War II and later armed conflicts) and serves as a pedestrian entrance to the riverside food area (point 5).
 * **Victoria Square:** A park with fountains and historic statues, a beautiful walk surrounded by trees, greenery and the Avon River. 
 
-  <div class="post-img-box img-mediano img-centro"><img src="/img/diario/rememoral-puerta-chrischurch-central-.webp" alt="Imagen de bitácora"><span class="img-caption">Bridge of Remembrance</span></div>
+  <div class="post-img-box img-mediano img-centro"><img src="/img/diario/rememoral-puerta-chrischurch-central-.webp" alt="Bridge of Remembrance" width="1920" height="2201" loading="lazy"><span class="img-caption">Bridge of Remembrance</span></div>
 
 ## 2. Mid-morning: A stroll through the Arts Centre and the city memorial
 
@@ -62,7 +62,7 @@ A few minutes' walk from the Arts Centre you can discover:
 * **Canterbury Earthquake National Memorial:** The emblematic white marble wall next to the Avon River, which commemorates the victims of the 2011 earthquake. I visited on the anniversary of the tragedy; seeing families quietly holding flowers made me truly connect with being grateful for life, which after all is unpredictable.
 * **Christchurch Art Gallery Te Puna o Waiwhetū:** The city's contemporary art museum. I recommend it 100%; it's famous for its undulating glass facade and its cutting-edge exhibitions. The visit is quick, free, and offers interesting collections by artists from the Pacific Islands.
 
-  <div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/museo-de-arte-chrischurch.webp" alt="Imagen de bitácora"><span class="img-caption">Christchurch Art Gallery Te Puna o Waiwhetū</span></div>
+  <div class="post-img-box img-pequeño img-derecha"><img src="/img/diario/museo-de-arte-chrischurch.webp" alt="Christchurch Art Gallery Te Puna o Waiwhetū" width="1920" height="2560" loading="lazy"><span class="img-caption">Christchurch Art Gallery Te Puna o Waiwhetū</span></div>
 * **Canterbury Museum Pop-Up (Gloucester St):** Currently (2026) the museum has moved much of its collection into a free pop-up format in the building at 66 Gloucester St. It's small but interesting, full of dinosaur displays and interactive activities for all ages. For example, a T-Rex skeleton, drawers for looking at insects through a digital magnifying glass, and a sandpit for digging up "fossils". Plenty of kids, and not-so-kids, enjoyed it.
 
 ## 3. Where to eat in Christchurch
@@ -71,7 +71,7 @@ The city's food hub is near the center, and a clear example is **Riverside Marke
 
 * **Midnight Shanghai:** One of my favorites. It's a *dim sum* and modern Asian cuisine restaurant and *cocktail bar*, with karaoke rooms on the second floor.
 
-  <div class="post-img-box img-pequeño img-izquierda"><img src="/img/diario/mishnight-shanghai.webp" alt="Imagen de bitácora"><span class="img-caption">Going out to eat, private karaoke in central Christchurch, New Zealand</span></div>
+  <div class="post-img-box img-pequeño img-izquierda"><img src="/img/diario/mishnight-shanghai.webp" alt="Going out to eat, private karaoke in central Christchurch, New Zealand" width="1920" height="1120" loading="lazy"><span class="img-caption">Going out to eat, private karaoke in central Christchurch, New Zealand</span></div>
 * **Kaiser Brew Garden:** A rooftop beer garden on the upper floor with good stone-baked pizzas and ice-cold draft beers.
 * **El Fogón:** For those who love asado, this stall offers traditional Argentine-style cuts of meat and other dishes from the region.
 
@@ -100,7 +100,7 @@ Before the sun goes down, the best option is to head up high and watch the mount
 * **Lounge 505 (Cathedral Square):** On the terrace of the Christchurch City Hotel, it's an excellent spot for a drink with 270-degree views of the cathedral and the historic heart of the city. They have a professional sommelier.
 * **Pink Lady Rooftop Bar:** On the eighth floor of the building on Manchester Street. It offers the best 360-degree views of the whole city. The signature cocktails are sophisticated and mid-to-high budget. 
 
-  <div class="post-img-box img-pequeño img-izquierda"><img src="/img/diario/rooftoop-chrischurch-.webp" alt="Imagen de bitácora"><span class="img-caption">Lounge 505 (Cathedral Square):</span></div>
+  <div class="post-img-box img-pequeño img-izquierda"><img src="/img/diario/rooftoop-chrischurch-.webp" alt="Lounge 505 (Cathedral Square):" width="1920" height="2560" loading="lazy"><span class="img-caption">Lounge 505 (Cathedral Square):</span></div>
 
 ### Beer and socializing:
 
@@ -108,7 +108,7 @@ If you're after something relaxed to hang out with friends, talk about life or p
 
 * **The Church:** The place where we met up with most of the friends I made during my Working Holiday. In a converted old church, this pub has live music, quiz nights, a heated patio for winter and good vegetarian food options.
 
-  <div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/the-church-.webp" alt="Imagen de bitácora"><span class="img-caption">The Church, the temple of Working Holiday socializing</span></div>
+  <div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/the-church-.webp" alt="The Church, the temple of Working Holiday socializing" width="1920" height="2306" loading="lazy"><span class="img-caption">The Church, the temple of Working Holiday socializing</span></div>
 * **Paddy McNaughton’s:** Practically next door to *The Church* is this classic Irish pub with the same owner. They serve the best Irish gin I've tried and pints of Guinness (among the cheapest in the center). I also found out that on weekends upstairs they hold "Irish parties" in a tiny space: a musician sings traditional songs, everyone sings and dances, and honestly it's an atmosphere of pure joy, and super inclusive, everyone's invited to share and dance with the crowd.
 
 ### Intimate and sophisticated corners (New Regent Street)
@@ -135,7 +135,7 @@ Finally, let me introduce you to this secret that a local couple showed us one n
 
 ## 6. Morning: Industrial style at The Tannery
 
-<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/the-tannery.webp" alt="Imagen de bitácora"><span class="img-caption">The Tannery</span></div>
+<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/the-tannery.webp" alt="The Tannery" width="1099" height="1600" loading="lazy"><span class="img-caption">The Tannery</span></div>
 
 Located a bit further out toward the suburb of Woolston, **The Tannery** is a boutique shopping center converted from an old Victorian industrial tannery. It's the perfect place to browse independent bookshops and vintage clothing stores, and to have breakfast at a local café. The whole aesthetic is very carefully done, combining cast iron, wood and rounded stained glass.
 
@@ -159,7 +159,7 @@ Just an hour and a half by car from the city, crossing the green valleys of the 
 
 This town sits in a harbor that was originally the crater of an enormous extinct volcano. You can book a [Hector's dolphin watching](https://www.getyourguide.com/akaroa-l1983/akaroa-2-hour-harbor-nature-cruise-t66952/) cruise to sail through the volcanic fjord and see up close the smallest and rarest marine dolphins in the world (they have a rounded dorsal fin like Mickey Mouse's ear). Watching them jump next to the boat is an unforgettable experience.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/whatsapp-image-2026-05-25-at-13.21.08.webp" alt="Imagen de bitácora"><span class="img-caption">Akaroa</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/whatsapp-image-2026-05-25-at-13.21.08.webp" alt="Akaroa" width="1620" height="1080" loading="lazy"><span class="img-caption">Akaroa</span></div>
 
 ## The TranzAlpine train and Arthur's Pass mountain pass
 

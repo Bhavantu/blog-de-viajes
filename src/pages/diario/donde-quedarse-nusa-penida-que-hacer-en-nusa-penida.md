@@ -26,9 +26,9 @@ A continuación desglosamos las mejores zonas para alojarse en Nusa Penida segú
 * **[La Marrocco Villas](https://www.booking.com/hotel/id/la-marrocco-villas.html):** Un palacio estilo marroquí con piscina privada, vista al mar y cocina. Un refugio de confort total (solo apto para adultos).
 * **[Suda Cottage](https://www.booking.com/hotel/id/suda-cottage-kabupaten-klungkung2.html):** Habitaciones cómodas con vistas al mar, ubicadas a distancia caminable de cafés como *Secret Penida*.
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/la-marrocco-villas-.webp" alt="Imagen de bitácora"><span class="img-caption">La Marrocco Villas, Zona Norte de Nusa Penida</span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/la-marrocco-villas-.webp" alt="La Marrocco Villas, Zona Norte de Nusa Penida" width="1024" height="576" loading="lazy"><span class="img-caption">La Marrocco Villas, Zona Norte de Nusa Penida</span></div>
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/suda-cottagge-nusa-penida-.webp" alt="Imagen de bitácora"><span class="img-caption">Suda Cottage, Nusa Penida Bali, Indonesia</span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/suda-cottagge-nusa-penida-.webp" alt="Suda Cottage, Nusa Penida Bali, Indonesia" width="1024" height="683" loading="lazy"><span class="img-caption">Suda Cottage, Nusa Penida Bali, Indonesia</span></div>
 
 ---
 
@@ -45,9 +45,9 @@ A continuación desglosamos las mejores zonas para alojarse en Nusa Penida segú
 * **[Kabeh Jati Garden](https://www.booking.com/hotel/id/kabeh-jati-garden-villa-amp-restaurant.html):** Planeamos 3 días y nos quedamos 12. Un lugar hermoso con piscina, atendido por una familia local encantadora y con un desayuno riquísimo.
 * **[Seven Dreams](https://www.booking.com/hotel/id/seven-dreams-a-pramana-experience.html):** Excelente opción con vista al mar, restaurante y servicio de spa de masajes.
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/seven-dreams-nusa-penida-bali.webp" alt="Imagen de bitácora"><span class="img-caption">Seven Dreams, Costa este de Nusa Penida</span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/seven-dreams-nusa-penida-bali.webp" alt="Seven Dreams, Costa este de Nusa Penida" width="1024" height="683" loading="lazy"><span class="img-caption">Seven Dreams, Costa este de Nusa Penida</span></div>
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/nusa-penida-hotel-guitar.webp" alt="Imagen de bitácora"><span class="img-caption">Kabeh Jati Garden, hotel Nusa Penida</span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/nusa-penida-hotel-guitar.webp" alt="Kabeh Jati Garden, hotel Nusa Penida" width="1920" height="1280" loading="lazy"><span class="img-caption">Kabeh Jati Garden, hotel Nusa Penida</span></div>
 
 ---
 
@@ -62,9 +62,9 @@ A continuación desglosamos las mejores zonas para alojarse en Nusa Penida segú
 * **[Crystal Bay Bungalows](https://www.booking.com/hotel/id/crystal-bay-pool-view-bungalow.html):** A pasos de Crystal Bay (playa apta para baño y snorkel). Opción accesible de estilo tradicional con piscina.
 * **[Mimpi Villas - Boutique](https://www.booking.com/hotel/id/mimpi-villa-private-luxury-villas-in-penida.html):** Villas privadas de gran confort, ideales para parejas que buscan una estadía especial.
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/cristal-bay-bungalows.webp" alt="Imagen de bitácora"><span class="img-caption">Crystal Bay Bungalows, Nusa Penida</span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/cristal-bay-bungalows.webp" alt="Crystal Bay Bungalows, Nusa Penida" width="1024" height="683" loading="lazy"><span class="img-caption">Crystal Bay Bungalows, Nusa Penida</span></div>
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/mimipivillas.webp" alt="Imagen de bitácora"><span class="img-caption">Mimpi Villas Boutique, Costa Oeste</span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/mimipivillas.webp" alt="Mimpi Villas Boutique, Costa Oeste" width="1024" height="684" loading="lazy"><span class="img-caption">Mimpi Villas Boutique, Costa Oeste</span></div>
 
 ---
 

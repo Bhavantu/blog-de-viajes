@@ -41,7 +41,7 @@ Si venís de la Isla Norte como nosotros, el ferry te deja en Picton. Luego de u
   * **Cable Bay:** Un desvío hermoso donde la montaña choca con una playa de piedras preciosa.
 * **Dónde dormir:** Nelson tiene Holiday Parks excelentes que podés encontrar en la app CamperMate para vehículos *self-contained*. Si tomás el ferry nocturno, como fue nuestro caso, también hay varios *free camping* Cargandocerca de la zona de Picton con vistas a las montañas.
 
-  <div class="post-img-box img-mediano img-centro"><img src="/img/diario/nelson.webp" alt="Imagen de bitácora"><span class="img-caption">Nelson - Vista de Basin Reserve Walkway</span></div>
+  <div class="post-img-box img-mediano img-centro"><img src="/img/diario/nelson.webp" alt="Nelson - Vista de Basin Reserve Walkway" width="1920" height="2560" loading="lazy"><span class="img-caption">Nelson - Vista de Basin Reserve Walkway</span></div>
 
 - - -
 
@@ -71,13 +71,13 @@ Le hicimos caso a la recomendación de C-Way Green, un músico local que conocim
 
 **Dato: La SH60 es un callejón sin salida es decir que para retomar la Ruta 6 y bajar al sur, hay que desandar el camino y volver a cruzar la montaña. Te recomendamos dedicarle al menos 3 días enteros para disfrutar sin correr o también podés optar por seguir solo por la Ruta 6 y pasar directamente al punto 5. Otra opción es [recorrer la Golden Bay en un tour de 1 día desde Nelson](https://www.getyourguide.com/es-es/nelson-nueva-zelanda-l1758/nelson-excursion-de-un-dia-a-golden-bay-t1009283/?ranking_uuid=af1abcb7-94e3-4c03-bc38-96c9875e1769&q=Parque+Nacional+Abel+Tasman+en+sup) visitando los puntos icónicos de la zona.**
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/kaiteriteri-beach.webp" alt="Imagen de bitácora"><span class="img-caption">Kaiteriteri Beach - Golden Bay </span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/kaiteriteri-beach.webp" alt="Kaiteriteri Beach - Golden Bay" width="1920" height="1440" loading="lazy"><span class="img-caption">Kaiteriteri Beach - Golden Bay </span></div>
 
 - - -
 
 ## 3. Día 5: De Golden Bay a Punakaiki (Pancake Rocks) por la Ruta 6
 
-<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/murchison-.webp" alt="Imagen de bitácora"><span class="img-caption"></span></div>
+<div class="post-img-box img-mediano img-derecha"><img src="/img/diario/murchison-.webp" alt="" width="1920" height="1440" loading="lazy"><span class="img-caption"></span></div>
 
 Volvimos a cruzar Takaka Hill por la SH60, reconectamos con la Ruta 6 hacia el sur y pasamos por el pueblo de Murchison (ideal para cargar nafta y descansar) hasta llegar al salvaje Mar de Tasmania. Nosotros optamos por pasar la tarde y dormir allí, en mi opinión un lugar de calma y belleza natural, una verdadera joya oculta . 
 
@@ -87,7 +87,7 @@ Volvimos a cruzar Takaka Hill por la SH60, reconectamos con la Ruta 6 hacia el s
   * **Buller Gorge:** El puente colgante más largo de Nueva Zelanda.
   * **Punakaiki (Pancake Rocks):** Formaciones de piedra caliza que parecen pilas de panqueques gigantes. Si vas con marea alta, vas a ver cómo los sopladores (*blowholes*) escupen agua marina a metros de altura.
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/ruta-hacia-pankake-rock-.webp" alt="Imagen de bitácora"><span class="img-caption">Look out camino hacia las Pancake Rock - Punakaiki </span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/ruta-hacia-pankake-rock-.webp" alt="Look out camino hacia las Pancake Rock - Punakaiki" width="1920" height="1440" loading="lazy"><span class="img-caption">Look out camino hacia las Pancake Rock - Punakaiki </span></div>
 
 - - -
 
@@ -99,7 +99,7 @@ Recorriendo el camino hacia el sur llegamos a la zona húmeda de los glaciares, 
 * **Imperdibles en ruta:**
 
   * **Hokitika Gorge:** Un sendero corto que te lleva a un puente colgante sobre un río de un color turquesa que no tiene desperdicio. El recorrido es rápido y en temporada es una zona muy túristica.
-  * <div class="post-img-box img-completo img-centro"><img src="/img/diario/hokitika.webp" alt="Imagen de bitácora"><span class="img-caption">Hokitika River </span></div>
+  * <div class="post-img-box img-completo img-centro"><img src="/img/diario/hokitika.webp" alt="Hokitika River" width="1920" height="1440" loading="lazy"><span class="img-caption">Hokitika River </span></div>
 
 - - -
 
@@ -129,7 +129,7 @@ Cruzamos de una ciudad de lagos a la capital mundial del deporte de aventura.
 
 > 💡 **CONSEJO PARA DORMIR EN WANAKA**: Al ser una zona muy  turística en temporada, es necesario ir muy temprano a los *free campings* o reservar con anticipación en los Holiday Parks. Si te estacionás en la calle en zonas no permitidas, la multa es considerable. También podés encontrar [hoteles Wanaka para pasar la noche.](https://www.booking.com/searchresults.es.html?ss=Wanaka&ssne=Wanaka&ssne_untouched=Wanaka&theme_id=8&efdco=1&sid=b79c37fc00fe5273ba01510bca8165bb&lang=es&sb=1&src_elem=sb&src=city&dest_id=-1516080&dest_type=city&checkin=2026-12-27&checkout=2026-12-28&group_adults=2&no_rooms=1&group_children=0&sb_lp=1&chal_t=1783608741051&force_referer=https%3A%2F%2Fblogcito.com%2F)
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/wanaka-.webp" alt="Imagen de bitácora"><span class="img-caption">Wanaka tree 2026</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/wanaka-.webp" alt="Wanaka tree 2026" width="1920" height="1827" loading="lazy"><span class="img-caption">Wanaka tree 2026</span></div>
 
 - - -
 
@@ -149,7 +149,7 @@ El broche de oro. La ruta escénica que te lleva desde Te Anau hasta Milford Sou
 
 🚢 **Navegando los fiordos:** Una de las mejores formas de vivir Milford Sound es navegando sus aguas. Las salidas de los cruceros por la mañana suelen ser más baratas y tienen menos gente. Asegurá tu ticket reservando [tu crucero por Milford Sound acá](https://www.booking.com/attractions/nz/prh1d08irngk-2-hour-milford-sound-scenic-cruise.es.html?source=searchresults-product-card&ufi=900052740&date=2026-07-08&timeslot=ATS-PRH1D08irNgk-202607081100-nullnull&ticket_type=OFI0NG3wxIFp).
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/whatsapp-image-2026-06-01-at-14.38.17.webp" alt="Imagen de bitácora"><span class="img-caption">Mildfour Sound</span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/whatsapp-image-2026-06-01-at-14.38.17.webp" alt="Mildfour Sound" width="1920" height="1440" loading="lazy"><span class="img-caption">Mildfour Sound</span></div>
 
 - - -
 

@@ -141,7 +141,7 @@ CAB is a completely free, confidential, and independent nationwide community org
 ### Buying Your First Vehicle Abroad: Adrenaline, Excitement, and a Touch of Fear
 Buying a vehicle abroad is an exhilarating mix of adrenaline, excitement, and a healthy dose of nervousness. That campervan or car will be your mobile home, your basecamp for backcountry hikes, and your ticket to exploring one of the most stunning countries on earth.
 
-<div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/img_6059.webp" alt="Imagen de bitácora"><span class="img-caption">Vista desde la camper en Bowentown Look Out</span></div>
+<div class="post-img-box img-mediano img-izquierda"><img src="/img/diario/img_6059.webp" alt="Vista desde la camper en Bowentown Look Out" width="1536" height="2048" loading="lazy"><span class="img-caption">Vista desde la camper en Bowentown Look Out</span></div>
 
 It is your campsite on wheels, your refuge on stormy nights, and your front-row seat to sunrise over coastal cliffs and mountain ranges. Because it is such a central part of your travel experience, take your time: inspect thoroughly, check the paperwork, and trust your gut. Never let a seller rush you, don't fall for the first shiny van you see, and make sure the vehicle matches your route. When we share practical knowledge and watch out for each other on the road, our road trips stay an unforgettable adventure rather than a costly headache.
 

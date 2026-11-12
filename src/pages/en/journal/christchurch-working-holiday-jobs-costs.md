@@ -30,7 +30,7 @@ The city of Christchurch was waiting for me to show me the splendor of its beaut
 
 The main advantage of living there is that Christchurch is a true geographic luxury. The Port Hills can be seen from the city and their hiking *trails* are only twenty minutes away, as well as two different beaches half an hour away. The imposing Southern Alps, as well as the incredible **[Arthur's Pass](/en/journal/arthurs-pass-kura-tawhiti-national-canterbury-park-new-zealand-south-island/)** area or some ski resorts, are only two hours away by car. It's the perfect balance between urban social life and constant escapes into nature.
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/ciudad-de-chrischurch-al-atardecer.webp" alt="Panorámica urbana de la ciudad de Christchurch y atardecer en Sumner Beach"><span class="img-caption">Christchurch city: urban walks and Sumner Beach</span></div>
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/ciudad-de-chrischurch-al-atardecer.webp" alt="Panorámica urbana de la ciudad de Christchurch y atardecer en Sumner Beach" width="1000" height="1500" loading="lazy"><span class="img-caption">Christchurch city: urban walks and Sumner Beach</span></div>
 
 - - -
 
@@ -109,7 +109,7 @@ The supply is very wide and constantly updated; the two tools that worked best f
 
 I used **Seek** (local-style CV and active alerts), another option is **Trade Me Jobs** (the search engine with varied, local listings) and **Backpackerboard**, which is quite focused on temporary jobs. For an overview of horticulture work, I used and recommend the official website **pick.nz**.
 
-<div class="post-img-box img-pequeño img-izquierda"><img src="/img/diario/foto-chrischurch.webp" alt="Tranvía histórico recorriendo las calles del centro de Christchurch"><span class="img-caption">Christchurch Central</span></div>
+<div class="post-img-box img-pequeño img-izquierda"><img src="/img/diario/foto-chrischurch.webp" alt="Tranvía histórico recorriendo las calles del centro de Christchurch" width="1179" height="1897" loading="lazy"><span class="img-caption">Christchurch Central</span></div>
 
 - - -
 
