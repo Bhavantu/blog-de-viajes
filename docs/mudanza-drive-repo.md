@@ -80,3 +80,19 @@ Columna "Leído": si Claude lo leyó entero el 12/11 o solo vio el título. Los 
 4. Lore conecta en cada proyecto `CLAUDE.md` y `docs/` desde GitHub, y saca las copias pegadas.
 5. Se actualizan 00 LEEME y las instrucciones de cada rol para que lean del repo (Claude prepara el texto y Lore lo pega).
 6. Las copias viejas se mueven a una carpeta "archivo" en Drive. No se borra nada por unas semanas.
+
+## Qué se borra, quién y cuándo
+
+En Drive solo el dueño de un archivo lo puede borrar, así que la mayoría de las copias viejas las borra Santi. La regla del 00 LEEME ("nunca se borran ni se mueven archivos") es para los roles: esto lo hacen Lore y Santi a mano. Primero se mueve todo a una carpeta "archivo" y se borra del todo recién a las 3 o 4 semanas.
+
+| Cuándo | Qué | Quién |
+|---|---|---|
+| Ya | `contenido/borradores/furongzhen-que-ver.md` (Furongzhen está publicado desde el 12/11) | Lore |
+| Ya | Las versiones viejas del mapa de China que digan "versión anterior, no usar", si quedan | Lore |
+| Desde ya, sin borrar | El "Mapa de clusters – China" de Drive no se edita más: los cambios van al repo (`docs/mapa-cluster-china.md`) | Lore y el rol Clusters |
+| Cuando Lore conecte GitHub en sus proyectos y una sesión de prueba lea bien el repo | El "Mapa de clusters – China" de Drive, a "archivo", después de cambiar las instrucciones de Clusters y Redacción para que lean el del repo | Lore |
+| Ese mismo momento | Las copias de `guia-estilo-blogcito.md`, `plantilla-articulo.md` e `indice-articulos.md`, a "archivo" | Santi (son suyas) |
+| Después de que Claude los revise | `articulos-keywords-blogcito.md`, `preguntas-para-lore.md`, `equipo-y-horas-blogcito.md`, `instrucciones-proyecto-china.md`, "Cómo armar los posts de China con Claude.pdf" y "FORMATO PARA RECOMENDACION DE ALOJAMIENTOS", a "archivo" si no tienen nada que falte en el repo | Santi |
+| Cuando Lore confirme que es una versión vieja de la v2 | `Blogcito_en_Claude_-_estructura_de_trabajo.docx`, a "archivo" | Lore |
+| 3 o 4 semanas después de mover todo | Se vacía la carpeta "archivo" | Lore y Santi |
+
