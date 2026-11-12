@@ -61,6 +61,28 @@ Ya corregido por Santi el 10/11/2026 (no hace falta tocarlo): voseo ("podés", "
 - [ ] Traducción al inglés, cuando el español quede cerrado.
 - [ ] Pasar el PR #126 a "Ready for review" y avisar a Santi.
 
+### Amed (`src/pages/diario/que-hacer-amed-que-ver-guia-presupuesto.md` y su traducción `src/pages/en/journal/what-to-do-amed-bali-real-guide-budget.md`)
+
+Es el post con más chances de generar ingresos pronto: en Search Console está en posición 9 a 10 para "qué hacer en Amed" y "qué ver en Amed". Revisión de Santi y Claude del 12/11/2026. Todo lo que se cambie en español se pasa también a la traducción.
+
+Ya hecho por Santi el 12/11 (rama `amed-si-tenes-poco-tiempo`, PR #129, sin publicar): bloque "Si tenés poco tiempo" antes de la Introducción, con los tres hoteles de la tabla de costos: Bali Yogi Amed (económico), Valomia Beachfront (medio) y Surya Amed Beach (alto), con los precios que ya tenía el post.
+
+**Para Lore (lo que solo ella sabe)**
+- [x] ~~¿Dónde nos quedamos en los 15 días en Amed?~~ Decidido por Santi el 12/11/2026: en este post no se dice en qué alojamiento nos quedamos, así que el bloque va sin "Nos quedamos acá".
+- [ ] Confirmar que los nombres de los hoteles son esos (salieron de los links de Booking).
+- [ ] La lista de 5 alojamientos en "¿Por qué Amed es el refugio de los slow travelers?" tiene textos genéricos ("Estadía frente al mar spa"): poner el nombre de cada hotel o sacar la lista, porque ahora está el bloque arriba.
+- [ ] Fotos: hay 6 en unas 4.600 palabras y un tramo de casi 1.500 palabras sin imagen. Sumar fotos propias de las bahías de snorkel (Jemeluk, Lipah, el naufragio japonés), de los templos y de los volcanes, con `/fotos` (carpeta `amed` en Drive).
+- [ ] Secciones "Lo que nos gustó, lo que no y ¿vale la pena?" y "Qué saltearíamos" (si hay algo): faltan y solo las puede escribir Lore.
+
+**Mejoras de texto y estructura (se pueden hacer con Claude)**
+- [ ] La experiencia aparece tarde: el post arranca con "Hace años tenía el sueño de viajar a Bali" y los "15 días" recién aparecen en "Circuitos turísticos". Llevar a los primeros párrafos cuánto tiempo estuvimos, dónde nos quedamos y el consejo clave (por ejemplo, el de los cajeros sin efectivo).
+- [ ] Título: no dice "qué ver", que es una de las búsquedas que ya trae. Propuesta: "Qué hacer en Amed, Bali: qué ver, snorkel y presupuesto (15 días) 2026". Lo decide Santi, porque la página ya posiciona.
+- [ ] Afiliados que faltan en "Todo lo que necesitás saber antes de ir": eSIM de Airalo (link de Impact de siempre) y seguro de viaje (cuando haya afiliado). Evaluar un traslado desde Ubud o el aeropuerto.
+- [ ] Preguntas frecuentes: están como viñetas en dos lugares ("Preguntas frecuentes de snorkel" y "Preguntas frecuentes"). Pasarlas a una sola sección al final, con cada pregunta como H3.
+- [ ] Costos: hay 4 secciones H2 seguidas sobre costos y presupuesto. Unirlas en una ("¿Cuánto cuesta Amed? Precios 2026") con las tablas adentro. En la tabla los USD van con punto ("8.36"): pasarlos a coma, como en el resto del blog.
+- [ ] Calculadora: el texto promete que el presupuesto llega "al mail en formato Excel" (y dice "recinir"), pero solo se descarga un CSV. Corregir el texto ya y, más adelante, convertirla en un descargable a cambio del mail. La versión en inglés del post linkea a la calculadora en español.
+- [ ] Más adelante, satélites: "Snorkel en Amed", "Dónde quedarse en Amed" y "Excursiones desde Amed". No dividir el post todavía.
+
 ---
 
 ## Parte 2. Errores que encontramos (revisar en cada borrador)
@@ -73,9 +95,9 @@ Ya corregido por Santi el 10/11/2026 (no hace falta tocarlo): voseo ("podés", "
 6. **Lo que nos contaron no es lo que pasó.** Si nos mostraron una foto o nos contaron algo, escribirlo así ("nos mostraron una foto de…"), sin afirmarlo como hecho.
 7. **Nombres de etnias, lugares y personas correctos.** Ojo con mezclar tujia y miao, o lugares parecidos.
 8. **No prometer lo que no está.** Fotos "a continuación", artículos "que vamos a publicar" sin link, secciones que no existen.
-9. **Sin superlativos vacíos.** Nada de "al 100%", "increíble" o "absolutamente" en cadena.
-10. **Estructura de la plantilla completa.** Índice, "Nuestra experiencia", "Qué saltearíamos", "Lo que nos gustó, lo que no y ¿vale la pena?", seguro de viaje en "Antes de ir", FAQ con cada pregunta como H3, "¿Para quién es?", "Más guías de [destino]" y recuadro hacia la guía pilar.
+9. **Superlativos solo si son de Lore.** Los que Lore escribe en sus notas o borradores quedan como están. Claude no agrega superlativos por su cuenta ("al 100%", "increíble", "absolutamente") ni los suma al corregir o completar un texto. Lo mismo con las frases de folleto ("un paraíso escondido", "un rincón donde el tiempo se detiene"): las de Lore quedan, Claude no agrega ninguna (regla cambiada el 12/11/2026).
+10. **Estructura según la plantilla.** Índice, "Nuestra experiencia", seguro de viaje en "Antes de ir", "Más guías de [destino]" y recuadro hacia la guía pilar. Las piezas "si aplica" ("Qué saltearíamos", "Lo que nos gustó, lo que no y ¿vale la pena?", preguntas frecuentes, "¿Para quién es?") van solo si aportan algo; si van, las preguntas frecuentes llevan cada pregunta como H3 (regla cambiada el 12/11/2026).
 11. **Frases cortas y con puntuación.** Releer los párrafos de experiencia: ahí suelen quedar frases pegadas sin punto o sin coma.
 12. **Lista final en el PR.** En la descripción del PR, listar lo que quedó como [VERIFICAR] y lo que falta (por ejemplo, fotos).
-13. **Bloque "Si tenés poco tiempo" compacto.** Cada alojamiento en una fila: nombre, etiqueta y botón "Ver alojamiento" en la misma línea, y debajo una línea con categoría y precio. Sin títulos por grupo ni espacios grandes. Modelo: el bloque de Furongzhen.
+13. **Bloque "Si tenés poco tiempo" solo cuando el lector está eligiendo dónde dormir** (dónde quedarse, guía pilar, "qué hacer" de un lugar donde se hace noche, itinerarios) y en formato compacto: cada alojamiento en una fila con nombre, etiqueta y botón "Ver alojamiento" en la misma línea, y debajo una línea con categoría y precio. Sin títulos por grupo ni espacios grandes. Modelo: el bloque de Furongzhen.
 14. **Tablas.** Observaciones de pocas palabras (el detalle va en el texto) y los conceptos con link natural (entrada, tren, alojamiento, sección del artículo) enlazados.
