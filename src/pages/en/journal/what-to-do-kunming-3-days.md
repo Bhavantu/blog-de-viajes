@@ -56,7 +56,7 @@ The Yunnan Ethnic Village covers 89 hectares next to Dianchi Lake, in the southw
 
 Still, to be honest: it is a site designed for visitors and not the real life of those communities. We took it as a first introduction and, as such, we found it an interesting way into the province's cultures. The shows inside the park are very entertaining and, in general, they end up inviting the audience to dance in a big circle.
 
-A side anecdote: there were many little stalls, both inside and outside the Ethnic Village, offering to dress you up in the costumes of the different ethnic groups. I, Lore, wanted to try one on and asked around in several places, but in the end I did not do it. Later, in Furongzhen, I did get up the courage to wear traditional Miao clothing: I tell the story in the [Furongzhen guide](/diario/furongzhen-que-ver/).
+A side anecdote: there were many little stalls, both inside and outside the Ethnic Village, offering to dress you up in the costumes of the different ethnic groups. I, Lore, wanted to try one on and asked around in several places, but in the end I did not do it. Later, in Furongzhen, I did get up the courage to wear traditional Miao clothing: I tell the story in the [Furongzhen guide](/en/journal/what-to-see-furongzhen/).
 
 * Location: 1310 Dianchi Road, Xishan District, Kunming.
 * Admission: 90 CNY (about USD 13.41 or EUR 12.06) at the gate. [Book the experience with transfer included from the city center here.](https://www.trip.com/travel-guide/attraction/kunming/yunnan-nationalities-village-75906?poiType=3&curr=USD&locale=en-XX&scene=ticket) The night show is paid separately.
@@ -143,8 +143,8 @@ The classic Yunnan route goes from south to north, from Kunming to Dali, Lijiang
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----- | ----- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | [Yunnan Ethnic Village admission](https://www.trip.com/travel-guide/attraction/kunming/yunnan-nationalities-village-75906?poiType=3&curr=USD&locale=en-XX&scene=ticket) | 90         | 13.41 | 12.06 | General daytime admission (night admission costs 50 CNY); the "Call of the Plateau" show is paid separately (150 CNY regular, 220 CNY VIP) |
 | Yuantong Temple admission | 6          | 0.89  | 0.80  | Per person, incense included; open from 8:00 to 17:00 |
-| Plate of noodles or local food | 25         | 3.73  | 3.35  | Average. |
-| [Train Nanning to Kunming](https://www.trip.com/t/ol3P9OfH0X2) | 313 approx. | 46.70 | 41.94 | Costs vary by duration and station |
+| Plate of noodles or local food | 25         | 3.73  | 3.35  | Average |
+| [Train Nanning to Kunming](https://www.trip.com/t/ol3P9OfH0X2) | 313 approx. | 46.64 | 41.94 | Costs vary by duration and station |
 | [Train Kunming to Chengdu](https://www.trip.com/t/W63vDRcH0X2) | 248        | 36.95 | 33.23 | Per person; booked on Trip.com; second class is now listed between 264 and 273 CNY, with journeys of 6 h 20 min to 8 h |
 | [Night of accommodation (Yunyiduo Hotel)](https://www.agoda.com/accom/property?propertyId=92432978&countryId=191&finalPriceView=1&isShowMobileAppPrice=false&cid=1844104&numberOfBedrooms=&familyMode=false&adults=2&children=0&rooms=1&maxRooms=0&checkIn=2026-11-12&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=1&showReviewSubmissionEntry=false&currencyCode=IDR&isFreeOccSearch=false&flightSearchCriteria=%5Bobject+Object%5D&los=1&searchrequestid=ac0e3456-3641-4dde-ba8f-6140e49ec577&ds=yNhqFo6YfgLZOKZw) | 134 approx. | 20.00 | 17.98 | Double room with buffet breakfast; approximate usual rate (we paid more during Golden Week) |
 | Currency conversion reference | 100        | 14.90 | 13.40 | October 2026 exchange rate |
@@ -157,34 +157,38 @@ Is it worth it? Yes, as a 2 or 3 day break on a long trip through China or as a 
 
 ## Frequently Asked Questions
 
-**How many days do you need in Kunming?**
+### How many days do you need in Kunming?
 
 2 or 3 days is enough for the parks, the temple, the tea houses and the Ethnic Village. We stayed 3 nights.
 
-**What is the best time to travel to Kunming?**
+### What is the best time to travel to Kunming?
 
 From March to May and in October and November, with mild weather and little rain. In summer it rains more and in winter it gets cool at night.
 
-**Is the Yunnan Ethnic Village worth it?**
+### Is the Yunnan Ethnic Village worth it?
 
 Yes, if you take it as a first introduction to the province's diversity and not as the real life of the communities. Admission costs 90 CNY.
 
-**How do I get to the Ethnic Village from the center?**
+### How do I get to the Ethnic Village from the center?
 
 By metro and walking the last stretch, as we did (it does not feel heavy), or combining the metro with one of the buses that stop at the Yunnan Ethnic Village station (for example the 24, the 44 or the 73). You can also go by DiDi, which is what we used to come back. Rental bikes can only be used with a local phone number, so they are not an option for tourists unless you buy one and set it up on WeChat.
 
-**Is Kunming expensive?**
+### Is Kunming expensive?
 
 No. A plate of noodles or local food costs around 25 CNY (about USD 3.73) and the markets let you eat at affordable prices.
 
-**Can you go to Dali and Lijiang from Kunming?**
+### Can you go to Dali and Lijiang from Kunming?
 
 Yes, there is a high-speed train. We did not go on this trip, so we cannot tell you what it is like in person.
 
-**Who do we recommend it for?**
+## Who do we recommend it for?
 
 * Backpackers and slow travelers: ideal as a pause between cities.
 * Couples: parks, tea houses and quiet sunsets.
 * Families: the Ethnic Village works well with kids, and they can even dress up.
+
+## More China Guides
+
+* [Furongzhen: what to see, how to get there and shows](/en/journal/what-to-see-furongzhen/)
 
 If you have questions about Kunming or want to tell us about your experience, write to us.
