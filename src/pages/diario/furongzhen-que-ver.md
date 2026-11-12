@@ -86,7 +86,7 @@ La entrada cuesta 98 CNY (USD 14,98 o unos EUR 13). Podés pasar la noche (lo re
 | **[Entrada](https://www.trip.com/t/b9MbQjDn5X2)** | 98 CNY (USD 14,98 o unos EUR 13), válida 3 días. Se saca online y se retira en la puerta. Requiere pasaporte. Llevar siempre la entrada: se escanea en cada acceso. Adolescentes y personas mayores pagan menos. |
 | **Horario del recinto** | De 8:00 a 24:00 (pero muchos hoteles se encuentran dentro).                                                                                                                                              |
 | **Mejor época**     | Recomendados: de marzo a noviembre; primavera (marzo a mayo) y otoño (septiembre a noviembre). La cascada baja mucho entre diciembre y febrero.                                                              |
-| **[Show nocturno](#el-show-final-la-obra-del-gran-teatro-principal)** | Hacia las 20:20, en el Gran Teatro Principal (主剧场) del Centro Escénico Huayuewan, cerca del mirador de la cascada. Incluido en la entrada. Llegá temprano: es por orden de llegada y con límite de capacidad. |
+| **[Show nocturno](#el-show-final-en-el-teatro-yinan)** | A las 20:30, en el Teatro Yinan (翼南剧场). Incluido en la entrada. Llegá temprano: es por orden de llegada y con límite de capacidad. |
 | **Traslado**        | Dentro del pueblo no hay autos, a tener en cuenta: las valijas se llevan a pie, con escaleras. Muchos hoteles ofrecen traslado desde la estación de tren.                                                    |
 | **Último tren**     | A [Fenghuang](https://www.trip.com/t/r4wsFCum5X2), a las 19:45; a [Zhangjiajie West](https://www.trip.com/t/xrY3rO3n5X2), a las 19:20. Confirmá los horarios el día que vayas.                                                                                                           |
 
@@ -121,6 +121,9 @@ A la mañana también hay poca gente y dedicamos el segundo día a ver las repre
 El show que principalmente destacamos es el nocturno. Fuimos bastante temprano: al finalizar el show anterior "el carnaval de los Bizikas" se armó una gran fila, pero entramos primeros y conseguimos un buen lugar en el anfiteatro cerrado. Si tenés poco tiempo, con una noche bien planificada alcanza.
 
 
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/furongzhen-show-aire-libre-noche.webp" alt="La fiesta del carnaval de los Bizikas, a las 19:30 en el Salón Baishou de Furongzhen" width="1920" height="1280" loading="lazy"><span class="img-caption">La fiesta del carnaval de los Bizikas, a las 19:30 en el Salón Baishou de Furongzhen</span></div>
+
+
 ## Qué ver en Furongzhen: horarios aproximados
 
 
@@ -133,8 +136,8 @@ Esta fue nuestra forma de ordenar el día. Los horarios son aproximados y cambia
 * **16:30 a 17:30.** Buena luz para mirar el pueblo desde el mirador, desde el río Youshui o tomando algo en uno de los bares con vista a la cascada.
 * **18:30.** Cena temprana en la calle Wuli.
 * **Desde las 19:00.** Mirador principal de la cascada y encendido de las luces.
-* **19:30.** Show "el carnaval de los Bizikas" en el Salón Baishou (al lado del ingreso), espectáculo al aire libre con danzas, rituales y tambores tradicionales. Apenas termina, a las 20:00 recomendamos ir directo a hacer fila para el show final.
-* **20:20 "El florecer de Furong":** La gran función del pueblo, incluye danzas y música Tujia en el recinto cerrado.
+* **19:30.** "La fiesta del carnaval" (狂欢派对), primera parte de "El florecer de Furong: el carnaval de los Bizikas", en el Salón Baishou (摆手堂, al lado del ingreso): espectáculo al aire libre con danzas, rituales y tambores tradicionales. Apenas termina, a las 20:00 recomendamos ir directo a hacer fila para el show final.
+* **20:30, en el Teatro Yinan (翼南剧场):** "Afecto en el Youshui" (情满酉水), la segunda parte y la gran función del pueblo, con danzas y música tujia en un teatro cerrado.
 * **Después del show.** Pasarela por detrás de la cascada y calles con las farolas encendidas, con menos gente.
 
 
@@ -214,18 +217,13 @@ Hacia las 19:00 se encienden las luces del pueblo y la cascada central se ilumin
 <div class="post-img-box img-completo img-centro"><img src="/img/diario/furongzhen-cascada-noche-pueblo-iluminado.webp" alt="La cascada de Furongzhen iluminada de noche, con el pueblo encendido arriba" width="1920" height="1280" loading="lazy"><span class="img-caption">La cascada de Furongzhen iluminada de noche, con el pueblo encendido arriba</span></div>
 
 
-### El show final: la obra del Gran Teatro Principal
+### El show final en el Teatro Yinan
 
 
-La función nocturna se hace en el Gran Teatro Principal (主剧场) del Centro Escénico Huayuewan (花月湾演艺中心), cerca del mirador de la cascada. La obra se llama "El florecer de Furong" y se divide en tres grandes actos:
+La función nocturna principal es a las 20:30 en el Teatro Yinan (翼南剧场). Es la segunda parte de "El florecer de Furong: el carnaval de los Bizikas" (《花开芙蓉·毕兹卡的狂欢》), el espectáculo nocturno del pueblo: la primera parte, "La fiesta del carnaval" (狂欢派对), es a las 19:30, al aire libre, en el Salón Baishou (摆手堂). La de las 20:30 se llama "Afecto en el Youshui" (情满酉水), como la traduce el cartel del pueblo, por el río que pasa por Furongzhen.
 
 
-* **El pacto y la alianza (歃血结盟):** cuenta cómo las antiguas tribus y los reinos locales sellaron alianzas de paz y comercio en las montañas de Xiangxi.
-* **La vida en el río Youshui y las costumbres (情满酉水):** muestra las tradiciones cotidianas, las bodas tujia tradicionales, los cantos de amor y el folclore del agua.
-* **El gran carnaval final:** un cierre en el que todo el elenco se une en danzas de celebración, con la energía y la algarabía de las fiestas tujia.
-
-
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/furongzhen-show-nocturno-novios.webp" alt="Una escena de &quot;El florecer de Furong&quot;, el show nocturno de Furongzhen" width="1920" height="1280" loading="lazy"><span class="img-caption">Una escena de "El florecer de Furong", el show nocturno de Furongzhen</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/furongzhen-show-nocturno-novios.webp" alt="Una escena de &quot;Afecto en el Youshui&quot;, el show de las 20:30 en el Teatro Yinan de Furongzhen" width="1920" height="1280" loading="lazy"><span class="img-caption">Una escena de "Afecto en el Youshui", el show de las 20:30 en el Teatro Yinan de Furongzhen</span></div>
 
 
 Nuestro consejo: llegar temprano. Al terminar el show de danzas y tambores al aire libre en el Salón Baishou se arma una fila para entrar. Se ve bien de todos lados porque es un anfiteatro pero si hay muchos tours el riesgo es quedarse sin lugar.
