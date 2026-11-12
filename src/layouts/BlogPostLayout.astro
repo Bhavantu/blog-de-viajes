@@ -6,7 +6,8 @@ import { ui } from '../i18n/ui.js';
 // Ya no necesitamos importar RecomendadorHoteles.astro aquí, porque Lore pegará el HTML directamente.
 
 const { frontmatter, headings } = Astro.props;
-const indices = headings ? headings.filter((h: any) => h.depth === 2 || h.depth === 3) : [];
+// Índice: solo los titulares principales (H2), plegado; se abre con un clic
+const indices = headings ? headings.filter((h: any) => h.depth === 2) : [];
 
 // Idioma y rutas
 const currentLang = Astro.currentLocale || 'es';
@@ -68,8 +69,8 @@ const latestPosts = allPosts.slice(0, 3);
                 <a href={getRelativeLocaleUrl(currentLang, carpetaDiario)} class="back-btn hover-verde">← {t['post.volver'] || 'VOLVER'}</a>            
                 
                 {indices.length > 0 && (
-                    <div class="indice-contenidos">
-                        <p class="indice-titulo">{t['post.indice'] || 'Índice de contenidos'}</p>
+                    <details class="indice-contenidos">
+                        <summary class="indice-titulo">{t['post.indice'] || 'Índice de contenidos'} <span class="indice-cantidad">({indices.length})</span></summary>
                         <ul class="indice-lista">
                             {indices.map((heading: any) => (
                                 <li class={`indice-item nivel-${heading.depth}`}>
@@ -79,7 +80,7 @@ const latestPosts = allPosts.slice(0, 3);
                                 </li>
                             ))}
                         </ul>
-                    </div>
+                    </details>
                 )}
                 
                 <slot />
@@ -440,7 +441,12 @@ const latestPosts = allPosts.slice(0, 3);
 
   /* ÍNDICE */
   .indice-contenidos { background-color: var(--bg-color, #f8f6f0); border: 1px solid #e7e5e0; border-radius: 8px; padding: 1.5rem 2rem; margin: 0 0 3rem 0; }
-  .indice-titulo { font-family: var(--font-display); font-size: 1.2rem; margin: 0 0 1rem 0 !important; color: #333; border-bottom: 2px solid #006d77; display: inline-block; padding-bottom: 0.3rem; }
+  .indice-titulo { font-family: var(--font-display); font-size: 1.2rem; margin: 0 !important; color: #333; cursor: pointer; list-style: none; display: flex; align-items: center; gap: 0.5rem; }
+  .indice-titulo::-webkit-details-marker { display: none; }
+  .indice-titulo::before { content: '▸'; color: #006d77; transition: transform 0.2s ease; display: inline-block; }
+  .indice-contenidos[open] .indice-titulo::before { transform: rotate(90deg); }
+  .indice-contenidos[open] .indice-titulo { margin-bottom: 1rem !important; }
+  .indice-cantidad { font-family: var(--font-main, sans-serif); font-size: 0.85rem; color: #888; }
   .indice-lista { list-style: none !important; padding: 0 !important; margin: 0 !important; }
   .indice-item { margin-bottom: 0.7rem; line-height: 1.4; }
   .indice-item.nivel-3 { padding-left: 1.5rem; font-size: 0.95rem; position: relative; }
