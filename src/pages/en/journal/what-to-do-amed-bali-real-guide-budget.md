@@ -15,6 +15,33 @@ archivo_original: que-hacer-amed-que-ver-guia-presupuesto.md
 
 > Amed is one of our favorite corners of the island. If you're planning your trip, we recommend checking out our [Complete Guide to Traveling to Bali](/en/journal/travel-to-bali/) with everything you need to know to organize your itinerary, visa and transportation.
 
+<div style="background: #fbf9f4; border: 2px solid #006d77; border-radius: 14px; padding: 1.1rem 1.2rem 0.8rem; margin: 2rem 0; font-family: var(--font-main, sans-serif);">
+<h3 style="margin: 0 0 0.4rem 0; font-family: var(--font-display, Georgia, serif); font-size: 1.2rem; color: #1c2d37; font-weight: 600;">If you're short on time: where to stay in Amed</h3>
+<div style="padding: 0.55rem 0;">
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 0.75rem;">
+<div style="display: flex; align-items: center; gap: 0.4rem; flex-wrap: wrap; min-width: 0;"><a href="https://www.booking.com/hotel/id/bali-yogi-amed1.html" target="_blank" rel="noopener" style="color: #222; font-size: 0.95rem; font-weight: bold; text-decoration: none !important; box-shadow: none !important; background-image: none !important;">Bali Yogi Amed</a><span style="background: #e0f2fe; color: #075985; font-size: 0.68rem; font-weight: 700; padding: 0.1rem 0.45rem; border-radius: 4px; white-space: nowrap;">Beachfront</span></div>
+<a href="https://www.booking.com/hotel/id/bali-yogi-amed1.html" target="_blank" rel="noopener" style="flex-shrink: 0; white-space: nowrap; color: #006d77 !important; font-size: 0.78rem; font-weight: 700; padding: 0.3rem 0.65rem; border-radius: 6px; border: 1px solid #006d77; text-decoration: none !important; box-shadow: none !important; background-image: none !important;">See accommodation &rarr;</a>
+</div>
+<p style="margin: 0.15rem 0 0 0; font-size: 0.82rem; line-height: 1.4; color: #666;"><strong style="color: #006d77;">Budget.</strong> About 150,000 IDR (USD 8.36, EUR 7.31) per night.</p>
+</div>
+<div style="padding: 0.55rem 0; border-top: 1px solid #e7e2d8;">
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 0.75rem;">
+<div style="display: flex; align-items: center; gap: 0.4rem; flex-wrap: wrap; min-width: 0;"><a href="https://www.booking.com/hotel/id/valomia-beachfront.html" target="_blank" rel="noopener" style="color: #222; font-size: 0.95rem; font-weight: bold; text-decoration: none !important; box-shadow: none !important; background-image: none !important;">Valomia Beachfront</a><span style="background: #ede9fe; color: #5b21b6; font-size: 0.68rem; font-weight: 700; padding: 0.1rem 0.45rem; border-radius: 4px; white-space: nowrap;">Bungalow</span></div>
+<a href="https://www.booking.com/hotel/id/valomia-beachfront.html" target="_blank" rel="noopener" style="flex-shrink: 0; white-space: nowrap; color: #006d77 !important; font-size: 0.78rem; font-weight: 700; padding: 0.3rem 0.65rem; border-radius: 6px; border: 1px solid #006d77; text-decoration: none !important; box-shadow: none !important; background-image: none !important;">See accommodation &rarr;</a>
+</div>
+<p style="margin: 0.15rem 0 0 0; font-size: 0.82rem; line-height: 1.4; color: #666;"><strong style="color: #006d77;">Mid-range.</strong> About 350,000 IDR (USD 19.50, EUR 17.05) per night, ideal for slow travelers.</p>
+</div>
+<div style="padding: 0.55rem 0; border-top: 1px solid #e7e2d8;">
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 0.75rem;">
+<div style="display: flex; align-items: center; gap: 0.4rem; flex-wrap: wrap; min-width: 0;"><a href="https://www.booking.com/hotel/id/surya-amed-beach.html" target="_blank" rel="noopener" style="color: #222; font-size: 0.95rem; font-weight: bold; text-decoration: none !important; box-shadow: none !important; background-image: none !important;">Surya Amed Beach</a><span style="background: #e0f2fe; color: #075985; font-size: 0.68rem; font-weight: 700; padding: 0.1rem 0.45rem; border-radius: 4px; white-space: nowrap;">Beachfront</span></div>
+<a href="https://www.booking.com/hotel/id/surya-amed-beach.html" target="_blank" rel="noopener" style="flex-shrink: 0; white-space: nowrap; color: #006d77 !important; font-size: 0.78rem; font-weight: 700; padding: 0.3rem 0.65rem; border-radius: 6px; border: 1px solid #006d77; text-decoration: none !important; box-shadow: none !important; background-image: none !important;">See accommodation &rarr;</a>
+</div>
+<p style="margin: 0.15rem 0 0 0; font-size: 0.82rem; line-height: 1.4; color: #666;"><strong style="color: #006d77;">High-end.</strong> About 700,000 IDR (USD 38.99, EUR 34.09) per night, a resort with every comfort.</p>
+</div>
+<p style="margin: 0.5rem 0 0 0; padding-top: 0.6rem; border-top: 1px dashed #d6cec0; text-align: center; font-size: 0.78rem; color: #736b63;">Booking through these links helps us keep the blog independent and free of intrusive ads. 🧡</p>
+</div>
+
+
 ## Introduction
 
 For years I dreamed of traveling to Bali, in Indonesia. I wanted the Bali of my dreams, the one with quiet beaches, rituals in sacred temples and a real connection with nature.
