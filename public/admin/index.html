@@ -26,9 +26,12 @@
           const size = obj.size || 'completo';
           const align = obj.align || 'centro';
           const caption = obj.caption || '';
-          return `<div class="post-img-box img-${size} img-${align}"><img src="${obj.image || ''}" alt="Imagen de bitácora"><span class="img-caption">${caption}</span></div>`;
+          // El alt es el epígrafe sin etiquetas ni comillas. Sin epígrafe queda vacío, no un texto genérico.
+          const alt = caption.replace(/<[^>]*>/g, '').replace(/"/g, '&quot;').trim();
+          return `<div class="post-img-box img-${size} img-${align}"><img src="${obj.image || ''}" alt="${alt}" loading="lazy"><span class="img-caption">${caption}</span></div>`;
         },
-        pattern: /<div class="post-img-box img-(.*?) img-(.*?)"><img src="(.*?)" alt=".*?"\s*\/?>\s*<span class="img-caption">([\s\S]*?)<\/span><\/div>/,
+        // Acepta cualquier atributo extra en el <img> (width, height, loading) para poder editar bloques que insertó scripts/procesar-fotos.mjs
+        pattern: /<div class="post-img-box img-(.*?) img-(.*?)"><img src="([^"]*)"[^>]*>\s*<span class="img-caption">([\s\S]*?)<\/span><\/div>/,
         fromBlock: function(match) {
           return { size: match[1], align: match[2], image: match[3], caption: match[4] };
         },
@@ -46,7 +49,8 @@
             }
           }
           
-          return `<div class="post-img-box img-${size} img-${align}"><img src="${imageAsset}" style="width:100%; height:auto;" /><span class="img-caption">${caption}</span></div>`;
+          const alt = caption.replace(/<[^>]*>/g, '').replace(/"/g, '&quot;').trim();
+          return `<div class="post-img-box img-${size} img-${align}"><img src="${imageAsset}" alt="${alt}" style="width:100%; height:auto;" /><span class="img-caption">${caption}</span></div>`;
         }
       });
 
