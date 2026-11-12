@@ -55,7 +55,7 @@ Cada artículo pertenece a una categoría, y la categoría marca el registro.
 - Honestidad explícita ("para ser honestos"). Reconocemos lo turístico sin despreciarlo.
 - Los superlativos ("increíble", "absolutamente", "al 100%") son de quien escribe: si Lore los pone en sus notas o borradores, quedan. Claude nunca los agrega por su cuenta ni los usa para dar énfasis; el peso lo llevan los datos y lo vivido.
 - El impersonal de guía ("se puede tomar…") queda para datos puramente logísticos.
-- El cliché poético va en Punto de Fuga, no en las guías prácticas.
+- Las frases de folleto ("un paraíso escondido", "un rincón donde el tiempo se detiene", "una joya por descubrir") siguen la misma regla que los superlativos: si las escribe Lore, quedan; Claude no las agrega por su cuenta. El registro poético tiene su lugar natural en Punto de Fuga.
 
 ### Opinión y veredicto, cuando aporta
 Si tenemos una opinión que le sirve a quien lee, la decimos con su motivo: qué nos gustó, qué no, qué saltearíamos y para quién es cada plan. No hace falta forzar un veredicto en cada sección ni en cada artículo. Una sección de historia o una crónica no necesitan un "vale la pena".
