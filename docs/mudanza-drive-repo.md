@@ -115,8 +115,8 @@ Los seis proyectos de Lore dejaron un inventario en `_contexto/registro`. Ningun
 
 - Links que faltan: Drive usa [LINK FALTANTE], Blogcito china usa [VERIFICAR] y el repo dice que Stay22 convierte solo. Se unifica junto con el conflicto 1.
 - Trip.com: no está confirmado que Stay22 lo convierta. Si no, el satélite de trenes no da comisión. Revisarlo en el panel de Stay22.
-- Blogcito china dice "no menciones en los artículos que se usa IA". Desde el 12/11 los posts en inglés llevan el aviso de traducción con IA (lo pone el layout). En los originales en español no se menciona. Lore confirma si está de acuerdo.
+- Blogcito china dice "no menciones en los artículos que se usa IA". **Decidido el 13/11 (Santi): los posts en inglés llevan el aviso de traducción con IA** (lo pone el layout, desde el PR #134). En los originales en español no se menciona.
 - Borradores: las instrucciones de Redacción dicen Google Doc en `contenido/borradores`; sus reglas dicen que el borrador único es el canvas de la conversación. Lo decide Lore.
-- Dos proyectos escriben China: Redacción y Blogcito china. Conviene que quede uno solo.
+- Dos proyectos escriben China: Redacción y Blogcito china. **Decidido el 13/11 (Santi): queda Redacción.** Blogcito china se archiva después de pasar sus archivos útiles a `_contexto/mudanza` y de rescatar los borradores que estén en sus chats.
 - Columna EUR en las tablas: la guía del repo la pide (moneda local, USD y EUR). Se cierra así.
 
