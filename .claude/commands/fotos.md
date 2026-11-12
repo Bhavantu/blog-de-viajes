@@ -46,7 +46,7 @@ Insertá los bloques en el post en español (src/pages/diario/<slug>.md) con el 
 ```
 
 - `width` y `height` son los píxeles que informó el script (el tamaño real del archivo generado).
-- Todas las fotos van centradas (`img-centro`). Una vertical sola va en `img-mediano`; una horizontal, en `img-completo`.
+- Todas las fotos van centradas (`img-centro`, `img-completo`). El tamaño no achica nada: el CSS pone las horizontales a todo el ancho del texto y las verticales lo más grandes que entren en la pantalla.
 - Dos verticales seguidas pueden ir lado a lado, dentro de un mismo bloque sin líneas en blanco:
   `<div class="post-img-par">` + los dos `<div class="post-img-box img-completo img-centro">…</div>` + `</div>`. Nunca dos horizontales lado a lado: van una arriba de la otra.
 - El alt no lleva etiquetas HTML ni comillas dobles (usar `&quot;` o reescribir).
