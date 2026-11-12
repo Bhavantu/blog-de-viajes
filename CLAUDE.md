@@ -7,6 +7,7 @@ Blog de viajes de Lore y Santi (blogcito.com). Turismo lento, guías prácticas 
 - @docs/plantilla-articulo.md
 - @docs/pendientes-blogcito.md
 - docs/mapa-cluster-china.md (mapa del cluster de China: pilar, satélites, slugs y estado de cada artículo)
+- docs/datos-viaje-china.md (hoteles, trenes y fechas del viaje a China, con lo que no cierra entre la planilla y lo publicado)
 - docs/revision-borradores-lore.md (pendientes de cada borrador y errores que encontramos en revisión, para tachar y revisar antes de cada PR)
 
 Estos tres archivos son la fuente de verdad. Si algo de este archivo choca con la guía de estilo, vale la guía de estilo, salvo en afiliados, donde vale lo que dice este archivo.
