@@ -58,4 +58,4 @@ El mapa del cluster (2/11) dice que las noches reales fueron Fenghuang 1 y Chang
 - **Fenghuang.** Figuran 11 y 22 sin aclarar cuál es el total y cuál por noche. Changsha figura 55 sin aclarar si es total.
 - **Tren Changsha a Shanghái.** El link es una búsqueda a Guangzhou, no a Shanghái.
 - **Costos que sirven para el artículo de logística.** Recargo de Trip.com por compra, 6 por compra (según la planilla).
-- **Furongzhen publicado (agregado el 13/11).** El artículo publicado dice que pasamos 2 noches y 3 días y que nos quedamos en Jianghu; la planilla da 1 noche (16 al 17/10) sin hotel. Vale lo publicado, que lo confirmó Lore, pero conviene que Lore lo confirme también acá.
+- **Furongzhen: resuelto el 13/11.** Fueron 2 noches en Jianghu, como dice el artículo publicado (lo confirmó Santi). El artículo ya aclara que se puede hacer en una. La planilla (1 noche, 16 al 17/10) quedó desactualizada en ese punto.
