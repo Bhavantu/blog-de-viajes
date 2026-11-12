@@ -131,7 +131,7 @@ Esta fue nuestra forma de ordenar el día. Los horarios son aproximados y cambia
 
 
 * **Desde las 9:00.** Buen horario para caminar: todo está muy tranquilo y desde las 9:00 hay shows en distintas zonas del pueblo.
-* **Paseos sugeridos.** Salón Baishou, parque del Pilar de Bronce, puente Tuwang, Palacio Tusi (vista desde lejos), ver las casas Tujia sobre pilotes y la calle Wuli (ver el orden del recorrido más abajo).
+* **Paseos sugeridos.** Salón Baishou, parque del Pilar de Bronce, puente Tuwang, Palacio Tusi, ver las casas Tujia sobre pilotes y la calle Wuli (ver el orden del recorrido más abajo).
 * **Alrededor de las 14:30.** La representación de la previa de una boda en el puente (una de nuestras favoritas).
 * **16:30 a 17:30.** Buena luz para mirar el pueblo desde el mirador, desde el río Youshui o tomando algo en uno de los bares con vista a la cascada.
 * **18:30.** Cena temprana en la calle Wuli.
@@ -187,7 +187,9 @@ El mapa del recinto propone una caminata en un solo sentido, casi toda en bajada
 ### 4. Palacio Tusi (土王行宫)
 
 
-* **Qué es:** la residencia de verano de los jefes tusi, se ve desde lejos y no llegamos hasta allí.
+* **Qué es:** el palacio de verano de los jefes tusi, la familia Peng que gobernó la región durante más de 800 años. También lo llaman palacio Youyang (酉阳宫). Está al borde del acantilado, junto a la cascada: según las guías de viaje, los jefes eligieron ese lugar porque en verano es el más fresco del pueblo.
+* **Cómo es:** un edificio de madera al estilo de los salones tradicionales tujia, con las vigas unidas por encastres de madera. Desde ahí se ve la cascada y el pueblo, y hoy es uno de los puntos principales del recorrido.
+* **Lo que vivimos:** pasamos por el palacio, pero no tenemos fotos de adentro.
 
 
 ### 5. Parque del Pilar de Bronce de Xizhou y Salón Baishou
@@ -205,7 +207,7 @@ El mapa del recinto propone una caminata en un solo sentido, casi toda en bajada
 Los shows están incluidos en la entrada y hay varios a lo largo del día como "el llanto de la novia", el show de acrobacias y cuchillos o danzas folklóricas, es posible encontrarlos durante el paseo porque son en lugares públicos o también podés conocer los horarios en la cartelera del centro de información al entrar.
 
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/furongzhen-malabarista-hacha.webp" alt="Un show de acrobacias en una de las plazas de Furongzhen" width="1920" height="1280" loading="lazy"><span class="img-caption">Un show de acrobacias en una de las plazas de Furongzhen</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/furongzhen-malabarista-hacha.webp" alt="Un show de acrobacias en una de las plazas de Furongzhen" width="1920" height="1280" loading="lazy"><span class="img-caption">Un show de acrobacias en una de las plazas de Furongzhen</span></div>
 
 
 Los principales son durante la tarde noche y destacan:
