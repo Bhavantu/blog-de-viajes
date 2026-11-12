@@ -8,6 +8,14 @@ Basado en el documento "CHINA" (ruta de 20 días en octubre de 2026: Nanning, Ku
 
 **Estado al 12/11:** publicados 2 de 26 (Kunming y Furongzhen, este último el 12/11 con el merge del PR #126). Volúmenes de búsqueda: sin medir; los valida el rol Competencia.
 
+## Para escribir sobre China
+
+- El viaje fue en octubre de 2026: es el mes de los precios y de la experiencia.
+- Tipo de cambio de los artículos de China: 1 USD ≈ 6,7 CNY y 1 EUR ≈ 7,7 CNY, el mismo en todo el artículo.
+- Pagamos siempre con Alipay. Los precios de trenes y entradas son los de Trip.com que dio Lore; no se mencionan otras apps de reserva.
+- Los artículos de China se firman con Lorena (el sitio todavía no muestra autor).
+- Datos del viaje (hoteles, trenes, fechas): `datos-viaje-china.md` y el doc CHINA, en Drive, hasta que pasen al repo.
+
 ## Pilar
 
 | # | Título | Keyword principal | Slug | Afiliados | Estado / prioridad |
@@ -51,7 +59,7 @@ Enlaza a todos los satélites, incluidos Kunming y Furongzhen. Se publica primer
 ### Datos de Furongzhen (#16) que mandan sobre el mapa anterior
 
 - Nos quedamos en Jianghu. Otras opciones del artículo: Furong Town and Slow Yueshe, Tuwang Palace · Eight Halls y Huayangnianhua Inn.
-- Entrada: 108 CNY. Último tren Furongzhen→Fenghuang 19:45; Furongzhen→Zhangjiajie West 19:20.
+- Entrada: 98 CNY en Trip.com, válida 3 días (es lo que dice el artículo publicado; el mapa de Drive decía 108 CNY). Último tren Furongzhen→Fenghuang 19:45; Furongzhen→Zhangjiajie West 19:20.
 - Show de la novia visto alrededor de las 14:30.
 
 ## Comparativas y rutas

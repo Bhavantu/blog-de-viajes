@@ -120,6 +120,7 @@ Solo si hay preguntas reales que el cuerpo no responde de forma directa: las que
 ### Precios y datos
 - Moneda local primero y la conversión aproximada entre paréntesis: "50.000 IDR (unos USD 3)". En prosa, decimales con coma ("USD 1,39").
 - Indicar el mes de los precios. Cuando es lo que pagamos nosotros, decirlo ("pagamos unos USD 25 la noche").
+- Un solo tipo de cambio en todo el artículo, y las cuentas verificadas antes de entregar.
 - Tablas de costos con columnas de moneda local, USD y EUR, y observaciones de pocas palabras ("23 min", "Lo que pagamos", "Sin bebida"). El detalle va en el texto.
 - En cualquier tabla, si el concepto tiene un link natural (la entrada, un tren, un alojamiento, una sección del artículo), el concepto va como link.
 

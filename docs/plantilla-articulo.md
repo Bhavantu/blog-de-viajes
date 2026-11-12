@@ -18,6 +18,8 @@ Las estructuras de abajo son el punto de partida, no una lista obligatoria. Las 
 - Pilar y satélites del cluster para enlazar
 - Recurso descargable del destino, si existe
 
+El brief se arma en el chat del artículo: Redacción propone keyword, slug, título, meta, estructura, enlaces y afiliados, y le pasa a Lore una ficha con los datos que faltan (tiempo en el lugar, dónde nos quedamos, precios con fecha, horarios, qué nos gustó y qué no, fotos). Los links y datos de cada destino viven en la hoja de Drive "Links y datos de [destino]" (una pestaña por tipo: trenes, alojamientos, tours, eSIM y seguros; columnas destino, nombre, URL, precio con fecha y notas), y los fijos en "Biblioteca de afiliados (fijos)"; Redacción las lee sin pedírselas a Lore.
+
 ## Estructura para Guía de Viaje (pilar o satélite de "qué hacer")
 1. **Título** que diga claramente de qué trata, con las palabras con que se busca y, si aplica, el año y un gancho de experiencia u opinión.
 2. **Firma y fecha.**
@@ -70,6 +72,45 @@ Acá el veredicto es el tema del artículo, así que siempre va.
 8. **Etiqueta y respeto** en lugares de culto.
 9. **Enlaces** a guías prácticas del mismo destino.
 
+## Frontmatter (src/pages/diario/<slug>.md)
+
+```
+---
+layout: ../../layouts/BlogPostLayout.astro
+title: "..."
+slug_url: <slug>
+date: 2026-11-11T01:52:00.000+13:00
+tag: guia de viaje
+pais: China
+description: "..."
+main_image: /img/diario/<archivo>.webp
+---
+```
+
+- El slug es el nombre definitivo de la URL: keyword al principio, minúsculas, ASCII sin tildes, con guiones, nunca "por libre" (por ejemplo `furongzhen-que-ver`). Se define antes de crear el archivo, porque después cambiarlo exige un redirect.
+- `tag` admite: guia de viaje, vida local, contexto y cultura, punto de fuga, fotografia y bitacora (estos dos últimos no tienen categoría: ver Prioridad 5 de pendientes).
+- Los posts en inglés llevan además `archivo_original` con el nombre del archivo en español.
+- El índice "En este artículo" lo arma el sitio con los H2: no se escribe. El H1 es el `title` y no va en el cuerpo.
+
+## Formatos del cuerpo
+
+Los modelos son los artículos publicados `furongzhen-que-ver.md` (tarjetas de alojamiento y de trenes) y `que-hacer-amed-que-ver-guia-presupuesto.md` (bloque "Si tenés poco tiempo" y tablas de costos). Ante la duda, copiar el HTML de ahí.
+
+- **Tablas:** en markdown. Las de costos llevan moneda local, USD, EUR y observaciones cortas (ver la guía de estilo).
+- **Recuadros:** `> 💡 ...`, `> ⚠️ ...`, `> 🧡 *aviso de afiliados*`, `> 🎒 enlace a otro artículo`, `> 📩 ...`, con el significado de la guía de estilo.
+- **Listas con ⭐:** categoría en negrita con ⭐ y después `[Nombre](url) — descripción`.
+- **Imágenes** (webp en /img/diario/): `<div class="post-img-box img-completo img-centro"><img src="..." alt="Epígrafe"><span class="img-caption">Epígrafe con el nombre del lugar</span></div>`. El `alt` es el mismo texto que el epígrafe. El tamaño (`img-pequeño`, `img-mediano`, `img-completo`) no cambia cómo se ve: todas van centradas (ver "Fotos" en la guía). Dos verticales seguidas pueden ir en un bloque `post-img-par`.
+- **Tarjetas de alojamiento y de trenes:** bloque HTML con estilos inline, borde `#006d77`, un ítem por línea con el nombre enlazado, una insignia de color y el botón "Ver alojamiento →" o "Ver tren →" a la derecha. Insignias: verde (#e6f4f1 / #006d77) solo para "Nos quedamos acá"; amarillo (#fef3c7 / #92400e), azul (#e0f2fe / #075985) y violeta (#ede9fe / #5b21b6) para el resto. Las de trenes se separan en "Ir a…" y "Volver", con insignias "Desde…" y "Hacia…".
+- Los links a comercios se dejan como están: Stay22 los convierte y no se agregan IDs.
+
+## Antes de entregar
+
+- Voseo; tilde en "Qué", "Dónde" y "Cómo" de los títulos; ningún "por libre".
+- Un solo tipo de cambio en todo el artículo, y las cuentas de monedas verificadas.
+- Links internos solo a artículos publicados.
+- En el borrador, lo dudoso va como [VERIFICAR] y los links de afiliado que faltan como [LINK FALTANTE]; en el .md final que va al PR no queda ninguno: lo que no se confirmó se saca o se dice como algo que no sabemos.
+- Las formas verbales de Lore no se cambian: lo que haya que unificar se comenta.
+
 ## Entrega del borrador
 - Artículo completo en voseo
 - Título SEO, meta descripción y slug propuestos
@@ -77,3 +118,4 @@ Acá el veredicto es el tema del artículo, así que siempre va.
 - Lugares sugeridos para enlaces de afiliados, cada uno con su alternativa local
 - Sugerencias de fotos con epígrafe para cada sección
 - Ideas de satélites nuevos que hayan surgido al escribir
+- Filas del mapa del cluster que hay que actualizar (los datos del viaje mandan sobre el mapa)
