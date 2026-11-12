@@ -28,6 +28,9 @@ const allPosts = Object.values(postsGlob).sort((a: any, b: any) => {
 });
 
 const latestPosts = allPosts.slice(0, 3);
+
+// Aviso de traduccion: los posts en ingles con archivo_original se tradujeron con ayuda de IA y los revisamos nosotros
+const urlOriginal = currentLang === 'en' && frontmatter?.archivo_original ? `/diario/${frontmatter.archivo_original.replace('.md', '')}/` : '';
 ---
 
 <Layout title={frontmatter.title} description={frontmatter.description} frontmatter={frontmatter} isTransparentHeader={true}>
@@ -68,6 +71,10 @@ const latestPosts = allPosts.slice(0, 3);
             <div class="text-column">
                 <a href={getRelativeLocaleUrl(currentLang, carpetaDiario)} class="back-btn hover-verde">← {t['post.volver'] || 'VOLVER'}</a>            
                 
+                {urlOriginal && (
+                    <p class="aviso-traduccion">{t['post.avisoTraduccion1']} <a href={urlOriginal} hreflang="es">{t['post.avisoTraduccionLink']}</a> {t['post.avisoTraduccion2']}</p>
+                )}
+
                 {indices.length > 0 && (
                     <details class="indice-contenidos">
                         <summary class="indice-titulo"><span>{t['post.indice'] || 'Índice de contenidos'} <span class="indice-cantidad">({indices.length})</span></span><span class="indice-boton"><span class="indice-ver">{t['post.verIndice'] || 'Ver índice'} ▾</span><span class="indice-ocultar">{t['post.ocultarIndice'] || 'Ocultar'} ▴</span></span></summary>
@@ -439,6 +446,8 @@ const latestPosts = allPosts.slice(0, 3);
     }
 
   /* ÍNDICE */
+  .aviso-traduccion { font-size: 0.85rem; font-style: italic; color: #666; margin: 0 0 1.5rem 0; }
+  .aviso-traduccion a { color: inherit; text-decoration: underline; }
   .indice-contenidos { background-color: var(--bg-color, #f8f6f0); border: 1px solid #e7e5e0; border-radius: 8px; padding: 1.5rem 2rem; margin: 0 0 3rem 0; }
   .indice-titulo { font-family: var(--font-display); font-size: 1.2rem; margin: 0 !important; color: #333; cursor: pointer; list-style: none; display: flex; align-items: center; justify-content: space-between; gap: 1rem; flex-wrap: wrap; }
   .indice-titulo::-webkit-details-marker { display: none; }
