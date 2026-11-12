@@ -141,5 +141,5 @@ El resumen de Dirección (Drive, `_contexto`) quedó bien y es el vigente. Tres 
 - **Pendiente 6 (resincronizar y pegar instrucciones): no hace falta.** Las fuentes de los proyectos son "fuentes sincronizadas" de Drive y se leen actualizadas, y los cinco controles mostraron que los roles leen bien el repo aunque la instrucción no lo nombre.
 - **Pendiente 14 (Furongzhen): resuelto.** Entrada de 98 CNY y 2 noches en Jianghu, como en el artículo publicado (confirmado por Santi el 13/11).
 - **Pendiente 7 (repo privado):** Santi lo pasa a privado como prueba; si un rol no puede leer el repo, vuelve a público.
-- **Decisiones** (Drive) no se actualizó el 13/11: vale el Resumen de situación 2026-11-13.
+- **Decisiones** (Drive) no se actualizó el 13/11: vale el Resumen de situación 2026-11-13.- **Tailandia: decidido el 13/11 (Santi).** Queda postergada sin fecha, porque por ahora no podemos viajar. No se trabaja su cluster. Orden de destinos: China, Vietnam, Lombok (chico) y Bali (familia y embarazada).
 
