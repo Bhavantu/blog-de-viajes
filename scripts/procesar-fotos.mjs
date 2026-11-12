@@ -8,7 +8,7 @@ import sharp from 'sharp';
 // Procesa las fotos de una carpeta de origen (copia de la carpeta de Drive) y las deja listas para el blog.
 //
 // Uso:
-//   npm run fotos -- nombre-de-carpeta [--dry-run] [--forzar] [--salida carpeta] [--origen carpeta]
+//   npm run fotos -- nombre-de-carpeta [--dry-run] [--forzar] [--solo foto1.jpg,foto2.jpg] [--salida carpeta] [--origen carpeta]
 //   npm run fotos -- --listar nombre-de-carpeta
 //   npm run fotos -- --renombrar nombre-de-carpeta viejo.webp nuevo.webp
 //   npm run fotos -- --registrar nombre-de-carpeta original.JPEG archivo-final.webp
@@ -32,7 +32,8 @@ import sharp from 'sharp';
 //   - foto parecida (la misma reenviada por WhatsApp, achicada o recomprimida, o retocada): se saltea y se avisa
 //   - dos iguales dentro de la misma corrida: se procesa solo la primera
 // Si el archivo generado se borró (foto que no se usó), la anotación se mantiene: no se vuelve a generar sola.
-// Con --forzar se procesa igual.
+// Con --forzar se procesa igual. Con --solo se procesan solo las fotos nombradas (separadas por comas): por
+// ejemplo --solo IMG_8057.JPEG --forzar recupera una foto descartada, con el mismo nombre que tenía.
 //
 // Fotos retocadas. Si en la carpeta hay una foto con "-retocada" al final del nombre (por ejemplo
 // IMG_8111-retocada.jpg junto a IMG_8111.JPEG), el script busca en el manifiesto qué archivo de la web salió
@@ -57,7 +58,8 @@ function valorDe(flag) {
     return i >= 0 ? args[i + 1] : null;
 }
 
-const flagsConValor = new Set(['--salida', '--origen', '--manifiestos', '--posts']);
+const flagsConValor = new Set(['--salida', '--origen', '--manifiestos', '--posts', '--solo']);
+const solo = valorDe('--solo') ? new Set(valorDe('--solo').split(',').map((n) => n.trim().toLowerCase())) : null;
 const posicionales = args.filter((a, i) => !a.startsWith('--') && !flagsConValor.has(args[i - 1]));
 
 const salidaDir = path.resolve(valorDe('--salida') || SALIDA_POR_DEFECTO);
@@ -325,7 +327,11 @@ async function procesar(entrada) {
 
     const fotos = todos.filter((f) => EXT_FOTO.test(f));
     const retocadas = fotos.filter((f) => RETOCADA.test(f));
-    const normales = fotos.filter((f) => !RETOCADA.test(f));
+    const normales = fotos.filter((f) => !RETOCADA.test(f) && (!solo || solo.has(f.toLowerCase())));
+    if (solo) {
+        const faltan = [...solo].filter((n) => !fotos.some((f) => f.toLowerCase() === n));
+        if (faltan.length) console.log(`--solo: no están en la carpeta: ${faltan.join(', ')}`);
+    }
     const videos = todos.filter((f) => EXT_VIDEO.test(f));
     const noSoportadas = todos.filter((f) => EXT_IMAGEN_NO_SOPORTADA.test(f));
     const ignorados = todos.filter((f) => !EXT_FOTO.test(f) && !EXT_VIDEO.test(f) && !EXT_IMAGEN_NO_SOPORTADA.test(f));
@@ -394,8 +400,10 @@ async function procesar(entrada) {
                 .webp({ quality: CALIDAD_WEBP })
                 .toBuffer({ resolveWithObject: true });
 
-            const n = String(proximoNumero()).padStart(2, '0');
-            const archivo = `${slug}-${n}.webp`;
+            // Con --forzar, una foto ya anotada en esta carpeta cuyo archivo se borró se recupera con el mismo nombre
+            const previa = forzar ? manifiesto.fotos.find((e) => e.sha1 === sha1) : null;
+            const recuperar = previa && !(await existe(path.join(salidaDir, previa.archivo)));
+            const archivo = recuperar ? previa.archivo : `${slug}-${String(proximoNumero()).padStart(2, '0')}.webp`;
             const destino = path.join(salidaDir, archivo);
 
             // Nunca pisar: si el archivo ya existe, se avisa y no se escribe.
@@ -414,7 +422,7 @@ async function procesar(entrada) {
             }
 
             const entradaNueva = { original: nombre, sha1, dhash, archivo, fecha: new Date().toISOString().slice(0, 10) };
-            nuevas.push(entradaNueva);
+            if (!recuperar) nuevas.push(entradaNueva);
             enEstaCorrida.push({ ...entradaNueva, carpeta: slug });
             resultados.push({ original: nombre, archivo, ancho: info.width, alto: info.height, kb: kb(data.length) });
         } catch (e) {
@@ -422,7 +430,7 @@ async function procesar(entrada) {
         }
     }
 
-    if (!dryRun && (nuevas.length || retoques.some((r) => r.tipo === 'reemplazada'))) {
+    if (!dryRun && (nuevas.length || retoques.some((r) => r.tipo === 'reemplazada'))) { // las recuperadas ya estaban anotadas
         manifiesto.fotos.push(...nuevas);
         await guardarManifiesto(manifiesto);
     }
