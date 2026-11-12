@@ -555,36 +555,24 @@ const isPost = !!frontmatter;
         // --- 3. BÚSQUEDA EN VIVO Y CARGA DE POSTS ---
         if (searchInput && searchResultsList) {
             
-            let postsData: Record<string, any> = {};
-            
-            try {
-                if(langCode === 'en') {
-                    postsData = import.meta.glob('../pages/en/journal/*.md', { eager: true });
-                } else {
-                    postsData = import.meta.glob('../pages/diario/*.md', { eager: true });
+            // El índice de búsqueda se descarga una sola vez, recién cuando alguien abre la lupa o escribe
+            type ItemBusqueda = { title: string; url: string; image: string; tag: string; s: string };
+            let searchData: ItemBusqueda[] = [];
+            let cargaIndice: Promise<void> | null = null;
+            const cargarIndice = () => {
+                if (!cargaIndice) {
+                    cargaIndice = fetch(langCode === 'en' ? '/indice-busqueda/en.json' : '/indice-busqueda/es.json')
+                        .then((r) => r.json())
+                        .then((datos) => { searchData = datos; })
+                        .catch((error) => { console.error('Error al cargar el índice de búsqueda', error); cargaIndice = null; });
                 }
-            } catch (error) {
-                console.error("Error al cargar posts", error);
-            }
+                return cargaIndice;
+            };
+            searchTrigger?.addEventListener('click', () => { cargarIndice(); });
+            searchInput.addEventListener('focus', () => { cargarIndice(); });
 
-            const posts = Object.values(postsData);
-
-            const searchData = posts.map((post: any) => {
-                const p = post || {};
-                const fm = p.frontmatter || {};
-                const title = fm.title || '';
-                const content = typeof p.rawContent === 'function' ? p.rawContent().toLowerCase() : '';
-                
-                return {
-                    title: title,
-                    url: p.url || '',
-                    image: fm.main_image || '',
-                    tag: fm.tag || 'Diario',
-                    searchString: removeAccents((title + " " + content).toLowerCase())
-                };
-            });
-
-            searchInput.addEventListener('input', () => {
+            searchInput.addEventListener('input', async () => {
+                await cargarIndice();
                 const rawQuery = searchInput.value.toLowerCase().trim();
                 const query = removeAccents(rawQuery);
                 
@@ -592,7 +580,7 @@ const isPost = !!frontmatter;
 
                 if (query.length >= 2) {
                     const filtered = searchData.filter((post: any) => 
-                        post.searchString.includes(query)
+                        post.s.includes(query)
                     ).slice(0, 5); 
 
                     if (filtered.length > 0) {
