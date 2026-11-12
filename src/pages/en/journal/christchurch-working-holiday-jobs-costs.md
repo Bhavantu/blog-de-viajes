@@ -4,7 +4,7 @@ title: "Living in Christchurch on a Working Holiday 2026: Costs, Work and a Real
 date: 2026-05-30T14:55:00.000+12:00
 tag: vida local
 pais: Nueva Zelanda
-description: "I lived 6 months in Christchurch on the Working Holiday Visa and it was a great call. Here's what living there is like: weekly cost of living 2026, work and safety."
+description: "Is Christchurch worth it for your Working Holiday? I lived there for 6 months: weekly cost of living in 2026, finding a flat and work, and safety."
 main_image: /img/diario/chrischurch.webp
 archivo_original: vivir-con-working-holiday-visa-christchurch.md
 ---
