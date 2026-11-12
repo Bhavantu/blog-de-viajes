@@ -26,6 +26,7 @@ Estos tres archivos son la fuente de verdad. Si algo de este archivo choca con l
 - Stay22 convierte automáticamente los links salientes (script letmeallez en BlogPostLayout)
 - Airalo se cobra por Impact: el link es siempre https://airalo.pxf.io/c/7468102/1268485/15608?partnerpropertyid=8600748 (en el layout y en los artículos). Travelpayouts ya no se usa. El script de emrldco.com se quitó de Layout.astro
 - Amazon con tag blogcito09-20
+- Si falta el link propio de un comercio que Stay22 no convierte (Airalo, Amazon, seguro de viaje, VPN), va [LINK FALTANTE: nombre | programa]. Para alojamientos, tours y trenes se usa el link normal del comercio. [VERIFICAR] es para datos, no para links
 - No agregar ni cambiar IDs de afiliado sin preguntar
 - Mantener los links a comercios como están en el original
 - Limpiar solo los links rotos o envueltos en otra URL (por ejemplo google.com/search)

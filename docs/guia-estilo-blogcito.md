@@ -98,7 +98,7 @@ Solo si hay preguntas reales que el cuerpo no responde de forma directa: las que
 
 **Cierre**
 - "¿Para quién es?" o "En resumen", si ayuda a decidir según el tipo de viajero.
-- Bloque "Más guías de [destino]" con los artículos del mismo destino enlazados con su título descriptivo.
+- Bloque "Más guías de [destino]" con los artículos del mismo destino enlazados con su título descriptivo: todos, mientras el destino tenga hasta 8 artículos; si tiene más, los 5 más cercanos al tema del artículo, siempre con la pilar (decidido el 13/11/2026).
 - En guías con presupuesto, CTA a la calculadora del destino si existe. CTA a la newsletter o al descargable, si existe.
 - Cierre breve invitando a comentar. Sin moraleja ni reflexión final en guías prácticas.
 
@@ -129,10 +129,11 @@ Solo si hay preguntas reales que el cuerpo no responde de forma directa: las que
 - Si nos quedamos en un alojamiento recomendado, lo decimos y contamos cuántas noches, cuánto pagamos y qué nos gustó y qué no. Si no nos quedamos, no hace falta aclararlo.
 - Aviso con 🧡 cerca de los enlaces.
 - Stay22 convierte automáticamente los links salientes: no se agregan IDs de afiliado a mano y los links a comercios se dejan como están.
+- Para alojamientos, tours y trenes alcanza con el link normal del comercio (Booking, GetYourGuide, Agoda, Trip.com). Los que Stay22 no convierte (Airalo, Amazon, seguro de viaje, VPN) llevan el link propio; si todavía no existe, en el borrador va [LINK FALTANTE: nombre | programa] y se lista al final. [LINK FALTANTE] es solo para links de afiliado; [VERIFICAR] queda para datos (decidido el 13/11/2026).
 
 ### Arquitectura de contenidos
 - Cada destino tiene una guía pilar y artículos satélite, cada uno con una intención de búsqueda distinta (qué hacer, dónde quedarse, presupuesto, cómo moverse, etc.).
-- Todo satélite enlaza a la pilar y a los otros del destino, con texto de link que diga a dónde lleva.
+- Todo satélite enlaza a la pilar y a los otros del destino (en destinos de más de 8 artículos, a los más cercanos al tema), con texto de link que diga a dónde lleva.
 - Antes de dividir un artículo en satélites, chequear que cada parte tenga material propio suficiente (experiencia, datos, fotos). Un satélite flaco que repite la pilar suma poco. Google desaconseja crear páginas para cada variante de una búsqueda.
 - La división se decide con datos: si Search Console muestra búsquedas de una intención que la pilar no responde bien, es candidata a satélite.
 
