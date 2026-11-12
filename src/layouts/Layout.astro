@@ -43,6 +43,25 @@ if (frontmatter) {
         altUrlEn = new URL(withSlash(Astro.url.pathname), siteUrl).href;
     }
 }
+
+// --- Datos para compartir (Open Graph) y para Google (schema de artículo) ---
+const esPost = Boolean(frontmatter?.date);
+const imagenOg = frontmatter?.main_image ? new URL(frontmatter.main_image, siteUrl).href : null;
+const articuloLd = esPost ? JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'BlogPosting',
+    headline: title,
+    description: metaDescription,
+    ...(imagenOg ? { image: imagenOg } : {}),
+    datePublished: new Date(frontmatter.date).toISOString(),
+    mainEntityOfPage: canonicalURL.href,
+    inLanguage: currentLang,
+    author: { '@type': 'Organization', name: 'Blogcito', url: 'https://blogcito.com' },
+    publisher: { '@type': 'Organization', name: 'Blogcito', url: 'https://blogcito.com' },
+}) : null;
+
+// Netlify Identity solo hace falta en el inicio (ahí llegan los links de invitación y de recuperar contraseña de Decap); /admin lo carga por su cuenta
+const esInicio = ['/', '/en/'].includes(withSlash(Astro.url.pathname));
 ---
 <!doctype html>
 <html lang={currentLang}>
@@ -71,7 +90,11 @@ if (frontmatter) {
         <meta name="description" content={metaDescription} />
         <meta property="og:title" content={title} />
         <meta property="og:description" content={metaDescription} />
-        <meta property="og:type" content="website" />
+        <meta property="og:type" content={esPost ? 'article' : 'website'} />
+        <meta property="og:url" content={canonicalURL} />
+        <meta property="og:site_name" content="Blogcito" />
+        {imagenOg && <meta property="og:image" content={imagenOg} />}
+        <meta name="twitter:card" content={imagenOg ? 'summary_large_image' : 'summary'} />
         <meta name="google-adsense-account" content="ca-pub-3901046224634106">
        
         {isGaleria && <meta name="robots" content="noindex, nofollow" />}
@@ -81,8 +104,8 @@ if (frontmatter) {
             <script is:inline async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3901046224634106" crossorigin="anonymous"></script>
         )}
 
-        <!-- Netlify Identity -->
-        <script is:inline src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+        <!-- Netlify Identity (solo en el inicio, ver esInicio arriba) -->
+        {esInicio && <script is:inline src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>}
 
         <!-- JSON-LD Buscador -->
         <script type="application/ld+json" is:inline>
@@ -93,11 +116,14 @@ if (frontmatter) {
             "url": "https://blogcito.com",
             "potentialAction": {
             "@type": "SearchAction",
-            "target": "https://blogcito.com/?search={search_term_string}",
+            "target": "https://blogcito.com/search?q={search_term_string}",
             "query-input": "required name=search_term_string"
             }
         }
         </script>
+
+        <!-- JSON-LD del artículo (solo en los posts) -->
+        {articuloLd && <script type="application/ld+json" set:html={articuloLd} />}
     </head>
     <body>
         <!-- Pasamos isTransparent y frontmatter al Header -->
