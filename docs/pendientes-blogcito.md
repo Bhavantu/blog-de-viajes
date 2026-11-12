@@ -49,7 +49,7 @@ Basado en los exports de los últimos 3 meses (30/07 al 29/10, anteriores a las 
 1. ~~Barra final en canónica, hreflang y sitemap~~ (resuelto el 2/11, falta push y validar en Search Console)
 2. Amed en español adaptado a la guía de estilo (Prioridad 6), con bloque "Si tenés poco tiempo", dónde dormir y la calculadora como lead magnet. Después actualizar la traducción
 3. Diferenciar las dos notas de Nusa Penida (Prioridad 6), con donde-quedarse enfocada en alojamiento
-4. Aotearoa, title y description (Prioridad 6, punto nuevo)
+4. ~~Aotearoa, title y description~~ El título ya funciona (revisado el 12/11); queda sumar preguntas y links (Prioridad 6)
 5. Bali rituales, sección de dioses balineses (Prioridad 6, punto nuevo)
 6. Seguro de viaje en las guías de destino (Prioridad 6)
 7. Meta descripciones de más de 160 caracteres, og:image y schema de Article, firma y fecha de actualización
@@ -149,6 +149,7 @@ Apuntar directo al slug actual en vez de pasar por redirects.
   - Booking con `utm_source=gemini`: **resuelto** el 29/10 en que-hacer-da-nang-vietnam-itinerario-3-dias y what-to-do-da-nang-hoi-an-3-days-itinerary (21 links cada uno)
   - Amazon con `tag=blogcito09-20` (propio, correcto): que-hacer-amed-que-ver-guia-presupuesto y what-to-do-amed-bali-real-guide-budget
 - [ ] Confirmar con Stay22 si reemplaza parámetros de afiliado de terceros en URLs de Booking
+- [ ] Links de afiliados sin `rel="sponsored"` (detectado el 12/11). Google pide marcar así los links de programas de afiliados (manuales o automáticos) y puede aplicar una acción manual si no están marcados. Hoy ningún link de los posts lo lleva (solo `rel="noopener"`). Arreglo propuesto: un plugin de rehype en astro.config que agregue `rel="sponsored noopener"` a los links salientes a Booking, Agoda, GetYourGuide, Amazon, Airalo y trip.com, y lo mismo en los botones del layout. Confirmar también si Stay22 agrega el atributo al convertir. Es cambio de código: va en rama
 - [x] Sacar los placeholders `TU_ID_AFILIADO` de los links de GetYourGuide y Booking de que-hacer-christchurch-2-dias y de la traducción what-to-do-christchurch-2-days (5 links en cada una). Hecho el 29/10 en el original y el 30/10 en la traducción; falta mergear las ramas `limpiar-links-afiliados` y `retraducciones-en`. Stay22 convierte los links, no hace falta ningún ID
 - [x] Borrar PostsRecomendados duplicado en BlogPostLayout. Verificado el 12/11: ya se usa una sola vez y con las props correctas
 - [ ] Home del repo con 6 destinos y links a /destinos y /categorias que no existen en el repo. Verificar contra el sitio publicado
@@ -168,5 +169,5 @@ Apuntar directo al slug actual en vez de pasar por redirects.
 - [ ] Agregar firma de autor y fecha de actualización en los posts
 - [ ] Sumar seguro de viaje en las guías de destino
 - [ ] Reemplazar traducir.mjs o agregarle enmascarado de URLs y HTML, y validación de números al final
-- [ ] aotearoa-historia-cultura-maori-nueva-zelanda (detectado el 1/11). Es el 43 % de las impresiones del sitio (3.702 en 3 meses, posición 7,7) con solo 8 clics. La gente busca qué significa la palabra ("aotearoa", "aotearoa significado", "que es aotearoa"). Reescribir title y description para que respondan eso en el snippet, siguiendo la guía de estilo (keyword al principio, hasta 155 caracteres, voseo), y sumar links a las guías de Nueva Zelanda para llevar ese tráfico a páginas que monetizan. Después actualizar la traducción
+- [ ] aotearoa-historia-cultura-maori-nueva-zelanda (detectado el 1/11, revisado el 12/11). El title y la description ya responden qué significa Aotearoa desde el 25/9 (commit eaa9af8): el dato de 3.702 impresiones en posición 7,7 promedia el título viejo y el nuevo. Visto el 12/11 en Google ("que es aotearoa"): Blogcito sale citado en la Vista creada con IA y segundo resultado orgánico detrás de Wikipedia; los pocos clics se explican porque la Vista con IA ya responde la pregunta. No hace falta reescribir el título. Pendiente: (1) responder en el artículo las preguntas de "Más preguntas" de Google que hoy no responde ("¿Cómo se llamaba Nueva Zelanda antes?", "¿De qué país son los maoríes?", "¿Cómo se dice Nueva Zelanda en maorí?"), con fuente; (2) sumar links a las guías de Nueva Zelanda; (3) la miniatura de Blogcito en la Vista con IA es una foto de otro post, porque la portada es fondo CSS y el sitio publicado no tiene og:image: se corrige con el merge del PR #131 (revisar en unas semanas). Después actualizar la traducción
 - [ ] bali-rituales-cultura-tradiciones-secretos (detectado el 1/11). "dioses balineses" tiene 299 impresiones en posición 40,7 y la página está en posición 24. Sumar una sección sobre los dioses balineses con datos verificados. Después actualizar la traducción
