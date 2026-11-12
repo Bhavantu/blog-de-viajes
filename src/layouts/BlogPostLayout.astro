@@ -70,7 +70,7 @@ const latestPosts = allPosts.slice(0, 3);
                 
                 {indices.length > 0 && (
                     <details class="indice-contenidos">
-                        <summary class="indice-titulo">{t['post.indice'] || 'Índice de contenidos'} <span class="indice-cantidad">({indices.length})</span></summary>
+                        <summary class="indice-titulo"><span>{t['post.indice'] || 'Índice de contenidos'} <span class="indice-cantidad">({indices.length})</span></span><span class="indice-boton"><span class="indice-ver">{t['post.verIndice'] || 'Ver índice'} ▾</span><span class="indice-ocultar">{t['post.ocultarIndice'] || 'Ocultar'} ▴</span></span></summary>
                         <ul class="indice-lista">
                             {indices.map((heading: any) => (
                                 <li class={`indice-item nivel-${heading.depth}`}>
@@ -400,12 +400,11 @@ const latestPosts = allPosts.slice(0, 3);
   .text-column :global(h2) { font-family: var(--font-display, 'Georgia', serif); font-size: 2rem; font-weight: normal; color: #1a202c; margin-top: 3.5rem; margin-bottom: 1.2rem; }
   .text-column :global(h3) { font-family: var(--font-main, sans-serif); font-size: 1.35rem; font-weight: 700; color: #2d3748; margin-top: 2.8rem; margin-bottom: 1rem; }
   .text-column :global(img) { width: 100%; height: auto !important; border-radius: 8px !important; margin-bottom: 1.5rem !important; display: block; }
-  /* Fotos: siempre centradas sobre la franja del texto (720 px). Una vertical sola no ocupa más de 80% del alto
+  /* Fotos: siempre centradas sobre la franja del texto (720 px), sin importar el tamaño elegido en el CMS
+     (pequeño, mediano o completo). Una horizontal sola va a todo el ancho; una vertical sola no ocupa más de 80% del alto
      de la pantalla. En celulares van a ancho completo (ver el @media de abajo). */
   .text-column :global(.post-img-box) { width: min(720px, 100%); max-width: min(720px, 100%); margin: 2rem 0; text-align: center; }
   .text-column :global(.post-img-box img) { width: auto; max-width: 100%; max-height: 80vh; margin: 0 auto 0.6rem !important; }
-  .text-column :global(.post-img-box.img-mediano img) { max-width: 66% !important; }
-  .text-column :global(.post-img-box.img-pequeño img) { max-width: 45% !important; }
   /* Dos fotos verticales lado a lado: <div class="post-img-par"> con dos bloques post-img-box adentro */
   .text-column :global(.post-img-par) { width: min(720px, 100%); max-width: min(720px, 100%); display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; align-items: start; margin: 2rem 0; }
   .text-column :global(.post-img-par .post-img-box) { width: auto; max-width: none; margin: 0; }
@@ -441,10 +440,13 @@ const latestPosts = allPosts.slice(0, 3);
 
   /* ÍNDICE */
   .indice-contenidos { background-color: var(--bg-color, #f8f6f0); border: 1px solid #e7e5e0; border-radius: 8px; padding: 1.5rem 2rem; margin: 0 0 3rem 0; }
-  .indice-titulo { font-family: var(--font-display); font-size: 1.2rem; margin: 0 !important; color: #333; cursor: pointer; list-style: none; display: flex; align-items: center; gap: 0.5rem; }
+  .indice-titulo { font-family: var(--font-display); font-size: 1.2rem; margin: 0 !important; color: #333; cursor: pointer; list-style: none; display: flex; align-items: center; justify-content: space-between; gap: 1rem; flex-wrap: wrap; }
   .indice-titulo::-webkit-details-marker { display: none; }
-  .indice-titulo::before { content: '▸'; color: #006d77; transition: transform 0.2s ease; display: inline-block; }
-  .indice-contenidos[open] .indice-titulo::before { transform: rotate(90deg); }
+  .indice-boton { font-family: var(--font-main, sans-serif); font-size: 0.85rem; font-weight: 700; color: #006d77; border: 1px solid #006d77; border-radius: 999px; padding: 0.3rem 0.9rem; white-space: nowrap; }
+  .indice-titulo:hover .indice-boton { background: #006d77; color: #fff; }
+  .indice-ocultar { display: none; }
+  .indice-contenidos[open] .indice-ver { display: none; }
+  .indice-contenidos[open] .indice-ocultar { display: inline; }
   .indice-contenidos[open] .indice-titulo { margin-bottom: 1rem !important; }
   .indice-cantidad { font-family: var(--font-main, sans-serif); font-size: 0.85rem; color: #888; }
   .indice-lista { list-style: none !important; padding: 0 !important; margin: 0 !important; }
