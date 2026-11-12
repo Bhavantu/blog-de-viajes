@@ -143,7 +143,8 @@ Solo si hay preguntas reales que el cuerpo no responde de forma directa: las que
 ### Firma, fechas e inglés
 - Firma de autor (Lore o Santi) visible, con link a "Nosotros".
 - Fecha de publicación y, si cambió algo de fondo, fecha de actualización. No se actualiza la fecha por correcciones menores.
-- Escribimos en español y traducimos aparte, desde el original y revisando la traducción (reglas en CLAUDE.md). No publicamos traducciones automáticas sin revisar.
+- Cada artículo tiene su versión en inglés. Escribimos en español y traducimos aparte, desde el original y revisando la traducción (reglas en CLAUDE.md). No publicamos traducciones automáticas sin revisar.
+- Las traducciones se hacen con ayuda de IA y lo decimos: los posts en inglés muestran "Translated from the Spanish original with the help of AI and reviewed by us." con link al original (lo agrega el layout).
 
 ## 3. Hipótesis de SEO
 
@@ -160,8 +161,8 @@ Cada punto dice qué hacemos y en qué se basa. Fuentes: documentación de Googl
 | **Preguntas frecuentes:** para el lector, no para Google. | Google dejó de mostrar el resultado enriquecido de FAQ en mayo de 2026 (desde 2023 ya solo lo mostraba para sitios de gobierno y salud). |
 | **Sin trucos para IA** (archivos llms.txt, cortar el texto en pedacitos, marcado especial). | Google: para aparecer en AI Overviews y AI Mode vale lo mismo que para la búsqueda común: contenido propio, no genérico, bien organizado y con buenas imágenes. |
 | **Firma y fechas** visibles, y las mismas en los datos estructurados (BlogPosting). | Google pide firma "donde se espera una" y fechas visibles que coincidan con las del marcado. |
-| **Links de afiliados con `rel="sponsored"`.** | Google pide marcar así los links de programas de afiliados, sean manuales o automáticos; sin marcar pueden traer una acción manual. Pendiente técnico: hoy los links de los posts no lo llevan (ver docs/pendientes-blogcito.md). |
-| **Versiones en inglés** con hreflang y traducción revisada. | Google trata la traducción automática sin valor agregado como contenido masivo de baja calidad. Nuestros datos: las páginas en inglés reciben pocas impresiones y en posiciones bajas (30 a 57). |
+| **Links de afiliados con `rel="sponsored"`.** Lo agrega solo el sitio al generarse (plugin `src/plugins/rehype-links-afiliados.mjs`): si se suma un comercio nuevo, agregar su dominio a la lista del plugin. | Google pide marcar así los links de programas de afiliados, sean manuales o automáticos; sin marcar pueden traer una acción manual. |
+| **Versiones en inglés** de todos los artículos, con hreflang, traducción revisada y aviso de IA. | Google trata la traducción automática sin valor agregado como contenido masivo de baja calidad y recomienda avisar del uso de IA donde el lector lo esperaría. Un post sin traducción no da 404 (el botón de idioma lleva al listado en inglés y no se genera hreflang), pero traducir todo es más coherente para el lector. Nuestros datos: las páginas en inglés todavía reciben pocas impresiones (posiciones 30 a 57). |
 
 ### Lo que dicen nuestros datos (y lo que no)
 - El sitio tiene pocos clics todavía (39 en los tres meses al 25/9/2026), así que **no alcanza para probar si una estructura funciona mejor que otra**. Las reglas de formato son decisiones nuestras, no resultados medidos.
