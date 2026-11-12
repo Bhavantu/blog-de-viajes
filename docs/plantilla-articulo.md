@@ -5,7 +5,7 @@ Las estructuras de abajo son el punto de partida, no una lista obligatoria. Las 
 ## Brief (se completa antes de pedir el borrador)
 - Categoría (Guía de Viaje, Vida Local, Contexto y Cultura, Punto de Fuga)
 - ¿Es pilar o satélite? Si es satélite, cuál es su única intención de búsqueda
-- ¿El objetivo principal es monetizar con alojamiento? (define si lleva el bloque "Si tenés poco tiempo")
+- ¿Quien llega probablemente está eligiendo dónde dormir? (define si lleva el bloque "Si tenés poco tiempo"; ver la guía de estilo)
 - Cómo lo busca la gente (consultas de Search Console, si las hay) y keywords secundarias
 - Ciudad o tema
 - Autor que firma (Lore o Santi)
@@ -25,7 +25,7 @@ El brief se arma en el chat del artículo: Redacción propone keyword, slug, tí
 2. **Firma y fecha.**
 3. **Apertura** con nuestra credencial (cuánto tiempo y cómo) y lo que más le sirve a quien lee. Puede arrancar con una pregunta.
 4. **Recuadro** hacia la guía pilar del destino (si es satélite).
-5. **Bloque "Si tenés poco tiempo"** (si el objetivo principal es monetizar con alojamiento) con hasta 3 alojamientos en formato compacto, marcando "Nos quedamos acá", y el tour más recomendado si aplica.
+5. **Bloque "Si tenés poco tiempo"** (si quien llega probablemente está eligiendo dónde dormir, según la guía de estilo) con hasta 3 alojamientos en formato compacto, marcando "Nos quedamos acá", y el tour más recomendado si aplica.
 6. **Índice** "En este artículo".
 7. **Nuestra experiencia**, breve.
 8. **Lugares o actividades** en H3 numerados, con un detalle vivido cuando lo tengamos y los bullets que apliquen (Entrada, Precio, Cómo llegar, Mejor hora, Consejo).

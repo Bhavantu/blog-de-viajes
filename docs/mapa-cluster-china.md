@@ -79,20 +79,20 @@ Los titulares 28, 29 y 31 (rutas generales) quedan dentro del pilar para no comp
 | 25 | Lo que aprendimos (y los errores que cometimos) viajando por China | Guía de Viaje / experiencia (une 32 y 33) | Pendiente · 3 |
 | 26 | Chongqing, la ciudad que aprendí a mirar en vertical | Punto de Fuga | Pendiente · 3 |
 
-## Orden de publicación (próximas 8)
+## Orden de publicación
 
-1. Pilar: Ruta por China (#1), con enlace a Kunming y a Furongzhen
-2. Cómo pagar en China (#2)
-3. Internet en China (#3)
-4. Qué ver en Zhangjiajie (#10)
-5. Pandas en Chengdu (#11)
-6. Presupuesto para viajar a China (#4)
-7. Trenes en China (#5)
-8. Qué ver en Chengdu (#13)
+Confirmado por Lore el 11/11 (registro "2026-11-11 · Dirección · cierre-2"), reemplaza al orden del mapa del 11/11:
+
+1. Qué ver en Zhangjiajie (#10): es el siguiente; tiene más valor y enlaza con Furongzhen
+2. Pandas en Chengdu (#11)
+3. Trenes en China (#5)
+4. El pilar, Ruta por China (#1), espera a tener varios satélites publicados
+
+Después, según el mapa: Cómo pagar en China (#2), Internet en China (#3), Presupuesto (#4) y Qué ver en Chengdu (#13). El orden lo decide Dirección con Lore y se registra en Drive; cuando cambia, se actualiza acá.
 
 Solo se enlazan artículos ya publicados (hoy, Kunming y Furongzhen), para no generar errores 404.
 
-Enlazado: cada satélite enlaza al pilar y a 2 o 3 satélites cercanos (por ejemplo, Zhangjiajie ↔ Tianmen ↔ Furongzhen ↔ Fenghuang; pagos ↔ internet ↔ sin hablar chino; Kunming ↔ Bosque de Piedra ↔ Nanning) y cierra con el bloque "Más guías de China".
+Enlazado: en el cuerpo, cada satélite enlaza al pilar (cuando esté publicado) y a 2 o 3 satélites cercanos donde el texto lo pida (por ejemplo, Zhangjiajie ↔ Tianmen ↔ Furongzhen ↔ Fenghuang; pagos ↔ internet ↔ sin hablar chino; Kunming ↔ Bosque de Piedra ↔ Nanning). Al cierre, el bloque "Más guías de China" sigue la regla de la guía de estilo: mientras China tenga hasta 8 artículos publicados van todos; después, los 5 más cercanos al tema más la pilar.
 
 ---
 

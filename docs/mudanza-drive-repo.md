@@ -44,7 +44,7 @@ Columna "Leído": si Claude lo leyó entero el 12/11 o solo vio el título. Los 
 
 | Documento (Drive) | Leído | Destino | Qué se hace |
 |---|---|---|---|
-| 00 LEEME | Sí | Queda en Drive, actualizado | Sumar que las reglas se leen del repo (guía, plantilla, afiliados, mapas) y sacar la regla 8 de afiliados (ver conflicto 1) |
+| 00 LEEME | Sí | Queda en Drive, actualizado | **Hecho el 13/11:** texto nuevo con el repo como fuente de las reglas y la regla 8 de afiliados nueva |
 | Instrucción del rol de Dirección, Clusters, Redacción, Analítica y Competencia | Redacción sí; el resto, título | Quedan en Drive, actualizadas | En "Qué leés al empezar", cambiar la guía de estilo, la plantilla, el índice y el mapa de Drive por los del repo. Sacar las reglas que repiten la guía (ver conflictos) |
 | Notas del rol (cada rol) | Título | Quedan en Drive | Las escriben los roles |
 | Estado, Resumen de situación del 7/11, `_contexto/registro` (Protocolo y cierres) | Sí (registro: solo títulos) | Quedan en Drive | Las escriben los roles en cada sesión |
@@ -119,4 +119,17 @@ Los seis proyectos de Lore dejaron un inventario en `_contexto/registro`. Ningun
 - Borradores: las instrucciones de Redacción dicen Google Doc en `contenido/borradores`; sus reglas dicen que el borrador único es el canvas de la conversación. **Decidido el 13/11 (Lore):** el borrador se trabaja en el canvas, con un chat por artículo que lleva el nombre del artículo, y solo el canvas final se guarda como Google Doc en `contenido/borradores` (para no juntar versiones). Ese final es el que pasa al repo como PR.
 - Dos proyectos escriben China: Redacción y Blogcito china. **Decidido el 13/11 (Santi): queda Redacción.** Blogcito china se archiva después de pasar sus archivos útiles a `_contexto/mudanza` y de rescatar los borradores que estén en sus chats.
 - Columna EUR en las tablas: la guía del repo la pide (moneda local, USD y EUR). Se cierra así.
+
+## Control de alineación (13/11)
+
+Dirección, Clusters, Redacción y Competencia respondieron bien las 11 preguntas de reglas (bloque "Si tenés poco tiempo", superlativos, [LINK FALTANTE] y [VERIFICAR], "Más guías de", mapa de China, 21 posts, Amed, tildes, canvas y qué fuente gana). Falta el de Analítica. Lo que encontraron y cómo quedó:
+
+- **El repo lo leen por clon público**, no por una fuente de GitHub en cada proyecto. Si el repo pasa a privado, dejan de leerlo. Recomendación de Claude: dejarlo público, porque lo privado (Plan, Marca, canjes, GA4) quedó en Drive. Lo decide Santi.
+- **Copias sincronizadas viejas:** en Clusters (y probablemente en Redacción y Analítica) las copias de 00 LEEME, Marca y Estado guardadas en el proyecto son anteriores al 13/11. Hay que tocar "sincronizar" en cada proyecto.
+- **Instrucciones pegadas:** en Dirección, Redacción y Competencia quedó la versión del chat ("el repo de GitHub conectado a este proyecto") en vez de la de Drive, que nombra `Bhavantu/blog-de-viajes (rama main)`.
+- **Documentos de Drive con reglas viejas que los roles siguen leyendo:** el Resumen de situación del 7/11 ("por libre", afiliados, Tailandia, 19 publicados), el Plan (veredicto siempre, afiliados solo de la biblioteca), las Notas de cada rol (del 3/11) y los inventarios de la mudanza en el registro. Se resuelve con un Resumen de situación nuevo de Dirección, que por ser el más reciente gana sobre los anteriores, y con Notas nuevas de cada rol.
+- **Movidos a `archivo` el 13/11:** la copia vieja de la guía de estilo, la de la plantilla, `indice-articulos.md` y el mapa de China de Drive.
+- **Corregido en el repo el 13/11:** el orden de publicación de China (Zhangjiajie primero, el pilar espera, confirmado por Lore el 11/11), el enlazado del mapa (2 o 3 en el cuerpo, "Más guías de" según la guía) y la plantilla, que decía "si el objetivo es monetizar con alojamiento" en lugar del criterio de la guía.
+- **Para confirmar con Lore:** Tailandia (las instrucciones de Clusters todavía la priorizan) y la zona del hotel de Kunming (el doc CHINA dice "cerca del Lago Verde" y el mapa, Dashuying, a 4 o 5 km).
+- **Falta:** `datos-viaje-china.md` en `_contexto/mudanza` (Redacción y Clusters lo buscaron y no está).
 
