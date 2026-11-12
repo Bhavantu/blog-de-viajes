@@ -19,7 +19,7 @@ Antes de empezar, leé docs/guia-estilo-blogcito.md y la sección "Imágenes de 
 
 ## 1. Prueba
 
-Corré `npm run fotos -- $ARGUMENTS --dry-run` y mostrale el reporte a Santi (fotos, nombres provisorios, tamaños, las que pasan de 400 KB, videos y formatos que no se convierten). Si ya hay archivos `<slug>-NN.webp` en public/img/diario/, avisá: el script no pisa nada y numera a continuación, así que correrlo dos veces duplica las fotos. Esperá el OK.
+Corré `npm run fotos -- $ARGUMENTS --dry-run` y mostrale el reporte a Santi (fotos, nombres provisorios, tamaños, las que pasan de 400 KB, videos y formatos que no se convierten). El script compara cada foto con las ya procesadas (manifiestos en scripts/fotos-manifiestos/, en cualquier carpeta): las que ya se procesaron, las repetidas con otro nombre y las parecidas (reenviadas, achicadas o retocadas) se saltean y el reporte las lista aparte, con el archivo con el que coinciden. Mostráselas a Santi: si una parecida es un retoque o una foto que de verdad quiere de nuevo, se procesa con `--forzar`. Esperá el OK.
 
 ## 2. Procesar
 
@@ -27,7 +27,7 @@ Corré `npm run fotos -- $ARGUMENTS`. Verificá que los archivos generados exist
 
 ## 3. Nombres descriptivos
 
-Mirá cada foto generada y renombrala (`git mv` si ya estaba en el repo, `mv` si es nueva) con un nombre descriptivo en minúsculas, con guiones, sin tildes y con el lugar adentro (por ejemplo `amed-jemeluk-bay-snorkel.webp`). Usá las pistas que haya: un `notas.txt` en la carpeta de origen o el nombre original de la foto. Si no estás seguro de qué lugar es, dejá el nombre provisorio y marcalo [VERIFICAR]. No inventes nombres de lugares ni de personas.
+Mirá cada foto generada y renombrala con `npm run fotos -- --renombrar <carpeta> <viejo.webp> <nuevo.webp>` (no con `mv`, así el manifiesto sigue al día) con un nombre descriptivo en minúsculas, con guiones, sin tildes y con el lugar adentro (por ejemplo `amed-jemeluk-bay-snorkel.webp`). Usá las pistas que haya: un `notas.txt` en la carpeta de origen o el nombre original de la foto. Si no estás seguro de qué lugar es, dejá el nombre provisorio y marcalo [VERIFICAR]. No inventes nombres de lugares ni de personas.
 
 ## 4. Epígrafe y alt
 
@@ -62,4 +62,11 @@ Corré `npm run build` y avisá si falla.
 
 ## 9. Cierre
 
-Dejá un resumen con los archivos creados y modificados, lo que quedó como [VERIFICAR] y las fotos que no se usaron. No hagas commit ni push.
+Dejá un resumen con los archivos creados y modificados, lo que quedó como [VERIFICAR] y las fotos que no se usaron. No hagas commit ni push; cuando Santi commitee, el manifiesto (scripts/fotos-manifiestos/<carpeta>.json) va en el mismo commit que las imágenes.
+
+## Dónde queda cada cosa
+
+- **Originales:** Google Drive, `fotos/<carpeta>/`, y la copia local descartable en `~/.cache/blog-fotos/<carpeta>/`. No se modifican ni se commitean.
+- **Imágenes de la web:** solo las que se usan, en public/img/diario/. Todo lo que está ahí se publica en el sitio, esté o no en un post.
+- **Fotos generadas que no se usan:** se borran de public/img/diario/ (`rm`). El manifiesto las recuerda y el script no las regenera solo; el original sigue en Drive. Para usarlas más adelante: `npm run fotos -- <carpeta> --forzar`.
+- **Fotos para retocar:** retocar siempre desde el original de Drive, no desde el .webp. Guardar la versión retocada en la misma carpeta de Drive con un nombre claro y avisar: el script la va a marcar como parecida a la original.
