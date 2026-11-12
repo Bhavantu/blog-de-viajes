@@ -114,21 +114,21 @@ One of the most stunning coastal regions on the island. It features dramatic lim
 
 #### Where to Stay in Uluwatu
 
-##### [Made 02 Balangan Homestay & Warung Made](https://www.booking.com/hotel/id/made-02-balangan.html?aid=2440493)
+##### [Made 02 Balangan Homestay & Warung Made](https://www.booking.com/hotel/id/made-02-balangan.html)
 
 * 📍 **Location:** Balangan, a 5-minute scooter ride to the beach.
 * 🌿 **Setting:** Surrounded by local warungs, featuring an on-site pool and restaurant.
 * 📝 **Overview:** Quiet, family-run homestay; practical and great value for backpackers.
 * 💰 **Estimated Rate:** $18 to $28 USD / €16 to €25 (~320,000 - 500,000 IDR) per night.
 
-##### [Medori Putih Homestay](https://www.booking.com/hotel/id/medori-putih-homestay.html?aid=2440493)
+##### [Medori Putih Homestay](https://www.booking.com/hotel/id/medori-putih-homestay.html)
 
 * 📍 **Location:** Central Pecatu, 10–15 minutes by scooter to Padang Padang and Bingin.
 * 🌿 **Setting:** Close to the main commercial strip of cafes and eateries.
 * 📝 **Overview:** Very comfortable option with a lush garden, pool, and spotless rooms.
 * 💰 **Estimated Rate:** $30 to $45 USD / €27 to €41 (~530,000 - 800,000 IDR) per night.
 
-##### [Surga Bali Homestay](https://www.booking.com/hotel/id/surga-bali-village.html?aid=2440493)
+##### [Surga Bali Homestay](https://www.booking.com/hotel/id/surga-bali-village.html)
 
 * 📍 **Location:** Quiet residential enclave in Pecatu, 10 minutes from Uluwatu Temple.
 * 🌿 **Setting:** Tucked away from noisy main avenues.
@@ -151,19 +151,19 @@ We split stays into two zones: Central Ubud (walkable to everything, but lively 
 
 #### Options in Central Ubud (Close to Everything)
 
-##### [Manwarsa Guest House / Warsa Homestay](https://www.booking.com/hotel/id/manwarsa-guest-house.html?aid=2440493)
+##### [Manwarsa Guest House / Warsa Homestay](https://www.booking.com/hotel/id/manwarsa-guest-house.html)
 
 * 📍 **Location:** Right downtown, minutes from Ubud Palace and the art market.
 * 📝 **Overview:** Traditional homestay hosted by a welcoming Balinese family.
 * 💰 **Estimated Rate:** $15 to $25 USD / €14 to €23 (~260,000 - 440,000 IDR) per night.
 
-##### [Semujan Bungalow Ubud](https://www.booking.com/hotel/id/semujan-bungalows.html?aid=2440493)
+##### [Semujan Bungalow Ubud](https://www.booking.com/hotel/id/semujan-bungalows.html)
 
 * 📍 **Location:** Steps from Monkey Forest Road on a quiet side lane.
 * 📝 **Overview:** Balinese-style bungalows featuring a pool and tropical garden.
 * 💰 **Estimated Rate:** $35 to $55 USD / €32 to €50 (~620,000 - 980,000 IDR) per night.
 
-##### [Alamdini Resort Ubud](https://www.booking.com/hotel/id/alamdini-resort-ubud.html?aid=2440493)
+##### [Alamdini Resort Ubud](https://www.booking.com/hotel/id/alamdini-resort-ubud.html)
 
 * 📍 **Location:** Central area, overlooking a lush green ravine.
 * 📝 **Overview:** Elegant resort with spacious suites and an infinity-style pool surrounded by nature.
@@ -173,19 +173,19 @@ We split stays into two zones: Central Ubud (walkable to everything, but lively 
 
 #### Options in North Ubud & Outskirts (Peace & Nature)
 
-##### [Ubud Jungle House](https://www.booking.com/hotel/id/ubud-jungle-house.html?aid=2440493)
+##### [Ubud Jungle House](https://www.booking.com/hotel/id/ubud-jungle-house.html)
 
 * 📍 **Location:** 10–15 minutes north of downtown, nestled in the jungle canopy.
 * 📝 **Overview:** Family-run guesthouse with tropical valley views, strong AC, and a generous breakfast.
 * 💰 **Estimated Rate:** $14 to $22 USD / €13 to €20 (~250,000 - 390,000 IDR) per night.
 
-##### [Canting Bali Suite](https://www.booking.com/hotel/id/canting-bali-suite.html?aid=2440493)
+##### [Canting Bali Suite](https://www.booking.com/hotel/id/canting-bali-suite.html)
 
 * 📍 **Location:** Laplapan neighborhood (Petulu), 10 minutes from downtown.
 * 📝 **Overview:** Roomy suites with private balconies, pool, and open natural views.
 * 💰 **Estimated Rate:** $35 to $55 USD / €32 to €50 (~620,000 - 980,000 IDR) per night.
 
-##### [Subu Utamas Ubud](https://www.booking.com/hotel/id/subu-utamas-ubud.html?aid=2440493)
+##### [Subu Utamas Ubud](https://www.booking.com/hotel/id/subu-utamas-ubud.html)
 
 * 📍 **Location:** North Ubud, tucked away from busy thoroughfares.
 * 📝 **Overview:** High-quality suites and private villas with pool and attentive service.
@@ -205,24 +205,24 @@ A serene, picture-perfect valley offering a glimpse into authentic rural Bali. M
 
 #### Where to Stay in Sidemen
 
-##### [Milla's Homestay](https://www.booking.com/hotel/id/millas-homestay.html?aid=2440493)
+##### [Milla's Homestay](https://www.booking.com/hotel/id/millas-homestay.html)
 
 * 📍 **Location:** Sidemen Valley, close to rural walking trails.
 * 📝 **Overview:** Simple, cozy, and clean guesthouse run by a lovely local family.
 * 💰 **Estimated Rate:** $15 to $25 USD / €14 to €23 (~260,000 - 440,000 IDR) per night.
 
-##### [Sidemen River Point](https://www.booking.com/hotel/id/sidemen-river-point.html?aid=2440493)
+##### [Sidemen River Point](https://www.booking.com/hotel/id/sidemen-river-point.html)
 
 * 📍 **Location:** Riverbanks along the valley floor.
 * 📝 **Overview:** Comfortable cabins built from natural materials with private riverside decks.
 * 💰 **Estimated Rate:** $40 to $70 USD / €37 to €64 (~710,000 - 1,240,000 IDR) per night.
 
-##### Premium Stay: [Villa Damai Rohani](https://www.booking.com/hotel/id/villa-damai-rohani.html?aid=2440493)
+##### Premium Stay: [Villa Damai Rohani](https://www.booking.com/hotel/id/villa-damai-rohani.html)
 
 * 📝 **Overview:** Private villa featuring classic Balinese architecture, refined finishes, and a private pool.
 * 💰 **Estimated Rate:** $110 to $190 USD / €100 to €175 (~1,950,000 - 3,380,000 IDR) per night.
 
-##### Eco Experience: [Hideout Bali by Ini Vie Hospitality](https://www.booking.com/hotel/id/hideout-bali-by-ini-vie-hospitality.html?aid=2440493)
+##### Eco Experience: [Hideout Bali by Ini Vie Hospitality](https://www.booking.com/hotel/id/hideout-bali-by-ini-vie-hospitality.html)
 
 * 📝 **Overview:** Iconic all-bamboo architectural homes offering total immersion in secluded nature.
 * 💰 **Estimated Rate:** $150 to $280 USD / €138 to €257 (~2,670,000 - 4,980,000 IDR) per night.
@@ -242,19 +242,19 @@ A peaceful coastal fishing village celebrated for its black volcanic sand beache
 
 #### Where to Stay in Amed
 
-##### [Bali Yogi Amed](https://www.booking.com/hotel/id/bali-yogi-amed1.html?aid=2440493)
+##### [Bali Yogi Amed](https://www.booking.com/hotel/id/bali-yogi-amed1.html)
 
 * 📍 **Location:** Central Amed, a short stroll from the beach.
 * 📝 **Overview:** Balinese-style bungalows with a pool and hearty breakfast.
 * 💰 **Estimated Rate:** $18 to $28 USD / €16 to €25 (~320,000 - 500,000 IDR) per night.
 
-##### [Amed Beach Resort](https://www.booking.com/hotel/id/amed-beach-resort.html?aid=2440493)
+##### [Amed Beach Resort](https://www.booking.com/hotel/id/amed-beach-resort.html)
 
 * 📍 **Location:** Directly on the beach in Amed Bay.
 * 📝 **Overview:** Traditional hotel featuring an oceanfront pool and in-house dive center.
 * 💰 **Estimated Rate:** $35 to $60 USD / €32 to €55 (~620,000 - 1,050,000 IDR) per night.
 
-##### [Surya Amed Beach Resort](https://www.booking.com/hotel/id/surya-amed-beach.html?aid=2440493)
+##### [Surya Amed Beach Resort](https://www.booking.com/hotel/id/surya-amed-beach.html)
 
 * 📍 **Location:** Oceanfront along the Amed shore.
 * 📝 **Overview:** Spacious bungalows with outdoor pools and sweeping views of the sea and Mount Agung.
@@ -278,7 +278,7 @@ Where you base yourself depends on the kind of experience you're after:
 
 #### Budget / Backpacker Pick
 
-##### [Kabeh Jati Garden Villa & Restaurant](https://www.booking.com/hotel/id/kabeh-jati-garden-villa-amp-restaurant.html?aid=2440493)
+##### [Kabeh Jati Garden Villa & Restaurant](https://www.booking.com/hotel/id/kabeh-jati-garden-villa-amp-restaurant.html)
 
 * 📍 **Location:** East coast of Nusa Penida.
 * 🌿 **Setting:** Set amidst verdant gardens with a quiet vibe and warm family hospitality.
@@ -289,7 +289,7 @@ Where you base yourself depends on the kind of experience you're after:
 
 #### Mid-Range Pick
 
-##### [Crystal Bay Pool View Bungalow](https://www.booking.com/hotel/id/crystal-bay-pool-view-bungalow.html?aid=2440493)
+##### [Crystal Bay Pool View Bungalow](https://www.booking.com/hotel/id/crystal-bay-pool-view-bungalow.html)
 
 * 📍 **Location:** West coast, just minutes from Crystal Bay.
 * 🌿 **Setting:** Shaded by palm trees, ideal for staying next to one of the island's best swimming and snorkeling coves.
@@ -300,7 +300,7 @@ Where you base yourself depends on the kind of experience you're after:
 
 #### Comfort / Luxury Pick
 
-##### [La Marrocco Villas](https://www.booking.com/hotel/id/la-marrocco-villas.html?aid=2440493)
+##### [La Marrocco Villas](https://www.booking.com/hotel/id/la-marrocco-villas.html)
 
 * 📍 **Location:** North coast of Nusa Penida (Ped area, right on the beach).
 * 🌿 **Setting:** Oceanfront views, direct beach snorkeling, and complete privacy (adults-only property).
