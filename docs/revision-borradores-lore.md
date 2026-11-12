@@ -65,7 +65,7 @@ Ya corregido por Santi el 10/11/2026 (no hace falta tocarlo): voseo ("podés", "
 
 Es el post con más chances de generar ingresos pronto: en Search Console está en posición 9 a 10 para "qué hacer en Amed" y "qué ver en Amed". Revisión de Santi y Claude del 12/11/2026. Todo lo que se cambie en español se pasa también a la traducción.
 
-Ya hecho por Santi el 12/11 (rama `amed-si-tenes-poco-tiempo`, PR #129, sin publicar): bloque "Si tenés poco tiempo" antes de la Introducción, con los tres hoteles de la tabla de costos: Bali Yogi Amed (económico), Valomia Beachfront (medio) y Surya Amed Beach (alto), con los precios que ya tenía el post.
+Publicado el 13/11 (PR #129, mergeado): bloque "Si tenés poco tiempo" antes de la Introducción, con los tres hoteles de la tabla de costos: Bali Yogi Amed (económico), Valomia Beachfront (medio) y Surya Amed Beach (alto), con los precios que ya tenía el post.
 
 **Para Lore (lo que solo ella sabe)**
 - [x] ~~¿Dónde nos quedamos en los 15 días en Amed?~~ Decidido por Santi el 12/11/2026: en este post no se dice en qué alojamiento nos quedamos, así que el bloque va sin "Nos quedamos acá".
