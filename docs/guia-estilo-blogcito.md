@@ -53,7 +53,7 @@ Cada artículo pertenece a una categoría, y la categoría marca el registro.
 - Primera persona plural por defecto ("fuimos", "nos quedamos"). La singular está bien para una opinión o un recuerdo propio ("Yo, Lore, quería…").
 - Cercano, conversacional y rioplatense ("planazo", "toda la onda", "viajero prevenido vale por dos"), con moderación.
 - Honestidad explícita ("para ser honestos"). Reconocemos lo turístico sin despreciarlo.
-- Entusiasmo medido: sin superlativos en cadena ("increíble", "absolutamente", "al 100%"). El peso lo llevan los datos y lo vivido.
+- Los superlativos ("increíble", "absolutamente", "al 100%") son de quien escribe: si Lore los pone en sus notas o borradores, quedan. Claude nunca los agrega por su cuenta ni los usa para dar énfasis; el peso lo llevan los datos y lo vivido.
 - El impersonal de guía ("se puede tomar…") queda para datos puramente logísticos.
 - El cliché poético va en Punto de Fuga, no en las guías prácticas.
 
