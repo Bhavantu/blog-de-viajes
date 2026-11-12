@@ -19,6 +19,8 @@ Flujo de fotos: script `scripts/procesar-fotos.mjs`, comando `/fotos` y alt del 
 
 - [ ] **Mudanza de Drive al repo (12/11).** Inventario de la carpeta "Blogcito- Claude" de Lore, con el destino de cada documento y 7 conflictos para decidir, en `docs/mudanza-drive-repo.md`. Falta: que Lore lo apruebe, pasar el repo a privado y que Lore conecte su GitHub en claude.ai.
 
+- [ ] **Sistema de agentes (propuesta de Santi del 12/11, "propuesta-agentes-blogcito.md").** Fase 0 (revisión) hecha el 12/11: no se arma un segundo equipo de agentes, porque Lore ya tiene uno en claude.ai (Dirección hace de CEO, más Clusters, Redacción, Analítica y Competencia) que se comunica por Drive. Las reglas pasan al repo (mudanza en `docs/mudanza-drive-repo.md`) y Claude Code ejecuta en el repo lo que se aprueba (ramas y PR en borrador). Falta: (1) terminar la mudanza y el control de alineación de los roles; (2) decidir si se suman en Claude Code dos subagentes en `.claude/agents/`: un Verificador (links, números, afiliados y [VERIFICAR] antes de cada PR) y un Traductor (ES a EN desde el original, con las reglas de CLAUDE.md); (3) más adelante, tareas programadas, con aprobación de Santi antes de activarlas y sin push a `main`.
+
 ### Kunming: traducción publicada y pendientes del original en español (11/11/2026)
 
 Traducción publicada el 12/11 (merge del PR #127 a `main`): `src/pages/en/journal/what-to-do-kunming-3-days.md`, auditada contra el original (14 URLs, números y encabezados coinciden). El link de la anécdota apunta a la traducción de Furongzhen (`/en/journal/what-to-see-furongzhen/`), también publicada el 12/11.
