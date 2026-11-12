@@ -16,6 +16,8 @@ export const ui = {
     // Artículos / Posts
     'post.volver': 'Volver al diario',
     'post.indice': 'En este artículo',
+    'post.verIndice': 'Ver índice',
+    'post.ocultarIndice': 'Ocultar',
     'paginacion.anterior': '← Anterior',
     'paginacion.siguiente': 'Siguiente →',
 
@@ -69,6 +71,8 @@ export const ui = {
     // Articles / Posts
     'post.volver': 'Back to journal',
     'post.indice': 'In this article',
+    'post.verIndice': 'See contents',
+    'post.ocultarIndice': 'Hide',
     'paginacion.anterior': '← Previous',
     'paginacion.siguiente': 'Next →',
 

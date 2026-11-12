@@ -6,10 +6,26 @@ Lista de problemas detectados en la revisión del sitio y del repo (octubre 2026
 
 Flujo de fotos (rama `fotos-flujo`, sin mergear a main: script `scripts/procesar-fotos.mjs`, comando `/fotos` y alt del CMS) y artículo de Furongzhen (rama `borrador/furongzhen-que-ver`, PR #126).
 
-- [ ] **Portada de Furongzhen.** Hoy es provisoria (la cascada iluminada) y se ve pixelada en el hero. Subir a la carpeta `furongzhen` de Drive una foto horizontal, original del celular (sin pasar por WhatsApp), idealmente de 2400 px o más de ancho, y procesarla con `/fotos`. Las fotos que llegaron a Drive tienen unos 3 megapíxeles: alcanzan para el cuerpo del post, no para el hero.
-- [ ] **Que el script no reprocese las fotos ya procesadas.** Hoy `npm run fotos` vuelve a convertir toda la carpeta y duplica las fotos (numera a continuación sin pisar). Guardar en la copia local (`~/.cache/blog-fotos/<carpeta>`, nunca en Drive) la lista de originales ya procesados y saltearlos. Hacerlo antes de la portada nueva, para no duplicar las 12 de Furongzhen.
+- [x] **Portada de Furongzhen.** Resuelto el 12/11: portada de día con el pueblo y la cascada (original de 6000x4000). Furongzhen se publicó el 12/11 con el merge del PR #126, junto con fotos y tablas centradas en todos los posts, pares solo de verticales y el índice plegado con botón "Ver índice".
+- [x] **Que el script no reprocese las fotos ya procesadas.** Resuelto el 12/11 en `fotos-flujo` (commit 3e2672b): cada carpeta tiene un manifiesto en `scripts/fotos-manifiestos/<carpeta>.json` (va en el repo con las imágenes) y el script saltea la misma foto (aunque cambie el nombre o esté en otra carpeta) y las parecidas (reenviadas por WhatsApp, achicadas o retocadas), con `--forzar` para procesarlas igual. Renombrar con `npm run fotos -- --renombrar`. El manifiesto de Furongzhen (12 fotos, 10 usadas y 2 descartadas) está en la rama de Lore (commit 1b43f2c).
 - [ ] **Archivos sueltos en la copia local de Santi:** `docs/prompt-mejorar-post-con-lore.md` (modificado, 190 líneas nuevas con el post de Kunming pegado) y `pendientes-blogcito.viejo.md` (sin seguir). Decidir si se commitean o se descartan.
 - [ ] **Reglas de ritmo de fotos.** Lore y Santi eligen los 2 o 3 posts mejor armados; con sus proporciones (palabras por foto, tramo máximo sin imagen, peso) se escribe la sección "Imágenes de los posts" de CLAUDE.md. Medición del 10/11 sobre los 20 posts en español, mediana de las guías de viaje: 6 fotos, 360 palabras por foto, 709 palabras de tramo máximo sin imagen y 1,4 MB de fotos. Furongzhen quedó con 10 fotos, unas 400 palabras por foto y 2,78 MB.
+
+### Kunming: traducción hecha y pendientes del original en español (11/11/2026)
+
+Traducción en la rama `traduccion-kunming-en` (sin pushear, sin PR): `src/pages/en/journal/what-to-do-kunming-3-days.md`. Se tradujo desde la versión de la rama de Lore (`borrador/furongzhen-que-ver`), que tiene un párrafo más (la anécdota del disfraz, con link a la guía de Furongzhen). Auditada contra el original: 14 URLs, 4 bloques de imagen, números, encabezados, tablas y bullets coinciden. El build pasa y genera los hreflang es/en. El link a Furongzhen apunta a la versión en español porque no existe la traducción. Se dejaron `slug_url` fuera del frontmatter en inglés, como en las demás traducciones.
+
+Antes de mergear: hay que mergear primero el PR #126 (o el párrafo de la anécdota queda solo en la traducción y el link a Furongzhen en 404).
+
+Pendientes del original en español, sin corregir a pedido de Santi (al corregirlos, corregir también la traducción):
+- [ ] El link del Yunyiduo Hotel (Agoda) es una búsqueda con `cid=1844104` (parámetro de afiliado de terceros, avisar), `currencyCode=IDR`, `checkIn=2026-11-12` y un `[object Object]` roto en la URL. Aparece dos veces (bloque inicial y tabla de costos).
+- [x] Anécdota del disfraz. Resuelto el 11/11: pasó a un párrafo aparte después del "Igual, siendo honestos…", en primera persona ("Yo, Lore, quería…") y con los puestitos dentro y fuera del Pueblo de las Etnias. Corregido en la rama de Lore (commit 92712c3, pusheado) y en la traducción. Sigue pendiente solo que el link a Furongzhen existe recién cuando se mergee el PR #126.
+- [ ] Nombre del hotel del lago: el bloque dice "Kunming Green Lake" (4 estrellas) y el texto dice "Orange Hotel (Kunming Green Lake)". Unificar. Económico y Medio llevan las dos 3 estrellas.
+- [ ] Tren Nanning a Kunming: 313 CNY son USD 46,64 al cambio del post y la tabla dice 46,70.
+- [ ] Los 18 CNY "afuera del Parque de las Etnias" no dicen qué incluían (ya en las sugerencias de Santi para Lore).
+- [ ] Sin confirmar: descuentos del mercado de Dounan desde las 7 de la tarde (queda para confirmar con Lore), buses 24, 44 y 73, estaciones Dounan y Jingui Street, y que el Pueblo de las Etnias se inauguró en 1992.
+- [ ] Estructura de la plantilla: preguntas frecuentes en negrita y no como H3; faltan el índice "En este artículo", "Qué saltearíamos", el seguro de viaje en "Antes de ir" y el bloque "Más guías de China". "Esta guía es parte de Viajar a China por libre" no tiene link al pilar.
+- [ ] "Mejor hora: En la mañana" con mayúscula y "Plato de fideos o comida local" con punto final en la tabla de costos.
 
 ## Para retomar (estado al 31/10/2026)
 

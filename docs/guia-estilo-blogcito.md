@@ -92,6 +92,7 @@ En toda guía con alojamiento o tours, justo después de la introducción y ante
 - **Preguntas frecuentes** al final, cada pregunta como H3 y respuesta corta y directa en la primera oración (sirve para fragmentos destacados de Google).
 - En Contexto y Cultura, leyenda o creencia, historia con fechas, contraste con datos, guía práctica de visita y etiqueta y respeto.
 - Fotos propias con epígrafe descriptivo que incluya el nombre del lugar.
+- Todas las fotos van centradas sobre el texto. Una horizontal sola ocupa todo el ancho del texto; una vertical sola, lo más grande que entre en la pantalla. El tamaño que se elige en el CMS (pequeño, mediano o completo) no cambia nada. Dos verticales seguidas pueden ir lado a lado (bloque `post-img-par`); dos horizontales nunca: una arriba de la otra.
 
 ### Recuadros con emoji
 - 💡 dato o sugerencia extra
