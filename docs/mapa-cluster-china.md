@@ -14,7 +14,7 @@ Basado en el documento "CHINA" (ruta de 20 días en octubre de 2026: Nanning, Ku
 - Tipo de cambio de los artículos de China: 1 USD ≈ 6,7 CNY y 1 EUR ≈ 7,7 CNY, el mismo en todo el artículo.
 - Pagamos siempre con Alipay. Los precios de trenes y entradas son los de Trip.com que dio Lore; no se mencionan otras apps de reserva.
 - Los artículos de China se firman con Lorena (el sitio todavía no muestra autor).
-- Datos del viaje (hoteles, trenes, fechas): `datos-viaje-china.md` y el doc CHINA, en Drive, hasta que pasen al repo.
+- Datos del viaje (hoteles, trenes, fechas): `docs/datos-viaje-china.md` en este repo (desde el 13/11) y el doc CHINA en Drive. Antes de escribir "nos quedamos en…", revisar la sección "Cosas que no cierran" de ese archivo.
 
 ## Pilar
 

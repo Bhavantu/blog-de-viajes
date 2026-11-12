@@ -131,5 +131,5 @@ Dirección, Clusters, Redacción y Competencia respondieron bien las 11 pregunta
 - **Movidos a `archivo` el 13/11:** la copia vieja de la guía de estilo, la de la plantilla, `indice-articulos.md` y el mapa de China de Drive.
 - **Corregido en el repo el 13/11:** el orden de publicación de China (Zhangjiajie primero, el pilar espera, confirmado por Lore el 11/11), el enlazado del mapa (2 o 3 en el cuerpo, "Más guías de" según la guía) y la plantilla, que decía "si el objetivo es monetizar con alojamiento" en lugar del criterio de la guía.
 - **Para confirmar con Lore:** Tailandia (las instrucciones de Clusters todavía la priorizan) y la zona del hotel de Kunming (el doc CHINA dice "cerca del Lago Verde" y el mapa, Dashuying, a 4 o 5 km).
-- **Falta:** `datos-viaje-china.md` en `_contexto/mudanza` (Redacción y Clusters lo buscaron y no está).
+- **Hecho el 13/11:** `datos-viaje-china.md` pasó al repo como `docs/datos-viaje-china.md` (Santi lo bajó del proyecto Blogcito china). En `_contexto/mudanza` quedó una nota que apunta al repo, porque la instrucción de Redacción lo busca ahí.
 
