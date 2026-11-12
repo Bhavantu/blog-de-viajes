@@ -33,6 +33,13 @@ import sharp from 'sharp';
 //   - dos iguales dentro de la misma corrida: se procesa solo la primera
 // Si el archivo generado se borró (foto que no se usó), la anotación se mantiene: no se vuelve a generar sola.
 // Con --forzar se procesa igual.
+//
+// Fotos retocadas. Si en la carpeta hay una foto con "-retocada" al final del nombre (por ejemplo
+// IMG_8111-retocada.jpg junto a IMG_8111.JPEG), el script busca en el manifiesto qué archivo de la web salió
+// del original y lo reemplaza con la versión retocada, con el mismo nombre (así el post no cambia). Si cambian
+// las medidas, actualiza width y height en los posts que usan esa imagen. La versión anterior del .webp queda
+// en ~/.cache/blog-fotos/.reemplazadas/. Cada retocada se aplica una sola vez: si se vuelve a retocar,
+// se sube de nuevo con el mismo nombre y se aplica la versión nueva.
 
 const LADO_MAXIMO = 1920;
 const CALIDAD_WEBP = 80;
@@ -50,7 +57,7 @@ function valorDe(flag) {
     return i >= 0 ? args[i + 1] : null;
 }
 
-const flagsConValor = new Set(['--salida', '--origen', '--manifiestos']);
+const flagsConValor = new Set(['--salida', '--origen', '--manifiestos', '--posts']);
 const posicionales = args.filter((a, i) => !a.startsWith('--') && !flagsConValor.has(args[i - 1]));
 
 const salidaDir = path.resolve(valorDe('--salida') || SALIDA_POR_DEFECTO);
@@ -58,6 +65,13 @@ const manifiestosDir = path.resolve(valorDe('--manifiestos') || MANIFIESTOS_POR_
 const origenRaiz = path.resolve(
     valorDe('--origen') || process.env.FOTOS_ORIGEN || path.join(os.homedir(), '.cache', 'blog-fotos')
 );
+const postsDir = path.resolve(valorDe('--posts') || './src/pages');
+const reemplazadasDir = path.join(origenRaiz, '.reemplazadas');
+
+// "IMG_8111-retocada.jpg" -> "IMG_8111" (también acepta "_retocada", " retocada" y "-retocado")
+const RETOCADA = /^(.+?)[-_ ]retocad[ao]\.(jpe?g|png|webp)$/i;
+const sinExtension = (n) => n.replace(/\.[^.]+$/, '');
+const escaparRegex = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 
 const EXT_FOTO = /\.(jpe?g|png|webp)$/i;
 const EXT_IMAGEN_NO_SOPORTADA = /\.(heic|heif|tiff?|bmp|gif|avif|raw|dng|cr2|nef|arw)$/i;
@@ -164,6 +178,91 @@ async function resolverOrigen(entrada) {
 
 const kb = (bytes) => Math.round(bytes / 1024);
 
+async function convertir(ruta) {
+    return sharp(ruta)
+        .rotate() // aplica la orientación EXIF antes de cualquier otra cosa
+        .resize({ width: LADO_MAXIMO, height: LADO_MAXIMO, fit: 'inside', withoutEnlargement: true })
+        .webp({ quality: CALIDAD_WEBP })
+        .toBuffer({ resolveWithObject: true });
+}
+
+async function comprobarSinMetadatos(destino, archivo) {
+    const meta = await sharp(destino).metadata();
+    if (meta.exif || meta.xmp || meta.iptc || meta.icc) {
+        throw new Error(`${archivo} salió con metadatos (${['exif', 'xmp', 'iptc', 'icc'].filter((k) => meta[k]).join(', ')})`);
+    }
+}
+
+// Cambia width y height de las etiquetas <img> que usan /img/diario/<archivo> en los .md de los posts.
+async function actualizarMedidasEnPosts(archivo, ancho, alto) {
+    let archivos = [];
+    try { archivos = (await fs.readdir(postsDir, { recursive: true })).filter((f) => f.endsWith('.md')); } catch { return []; }
+    const re = new RegExp(`<img\\s[^>]*src="/img/diario/${escaparRegex(archivo)}"[^>]*>`, 'g');
+    const cambiados = [];
+    for (const rel of archivos) {
+        const ruta = path.join(postsDir, rel);
+        const texto = await fs.readFile(ruta, 'utf8');
+        const nuevo = texto.replace(re, (tag) => tag
+            .replace(/\swidth="\d+"/, ` width="${ancho}"`)
+            .replace(/\sheight="\d+"/, ` height="${alto}"`));
+        if (nuevo !== texto) {
+            await fs.writeFile(ruta, nuevo);
+            cambiados.push(path.relative(process.cwd(), ruta));
+        }
+    }
+    return cambiados;
+}
+
+async function postsQueUsan(archivo) {
+    let archivos = [];
+    try { archivos = (await fs.readdir(postsDir, { recursive: true })).filter((f) => f.endsWith('.md')); } catch { return []; }
+    const usados = [];
+    for (const rel of archivos) {
+        if ((await fs.readFile(path.join(postsDir, rel), 'utf8')).includes(`/img/diario/${archivo}`)) usados.push(rel);
+    }
+    return usados;
+}
+
+// Reemplaza el archivo de la web que salió del original por la versión retocada.
+async function aplicarRetocada(origen, nombre, manifiesto) {
+    const base = nombre.match(RETOCADA)[1].toLowerCase();
+    const entrada = manifiesto.fotos.find((e) => sinExtension(e.original).toLowerCase() === base);
+    if (!entrada) return { tipo: 'sin-original', nombre };
+
+    const ruta = path.join(origen, nombre);
+    const sha1 = await sha1De(ruta);
+    if (entrada.retocada && entrada.retocada.sha1 === sha1) return { tipo: 'ya-aplicada', nombre, archivo: entrada.archivo };
+
+    const { data, info } = await convertir(ruta);
+    const destino = path.join(salidaDir, entrada.archivo);
+    const habia = await existe(destino);
+    let antes = null;
+    if (habia) {
+        const m = await sharp(destino).metadata();
+        antes = { ancho: m.width, alto: m.height };
+    }
+    const cambianMedidas = !antes || antes.ancho !== info.width || antes.alto !== info.height;
+    const resultado = { tipo: 'reemplazada', nombre, archivo: entrada.archivo, antes, ancho: info.width, alto: info.height, kb: kb(data.length), habia, posts: [] };
+
+    if (dryRun) {
+        resultado.posts = await postsQueUsan(entrada.archivo);
+        return resultado;
+    }
+
+    if (habia) {
+        await fs.mkdir(reemplazadasDir, { recursive: true });
+        const marca = new Date().toISOString().replace(/[:.]/g, '-');
+        resultado.copia = path.join(reemplazadasDir, `${sinExtension(entrada.archivo)}.${marca}.webp`);
+        await fs.copyFile(destino, resultado.copia);
+    }
+    await fs.writeFile(destino, data); // reemplazo deliberado: es la versión retocada de esa misma foto
+    await comprobarSinMetadatos(destino, entrada.archivo);
+    entrada.retocada = { original: nombre, sha1, dhash: await dhashDe(ruta), fecha: new Date().toISOString().slice(0, 10) };
+    resultado.posts = cambianMedidas ? await actualizarMedidasEnPosts(entrada.archivo, info.width, info.height) : await postsQueUsan(entrada.archivo);
+    resultado.cambianMedidas = cambianMedidas;
+    return resultado;
+}
+
 // ---------- Subcomandos ----------
 
 async function listar(carpeta) {
@@ -173,7 +272,8 @@ async function listar(carpeta) {
     console.log('Original | Archivo | Estado');
     for (const e of m.fotos) {
         const hay = await existe(path.join(salidaDir, e.archivo));
-        console.log(`${e.original} | ${e.archivo} | ${hay ? 'en el repo' : 'el archivo no está (no se usó o se borró)'}`);
+        const retoque = e.retocada ? ` | retocada con ${e.retocada.original} (${e.retocada.fecha})` : '';
+        console.log(`${e.original} | ${e.archivo} | ${hay ? 'en el repo' : 'el archivo no está (no se usó o se borró)'}${retoque}`);
     }
 }
 
@@ -224,6 +324,8 @@ async function procesar(entrada) {
         .sort((a, b) => a.localeCompare(b, 'en', { numeric: true }));
 
     const fotos = todos.filter((f) => EXT_FOTO.test(f));
+    const retocadas = fotos.filter((f) => RETOCADA.test(f));
+    const normales = fotos.filter((f) => !RETOCADA.test(f));
     const videos = todos.filter((f) => EXT_VIDEO.test(f));
     const noSoportadas = todos.filter((f) => EXT_IMAGEN_NO_SOPORTADA.test(f));
     const ignorados = todos.filter((f) => !EXT_FOTO.test(f) && !EXT_VIDEO.test(f) && !EXT_IMAGEN_NO_SOPORTADA.test(f));
@@ -235,6 +337,8 @@ async function procesar(entrada) {
     if (!dryRun) await fs.mkdir(salidaDir, { recursive: true });
 
     const conocidas = await leerTodosLosManifiestos();
+    // Las versiones retocadas ya aplicadas también cuentan como fotos conocidas
+    const huellas = conocidas.flatMap((e) => [e, ...(e.retocada ? [{ ...e, original: e.retocada.original, sha1: e.retocada.sha1, dhash: e.retocada.dhash }] : [])]);
     const manifiesto = await leerManifiesto(slug);
     const nuevas = [];
     const enEstaCorrida = [];
@@ -257,17 +361,25 @@ async function procesar(entrada) {
 
     const resultados = [];
     const fallidas = [];
+    const retoques = [];
+    for (const nombre of retocadas) {
+        try {
+            retoques.push(await aplicarRetocada(origen, nombre, manifiesto));
+        } catch (e) {
+            fallidas.push({ original: nombre, motivo: e.message });
+        }
+    }
     const repetidas = [];
     const parecidas = [];
 
-    for (const nombre of fotos) {
+    for (const nombre of normales) {
         const rutaOrigen = path.join(origen, nombre);
         try {
             const sha1 = await sha1De(rutaOrigen);
             const dhash = await dhashDe(rutaOrigen);
 
             if (!forzar) {
-                const comparables = [...conocidas, ...enEstaCorrida];
+                const comparables = [...huellas, ...enEstaCorrida];
                 const igual = comparables.find((e) => e.sha1 === sha1);
                 if (igual) { repetidas.push({ original: nombre, con: igual }); continue; }
                 if (huellaUtil(dhash)) {
@@ -310,7 +422,7 @@ async function procesar(entrada) {
         }
     }
 
-    if (!dryRun && nuevas.length) {
+    if (!dryRun && (nuevas.length || retoques.some((r) => r.tipo === 'reemplazada'))) {
         manifiesto.fotos.push(...nuevas);
         await guardarManifiesto(manifiesto);
     }
@@ -325,9 +437,30 @@ async function procesar(entrada) {
         const total = resultados.reduce((s, r) => s + r.kb, 0);
         console.log(`\nTotal: ${resultados.length} foto(s) nueva(s), ${(total / 1024).toFixed(2)} MB`);
     } else {
-        console.log('No hay fotos nuevas para procesar.');
+        console.log(retoques.length ? 'No hay fotos nuevas (solo retocadas).' : 'No hay fotos nuevas para procesar.');
     }
 
+    const aplicadas = retoques.filter((r) => r.tipo === 'reemplazada');
+    if (aplicadas.length) {
+        console.log(`\nRetocadas${dryRun ? ' (se reemplazarían)' : ' (reemplazan al archivo de la web, con el mismo nombre)'}:`);
+        for (const r of aplicadas) {
+            const medidas = r.antes ? (r.antes.ancho === r.ancho && r.antes.alto === r.alto ? `mismas medidas (${r.ancho}x${r.alto})` : `${r.antes.ancho}x${r.antes.alto} -> ${r.ancho}x${r.alto}`) : `${r.ancho}x${r.alto}, el archivo no estaba (foto descartada que ahora se genera)`;
+            const posts = r.posts.length ? `${dryRun || !r.cambianMedidas ? 'la usan' : 'width y height actualizados en'}: ${r.posts.join(', ')}` : 'no la usa ningún post';
+            const aviso = r.kb > AVISO_KB ? `  ⚠ pasa los ${AVISO_KB} KB` : '';
+            console.log(`  - ${r.nombre} -> ${r.archivo} | ${medidas} | ${r.kb} KB${aviso} | ${posts}`);
+            if (r.copia) console.log(`    versión anterior guardada en ${r.copia}`);
+        }
+    }
+    const yaAplicadas = retoques.filter((r) => r.tipo === 'ya-aplicada');
+    if (yaAplicadas.length) {
+        console.log('\nRetocadas que ya se habían aplicado (sin cambios):');
+        for (const r of yaAplicadas) console.log(`  - ${r.nombre} -> ${r.archivo}`);
+    }
+    const sinOriginal = retoques.filter((r) => r.tipo === 'sin-original');
+    if (sinOriginal.length) {
+        console.log('\nRetocadas sin original en el manifiesto de esta carpeta (no se tocaron; revisar el nombre, tiene que ser el del original más "-retocada"):');
+        for (const r of sinOriginal) console.log(`  - ${r.nombre}`);
+    }
     const estado = async (e) => ((await existe(path.join(salidaDir, e.archivo))) ? '' : ' (ese archivo ya no está: no se usó o se borró; --forzar para generarla de nuevo)');
     if (repetidas.length) {
         console.log('\nYa procesadas antes, se saltearon:');
