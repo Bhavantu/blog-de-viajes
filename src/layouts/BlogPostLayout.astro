@@ -399,27 +399,29 @@ const latestPosts = allPosts.slice(0, 3);
   .text-column :global(h2) { font-family: var(--font-display, 'Georgia', serif); font-size: 2rem; font-weight: normal; color: #1a202c; margin-top: 3.5rem; margin-bottom: 1.2rem; }
   .text-column :global(h3) { font-family: var(--font-main, sans-serif); font-size: 1.35rem; font-weight: 700; color: #2d3748; margin-top: 2.8rem; margin-bottom: 1rem; }
   .text-column :global(img) { width: 100%; height: auto !important; border-radius: 8px !important; margin-bottom: 1.5rem !important; display: block; }
-  /* Tamaños de las fotos en pantallas grandes. En celulares todas van a ancho completo (ver el @media de abajo). */
-  .text-column :global(.post-img-box) { margin: 2rem auto; }
-  .text-column :global(.post-img-box.img-mediano) { max-width: 66%; }
-  .text-column :global(.post-img-box.img-pequeño) { max-width: 45%; }
-  .text-column :global(.post-img-box.img-izquierda) { margin-left: 0; }
-  .text-column :global(.post-img-box.img-derecha) { margin-right: 0; }
-  /* Dos fotos lado a lado: <div class="post-img-par"> con dos bloques post-img-box adentro */
-  .text-column :global(.post-img-par) { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; align-items: start; margin: 2rem 0; }
-  .text-column :global(.post-img-par .post-img-box) { max-width: none; margin: 0; }
+  /* Fotos: siempre centradas sobre la franja del texto (720 px). Una vertical sola no ocupa más de 80% del alto
+     de la pantalla. En celulares van a ancho completo (ver el @media de abajo). */
+  .text-column :global(.post-img-box) { width: min(720px, 100%); max-width: min(720px, 100%); margin: 2rem 0; text-align: center; }
+  .text-column :global(.post-img-box img) { width: auto; max-width: 100%; max-height: 80vh; margin: 0 auto 0.6rem !important; }
+  .text-column :global(.post-img-box.img-mediano img) { max-width: 66% !important; }
+  .text-column :global(.post-img-box.img-pequeño img) { max-width: 45% !important; }
+  /* Dos fotos verticales lado a lado: <div class="post-img-par"> con dos bloques post-img-box adentro */
+  .text-column :global(.post-img-par) { width: min(720px, 100%); max-width: min(720px, 100%); display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; align-items: start; margin: 2rem 0; }
+  .text-column :global(.post-img-par .post-img-box) { width: auto; max-width: none; margin: 0; }
+  .text-column :global(.post-img-par .post-img-box img) { width: 100%; max-width: 100%; max-height: none; aspect-ratio: 3 / 4; object-fit: cover; }
 
   /* GALERÍA: excepción intencional, ocupa todo el ancho de la columna (no los 720px) */
-  .article-view ul:has(img) { display: flex !important; gap: 1.5rem !important; list-style: none !important; padding: 0 !important; margin: 2.5rem 0 !important; max-width: 100% !important; }
+  .article-view ul:has(img) { display: flex !important; gap: 1.5rem !important; list-style: none !important; padding: 0 !important; margin: 2.5rem 0 !important; max-width: min(720px, 100%) !important; }
   .article-view ul:has(img) li { flex: 1 !important; margin: 0 !important; }
   .article-view ul:has(img) img { width: 100% !important; height: 350px !important; object-fit: cover !important; max-width: 100% !important; }
 
-  .text-column :global(table) { width: max-content; max-width: 100%; border-collapse: collapse; margin: 2.5rem 0; font-size: 0.95rem; display: block; overflow-x: auto; border-radius: 8px; border: 1px solid #e2e8f0; }
+  .text-column :global(table) { width: max-content; max-width: min(720px, 100%); border-collapse: collapse; margin: 2.5rem 0; font-size: 0.95rem; display: block; overflow-x: auto; border-radius: 8px; border: 1px solid #e2e8f0; }
   .text-column :global(th), .text-column :global(td) { padding: 0.9rem 1.2rem; color: #334155; }
   .text-column :global(thead) { background-color: #f8fafc; border-bottom: 2px solid #cbd5e1; }
 
   /* APLICAR ESTILO DE MARCADOR SOLO AL TEXTO DE REDACCIÓN DENTRO DEL ARTÍCULO */
     .text-column :global(p a),
+    .text-column :global(td a),
     .text-column :global(li:not(.indice-item) a) {
         color: #006d77 !important; 
         text-decoration: none !important; 
@@ -431,6 +433,7 @@ const latestPosts = allPosts.slice(0, 3);
     }
 
     .text-column :global(p a:hover),
+    .text-column :global(td a:hover),
     .text-column :global(li:not(.indice-item) a:hover) {
         background: linear-gradient(to top, rgba(0, 109, 119, 0.3) 0%, rgba(0, 109, 119, 0.3) 35%, transparent 35%) !important;
     }
@@ -752,6 +755,7 @@ const latestPosts = allPosts.slice(0, 3);
       }
 
       .text-column :global(.post-img-par) { display: block !important; }
+      .text-column :global(.post-img-box img) { max-height: none !important; }
 
       .text-column :global(.img-caption) {
           display: block !important;
