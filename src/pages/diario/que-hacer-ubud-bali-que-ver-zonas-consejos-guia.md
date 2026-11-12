@@ -31,7 +31,7 @@ Si te interesa profundizar en la cultura podés leer [el alma de Bali, sus ritua
 
 Ubud, que está ubicado entre las montañas centrales de Bali, es una zona que combina lo turístico y lo local a la perfección. El centro está lleno de restaurantes y experiencias orientadas al turismo, pero también se encuentran muchos *warungs* (pequeños negocios familiares) y *guest houses* (casas con habitaciones gestionadas por la población local, siempre dispuesta a compartir sus prácticas y su cultura).
 
-Las actividades en Ubud son casi infinitas, y los conductores dispuestos a mostrarte un recorrido por los diferentes puntos también. La verdad es que [contratar un conductor de confianza y pasar por varios puntos en un día con un guía local es una gran opción, sobre todo si tenés un tiempo reducido de viaje.](https://www.booking.com/attractions/id/prlacetrgqo0-ubud-explorer-private-day-tour.es.html?aid=2439984&label=product-attractions-KUOw4lVyFHxONkKhk1ijJQS754810308874%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-1967745930671%3Alp9072522%3Ali%3Adec%3Adm%3Acid22520705213%3Aagid178703962946&source=searchresults-product-card&ufi=-2701757&date=2026-07-08&timeslot=ATS-PRlaCEtrgQo0-202607080700-nullnull&ticket_type=OF6FMaTt5Smw)
+Las actividades en Ubud son casi infinitas, y los conductores dispuestos a mostrarte un recorrido por los diferentes puntos también. La verdad es que [contratar un conductor de confianza y pasar por varios puntos en un día con un guía local es una gran opción, sobre todo si tenés un tiempo reducido de viaje.](https://www.booking.com/attractions/id/prlacetrgqo0-ubud-explorer-private-day-tour.es.html?source=searchresults-product-card&ufi=-2701757&date=2026-07-08&timeslot=ATS-PRlaCEtrgQo0-202607080700-nullnull&ticket_type=OF6FMaTt5Smw)
 
 - - -
 
@@ -218,7 +218,7 @@ Si eligiera de nuevo, seguramente iría por la segunda zona en la que nos quedam
 ### Opciones en Ubud Central (Cerca de todo)
 
 
-#### [Manwarsa Guest House / Warsa Homestay](https://www.booking.com/hotel/id/warsa-homestay.html?aid=2440493&label=mkt123sc-1d308b13-cf33-4521-8fa0-203f65e11961&sid=7324201086ee77dba032cf854bff9851&all_sr_blocks=149594401_411115885_0_2_0&checkin=2026-10-11&checkout=2026-10-12&dest_id=1495944&dest_type=hotel&dist=0&group_adults=2&group_children=0&hapos=1&highlighted_blocks=149594401_411115885_0_2_0&hpos=1&matching_block_id=149594401_411115885_0_2_0&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=149594401_411115885_0_2_0__18426000&srepoch=1790432135&srpvid=a15e644041a8032d&type=total&ucfs=1&#map_closed)
+#### [Manwarsa Guest House / Warsa Homestay](https://www.booking.com/hotel/id/warsa-homestay.html?sid=7324201086ee77dba032cf854bff9851&all_sr_blocks=149594401_411115885_0_2_0&checkin=2026-10-11&checkout=2026-10-12&dest_id=1495944&dest_type=hotel&dist=0&group_adults=2&group_children=0&hapos=1&highlighted_blocks=149594401_411115885_0_2_0&hpos=1&matching_block_id=149594401_411115885_0_2_0&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=149594401_411115885_0_2_0__18426000&srepoch=1790432135&srpvid=a15e644041a8032d&type=total&ucfs=1&#map_closed)
 
 📍 **Ubicación:** En pleno centro, a minutos del Palacio de Ubud y del mercado.
 
@@ -226,7 +226,7 @@ Si eligiera de nuevo, seguramente iría por la segunda zona en la que nos quedam
 
 💰 **Precio estimado:** 10 USD / 9 EUR (~178.000 IDR) por noche.
 
-#### [Semujan Bungalow Ubud](https://www.booking.com/hotel/id/semujan-bungalow-ubud.html?aid=2440493&label=mkt123sc-7bb265d1-dee4-449c-a462-2c81a7fe964d&sid=7324201086ee77dba032cf854bff9851&all_sr_blocks=318059304_141196066_0_0_0&checkin=2026-10-11&checkout=2026-10-12&dest_id=3180593&dest_type=hotel&dist=0&group_adults=2&group_children=0&hapos=1&highlighted_blocks=318059304_141196066_0_0_0&hpos=1&matching_block_id=318059304_141196066_0_0_0&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=318059304_141196066_0_0_0__38232000&srepoch=1790432051&srpvid=a1a66417b9900f64&type=total&ucfs=1&)
+#### [Semujan Bungalow Ubud](https://www.booking.com/hotel/id/semujan-bungalow-ubud.html?sid=7324201086ee77dba032cf854bff9851&all_sr_blocks=318059304_141196066_0_0_0&checkin=2026-10-11&checkout=2026-10-12&dest_id=3180593&dest_type=hotel&dist=0&group_adults=2&group_children=0&hapos=1&highlighted_blocks=318059304_141196066_0_0_0&hpos=1&matching_block_id=318059304_141196066_0_0_0&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=318059304_141196066_0_0_0__38232000&srepoch=1790432051&srpvid=a1a66417b9900f64&type=total&ucfs=1&)
 
 📍 **Ubicación:** A pasos de Monkey Forest Road en un pasaje silencioso.
 
@@ -234,7 +234,7 @@ Si eligiera de nuevo, seguramente iría por la segunda zona en la que nos quedam
 
 💰 **Precio estimado:** 21 USD / 18 EUR (~375.000 IDR) por noche.
 
-#### [Alamdini Resort Ubud](https://www.booking.com/hotel/id/alamdini-resort-ubud-ubud1.html?aid=2440493&label=mkt123sc-7bb265d1-dee4-449c-a462-2c81a7fe964d&sid=7324201086ee77dba032cf854bff9851&all_sr_blocks=192218801_272359493_2_41_0_488673&checkin=2026-10-11&checkout=2026-10-12&dest_id=-2701757&dest_type=city&dist=0&group_adults=2&group_children=0&hapos=1&highlighted_blocks=192218801_272359493_2_41_0_488673&hpos=1&matching_block_id=192218801_272359493_2_41_0_488673&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=192218801_272359493_2_41_0_488673_100719000&srepoch=1790431831&srpvid=764063a8cab5121f&type=total&ucfs=1&)
+#### [Alamdini Resort Ubud](https://www.booking.com/hotel/id/alamdini-resort-ubud-ubud1.html?sid=7324201086ee77dba032cf854bff9851&all_sr_blocks=192218801_272359493_2_41_0_488673&checkin=2026-10-11&checkout=2026-10-12&dest_id=-2701757&dest_type=city&dist=0&group_adults=2&group_children=0&hapos=1&highlighted_blocks=192218801_272359493_2_41_0_488673&hpos=1&matching_block_id=192218801_272359493_2_41_0_488673&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=192218801_272359493_2_41_0_488673_100719000&srepoch=1790431831&srpvid=764063a8cab5121f&type=total&ucfs=1&)
 
 📍 **Ubicación:** Centro urbano, con vistas interiores a un cañón verde.
 
@@ -252,7 +252,7 @@ Si eligiera de nuevo, seguramente iría por la segunda zona en la que nos quedam
 
 ### Opciones en Ubud Norte y Alrededores (Tranquilidad y Naturaleza)
 
-#### [D'tepi Ubud House](https://www.booking.com/hotel/id/ubud-jungle-house.html?aid=2440493&label=mkt123sc-6fb02523-f9b6-410d-a0f1-dd987a51398c&sid=7324201086ee77dba032cf854bff9851&all_sr_blocks=820911401_344788893_2_1_0&checkin=2026-10-11&checkout=2026-10-12&dist=0&group_adults=2&group_children=0&hapos=1&highlighted_blocks=820911401_344788893_2_1_0&hpos=1&matching_block_id=820911401_344788893_2_1_0&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=820911401_344788893_2_1_0__16363600&srepoch=1790431624&srpvid=e01362c86b5e02ed&type=total&ucfs=1&)
+#### [D'tepi Ubud House](https://www.booking.com/hotel/id/ubud-jungle-house.html?sid=7324201086ee77dba032cf854bff9851&all_sr_blocks=820911401_344788893_2_1_0&checkin=2026-10-11&checkout=2026-10-12&dist=0&group_adults=2&group_children=0&hapos=1&highlighted_blocks=820911401_344788893_2_1_0&hpos=1&matching_block_id=820911401_344788893_2_1_0&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=820911401_344788893_2_1_0__16363600&srepoch=1790431624&srpvid=e01362c86b5e02ed&type=total&ucfs=1&)
 
 📍 **Ubicación:** A 10-15 minutos al norte del centro, inmerso en la selva.
 
@@ -262,7 +262,7 @@ Si eligiera de nuevo, seguramente iría por la segunda zona en la que nos quedam
 
 ✅ **Nos quedamos acá.** Los apartamentos eran grandes y con vista directa a la selva, y a veces veíamos monos en los árboles. Muy tranquilo y agradable. Los dueños, también locales, tuvieron la misma apertura y calidez.
 
-#### [Canting Bali Suite](https://www.booking.com/hotel/id/canting-bali-2.html?label=mkt123sc-05f6f8e3-7983-49f9-b825-a1fa8873d9f7&sid=7324201086ee77dba032cf854bff9851&aid=2440493&ucfs=1&arphpl=1&checkin=2026-10-11&checkout=2026-10-12&dest_id=4009842&dest_type=hotel&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=f5bc62961cac1625&srepoch=1790431281&all_sr_blocks=400984206_368967266_0_0_0&highlighted_blocks=400984206_368967266_0_0_0&matching_block_id=400984206_368967266_0_0_0&sr_pri_blocks=400984206_368967266_0_0_0__24552400&from=searchresults)
+#### [Canting Bali Suite](https://www.booking.com/hotel/id/canting-bali-2.html?sid=7324201086ee77dba032cf854bff9851&ucfs=1&arphpl=1&checkin=2026-10-11&checkout=2026-10-12&dest_id=4009842&dest_type=hotel&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=f5bc62961cac1625&srepoch=1790431281&all_sr_blocks=400984206_368967266_0_0_0&highlighted_blocks=400984206_368967266_0_0_0&matching_block_id=400984206_368967266_0_0_0&sr_pri_blocks=400984206_368967266_0_0_0__24552400&from=searchresults)
 
 📍 **Ubicación:** Barrio de Laplapan (Petulu), a 10 minutos del centro.
 
@@ -270,7 +270,7 @@ Si eligiera de nuevo, seguramente iría por la segunda zona en la que nos quedam
 
 💰 **Precio estimado:** 14 a 20 USD / 12 a 18 EUR (~250.000 - 358.000 IDR) por noche.
 
-#### [Subu Utamas Ubud](https://www.booking.com/hotel/id/subu-utamas-ubud.html?aid=2440493)
+#### [Subu Utamas Ubud](https://www.booking.com/hotel/id/subu-utamas-ubud.html)
 
 📍 **Ubicación:** Al norte de Ubud, retirado de las avenidas principales.
 

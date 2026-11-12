@@ -81,15 +81,15 @@ Llevando una vida “normal y tranquila”, es decir, cocinando en casa, compart
 
 Al aterrizar en Christchurch con la Working Holiday Visa, lo ideal es reservar entre **3 y 7 días de alojamiento temporal** en el centro. En ese tiempo podés buscar una habitación, abrir la cuenta bancaria neozelandesa, tramitar el IRD number (número fiscal) y hacer visitas presenciales a habitaciones con total calma (muy importante). Estas son nuestras recomendaciones honestas y balanceadas según tus intereses y presupuesto (⭐ económico, ⭐⭐ intermedio, ⭐⭐⭐ premium):
 
-#### 1. [Urbanz Hostel](https://www.booking.com/hotel/nz/urbanz.html?aid=318615) (CBD — Económico / Social) ⭐
+#### 1. [Urbanz Hostel](https://www.booking.com/hotel/nz/urbanz.html) (CBD — Económico / Social) ⭐
 
 En pleno centro urbano. Cuenta con bar, amplia cocina compartida y es una de las opciones más populares para hacer primeros contactos, conocer gente y buscar trabajo o auto al llegar.
 
-#### 2. [123 Motel](https://www.booking.com/hotel/nz/123-motel.html?aid=1607597) (Riccarton — Práctico y con estacionamiento) ⭐⭐
+#### 2. [123 Motel](https://www.booking.com/hotel/nz/123-motel.html) (Riccarton — Práctico y con estacionamiento) ⭐⭐
 
 Ubicado en Riccarton, a 10 minutos en auto del CBD y junto al centro comercial Westfield. Ofrece estudios con kitchenette y estacionamiento gratis, ideal si tenés auto, preferís cocinar algo en la habitación o quedarte en el apacible y verde barrio de Riccarton.
 
-#### 3. [Hotel Give](https://www.booking.com/hotel/nz/ymca-christchurch.html?aid=1607597) (CBD — Confort, calma y propósito social) ⭐⭐
+#### 3. [Hotel Give](https://www.booking.com/hotel/nz/ymca-christchurch.html) (CBD — Confort, calma y propósito social) ⭐⭐
 
 La opción perfecta para disfrutar y salir a caminar, se encuentra frente al Jardín Botánico y Hagley Park. Ofrece habitaciones privadas con baño exclusivo y una estética muy cuidada en un entorno tranquilo del centro, además destina sus ganancias a programas comunitarios.
 
@@ -97,7 +97,7 @@ La opción perfecta para disfrutar y salir a caminar, se encuentra frente al Jar
 
 Ubicado cerca del muelle de New Brighton. Una alternativa recomendada principalmente para quienes quieren vivir al lado del mar, surfear y disfrutar de la playa, aunque aclaro que queda a unos 15-20 minutos en auto del centro urbano.
 
-#### 5. [Drifter Christchurch](https://www.booking.com/hotel/nz/drifter-christchurch.html?aid=1607597) (CBD — Opción Premium / Boutique) ⭐⭐⭐
+#### 5. [Drifter Christchurch](https://www.booking.com/hotel/nz/drifter-christchurch.html) (CBD — Opción Premium / Boutique) ⭐⭐⭐
 
 Ubicado cerca de la zona central y turística (ideal para conocer o salir en la noche caminando). El hotel combina la vibra social de un hostel con el confort de un hotel boutique. Destaca por sus habitaciones privadas de diseño con baño en suite, espacio de co-working, bar y cine propio.
 
