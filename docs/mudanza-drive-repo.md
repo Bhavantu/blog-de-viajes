@@ -96,3 +96,27 @@ En Drive solo el dueño de un archivo lo puede borrar, así que la mayoría de l
 | Cuando Lore confirme que es una versión vieja de la v2 | `Blogcito_en_Claude_-_estructura_de_trabajo.docx`, a "archivo" | Lore |
 | 3 o 4 semanas después de mover todo | Se vacía la carpeta "archivo" | Lore y Santi |
 
+## Lo que dijeron los inventarios de los proyectos (13/11)
+
+Los seis proyectos de Lore dejaron un inventario en `_contexto/registro`. Ninguno puede ver sus conversaciones anteriores: lo que Lore contó en un chat y no quedó en un documento solo se recupera revisando esos chats a mano.
+
+| Proyecto | Conocimiento hoy | Qué sacar | Qué falta pasar al repo |
+|---|---|---|---|
+| Dirección ("Blog Direccion") | Nada | Nada | Nada |
+| Clusters | 00 LEEME, Marca, Estado y Plan (sincronizados de Drive) | Nada. En las instrucciones, cambiar "indice-articulos.md" por el repo | Nada |
+| Redacción | `guia-estilo-blogcito (3).md` (copia a mano del 3/11), `reglas-redaccion-y-formatos-blog.md` (escrito por Claude el 10-11/11) y, de Drive, Estado, 00 LEEME, Marca y el doc CHINA | La copia de la guía | `reglas-redaccion-y-formatos-blog.md`: formatos de frontmatter, tablas, recuadros, imágenes y tarjetas de hoteles y trenes. Hay que leerlo y sumarlo a la guía o la plantilla |
+| Analítica | 00 LEEME, Estado y Plan (sincronizados) | Nada | Nada |
+| Competencia | `direccion 1` (resumen pegado a mano el 12/11) | `direccion 1`, que va a quedar viejo | Nada. Las instrucciones están en el campo "descripción" (el de "instrucciones" está vacío) y tienen una frase en tuteo ("Puedes encontrar…") |
+| Blogcito china (proyecto viejo de escritura de China) | 8 archivos subidos a mano: mapa de China del 2/11, `guia-blogcito (1).md`, `datos-viaje-china.md`, el pilar (`china_por_libre_itinerario_de_20_d_as.md`), borradores en PDF de Kunming y Furongzhen, la estructura de tablas e `indice-articulos.md` | El mapa del 2/11 y el índice | `datos-viaje-china.md` (hoteles, trenes y fechas del viaje: sale de la planilla "Estadias y trenes china.xlsx") y `guia-blogcito (1).md` (reunió guía, plantilla y un "formato-cms.md"). El borrador del pilar queda con Lore hasta que pase a PR |
+
+**Reglas que aparecieron y no están en el repo** (de la memoria de Redacción): el aviso de afiliados va una sola vez por artículo; no repetir "según las guías" en cada dato; los alojamientos lejos del lugar van en el artículo del lugar al que sirven; Lore unifica el voseo al final y Claude solo lo comenta; en las guías con itinerario, el vivido va por días y el propuesto aparte; el viaje a China fue en octubre.
+
+**Conflictos nuevos:**
+
+- Links que faltan: Drive usa [LINK FALTANTE], Blogcito china usa [VERIFICAR] y el repo dice que Stay22 convierte solo. Se unifica junto con el conflicto 1.
+- Trip.com: no está confirmado que Stay22 lo convierta. Si no, el satélite de trenes no da comisión. Revisarlo en el panel de Stay22.
+- Blogcito china dice "no menciones en los artículos que se usa IA". Desde el 12/11 los posts en inglés llevan el aviso de traducción con IA (lo pone el layout). En los originales en español no se menciona. Lore confirma si está de acuerdo.
+- Borradores: las instrucciones de Redacción dicen Google Doc en `contenido/borradores`; sus reglas dicen que el borrador único es el canvas de la conversación. Lo decide Lore.
+- Dos proyectos escriben China: Redacción y Blogcito china. Conviene que quede uno solo.
+- Columna EUR en las tablas: la guía del repo la pide (moneda local, USD y EUR). Se cierra así.
+
