@@ -63,7 +63,7 @@ Una anécdota aparte: había muchos puestitos, dentro y fuera del Pueblo de las 
 * Entrada: 90 CNY (unos USD 13,41 o EUR 12,06) en la puerta. [Reservá la experiencia con traslado incluido desde el centro acá.](https://www.trip.com/travel-guide/attraction/kunming/yunnan-nationalities-village-75906?poiType=3&curr=USD&locale=en-XX&scene=ticket) El show nocturno se paga aparte.
 * Horario: de 9:00 a 18:00, con última entrada hacia las 16:30. Es bastante grande, así que lo ideal es dedicarle un día entero.
 * Cómo llegar: no hay una estación de metro en la puerta. Nosotros salimos desde el hotel, junto a la estación Dashuying (líneas 3 y 4), fuimos en metro e hicimos el último tramo caminando: no se hizo pesado. A la vuelta, ya cansados, tomamos un DiDi. Si no querés caminar, podés combinar el metro con alguno de los buses que paran en la estación Yunnan Ethnic Village (por ejemplo el 24, el 44 o el 73), o ir directo en DiDi. Armá el recorrido en Amap o Baidu Maps, que en China funcionan mejor que Google Maps.
-* Mejor hora: En la mañana, para disfrutar sin calor, o en la tarde, después del mediodía, para ver los espectáculos.
+* Mejor hora: en la mañana, para disfrutar sin calor, o en la tarde, después del mediodía, para ver los espectáculos.
 * Pros: se recorre en un día, hay mucha información sobre cada cultura en inglés y las funciones están incluidas.
 * Contras: es un recinto turístico; no hay metro en la puerta (hay que caminar un tramo, tomar un bus o un DiDi), y los horarios de las funciones cambian según la temporada.
 * Consejo: al entrar, pedí el mapa y consultá las funciones del día.
@@ -144,8 +144,8 @@ La ruta clásica de Yunnan va de sur a norte, de Kunming a Dali, Lijiang y Shang
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----- | ----- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | [Entrada al Pueblo de las Etnias](https://www.trip.com/travel-guide/attraction/kunming/yunnan-nationalities-village-75906?poiType=3&curr=USD&locale=en-XX&scene=ticket)                                                                                                                                                                                                                                                                                                                                                                                       | 90         | 13,41 | 12,06 | Acceso general diurno (la entrada nocturna cuesta 50 CNY); el show “Call of the Plateau” se paga aparte (150 CNY regular, 220 CNY VIP) |
 | Entrada al Templo Yuantong                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 6          | 0,89  | 0,80  | Por persona, con el incienso incluido; horario de 8:00 a 17:00                                                              |
-| Plato de fideos o comida local                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 25         | 3,73  | 3,35  | Promedio.                                                                                                                              |
-| [Tren Nanning a Kunming](https://www.trip.com/t/ol3P9OfH0X2)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 313 aprox. | 46,70 | 41,94 | Los costos varían según duración y terminal                                                                                            |
+| Plato de fideos o comida local                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 25         | 3,73  | 3,35  | Promedio                                                                                                                              |
+| [Tren Nanning a Kunming](https://www.trip.com/t/ol3P9OfH0X2)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 313 aprox. | 46,64 | 41,94 | Los costos varían según duración y terminal                                                                                            |
 | [Tren Kunming a Chengdu](https://www.trip.com/t/W63vDRcH0X2)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 248        | 36,95 | 33,23 | Por persona; reservado en Trip.com; hoy la segunda clase figura entre 264 y 273 CNY, con trayectos de 6 h 20 min a 8 h                 |
 | [Noche de alojamiento (Yunyiduo Hotel)](https://www.agoda.com/accom/property?propertyId=92432978&countryId=191&finalPriceView=1&isShowMobileAppPrice=false&cid=1844104&numberOfBedrooms=&familyMode=false&adults=2&children=0&rooms=1&maxRooms=0&checkIn=2026-11-12&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=1&showReviewSubmissionEntry=false&currencyCode=IDR&isFreeOccSearch=false&flightSearchCriteria=%5Bobject+Object%5D&los=1&searchrequestid=ac0e3456-3641-4dde-ba8f-6140e49ec577&ds=yNhqFo6YfgLZOKZw) | 134 aprox. | 20,00 | 17,98 | Habitación doble con desayuno buffet; tarifa habitual aproximada (en la Semana Dorada pagamos más)                                                             |
 | Referencia de conversión de moneda                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | 100        | 14,90 | 13,40 | Tipo de cambio de octubre de 2026                                                                                                      |
@@ -158,34 +158,38 @@ Lo que no nos gustó: el punto principal que más nos desafió en China fue enco
 
 ## Preguntas frecuentes
 
-**¿Cuántos días hacen falta en Kunming?**
+### ¿Cuántos días hacen falta en Kunming?
 
 Con 2 o 3 días alcanza para los parques, el templo, las casas de té y el Pueblo de las Etnias. Nosotros nos quedamos 3 noches.
 
-**¿Cuál es la mejor época para viajar a Kunming?**
+### ¿Cuál es la mejor época para viajar a Kunming?
 
 De marzo a mayo y en octubre y noviembre, con clima suave y poca lluvia. En verano llueve más y en invierno hace fresco por la noche.
 
-**¿Vale la pena el Pueblo de las Etnias de Yunnan?**
+### ¿Vale la pena el Pueblo de las Etnias de Yunnan?
 
 Sí, si lo tomás como una primera introducción a la diversidad de la provincia y no como la vida real de las comunidades. La entrada cuesta 90 CNY.
 
-**¿Cómo llego al Pueblo de las Etnias desde el centro?**
+### ¿Cómo llego al Pueblo de las Etnias desde el centro?
 
 En metro y caminando el último tramo, como hicimos nosotros (no se hace pesado), o combinando el metro con alguno de los buses que paran en la estación Yunnan Ethnic Village (por ejemplo el 24, el 44 o el 73). También podés ir en DiDi, que es lo que usamos para volver. Las bicis de alquiler solo se pueden usar con un número de teléfono local, así que no son una opción para turistas a menos que compres uno y lo configures en WeChat.
 
-**¿Es caro Kunming?**
+### ¿Es caro Kunming?
 
 No. Un plato de fideos o comida local ronda los 25 CNY (unos USD 3,73) y los mercados permiten comer por costos accesibles.
 
-**¿Se puede ir a Dali y Lijiang desde Kunming?**
+### ¿Se puede ir a Dali y Lijiang desde Kunming?
 
 Sí, hay tren de alta velocidad. Nosotros no fuimos en este viaje, así que no podemos contarte cómo es en persona.
 
-**¿Para quién lo recomendamos?**
+## ¿Para quién lo recomendamos?
 
 * Mochileros y viajeros lentos: ideal como pausa entre ciudades.
 * Parejas: parques, casas de té y atardeceres tranquilos.
 * Familias: el Pueblo de las Etnias funciona bien con chicos e incluso se pueden disfrazar.
+
+## Más guías de China
+
+* [Furongzhen: qué ver, cómo llegar y shows](/diario/furongzhen-que-ver/)
 
 Si tenés dudas sobre Kunming o querés contarnos tu experiencia, escribinos.
