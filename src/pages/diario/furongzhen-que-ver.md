@@ -150,10 +150,10 @@ El mapa del recinto propone una caminata en un solo sentido, casi toda en bajada
 ### 1. Mirador y pasarela de la cascada (nuestra favorita)
 
 
-<div class="post-img-par">
 <div class="post-img-box img-completo img-centro"><img src="/img/diario/furongzhen-lore-mirando-la-cascada.webp" alt="Lore mirando la cascada de Furongzhen desde el mirador" width="1920" height="1280" loading="lazy"><span class="img-caption">Lore mirando la cascada de Furongzhen desde el mirador</span></div>
+
+
 <div class="post-img-box img-completo img-centro"><img src="/img/diario/furongzhen-pasarela-detras-de-la-cascada.webp" alt="La pasarela que pasa por detrás de la cascada de Furongzhen" width="1920" height="1280" loading="lazy"><span class="img-caption">La pasarela que pasa por detrás de la cascada de Furongzhen</span></div>
-</div>
 
 
 * **Entrada:** incluida en el ticket.
