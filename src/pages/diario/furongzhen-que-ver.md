@@ -5,7 +5,7 @@ slug_url: furongzhen-que-ver
 date: 2026-11-11T01:52:00.000+13:00
 tag: guia de viaje
 pais: China
-main_image: /img/diario/furongzhen-cascada-iluminada-noche.webp
+main_image: /img/diario/furongzhen-lore-mirando-la-cascada.webp
 description: "¿Vale la pena Furongzhen? Guía con tren desde Zhangjiajie, entrada de 98 CNY, shows Tujia y cascada iluminada. Mirá cómo organizarlo."
 ---
 **¿Un pueblo con una cascada en pleno centro? Existe, se llama Furongzhen y vale mucho la pena, sobre todo si te quedás a dormir.** Pasamos 2 noches y 3 días en este pueblo colgado de una cascada, en Hunan, durante nuestra ruta de 20 días por China en octubre de 2026, y nos quedamos en Jianghu, un alojamiento dentro del recinto del pueblo antiguo (la zona que requiere entrada). De día es un pueblo de calles empedradas y casas tujia sobre pilotes; de noche, cuando se enciende la cascada, parece otro lugar. Además, comimos el famoso mi doufu en el mismo local donde se filmó la película del pueblo. En esta guía te contamos cómo llegar desde Zhangjiajie o Fenghuang, cuánto cuesta la entrada, qué ver y a qué hora, y qué shows no te podés perder. Un consejo antes de empezar: dentro del pueblo no entran autos, así que viajá liviano.
@@ -56,6 +56,9 @@ description: "¿Vale la pena Furongzhen? Guía con tren desde Zhangjiajie, entra
 Furongzhen es un pueblo de más de 2.000 años sobre un acantilado al oeste de Hunan. De día es un pueblo de calles empedradas, casas tujia sobre pilotes de madera y shows culturales de la etnia Tujia. Al caer la noche se encienden las luces, y la cascada, que cae en pleno centro del pueblo, se ilumina creando una de sus imágenes más icónicas, la verdad es que la escena se vuelve de cuento de magia.
 
 
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/furongzhen-pueblo-sobre-la-cascada.webp" alt="El pueblo de Furongzhen sobre la cascada, de día" width="1920" height="1280" loading="lazy"><span class="img-caption">El pueblo de Furongzhen sobre la cascada, de día</span></div>
+
+
 El pueblo queda a mitad de camino entre Zhangjiajie y Fenghuang. Históricamente lo habitaron las etnias minoritarias de China llamadas Tujia y Miao. Fue la primera sede de los jefes tusi de Xizhou, la familia Peng, una dinastía local tujia que gobernó la región durante más de 800 años, desde el siglo X hasta 1729. En 1135 trasladaron la sede a Laosicheng, pero el pueblo se quedó con el nombre de Wangcun, "el pueblo del rey". De esa época queda el Palacio Tusi, la residencia de verano de los jefes sobre el acantilado, y el Pilar de Bronce de Xizhou, fundido hacia el año 940 para registrar un tratado entre el rey de Chu y el jefe local.
 
 
@@ -92,6 +95,9 @@ La entrada cuesta 98 CNY (USD 14,98 o unos EUR 13). Podés pasar la noche (lo re
 
 
 Al llegar a la estación nos esperaron de nuestro alojamiento, con quienes coordinamos por la app. El recinto se encuentra dentro de la ciudad, así que nos llevó hasta la entrada, donde presentamos nuestro QR de ingreso y escanearon nuestros pasaportes. Después el auto nos dejó en la calle del hotel y, una vez instalados, comenzamos a recorrer el pueblo.
+
+
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/furongzhen-cascada-tarde-balcon.webp" alt="La cascada de Furongzhen a la tarde, desde un mirador del pueblo" width="1458" height="1920" loading="lazy"><span class="img-caption">La cascada de Furongzhen a la tarde, desde un mirador del pueblo</span></div>
 
 
 La cascada se veía increíble, comenzamos a recorrerlo alrededor de las 4 con una luz muy bella, hicimos la pasarela por detrás varias veces, había bastante gente, pero se podía disfrutar igual. En esa tarde aproveché para cumplir el típico sueño en China y me acerqué a uno de los puestos en los que te maquillan y visten con la ropa tradicional de la etnia miao. Así que al caer la noche además de disfrutar del espectáculo de luces en todo el pueblo sacamos fotos en varios de los puntos iluminados que compartiré a continuación.
@@ -144,7 +150,7 @@ El mapa del recinto propone una caminata en un solo sentido, casi toda en bajada
 ### 1. Mirador y pasarela de la cascada (nuestra favorita)
 
 
-<div class="post-img-box img-mediano img-centro"><img src="/img/diario/furongzhen-cascada-tarde-balcon.webp" alt="La cascada de Furongzhen a la tarde, desde un mirador del pueblo" width="1458" height="1920" loading="lazy"><span class="img-caption">La cascada de Furongzhen a la tarde, desde un mirador del pueblo</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/furongzhen-pasarela-detras-de-la-cascada.webp" alt="La pasarela que pasa por detrás de la cascada de Furongzhen" width="1920" height="1280" loading="lazy"><span class="img-caption">La pasarela que pasa por detrás de la cascada de Furongzhen</span></div>
 
 
 * **Entrada:** incluida en el ticket.
@@ -193,6 +199,9 @@ El mapa del recinto propone una caminata en un solo sentido, casi toda en bajada
 Los shows están incluidos en la entrada y hay varios a lo largo del día como "el llanto de la novia", el show de acrobacias y cuchillos o danzas folklóricas, es posible encontrarlos durante el paseo porque son en lugares públicos o también podés conocer los horarios en la cartelera del centro de información al entrar.
 
 
+<div class="post-img-box img-mediano img-centro"><img src="/img/diario/furongzhen-malabarista-hacha.webp" alt="Un show de acrobacias en una de las plazas de Furongzhen" width="1920" height="1280" loading="lazy"><span class="img-caption">Un show de acrobacias en una de las plazas de Furongzhen</span></div>
+
+
 Los principales son durante la tarde noche y destacan:
 
 
@@ -202,7 +211,7 @@ Los principales son durante la tarde noche y destacan:
 Hacia las 19:00 se encienden las luces del pueblo y la cascada central se ilumina. Es un gran momento para ver el atardecer desde el mirador principal. Después podés bajar a la pasarela por detrás de la cascada y recorrer las calles con las farolas encendidas. De noche alrededor de las 22 el pueblo se empieza a vaciar por tanto también es un gran momento para disfrutar de la tranquilidad.
 
 
-<div class="post-img-box img-completo img-centro"><img src="/img/diario/furongzhen-cascada-iluminada-noche.webp" alt="La cascada de Furongzhen iluminada de noche" width="1571" height="1920" loading="lazy"><span class="img-caption">La cascada de Furongzhen iluminada de noche</span></div>
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/furongzhen-cascada-noche-pueblo-iluminado.webp" alt="La cascada de Furongzhen iluminada de noche, con el pueblo encendido arriba" width="1920" height="1280" loading="lazy"><span class="img-caption">La cascada de Furongzhen iluminada de noche, con el pueblo encendido arriba</span></div>
 
 
 ### El show final: la obra del Gran Teatro Principal
@@ -214,6 +223,9 @@ La función nocturna se hace en el Gran Teatro Principal (主剧场) del Centro 
 * **El pacto y la alianza (歃血结盟):** cuenta cómo las antiguas tribus y los reinos locales sellaron alianzas de paz y comercio en las montañas de Xiangxi.
 * **La vida en el río Youshui y las costumbres (情满酉水):** muestra las tradiciones cotidianas, las bodas tujia tradicionales, los cantos de amor y el folclore del agua.
 * **El gran carnaval final:** un cierre en el que todo el elenco se une en danzas de celebración, con la energía y la algarabía de las fiestas tujia.
+
+
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/furongzhen-show-nocturno-novios.webp" alt="Una escena de &quot;El florecer de Furong&quot;, el show nocturno de Furongzhen" width="1920" height="1280" loading="lazy"><span class="img-caption">Una escena de "El florecer de Furong", el show nocturno de Furongzhen</span></div>
 
 
 Nuestro consejo: llegar temprano. Al terminar el show de danzas y tambores al aire libre en el Salón Baishou se arma una fila para entrar. Se ve bien de todos lados porque es un anfiteatro pero si hay muchos tours el riesgo es quedarse sin lugar.
@@ -418,6 +430,9 @@ Comimos en el lugar donde se filmó *Hibiscus Town*. Es la tienda de mi doufu de
 **Lo que nos gustó:** la cascada iluminada de noche y la pasarela por detrás, la previa de la boda tujia en el puente Tuwang, el show nocturno "El florecer de Furong" y el mi doufu en el local de la película.
 
 **Lo que nos costó:** ubicarnos. El recinto es bastante laberíntico y nos costó leer el mapa para encontrar los shows y los puntos del recorrido. El Palacio Tusi, por ejemplo, figura como un punto del mapa, pero solo se ve de lejos y no se llega hasta allí.
+
+
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/furongzhen-castillo-atardecer.webp" alt="En lo alto de Furongzhen, entre los árboles: un punto del recinto al que nunca pudimos llegar" width="1920" height="1280" loading="lazy"><span class="img-caption">En lo alto de Furongzhen, entre los árboles: un punto del recinto al que nunca pudimos llegar</span></div>
 
 **¿Vale la pena?** Sí, sobre todo si te quedás a dormir: el pueblo de noche, con la cascada iluminada y el show, es lo mejor de la visita.
 
