@@ -9,7 +9,7 @@ main_image: /img/diario/portada-kunming.webp
 archivo_original: que-hacer-kunming-3-dias.md
 ---
 We spent 3 days here in October 2026, staying at the Yunyiduo Hotel, next to the Dashuying metro station (about 4 or 5 km from Green Lake Park). Kunming, the capital of Yunnan, is the best gateway to this province in southwest China. It is a relaxed city with a mild climate, parks full of people enjoying themselves, tea houses and a very particular cuisine. Our main piece of advice is to use Kunming as a 2 or 3 day base before visiting Dali, Lijiang and Shangri-La; we decided to leave those for another trip.
-This guide is part of Traveling Independently in China: a 20-day itinerary from south to center. Kunming was our second stop, after Nanning and before Chengdu.
+This guide is part of our 20-day route through China, from south to center. Kunming was our second stop, after Nanning and before Chengdu.
 
 ## If You Are Short on Time
 
