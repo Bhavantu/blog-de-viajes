@@ -46,6 +46,9 @@ Insertá los bloques en el post en español (src/pages/diario/<slug>.md) con el 
 ```
 
 - `width` y `height` son los píxeles que informó el script (el tamaño real del archivo generado).
+- Todas las fotos van centradas (`img-centro`). Una vertical sola va en `img-mediano`; una horizontal, en `img-completo`.
+- Dos verticales seguidas pueden ir lado a lado, dentro de un mismo bloque sin líneas en blanco:
+  `<div class="post-img-par">` + los dos `<div class="post-img-box img-completo img-centro">…</div>` + `</div>`. Nunca dos horizontales lado a lado: van una arriba de la otra.
 - El alt no lleva etiquetas HTML ni comillas dobles (usar `&quot;` o reescribir).
 - Todas las imágenes del cuerpo llevan `loading="lazy"`: el hero del post es un fondo CSS, no una imagen del cuerpo.
 - Si el artículo tiene portada (`main_image` en el frontmatter) y todavía no está puesta, proponé cuál sería y no la cambies sin OK.
