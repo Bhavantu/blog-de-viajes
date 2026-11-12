@@ -11,7 +11,7 @@ description: "¿Viajás a Bali? Descubrí Amed, el refugio de playa y snorkel li
 main_image: /img/diario/mount-agung.webp
 slug_url: que-hacer-amed-que-ver-guia-presupuesto
 ---
-**¿Estás planeando tu viaje a la costa este de Bali?** En esta guía real te cuento **qué hacer en Amed por libre**: desde cómo hacer snorkel en sus mejores bahías de arena negra, hasta precios actualizados de templos, mapas y consejos honestos para slow travelers.
+**¿Estás planeando tu viaje a la costa este de Bali?** En esta guía real te cuento **qué hacer en Amed por tu cuenta**: desde cómo hacer snorkel en sus mejores bahías de arena negra, hasta precios actualizados de templos, mapas y consejos honestos para slow travelers.
 
 Estuvimos 15 días en Amed, a mitad de nuestro viaje por Bali, y nos dedicamos sobre todo a hacer snorkel desde la orilla, trabajar en remoto y recorrer los alrededores en moto. Los precios de esta guía son de julio de 2026.
 
