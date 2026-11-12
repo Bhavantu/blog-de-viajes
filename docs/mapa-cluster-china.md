@@ -1,138 +1,115 @@
 # Mapa del cluster de China — Blogcito
 
-Versión completa del 2 de noviembre de 2026. Reemplaza al mapa anterior.
+Versión vigente: la del rol Clusters del 11/11/2026 ("Mapa de clusters – China" en Drive), pasada al repo el 12/11/2026 por decisión de Santi. Reemplaza a la versión del repo del 2/11. Desde ahora el mapa vive acá: el rol Clusters propone los cambios y entran al repo con un commit.
 
-## Estado en el repo (revisado el 3/11/2026)
+Basado en el documento "CHINA" (ruta de 20 días en octubre de 2026: Nanning, Kunming, Chengdu, Chongqing, Zhangjiajie, Furongzhen, Fenghuang y Changsha). Los 33 titulares originales quedaron en 26 artículos: se unieron los que competían por la misma búsqueda. Prioridad 1 = publicar primero (más tráfico y afiliados).
 
-Diferencias entre este mapa y lo que hay hoy en el sitio, para resolver:
+**Sin "por libre"** en slugs, títulos ni keywords: es una expresión de España y no la usamos (decisión de Lore). El slug es el nombre SEO definitivo: keyword al principio, sin tildes. Los datos del viaje (hoteles, horarios, precios) mandan sobre lo que dice este mapa. Todas las URLs van como blogcito.com/diario/[slug]/.
 
-- **Kunming ya está publicado** (Lore lo publicó desde Decap el 2/11), así que el resumen de estados de abajo quedó viejo: hay 1 publicado, no 0.
-- **Slug de Kunming:** el mapa dice `que-hacer-kunming`, pero el post está publicado como `que-hacer-kunming-3-dias` (con un 301 desde la URL vieja con fecha). **Decidido el 3/11:** se queda como `que-hacer-kunming-3-dias`, para no sumar otro redirect.
-- **eSIM en Kunming:** el post dice "usamos una eSIM ilimitada de Airalo", con el link de Impact de Airalo. El mapa dice que usaron Holafly. [VERIFICAR] cuál usaron; si fue Holafly, corregir el post y esperar el link de afiliado de Holafly.
-- **Pendientes de Kunming según el mapa:** el título no tiene "(guía 2026)"; el link del Pueblo de las Etnias es de Trip.com y no el de Lorena; falta el seguro; el tour de Shilin ya tiene un link de Trip.com.
-- **Gancho a Furongzhen (sugerencia de Santi, confirmada por Lore):** en Kunming, sección del Pueblo de las Etnias, contar que Lore quería disfrazarse de una etnia, averiguó en varios lugares y no lo hizo, y que más adelante, en Furongzhen, sí se animó. Lore lo confirmó el 11/11 y se agregó en la rama `borrador/furongzhen-que-ver` (PR #126), con link a `furongzhen-que-ver`; sale publicado junto con la guía de Furongzhen.
-- **Firma "Lorena":** el sitio todavía no muestra autor en los posts (pendiente de Prioridad 6, "Agregar firma de autor y fecha de actualización").
-- **Columna EUR:** la tabla de costos de Kunming tiene CNY, USD y EUR; el mapa dice que las tablas nuevas llevan solo CNY y USD hasta decidirlo.
+**Estado al 12/11:** publicados 2 de 26 (Kunming y Furongzhen, este último el 12/11 con el merge del PR #126). Volúmenes de búsqueda: sin medir; los valida el rol Competencia.
 
----
+## Pilar
 
-Ruta de referencia (20 días, sur a centro): Nanning → Kunming → Chengdu → Chongqing → Zhangjiajie → Furongzhen → Fenghuang → Changsha. Todo en tren de alta velocidad, reservado en Trip.com. Firma todos los artículos: Lorena.
+| # | Título | Keyword principal | Slug | Afiliados | Estado / prioridad |
+|---|---|---|---|---|---|
+| 1 | Ruta por China: itinerario de 20 días de Nanning a Changsha | ruta por China | ruta-china | seguro, eSIM, trenes, hoteles | Pendiente · 1 |
 
-Leyenda de estados: **publicado** / **borrador** / **pendiente** (sin redactar). Hoy no hay artículos de China publicados.
+Enlaza a todos los satélites, incluidos Kunming y Furongzhen. Se publica primero y se va completando con enlaces a medida que salen los satélites.
 
----
+## Planificación (más búsquedas y más afiliados)
 
-## 1. Artículo pilar
+| # | Título | Keyword principal | Slug | Afiliados | Estado / prioridad |
+|---|---|---|---|---|---|
+| 2 | Cómo pagar en China siendo extranjero: Alipay, WeChat Pay y efectivo | pagos en China / Alipay en China | pagar-en-china-alipay-wechat-pay | tarjetas de viaje | Pendiente · 1 (nosotros pagamos siempre con Alipay) |
+| 3 | Internet en China: eSIM, VPN y apps que necesitás | internet en China / eSIM para China | internet-en-china-esim-apps | eSIM (Airalo) | Pendiente · 1 |
+| 4 | Cuánto cuesta viajar a China: nuestro presupuesto real de 20 días | presupuesto para viajar a China | presupuesto-viajar-a-china | hoteles, seguro | Pendiente · 1 |
+| 5 | Cómo moverse por China: trenes, billetes y transporte local | trenes en China / comprar billetes de tren en China | trenes-en-china-como-moverse | billetes de tren (Trip.com) | Pendiente · 1 |
+| 6 | Visado para China [año]: requisitos para viajar desde Latinoamérica y España | visado para China | visado-para-china | seguro | Pendiente · 2 [VERIFICAR requisitos vigentes] |
+| 7 | Viajar a China sin hablar chino: apps y trucos que nos salvaron | viajar a China sin hablar chino | viajar-a-china-sin-hablar-chino | eSIM | Pendiente · 2 |
+| 8 | Comer vegetariano en China: qué pedir y dónde (Chengdu, Chongqing y Hunan) | comida vegetariana en China | comer-vegetariano-en-china | tours gastronómicos | Pendiente · 2 (diferencial propio) |
+| 9 | Qué llevar a China: documentos, apps y equipaje | qué llevar a China | que-llevar-a-china | equipo, seguro | Pendiente · 3 |
 
-| Título | Slug | Categoría | Intención de búsqueda | Estado |
-| --- | --- | --- | --- | --- |
-| Viajar a China por libre: itinerario de 20 días del sur al centro (guía 2026) | viajar-a-china-por-libre | Guía de Viaje | Cómo organizar un viaje a China por libre con un itinerario de 20 días | **Borrador.** Falta aplicar los cambios del viaje (noches reales, Holafly, VPN, visa, presupuesto por persona, favoritas y qué saltearían), el bloque "Si tenés poco tiempo" con alojamientos, seguro y los tres precios de tren que faltan |
+"Billetes" y "visado" son palabras de España: el rol Competencia mide las variantes ("boletos", "visa") antes de fijar la keyword (ver vocabulario en "Público y propuesta de valor").
 
----
+## Ciudades
 
-## 2. Satélites por ciudad (Guía de Viaje)
+| # | Título | Keyword principal | Slug | Une titulares originales | Estado / prioridad |
+|---|---|---|---|---|---|
+| 10 | Qué ver en Zhangjiajie: cuántos días, entradas y rutas | qué ver en Zhangjiajie / cómo visitar Zhangjiajie | zhangjiajie-que-ver | 15 y 16 | Pendiente · 1 |
+| 11 | Pandas en Chengdu: entradas, horarios y errores a evitar | pandas en Chengdu | pandas-chengdu | 11 | Pendiente · 1 |
+| 12 | Qué hacer en Kunming en 3 días | qué ver en Kunming | que-hacer-kunming-3-dias | 4 y 5 | **Publicado** · revisar que enlace al pilar y a Bosque de Piedra cuando existan |
+| 13 | Qué ver en Chengdu en 2 o 3 días: itinerario y vida local | qué ver en Chengdu | que-ver-chengdu | 8 y 9 | Pendiente · 2 |
+| 14 | Qué ver en Chongqing: cómo moverse y dónde comer | qué ver en Chongqing | que-ver-chongqing | 12 | Pendiente · 2 |
+| 15 | Qué ver en Fenghuang: de día y de noche | Fenghuang Ancient Town / qué ver en Fenghuang | fenghuang-que-ver | 22 y 23 | Pendiente · 2 |
+| 16 | Furongzhen: qué ver, cómo llegar y shows 2026 | Furongzhen / qué ver en Furongzhen | furongzhen-que-ver | 19, 20 y 21 | **Publicado** el 12/11 (PR #126) |
+| 17 | Zhangjiajie o Tianmen Mountain: cuál elegir | Tianmen Mountain | zhangjiajie-o-tianmen-mountain | 17 | Pendiente · 2 |
+| 18 | Qué hacer en Changsha en 2 días: qué ver y qué comer | qué ver en Changsha | que-hacer-changsha | 25, 26 y 27 | Pendiente · 3 |
+| 19 | Qué ver en Nanning en un día | qué ver en Nanning | que-ver-nanning | 1, 2 y 3 | Pendiente · 3 |
+| 20 | Cómo visitar el Bosque de Piedra desde Kunming | Bosque de Piedra Kunming | bosque-de-piedra-kunming | 7 (solo si lo visitaron) | Pendiente · 3 |
+| 21 | Qué comer en Sichuan: Chengdu y Chongqing más allá del hot pot | qué comer en Chengdu / hot pot Chongqing | que-comer-chengdu-chongqing | 10 y 14 | Pendiente · 3 |
 
-| # | Título | Slug | Intención de búsqueda | Estado |
-| --- | --- | --- | --- | --- |
-| 1 | Qué ver en Nanning: llegar a China en tren desde Hanói y nuestra primera noche (guía 2026) | que-ver-en-nanning | Qué ver y hacer en Nanning, y cómo es entrar a China en tren desde Vietnam | **Borrador** |
-| 2 | Qué hacer en Kunming: 3 días en la Ciudad de la Eterna Primavera (guía 2026) | que-hacer-kunming | Qué hacer en Kunming en 2 o 3 días | **Borrador final** (redacción cerrada por la autora; quedan pendientes el hotel de gama alta, el link de Lorena para el Pueblo de las Etnias, el seguro y el tour de Shilin) |
-| 3 | Qué hacer en Chengdu: té, ópera de Sichuan y un ritmo tranquilo (nuestra ciudad favorita de China) | que-hacer-chengdu | Qué hacer en Chengdu en 3 días | **Borrador** |
-| 4 | Base de pandas de Chengdu: cómo visitarla (entrada oeste, a las 7 de la mañana y sin caer en las filas) | base-de-pandas-chengdu | Cómo visitar la base de pandas de Chengdu | **Borrador** |
-| 5 | Monte Qingcheng desde Chengdu: cómo ir en tren, ruta y entradas de la montaña taoísta | monte-qingcheng-chengdu | Cómo ir al Monte Qingcheng desde Chengdu | **Borrador** |
-| 6 | Qué hacer en Chongqing: guía honesta de 3 días (Liziba, Hongyadong y qué saltearíamos) | que-hacer-chongqing | Qué hacer en Chongqing y si vale la pena | **Borrador** |
-| 7 | Zhangjiajie por libre: cómo organizar el parque, cuánto cuesta y qué hacer si llueve (3 días) | zhangjiajie-por-libre | Cómo organizar la visita al parque nacional de Zhangjiajie por libre | **Borrador** |
-| 8 | Dónde quedarse en Zhangjiajie: Wulingyuan o la ciudad | donde-quedarse-zhangjiajie | Dónde alojarse en Zhangjiajie (Wulingyuan o la ciudad) | **Pendiente.** Hay una decisión para contar: se quedaron en Wulingyuan para evitar la hora de traslado |
-| 9 | Furongzhen: qué ver, cómo llegar y shows 2026 | furongzhen-que-ver | Furongzhen: qué ver, cómo llegar y shows (entrada, tren y alojamiento) | **Borrador en PR #126** (rama `borrador/furongzhen-que-ver`). Alojamiento: Jianghu, dentro del recinto. Faltan las fotos de Lore y el link a la guía pilar de China cuando se publique |
-| 10 | Fenghuang: ¿1 noche o 2? Guía del pueblo antiguo sobre el río Tuojiang (sin entrada y con lluvia) | fenghuang-pueblo-antiguo | Cuántas noches quedarse en Fenghuang y cómo es el pueblo antiguo | **Borrador** |
-| 11 | Qué hacer en Changsha: 3 días de calle Pozi, Isla Naranja y un hub clave para tomar vuelos | que-hacer-changsha | Qué hacer en Changsha y cómo funciona como punto de conexión | **Borrador** |
+### Datos de Furongzhen (#16) que mandan sobre el mapa anterior
 
----
+- Nos quedamos en Jianghu. Otras opciones del artículo: Furong Town and Slow Yueshe, Tuwang Palace · Eight Halls y Huayangnianhua Inn.
+- Entrada: 108 CNY. Último tren Furongzhen→Fenghuang 19:45; Furongzhen→Zhangjiajie West 19:20.
+- Show de la novia visto alrededor de las 14:30.
 
-## 3. Satélites transversales (Guía de Viaje)
+## Comparativas y rutas
 
-| # | Título | Slug | Intención de búsqueda | Estado |
-| --- | --- | --- | --- | --- |
-| 12 | Cómo pagar en China con Alipay y WeChat Pay siendo turista | pagar-en-china-alipay-wechat-pay | Cómo pagar en China siendo extranjero | **Pendiente** |
-| 13 | Cómo comprar trenes de alta velocidad en China con Trip.com | trenes-china-trip-com | Cómo comprar trenes en China siendo turista | **Pendiente** (ya hay precios de tramos y la comparación Trip.com vs. estación) |
-| 14 | eSIM, VPN y apps para viajar a China sin bloqueos (con Holafly) | esim-vpn-apps-china | Qué eSIM, VPN y apps usar en China | **Pendiente.** El enlace de afiliado de Holafly está por conseguir; hablan de Holafly porque es lo que usaron |
-| 15 | Cuánto cuesta viajar a China 20 días: presupuesto real | presupuesto-viajar-china | Cuánto cuesta un viaje de 20 días por China | **Pendiente** (tabla en tres monedas y calculadora) |
-| 16 | ¿Vale la pena viajar a China por libre? Nuestra opinión sincera 2026 | viajar-a-china-por-libre-opinion | Si conviene viajar a China por libre | **Pendiente** |
+| # | Título | Keyword principal | Slug | Estado / prioridad |
+|---|---|---|---|---|
+| 22 | Furongzhen o Fenghuang: qué pueblo antiguo elegir | Furongzhen o Fenghuang | furongzhen-o-fenghuang | Pendiente · 2 |
+| 23 | Cómo combinar Zhangjiajie, Furongzhen y Fenghuang en un mismo viaje | Zhangjiajie Fenghuang ruta | ruta-zhangjiajie-furongzhen-fenghuang | Pendiente · 2 |
+| 24 | Chengdu o Chongqing: cuál elegir (o cómo combinarlas) | Chengdu o Chongqing | chengdu-o-chongqing | Pendiente · 3 |
 
----
+Los titulares 28, 29 y 31 (rutas generales) quedan dentro del pilar para no competir con él.
 
-## 4. Contexto y Cultura
+## Experiencia y cultura (Punto de Fuga / Contexto y Cultura)
 
-| # | Título | Slug | Intención de búsqueda | Estado |
-| --- | --- | --- | --- | --- |
-| 17 | Las minorías étnicas de Yunnan: 25 culturas y el Pueblo de las Etnias | minorias-etnicas-yunnan | Qué minorías étnicas viven en Yunnan | **Pendiente** (el material sale de la apertura y la sección del parque del borrador de Kunming) |
-| 18 | Los tujia y la historia de Furongzhen: de los jefes tusi a una película | historia-furongzhen-tujia | Quiénes son los tujia y la historia de Furongzhen | **Pendiente** (818 años de gobierno tusi, pilar de bronce del año 940, película de 1986; todo por verificar) |
-| 19 | La cultura del té en China: del pu'er de Yunnan a la tetera larga de Chengdu | cultura-te-china-pu-er-chengdu | Cultura del té en China | **Pendiente** |
-| 20 | El mercado de novios del Parque de la Gente de Chengdu | mercado-de-novios-chengdu | Qué es el mercado de novios de Chengdu | **Pendiente** (lo vieron en persona; falta contrastar con datos) |
+| # | Título | Categoría | Estado / prioridad |
+|---|---|---|---|
+| 25 | Lo que aprendimos (y los errores que cometimos) viajando por China | Guía de Viaje / experiencia (une 32 y 33) | Pendiente · 3 |
+| 26 | Chongqing, la ciudad que aprendí a mirar en vertical | Punto de Fuga | Pendiente · 3 |
 
----
+## Orden de publicación (próximas 8)
 
-## 5. Resumen de estados
+1. Pilar: Ruta por China (#1), con enlace a Kunming y a Furongzhen
+2. Cómo pagar en China (#2)
+3. Internet en China (#3)
+4. Qué ver en Zhangjiajie (#10)
+5. Pandas en Chengdu (#11)
+6. Presupuesto para viajar a China (#4)
+7. Trenes en China (#5)
+8. Qué ver en Chengdu (#13)
 
-- Publicados: 0
-- Borradores: 11 (pilar, Nanning, Kunming, Chengdu, pandas, Qingcheng, Chongqing, Zhangjiajie, Furongzhen, Fenghuang, Changsha)
-- Pendientes: 10 (dónde quedarse en Zhangjiajie, 5 transversales y 4 de Contexto y Cultura)
+Solo se enlazan artículos ya publicados (hoy, Kunming y Furongzhen), para no generar errores 404.
 
-Total del mapa: el pilar más 20 satélites (21 artículos).
-
----
-
-## 6. Qué se decidió sobre el mapa
-
-- Kunming se divide: `que-hacer-kunming` queda con lo vivido, lo cultural pasa a `minorias-etnicas-yunnan` y Dali, Lijiang y Shangri-La son un párrafo de "próximo viaje". No se planifican satélites de esas ciudades hasta que vayan.
-- Se agregó `base-de-pandas-chengdu` (fueron a la base de pandas).
-- Se agregó `monte-qingcheng-chengdu` (fueron un día completo).
-- El satélite de eSIM pasa a ser sobre Holafly, porque es lo que usaron, y hay que sumar VPN.
-- Fenghuang y Changsha quedan con las noches reales: 1 y 3.
-- Cada satélite enlaza al pilar y a otros satélites del cluster, y cierra con el bloque "Más guías de China".
-
-### Cambios de slug respecto al mapa anterior
-
-| Artículo | Slug anterior | Slug de los borradores |
-| --- | --- | --- |
-| Nanning | que-hacer-nanning | que-ver-en-nanning |
-| Zhangjiajie | que-hacer-zhangjiajie | zhangjiajie-por-libre |
-| Fenghuang | que-hacer-fenghuang | fenghuang-pueblo-antiguo |
-
-Ninguno está publicado, así que no hay URL que se rompa.
+Enlazado: cada satélite enlaza al pilar y a 2 o 3 satélites cercanos (por ejemplo, Zhangjiajie ↔ Tianmen ↔ Furongzhen ↔ Fenghuang; pagos ↔ internet ↔ sin hablar chino; Kunming ↔ Bosque de Piedra ↔ Nanning) y cierra con el bloque "Más guías de China".
 
 ---
 
-## 7. Orden de publicación sugerido
+## Del mapa anterior del repo (2/11), para que decida Clusters
 
-1. Primera tanda (ya hay material): pilar, Kunming, Furongzhen, pagos y trenes.
-2. Segunda tanda (ciudades): Chengdu, pandas, Qingcheng, Zhangjiajie, Chongqing, Fenghuang, Nanning y Changsha.
-3. Tercera tanda: las cuatro de Contexto y Cultura, presupuesto, eSIM y VPN, y "¿Vale la pena?".
+El mapa del 2/11 tenía cosas que el del 11/11 no incluye. No forman parte del mapa vigente hasta que el rol Clusters (con Lore) decida si entran, se unen a otro artículo o se descartan.
 
----
+**Artículos que no están en el mapa vigente:**
 
-## 8. Pendientes de decisión
+- Monte Qingcheng desde Chengdu (fueron un día completo): cómo ir en tren, ruta y entradas.
+- Dónde quedarse en Zhangjiajie: Wulingyuan o la ciudad (se quedaron en Wulingyuan para evitar la hora de traslado).
+- ¿Vale la pena viajar a China? Opinión sincera (en el mapa anterior llevaba "por libre" en el título y el slug).
+- Contexto y Cultura: las minorías étnicas de Yunnan y el Pueblo de las Etnias; los tujia y la historia de Furongzhen (818 años de gobierno tusi, pilar de bronce del año 940, película de 1986, todo por verificar); la cultura del té en China (del pu'er a la tetera larga de Chengdu); el mercado de novios del Parque de la Gente de Chengdu (lo vieron en persona).
+- Ideas sueltas: museos gratuitos con reserva, visa gratuita de un mes para uruguayos y cómo entrar a China en tren desde Vietnam, dónde quedarse en Fenghuang, Changsha como hub de vuelos, Dujiangyan, un descargable y una calculadora de China, y Dali, Lijiang y Shangri-La para el próximo viaje.
 
-- **Noches en Nanning:** la tabla del pilar dice 1 y el resto del material dice 2. Hay que confirmar cuál es.
-- **Zona de Kunming en el pilar y en Furongzhen:** siguen diciendo "cerca del Parque del Lago Verde". El hotel donde se quedaron (Yunyiduo Hotel) está en Dashuying, a unos 4 o 5 km del lago.
-- **Títulos SEO de pilar y Furongzhen:** hay propuestas, sin elegir.
-  - Pilar: "Viajar a China por libre: itinerario de 20 días, trenes y presupuesto (2026)", "China por libre: itinerario de 20 días del sur al centro (guía 2026)", "Cómo viajar a China por libre: ruta de 20 días, pagos y presupuesto real".
-  - Furongzhen: "Furongzhen por libre: entrada, tren desde Zhangjiajie y shows (2026)", "Qué ver en Furongzhen: el pueblo sobre la cascada (guía 1 o 2 días)", "Furongzhen, China: ¿1 noche o 2? Guía del pueblo de la cascada".
-- **Alojamientos:** faltan nombres y precios de las ocho ciudades (hay datos de Kunming, Furongzhen y Changsha).
-- **Enlaces de afiliado:** faltan Holafly, seguro, link de Lorena para el Pueblo de las Etnias y varios links de Trip.com (tren Kunming–Chengdu, ópera de Sichuan, Fenghuang–Changsha).
-- **Tren:** elegir recomendación para Fenghuang–Changsha (directo o con transbordo en Huaihua), Chongqing–Zhangjiajie y Nanning–Kunming.
-- **Tabla de costos:** las tablas nuevas llevan solo CNY y USD (1 CNY = USD 0,149); falta confirmar si se mantiene la columna EUR.
-- **Firma:** los borradores de ciudad dicen "Por Lore"; se acordó que todos se firman con Lorena.
+**Borradores:** el mapa del 2/11 decía que había borradores del pilar, Nanning, Chengdu, pandas, Qingcheng, Chongqing, Zhangjiajie, Fenghuang y Changsha. El del 11/11 los marca como pendientes. Lore confirma qué borradores existen y dónde están (Estado lo tiene como "a definir").
 
----
+**Decisiones que seguían abiertas:**
 
-## 9. Ideas que surgieron al escribir (no decididas, fuera del mapa)
-
-- Comer vegetariano en China (restaurantes budistas).
-- Museos gratuitos de China con reserva anticipada.
-- Visa gratuita de un mes para uruguayos y cómo entrar a China en tren desde Vietnam.
-- Dónde quedarse en Fenghuang según la distancia a la parada del bus.
-- Changsha como hub para tomar vuelos.
-- Dujiangyan (si lo visitan).
-- Bosque de Piedra de Shilin (solo si van).
-- Un recurso descargable de China y una calculadora de presupuesto.
-- Dali, Lijiang y Shangri-La, para el próximo viaje.
+- eSIM: el post de Kunming dice que usaron Airalo (con el link de Impact) y el mapa anterior decía Holafly. [VERIFICAR] cuál usaron; el satélite #3 hoy lleva Airalo.
+- Noches en Nanning: 1 o 2.
+- Zona de Kunming en el pilar: el hotel (Yunyiduo) está en Dashuying, a unos 4 o 5 km del Lago Verde, no "cerca del lago".
+- Alojamientos: faltan nombres y precios de las ocho ciudades (hay de Kunming, Furongzhen y Changsha).
+- Afiliados que faltan: seguro, link del Pueblo de las Etnias y varios de Trip.com (tren Kunming–Chengdu, ópera de Sichuan, Fenghuang–Changsha).
+- Tren: qué recomendar para Fenghuang–Changsha (directo o con transbordo en Huaihua), Chongqing–Zhangjiajie y Nanning–Kunming.
+- Tablas de costos: si las nuevas llevan EUR (Kunming tiene CNY, USD y EUR) o solo CNY y USD.
+- Firma: se acordó firmar todos con Lorena; el sitio todavía no muestra autor (Prioridad 6).
+- Kunming, pendientes del post: hotel de gama alta, link del Pueblo de las Etnias, seguro y tour de Shilin.

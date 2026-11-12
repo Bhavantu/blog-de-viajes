@@ -32,7 +32,7 @@ Columna "Leído": si Claude lo leyó entero el 12/11 o solo vio el título. Los 
 
 | Documento (Drive) | Leído | Destino | Qué se hace |
 |---|---|---|---|
-| Mapa de clusters – China (11/11, `roles/Clusters`) | Sí | Repo: reemplaza a `docs/mapa-cluster-china.md` | El de Drive es más nuevo (el del repo es del 2/11 y todavía usa "por libre" en 5 lugares). Se fusionan: el mapa de Drive más la sección "Estado en el repo" del actual |
+| Mapa de clusters – China (11/11, `roles/Clusters`) | Sí | Repo: `docs/mapa-cluster-china.md` | **Hecho el 12/11** (decisión de Santi): el de Drive es la versión vigente, sin "por libre". Lo que tenía el mapa anterior del repo y no está en el de Drive quedó en una sección aparte para que decida Clusters. Desde ahora el rol Clusters propone los cambios y entran al repo |
 | Calendario editorial (`contenido`) | Título | Queda en Drive | Lo actualiza Dirección en cada sesión. El estado de cada artículo en el sitio lo da el mapa del repo |
 | indice-articulos.md (27/10) | Título | Se descarta | Estado y las correcciones del 7/11 piden actualizarlo a mano. Con el repo conectado, la lista de artículos publicados es `src/pages/diario/` |
 | articulos-keywords-blogcito.md, preguntas-para-lore.md, equipo-y-horas-blogcito.md ("Artiuculos publicados") | Título | A revisar | Son de Santi, del 3/11. Si tienen algo que no esté en el repo o en el Plan, se suma; si no, se descartan |
@@ -69,7 +69,7 @@ Columna "Leído": si Claude lo leyó entero el 12/11 o solo vio el título. Los 
 3. **Tildes en SEO.** Drive lo tiene "a confirmar con Santi". La guía del repo ya lo dice igual que la propuesta de Lore: slugs, URLs y keywords sin tilde; títulos visibles con tilde. Propuesta: se confirma y se cierra.
 4. **Largo del título.** Redacción dice "máx. 60 caracteres, keyword al principio" y "meta descripción máx. 155". La guía del repo dice que Google no pone límite y no pide la keyword al principio: lo importante va en las primeras palabras, y unos 150 caracteres de descripción como referencia. Propuesta: vale la guía del repo.
 5. **"Más guías de".** Las correcciones del 7/11 piden 3 a 5 links; la guía pide todos los del destino. En Amed (PR #129) se pusieron los 6 de Bali. Lo decide Lore.
-6. **"Por libre".** Lore decidió no usarlo. Todavía aparece en el mapa de China del repo y en dos posts: la apertura de Amed y la de Kunming ("Viajar a China por libre", que además es el nombre viejo del pilar). Se corrige con la mudanza del mapa y en los PR de cada post.
+6. **"Por libre".** Decidido: no se usa. Sacado del mapa de China el 12/11; en los posts, la apertura de Amed (PR #129) y la de Kunming ("Viajar a China por libre", el nombre viejo del pilar) se corrigen en sus PR.
 7. **Público.** GA4 dice Uruguay, España y Argentina; Search Console, España, México y Argentina. No se contradicen (miden cosas distintas). Propuesta: la guía y la marca citan las dos fuentes.
 
 ## Orden de la mudanza
