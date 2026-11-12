@@ -61,6 +61,28 @@ Ya corregido por Santi el 10/11/2026 (no hace falta tocarlo): voseo ("podés", "
 - [ ] Traducción al inglés, cuando el español quede cerrado.
 - [ ] Pasar el PR #126 a "Ready for review" y avisar a Santi.
 
+### Amed (`src/pages/diario/que-hacer-amed-que-ver-guia-presupuesto.md` y su traducción `src/pages/en/journal/what-to-do-amed-bali-real-guide-budget.md`)
+
+Es el post con más chances de generar ingresos pronto: en Search Console está en posición 9 a 10 para "qué hacer en Amed" y "qué ver en Amed". Revisión de Santi y Claude del 12/11/2026. Todo lo que se cambie en español se pasa también a la traducción.
+
+Ya hecho por Santi el 12/11 (rama `amed-si-tenes-poco-tiempo`, PR #129, sin publicar): bloque "Si tenés poco tiempo" antes de la Introducción, con los tres hoteles de la tabla de costos: Bali Yogi Amed (económico), Valomia Beachfront (medio) y Surya Amed Beach (alto), con los precios que ya tenía el post.
+
+**Para Lore (lo que solo ella sabe)**
+- [ ] ¿Dónde nos quedamos en los 15 días en Amed? Marcar ese alojamiento con "Nos quedamos acá" en el bloque y contarlo en el texto: cuántas noches, cuánto pagamos, qué nos gustó y qué no. Si no es ninguno de los tres del bloque, reemplazar el que corresponda a su categoría.
+- [ ] Confirmar que los nombres de los hoteles son esos (salieron de los links de Booking).
+- [ ] La lista de 5 alojamientos en "¿Por qué Amed es el refugio de los slow travelers?" tiene textos genéricos ("Estadía frente al mar spa"): poner el nombre de cada hotel o sacar la lista, porque ahora está el bloque arriba.
+- [ ] Fotos: hay 6 en unas 4.600 palabras y un tramo de casi 1.500 palabras sin imagen. Sumar fotos propias de las bahías de snorkel (Jemeluk, Lipah, el naufragio japonés), de los templos y de los volcanes, con `/fotos` (carpeta `amed` en Drive).
+- [ ] Secciones "Lo que nos gustó, lo que no y ¿vale la pena?" y "Qué saltearíamos" (si hay algo): faltan y solo las puede escribir Lore.
+
+**Mejoras de texto y estructura (se pueden hacer con Claude)**
+- [ ] La experiencia aparece tarde: el post arranca con "Hace años tenía el sueño de viajar a Bali" y los "15 días" recién aparecen en "Circuitos turísticos". Llevar a los primeros párrafos cuánto tiempo estuvimos, dónde nos quedamos y el consejo clave (por ejemplo, el de los cajeros sin efectivo).
+- [ ] Título: no dice "qué ver", que es una de las búsquedas que ya trae. Propuesta: "Qué hacer en Amed, Bali: qué ver, snorkel y presupuesto (15 días) 2026". Lo decide Santi, porque la página ya posiciona.
+- [ ] Afiliados que faltan en "Todo lo que necesitás saber antes de ir": eSIM de Airalo (link de Impact de siempre) y seguro de viaje (cuando haya afiliado). Evaluar un traslado desde Ubud o el aeropuerto.
+- [ ] Preguntas frecuentes: están como viñetas en dos lugares ("Preguntas frecuentes de snorkel" y "Preguntas frecuentes"). Pasarlas a una sola sección al final, con cada pregunta como H3.
+- [ ] Costos: hay 4 secciones H2 seguidas sobre costos y presupuesto. Unirlas en una ("¿Cuánto cuesta Amed? Precios 2026") con las tablas adentro. En la tabla los USD van con punto ("8.36"): pasarlos a coma, como en el resto del blog.
+- [ ] Calculadora: el texto promete que el presupuesto llega "al mail en formato Excel" (y dice "recinir"), pero solo se descarga un CSV. Corregir el texto ya y, más adelante, convertirla en un descargable a cambio del mail. La versión en inglés del post linkea a la calculadora en español.
+- [ ] Más adelante, satélites: "Snorkel en Amed", "Dónde quedarse en Amed" y "Excursiones desde Amed". No dividir el post todavía.
+
 ---
 
 ## Parte 2. Errores que encontramos (revisar en cada borrador)
