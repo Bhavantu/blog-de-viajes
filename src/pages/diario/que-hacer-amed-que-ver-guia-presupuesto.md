@@ -11,7 +11,11 @@ description: "¿Viajás a Bali? Descubrí Amed, el refugio de playa y snorkel li
 main_image: /img/diario/mount-agung.webp
 slug_url: que-hacer-amed-que-ver-guia-presupuesto
 ---
-**¿Estás planeando tu viaje a la costa este de Bali?** En esta guía real te cuento todo lo **que hacer en Amed por libre**: desde cómo hacer snorkel en sus mejores bahías de arena negra, hasta precios actualizados de templos, mapas y consejos honestos para slow travelers. 
+**¿Estás planeando tu viaje a la costa este de Bali?** En esta guía real te cuento **qué hacer en Amed por libre**: desde cómo hacer snorkel en sus mejores bahías de arena negra, hasta precios actualizados de templos, mapas y consejos honestos para slow travelers.
+
+Estuvimos 15 días en Amed, a mitad de nuestro viaje por Bali, y nos dedicamos sobre todo a hacer snorkel desde la orilla, trabajar en remoto y recorrer los alrededores en moto. Los precios de esta guía son de julio de 2026.
+
+⚠️ **El consejo que más nos sirvió:** sacá efectivo antes de llegar. Los cajeros de la zona se quedan sin plata seguido.
 
 > Amed es uno de nuestros rincones favoritos de la isla. Si estás planificando tu viaje te recomendamos consultar nuestra [Guía Completa para viajar a Bali](/diario/viajar-a-bali/) con todo lo que necesitás saber para organizar tu itinerario, visa y transportes.
 
@@ -60,13 +64,7 @@ No hay grandes centros comerciales ni autopistas. Es un rincón para quienes bus
 
 Igual seamos honestos, Amed no es un secreto absoluto. El turismo es parte del paisaje y las propuestas comerciales son constantes: hay cafés de especialidad, hoteles resort y escuelas de buceo de capital extranjero, pero todo convive con el ritmo de la villa de una manera bastante amigable. Amed es un punto medio estratégico entre el “slow travel” y la cercanía a puntos turísticos de interés como templos antiguos, palacios históricos o playas paradisíacas como Virgin Beach. Desde mi punto de vista, es un equilibrio ideal para estar en Bali.
 
-Además, se ajusta a todos los presupuestos con estadías bastante espectaculares frente al mar para todos los bolsillos, acá te dejamos algunos ejemplos y una tabla comparativa al final del artículo. 
-
-* [Estadía frente al mar spa](https://www.booking.com/hotel/id/surya-amed-beach.html)
-* [Estadía frente al mar beach resort local](https://www.booking.com/hotel/id/amed-beach-resort.html)
-* [Estadía presupuesto medio, experiencia local](https://www.booking.com/hotel/id/valomia-beachfront.html)
-* [Estadía frente al mar, presupuesto medio](https://www.booking.com/hotel/id/meditasi-bungalow.html)
-* [Estadía presupuesto bajo](https://www.booking.com/hotel/id/bali-yogi-amed1.html)
+Además, se ajusta a todos los presupuestos con estadías bastante espectaculares frente al mar para todos los bolsillos: los tres alojamientos que recomendamos están al principio del artículo y los precios, en la [tabla de costos](#cuánto-cuesta-amed-precios-2026).
 
 ## **Los Jukungs: la tradición de los navegantes en Bali**
 
@@ -123,7 +121,7 @@ Acá te dejamos un mapa indicando las entradas específicas por las que ingresam
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1X8zPiqeYPvj9x8Nrj1ypdVYE1fX651c&ehbc=2E312F&noprof=1" width="100%" height="480"></iframe>
 
-### **Preguntas frecuentes de snorkel y tips de seguridad**
+### **Equipo y tips de seguridad para el snorkel**
 
 * **¿Alquilar o comprar equipo?** Alquilar una máscara de snorkel en la playa sale unas IDR 50.000 por día (unos USD 3). Si te vas a quedar mucho tiempo como nosotros te conviene comprar un set básico en algún supermercado o cualquier tiendita local.\
   *Tip de compra:* Parece ser que la prueba que corrobora la calidad de la máscara es: ponérsela, inhalar por la nariz y que no se despegue. Nosotros compramos una de marca Intex por aprox. IDR 290.000 (USD 17) y resultó bastante bien.
@@ -176,11 +174,11 @@ Un antiguo palacio real rodeado de jardines balineses y piscinas de agua decorad
 
 La playa más épica de la isla: arena blanca, agua turquesa, el mismísimo paraíso. La entrada cuesta 20.000 IDR (aprox. USD 1,11) e incluye el estacionamiento. Desde la mañana hasta alrededor de las 3 el agua tiene un color turquesa increíble, la zona de alrededor tiene palmeras y pasto con algo de sombra que en la tarde se llena de gente local que disfruta el paisaje muy tranquila. En la playa hay warungs y puestos de alquiler de tumbonas con sombrilla para pasar el día (100.000 IDR, unos USD 6).
 
-Si querés juntar las experiencias en un solo tour sin manejar en moto podés o contratar un guía local o un servicio de traslado (o taxi) son muy frecuentes tanto en la calle como en los homestay/ hoteles y podés negociar el precio. Por si acaso compartimos el número de Anderson con quién hicimos los traslados por todo Bali, es amable, conversador, confiable y tiene un auto eléctrico +6281574887501 (si te comunicas contale que vas de parte de blogcito).
+Si querés juntar las experiencias en un solo día sin manejar en moto, podés contratar un guía local o un servicio de traslado (o taxi): se consiguen fácil en la calle y en los homestays u hoteles, y el precio se negocia. Por si acaso compartimos el número de Anderson con quien hicimos los traslados por todo Bali, es amable, conversador, confiable y tiene un auto eléctrico +6281574887501 (si te comunicás con él, contale que vas de parte de Blogcito).
 
-> [Si te gustaría conocer estos lugares saliendo desde Ubud, Kuta o Denpasar te compartimos esta experiencia](https://www.getyourguide.com/es-es/karangasem-l190139/bali-tour-privado-con-todo-incluido-por-los-puntos-destacados-del-este-de-bali-t1205121?ranking_uuid=2f0097e3-d8c4-4c7a-b66e-c3f6d1bdba45&date_from=2026-07-25) es un tour armado que incluye el traslado, el paseo por varios de los puntos recomendados. Tiene contenido histórico cultural y además podés conocer pueblo de **Tenganan Pegringsingan,** un pueblo indígena conocido por sus tejidos tradicionales.  
+> [Si te gustaría conocer estos lugares saliendo desde Ubud, Kuta o Denpasar te compartimos esta experiencia](https://www.getyourguide.com/es-es/karangasem-l190139/bali-tour-privado-con-todo-incluido-por-los-puntos-destacados-del-este-de-bali-t1205121?ranking_uuid=2f0097e3-d8c4-4c7a-b66e-c3f6d1bdba45&date_from=2026-07-25) es un tour armado que incluye el traslado, el paseo por varios de los puntos recomendados. Tiene contenido histórico cultural y además podés conocer el pueblo de **Tenganan Pegringsingan,** un pueblo indígena conocido por sus tejidos tradicionales.  
 
-## **Senderismo en volcanes cerca de amed**
+## **Senderismo en volcanes cerca de Amed**
 
 Las siluetas de los volcanes dominan todo el paisaje y, aunque de momento no los hemos subido, recopilamos la información clave que todo viajero aventurero necesita antes de hacer un buen trekking.
 
@@ -199,7 +197,7 @@ El Monte Agung es el punto más alto de la isla y el volcán más sagrado para l
 * **La experiencia:** Es un trekking de dificultad alta, exigente y técnico ya que la cima se encuentra a unos 3142 metros. Existen dos rutas principales: la que parte desde el templo Pura Pasar Agung (que llega hasta el borde del cráter a unos 2866 metros y toma unas 3 o 4 horas de subida) y la ruta completa desde el templo madre de Besakih (que asciende hasta la cumbre real a 3142 metros, requiriendo entre 5 y 7 horas de subida continua sobre roca empinada). Se empieza a caminar cerca de las 11:00 de la noche del día anterior.
 * **Consideraciones:** Requiere preparación física apta para enfrentar el desafío y calzado apropiado. Además, al ser un sitio sagrado, hay periodos del año en los que el acceso está prohibido debido a la celebración de ceremonias religiosas en los templos del volcán.
 
-  > [Podés reservar el tour privado con guías locales acá.](https://www.getyourguide.com/es-es/karangasem-l190139/ruta-al-amanecer-por-el-monte-agung-con-cafe-y-miel-en-una-casa-local-t1211975?ranking_uuid=b26881a4-20bb-44e8-bcf2-e0ebb967afce&q=Monte+Agung&date_from=2026-08-20) En esta experiencia: te pasan a buscar por tu homestay (incluye ambos traslados) te recibe un guía local con el que se realiza una oración previa acorde a la tradición balinesa (para una subida armónica). Subís por uno de los 3 senderos disponibles y posteriormente se visita la casa del guía en la zona en donde te invitan con un café balines y te cuentan sobre el proceso de recolección de miel de forma sostenible según los métodos tradicionales de la zona. La verdad es que esta propuesta parece un acierto total. 
+  > [Podés reservar el tour privado con guías locales acá.](https://www.getyourguide.com/es-es/karangasem-l190139/ruta-al-amanecer-por-el-monte-agung-con-cafe-y-miel-en-una-casa-local-t1211975?ranking_uuid=b26881a4-20bb-44e8-bcf2-e0ebb967afce&q=Monte+Agung&date_from=2026-08-20) En esta experiencia: te pasan a buscar por tu homestay (incluye ambos traslados) te recibe un guía local con el que se realiza una oración previa acorde a la tradición balinesa (para una subida armónica). Subís por uno de los 3 senderos disponibles y posteriormente se visita la casa del guía en la zona en donde te invitan con un café balinés y te cuentan sobre el proceso de recolección de miel de forma sostenible según los métodos tradicionales de la zona. La verdad es que esta propuesta parece un acierto total. 
 
 ## **Atardeceres mágicos: ¿dónde ver caer el sol en Amed?**
 
@@ -221,54 +219,47 @@ El atardecer en Amed es un ritual diario. Al estar en la costa este, el sol se o
 
 ⚠️ **Efectivo / ATMs:** Los cajeros automáticos (ATM) de la zona frecuentemente se quedan sin efectivo. Recomendamos sacar efectivo con anticipación, antes de llegar a Amed.
 
-**Preguntas frecuentes**
+* **Conectividad:** en Bali usamos una [eSIM de Airalo](https://airalo.pxf.io/c/7468102/1268485/15608?partnerpropertyid=8600748), que compramos antes de llegar y se activa al aterrizar. Te sirve para tener datos desde el primer momento, para moverte con el mapa entre bahías y para coordinar con choferes por WhatsApp.
 
-* **¿Cómo es la playa en Amed?** Se caracteriza por tener arena negra volcánica y muchas piedras. El agua es transparente y la corriente no es fuerte. En las bahías el viento está bastante contenido.
-* **¿Se puede salir a caminar por la playa?** Sí, pero con matices: la arena gruesa y las piedras pueden ser un masaje o una molestia, pero se resuelve fácil con calzado.
+## ¿Cuánto cuesta Amed? Precios 2026
 
-  * En la mañana la marea está bastante alta y están los *jukungs* (barcos clásicos de Bali); por tanto, se puede caminar pero hay que acercarse más al agua, esquivar los barcos, etc.
-  * La tarde es el momento ideal ya que el atardecer es hermoso, muchos restaurantes tienen música en vivo y la marea está más baja.
+A continuación te dejamos dos tablas con los costos de entradas, tours, estadías y alquiler de moto (precios de julio de 2026). Además podés armar tu presupuesto personalizado con nuestra calculadora online.
 
-## Tabla de costos Amed Bali 2026, armá tu presupuesto
-
-A continuación te dejamos dos tablas con los costos de estadías, entradas y tours. Además podés armar tu presupuesto personalizado 2026 entrando a nuestra calculadora online.
-
-## Qué hacer en Amed, tabla de costos 2026
+### Entradas, snorkel y tours
 
 | Concepto                                                                                                                                                                                                                                                                       | IDR (Rupia Indo) | USD   | EUR   | Observaciones / Enlace directo                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ----- | ----- | -------------------------------------------------------------------------------------------------------------------------------- |
 | Entrada Jemeluk o Lipah                                                                                                                                                                                                                                                        | Gratis           | 0     | 0     | Acceso público directo desde la playa                                                                                            |
-| Entrada Japanese Shipwreck (Parador)                                                                                                                                                                                                                                           | 25.000           | 1.39  | 1.22  | Consumición mínima para usar estacionamiento y duchas                                                                            |
-| Alquiler Máscara Snorkel (Día)                                                                                                                                                                                                                                                 | 50.000           | 2.79  | 2.43  | Tarifa estándar de alquiler en paradores de playa                                                                                |
-| Compra Máscara Snorkel (Intex)                                                                                                                                                                                                                                                 | 290.000          | 16.16 | 14.12 | Tienditas locales                                                                                                                |
-| [Tour de Snorkel (reserva online)](https://www.getyourguide.com/karangasem-l190139/baliamed-experiencia-de-esnorquel-en-un-templo-submarino-t914585/?ranking_uuid=d8ce01cb-a94d-48a5-89f8-7361b97c2d8a&q=snorkel+amed&date_from=2026-07-19&date_to=2026-07-19&adults=1)        | 700.000          | 39.01 | 34.08 | Excursión guiada por 3 puntos                                                                                                    |
-| Tour de snorkel a coordinar (locales)                                                                                                                                                                                                                                          | 500.000          | 27.87 | 24.37 | Costo de referencia                                                                                                              |
-| [Tour de snorkel + pesca](https://www.getyourguide.com/karangasem-l190139/amed-snorkel-exclusivo-pesca-y-cocina-balinesa-t1193317/?ranking_uuid=042fbc85-8c89-4d9c-994e-efeb98250c1d&referral_redirect=1&q=Karangasem)                                                         | 1.255.972        | 70    | 61.15 |                                                                                                                                  |
-| Entrada Lahangan Sweet (incluye shuttle)                                                                                                                                                                                                                                       | 50.000           | 2.79  | 2.43  | Mirador de montaña (incluye camioneta de subida)                                                                                 |
-| Entrada Pura Lempuyang (+ Shuttle Bus)                                                                                                                                                                                                                                         | 150.000          | 8.36  | 7.3   | Entrada general y transporte local obligatorio (para subida)                                                                     |
-| Entrada Tirta Gangga                                                                                                                                                                                                                                                           | 100.000          | 5.57  | 4.87  | Palacio real de agua                                                                                                            |
-| Entrada Taman Ujung                                                                                                                                                                                                                                                            | 100.000          | 5.57  | 4.87  | Palacio de agua (Tumbu)                                                                                                         |
-| Entrada Virgin Beach                                                                                                                                                                                                                                                           | 20.000           | 1.11  | 0.97  | Incluye estacionamiento de vehículos                                                                                             |
-| Alquiler de 2 Tumbonas + sombrilla Virgin Beach                                                                                                                                                                                                                                | 100.000          | 5.57  | 4.87  | Opcional para pasar el día con sombrilla en la playa                                                                             |
-| [Tour privado desde Ubud o Kuta con entradas y traslado](https://www.getyourguide.com/es-es/karangasem-l190139/bali-tour-privado-con-todo-incluido-por-los-puntos-destacados-del-este-de-bali-t1205121?ranking_uuid=2f0097e3-d8c4-4c7a-b66e-c3f6d1bdba45&date_from=2026-07-25) | 1.956.912        | 109   | 95.92 | Opción destacada porque tiene contenido histórico cultural y además conoces un pueblo indígena bali aga y su tradición de tejido |
-| Referencia de conversión de moneda                                                                                                                                                                                                                                             | 100.000          | 5.57  | 4.87  |                                                                                                                                  |
+| Entrada Japanese Shipwreck (Parador)                                                                                                                                                                                                                                           | 25.000           | 1,39  | 1,22  | Consumición mínima para usar estacionamiento y duchas                                                                            |
+| Alquiler Máscara Snorkel (Día)                                                                                                                                                                                                                                                 | 50.000           | 2,79  | 2,43  | Tarifa estándar de alquiler en paradores de playa                                                                                |
+| Compra Máscara Snorkel (Intex)                                                                                                                                                                                                                                                 | 290.000          | 16,16 | 14,12 | Tienditas locales                                                                                                                |
+| [Tour de Snorkel (reserva online)](https://www.getyourguide.com/karangasem-l190139/baliamed-experiencia-de-esnorquel-en-un-templo-submarino-t914585/?ranking_uuid=d8ce01cb-a94d-48a5-89f8-7361b97c2d8a&q=snorkel+amed&date_from=2026-07-19&date_to=2026-07-19&adults=1)        | 700.000          | 39,01 | 34,08 | Excursión guiada por 3 puntos                                                                                                    |
+| Tour de snorkel a coordinar (locales)                                                                                                                                                                                                                                          | 500.000          | 27,87 | 24,37 | Costo de referencia                                                                                                              |
+| [Tour de snorkel + pesca](https://www.getyourguide.com/karangasem-l190139/amed-snorkel-exclusivo-pesca-y-cocina-balinesa-t1193317/?ranking_uuid=042fbc85-8c89-4d9c-994e-efeb98250c1d&referral_redirect=1&q=Karangasem)                                                         | 1.255.972        | 70    | 61,15 |                                                                                                                                  |
+| Entrada Lahangan Sweet (incluye shuttle)                                                                                                                                                                                                                                       | 50.000           | 2,79  | 2,43  | Mirador de montaña (incluye camioneta de subida)                                                                                 |
+| Entrada Pura Lempuyang (+ Shuttle Bus)                                                                                                                                                                                                                                         | 150.000          | 8,36  | 7,3   | Entrada general y transporte local obligatorio (para subida)                                                                     |
+| Entrada Tirta Gangga                                                                                                                                                                                                                                                           | 100.000          | 5,57  | 4,87  | Palacio real de agua                                                                                                            |
+| Entrada Taman Ujung                                                                                                                                                                                                                                                            | 100.000          | 5,57  | 4,87  | Palacio de agua (Tumbu)                                                                                                         |
+| Entrada Virgin Beach                                                                                                                                                                                                                                                           | 20.000           | 1,11  | 0,97  | Incluye estacionamiento de vehículos                                                                                             |
+| Alquiler de 2 Tumbonas + sombrilla Virgin Beach                                                                                                                                                                                                                                | 100.000          | 5,57  | 4,87  | Opcional para pasar el día con sombrilla en la playa                                                                             |
+| [Tour privado desde Ubud o Kuta con entradas y traslado](https://www.getyourguide.com/es-es/karangasem-l190139/bali-tour-privado-con-todo-incluido-por-los-puntos-destacados-del-este-de-bali-t1205121?ranking_uuid=2f0097e3-d8c4-4c7a-b66e-c3f6d1bdba45&date_from=2026-07-25) | 1.956.912        | 109   | 95,92 | Opción destacada porque tiene contenido histórico cultural y además conocés un pueblo bali aga y su tradición de tejido |
+| Referencia de conversión de moneda                                                                                                                                                                                                                                             | 100.000          | 5,57  | 4,87  |                                                                                                                                  |
 
-## Presupuesto para quedarse en Amed
+### Alojamiento y moto
 
 | Referencia | Costo IDR | Costo USD | Costo EUR | Observaciones |
 | :--- | :--- | :--- | :--- | :--- |
-| [Estadía presupuesto económico](https://www.booking.com/hotel/id/bali-yogi-amed1.html) | 150.000 | 8.36 | 7.31 | Precio promedio por noche económico frente al mar |
-| [Estadía presupuesto Medio](https://www.booking.com/hotel/id/valomia-beachfront.html) | 350.000 | 19.50 | 17.05 | Bungalow o resort medio ideal para slow travelers |
-| [Estadía presupuesto Alto](https://www.booking.com/hotel/id/surya-amed-beach.html) | 700.000 | 38.99 | 34.09 | Resort frente al mar con todas las comodidades |
-| Alquiler de Moto 110cc | 50.000 - 70.000 | 2.79 - 3.90 | 2.44 - 3.41 | Pago local en efectivo (motos ligeras y funcionales) |
-| Alquiler de Moto Intermedia 125cc | 75.000 - 85.000 | 4.18 - 4.73 | 3.65 - 4.14 | Pago local en efectivo (estilo retro y mayor potencia) |
-| Alquiler de Moto Grande 155cc | 100.000 - 130.000 | 5.57 - 7.24 | 4.87 - 6.33 | Pago local en efectivo (motos grandes, automáticas) |
-| Referencia de conversión de moneda | 100.000 | 5.57 | 4.87 | Datos actualizados Julio 2026 (sujeto a cambios ajenos a nosotros) |
+| [Estadía presupuesto económico](https://www.booking.com/hotel/id/bali-yogi-amed1.html) | 150.000 | 8,36 | 7,31 | Precio promedio por noche económico frente al mar |
+| [Estadía presupuesto Medio](https://www.booking.com/hotel/id/valomia-beachfront.html) | 350.000 | 19,50 | 17,05 | Bungalow o resort medio ideal para slow travelers |
+| [Estadía presupuesto Alto](https://www.booking.com/hotel/id/surya-amed-beach.html) | 700.000 | 38,99 | 34,09 | Resort frente al mar con todas las comodidades |
+| Alquiler de Moto 110cc | 50.000 - 70.000 | 2,79 - 3,90 | 2,44 - 3,41 | Pago local en efectivo (motos ligeras y funcionales) |
+| Alquiler de Moto Intermedia 125cc | 75.000 - 85.000 | 4,18 - 4,73 | 3,65 - 4,14 | Pago local en efectivo (estilo retro y mayor potencia) |
+| Alquiler de Moto Grande 155cc | 100.000 - 130.000 | 5,57 - 7,24 | 4,87 - 6,33 | Pago local en efectivo (motos grandes, automáticas) |
+| Referencia de conversión de moneda | 100.000 | 5,57 | 4,87 | Datos actualizados Julio 2026 (sujeto a cambios ajenos a nosotros) |
 
 *\*Costos de referencia por noche. Si querés un presupuesto personalizado usá nuestra calculadora gratis online que dejamos a continuación.*
-## Armá tu presupuesto para viajar a Amed
 
-Calculadora personalizada
+### Armá tu presupuesto para viajar a Amed
 
 <div style="background: linear-gradient(135deg, #1c1917, #0c0a09); border: 1px solid #292524; padding: 2rem; border-radius: 1rem; text-align: center; margin-top: 3rem; box-shadow: 0 10px 30px -10px rgba(0,0,0,0.5);">
     <h3 style="color: #ffffff; margin-top: 0; margin-bottom: 0.5rem; font-size: 1.5rem;">Calculá tu Presupuesto Exacto</h3>
@@ -278,8 +269,26 @@ Calculadora personalizada
     </a>
 </div>
 
-Artículos recomendados:
+## Preguntas frecuentes
 
-* Si querés saber más sobre la fascinante cultura y espiritualidad Balinesa descubre [El alma de Bali: tradiciones y secretos.](/diario/bali-rituales-cultura-tradiciones-secretos/) 
-* Si querés ver algunos de los paisajes más fascinantes, planificá tu viaje a la isla vecina: [Qué ver y dónde alojarse en Nusa Penida.  ](/diario/que-ver-en-nusa-penida-guia/)
-* También te recomendamos visitar [Ubud el corazón cultural de Bali. ](/diario/que-hacer-ubud-bali-que-ver-zonas-consejos-guia/)
+### ¿Cómo es la playa en Amed?
+
+Se caracteriza por tener arena negra volcánica y muchas piedras. El agua es transparente y la corriente no es fuerte. En las bahías el viento está bastante contenido.
+
+### ¿Se puede salir a caminar por la playa?
+
+Sí, pero con matices: la arena gruesa y las piedras pueden ser un masaje o una molestia, pero se resuelve fácil con calzado.
+
+* En la mañana la marea está bastante alta y están los *jukungs* (barcos clásicos de Bali); por tanto, se puede caminar pero hay que acercarse más al agua, esquivar los barcos, etc.
+* La tarde es el momento ideal ya que el atardecer es hermoso, muchos restaurantes tienen música en vivo y la marea está más baja.
+
+## Más guías de Bali
+
+* [Guía de viaje a Bali: consejos, zonas, transporte y gastronomía](/diario/viajar-a-bali/)
+* [¿Vale la pena viajar a Bali? Lo que nos gustó y lo que no](/diario/viajar-a-bali-opinion-experiencia-real/)
+* [Qué hacer en Ubud, Bali: qué ver, zonas y consejos](/diario/que-hacer-ubud-bali-que-ver-zonas-consejos-guia/)
+* [Qué ver en Nusa Penida](/diario/que-ver-en-nusa-penida-guia/)
+* [Dónde quedarse en Nusa Penida](/diario/donde-quedarse-nusa-penida-que-hacer-en-nusa-penida/)
+* [El alma de Bali: cultura, tradiciones y secretos](/diario/bali-rituales-cultura-tradiciones-secretos/)
+
+¿Ya fuiste a Amed o lo estás por armar? Contanos en los comentarios cuál fue tu bahía favorita para hacer snorkel.

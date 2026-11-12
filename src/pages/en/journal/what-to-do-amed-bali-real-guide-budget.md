@@ -11,7 +11,11 @@ description: >-
 main_image: /img/diario/mount-agung.webp
 archivo_original: que-hacer-amed-que-ver-guia-presupuesto.md
 ---
-**Are you planning your trip to Bali's east coast?** In this real guide I'll tell you everything **to do in Amed on your own**: from how to snorkel in its best black-sand bays to updated temple prices, maps and honest tips for slow travelers.
+**Are you planning your trip to Bali's east coast?** In this real guide I'll tell you **what to do in Amed on your own**: from how to snorkel in its best black-sand bays to updated temple prices, maps and honest tips for slow travelers.
+
+We spent 15 days in Amed, halfway through our trip around Bali, mostly snorkeling from the shore, working remotely and exploring the surroundings by motorbike. The prices in this guide are from July 2026.
+
+⚠️ **The tip that helped us most:** withdraw cash before you arrive. The ATMs in the area often run out of money.
 
 > Amed is one of our favorite corners of the island. If you're planning your trip, we recommend checking out our [Complete Guide to Traveling to Bali](/en/journal/travel-to-bali/) with everything you need to know to organize your itinerary, visa and transportation.
 
@@ -60,13 +64,7 @@ There are no big shopping malls or highways. It's a corner for people who want t
 
 That said, let's be honest, Amed is not a well-kept secret. Tourism is part of the landscape and commercial offers are everywhere: there are specialty coffee shops, resort hotels and foreign-owned dive schools, but it all coexists with the rhythm of the village in a pretty friendly way. Amed is a strategic middle ground between "slow travel" and being close to tourist highlights such as ancient temples, historic palaces or paradise beaches like Virgin Beach. In my view, it's an ideal balance for staying in Bali.
 
-It also fits every budget, with pretty spectacular beachfront stays for every pocket. Here are a few examples, and there's a comparison table at the end of the article.
-
-* [Beachfront stay with spa](https://www.booking.com/hotel/id/surya-amed-beach.html)
-* [Beachfront stay at a local beach resort](https://www.booking.com/hotel/id/amed-beach-resort.html)
-* [Mid-range stay, local experience](https://www.booking.com/hotel/id/valomia-beachfront.html)
-* [Beachfront stay, mid-range](https://www.booking.com/hotel/id/meditasi-bungalow.html)
-* [Budget stay](https://www.booking.com/hotel/id/bali-yogi-amed1.html)
+It also fits every budget, with pretty spectacular beachfront stays for every pocket: the three places we recommend are at the start of the article, and the prices are in the [cost table](#how-much-does-amed-cost-2026-prices).
 
 ## **The Jukungs: Bali's seafaring tradition**
 
@@ -123,7 +121,7 @@ Here's a map showing the specific entrances we used for each bay.
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1X8zPiqeYPvj9x8Nrj1ypdVYE1fX651c&ehbc=2E312F&noprof=1" width="100%" height="480"></iframe>
 
-### **Snorkeling FAQ and safety tips**
+### **Snorkeling gear and safety tips**
 
 * **Rent or buy gear?** Renting a snorkel mask on the beach costs around IDR 50,000 per day (about USD 3). If you're staying a long time like we did, it's better to buy a basic set at a supermarket or any small local shop.\
   *Buying tip:* Apparently the test for a good mask is to put it on, breathe in through your nose and check that it stays stuck to your face. We bought an Intex one for around IDR 290,000 (USD 17) and it worked pretty well.
@@ -176,7 +174,7 @@ A former royal palace surrounded by Balinese gardens and pools decorated with tr
 
 The most epic beach on the island: white sand, turquoise water, paradise itself. Entry costs 20,000 IDR (approx. USD 1.11) and includes parking. From the morning until around 3 pm the water is an incredible turquoise; the surrounding area has palm trees and grass with some shade, and in the afternoon it fills up with local people quietly enjoying the scenery. On the beach there are warungs and stands renting sun loungers with umbrellas so you can spend the day (100,000 IDR, about USD 6).
 
-If you want to combine these stops into one tour without riding a motorbike, you can hire a local guide or a transfer service (or taxi); they're very easy to find both on the street and at homestays and hotels, and you can negotiate the price. Just in case, here's the number of Anderson, who drove us all over Bali. He's kind, chatty and reliable, and he has an electric car: +6281574887501 (if you get in touch, tell him blogcito sent you).
+If you want to combine these stops in a single day without riding a motorbike, you can hire a local guide or a transfer service (or taxi): they're easy to find on the street and at homestays or hotels, and the price is negotiable. Just in case, here's the number of Anderson, who drove us all over Bali. He's kind, chatty and reliable, and he has an electric car: +6281574887501 (if you get in touch, tell him Blogcito sent you).
 
 > [If you'd like to visit these places leaving from Ubud, Kuta or Denpasar, here's an experience we recommend](https://www.getyourguide.com/es-es/karangasem-l190139/bali-tour-privado-con-todo-incluido-por-los-puntos-destacados-del-este-de-bali-t1205121?ranking_uuid=2f0097e3-d8c4-4c7a-b66e-c3f6d1bdba45&date_from=2026-07-25). It's a ready-made tour that includes transfers and a visit to several of the spots we recommend. It has historical and cultural content, and you also get to visit the village of **Tenganan Pegringsingan,** an indigenous village known for its traditional weaving.
 
@@ -221,19 +219,13 @@ Sunset in Amed is a daily ritual. Since it's on the east coast, the sun sets beh
 
 ⚠️ **Cash / ATMs:** The ATMs in the area often run out of cash. We recommend withdrawing cash in advance, before you get to Amed.
 
-**Frequently asked questions**
+* **Connectivity:** in Bali we used an [Airalo eSIM](https://airalo.pxf.io/c/7468102/1268485/15608?partnerpropertyid=8600748), which we bought before arriving and which activates when you land. It gives you data from the first moment, to find your way between bays with the map and to coordinate with drivers on WhatsApp.
 
-* **What's the beach like in Amed?** It has black volcanic sand and lots of stones. The water is clear and the current isn't strong. In the bays the wind is fairly sheltered.
-* **Can you go for walks along the beach?** Yes, with some caveats: the coarse sand and stones can feel like a massage or a nuisance, but shoes solve that easily.
+## How much does Amed cost? 2026 prices
 
-  * In the morning the tide is quite high and the *jukungs* (Bali's classic boats) are on the beach, so you can walk but you'll need to stay closer to the water, go around the boats, etc.
-  * The afternoon is the best time, since the sunset is beautiful, many restaurants have live music and the tide is lower.
+Below are two tables with the costs of entrance fees, tours, stays and motorbike rental (July 2026 prices). You can also put together your own personalized budget with our online calculator.
 
-## Amed, Bali 2026 cost table, plan your budget
-
-Below are two tables with the costs of stays, entrance fees and tours. You can also put together your own personalized 2026 budget with our online calculator.
-
-## What to do in Amed, 2026 cost table
+### Entrance fees, snorkeling and tours
 
 | Item | IDR (Indonesian rupiah) | USD | EUR | Notes / Direct link |
 | --- | --- | --- | --- | --- |
@@ -250,10 +242,10 @@ Below are two tables with the costs of stays, entrance fees and tours. You can a
 | Taman Ujung entry | 100,000 | 5.57 | 4.87 | Water palace (Tumbu) |
 | Virgin Beach entry | 20,000 | 1.11 | 0.97 | Includes vehicle parking |
 | 2 sun loungers + umbrella rental, Virgin Beach | 100,000 | 5.57 | 4.87 | Optional, to spend the day on the beach with shade |
-| [Private tour from Ubud or Kuta with entry fees and transfers](https://www.getyourguide.com/es-es/karangasem-l190139/bali-tour-privado-con-todo-incluido-por-los-puntos-destacados-del-este-de-bali-t1205121?ranking_uuid=2f0097e3-d8c4-4c7a-b66e-c3f6d1bdba45&date_from=2026-07-25) | 1,956,912 | 109 | 95.92 | A standout option because it has historical and cultural content and you also visit an indigenous Bali Aga village and its weaving tradition |
+| [Private tour from Ubud or Kuta with entry fees and transfers](https://www.getyourguide.com/es-es/karangasem-l190139/bali-tour-privado-con-todo-incluido-por-los-puntos-destacados-del-este-de-bali-t1205121?ranking_uuid=2f0097e3-d8c4-4c7a-b66e-c3f6d1bdba45&date_from=2026-07-25) | 1,956,912 | 109 | 95.92 | A standout option because it has historical and cultural content and you also visit a Bali Aga village and its weaving tradition |
 | Currency conversion reference | 100,000 | 5.57 | 4.87 |  |
 
-## Budget for staying in Amed
+### Accommodation and motorbike
 
 | Item | Cost IDR | Cost USD | Cost EUR | Notes |
 | :--- | :--- | :--- | :--- | :--- |
@@ -266,9 +258,8 @@ Below are two tables with the costs of stays, entrance fees and tours. You can a
 | Currency conversion reference | 100,000 | 5.57 | 4.87 | Figures updated July 2026 (subject to changes beyond our control) |
 
 *\*Reference costs per night. If you'd like a personalized budget, use our free online calculator below.*
-## Plan your budget for traveling to Amed
 
-Personalized calculator
+### Plan your budget for traveling to Amed
 
 <div style="background: linear-gradient(135deg, #1c1917, #0c0a09); border: 1px solid #292524; padding: 2rem; border-radius: 1rem; text-align: center; margin-top: 3rem; box-shadow: 0 10px 30px -10px rgba(0,0,0,0.5);">
     <h3 style="color: #ffffff; margin-top: 0; margin-bottom: 0.5rem; font-size: 1.5rem;">Calculá tu Presupuesto Exacto</h3>
@@ -278,8 +269,26 @@ Personalized calculator
     </a>
 </div>
 
-Recommended articles:
+## Frequently asked questions
 
-* If you want to learn more about the fascinating culture and spirituality of Bali, discover [The soul of Bali: traditions and secrets.](/en/journal/bali-culture-traditions-and-secrets/)
-* If you want to see some of the most fascinating landscapes, plan your trip to the neighboring island: [What to see and where to stay in Nusa Penida.](/en/journal/what-to-see-nusa-penida/)
-* We also recommend visiting [Ubud, the cultural heart of Bali.](/en/journal/what-to-do-ubud-bali-tips-and-guide/)
+### What's the beach like in Amed?
+
+It has black volcanic sand and lots of stones. The water is clear and the current isn't strong. In the bays the wind is fairly sheltered.
+
+### Can you go for walks along the beach?
+
+Yes, with some caveats: the coarse sand and stones can feel like a massage or a nuisance, but shoes solve that easily.
+
+* In the morning the tide is quite high and the *jukungs* (Bali's classic boats) are on the beach, so you can walk but you'll need to stay closer to the water, go around the boats, etc.
+* The afternoon is the best time, since the sunset is beautiful, many restaurants have live music and the tide is lower.
+
+## More Bali guides
+
+* [Bali travel guide: areas, practical tips, transport and food](/en/journal/travel-to-bali/)
+* [Is Bali worth visiting? What we loved and what we didn't](/en/journal/is-bali-worth-visiting/)
+* [What to do in Ubud, Bali: what to see, areas and tips](/en/journal/what-to-do-ubud-bali-tips-and-guide/)
+* [What to see in Nusa Penida](/en/journal/what-to-see-nusa-penida/)
+* [Where to stay in Nusa Penida](/en/journal/where-to-stay-nusa-penida-what-to-do/)
+* [The soul of Bali: culture, traditions and secrets](/en/journal/bali-culture-traditions-and-secrets/)
+
+Have you been to Amed or are you planning your trip? Tell us in the comments which bay was your favorite for snorkeling.
