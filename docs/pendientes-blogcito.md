@@ -4,28 +4,30 @@ Lista de problemas detectados en la revisión del sitio y del repo (octubre 2026
 
 ## Prioridad 1 actual (11/11/2026)
 
-Flujo de fotos (rama `fotos-flujo`, sin mergear a main: script `scripts/procesar-fotos.mjs`, comando `/fotos` y alt del CMS) y artículo de Furongzhen (rama `borrador/furongzhen-que-ver`, PR #126).
+Flujo de fotos: script `scripts/procesar-fotos.mjs`, comando `/fotos` y alt del CMS mergeados a `main` el 12/11 (PR #128). Furongzhen publicado el 12/11 (PR #126).
 
 - [x] **Portada de Furongzhen.** Resuelto el 12/11: portada de día con el pueblo y la cascada (original de 6000x4000). Furongzhen se publicó el 12/11 con el merge del PR #126, junto con fotos y tablas centradas en todos los posts, pares solo de verticales y el índice plegado con botón "Ver índice".
 - [x] **Que el script no reprocese las fotos ya procesadas.** Resuelto el 12/11 en `fotos-flujo` (commit 3e2672b): cada carpeta tiene un manifiesto en `scripts/fotos-manifiestos/<carpeta>.json` (va en el repo con las imágenes) y el script saltea la misma foto (aunque cambie el nombre o esté en otra carpeta) y las parecidas (reenviadas por WhatsApp, achicadas o retocadas), con `--forzar` para procesarlas igual. Renombrar con `npm run fotos -- --renombrar`. El manifiesto de Furongzhen (12 fotos, 10 usadas y 2 descartadas) está en la rama de Lore (commit 1b43f2c).
 - [ ] **Archivos sueltos en la copia local de Santi:** `docs/prompt-mejorar-post-con-lore.md` (modificado, 190 líneas nuevas con el post de Kunming pegado) y `pendientes-blogcito.viejo.md` (sin seguir). Decidir si se commitean o se descartan.
 - [ ] **Reglas de ritmo de fotos.** Lore y Santi eligen los 2 o 3 posts mejor armados; con sus proporciones (palabras por foto, tramo máximo sin imagen, peso) se escribe la sección "Imágenes de los posts" de CLAUDE.md. Medición del 10/11 sobre los 20 posts en español, mediana de las guías de viaje: 6 fotos, 360 palabras por foto, 709 palabras de tramo máximo sin imagen y 1,4 MB de fotos. Furongzhen quedó con 10 fotos, unas 400 palabras por foto y 2,78 MB.
 
-### Kunming: traducción hecha y pendientes del original en español (11/11/2026)
+- [ ] **Foto rota en "Dónde vivir en la Isla Sur" (ES y EN).** `whatsapp-image-2026-06-01-at-18.44.19.webp` (un collage de 4 fotos de Christchurch y Sumner) la borró Lore desde el CMS el 26/9 (commit d51329d), pero el post la sigue usando. Se puede recuperar del historial de git o sacar el bloque: lo decide Lore.
+- [ ] **Fotos de baja resolución:** las ofrendas de Bali rituales (`archivo-pegado.webp`, 311x552) y el kiwi de la Isla Norte (`kiwibird.webp`, 651x545) se ven chicas porque el archivo es chico. No hay originales más grandes en git ni en el backup: hace falta subir una versión de más resolución.
+- [ ] **Furongzhen y Kunming en inglés:** traducidas desde los originales; si se agregan fotos a Kunming, sumarlas también a la traducción con el epígrafe en inglés.
 
-Traducción en la rama `traduccion-kunming-en` (sin pushear, sin PR): `src/pages/en/journal/what-to-do-kunming-3-days.md`. Se tradujo desde la versión de la rama de Lore (`borrador/furongzhen-que-ver`), que tiene un párrafo más (la anécdota del disfraz, con link a la guía de Furongzhen). Auditada contra el original: 14 URLs, 4 bloques de imagen, números, encabezados, tablas y bullets coinciden. El build pasa y genera los hreflang es/en. El link a Furongzhen apunta a la versión en español porque no existe la traducción. Se dejaron `slug_url` fuera del frontmatter en inglés, como en las demás traducciones.
+### Kunming: traducción publicada y pendientes del original en español (11/11/2026)
 
-Antes de mergear: hay que mergear primero el PR #126 (o el párrafo de la anécdota queda solo en la traducción y el link a Furongzhen en 404).
+Traducción publicada el 12/11 (merge del PR #127 a `main`): `src/pages/en/journal/what-to-do-kunming-3-days.md`, auditada contra el original (14 URLs, números y encabezados coinciden). El link de la anécdota apunta a la traducción de Furongzhen (`/en/journal/what-to-see-furongzhen/`), también publicada el 12/11.
 
 Pendientes del original en español, sin corregir a pedido de Santi (al corregirlos, corregir también la traducción):
 - [ ] El link del Yunyiduo Hotel (Agoda) es una búsqueda con `cid=1844104` (parámetro de afiliado de terceros, avisar), `currencyCode=IDR`, `checkIn=2026-11-12` y un `[object Object]` roto en la URL. Aparece dos veces (bloque inicial y tabla de costos).
 - [x] Anécdota del disfraz. Resuelto el 11/11: pasó a un párrafo aparte después del "Igual, siendo honestos…", en primera persona ("Yo, Lore, quería…") y con los puestitos dentro y fuera del Pueblo de las Etnias. Corregido en la rama de Lore (commit 92712c3, pusheado) y en la traducción. Sigue pendiente solo que el link a Furongzhen existe recién cuando se mergee el PR #126.
 - [ ] Nombre del hotel del lago: el bloque dice "Kunming Green Lake" (4 estrellas) y el texto dice "Orange Hotel (Kunming Green Lake)". Unificar. Económico y Medio llevan las dos 3 estrellas.
-- [ ] Tren Nanning a Kunming: 313 CNY son USD 46,64 al cambio del post y la tabla dice 46,70.
+- [x] Tren Nanning a Kunming: corregido el 12/11 a USD 46,64 en ES y EN.
 - [ ] Los 18 CNY "afuera del Parque de las Etnias" no dicen qué incluían (ya en las sugerencias de Santi para Lore).
 - [ ] Sin confirmar: descuentos del mercado de Dounan desde las 7 de la tarde (queda para confirmar con Lore), buses 24, 44 y 73, estaciones Dounan y Jingui Street, y que el Pueblo de las Etnias se inauguró en 1992.
-- [ ] Estructura de la plantilla: preguntas frecuentes en negrita y no como H3; faltan el índice "En este artículo", "Qué saltearíamos", el seguro de viaje en "Antes de ir" y el bloque "Más guías de China". "Esta guía es parte de Viajar a China por libre" no tiene link al pilar.
-- [ ] "Mejor hora: En la mañana" con mayúscula y "Plato de fideos o comida local" con punto final en la tabla de costos.
+- [ ] Estructura de la plantilla. Resuelto el 12/11: preguntas frecuentes como H3, "¿Para quién lo recomendamos?" como H2 y bloque "Más guías de China" con Furongzhen (ES y EN). Falta (depende de Lore o de otros artículos): "Qué saltearíamos", seguro de viaje con link de afiliado y link al pilar de China.
+- [x] "Mejor hora: En la mañana" y "Promedio." corregidos el 12/11 en ES y EN.
 
 ## Para retomar (estado al 31/10/2026)
 
