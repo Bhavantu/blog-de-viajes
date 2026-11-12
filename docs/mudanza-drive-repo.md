@@ -133,3 +133,13 @@ Dirección, Clusters, Redacción y Competencia respondieron bien las 11 pregunta
 - **Para confirmar con Lore:** Tailandia (las instrucciones de Clusters todavía la priorizan) y la zona del hotel de Kunming (el doc CHINA dice "cerca del Lago Verde" y el mapa, Dashuying, a 4 o 5 km).
 - **Hecho el 13/11:** `datos-viaje-china.md` pasó al repo como `docs/datos-viaje-china.md` (Santi lo bajó del proyecto Blogcito china). En `_contexto/mudanza` quedó una nota que apunta al repo, porque la instrucción de Redacción lo busca ahí.
 
+## Después del Resumen de situación 2026-11-13 de Dirección
+
+El resumen de Dirección (Drive, `_contexto`) quedó bien y es el vigente. Tres de sus pendientes cambiaron después de escrito:
+
+- **Pendiente 1 (datos del viaje a China): hecho.** Está en `docs/datos-viaje-china.md`. Sigue pendiente, opcional, `guia-blogcito (1).md`: sus reglas ya están cubiertas por la guía y la plantilla.
+- **Pendiente 6 (resincronizar y pegar instrucciones): no hace falta.** Las fuentes de los proyectos son "fuentes sincronizadas" de Drive y se leen actualizadas, y los cinco controles mostraron que los roles leen bien el repo aunque la instrucción no lo nombre.
+- **Pendiente 14 (Furongzhen): resuelto.** Entrada de 98 CNY y 2 noches en Jianghu, como en el artículo publicado (confirmado por Santi el 13/11).
+- **Pendiente 7 (repo privado):** Santi lo pasa a privado como prueba; si un rol no puede leer el repo, vuelve a público.
+- **Decisiones** (Drive) no se actualizó el 13/11: vale el Resumen de situación 2026-11-13.
+
