@@ -128,8 +128,8 @@ We crossed from a lake town to the world capital of adventure sports.
   * **That Wanaka Tree:** The famous lone tree standing in Lake Wanaka. The town is also beautiful; we were lucky enough to be there on December 31st and the atmosphere was one of a kind: food fair, live music and fireworks. A beautiful experience for spending New Year's Eve far from home but in good company.
 
 > 💡 **TIP FOR SLEEPING IN WANAKA**: Since it's a very touristy area in season, you need to get to the *free campings* very early or book ahead at the Holiday Parks. If you park on the street in restricted areas, the fine is considerable. You can also find [hotels in Wanaka to spend the night.](https://www.booking.com/searchresults.es.html?ss=Wanaka&ssne=Wanaka&ssne_untouched=Wanaka&theme_id=8&efdco=1&label=New_Spanish_ES_ROW_5496343705-IRXF**fXkjlT1Jfkfsb2mAS637942155485%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atidsa-55482331735%3Alp9227990%3Ali%3Adec%3Adm%3Aag5496343705%3Acmp108540265&sid=b79c37fc00fe5273ba01510bca8165bb&aid=318615&lang=es&sb=1&src_elem=sb&src=city&dest_id=-1516080&dest_type=city&checkin=2026-12-27&checkout=2026-12-28&group_adults=2&no_rooms=1&group_children=0&sb_lp=1&chal_t=1783608741051&force_referer=https%3A%2F%2Fblogcito.com%2F)
->
-> <div class="post-img-box img-completo img-centro"><img src="/img/diario/wanaka-.webp" alt="Imagen de bitácora"><span class="img-caption">Wanaka tree 2026</span></div>
+
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/wanaka-.webp" alt="Imagen de bitácora"><span class="img-caption">Wanaka tree 2026</span></div>
 
 - - -
 
