@@ -23,8 +23,8 @@ Este archivo es para Lore y para el Claude con el que trabaja. Tiene dos partes:
 Ya corregido por Santi el 10/11/2026 (no hace falta tocarlo): voseo ("podés", "te quedás"), una o dos noches (nos quedamos dos, con una bien planificada alcanza), Jianghu dentro del recinto, entrada a 98 CNY (USD 14,98), precios con yuanes primero, ropa tradicional miao, la foto de Xi Jinping, los 818 años (pasó a "más de 800 años, hasta 1729"), sede de los tusi y traslado a Laosicheng en 1135, hogares reemplazados por el censo de 2010, y los otros tres hoteles con "No nos quedamos".
 
 **Fotos**
-- [ ] Sumar fotos propias con epígrafe que incluya el nombre del lugar, en cada sección, y la portada (`main_image`). Convertirlas a .webp con `npm run optimizar`.
-- [ ] En "Nuestra experiencia" dice "sacamos fotos en varios de los puntos iluminados que compartiré a continuación". Poner esas fotos ahí o sacar la frase.
+- [x] Sumar fotos propias con epígrafe que incluya el nombre del lugar, en cada sección, y la portada (`main_image`). Resuelto el 12/11 por Santi con `/fotos`: 18 fotos en el cuerpo (tres pares de verticales) y portada de día con la cascada.
+- [x] En "Nuestra experiencia" dice "sacamos fotos en varios de los puntos iluminados que compartiré a continuación". Resuelto el 12/11: justo después va el par de fotos de Lore con el traje miao (en el puesto y de noche en el puente Tuwang).
 
 **Datos para confirmar con Lore (si no se confirman, se sacan)**
 - [x] Que adolescentes y personas mayores pagan menos la entrada. Resuelto el 11/11: Lore lo confirmó (además una guía de viajes lo indica: 54 CNY para 14 a 18 y 60 a 65 años sobre un adulto de 108 CNY); se deja como está. Aparece en la tabla de datos, en la tabla de costos y en la pregunta frecuente de la entrada.

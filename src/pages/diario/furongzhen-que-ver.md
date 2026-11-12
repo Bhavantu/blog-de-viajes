@@ -433,7 +433,7 @@ Comimos en el lugar donde se filmó *Hibiscus Town*. Es la tienda de mi doufu de
 
 **Lo que nos gustó:** la cascada iluminada de noche y la pasarela por detrás, la previa de la boda tujia en el puente Tuwang, el show nocturno "El florecer de Furong" y el mi doufu en el local de la película.
 
-**Lo que nos costó:** ubicarnos. El recinto es bastante laberíntico y nos costó leer el mapa para encontrar los shows y los puntos del recorrido. El Palacio Tusi, por ejemplo, figura como un punto del mapa, pero solo se ve de lejos y no se llega hasta allí.
+**Lo que nos costó:** ubicarnos. El recinto es bastante laberíntico y nos costó leer el mapa para encontrar los shows y los puntos del recorrido. Había edificios y puntos de interés a los que no pudimos llegar: un guardia nos contó que algunos solo se ven desde afuera y no se puede acceder a ellos.
 
 
 <div class="post-img-box img-completo img-centro"><img src="/img/diario/furongzhen-castillo-atardecer.webp" alt="En lo alto de Furongzhen, entre los árboles: un punto del recinto al que nunca pudimos llegar" width="1920" height="1280" loading="lazy"><span class="img-caption">En lo alto de Furongzhen, entre los árboles: un punto del recinto al que nunca pudimos llegar</span></div>
