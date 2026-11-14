@@ -73,7 +73,7 @@ Publicado el 13/11 (PR #129, mergeado): bloque "Si tenés poco tiempo" antes de 
 - [ ] **Cómo llegar a Amed** (hoy el post no lo dice): desde dónde fuimos, en qué (chofer, Grab, bus), cuánto tardamos y cuánto pagamos.
 - [ ] **Cuándo ir**: en qué mes estuvimos y cómo estaban el mar y el clima. Si sabés de la temporada de lluvias por experiencia o por lo que nos contaron, decí cuál de las dos.
 - [ ] Tours de snorkel: ¿hicimos alguno de los dos de GetYourGuide que están en el post (barco por los 3 puntos con el templo submarino, o snorkel con pesca y cocina)? Si sí, contá cómo fue; si no, queda como está.
-- [ ] Confirmar que la foto `heavens-door-mount-agung.webp` (las puertas con el Agung al amanecer, Lore de espaldas) es de **Pura Lempuyang**. Ya está puesta en esa sección, en el PR #140.
+- [x] ~~Confirmar de dónde es la foto `heavens-door-mount-agung.webp`.~~ Resuelto el 15/11: es de **Lahangan Sweet**, no de Lempuyang (lo aclaró Santi). Va en esa sección, en el PR #140. Pura Lempuyang sigue sin foto: si hay fotos propias de Lempuyang, subirlas a `fotos/amed`.
 - [ ] Confirmar si la portada (`mount-agung.webp`) es el Agung **visto desde Amed**: si es así, se repite en la sección "Senderismo en volcanes", que hoy no tiene foto.
 - [ ] Fotos de **Tirta Gangga** (las carpas koi, los senderos de piedra), si las hay: subirlas a `fotos/amed`. Es la única sección de templos sin foto.
 - [ ] Secciones "Lo que nos gustó, lo que no y ¿vale la pena?" y "Qué saltearíamos" (si hay algo): faltan y solo las puede escribir Lore.
