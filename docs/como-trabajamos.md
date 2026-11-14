@@ -30,7 +30,7 @@ Si una regla del repo no coincide con un documento de Drive, gana el repo. En es
 - **El mapa de un destino**: Clusters escribe la propuesta en su doc de cierre; Santi se la pasa a Claude Code, que la sube al repo. Un destino nuevo se arma primero como Google Doc en `roles/Clusters` y entra al repo cuando Lore lo aprueba.
 - **Un dato del viaje** (hotel, noches, precio): se corrige en `docs/datos-viaje-*.md` del repo, de la misma forma.
 - **Prioridades o estado**: los decide Dirección con Lore y quedan en Drive.
-- **Después de cualquier cambio en `docs/` o `CLAUDE.md`**: los cinco proyectos de Lore tienen esos archivos conectados desde GitHub (desde el 15/11/2026). Claude Code avisa a Santi qué cambió, y si los proyectos no se actualizan solos, Lore toca "sincronizar" en cada uno. Si un rol contesta con una regla vieja, lo primero es revisar eso.
+- **Después de cualquier cambio en `docs/` o `CLAUDE.md`**: los cinco proyectos de Lore tienen esos archivos conectados desde GitHub (desde el 15/11/2026) y **no se actualizan solos**: probado ese mismo día, Redacción seguía con la versión anterior de este archivo. Claude Code avisa a Santi qué cambió y Lore toca "sincronizar" en los proyectos que usan ese archivo. Si un rol contesta con una regla vieja, lo primero es revisar eso.
 
 ## Cómo se cierra cada sesión
 
