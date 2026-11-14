@@ -79,7 +79,7 @@ Publicado el 13/11 (PR #129, mergeado): bloque "Si tenés poco tiempo" antes de 
 - [ ] Secciones "Lo que nos gustó, lo que no y ¿vale la pena?" y "Qué saltearíamos" (si hay algo): faltan y solo las puede escribir Lore.
 
 **De Santi**
-- [ ] Fotos de snorkel de la GoPro (Jemeluk, Lipah, el naufragio japonés) en `fotos/amed`: es el tramo más largo sin foto (1.443 palabras). Con 4 de snorkel, Lempuyang y el Agung, el post llega a 12 fotos, una cada 366 palabras (la mediana del blog es 360).
+- [ ] Fotos de snorkel de la GoPro (Jemeluk, Lipah, el naufragio japonés) en `fotos/amed`: es el tramo más largo sin foto (1.443 palabras). Con la foto de las puertas (ya puesta en Lahangan Sweet), 4 de snorkel y la del Agung, el post llega a 12 fotos, una cada 366 palabras (la mediana del blog es 360).
 
 **Mejoras de texto y estructura (se pueden hacer con Claude)**
 - [x] (Hecho el 12/11 en PR #129.) La experiencia aparece tarde: el post arranca con "Hace años tenía el sueño de viajar a Bali" y los "15 días" recién aparecen en "Circuitos turísticos". Llevar a los primeros párrafos cuánto tiempo estuvimos, dónde nos quedamos y el consejo clave (por ejemplo, el de los cajeros sin efectivo).
