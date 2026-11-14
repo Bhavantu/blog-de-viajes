@@ -1,13 +1,11 @@
 ---
 destacado: true
 layout: ../../layouts/BlogPostLayout.astro
-title: "Qué hacer en Amed, Bali: Guía real de slow travel y presupuesto 2026"
+title: "Qué hacer en Amed, Bali: snorkel, qué ver y presupuesto (15 días) 2026"
 date: 2026-07-21T13:43:00.000+08:00
 tag: guia de viaje
 pais: Indonesia
-description: "¿Viajás a Bali? Descubrí Amed, el refugio de playa y snorkel libre
-  bajo el volcán Agung. Presupuesto, mapas y consejos reales para disfrutar sin
-  estafas."
+description: "Estuvimos 15 días en Amed: snorkel desde la orilla, templos, volcanes y precios reales de julio de 2026. Mapas y consejos sin estafas."
 main_image: /img/diario/mount-agung.webp
 slug_url: que-hacer-amed-que-ver-guia-presupuesto
 ---
@@ -46,7 +44,7 @@ Estuvimos 15 días en Amed, a mitad de nuestro viaje por Bali, y nos dedicamos s
 </div>
 
 
-## Introducción
+## ¿Dónde queda Amed?
 
 Hace años tenía el sueño de viajar a Bali, en Indonesia. Quería el Bali de los sueños, ese con playas tranquilas, rituales en templos sagrados y una conexión real con la naturaleza.
 
@@ -54,7 +52,7 @@ Antes de viajar miré videos, leí reseñas e investigué todo lo necesario para
 
 Amed es una franja costera al noreste de Bali, Indonesia. Está rodeada por colinas volcánicas, campos de arroz y la silueta del Monte Agung. El nombre pertenece originalmente a un pequeño pueblo de pescadores que se popularizó y terminó extendiéndose a la denominación que hoy recibe el conjunto de **7 aldeas costeras tradicionales**: Amed, Jemeluk, Bunutan, Lipah, Selang, Banyuning y Aas. Juntas conforman una zona de aproximadamente 14 kilómetros de costa; actualmente en pleno desarrollo turístico, la zona se reparte entre los distritos de Abang y Kubu.
 
-## **¿Por qué Amed es el refugio de los slow travelers?**
+## **¿Cómo es Amed y por qué nos quedamos 15 días?**
 
 Para los que queremos habitar Bali, estar en Amed implica quedarse cerca de la playa, descubrir nuevas bahías, arrecifes y peces de colores cada día, ver puestas de sol charlando con pescadores o jugando al fútbol con niños en la arena. Más que de "hacer", se trata de "estar".
 
@@ -124,7 +122,7 @@ Acá te dejamos un mapa indicando las entradas específicas por las que ingresam
 ### **Equipo y tips de seguridad para el snorkel**
 
 * **¿Alquilar o comprar equipo?** Alquilar una máscara de snorkel en la playa sale unas IDR 50.000 por día (unos USD 3). Si te vas a quedar mucho tiempo como nosotros te conviene comprar un set básico en algún supermercado o cualquier tiendita local.\
-  *Tip de compra:* Parece ser que la prueba que corrobora la calidad de la máscara es: ponérsela, inhalar por la nariz y que no se despegue. Nosotros compramos una de marca Intex por aprox. IDR 290.000 (USD 17) y resultó bastante bien.
+  *Tip de compra:* Parece ser que la prueba que corrobora la calidad de la máscara es: ponérsela, inhalar por la nariz y que no se despegue. Nosotros compramos una de marca Intex por aprox. IDR 290.000 (USD 16) y resultó bastante bien.
 * **¿Qué pasa con los botes en la costa?** Al ser playas con mucha actividad, es común que pasen botes cerca del arrecife (siempre están atentos y si necesitan pasar alguien avisa), pero viajero prevenido vale por dos. Consejos principales: prestar atención y, si tenés una [boya de seguridad inflable,](https://amzn.to/4bRRYnx) es muy útil para que te vean desde lejos (y te ayuda a flotar en caso de ser necesario).
 * **¿Son necesarios los zapatos de neopreno (escarpines)?** Para ser honestos nosotros no usamos, pero nos llevamos algún cortecito de regalo con la marea baja. Si tenés pies sensibles o no querés sufrir al entrar y salir del agua con marea baja, es una gran opción llevar [escarpines básicos de neopreno (como estos que además tienen toda la onda)](https://www.amazon.com/SEEKWAY-Quick-Dry-Snorkeling-701-Black/dp/B0GKMSXRB3?crid=1P9AG7Q2VHV2V&dib=eyJ2IjoiMSJ9.53gSoWNmK0QEEJbOlANpjKcjddOqOeKsDT_F6PVTyhSyagXmRk0e3eaP83Vs5EI7nDkpO-AhU7vxWmUXtohnrRGsqzUPCf3m3zS8_lxIja6be2MIe91S_yu5d45_Ji2KuXSzPJRjkfuqkOM8HOgZ-Q5EpNJsYho07VYLFECk53E-J1mkBxx2ad3IkhAuD5C0TbrSSwzNvYxRv3_sFLhvEQtPtx-856EehjxoI07M3NkW8KWWMMnGVTAwVm6UTSubH3OJgSUUzhA7wrHqsMKgONMV3hCkH1gSRoXIZl44Hl0.2abl4I8VF_xiOSy67YFlatHxmXdCfxkGlEHQ0Xc2Ktw&dib_tag=se&keywords=Aqua%2Bshoes&qid=1784198928&sprefix=beach%2Bwater%2Bshoes,aps,558&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&psc=1&linkCode=sl2&tag=blogcito09-20&linkId=092c28f75dba76c83879127c823321a5&language=en_US&ref_=as_li_ss_tl). 
 * **Remera con filtro UV para el sol:** Recomendada para largas y felices mañanas de snorkel sin espaldas quemadas en la tarde. Te sugerimos llevar una remera con protección UV, aquí ejemplos [para mujer](https://amzn.to/4f8xycb), [para hombre](https://amzn.to/4w5mfr3), [para niños y niñas](https://www.amazon.com/dp/B0DR29NRF4?pd_rd_i=B0DR29NRF4&pd_rd_w=Hd4gN&content-id=amzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6&pf_rd_p=3bc66c0a-cc61-4816-aa2d-e53327eaddb6&pf_rd_r=1EQE6H9YV9GPY3ET0SZ6&pd_rd_wg=8EDyV&pd_rd_r=752f5ff4-c906-41ee-87ba-b6adddc22cfb&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM&th=1&linkCode=sl2&tag=blogcito09-20&linkId=6002f7329dd0cdf9ee6b5fa40594831f&language=en_US&ref_=as_li_ss_tl&psc=1).
@@ -148,6 +146,8 @@ Es un conjunto de miradores ubicados en la montaña con vistas realmente increí
 * **Precio de entrada:** IDR 50.000 (unos USD 3). Incluye estacionamiento y la camioneta que te lleva hasta la cima.
 
 <div class="post-img-box img-completo img-centro"><img src="/img/diario/lahangan-sweet spot-2.webp" alt="Lahangan Sweet al atardecer" width="1920" height="1280" loading="lazy"><span class="img-caption">Lahangan Sweet al atardecer</span></div>
+
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/heavens-door-mount-agung.webp" alt="Las puertas de Lahangan Sweet, con el Monte Agung de fondo" width="1920" height="1280" loading="lazy"><span class="img-caption">Las puertas de Lahangan Sweet, con el Monte Agung de fondo</span></div>
 
 ### **Pura Lempuyang (Las Puertas del Cielo)**
 
@@ -194,7 +194,7 @@ Para quienes buscan una caminata relativamente accesible pero con unas vistas in
 
 El Monte Agung es el punto más alto de la isla y el volcán más sagrado para los balineses, quienes lo consideran el "ombligo del mundo". Subirlo implica un desafío mayor.
 
-* **La experiencia:** Es un trekking de dificultad alta, exigente y técnico ya que la cima se encuentra a unos 3142 metros. Existen dos rutas principales: la que parte desde el templo Pura Pasar Agung (que llega hasta el borde del cráter a unos 2866 metros y toma unas 3 o 4 horas de subida) y la ruta completa desde el templo madre de Besakih (que asciende hasta la cumbre real a 3142 metros, requiriendo entre 5 y 7 horas de subida continua sobre roca empinada). Se empieza a caminar cerca de las 11:00 de la noche del día anterior.
+* **La experiencia:** Es un trekking de dificultad alta, exigente y técnico ya que la cima se encuentra a unos 3.000 metros (las fuentes dan entre 2.997 y 3.142 m). Existen dos rutas principales: la que parte desde el templo Pura Pasar Agung (que llega hasta el borde del cráter a unos 2866 metros y toma unas 3 o 4 horas de subida) y la ruta completa desde el templo madre de Besakih (que asciende hasta la cumbre real a unos 3.000 metros, requiriendo entre 5 y 7 horas de subida continua sobre roca empinada). Se empieza a caminar cerca de las 11:00 de la noche del día anterior.
 * **Consideraciones:** Requiere preparación física apta para enfrentar el desafío y calzado apropiado. Además, al ser un sitio sagrado, hay periodos del año en los que el acceso está prohibido debido a la celebración de ceremonias religiosas en los templos del volcán.
 
   > [Podés reservar el tour privado con guías locales acá.](https://www.getyourguide.com/es-es/karangasem-l190139/ruta-al-amanecer-por-el-monte-agung-con-cafe-y-miel-en-una-casa-local-t1211975?ranking_uuid=b26881a4-20bb-44e8-bcf2-e0ebb967afce&q=Monte+Agung&date_from=2026-08-20) En esta experiencia: te pasan a buscar por tu homestay (incluye ambos traslados) te recibe un guía local con el que se realiza una oración previa acorde a la tradición balinesa (para una subida armónica). Subís por uno de los 3 senderos disponibles y posteriormente se visita la casa del guía en la zona en donde te invitan con un café balinés y te cuentan sobre el proceso de recolección de miel de forma sostenible según los métodos tradicionales de la zona. La verdad es que esta propuesta parece un acierto total. 
@@ -209,7 +209,7 @@ El atardecer en Amed es un ritual diario. Al estar en la costa este, el sol se o
 * **Bares en la playa:** planazo que incluye un jugo natural fresco o algo de beber por aproximadamente 30.000 IDR (alrededor de 1,67 USD / 1,46 €), en muchos lugares música en vivo y puffs en la arena con vista al mar. 
 * **Amed Sunset Point (La experiencia con piscina):** Es un mirador muy popular con una pileta infinita que apunta directo a la bahía de Jemeluk y al volcán. Tienen música en vivo y, a veces, espectáculos tradicionales (como la danza del fuego).
 
-*El costo:* Cobran un gasto mínimo (*minimum spend*) de **IDR 125.000 por persona** (unos USD 8) que pagás al entrar y podés consumir en tragos o comida. 
+*El costo:* Cobran un gasto mínimo (*minimum spend*) de **IDR 125.000 por persona** (unos USD 7) que pagás al entrar y podés consumir en tragos o comida. 
 
 * **El barcito local de enfrente (Nuestra joya oculta):** Si querés saltarte el gasto mínimo y el ambiente más turístico de Sunset Point, justo enfrente hay un warung local. Tienen la misma vista, te reciben con todo el amor y te cobran una fracción del precio por una Bintang o el clásico de la isla: el **arak balinés.** Es una bebida tradicional, destilada de palma o arroz parecida al ron blanco que combinan con diferentes frutas y sabores. 
 
