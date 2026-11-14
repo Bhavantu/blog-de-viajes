@@ -1,7 +1,7 @@
 ---
 destacado: true
 layout: ../../../layouts/BlogPostLayout.astro
-title: 'What to Do in Amed, Bali: A Real Guide to Slow Travel and Budget 2026'
+title: 'What to Do in Amed, Bali: Snorkeling, What to See and Budget (15 Days) 2026'
 date: 2026-07-21T13:43:00.000+08:00
 tag: guia de viaje
 pais: Indonesia
