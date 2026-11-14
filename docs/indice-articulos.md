@@ -28,7 +28,7 @@ Publicados: 21 en español y 21 en inglés.
 | Qué ver en Nusa Penida: Guía completa 2026 sin multitudes | /diario/que-ver-en-nusa-penida-guia/ | guia de viaje | 2026-08-09 | /en/journal/what-to-see-nusa-penida/ |
 | El Alma de Bali: cultura, tradiciones y los secretos sobre la Isla de los Dioses | /diario/bali-rituales-cultura-tradiciones-secretos/ | contexto y cultura | 2026-07-23 | /en/journal/bali-culture-traditions-and-secrets/ |
 | Qué hacer en Ubud, Bali: qué ver, zonas y consejos. Guía 2026 | /diario/que-hacer-ubud-bali-que-ver-zonas-consejos-guia/ | guia de viaje | 2026-07-22 | /en/journal/what-to-do-ubud-bali-tips-and-guide/ |
-| Qué hacer en Amed, Bali: Guía real de slow travel y presupuesto 2026 | /diario/que-hacer-amed-que-ver-guia-presupuesto/ | guia de viaje | 2026-07-21 | /en/journal/what-to-do-amed-bali-real-guide-budget/ |
+| Qué hacer en Amed, Bali: snorkel, qué ver y presupuesto (15 días) 2026 | /diario/que-hacer-amed-que-ver-guia-presupuesto/ | guia de viaje | 2026-07-21 | /en/journal/what-to-do-amed-bali-real-guide-budget/ |
 
 ## Vietnam (3)
 
