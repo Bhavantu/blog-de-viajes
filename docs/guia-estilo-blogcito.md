@@ -167,12 +167,14 @@ Cada punto dice qué hacemos y en qué se basa. Fuentes: documentación de Googl
 | **Versiones en inglés** de todos los artículos, con hreflang, traducción revisada y aviso de IA. | Google trata la traducción automática sin valor agregado como contenido masivo de baja calidad y recomienda avisar del uso de IA donde el lector lo esperaría. Un post sin traducción no da 404 (el botón de idioma lleva al listado en inglés y no se genera hreflang), pero traducir todo es más coherente para el lector. Nuestros datos: las páginas en inglés todavía reciben pocas impresiones (posiciones 30 a 57). |
 
 ### Lo que dicen nuestros datos (y lo que no)
-- El sitio tiene pocos clics todavía (39 en los tres meses al 25/9/2026), así que **no alcanza para probar si una estructura funciona mejor que otra**. Las reglas de formato son decisiones nuestras, no resultados medidos.
-- Lo que más impresiones trae es informativo (Aotearoa, dioses balineses, cultura maorí) y casi no recibe clics. Cuando la respuesta es corta (qué significa una palabra), Google suele darla en la misma página de resultados o en un AI Overview, aunque nos cite: la gente no necesita entrar. Esos artículos suman visibilidad; los clics que venden vienen de las guías prácticas.
+- El sitio tiene pocos clics todavía: 76 en los seis meses al 10/11/2026 (14 en julio, 13 en agosto, 23 en septiembre y 19 en octubre), así que **no alcanza para probar si una estructura funciona mejor que otra**. Las reglas de formato son decisiones nuestras, no resultados medidos. Las impresiones sí crecen (unas 2.100 en agosto, 3.200 en octubre y a ritmo de 4.000 en noviembre), pero los clics no acompañan.
+- De los 76 clics, 14 son a la página de inicio y vienen sobre todo de buscar "blogcito": son gente que ya nos conoce, no tráfico nuevo.
+- Lo que más impresiones trae es informativo (Aotearoa, dioses balineses, cultura maorí) y casi no recibe clics: Aotearoa sola suma 4.471 de las unas 9.600 impresiones de los seis meses, con 9 clics. Cuando la respuesta es corta (qué significa una palabra), Google suele darla en la misma página de resultados o en un AI Overview, aunque nos cite: la gente no necesita entrar. Esos artículos suman visibilidad; los clics que venden vienen de las guías prácticas.
 - Search Console le asigna a un link dentro de un AI Overview la posición del AI Overview completo, así que aparecer citados ahí cuenta como posición alta.
-- En celular aparecemos mucho más arriba que en computadora (posición 8 contra 24). Las fotos, tablas y bloques se revisan en celular.
-- El público que más nos encuentra es de España, México y Argentina. Los clics desde Indonesia y Vietnam son de gente que está en el destino.
-- Revisar esta sección cada tres meses con un export nuevo de Search Console.
+- En celular aparecemos mucho más arriba que en computadora (posición 7,4 contra 17,6 al 10/11; 8 contra 24 al 25/9). Las fotos, tablas y bloques se revisan en celular.
+- El público que más nos encuentra es de España (21 clics y 2.808 impresiones en seis meses), Argentina, Colombia y Perú; México, que aparecía al 25/9, ya no está entre los primeros. Los clics desde Indonesia y Vietnam son de gente que está en el destino o nuestros. GA4 muestra también lectores de Uruguay.
+- Las URLs viejas con fecha todavía reciben algún clic, y redirigen bien con un 301 a la actual (verificado el 15/11/2026). Indexadas: unas 57 páginas, estable desde agosto; de las 136 sin indexar, 82 son redirecciones (es lo esperado), 15 dan 404, 14 tienen error de redirección y 14 están descubiertas sin indexar. Falta el detalle de cuáles son.
+- Revisar esta sección cada tres meses con un export nuevo de Search Console. Última revisión: 15/11/2026, con el export del 12/11 (últimos seis meses).
 
 ## Revisión antes de publicar
 - ¿Se nota en los primeros párrafos que estuvimos ahí y cuánto tiempo?
