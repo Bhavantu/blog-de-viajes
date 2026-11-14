@@ -44,7 +44,7 @@ We spent 15 days in Amed, halfway through our trip around Bali, mostly snorkelin
 </div>
 
 
-## Introduction
+## Where is Amed?
 
 For years I dreamed of traveling to Bali, in Indonesia. I wanted the Bali of my dreams, the one with quiet beaches, rituals in sacred temples and a real connection with nature.
 
@@ -52,7 +52,7 @@ Before the trip I watched videos, read reviews and researched everything I neede
 
 Amed is a coastal strip in northeast Bali, Indonesia. It's surrounded by volcanic hills, rice fields and the silhouette of Mount Agung. The name originally belonged to a small fishing village that became popular, and it ended up extending to what is now the name for the whole group of **7 traditional coastal villages**: Amed, Jemeluk, Bunutan, Lipah, Selang, Banyuning and Aas. Together they make up roughly 14 kilometers of coastline; the area is currently in the middle of a tourism boom and is split between the districts of Abang and Kubu.
 
-## **Why is Amed a haven for slow travelers?**
+## **What is Amed like, and why did we stay 15 days?**
 
 For those of us who want to inhabit Bali, being in Amed means staying close to the beach, discovering new bays, reefs and colorful fish every day, and watching sunsets while chatting with fishermen or playing soccer with kids on the sand. It's less about "doing" and more about "being".
 
@@ -150,6 +150,8 @@ It's a group of mountain viewpoints with truly incredible views. The access road
 ### **Pura Lempuyang (The Gates of Heaven)**
 
 It's a complex of beautiful temples made very popular by the famous traveler photos taken between two large classic-style pillars known as "The Gates of Heaven", with the volcano in the background and the "reflection of a lake" that doesn't actually exist; instead, someone holds a small mirror under the phone camera to create the effect (which looks pretty spectacular). The line for that photo can take anywhere from 1 hour 30 minutes to 4 hours. The closer to sunrise you go, the fewer people you'll run into. General admission costs 100,000 IDR (about USD 6), and the mandatory round-trip shuttle bus up to the temple costs another 50,000 IDR (about USD 3).
+
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/heavens-door-mount-agung.webp" alt="The gates of Pura Lempuyang at sunrise, with Mount Agung in the background" width="1920" height="1280" loading="lazy"><span class="img-caption">The gates of Pura Lempuyang at sunrise, with Mount Agung in the background</span></div>
 
 If you keep climbing, you'll find a completely different experience: other temples, far fewer tourists, mist and mountain views. You might also come across local people making their offerings.
 

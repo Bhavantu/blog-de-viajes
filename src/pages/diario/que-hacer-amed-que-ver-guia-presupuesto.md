@@ -44,7 +44,7 @@ Estuvimos 15 días en Amed, a mitad de nuestro viaje por Bali, y nos dedicamos s
 </div>
 
 
-## Introducción
+## ¿Dónde queda Amed?
 
 Hace años tenía el sueño de viajar a Bali, en Indonesia. Quería el Bali de los sueños, ese con playas tranquilas, rituales en templos sagrados y una conexión real con la naturaleza.
 
@@ -52,7 +52,7 @@ Antes de viajar miré videos, leí reseñas e investigué todo lo necesario para
 
 Amed es una franja costera al noreste de Bali, Indonesia. Está rodeada por colinas volcánicas, campos de arroz y la silueta del Monte Agung. El nombre pertenece originalmente a un pequeño pueblo de pescadores que se popularizó y terminó extendiéndose a la denominación que hoy recibe el conjunto de **7 aldeas costeras tradicionales**: Amed, Jemeluk, Bunutan, Lipah, Selang, Banyuning y Aas. Juntas conforman una zona de aproximadamente 14 kilómetros de costa; actualmente en pleno desarrollo turístico, la zona se reparte entre los distritos de Abang y Kubu.
 
-## **¿Por qué Amed es el refugio de los slow travelers?**
+## **¿Cómo es Amed y por qué nos quedamos 15 días?**
 
 Para los que queremos habitar Bali, estar en Amed implica quedarse cerca de la playa, descubrir nuevas bahías, arrecifes y peces de colores cada día, ver puestas de sol charlando con pescadores o jugando al fútbol con niños en la arena. Más que de "hacer", se trata de "estar".
 
@@ -150,6 +150,8 @@ Es un conjunto de miradores ubicados en la montaña con vistas realmente increí
 ### **Pura Lempuyang (Las Puertas del Cielo)**
 
 Es un complejo de templos hermosos muy popularizado por las famosas fotos de viajeros entre dos grandes columnas estilo clásico llamadas "Las puertas al cielo" con el volcán de fondo y el "reflejo del agua de un lago" que no existe; sino que una persona coloca un pequeño espejo debajo de la cámara del celular para crear este efecto (que se ve bastante espectacular). Las filas para sacarse esa foto pueden demorar de 1:30 a 4 horas. Cuanto más cerca del amanecer, menos gente vas a cruzar. La entrada general cuesta 100.000 IDR (unos USD 6) y el shuttle bus obligatorio de ida y vuelta para subir hasta el templo cuesta otros 50.000 IDR (unos USD 3).
+
+<div class="post-img-box img-completo img-centro"><img src="/img/diario/heavens-door-mount-agung.webp" alt="Las puertas de Pura Lempuyang al amanecer, con el Monte Agung de fondo" width="1920" height="1280" loading="lazy"><span class="img-caption">Las puertas de Pura Lempuyang al amanecer, con el Monte Agung de fondo</span></div>
 
 Si seguís subiendo te encontrarás con una experiencia completamente diferente: otros templos, sin tantos turistas, con niebla y vistas a la montaña. Eventualmente también podés cruzarte con personas locales haciendo sus ofrendas.
 
