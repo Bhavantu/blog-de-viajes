@@ -11,13 +11,16 @@
     "preview": "astro preview",
     "astro": "astro",
     "optimizar": "node optimizar.mjs",
-    "fotos": "node scripts/procesar-fotos.mjs"
+    "fotos": "node scripts/procesar-fotos.mjs",
+    "indice": "node scripts/indice-articulos.mjs",
+    "prebuild": "node scripts/indice-articulos.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.3",
     "@tailwindcss/vite": "^4.3.2",
     "astro": "^6.3.1",
     "gray-matter": "^4.0.3",
+    "js-yaml": "^4.1.1",
     "tailwindcss": "^4.3.2"
   },
   "devDependencies": {
