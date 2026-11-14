@@ -67,16 +67,23 @@ Es el post con más chances de generar ingresos pronto: en Search Console está 
 
 Publicado el 13/11 (PR #129, mergeado): bloque "Si tenés poco tiempo" antes de la Introducción, con los tres hoteles de la tabla de costos: Bali Yogi Amed (económico), Valomia Beachfront (medio) y Surya Amed Beach (alto), con los precios que ya tenía el post.
 
-**Para Lore (lo que solo ella sabe)**
+**Para Lore (lo que solo ella sabe)** — actualizado el 15/11/2026. Mandar las respuestas a Santi, que las pasa al post con Claude Code; las fotos van a Drive, en `fotos/amed`.
 - [x] ~~¿Dónde nos quedamos en los 15 días en Amed?~~ Decidido por Santi el 12/11/2026: en este post no se dice en qué alojamiento nos quedamos, así que el bloque va sin "Nos quedamos acá".
-- [ ] Confirmar que los nombres de los hoteles son esos (salieron de los links de Booking).
-- [x] (Hecho el 12/11 en PR #129: se sacó la lista.) La lista de 5 alojamientos en "¿Por qué Amed es el refugio de los slow travelers?" tiene textos genéricos ("Estadía frente al mar spa"): poner el nombre de cada hotel o sacar la lista, porque ahora está el bloque arriba.
-- [ ] Fotos (Santi tiene fotos de snorkel de la GoPro; subirlas a `fotos/amed`): hay 6 en unas 4.600 palabras y un tramo de casi 1.500 palabras sin imagen. Sumar fotos propias de las bahías de snorkel (Jemeluk, Lipah, el naufragio japonés), de los templos y de los volcanes, con `/fotos` (carpeta `amed` en Drive).
+- [ ] Confirmar que los nombres de los hoteles del bloque son esos: Bali Yogi Amed, Valomia Beachfront y Surya Amed Beach (salieron de los links de Booking).
+- [ ] **Cómo llegar a Amed** (hoy el post no lo dice): desde dónde fuimos, en qué (chofer, Grab, bus), cuánto tardamos y cuánto pagamos.
+- [ ] **Cuándo ir**: en qué mes estuvimos y cómo estaban el mar y el clima. Si sabés de la temporada de lluvias por experiencia o por lo que nos contaron, decí cuál de las dos.
+- [ ] Tours de snorkel: ¿hicimos alguno de los dos de GetYourGuide que están en el post (barco por los 3 puntos con el templo submarino, o snorkel con pesca y cocina)? Si sí, contá cómo fue; si no, queda como está.
+- [ ] Confirmar que la foto `heavens-door-mount-agung.webp` (las puertas con el Agung al amanecer, Lore de espaldas) es de **Pura Lempuyang**. Ya está puesta en esa sección, en el PR #140.
+- [ ] Confirmar si la portada (`mount-agung.webp`) es el Agung **visto desde Amed**: si es así, se repite en la sección "Senderismo en volcanes", que hoy no tiene foto.
+- [ ] Fotos de **Tirta Gangga** (las carpas koi, los senderos de piedra), si las hay: subirlas a `fotos/amed`. Es la única sección de templos sin foto.
 - [ ] Secciones "Lo que nos gustó, lo que no y ¿vale la pena?" y "Qué saltearíamos" (si hay algo): faltan y solo las puede escribir Lore.
+
+**De Santi**
+- [ ] Fotos de snorkel de la GoPro (Jemeluk, Lipah, el naufragio japonés) en `fotos/amed`: es el tramo más largo sin foto (1.443 palabras). Con 4 de snorkel, Lempuyang y el Agung, el post llega a 12 fotos, una cada 366 palabras (la mediana del blog es 360).
 
 **Mejoras de texto y estructura (se pueden hacer con Claude)**
 - [x] (Hecho el 12/11 en PR #129.) La experiencia aparece tarde: el post arranca con "Hace años tenía el sueño de viajar a Bali" y los "15 días" recién aparecen en "Circuitos turísticos". Llevar a los primeros párrafos cuánto tiempo estuvimos, dónde nos quedamos y el consejo clave (por ejemplo, el de los cajeros sin efectivo).
-- [ ] Título: no dice "qué ver", que es una de las búsquedas que ya trae. Propuesta: "Qué hacer en Amed, Bali: qué ver, snorkel y presupuesto (15 días) 2026". Lo decide Santi, porque la página ya posiciona.
+- [x] (Hecho el 15/11 en PR #140.) Título: "Qué hacer en Amed, Bali: snorkel, qué ver y presupuesto (15 días) 2026". En el mismo PR: descripción con los 15 días, dos precios en dólares corregidos, la altura del Agung ("unos 3.000 metros"), los encabezados "¿Dónde queda Amed?" y "¿Cómo es Amed y por qué nos quedamos 15 días?" (sin "slow travelers") y la foto de Lempuyang.
 - [ ] (Airalo hecho el 12/11 en PR #129; falta el seguro de viaje.) Afiliados que faltan en "Todo lo que necesitás saber antes de ir": eSIM de Airalo (link de Impact de siempre) y seguro de viaje (cuando haya afiliado). Evaluar un traslado desde Ubud o el aeropuerto.
 - [x] (Hecho el 12/11 en PR #129; los tips de equipo de snorkel quedaron en su lugar con otro título.) Preguntas frecuentes: están como viñetas en dos lugares ("Preguntas frecuentes de snorkel" y "Preguntas frecuentes"). Pasarlas a una sola sección al final, con cada pregunta como H3.
 - [x] (Hecho el 12/11 en PR #129.) Costos: hay 4 secciones H2 seguidas sobre costos y presupuesto. Unirlas en una ("¿Cuánto cuesta Amed? Precios 2026") con las tablas adentro. En la tabla los USD van con punto ("8.36"): pasarlos a coma, como en el resto del blog.
