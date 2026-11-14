@@ -11,7 +11,9 @@
     "preview": "astro preview",
     "astro": "astro",
     "optimizar": "node optimizar.mjs",
-    "fotos": "node scripts/procesar-fotos.mjs"
+    "fotos": "node scripts/procesar-fotos.mjs",
+    "indice": "node scripts/indice-articulos.mjs",
+    "prebuild": "node scripts/indice-articulos.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.3",

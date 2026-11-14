@@ -8,6 +8,7 @@ Blog de viajes de Lore y Santi (blogcito.com). Turismo lento, guías prácticas 
 - @docs/pendientes-blogcito.md
 - docs/mapa-cluster-china.md (mapa del cluster de China: pilar, satélites, slugs y estado de cada artículo)
 - docs/datos-viaje-china.md (hoteles, trenes y fechas del viaje a China, con lo que no cierra entre la planilla y lo publicado)
+- docs/indice-articulos.md (lista liviana de los artículos publicados en ES y EN; se genera sola antes de cada build con scripts/indice-articulos.mjs, no se edita a mano)
 - docs/como-trabajamos.md (dónde vive cada cosa entre el repo, Drive y los proyectos de Lore, y el flujo de un artículo de punta a punta)
 - docs/revision-borradores-lore.md (pendientes de cada borrador y errores que encontramos en revisión, para tachar y revisar antes de cada PR)
 
